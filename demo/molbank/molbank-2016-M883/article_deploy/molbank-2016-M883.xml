@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M883</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M883</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methyl 3-(Quinolin-2-yl)indolizine-1-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Belguedj</surname>
+            <given-names>Roumaissa</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M883" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lamera</surname>
+            <given-names>Esma</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M883" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bouraiou</surname>
+            <given-names>Abdelmalek</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M883" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M883" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bouaziz</surname>
+            <given-names>Zouhair</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M883" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chibani</surname>
+            <given-names>Aissa</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M883" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M883"><label>1</label>Unit&#xE9; de Recherche de Chimie de l&#x2019;Environnement et Mol&#xE9;culaire Structurale, Universit&#xE9; Fr&#xE8;res Mentouri, Constantine 25000, Algeria; <email>racha_belg@hotmail.fr</email> (R.B.); <email>esma.lamera@gmail.com</email> (E.L.); <email>aissachibani@yahoo.fr</email> (A.C.)</aff>
+      <aff id="af2-molbank-2016-M883"><label>2</label>ISPB, EA 4446 Biomole&#x301;cules Cancer et Chimiore&#x301;sistances, SFR Sante&#x301; Lyon-Est CNRS UMS3453-INSERM US7, Faculte&#x301; de Pharmacie, Universite&#x301; Lyon 1, 8 Avenue Rockefeller, F-69373 Lyon Cedex 8, France; <email>zouhair.bouaziz@univ-lyon1.fr</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M883"><label>*</label> Correspondence: <email>bouraiou.abdelmalek@yahoo.fr</email>; Tel.: +213-05-51-599-889; Fax: +213-031-903-558</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>1</issue>
+      <elocation-id>M883</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>12</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>12</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel compound, methyl 3-(quinolin-2-yl)indolizine-1-carboxylate (<bold>2</bold>) has been synthesized by cycloaddition reaction of 1-(quinolin-2-ylmethyl)pyridinium ylide (<bold>1</bold>) with methyl propiolate in presence of sodium hydride in THF. The structure of this compound was established by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and MS data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>quinoline</kwd>
+        <kwd>cycloaddition</kwd>
+        <kwd>indolizine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M883" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Indolizines are aromatic organic compounds containing condensed five and six-membered rings with bridging nitrogen (isomer of indole) [<xref ref-type="bibr" rid="B1-molbank-2016-M883">1</xref>]. Heterocycles, possessing indolizine core have also found numerous biological and pharmacological activities, such as anti-inflammatory [<xref ref-type="bibr" rid="B2-molbank-2016-M883">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M883">3</xref>], antiviral [<xref ref-type="bibr" rid="B4-molbank-2016-M883">4</xref>], aromatase inhibitory [<xref ref-type="bibr" rid="B5-molbank-2016-M883">5</xref>], analgestic [<xref ref-type="bibr" rid="B6-molbank-2016-M883">6</xref>], antitumor [<xref ref-type="bibr" rid="B7-molbank-2016-M883">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M883">8</xref>] activities. Some methods for the synthesis of various types of indolizines and benzoindolizines have been well reviewed in the literature, such as the condensation reactions [<xref ref-type="bibr" rid="B9-molbank-2016-M883">9</xref>], 1,3-dipolar cycloadditions [<xref ref-type="bibr" rid="B10-molbank-2016-M883">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M883">11</xref>], and 1,5-dipolar cyclizations [<xref ref-type="bibr" rid="B12-molbank-2016-M883">12</xref>]. Among these, the 1,3-dipolar cycloaddition of <italic>N</italic>-pyridinium ylide and related heteroaromatic ylides, e.g., quinolinium or isoquinolinium ylides, with various dipolarophiles, is one of the simplest approaches for the construction of indolizine ring [<xref ref-type="bibr" rid="B13-molbank-2016-M883">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2016-M883">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2016-M883">15</xref>].</p>
+      <p>In continuation of our research interest in heteroaromatic <italic>N</italic>-ylide [<xref ref-type="bibr" rid="B16-molbank-2016-M883">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2016-M883">17</xref>], we report here our result concerning the reactivity of 1-((quinol-2-yl)methyl) pyridinium ylide toward methyl propiolate as dipolarophile. Indolizine derivative (<bold>2</bold>) containing a quinoline unit was achieved as a result of this reaction. The position of the ester group on the new heterocyclic ring could not be determined efficiently by NMR spectroscopy. However, it has been established by analogy and by comparison with previous reported compounds [<xref ref-type="bibr" rid="B17-molbank-2016-M883">17</xref>].</p>
+      <fig id="molbank-2016-M883-f001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M883-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>The synthesis of methyl 3-(quinolin-2-yl)indolizine-1-carboxylate (<bold>2</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M883-g001.tif"/>
+      </fig>
+    </sec>
+    <sec id="sec2-molbank-2016-M883">
+      <title>2. Experimental Section</title>
+      <sec id="sec2dot1-molbank-2016-M883">
+        <title>2.1. General Information</title>
+        <p>The starting materials were generally used as received (Acros, Fontenay-sous-Bois, France) without any further purification. THF was freshly distilled from sodium/benzophenone. Melting point was determined on an Electrothermal Digital Melting Points Apparatus IA 9200 (Mentouri University, Constantine, Algeria) and is uncorrected. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on Br&#xFC;ker Avance DPX250 spectrometers (Mentouri university, Constantine, Algeria). The purity of the final compound (greater than 95%) was determined by HPLC/MS on an Agilent 1290 system (Lyon 1 University, Lyon, France) using a Agilent 1290 Infinity ZORBAX Eclipse Plus C18 column (2.1 mm &#xD7; 50 mm, 1.8 &#x3BC;m particle size) with a gradient mobile phase of H<sub>2</sub>O/CH<sub>3</sub>CN (90:10, <italic>v</italic>/<italic>v</italic>) with 0.1% of formic acid to H<sub>2</sub>O/CH<sub>3</sub>CN (10:90, <italic>v</italic>/<italic>v</italic>) with 0.1% of formic acid at a flow rate of 0.5 mL/min, with UV monitoring at the wavelength of 254 nm with a run time of 10 min. 1-((Quinol-2-yl)methyl) pyridinium iodide (<bold>1</bold>) was synthesized following a literature procedure starting from quinaldine and its structure has been confirmed by spectroscopic methods [<xref ref-type="bibr" rid="B18-molbank-2016-M883">18</xref>].</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2016-M883">
+        <title>2.2. Synthesis of Methyl 3-(Quinolin-2-yl)indolizine-1-carboxylate <italic>(<bold>2</bold>)</italic></title>
+        <p>To a suspension of 50 % sodium hydride dispersion in mineral oil (30 mg, 1.25 mmol) placed in 10 mL of tetrahydrofurane, was added, at 0 &#xB0;C, 348 mg (1 mmol) of 1-((quinol-2-yl)methyl) pyridinium iodide (<bold>1</bold>) and 126 mg (1.5 mmol) of methyl propiolate. The ice bath was then removed, and the contents were allowed to cool to room temperature. The reaction mixture was kept, under stirring at room temperature, for 24 h (the progress of the reaction was monitored by TLC). Water was added and the residue was extracted threefold with CH<sub>2</sub>Cl<sub>2</sub> (2 &#xD7; 20 mL). The organic layers were separated and dried over anhydrous MgSO<sub>4</sub>. The solvent was removed and the residue was purified by column chromatography on silica gel, using cyclohexane/AcOEt (2/1) as eluent.</p>
+        <p>Yellow solid; Yield: 40%; m.p. = 164 &#xB0;C. MS (ES-API): <italic>m</italic>/<italic>z</italic> [M + H] = 303.1. Anal. calcd. for C<sub>19</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub>. 0.09 CHCl<sub>3</sub>: C 73.24, H 4.54, N 8.95, found: C 73.20, H 4.11, N 8.85. IR(KBr) &#x3BD; cm<sup>&#x2212;1</sup> : 3838, 2360, 1685, 1211, 740. <sup>1</sup>H-NMR &#x3B4; (ppm) (250 MHz, CDCl<sub>3</sub>): 10.63 (d, 1H, <italic>J</italic> = 7.2 Hz), 8.35 (dt, 1H, <italic>J</italic> = 9.0 Hz, <italic>J</italic> = 1.2 Hz), 8.10 (d, 2H, <italic>J</italic> = 8.7 Hz), 7.95 (s, 1H), 7.90&#x2013;7.68 (m, 3H), 7.49 (td, 1H, <italic>J</italic> = 8.0 Hz, <italic>J</italic> = 1.1 Hz), 7.40&#x2013;7.19 (m, 1H), 6.98 (td, 1H, <italic>J</italic> = 7.1 Hz, <italic>J</italic> = 1.4 Hz), 3.97 (s, 3H, COOMe). <sup>13</sup>C-NMR &#x3B4; (ppm) (62.9 MHz, CDCl<sub>3</sub>): 165.2 (C=O), 151.3, 147.3, 138.6, 136.2, 129.8, 128.9, 128.8, 127.6, 126.2, 125.9, 124.5, 123.6, 119.6, 119.5, 119.4, 113.6, 104.6 and 51.2 (CH<sub>3</sub>). (see supplementary material for more details, Figures S1&#x2013;S4).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+		  <app id="app1-molbank-2016-M883">
+			   <title>Supplementary Materials</title>
+			  <p>The molfiles and the other supplementary materials can be found at <uri>http://www.mdpi.com/1422-8599/2016/1/M883</uri>.</p>    
+			</app>
+		  </app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful to the Minist&#xE8;re de l&#x2019;Enseignement Sup&#xE9;rieur et de la Recherche Scientifique, Alg&#xE9;rie (MESRS) for financial support.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Roumaissa Belguedj and Esma Lemarahave contributed to the experimental part of this work. Abdelmalek Bouraiou, Zouhair Bouaziz and Aissa Chibani contributed to the Experimental characterization and the preparation of the manuscript. All authors read and approve the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M883">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Georgescu</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Dumitrascu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Georgescu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Draghici</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Barbu</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Novel Approach for the Synthesis of 5-Pyridylindolizine Derivatives via 2-(2-Pyridyl)pyridinium Ylides</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2013</year>
+          <volume>50</volume>
+          <fpage>78</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.997</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M883">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malonne</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hanuise</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fontaine</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Topical Anti-inflammatory Activity of New 2-(1-Indolizinyl)propionic Acid Derivatives in Mice</article-title>
+          <source>Pharm. Pharmacol. Commun.</source>
+          <year>1998</year>
+          <volume>4</volume>
+          <fpage>241</fpage>
+          <lpage>242</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M883">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitadokoro</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hagishita</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ohtani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Miki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal Structure of Human Secretory Phospholipase A<sub>2</sub>-IIA Complex with the Potent Indolizine Inhibitor 120&#x2013;1032</article-title>
+          <source>J. Biochem.</source>
+          <year>1998</year>
+          <volume>123</volume>
+          <fpage>619</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.jbchem.a021982</pub-id>
+          <pub-id pub-id-type="pmid">9538252</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M883">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolle</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Andrei</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Snoeck</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lommel</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Otto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bousseau</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Clercq</surname>
+              <given-names>E.D.</given-names>
+            </name>
+            <name>
+              <surname>Naesens</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potent, selective and cell-mediated inhibition of human herpesvirus 6 at an early stage of viral replication by the non-nucleoside compound CMV423</article-title>
+          <source>Biochem. Pharmacol.</source>
+          <year>2004</year>
+          <volume>67</volume>
+          <fpage>325</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bcp.2003.08.042</pub-id>
+          <pub-id pub-id-type="pmid">14698045</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M883">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sonnet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Dallemagne</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Guillon</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Engueard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Stiebing</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tangue</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bureau</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Rault</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Auvray</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Moslemi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>New aromatase inhibitors. Synthesis and biological activity of aryl-substituted pyrrolizine and indolizine derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2000</year>
+          <volume>8</volume>
+          <fpage>945</fpage>
+          <lpage>955</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(00)00024-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M883">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Campagna</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Carotti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Casini</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Macripo</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of New Heterocyclic Ring Systems: Indeno[2,1-<italic>b</italic>]benzo[<italic>g</italic>]indolizine and indeno[1&#x2032;,2&#x2032;:5,4]pyrrolo[2,1-<italic>a</italic>]phthalazine</article-title>
+          <source>Heterocycles</source>
+          <year>1990</year>
+          <volume>31</volume>
+          <fpage>97</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-89-5149</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M883">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bols</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lillelund</surname>
+              <given-names>V.H.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Developments of Transition-State Analogue Glycosidase Inhibitors of Non-Natural Product Origin</article-title>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>515</fpage>
+          <lpage>553</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M883">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asano</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nash</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Molyneux</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Fleet</surname>
+              <given-names>G.W.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sugar-mimic glycosidase inhibitors: natural occurrence, biological activity and prospects for therapeutic application</article-title>
+          <source>Tetrahedron: Asymmetry</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>1645</fpage>
+          <lpage>1680</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0957-4166(00)00113-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M883">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shipman</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indolizines in science of synthesis</article-title>
+          <source>In Fused Five-Membered Hetarenes with One Heteroatom</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Thomas</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Georg Thieme Verlag</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>2000</year>
+          <volume>Volume 10</volume>
+          <fpage>745</fpage>
+          <lpage>787</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M883">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agejas</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cuadro</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Pastor</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vaquero</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Nav&#xED;o</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Alvarez-Builla</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>N</italic>-(Pyridylmethyl)azinium Salts: Precursors of Pyridyl-stabilised Azinium <italic>N</italic>-Ylides</article-title>
+          <source>Tetrahedron</source>
+          <year>1995</year>
+          <volume>51</volume>
+          <fpage>12425</fpage>
+          <lpage>12438</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4020(95)00798-D</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M883">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jaung</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,3-Dipolar Cycloaddition Reactions of Pyridinium Azomethine Ylides Containing 5,6-Dicyanopyrazines</article-title>
+          <source>Bull. Korean Chem. Soc.</source>
+          <year>2003</year>
+          <volume>24</volume>
+          <fpage>1565</fpage>
+          <lpage>1566</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200417159</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M883">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mao</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-pot multicomponent synthesis of polysubstituted indolizines</article-title>
+          <source>Tetrahedron</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>85</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2011.10.083</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M883">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boeklheide</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Farenholtz</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Formation of Pyrrocolines by the Reaction of Dimethyl Acetylenedicarboxylate with Heterocyclic Zwitterions</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1961</year>
+          <volume>83</volume>
+          <fpage>458</fpage>
+          <lpage>462</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01463a047</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M883">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hendrick</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>W.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyridinium ylids in synthesis. III. Synthesis of indolizines</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>1967</year>
+          <volume>20</volume>
+          <fpage>2467</fpage>
+          <lpage>2477</lpage>
+          <pub-id pub-id-type="doi">10.1071/CH9672467</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M883">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padwa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Austin</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Precedo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zhi</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cycloaddition reactions of pyridinium and related azomethine ylides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1993</year>
+          <volume>58</volume>
+          <fpage>1144</fpage>
+          <lpage>1150</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00057a029</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M883">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belguedj</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bouraiou</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bouacida</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Merazig</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Chibani</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyridinium ylides in the one-pot synthesis of a new quinoline/indolizine hybrid</article-title>
+          <source>Z. Naturforsch.</source>
+          <year>2015</year>
+          <volume>70</volume>
+          <fpage>885</fpage>
+          <lpage>887</lpage>
+          <pub-id pub-id-type="doi">10.1515/znb-2015-0118</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M883">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belguedj</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bouacida</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Merazig</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Belfaitah</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bouraiou</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-(2&#x2032;-Benzimidazolylmethyl)-pyridinium ylide in the one-pot synthesis of indolizine and benzimidazo[1,2-a]pyridine derivatives</article-title>
+          <source>Z. Naturforsch.</source>
+          <year>2015</year>
+          <volume>70</volume>
+          <fpage>555</fpage>
+          <lpage>561</lpage>
+          <pub-id pub-id-type="doi">10.1515/znb-2015-0016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M883">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albright</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Shepherd</surname>
+              <given-names>R.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reactions of 1,2-Dimethyl-5-nitroimidazole, novel methods of conversion of the 2-Methyl group to a nitrile</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1973</year>
+          <volume>10</volume>
+          <fpage>899</fpage>
+          <lpage>907</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570100603</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

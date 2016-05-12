@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M884</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M884</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>9-(4-Hydroxybutyl)-3,3,6,6-tetramethyl-3,4,5,6,7,9-hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Navarro</surname>
+            <given-names>Camilo A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sierra</surname>
+            <given-names>Cesar</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ochoa-Puentes</surname>
+            <given-names>Cristian</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M884" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+        <aff id="af1-molbank-2016-M884">Grupo de Investigaci&#xF3;n en Macromol&#xE9;culas, Departamento de Qu&#xED;mica, Universidad Nacional de Colombia&#x2013;Sede Bogot&#xE1;, Carrera 45 # 26-85, A.A. 5997, Bogota&#x301;, Colombia; <email>canavarrod@unal.edu.co</email> (C.A.N.); <email>casierraa@unal.edu.co</email> (C.S.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M884"><label>*</label>Correspondence: <email>cochoapu@unal.edu.co</email>; Tel.: +57-1-3165000; Fax: +57-1-3165220</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>01</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>1</issue>
+      <elocation-id>M884</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>12</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>01</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound 9-(4-hydroxybutyl)-3,3,6,6-tetramethyl-3,4,5,6,7,9-hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-dione was synthesized in 72% yield through a simple, convenient and environmentally friendly one-pot reaction between dimedone and 3,4-dihydro-2<italic>H</italic>-pyran in aqueous citric acid. Additionally, a plausible reaction mechanism for the formation of the target xanthene is proposed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>dimedone</kwd>
+        <kwd>Knoevenagel condensation</kwd>
+        <kwd>Michael addition</kwd>
+        <kwd>citric acid</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M884" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Xanthenes are a very interesting class of oxygen-containing heterocycles with a large number of synthetic and naturally occurring derivatives [<xref ref-type="bibr" rid="B1-molbank-2016-M884">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M884">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M884">3</xref>] that exhibit diverse applications in the field of medicinal chemistry [<xref ref-type="bibr" rid="B4-molbank-2016-M884">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M884">5</xref>] and materials science [<xref ref-type="bibr" rid="B6-molbank-2016-M884">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M884">7</xref>]. In particular, the hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-diones have shown potential as antioxidant, [<xref ref-type="bibr" rid="B8-molbank-2016-M884">8</xref>] anticancer [<xref ref-type="bibr" rid="B9-molbank-2016-M884">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M884">10</xref>] and leishmanicidal agents [<xref ref-type="bibr" rid="B11-molbank-2016-M884">11</xref>].</p>
+      <p>The synthesis of hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-diones is commonly performed by the condensation of the appropriate aldehyde and dimedone or 1,3-cyclohexanedione under verious various conditions which include the use of alternative solvents [<xref ref-type="bibr" rid="B12-molbank-2016-M884">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M884">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2016-M884">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2016-M884">15</xref>], homogeneous [<xref ref-type="bibr" rid="B16-molbank-2016-M884">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2016-M884">17</xref>], and heterogeneous [<xref ref-type="bibr" rid="B18-molbank-2016-M884">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2016-M884">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2016-M884">20</xref>] catalysts, and ultrasound- [<xref ref-type="bibr" rid="B21-molbank-2016-M884">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2016-M884">22</xref>] or microwave-assisted [<xref ref-type="bibr" rid="B23-molbank-2016-M884">23</xref>] synthesis.</p>
+      <p>In this paper we describe the synthesis of 9-(4-hydroxybutyl)-3,3,6,6-tetramethyl-3,4,5,6,7,9-hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-dione, a novel hexahydroxanthene, using an environ-mentally friendly one-pot reaction.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M884" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>For the preparation of the target xanthene <bold>3</bold>, one equivalent of 3,4-dihydro-2<italic>H</italic>-pyran <bold>2</bold> was reacted with two equivalents of dimedone <bold>1</bold> in 0.3 M citric acid in a closed vessel at 90 &#xB0;C during 8 h (<xref ref-type="scheme" rid="molbank-2016-M884-f001">Scheme 1</xref>). After reaction completion (monitoring by thin layer chromatography) and purification by recrystallization, the desired title compound <bold>3</bold> was isolated in 72% yield.</p>
+      <p>The title compound was characterized by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and elemental analysis. As expected, the IR spectrum shows the OH band at 3390 cm<sup>&#x2212;1</sup> and a strong absorption band at 1664 and 1643 cm<sup>&#x2013;1</sup> for the C=O stretching vibration. The proton NMR spectrum showed the following signals: singlet at 1.10 ppm assigned to the CH<sub>3</sub> groups, three multiplets centered at 1.15, 1.48 and 1.55 ppm assigned to three CH<sub>2</sub> groups of the alkyl chain, a broad singlet at 1.60 ppm assigned to the OH proton, two doublets at 2.24 and 2.30 ppm assigned to two CH<sub>2</sub> groups of the xanthene core, a singlet at 2.37 ppm assigned to two CH<sub>2</sub> groups of the xanthene core and two triplets at 3.55 and 3.78 ppm corresponding to CH<sub>2</sub>OH and CH groups respectively.</p>
+      <fig id="molbank-2016-M884-f001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M884-f001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 9-(4-hydroxybutyl)-3,3,6,6-tetramethyl-3,4,5,6,7,9-hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-dione <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M884-g001.tif"/>
+      </fig>
+      <p>A plausible mechanism for the formation of compound <bold>3</bold> is given in <xref ref-type="scheme" rid="molbank-2016-M884-f002">Scheme 2</xref>. First, the hydrolysis in situ of the cyclic enol ether takes place yielding the cyclic hemiacetal <bold>4</bold> [<xref ref-type="bibr" rid="B24-molbank-2016-M884">24</xref>] which is in equilibrium with its ring-opened form 5-hydroxypentanal <bold>5</bold> [<xref ref-type="bibr" rid="B25-molbank-2016-M884">25</xref>]. This aldehyde <bold>5</bold> forms the Knoevenagel adduct <bold>6</bold> by the reaction of the enolic form of dimedone promoted by citric acid. Then <bold>6</bold> may further undergo Michael addition with another molecule of dimedone, in its enol form, to yield intermediate <bold>7</bold>, which after an intramolecular cyclization and dehydration gives compound <bold>3</bold>.</p>
+      <fig id="molbank-2016-M884-f002" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M884-f002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Plausible mechanism for the formation of the new hexahydro-1<italic>H</italic>-xanthene-1,8(2<italic>H</italic>)-dione <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M884-g002.tif"/>
+      </fig>
+    </sec>
+    <sec id="sec3-molbank-2016-M884">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M884">
+        <title>3.1. General Information</title>
+        <p>Melting points, reported without correction, were measured using a Stuart SMP10 apparatus (Stuart, Staffordshire, UK). The FT-IR spectra were obtained with a Shimadzu IR prestige 21 spectrophotometer (Columbia, MD, USA). <sup>1</sup>H and <sup>13</sup>C-NMR spectra were recorded with a Bruker AVANCE III system (Billerica, MA, USA) operating at 400 MHz, using residual (&#x3B4;<sub>H</sub> 7.26) and deuterated solvent (&#x3B4;<sub>C</sub> 77.0) peaks of CDCl<sub>3</sub> as reference standards. The elemental analysis was performed on a Thermo Scientific Flash 2000 CHNS/O analyzer (Waltham, MA, USA). Reagents and solvents were obtained from commercial sources and used without further purification. 0.3 M citric acid was prepared using distilled and deionized water.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M884">
+        <title>3.2. Synthesis of 9-(4-Hydroxybutyl)-3,3,6,6-tetramethyl-3,4,5,6,7,9-hexahydro-1H-xanthene-1,8(2H)-dione</title>
+        <p>A mixture of dimedone <bold>1</bold> (80.9 mg, 0.58 mmol) and dihydro-2<italic>H</italic>-pyran <bold>2</bold> (26.3 &#x3BC;L, 0.29 mmol) in 2 mL of 0.3 M citric acid was placed in a 10 mL glass vial. The vial was sealed and stirred at 90 &#xB0;C for 8 h. After cooling the mixture the product was recovered by filtration. The solid was finally purified by recrystallization from a mixture ethanol/water (1/1). The target compound <bold>3</bold> (72.0 mg, 72%) was recovered as white crystals, m.p: 125&#x2013;127 &#xB0;C. FT-IR (ATR): 3514, 3390, 2958, 2933, 1664, 1643, 1616, 1348, 1192, 1136, 1064, 1001 cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;(ppm): 1.10 (s, 12H, 4CH<sub>3</sub>), 1.12&#x2013;1.18 (m, 2H, CH<sub>2</sub> alkyl), 1.46&#x2013;1.51 (m, 2H, CH<sub>2</sub> alkyl), 1.51&#x2013;1.57 (m, 2H, CH<sub>2</sub> alkyl), 1.60 (bs, 1H, OH), 2.24 (d, 2H, <italic>J</italic> = 16.2 Hz, CH<sub>2</sub> xanthene), 2.30 (d, 2H, <italic>J</italic> = 16.2 Hz, CH<sub>2</sub> xanthene), 2.37 (s, 4H, 2CH<sub>2</sub> xanthene), 3.55 (t, 2H, <italic>J</italic> = 6.5 Hz, CH<sub>2</sub>OH), 3.78 (t, 1H, <italic>J</italic> = 4.5 Hz, CH). <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;(ppm): 21.5, 25.2, 27.3, 29.4, 32.0, 32.6, 33.6, 40.9, 50.9, 62.7, 114.9, 164.0, 197.2. Anal. calcd for C<sub>21</sub>H<sub>30</sub>O<sub>4</sub>: C, 72.80; H, 8.73. Found: C, 72.53; H, 8.68.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+<app id="app1-molbank-2016-M884">
+      <title>Supplementary Materials</title>
+      <p>Copies of the IR, <sup>1</sup>H, <sup>13</sup>C-NMR spectra for compound <bold>3</bold> are available in the supplementary information. They and the molfiles can be found at <uri>http://www.mdpi.com/1422-8599/2016/1/M884</uri>.</p>
+    </app>
+  </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors wish to thank the Universidad Nacional de Colombia for financial support.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The authors C.A.N., C.S., C.O.-P. designed, accomplished research and wrote the paper together. Finally, all authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M884">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casillas</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Townsend</surname>
+              <given-names>C.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Total synthesis of <italic>O</italic>-methylsterigmatocystin using <italic>N</italic>-alkylnitrilium salts and carbonyl&#x2212;alkene interconversion in a new xanthone synthesis</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1999</year>
+          <volume>64</volume>
+          <fpage>4050</fpage>
+          <lpage>4059</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo990099w</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M884">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piettre</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Chevenier</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Massardier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gimbert</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Greene</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic approach to hypoxyxylerone, novel inhibitor of topoisomerase I</article-title>
+          <source>Org. Lett.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>3139</fpage>
+          <lpage>3142</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol026454d</pub-id>
+          <pub-id pub-id-type="pmid">12201736</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M884">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fukuta</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ota</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kamiya</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Xanthone natural products via N-heterocyclic carbene catalysis: Total synthesis of atroviridin</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2011</year>
+          <volume>76</volume>
+          <fpage>3960</fpage>
+          <lpage>3967</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo200303c</pub-id>
+          <pub-id pub-id-type="pmid">21469707</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M884">
+        <label>4.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lambert</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Merrett</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Parkes</surname>
+              <given-names>K.E.B.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>G.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrimidine Nucleosides</article-title>
+          <source>PCT Int. Appl.</source>
+		  <patent>WO 9706178</patent>
+		  <day>24</day>
+		  <month>July</month>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M884">
+        <label>5.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hideo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Teruomi</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-Benzopyrano[2,3-<italic>b</italic>]xanthene Derivative and Its Preparation</article-title>
+          <source>Jpn. Pat.</source>
+		  <patent>56005480</patent>
+		  <day>20</day>
+		  <month>January</month>
+          <year>1981</year>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M884">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Renno</surname>
+              <given-names>R.Z.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photosensitizer delivery for photodynamic therapy of choroidal neovascularization</article-title>
+          <source>Adv. Drug Deliv. Rev.</source>
+          <year>2001</year>
+          <volume>52</volume>
+          <fpage>63</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-409X(01)00195-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M884">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>D.-K.</given-names>
+            </name>
+            <name>
+              <surname>Cha</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Performance and photostability of xanthene and pyrromethene laser dyes in sol&#x2013;gel phases</article-title>
+          <source>J. Phys. D: Appl. Phys.</source>
+          <year>2002</year>
+          <volume>35</volume>
+          <fpage>1473</fpage>
+          <lpage>1476</lpage>
+          <pub-id pub-id-type="doi">10.1088/0022-3727/35/13/303</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M884">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iniyavan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sarveswari</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Vijayakumar</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antioxidant studies of novel bi-, tri-, and tetrapodal 9-aryl-1,8-dioxo-octahydroxanthenes</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2015</year>
+          <volume>56</volume>
+          <fpage>1401</fpage>
+          <lpage>1406</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2015.01.162</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M884">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>G.S.S.</given-names>
+            </name>
+            <name>
+              <surname>Prabhu</surname>
+              <given-names>A.A.M.</given-names>
+            </name>
+            <name>
+              <surname>Seethalashmi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Bhuvanesh</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kumaresan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Self-catalyzed syntheses, structural characterization, dpph radical scavenging-, cytotoxicity-, and dft studies of phenoxyaliphatic acids of 1,8-dioxo-octahydroxanthene derivatives</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>2014</year>
+          <volume>1059</volume>
+          <fpage>51</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2013.11.016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M884">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mulakayala</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Murthy</surname>
+              <given-names>P.V.</given-names>
+            </name>
+            <name>
+              <surname>Rambabu</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Aeluri</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Adepu</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Krishna</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Prasad</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Chaitanya</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Catalysis by molecular iodine: A rapid synthesis of 1,8-dioxo-octahydroxanthenes and their evaluation as potential anticancer agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>2186</fpage>
+          <lpage>2191</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2012.01.126</pub-id>
+          <pub-id pub-id-type="pmid">22365759</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M884">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nisar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Badshah</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Qayum</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amberlite ir-120h as a recyclable catalyst for the synthesis of 1,8-dioxo-octahydroxanthene analogs and their evaluation as potential leishmanicidal agents</article-title>
+          <source>RSC Adv.</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <fpage>21753</fpage>
+          <lpage>21758</lpage>
+          <pub-id pub-id-type="doi">10.1039/c3ra43506g</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M884">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ulusal</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>F&#x131;nd&#x131;kk&#x131;ran</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Demirkol</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Akba&#x15F;lar</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Giray</surname>
+              <given-names>E.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Supercritical diethylether: A novel solvent for the synthesis of aryl-3,4,5,6,7,9-hexahydroxanthene-1,8-diones</article-title>
+          <source>J. Supercrit. Fluids</source>
+          <year>2015</year>
+          <volume>105</volume>
+          <fpage>146</fpage>
+          <lpage>150</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.supflu.2014.12.020</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M884">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycerol as a promoting medium for electrophilic activation of aldehydes: Catalyst-free synthesis of di(indolyl)methanes, xanthene-1,8(2h)-diones and 1-oxo-hexahydroxanthenes</article-title>
+          <source>Green Chem.</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <fpage>1767</fpage>
+          <lpage>1773</lpage>
+          <pub-id pub-id-type="doi">10.1039/b916015a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M884">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dabiri</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baghbanzadeh</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Arzroomchilar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-Methylimidazolium triflouroacetate ([hmim]tfa): An efficient reusable acidic ionic liquid for the synthesis of 1,8-dioxo-octahydroxanthenes and 1,8-dioxo-decahydroacridines</article-title>
+          <source>Catal. Commun.</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>939</fpage>
+          <lpage>942</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.catcom.2007.09.023</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M884">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gluconic acid aqueous solution: A task-specific bio-based solvent for ring-opening reactions of dihydropyrans</article-title>
+          <source>Tetrahedron</source>
+          <year>2013</year>
+          <volume>69</volume>
+          <fpage>1057</fpage>
+          <lpage>1064</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2012.11.076</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M884">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bigdeli</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Clean synthesis of 1,8-dioxooctahydroxanthenes promoted by dabco-bromine in aqueous media</article-title>
+          <source>Chin. Chem. Lett.</source>
+          <year>2010</year>
+          <volume>21</volume>
+          <fpage>1180</fpage>
+          <lpage>1182</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cclet.2010.05.018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M884">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Das</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kashanna</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Jangili</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient organocatalytic synthesis of 1,8-dioxo-octahydroxanthenes</article-title>
+          <source>Synth. Commun.</source>
+          <year>2012</year>
+          <volume>42</volume>
+          <fpage>2876</fpage>
+          <lpage>2884</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397911.2011.571804</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M884">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Das</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Thirupathi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mahender</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>V.S.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>Y.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amberlyst-15: An efficient reusable heterogeneous catalyst for the synthesis of 1,8-dioxo-octahydroxanthenes and 1,8-dioxo-decahydroacridines</article-title>
+          <source>J. Mol. Catal. A: Chem.</source>
+          <year>2006</year>
+          <volume>247</volume>
+          <fpage>233</fpage>
+          <lpage>239</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molcata.2005.11.048</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2016-M884">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Javid</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Heravi</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Bamoharram</surname>
+              <given-names>F.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-pot synthesis of 1,8-dioxo-octahydroxanthenes utilizing silica-supported preyssler nano particles as novel and efficient reusable heterogeneous acidic catalyst</article-title>
+          <source>E-J. Chem.</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <fpage>910</fpage>
+          <lpage>916</lpage>
+          <pub-id pub-id-type="doi">10.1155/2011/980242</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2016-M884">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niknam</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Panahi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Saberi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mohagheghnejad</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Silica-bonded <italic>S</italic>-sulfonic acid as recyclable catalyst for the synthesis of 1,8-dioxo-decahydroacridines and 1,8-dioxo-octahydroxanthenes</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2010</year>
+          <volume>47</volume>
+          <fpage>292</fpage>
+          <lpage>300</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2016-M884">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadhania</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Raval</surname>
+              <given-names>D.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Catalyst-free sonochemical synthesis of 1,8-dioxo-octahydroxanthene derivatives in carboxy functionalized ionic liquid</article-title>
+          <source>C. R. Chim.</source>
+          <year>2012</year>
+          <volume>15</volume>
+          <fpage>378</fpage>
+          <lpage>383</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.crci.2012.01.006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2016-M884">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rostamizadeh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Amani</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Mahdavinia</surname>
+              <given-names>G.H.</given-names>
+            </name>
+            <name>
+              <surname>Amiri</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sepehrian</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ultrasound promoted rapid and green synthesis of 1,8-dioxo-octahydroxanthenes derivatives using nanosized MCM-41-SO<sub>3</sub>H as a nanoreactor, nanocatalyst in aqueous media</article-title>
+          <source>Ultrason. Sonochem.</source>
+          <year>2010</year>
+          <volume>17</volume>
+          <fpage>306</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ultsonch.2009.10.004</pub-id>
+          <pub-id pub-id-type="pmid">19913449</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2016-M884">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Miao</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The reaction of aromatic dialdehyde with dimedone under microwave irradiation</article-title>
+          <source>Synth. Commun.</source>
+          <year>2004</year>
+          <volume>34</volume>
+          <fpage>2617</fpage>
+          <lpage>2622</lpage>
+          <pub-id pub-id-type="doi">10.1081/SCC-200025623</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2016-M884">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.-J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Domino reaction of anilines with 3,4-dihydro-2<italic>H</italic>-pyran catalyzed by cation-exchange resin in water: An efficient synthesis of 1,2,3,4-tetrahydroquinoline derivatives</article-title>
+          <source>Green Chem</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>627</fpage>
+          <lpage>629</lpage>
+          <pub-id pub-id-type="doi">10.1039/b304431a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2016-M884">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.-J.</given-names>
+            </name>
+          </person-group>
+          <article-title>InCl<sub>3</sub>-catalyzed reaction of aromatic amines with cyclic hemiacetals in water: Facile synthesis 1,2,3,4-tetrahydroquinoline derivatives</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>153</fpage>
+          <lpage>156</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(02)02450-4</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

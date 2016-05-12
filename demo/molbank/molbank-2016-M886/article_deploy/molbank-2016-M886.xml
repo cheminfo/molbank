@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M886</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M886</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Tris(3,7-dihydroxyflavonolate-&#x3BA;O<sup>3</sup>,O<sup>4</sup>)chromium(III) Complex</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alexiou</surname>
+            <given-names>Anamaria D. P.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M886" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M886" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Denny D. E.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M886" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Romoff</surname>
+            <given-names>Paulete</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M886" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ferreira</surname>
+            <given-names>Marcelo J. P.</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M886" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M886"><label>1</label>Escola de Engenharia, Universidade Presbiteriana Mackenzie, Rua da Consola&#xE7;&#xE3;o 930, S&#xE3;o Paulo, SP, CEP 01302-907, Brazil; <email>dennydom@gmail.com</email> (D.D.E.S.); <email>paulete.romoff@mackenzie.br</email> (P.R.)</aff>
+      <aff id="af2-molbank-2016-M886"><label>2</label>Departamento de Bot&#xE2;nica, Instituto de Bioci&#xEA;ncias, Universidade de S&#xE3;o Paulo, Rua do Mat&#xE3;o 277, S&#xE3;o Paulo, SP, CEP 05508-090, Brazil; <email>marcelopena@ib.usp.br</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M886"><label>*</label>Correspondence: <email>anamaria.alexiou@mackenzie.br</email>; Tel.: +55-11-2114-8145</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>01</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>1</issue>
+      <elocation-id>M886</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>01</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The complex [Cr(3,7diHF)<sub>3</sub>]&#xB7;3H<sub>2</sub>O (3,7diHF is the monoanion of flavonoid 3,7-dihydroxyflavone) was synthetized and characterized by mass spectrometry, thermogravimetry, UV-Vis and FTIR spectroscopies. The data indicated that the coordination of the chromium(III) ion to the flavonoid increased its thermal stability.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>3,7-dihydroxyflavone</kwd>
+        <kwd>flavonoid</kwd>
+        <kwd>chromium(III)</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M886" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Flavonoids are polyphenolic compounds known for their antioxidant properties. This characteristic depends on the presence of hydrogen-/electron-donating groups, their ability to delocalize the unpaired electron and their potential to coordinated metals [<xref ref-type="bibr" rid="B1-molbank-2016-M886">1</xref>]. Complexes metal-flavonoids show pharmacological properties, such as antitumoral, anticoagulant and anti-inflammatory [<xref ref-type="bibr" rid="B2-molbank-2016-M886">2</xref>] and antioxidant activities [<xref ref-type="bibr" rid="B3-molbank-2016-M886">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M886">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M886">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M886">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M886">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M886">8</xref>]. In this work the synthesis and characterization of a new complex containing the flavonoid 3,7-dihydroxyflavone and the chromium(III) ion is presented.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M886" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>The molecular ion peak at <italic>m</italic>/<italic>z</italic> 809.9 which corresponds to the fragment [M&#x2212;2H]<sup>+</sup> was observed in the mass spectrum of the complex [Cr(C<sub>15</sub>H<sub>9</sub>O<sub>4</sub>)<sub>3</sub>] (<xref ref-type="fig" rid="molbank-2016-M886-f001">Figure 1</xref>).</p>
+      <fig id="molbank-2016-M886-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Mass spectrum of the complex [Cr(C<sub>15</sub>H<sub>9</sub>O<sub>4</sub>)<sub>3</sub>] in hydroalcoholic solution (90MeOH:10H<sub>2</sub>O).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M886-g001.tif"/>
+      </fig>
+      <p>The thermogravimetric curve of the 3,7-dihydroxyflavone (<xref ref-type="fig" rid="molbank-2016-M886-f002">Figure 2</xref>) showed a mass loss of 6.2% (calculated 6.6%) in the region of 22 to 197 &#xB0;C due to loss of one water molecule. In the region of 204 &#xB0;C to 355 &#xB0;C the decomposition process of flavonoid occurred with a mass loss of 87%. Contrarily, the hydration water molecules were lost from the complex between 22 and 366&#xB0;C (mass loss calculated and observed equal 6.2%). The loss of ligands occurred one by one in three phases: the first one from 366 to 482 &#xB0;C (mass loss observed 29.4%, calculated 29.2%), and the second one from 482 to 717 &#xB0;C (mass loss observed 29.1%). The third dissociation process started at 717 &#xB0;C, but it apparently only completed at a temperature higher than 900 &#xB0;C, therefore outside the measurement region. The data indicated that the coordination process increased the stability of the flavonoid, as decomposition of the complex by ligand loss is only initiated at around 400 &#xB0;C, whereas the decomposition of free flavonoid is initiated at around 200 &#xB0;C.</p>
+      <fig id="molbank-2016-M886-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Thermogravimetric curves of 3,7-dihydroxyflavone (<bold>a</bold>) and the complex [Cr(C<sub>15</sub>H<sub>9</sub>O<sub>4</sub>)<sub>3</sub>]&#xB7;3H<sub>2</sub>O (<bold>b</bold>) in N<sub>2</sub> flow.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M886-g002.tif"/>
+      </fig>
+      <p>The electronic spectrum of 3,7-dihydroxyflavone (<xref ref-type="fig" rid="molbank-2016-M886-f003">Figure 3</xref>a) presented two bands at 341 nm and 260 nm assigned respectively to the cinnamoyl system (B + C rings) and benzoyl moiety (A + C ring) (band II) [<xref ref-type="bibr" rid="B9-molbank-2016-M886">9</xref>]. After complexation the bands shifted to 432 and 291 nm (<xref ref-type="fig" rid="molbank-2016-M886-f003">Figure 3</xref>b) indicating that the coordination occurs through the 3-hydroxy/4-keto groups, generating a complex with octahedral geometry (<xref ref-type="fig" rid="molbank-2016-M886-f004">Figure 4</xref>). Similar structures are described in the literature [<xref ref-type="bibr" rid="B10-molbank-2016-M886">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M886">11</xref>]. Another band is observed in the complex at 613 nm (<xref ref-type="fig" rid="molbank-2016-M886-f003">Figure 3</xref>c) attributed to a ligand field transition of the chromium(III) ion.</p>
+      <p>The IR spectrum of 3,7-dihydroxyflavone (<xref ref-type="fig" rid="molbank-2016-M886-f005">Figure 5</xref>) showed a band at 1627 cm<sup>&#x2212;1</sup> that was attributed to the carbonyl stretching [<xref ref-type="bibr" rid="B12-molbank-2016-M886">12</xref>]. This band shifted to 1621 cm<sup>&#x2212;1</sup> in the complex, indicating that the coordination to the chromium occurred with a slight weakening of the C=O bond. The &#x3C5;(Cr-O) at 557 cm<sup>&#x2212;1</sup> confirmed the presence of chromium in the compound. Other bands observed in the IR spectrum of complex are listed at the end of article.</p>
+      <fig id="molbank-2016-M886-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>UV-Vis spectra of a solution of 3,7-dihydroxyflavone in ethanol (<bold>a</bold>); a solution of [Cr(3,7-diHF)<sub>3</sub>] in dimethyl sulfoxide (<bold>b</bold>,<bold>c</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M886-g003.tif"/>
+      </fig>
+      <fig id="molbank-2016-M886-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Schematic representation of the complex [Cr(3,7-diHF)<sub>3</sub>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M886-g004.tif"/>
+      </fig>
+    </sec>
+    <sec id="sec3-molbank-2016-M886">
+      <title>3. Experimental Section</title>
+      <p>All the reagents and solvents used in this work were purchased from Aldrich (Saint Louis, MO, USA) or similar companies and used without additional purification. Elemental analysis was performed on a Perkin Elmer CHN 2400 analyzer (Llantrisant, Wales, UK). ESI mass spectrum in the positive mode was obtained on a Bruker Daltonics Esquire 3000 (Bremen, Germany). Thermogravimetric analysis were performed with a TA Instruments TGA 2950 Hi-Res thermogravimetric analyzer (New Castle, DE, USA) using 1&#x2013;3 mg samples in a ceramic crucible, nitrogen flow at 50 mL&#xB7;min<sup>&#x2212;1</sup>, and heating rate of 10 &#xB0;C&#xB7;min<sup>&#x2212;1</sup>. Electronic absorption spectra in the region of 190&#x2013;1100 nm were recorded on an Agilent 8453 UV-visible spectrophotometer (Shangai, China), using a quartz cuvette of optical path length 1.0 cm.</p>
+      <fig id="molbank-2016-M886-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Infrared spectra of 3,7-dihydroxyflavone (<bold>a</bold>) and the complex [Cr(C<sub>15</sub>H<sub>9</sub>O<sub>4</sub>)<sub>3</sub>] (<bold>b</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M886-g005.tif"/>
+      </fig>
+      <sec id="sec3dot1-molbank-2016-M886">
+        <title>Tris(3,7-dihydroxyflavonolate-&#x3BA;O<sup>3</sup>,O<sup>4</sup>)chromium(III) Complex Synthesis</title>
+        <p>Seventy-two milliliters of an ethanolic solution containing 0.41 g (1.5 mmol) of 3,7-dihydroxyflavone and 0.21 g (1.5 mmol) of sodium acetate were kept under stirring and reflux for one hour. To this solution, 0.13 g (0.5 mmol) of chromium(III) chloride (CrCl<sub>3</sub>&#xB7;6H<sub>2</sub>O), dissolved in ethanol were added dropwise and the reaction mixture maintained at room temperature for 24 h, when a precipitate appeared, which was filtered, washed with cold ethanol and dried <italic>in vacuo</italic> (yield: 39%). Elemental analysis: calcd for C<sub>45</sub>H<sub>33</sub>O<sub>15</sub>Cr ([Cr(C<sub>15</sub>H<sub>9</sub>O<sub>4</sub>)<sub>3</sub>]&#xB7;3H<sub>2</sub>O): C, 62.4; H, 3.84. Found C, 60.6; H, 3.81.</p>
+        <p>FTIR (main bands): 3210(m,br), 3074(vw), 1621(vs), 1589(sh), 1539(vs), 1419(vs), 1299(sh), 1205(sh), 1182(s), 1147(sh), 1072(w), 1036(m), 895(m), 761(s), 693(s), 557(m).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Fundo Mackenzie de Pesquisa.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Denny D. E. Silva performed the experimental work and all authors designed, wrote and edited the paper.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M886">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Musialik</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kuzmicz</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Paw&#x142;owski</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Litwinienko</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acidity of hydroxyl groups: An overlooked influence on antiradical properties of flavonoids</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2009</year>
+          <volume>74</volume>
+          <fpage>2699</fpage>
+          <lpage>2709</lpage>
+          <pub-id pub-id-type="pmid">19275193</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M886">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Selvaraj</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Krishnaswamy</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Devashya</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Sethuraman</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Krishnan</surname>
+              <given-names>U.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Flavonoid-metal ion complexes: A novel class of therapeutic agents</article-title>
+          <source>Med. Res. Rev.</source>
+          <year>2014</year>
+          <volume>34</volume>
+          <fpage>677</fpage>
+          <lpage>702</lpage>
+          <pub-id pub-id-type="doi">10.1002/med.21301</pub-id>
+          <pub-id pub-id-type="pmid">24037904</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M886">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alexiou</surname>
+              <given-names>A.D.P.</given-names>
+            </name>
+            <name>
+              <surname>Decandio</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>M.J.P.</given-names>
+            </name>
+            <name>
+              <surname>Romoff</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rocha</surname>
+              <given-names>R.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A trinuclear oxo-chromium(III) complex containing the natural flavonoid primuletin: Synthesis, characterization, and antiradical properties</article-title>
+          <source>Molecules</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>6310</fpage>
+          <lpage>6318</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules20046310</pub-id>
+          <pub-id pub-id-type="pmid">25867822</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M886">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant property of quercetin&#x2013;Cr(III) complex: The role of Cr(III) ion</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>2009</year>
+          <volume>918</volume>
+          <fpage>194</fpage>
+          <lpage>197</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2008.08.008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M886">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization, antioxidative activity and DNA binding properties of the Copper(II), Zinc(II), Nickel(II) complexes with 1,2-Di(4&#x2032;-iminonaringenin)ethane</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2008</year>
+          <volume>56</volume>
+          <fpage>1528</fpage>
+          <lpage>1534</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.56.1528</pub-id>
+          <pub-id pub-id-type="pmid">18981601</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M886">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pereira</surname>
+              <given-names>R.M.S.</given-names>
+            </name>
+            <name>
+              <surname>Andrades</surname>
+              <given-names>N.E.D.</given-names>
+            </name>
+            <name>
+              <surname>Paulino</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sawaya</surname>
+              <given-names>A.C.H.F.</given-names>
+            </name>
+            <name>
+              <surname>Eberlin</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Marcucci</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Favero</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Novak</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Bydlowski</surname>
+              <given-names>S.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of a metal complex containing naringin and Cu, and its antioxidant, antimicrobial, antiinflammatory and tumor cell cytotoxicity</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>1352</fpage>
+          <lpage>1366</lpage>
+          <pub-id pub-id-type="doi">10.3390/12071352</pub-id>
+          <pub-id pub-id-type="pmid">17909491</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M886">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Souza</surname>
+              <given-names>R.F.V.</given-names>
+            </name>
+            <name>
+              <surname>Giovani</surname>
+              <given-names>W.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant properties of complexes of flavonoids with metal ions</article-title>
+          <source>Redox Rep.</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>97</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1179/135100004225003897</pub-id>
+          <pub-id pub-id-type="pmid">15231064</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M886">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Afanas&#x2019;eva</surname>
+              <given-names>I.B.</given-names>
+            </name>
+            <name>
+              <surname>Ostrakhovitch</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Mikhal&#x2019;chik</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Ibragimova</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Korkina</surname>
+              <given-names>L.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhancement of antioxidant and anti-inflammatory activities of bioflavonoid rutin by complexation with transition metals</article-title>
+          <source>Biochem. Pharmacol.</source>
+          <year>2001</year>
+          <volume>61</volume>
+          <fpage>677</fpage>
+          <lpage>684</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-2952(01)00526-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M886">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.Y.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>M.X.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectroscopic investigation on the interaction of 3,7-dihydroxyflavone with different isomers of human serum albumin</article-title>
+          <source>Food Chem.</source>
+          <year>2012</year>
+          <volume>132</volume>
+          <fpage>663</fpage>
+          <lpage>670</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.foodchem.2011.11.023</pub-id>
+          <pub-id pub-id-type="pmid">26434347</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M886">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Iron complex nanoparticles synthesized by Eucalyptus leaves</article-title>
+          <source>ACS Sustain. Chem. Eng.</source>
+          <year>2013</year>
+          <volume>1</volume>
+          <fpage>1551</fpage>
+          <lpage>1554</lpage>
+          <pub-id pub-id-type="doi">10.1021/sc400174a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M886">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Anjana</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sen</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Butcher</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Jasinski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, crystal structure, DFT and spectroscopic studies of mononuclear chromium(III) complex with bidentate ligand</article-title>
+          <source>Polyhedron</source>
+          <year>2012</year>
+          <volume>43</volume>
+          <fpage>8</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.poly.2012.05.017</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M886">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Teslova</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Spataru</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Lombardi</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Birke</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Leona</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Raman and surface enhanced raman scattering of 3-hydroxyflavone</article-title>
+          <source>J. Phys. Chem. C</source>
+          <year>2007</year>
+          <volume>111</volume>
+          <fpage>3038</fpage>
+          <lpage>3043</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp062100i</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

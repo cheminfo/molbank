@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M895</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M895</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>[&#xB5;<sub>2</sub>-<italic>O,O&#x2032;,O&#x2BA;,O&#x2BA;&#x2032;</italic>-Bis(1,2-dithiooxalato-<italic>S,S&#x2032;</italic>)nickel(II)]bis[-<italic>O,O&#x2032;</italic>-bis(1,2-dithiooxalato-<italic>S,S&#x2032;</italic>)-nickel(II)pentaquaholmium(III)]hydrate, [Ho<sub>2</sub>Ni<sub>3</sub>(dto)<sub>6</sub>(H<sub>2</sub>O)<sub>10</sub>]</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xF6;nig</surname>
+            <given-names>Jana</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kelling</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schilde</surname>
+            <given-names>Uwe</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Strauch</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M895" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M895">Institute of Chemistry, University of Potsdam, Karl-Liebknecht-Str. 24-25, D-14476 Potsdam/Golm, Germany; <email>koenigj@uni-potsdam.de</email> (J.K.); <email>kelling@uni-potsdam.de</email> (A.K.); <email>uschilde@uni-potsdam.de</email> (U.S.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M895"><label>*</label>Correspondence: <email>pstrauch@uni-potsdam.de</email>; Tel.: +49-331-9775190</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>04</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>2</issue>
+      <elocation-id>M895</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>02</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>04</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Planar bis(1,2-dithiooxalato)nickelate(II), [Ni(dto)]<sup>2&#x2212;</sup> reacts in aqueous solutions with lanthanide ions (Ln<sup>3+</sup>) to form pentanuclear, hetero-bimetallic complexes of the general composition [{Ln(H<sub>2</sub>O)<sub>n</sub>}<sub>2</sub>{Ni(dto)<sub>2</sub>}<sub>3</sub>]&#xB7;xH<sub>2</sub>O. (<italic>n</italic> = 4 or 5; x = 9&#x2013;12). The complex [{Ho(H<sub>2</sub>O)<sub>5</sub>}<sub>2</sub>{Ni(dto)<sub>2</sub>}<sub>3</sub>]&#xB7;10H<sub>2</sub>O, Ho<sub>2</sub>Ni<sub>3</sub>, was synthesized and characterized by single crystal X-ray structure analysis and powder diffraction. The Ho<sub>2</sub>Ni<sub>3</sub> complex crystallizes as monoclinic crystals in the space group <italic>P</italic>2<sub>1</sub>/<italic>c</italic>. The channels and cavities, appearing in the crystal packing of the complex molecules, are occupied by a varying amount of non-coordinated water molecules.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>lanthanides</kwd>
+        <kwd>holmium(III)</kwd>
+        <kwd>1,2-dithiooxalate</kwd>
+        <kwd>crystal structure</kwd>
+        <kwd>nickel(II)</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M895" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>During the last decades, molecular hetero-bimetallic 3d&#x2013;4f complexes with transition metals and trivalent lanthanide ions have gathered increasing interest due to their magnetic properties [<xref ref-type="bibr" rid="B1-molbank-2016-M895">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M895">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M895">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M895">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M895">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M895">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M895">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M895">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M895">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M895">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M895">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2016-M895">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M895">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2016-M895">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2016-M895">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2016-M895">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2016-M895">17</xref>]. Such complexes are promising precursors for, e.g., catalysts, magnetic materials, luminescent materials and new molecular devices. Since lanthanide ions provide a large angular momentum and the f&#x2013;f transition is less influenced by the ligand field compared to the spin-orbit coupling, magnetic behavior different from the transition metals has been observed [<xref ref-type="bibr" rid="B16-molbank-2016-M895">16</xref>]. When transition metals are bridged to the lanthanide ions by small bridging ligands 3d&#x2013;4f complexes with interesting magnetic properties are formed, e.g., as single-molecule magnets [<xref ref-type="bibr" rid="B18-molbank-2016-M895">18</xref>]. The design and construction of extended hetero-nuclear 3d&#x2013;4f complexes with a discrete multinuclear aggregation is still a challenge for coordination chemists. A series of pentanuclear, hetero-bimetallic 3d&#x2013;4f complexes of the general composition [{Ln(H<sub>2</sub>O)<sub>n</sub>}<sub>2</sub>{Ni(dto)<sub>2</sub>}<sub>3</sub>]&#xB7;xH<sub>2</sub>O (<italic>n</italic> = 4 or 5; x = 9&#x2013;12) was first described by Tromb&#xE9;, Gleizes and Galy [<xref ref-type="bibr" rid="B19-molbank-2016-M895">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2016-M895">20</xref>]. Dependent on the decreasing ionic radii of the lanthanide ions, two types of structures were observed: a monoclinic structure for the larger lanthanide ions (La&#x2013;Dy) and a triclinic structure for the smaller lanthanide ions (Er, Yb). The analogue Ho<sub>2</sub>Ni<sub>3</sub> complex is the borderline case between both structural forms and its structural type was unclear. Here we can report the structure of this complex [{Ho(H<sub>2</sub>O)<sub>5</sub>}<sub>2</sub>{Ni(dto)<sub>2</sub>}<sub>3</sub>]&#xB7;10H<sub>2</sub>O, Ho<sub>2</sub>Ni<sub>3</sub>. The here reported complex reported here crystallizes in the monoclinic space group <italic>P</italic>2<sub>1</sub>/<italic>c</italic>. The structural information of the Ho<sub>2</sub>Ni<sub>3</sub> complex is new in this series to the best of our knowledge.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M895" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <sec id="sec2dot1-molbank-2016-M895">
+        <title>2.1. X-ray Structures</title>
+        <p>A single crystal of the complex Ho<sub>2</sub>Ni<sub>3</sub> was measured by X-ray diffraction. <xref ref-type="app" rid="app1-molbank-2016-M895">Table S1</xref> summarizes the crystallographic data and refinement parameters for this complex. The Ho<sub>2</sub>Ni<sub>3</sub> complex crystallizes in the monoclinic space group <italic>P</italic>2<sub>1</sub>/<italic>c</italic>. In the crystals, two different forms of enclosed water molecules can be observed: defined coordinated water at the lanthanide ion and non-stoichiometric amounts of inserted water in the cavities and between the layers of the complex molecules.</p>
+        <p><xref ref-type="fig" rid="molbank-2016-M895-f001">Figure 1</xref> shows the molecular structure of the pentanuclear heterobimetallic Ho<sub>2</sub>Ni<sub>3</sub> complex with the characteristic z-shape of this type of molecule [<xref ref-type="bibr" rid="B21-molbank-2016-M895">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2016-M895">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2016-M895">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2016-M895">24</xref>]. The two holmium centers are bridged by a nearly planar bis(1,2-dithiooxalato)nickelate(II) unit. Two peripheric bis(1,2-dithiooxalato)nickelate(II) moieties are coordinated only bidentate in a non-bridging mode. The structure of the complex is close to planarity with a little twisting, due to the non-symmetric coordination geometry of the lanthanide ions (see <xref ref-type="fig" rid="molbank-2016-M895-f002">Figure 2</xref>). The coordination spheres of the lanthanide ions are completed by five coordinated water ligands at each lanthanide ion, resulting in a coordination number of nine. The nine donor atoms in the coordination sphere of the lanthanide ion occupy the corners of a tricaped trigonal prism. The molecule is centrosymmetric with a crystallographic symmetry center at the Ni1 atom.</p>
+        <p>The complex is almost isostructural to the already reported analogue Eu<sub>2</sub>Ni<sub>3</sub>, Nd<sub>2</sub>Ni<sub>3</sub>, Ce<sub>2</sub>Ni<sub>3</sub>, and Dy<sub>2</sub>Ni<sub>3</sub> complexes [<xref ref-type="bibr" rid="B21-molbank-2016-M895">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2016-M895">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2016-M895">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2016-M895">24</xref>]. The deviations in the structures are only due to small differences of the ion radii of the individual lanthanide ions. The crystal packing of the molecules contains channels and cavities, which are filled by non-coordinated water molecules. Whereas the coordinated water molecules are in fixed positions, the non-coordinated water molecules are strongly disordered. The slightly varying number of non-coordinated water molecules could be calculated (estimated) by thermoanalytical investigations and was determined with approximately nine to 12 inserted water molecules per formula unit [<xref ref-type="bibr" rid="B22-molbank-2016-M895">22</xref>]. This inserted water is very flexible and already partly released at laboratory conditions with dry air, making it difficult to determine their exact number. This also applies to the Ho<sub>2</sub>Ni<sub>3</sub> complex in this series. Therefore, the crystal was completely embedded in perfluoropolyalkyl ether to protect it against decay during the X-ray crystal structure analysis. This effect is also responsible for the relatively high remaining electron density for this type of complex.</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2016-M895">
+        <title>2.2. IR Spectroscopy </title>
+        <p>All these complexes show intense water signals around 3300 cm<sup>&#x2212;1</sup> in their IR absorption spectra (see <xref ref-type="app" rid="app1-molbank-2016-M895">Figure S2</xref>). Furthermore, very broad carbonyl vibrations (between 1600 cm<sup>&#x2212;1</sup> and 1400 cm<sup>&#x2212;1</sup>) can be observed. This broadening results from the overlapping of the different types of coordinated and non-coordinated carbonyl groups present in the complex: non-coordinated terminal carbonyl groups of the peripheric 1,2-dithiooxalato ligands, which are found at approximately 1600 cm<sup>&#x2212;1</sup>, comparable to the red form of the mononuclear K<sub>2</sub>[Ni(dto)<sub>2</sub>] complex [<xref ref-type="bibr" rid="B25-molbank-2016-M895">25</xref>], combine with the vibration of the carbonyl groups of the bridging dto ligands coordinated by the lanthanide ions. Also, the formation of intermolecular hydrogen bonds towards some of the carbonyl groups contributes to the broadening of the CO vibrations in the spectra. The resulting absorption bands of carbonyl vibrations are found at around 1495 cm<sup>&#x2212;1</sup>. As already mentioned, the complexes of this series crystallize in two different crystal systems depending on the decreasing lanthanide radii, and this can also be recognized by IR spectroscopy. The comparison of vibration bands of <italic>v</italic>(C-C-S), <italic>v</italic>(S-C) and <italic>v</italic>(Ni-S) exhibits a shift of the absorptions in the range of 10 cm<sup>&#x2212;1</sup> if the crystal system changes from monoclinic to triclinic. These shifts are attributed to stronger bonding of the lanthanide ions and the dto ligands.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2016-M895">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M895">
+        <title>3.1. General Methods, Analytical and Physical Measurements</title>
+        <p>All infrared spectra were recorded on a Perkin Elmer 16PC FT-IR-spectrometer in a range between 400 cm<sup>&#x2212;1</sup> and 4000 cm<sup>&#x2212;1</sup> using KBr pellets. The elemental analyses (C, H, S) were determined by a Vario EL III CHNS from elementar Analysensysteme GmbH (Hanau, Germany). The magnetic susceptibility was measured by a magnetic susceptibility balance MSB-Auto by Sherwood Scientific Ltd. at room temperature. XRD measurements were conducted with a Bruker AXS (Siemens) D5005 diffractometer using Cu<italic>K</italic><sub>&#x3B1;</sub> radiation (<italic>&#x3BB;</italic> = 1.540598 &#xC5;) (see <xref ref-type="app" rid="app1-molbank-2016-M895">Figure S1</xref>).</p>
+        <p>X-ray structure of the presented complex was collected using a STOE Image Plate Diffraction System IPDS-2 at 210 K with graphite-monochromatized Mo<italic>K</italic><sub>&#x3B1;</sub> radiation. The reflection data were corrected by an absorption correction using the program X-Area [<xref ref-type="bibr" rid="B26-molbank-2016-M895">26</xref>]. The structures were solved with SHELXS-97 [<xref ref-type="bibr" rid="B27-molbank-2016-M895">27</xref>] using direct methods and refined with SHELXL-2014 [<xref ref-type="bibr" rid="B28-molbank-2016-M895">28</xref>]. The nonhydrogen atoms were refined anisotropically, with the exception of one non-coordinated oxygen atom of a crystal water molecule with an occupation factor of 0.25 in the structure. The hydrogen atoms of the water molecules could not be found. CCDC 1450593 contains the supplementary crystallographic data for this article and can be obtained free of charge from The Cambridge Crystallographic Data Centre via <uri>http://www.ccdc.cam.ac.uk/data_request/cif</uri> (or from the CCDC, 12 Union Road, Cambridge CB2 1EZ, UK; Fax: +44 1223 336033; E-mail: <email>deposit@ccdc.cam.ac.uk</email>).</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M895">
+        <title>3.2. Synthesis of [Ho<sub>2</sub>Ni<sub>3</sub> (dto)<sub>6</sub>(H<sub>2</sub>O)<sub>10</sub>]&#x387;10H<sub>2</sub>O</title>
+        <p>The ligand potassium 1,2-dithiooxalate, K<sub>2</sub>dto, was synthesized by sulfhydrolysis of diphenyl oxalate according to the procedure of Matz and Mattes [<xref ref-type="bibr" rid="B29-molbank-2016-M895">29</xref>] modified by Wenzel <italic>et al.</italic> [<xref ref-type="bibr" rid="B30-molbank-2016-M895">30</xref>]. The complex Ho<sub>2</sub>Ni<sub>3</sub> was prepared according to the general procedure described by Trombe <italic>et al.</italic> [<xref ref-type="bibr" rid="B20-molbank-2016-M895">20</xref>].</p>
+        <p>A solution of K<sub>2</sub>dto (1 mmol; 200.2 mg) in 5 mL of distilled H<sub>2</sub>O was added to a stirred solution of NiCl<sub>2</sub>&#xB7;6 H<sub>2</sub>O (0.5 mmol; 119.7 mg) in 4 mL of distilled H<sub>2</sub>O. The resulting dark-violet solution was heated to 50 &#xB0;C. A warm solution (50 &#xB0;C) of HoCl<sub>3</sub>&#x387;xH<sub>2</sub>O (0.33 mmol) in 4 mL water was added drop wise to the stirred [Ni(dto<sub>2</sub>]<sup>2&#x2212;</sup> - solution. The resulting reaction mixture was continuously stirred at 50 &#xB0;C for additional 15 min, than slowly cooled down to room temperature. The dark-violet crystalline precipitate was filtered off, washed with a small amount of distilled water and dried at 80 &#xB0;C.</p>
+        <p><bold>K<sub>2</sub>dto</bold>: C<sub>2</sub>O<sub>2</sub>S<sub>2</sub>K<sub>2</sub> (M = 198.35 g/mol). Elementary analysis (EA) measured (calculated): C 11.95 (12.11); S 32.08 (32.33) %. IR (KBr): 1530, 1514 (<italic>&#x3BD;</italic><sub>C-O</sub>), 1113 (<italic>&#x3BD;</italic><sub>C-C-S</sub>), 879 (<italic>&#x3BD;</italic><sub>C-S</sub>) cm<sup>&#x2212;1</sup>.</p>
+        <p><bold>Ho<sub>2</sub>Ni<sub>3</sub>, 1:</bold> C<sub>12</sub>H<sub>22</sub>O<sub>23</sub>S<sub>12</sub>Ni<sub>3</sub>Ho<sub>2</sub> (M = 1425.01 g/mol). EA meas. (calc.): C 10.05 (10.11); H 1.55 (1.56); S 26.58 (27.00) %. IR (KBr), <xref ref-type="app" rid="app1-molbank-2016-M895">Figure S2</xref>: 3166 (<italic>&#x3BD;</italic><sub>OH</sub>), 1490 (<italic>&#x3BD;</italic><sub>C-O</sub>), 1138 (<italic>&#x3BD;</italic><sub>C-C-S</sub>), 990, (<italic>&#x3BD;</italic><sub>C-S</sub>), 458 (<italic>&#x3BD;</italic><sub>Ni-S</sub>, &#x3B4;<sub>ring</sub>) cm<sup>&#x2212;1</sup>. <italic>&#x3BC;</italic><sub>eff</sub> meas. (calc.): 14.63 (14.99) B.M.</p>
+      </sec>
+    </sec>
+   </body>
+  <back>
+    <app-group>
+	<app id="app1-molbank-2016-M895">
+	<title>Supplementary Materials</title>
+      <p>The following are available online at <uri>http://www.mdpi.com/1422-8599/2016/2/M895</uri>, Table S1: Crystallographic data and refinement parameters for the complex Ho<sub>2</sub>Ni<sub>3</sub>, Figure S1: Experimental X-ray powder patterns for Ho<sub>2</sub>Ni<sub>3</sub> (<bold>1</bold>), Figure S2: IR absorption spectrum (KBr) of Ho<sub>2</sub>Ni<sub>3</sub>.</p>
+	</app>	
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Christina G&#xFC;nter, University of Potsdam (Germany), Faculty of earth and environmental sciences for the powder diffraction measurements. Matthias Siebold, formerly University of Potsdam (Germany), Insitute of Chemistry for additional synthetic experiments.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Jana K&#xF6;nig, Peter Strauch: writing of manuscript, analytical interpretation, literature search; Jana K&#xF6;nig: synthetic work; Alexandra Kelling, Uwe Schilde: X-ray crystallography.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+	<glossary>
+    <gloss-group>
+     <title>Abbreviations</title>
+      <p>The following abbreviations are used in this manuscript:</p>
+     <def-list>
+     <def-item><term>dto</term><def><p>1,2-dithiooxalate</p></def></def-item>
+     <def-item><term>Ln</term><def><p>lanthanide</p></def></def-item>
+	 </def-list>
+   </gloss-group>
+   </glossary>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M895">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanz</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Ruiz</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gleizes</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lloret</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Faus</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Julve</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Borras-Almenar</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Journaux</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal structure and magnetic properties of novel Ln<sup>III</sup>Cu<sup>II</sup> (Ln = Gd, Dy, Ho) pentaanuclear complexes. Topology and ferromagnetic interaction in the Ln<sup>III</sup>&#x2013;Cu<sup>II</sup> pair</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1996</year>
+          <volume>35</volume>
+          <fpage>7384</fpage>
+          <lpage>7393</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic960524t</pub-id>
+          <pub-id pub-id-type="pmid">11666933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M895">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Costes</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Dahan</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Dupuis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Laurent</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>A genuine example of a discrete bimetallic (Cu, Gd)&#x2013;complex: structural determination and magnetic properties</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1996</year>
+          <volume>35</volume>
+          <fpage>2400</fpage>
+          <lpage>2402</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic951382q</pub-id>
+          <pub-id pub-id-type="pmid">11666444</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M895">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Costes</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Dahan</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Dupuis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Laurent</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Experimental evidence of a ferromagnetic ground state (S=9/2) for a dinuclear Gd(III)&#x2013;Ni(II) complex</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>4284</fpage>
+          <lpage>4286</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic970720f</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M895">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramade</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Jeannnin</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Robert</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design and magnetic properties of a magnetically isolated Gd<sup>III</sup>Cu<sup>II</sup> pair. Crystal Structures of [Gd(hfa)<sub>3</sub>Cu(salen)], [Y(hfa)<sub>3</sub>Cu(salen)], [Gd(hfa)3Cu(salen)(Meim)], and [La(hfa)3H2OCu(salen)] [hfa = hexafluoroacetylacetonato, salen = <italic>N</italic>,<italic>N_</italic>-ethylenebis(salicylideneaminato), Meim = 1-Methylimidazole]</article-title>
+          <source>Inorg Chem.</source>
+          <year>1997</year>
+          <volume>36</volume>
+          <fpage>930</fpage>
+          <lpage>936</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic9607595</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M895">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanada</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kaizaki</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterotrinuclear complexes containing d- and f-block elements: synthesis and structural characterization of novel lanthanide(III) nickel(II)-lanthanide(III) compounds bridged by oxamidate</article-title>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>1998</year>
+          <fpage>959</fpage>
+          <lpage>965</lpage>
+          <pub-id pub-id-type="doi">10.1039/a706834d</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M895">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanada</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kaizaki</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterodinuclear complexes containing d- and f-block elements: Synthesis, structural characterization, and metal&#x2013;metal interactions of novel chromium(III)&#x2013;lanthanide(III) compounds bridged by oxalate</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>4712</fpage>
+          <lpage>4717</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic971568k</pub-id>
+          <pub-id pub-id-type="pmid">11670625</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M895">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Decurtins</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmalle</surname>
+              <given-names>H.W.</given-names>
+            </name>
+            <name>
+              <surname>Ferlay</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular chromium(III)-lanthanide(III) compounds (Ln = La, Ce, Pr, and Nd) with a polymeric, ladder-lype architecture: A structural and magnetic study</article-title>
+          <source>Inorg. Chem.</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>2443</fpage>
+          <lpage>2449</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic971493k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M895">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.-T.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>C.-W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization, and magnetic study of <italic>&#x3BC;</italic>-oxamido-bridged copper(II)&#x2013;lanthanide(III) heterobinuclear complexes</article-title>
+          <source>Polish J. Chem.</source>
+          <year>2000</year>
+          <volume>74</volume>
+          <fpage>1655</fpage>
+          <lpage>1663</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M895">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.-T.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>C.-W.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization, and magnetic properties of copper(II)-lanthanide(III) heterobinuclear complexes bridged by <italic>N</italic>,<italic>N</italic>-oxamidobis(3,5-dibromobenzoato)cuprate(II)</article-title>
+          <source>Crystal Growth Design</source>
+          <year>2003</year>
+          <volume>3</volume>
+          <fpage>481</fpage>
+          <lpage>485</lpage>
+          <pub-id pub-id-type="doi">10.1021/cg020037q</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M895">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shiga</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ohba</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Okawa</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure and magnetism of a trinuclear Cu<sup>II</sup>&#x2013;Gd<sup>III</sup>&#x2013;Cu<sup>II</sup> complex derived from one-pot reaction with 2,6-di(acetoacetyl)pyridine</article-title>
+          <source>Inorg. Chem. Commun.</source>
+          <year>2003</year>
+          <volume>6</volume>
+          <fpage>15</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1387-7003(02)00674-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M895">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kido</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ikuta</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sunatsuki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Re</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nature of copper(II)&#x2013;lanthanide(III) magnetic interactions and generation of a large magnetic moment with magnetic anisotropy of 3d&#x2013;4f cyclic cylindrical tetranuclear complexes [Cu<sup>II</sup>LLn<sup>III</sup>(hfac)<sub>2</sub>]<sub>2</sub>, (H<sub>3</sub>L = 1-(2-Hydroxybenzamido)-2-(2-hydroxy-3-methoxybenzylideneamino)ethane and Hhfac = hexafluoroacetylacetone, Ln<sup>III</sup> = Eu, Gd, Tb, Dy)</article-title>
+          <source>Inorg. Chem.</source>
+          <year>2003</year>
+          <volume>42</volume>
+          <fpage>398</fpage>
+          <lpage>408</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic026045d</pub-id>
+          <pub-id pub-id-type="pmid">12693220</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M895">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caneschi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sorace</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Casellato</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Tomasin</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Vigato</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>d- or f-Mononuclear and related heterodinuclear complexes with [1+1] asymmetric compartmental macrocycles</article-title>
+          <source>Eur. J. Inorg. Chem.</source>
+          <year>2004</year>
+          <volume>2004</volume>
+          <fpage>3887</fpage>
+          <lpage>3900</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejic.200400135</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M895">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koner</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>G.-H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Mohanta</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two new diphenoxo-bridged discrete dinuclear Cu<sup>II</sup>Gd<sup>III</sup> compounds with cyclic diimino moieties: Synthesis, structure, and magnetic properties</article-title>
+          <source>Eur. J. Inorg. Chem.</source>
+          <year>2005</year>
+          <volume>2005</volume>
+          <fpage>1500</fpage>
+          <lpage>1505</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejic.200400858</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M895">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shi</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>H.-B.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.-G.</given-names>
+            </name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>D.-Z.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>S.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Construction of 3d-4f mixed-metal complexes based on a binuclear oxovanadium unit: synthesis, crystal structure, EPR, and magnetic properties</article-title>
+          <source>Inorg. Chem.</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>3949</fpage>
+          <lpage>3957</lpage>
+          <pub-id pub-id-type="doi">10.1021/ic051979y</pub-id>
+          <pub-id pub-id-type="pmid">16676953</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M895">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merca</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Slageren</surname>
+              <given-names>J.V.</given-names>
+            </name>
+            <name>
+              <surname>L&#xE4;ge</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Krebs</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic study of the interaction between V<sup>IV</sup> centres and lanthanide ions M<sup>III</sup> in well defined {V<sup>IV</sup><sub>2</sub>M<sup>III</sup>}{As<sup>III</sup>W<sub>9</sub>O<sub>33</sub>}<sub>2</sub> Sandwich Type Clusters: Part 1</article-title>
+          <source>J. Clust. Sci.</source>
+          <year>2007</year>
+          <volume>18</volume>
+          <fpage>711</fpage>
+          <lpage>719</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10876-007-0144-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M895">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benelli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gatteschi</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Magnetism of lanthanides in molecular materials with transition-metal ions and organic radicals</article-title>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>2369</fpage>
+          <lpage>2387</lpage>
+		  <comment>and reverences therein</comment> 
+          <pub-id pub-id-type="doi">10.1021/cr010303r</pub-id>
+          <pub-id pub-id-type="pmid">12059272</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M895">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanase</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Reedijk</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry and magnetism of cyanido-bridged d-f assemblies</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2006</year>
+          <volume>250</volume>
+          <fpage>2501</fpage>
+          <lpage>2510</lpage>
+		  <comment>and references therein</comment> 
+          <pub-id pub-id-type="doi">10.1016/j.ccr.2006.03.021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M895">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kido</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Re</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Pochaba</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mrozinski</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A tetranuclear 3d-4f single molecular magnet: [Cu<sup>II</sup>LTb<sup>III</sup>(hfac)<sub>2</sub>]<sub>2</sub></article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>420</fpage>
+          <lpage>421</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja037365e</pub-id>
+          <pub-id pub-id-type="pmid">14719911</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2016-M895">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tromb&#xE9;</surname>
+             <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Gleizes</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Galy</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthese et etude cristallochimique de dithio-oxalates mixtes hydrates de nickel et d elements de terres rares (t.r. (III) = Y, La, Ce, Nd, Sm, Eu, Gd, Dy, Er, Yb). Structure cristalline de Ni<sub>3</sub>Eu<sub>2</sub>(O<sub>2</sub>C<sub>2</sub>S<sub>2</sub>)<sub>6</sub>(H<sub>2</sub>O)<sub>10</sub> xH<sub>2</sub>O (10<italic>&lt;</italic>x<italic>&lt;</italic>12)</article-title>
+          <source>R. Acad. Sc. Paris</source>
+          <year>1982</year>
+          <volume>294-II</volume>
+          <fpage>1369</fpage>
+          <lpage>1372</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2016-M895">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tromb&#xE9;</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Gleizes</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Galy</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural evolution within a series of hydrated bis(dithiooxalato)nickelate(II) of rare earth (RE)<sub>2</sub>(H<sub>2</sub>O)<sub>2n</sub>Ni<sub>3</sub>(S<sub>2</sub>C<sub>2</sub>O<sub>2</sub>)<sub>6</sub>, xH<sub>2</sub>O</article-title>
+          <source>Inorg. Chim. Acta</source>
+          <year>1984</year>
+          <volume>87</volume>
+          <fpage>129</fpage>
+          <lpage>141</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0020-1693(00)81826-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2016-M895">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siebold</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kelling</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Schilde</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Strauch</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterobimetallische 3d-4f Komplexe mit Bis(1,2-dithiooxalato)nickelat(II) als planarem Br&#xFC;ckenbaustein</article-title>
+          <source>Z. Naturforsch.</source>
+          <year>2005</year>
+          <volume>60b</volume>
+          <fpage>1149</fpage>
+          <lpage>1157</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2016-M895">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siebold</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Eidner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kelling</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kumke</surname>
+              <given-names>M.U.</given-names>
+            </name>
+            <name>
+              <surname>Schilde</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Strauch</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pentanuclear heterobimetallic 3d-4f complexes &#x2013; structure and luminescence</article-title>
+          <source>Z. anorg. allg. Chem.</source>
+          <year>2006</year>
+          <volume>632</volume>
+          <fpage>1963</fpage>
+          <lpage>1965</lpage>
+          <pub-id pub-id-type="doi">10.1002/zaac.200600149</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2016-M895">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siebold</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Korabik</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schilde</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Mrozinski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Strauch</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pentanuclear heterobimetallic 3d-4f complexes of Ln<sub>2</sub>M<sub>3</sub>-type &#x2013; structure and magnetism</article-title>
+          <source>Chem. Papers</source>
+          <year>2008</year>
+          <volume>62</volume>
+          <fpage>487</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="doi">10.2478/s11696-008-0060-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2016-M895">
+        <label>24.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siebold</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Strauch</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Series of Pentanuclear Heterobimetallic 3d-4f-Complexes Revisited</article-title>
+          <source>Advances in Coordination, Bioinorganic and Inorganic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Melnik</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>&#x160;ima</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Tatarko</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Slovak Technical University Press</publisher-name>
+          <publisher-loc>Bratislava, Slovakia</publisher-loc>
+          <year>2005</year>
+          <fpage>399</fpage>
+          <lpage>410</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2016-M895">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Czernuszewicz</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Nakamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Strommen</surname>
+              <given-names>D.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Resonance raman spectra and vibrational assignments of &#x201C;red&#x201D; and &#x201C;black&#x201D; forms of potassium bis(dithiooxalato) nickel(II)</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>104</volume>
+          <fpage>1515</fpage>
+          <lpage>1521</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00370a011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2016-M895">
+        <label>26.</label>
+        <citation citation-type="book">
+          <source>X-Area</source>
+		  <comment>vers. 1.26</comment>
+          <publisher-name>Stoe &amp; Cie GmbH</publisher-name>
+          <publisher-loc>Darmstadt, Germany</publisher-loc>
+          <year>2004</year>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2016-M895">
+        <label>27.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXS-97</source>
+		  <comment>Program for Crystal Structure Solution</comment>
+          <publisher-name>University G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2016-M895">
+        <label>28.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXL-2014/7</source>
+		  <comment>Program for the Refinement of Crystal Structures</comment>
+          <publisher-name>University G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>2014</year>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2016-M895">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matz</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Mattes</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Darstellung und Struktur von Kalium-1,2-diselenooxalat</article-title>
+          <source>Z. Naturforsch.</source>
+          <year>1978</year>
+          <volume>88b</volume>
+          <fpage>461</fpage>
+          <lpage>462</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molbank-2016-M895">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wenzel</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wehse</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Schilde</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Strauch</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2-Dithioquadratato- und 1,2-Dithiooxalatoindate(III)</article-title>
+          <source>Z. anorg. allg. Chem.</source>
+          <year>2004</year>
+          <volume>630</volume>
+          <fpage>1469</fpage>
+          <lpage>1476</lpage>
+          <pub-id pub-id-type="doi">10.1002/zaac.200400143</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures</title>
+      <fig id="molbank-2016-M895-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Molecular structure of the Ho<sub>2</sub>Ni<sub>3</sub> complex, view along the crystallographic <italic>a</italic>-axis (non-coordinated water molecules und hydrogen atoms are omitted for clarity).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M895-g001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M895-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Molecular structure of the Ho<sub>2</sub>Ni<sub>3</sub> complex, view along the crystallographic <italic>b</italic>-axis (non-coordinated water molecules und hydrogen atoms are omitted for clarity).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M895-g002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M898</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M898</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5-(5-Bromo-2-hydroxy-3-methoxyphenyl)-7-methyl-4,5,6,7-tetrahydro[1,2,4]triazolo[1,5-<italic>a</italic>]pyrimidin-7-ol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kondratiuk</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M898" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2016-M898" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gorobets</surname>
+            <given-names>Nikolay Yu.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M898" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M898" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sedash</surname>
+            <given-names>Yuriy V.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M898" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>G&#xFC;m&#xFC;&#x15F;</surname>
+            <given-names>Mustafa K.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M898" ref-type="aff">1</xref>
+          <xref rid="af3-molbank-2016-M898" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Desenko</surname>
+            <given-names>Sergey M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M898" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2016-M898" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M898"><label>1</label>Department of Chemistry of Heterocyclic Compounds, SSI &#x201C;Institute for Single Crystals&#x201D; of National Academy of Sciences of Ukraine, Nauky Ave. 60, Kharkiv 61001, Ukraine; <email>michael.kondratiuk@mail.ru</email> (M.K.); <email>yuriy_sedash@yahoo.com</email> (Y.V.S.); <email>mkgumus@artvin.edu.tr</email> (M.K.G.); <email>desenko@isc.kharkov.com</email> (S.M.D.)</aff>
+      <aff id="af2-molbank-2016-M898"><label>2</label>Department of Organic Chemistry, Karazin Kharkiv National University, Svobody Sq., 4, Kharkiv 61077, Ukraine</aff>
+      <aff id="af3-molbank-2016-M898"><label>3</label>Science Education Department, Faculty of Education, Artvin Coruh University, Artvin 08000, Turkey</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M898"><label>*</label>Correspondence: <email>gorobets@isc.kharkov.com</email>; Tel.: +38-057-3410112; Fax: +38-057-3410273</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>04</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>2</issue>
+      <elocation-id>M898</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>01</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>04</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was synthesized by multicomponent condensation of 3-amino-1,2,4-triazole, acetone and 5-bromo-2-hydroxy-3-methoxybenzaldehyde. The structure was established by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, IR spectroscopy and LC-MS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>multicomponent reaction</kwd>
+        <kwd>MCR</kwd>
+        <kwd>Biginelli-like condensation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M898" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Application of multicomponent reactions (MCRs) in organic synthesis is a powerful method to create a chemical complexity from simple starting building blocks [<xref ref-type="bibr" rid="B1-molbank-2016-M898">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M898">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M898">3</xref>]. The use of aminoazoles in MCRs as building blocks having two or more nonequivalent reaction centers is often associated with ambiguous selectivity of the process and different reaction outcomes depending on the reaction conditions applied [<xref ref-type="bibr" rid="B4-molbank-2016-M898">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M898">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M898">6</xref>]. In particular, Biginelli-like MCRs of 3-amino-1,2,4-triazole with aldehydes and &#x3B1;-carbonyl CH-acids may result in several types of heterocyclic products (for a review see [<xref ref-type="bibr" rid="B7-molbank-2016-M898">7</xref>]). In our previous works we have shown that MCR of 3-amino-1,2,4-triazole (<bold>2</bold>) with acetone (<bold>3</bold>) and 2-hydroxybenzaldehydes (<bold>1</bold>) under acidic conditions leads to formation of different products, see <xref ref-type="scheme" rid="molbank-2016-M898-sch001">Scheme 1</xref>. Under vigorous conditions, a series of oxygen-bridged compounds <bold>6</bold> was obtained with different substituents R, and only one example of open-bridge structure <bold>5a</bold> (R = H) was isolated in high yield under mild conditions [<xref ref-type="bibr" rid="B5-molbank-2016-M898">5</xref>].</p>
+      <p>Here we aimed to examine the possibility of using different substituted 2-hydroxybenzaldehydes to obtain corresponding products <bold>5b</bold>&#x2013;<bold>h</bold> with variable substituent R.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M898" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>The 2-hydroxybenzaldehydes <bold>1</bold> with following substituents: 3-methoxy-(<bold>1b</bold>), 4-methoxy-(<bold>1c</bold>), 5-bromo-3-methoxy-(<bold>1d</bold>), 3-ethoxy-(<bold>1e</bold>), 5-bromo-(<bold>1f</bold>), 3,5-dibromo-(<bold>1g</bold>) and 4-hydroxy-(<bold>1h</bold>), were used in this study. In our first attempt, the conditions described in work [<xref ref-type="bibr" rid="B5-molbank-2016-M898">5</xref>] (40 &#xB0;C, 16 h in the presence of HCl) were applied for aldehydes <bold>1b</bold>&#x2013;<bold>h</bold> that resulted in formation of compounds <bold>4</bold> as the main product for all aldehydes as was determined by TLC. Further prolongation of the reaction up to 4 days at 40 &#xB0;C led to formation of the desired product <bold>5</bold> only in the case of 5-bromo-2-hydroxy -3-methoxybenzaldehyde (<bold>1d</bold>) but with a very small yield (18%). Reactions with other aldehydes resulted in formation of oxygen-bridged product <bold>6</bold> or its mixture with the desired product <bold>5</bold> and the azamethyne derivatives <bold>4</bold> as determined by <sup>1</sup>H-NMR spectra of precipitated products. Variation of reaction conditions, such as application of different solvents and acids (DMF, MeOH, water, acetic acid, trifluoroacetic acid, methylsulfuric acid), application of ultrasonic agitation and microwave irradiation under different temperatures did not improve the results, except for the case of aldehyde <bold>1d</bold>, where the desired product <bold>5d</bold> was obtained with moderate yield using MeOH and HCl under reflux conditions (<xref ref-type="scheme" rid="molbank-2016-M898-sch002">Scheme 2</xref>).</p>
+      <p>The structure of the obtained product <bold>5d</bold> was established by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, IR spectroscopy and LC-MS. Relative configuration of the stereogenic centers in the molecule is given by analogy with earlier obtained unsubstituted open-bridged compound <bold>5a</bold> (R = H) and confirmed by NOE experiments; structure of <bold>5a</bold> have been previously proven via single crystal X-ray diffraction study [<xref ref-type="bibr" rid="B5-molbank-2016-M898">5</xref>] (comparison of the NMR spectra is given in the supplementary materials).</p>
+      <p>To obtain 5-(5-Bromo-2-hydroxy-3-methoxyphenyl)-7-methyl-4,5,6,7-tetrahydro[1,2,4]triazolo[1,5-<italic>a</italic>]pyrimidin-7-ol (<bold>5d</bold>) 10.0 mmol of 3-amino-1,2,4-triazole, 10.0 mmol of 5-bromo-2-hydroxy-3-methoxybenzaldehyde and 60.0 mmol (4.4 mL) of acetone in 25 mL of MeOH containing 625 mg HCl (15% solution in EtOH) were mixed in a round-bottom flask with condenser. The mixture was heated to reflux in oil bath for 24 h. After cooling and standing overnight the precipitate formed was filtered out and washed with 3 &#xD7; 5 mL of MeOH and dried on air to give a cream-white powder with yield 26%.</p>
+      <p>Melting Point: 199&#x2013;201 &#xB0;C. LC-MS (APCI): Purity 99.3%; <italic>m</italic>/<italic>z</italic>: 355 (M + H<sup>+</sup>, Pos.), 353 (M &#x2212; H<sup>+</sup>, Neg.). IR (KBr, cm<sup>&#x2212;1</sup>): 3320 (OH), 3150 (CH, aromatic), 2943 (CH, aliphatic), 1634 (C=N), 1536, 1493 (C-C, C=C, NH bend), 1263, 1151, 1085 (C-C, C-O, C-N). <sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>, 400 MHz, ppm): &#x3B4; 9.11 (s, 1H), 7.41 (s, 1H), 7.30 (s, 1H), 7.11&#x2013;7.17 (m, 1H), 7.03&#x2013;7.09 (m, 1H), 6.55 (s, 1H), 4.98&#x2013;5.10 (m, 1H), 3.83 (s, 3H), 2.13&#x2013;2.22 (m, 1H), 1.76&#x2013;1.88 (m, 1H), 1.66 (s, 3H). <sup>13</sup>C-NMR (DMSO-<italic>d</italic><sub>6</sub>, 100 MHz, ppm): &#x3B4; 154.0, 148.74, 148.70, 143.2, 130.8, 121.7, 113.9, 110.4, 80.5, 56.7, 44.8, 43.4, 27.1. Elemental Analysis: calcd. for C<sub>13</sub>H<sub>15</sub>BrN<sub>4</sub>O<sub>3</sub>: C, 43.96; H, 4.26; N, 15.77. Found: C, 43.73; H, 4.34; N, 15.54.</p>
+    </sec>
+  </body>
+  <back>
+      <app-group>
+	<app id="app1-molbank-2016-M898">
+      <title>Supplementary Materials</title>
+      <p>The supplementary materials and the molfile can be found at <uri>http://www.mdpi.com/1422-8599/2016/2/M898</uri>.</p>
+    </app>
+	</app-group>
+  <ack>
+      <title>Acknowledgments</title>
+      <p>Authors are thankful to Enamine Ltd (Kyiv, Ukraine), and personally to Maxim A. Nechayev for gratuitous LC-MS analysis of the sample.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>M.K., Y.V.S. and M.K.G. performed all the preliminary studies and the final experiment and analyzed the data, N.Yu.G. and Y.V.S. wrote the paper and composed the supplementary material, S.M.D. acted as the general supervisor.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M898">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xF6;mling</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry and biology of multicomponent reactions</article-title>
+          <source>Chem. Rev.</source>
+          <year>2012</year>
+          <volume>112</volume>
+          <fpage>3083</fpage>
+          <lpage>3135</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr100233r</pub-id>
+          <pub-id pub-id-type="pmid">22435608</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M898">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruijter</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Scheffelaar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Orru</surname>
+              <given-names>R.V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicomponent reaction design in the quest for molecular complexity and diversity</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2011</year>
+          <volume>50</volume>
+          <fpage>6234</fpage>
+          <lpage>6246</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.201006515</pub-id>
+          <pub-id pub-id-type="pmid">21710674</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M898">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van der Heijden</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ruijter</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Orru</surname>
+              <given-names>R.V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency, diversity, and complexity with multicomponent reactions</article-title>
+          <source>Synlett</source>
+          <year>2013</year>
+          <volume>24</volume>
+          <fpage>666</fpage>
+          <lpage>685</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M898">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicomponent heterocyclization reactions with controlled selectivity (review)</article-title>
+          <source>Chem. Heterocycl. Compd.</source>
+          <year>2012</year>
+          <volume>48</volume>
+          <fpage>566</fpage>
+          <lpage>583</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10593-012-1030-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M898">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gorobets</surname>
+              <given-names>N.Y.</given-names>
+            </name>
+            <name>
+              <surname>Sedash</surname>
+              <given-names>Y.V.</given-names>
+            </name>
+            <name>
+              <surname>Ostras</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Zaremba</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Shishkina</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Baumer</surname>
+              <given-names>V.N.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Kovalenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>van der Eycken</surname>
+              <given-names>E.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unexpected alternative direction of a Biginelli-like multicomponent reaction with 3-amino-1,2,4-triazole as the urea component</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2010</year>
+          <volume>51</volume>
+          <fpage>2095</fpage>
+          <lpage>2098</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2010.02.045</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M898">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Svetlik</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kettmann</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>The chameleon-like behaviour of 3-amino-1,2,4-triazole in the Biginelli reaction: Unexpected formation of a novel spiroheterocyclic system</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2011</year>
+          <volume>52</volume>
+          <fpage>1062</fpage>
+          <lpage>1066</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2010.12.051</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M898">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sedash</surname>
+              <given-names>Y.V.</given-names>
+            </name>
+            <name>
+              <surname>Gorobets</surname>
+              <given-names>N.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Konovalova</surname>
+              <given-names>I.S.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dotting the i&#x2019;S in three-component Biginelli-like condensations using 3-amino-1,2,4-triazole as a 1,3-binucleophile</article-title>
+          <source>RSC Adv.</source>
+          <year>2012</year>
+          <volume>2</volume>
+          <fpage>6719</fpage>
+          <lpage>6728</lpage>
+          <pub-id pub-id-type="doi">10.1039/c2ra20195j</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2016-M898-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M898-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Different products from the studied multicomponent reaction (MCR).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M898-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M898-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M898-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of 5-(5-Bromo-2-hydroxy-3-methoxyphenyl)-7-methyl-4,5,6,7-tetrahydro[1,2,4]triazolo[1,5-<italic>a</italic>]pyrimidin-7-ol, (5<italic>R</italic>,7<italic>S</italic>)- and (5<italic>S</italic>,7<italic>R</italic>)- racemic mixture (<bold>5d</bold>), relative configuration of stereogenic centers is shown.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M898-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>
