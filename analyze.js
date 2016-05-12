@@ -12,6 +12,8 @@ const articleReg = /molbank-(\d{4})-(M\d+)/i;
 const dataDir = './demo/molbank';
 const dataList = fs.readdirSync(dataDir);
 
+const output = process.argv[2] || test.json;
+
 const articles = dataList.length;
 let withXML = 0;
 let withMol3d = 0;
@@ -101,7 +103,7 @@ console.log(withXML, 'with XML file');
 console.log(withMol2d, 'with mol file');
 console.log(withMol3d, 'with 3D mol file');
 
-fs.writeFileSync('test.json', JSON.stringify(result));
+fs.writeFileSync(output, JSON.stringify(result));
 
 function parseXML(element, file) {
     const data = fs.readFileSync(file, 'utf8');
