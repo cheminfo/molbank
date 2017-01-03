@@ -13,6 +13,6 @@
   "dependencies": {
     "chemcalc": "^3.0.6",
     "openchemlib": "^4.2.2",
-    "xml2js": "^0.4.16"
+    "xmldom": "^0.1.27"
   }
 }

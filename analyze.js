@@ -5,14 +5,14 @@ const path = require('path');
 
 const Chemcalc = require('chemcalc');
 const OCL = require('openchemlib');
-const parseString = require('xml2js').parseString;
+const DOMParser = require('xmldom').DOMParser;
 
 const articleReg = /molbank-(\d{4})-(M\d+)/i;
 
 const dataDir = './demo/molbank';
 const dataList = fs.readdirSync(dataDir);
 
-const output = process.argv[2] || test.json;
+const output = process.argv[2] || 'test.json';
 
 const articles = dataList.length;
 let withXML = 0;
@@ -43,11 +43,12 @@ for (const article of dataList) {
         const filePath = path.join(fileListDir, file);
         if (/\.xml$/i.test(file)) {
             if (!hasXML) {
-                if (parseXML(element, filePath)) {
+                try {
+                    parseXML(element, filePath);
                     hasXML = true;
                     withXML++;
-                } else {
-                    console.error(`Could not parse XML for ${article}`);
+                } catch (e) {
+                    console.error(`Could not parse XML for ${article}: ${e}`);
                 }
             }
         } else if (/-mod\.mol$/i.test(file)) {
@@ -107,62 +108,69 @@ fs.writeFileSync(output, JSON.stringify(result));
 
 function parseXML(element, file) {
     const data = fs.readFileSync(file, 'utf8');
-    let ok = false;
-    parseString(data, function (err, result) {
-        if (err) return;
-        ok = true;
-        if (result.article) {
-            if (result.article.front) {
-                const articleMeta = result.article.front[0]['article-meta'][0];
-                
-                // look for DOI
-                const articleID = articleMeta['article-id'];
-                for (const id of articleID) {
-                    if (id.$['pub-id-type'] === 'doi') {
-                        element.doi = id._;
-                        break;
-                    }
-                }
-                
-                // look for article name
-                element.name = String(articleMeta['title-group'][0]['article-title'][0]);
-                
-                // look for authors
-                const contribGroup = articleMeta['contrib-group'][0].contrib;
-                element.authors = [];
-                for (const contrib of contribGroup) {
-                    if (contrib.$['contrib-type'] === 'author') {
-                        if (contrib.name && contrib.name[0]) {
-                            element.authors.push({
-                                surname: contrib.name[0].surname[0],
-                                names: contrib.name[0]['given-names'][0]
-                            });
-                        }
-                    }
-                }
+    const doc = new DOMParser().parseFromString(data);
+    const articleDom = doc.getElementsByTagName('article')[0] || fail('no article');
+    const article = {};
+    element.article = article;
 
-                // look for publication date
-                const pubDate = articleMeta['pub-date'];
-                for (const date of pubDate) {
-                    if (date.$['pub-type'] === 'epub') {
-                        element.date = {
-                            day: parseInt(date.day[0]),
-                            month: parseInt(date.month[0]),
-                            year: parseInt(date.year[0])
-                        };
-                        break;
-                    }
-                }
+    const articleType = articleDom.getAttribute('article-type');
+    if (articleType === 'editorial') {
+        fail('editorial');
+    }
 
-                if (articleMeta.volume) {
-                    element.volume = parseInt(articleMeta.volume);
-                }
-
-                if (articleMeta.issue) {
-                    element.issue = parseInt(articleMeta.issue);
-                }
-            }
+    const articleMeta = articleDom.getElementsByTagName('article-meta')[0] || fail('no meta');
+    const articleIds = articleMeta.getElementsByTagName('article-id');
+    for (let i = 0; i < articleIds.length; i++) {
+        const articleId = articleIds[i];
+        const pubIdType = articleId.getAttribute('pub-id-type');
+        if (pubIdType === 'doi') {
+            article.doi = articleId.textContent;
+        } else if (pubIdType === 'publisher-id') {
+            article.publisherId = articleId.textContent;
         }
-    });
-    return ok;
+    }
+
+    const articleTitle = articleMeta.getElementsByTagName('article-title')[0] || fail('no title');
+    article.title = articleTitle.textContent;
+
+    article.keywords = [];
+    const keywords = articleMeta.getElementsByTagName('kwd');
+    for (let i = 0; i < keywords.length; i++) {
+        const keyword = keywords[i];
+        article.keywords.push(keyword.textContent);
+    }
+
+    const contribGroup = articleMeta.getElementsByTagName('contrib-group')[0] || fail('no contrib group');
+    const contribs = contribGroup.getElementsByTagName('contrib');
+    article.authors = [];
+    for (let i = 0; i < contribs.length; i++) {
+        const contrib = contribs[i];
+        if (contrib.getAttribute('contrib-type') === 'author') {
+            article.authors.push({
+                surname: contrib.getElementsByTagName('surname')[0].textContent,
+                names: contrib.getElementsByTagName('given-names')[0].textContent
+            });
+        }
+    }
+
+    const pubDates = articleMeta.getElementsByTagName('pub-date');
+    for (let i = 0; i < pubDates.length; i++) {
+        const pubDate = pubDates[i];
+        if (pubDate.getAttribute('pub-type') === 'epub') {
+            article.date = {
+                day: parseInt(pubDate.getElementsByTagName('day')[0].textContent),
+                month: parseInt(pubDate.getElementsByTagName('month')[0].textContent),
+                year: parseInt(pubDate.getElementsByTagName('year')[0].textContent),
+            };
+            break;
+        }
+    }
+
+    article.volume = parseInt((articleMeta.getElementsByTagName('volume')[0] || fail('no volume')).textContent);
+    article.issue = parseInt((articleMeta.getElementsByTagName('issue')[0] || fail('no issue')).textContent);
+    article.elocationId = (articleMeta.getElementsByTagName('elocation-id')[0] || fail('no elocation id')).textContent;
+
+    function fail(message) {
+        throw new Error(message);
+    }
 }
