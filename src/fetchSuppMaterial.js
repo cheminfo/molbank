@@ -21,11 +21,13 @@ module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
                 addMolData(info, molData);
                 info.mol2d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
-        } else {
-            console.log('other file: ' + file.name);
         }
     }
-    return info;
+    if (info.mol2d) {
+        return info;
+    } else {
+        return null;
+    }
 });
 
 const fetchMolfile = bluebird.coroutine(function* fetchMolfile(url) {

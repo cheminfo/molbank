@@ -13,6 +13,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "chemcalc": "^3.0.6",
+    "mkdirp": "^0.5.1",
     "openchemlib": "^5.2.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
