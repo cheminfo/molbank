@@ -12,7 +12,7 @@
   "private": true,
   "dependencies": {
     "chemcalc": "^3.0.6",
-    "openchemlib": "^4.2.2",
+    "openchemlib": "^5.2.0",
     "xmldom": "^0.1.27"
   }
 }
