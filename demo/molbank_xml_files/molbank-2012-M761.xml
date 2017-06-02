@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M761</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M761</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2,3,4,6-Tetra-<italic>O</italic>-benzyl-1-<italic>C</italic>-phenyl-&#x3B1;-<sc>d</sc>-glucopyranosyl 2,3,4,6-Tetra-<italic>O</italic>-benzyl-&#x3B1;-<sc>d</sc>-glucopyranoside</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yamanoi</surname>
+            <given-names>Takashi</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M761" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Inoue</surname>
+            <given-names>Ryo</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oda</surname>
+            <given-names>Yoshiki</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M761">The Noguchi Institute, 1-8-1 Kaga, Itabashi-ku, Tokyo 173-0003, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M761"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>tyama@noguchi.or.jp</email>; Fax: +81-3-5944-3221.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>06</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>2</issue>
+      <elocation-id>M761</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>06</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>06</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound <bold>1</bold> was synthesized by the coupling reaction of 2,3,4,6-tetra-<italic>O</italic>-benzyl-1-<italic>C</italic>-phenyl-&#x3B1;-<bold><sc>d</sc></bold>-glucopyranose (<bold>2</bold>) with 2,3,4,6-tetra-<italic>O</italic>-benzyl-<bold><sc>d</sc></bold>-glucopyranose (<bold>3</bold>) in the presence of 5 mol% bismuth(III) triflate in dichloromethane at 0 &#xB0;C.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>trehalose mimic</kwd>
+        <kwd>ketose</kwd>
+        <kwd>1-<italic>C</italic>-phenyl-glucopyranose</kwd>
+        <kwd>glucose</kwd>
+        <kwd>bismuth triflate</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Trehalose is a non-reducing disaccharide which is composed of two glucopyranosyl units linked to each other in &#x3B1;-configuration. Trehalose is well-known for its various biological functions, and current attention is focused on the biologically novel functions of trehalose analogs, such as binding potentials to E-selectin and shiga toxins, and antibacterial activities [<xref ref-type="bibr" rid="B1-molbank-2012-M761">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M761">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M761">3</xref>]. Therefore, it is of increasing importance to design and synthesize novel non-reducing disaccharides which are structurally-classified as trehalose analogs.</p>
+      <p>Our recent studies showed the synthetic approaches to two types of non-reducing disaccharides from aldoses and/or ketoses by bismuth(III) triflate (Bi(OTf)<sub>3</sub>)-catalyzed dehydrative glycosidations [<xref ref-type="bibr" rid="B4-molbank-2012-M761">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M761">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M761">6</xref>]. One was non-reducing disaccharides composed of two aldoses which linked with each other by self-condensations [<xref ref-type="bibr" rid="B5-molbank-2012-M761">5</xref>]. The other was a hybrid type of non-reducing disaccharides composed of aldose and ketose by the cross-condensations [<xref ref-type="bibr" rid="B6-molbank-2012-M761">6</xref>]. The latter condensation was the ketosylation reaction that utilized the ketohexopyranoses carrying the methyl group at the anomeric centers, <italic>i.e.</italic>, the 1-<italic>C</italic>-methyl-hexopyranose derivatives, as the glycosyl donors by using only 5 mol% Bi(OTf)<sub>3</sub>. Since some ketohexopyranose derivatives having a functional group such as an alkyl, alkynyl, alkene, and aryl group at the anomeric carbon centers are readily prepared from the corresponding glycono-1,5-lactone derivatives and appropriate organometallic reagents, it is expected that various kinds of structurally novel non-reducing disaccharides can be created using such ketohexopyranose derivatives. We also achieved the synthesis of a non-reducing disaccharide using the 1-<italic>C</italic>-butyl-<bold><sc>d</sc></bold>-glucopyranose derivative employing the same procedure [<xref ref-type="bibr" rid="B7-molbank-2012-M761">7</xref>].</p>
+      <p>We designed a novel non-reducing disaccharide using the 1-<italic>C</italic>-phenyl-<bold><sc>d</sc></bold>-glucopyranose derivative as a trehalose analog. This paper describes the synthesis of 2,3,4,6-tetra-<italic>O</italic>-benzyl-1-<italic>C</italic>-phenyl-<bold><sc>d</sc></bold>-glucopyranosyl 2,3,4,6-tetra-<italic>O</italic>-benzyl-<bold><sc>d</sc></bold>-glucopyranoside (<bold>1</bold>) by the Bi(OTf)<sub>3</sub>-catalyzed ketosylation of 2,3,4,6-tetra-<italic>O</italic>-benzyl-1-<italic>C</italic>-phenyl-<bold><sc>d</sc></bold>-glucopyranose (<bold>2</bold>) [<xref ref-type="bibr" rid="B8-molbank-2012-M761">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2012-M761">9</xref>] into 2,3,4,6-tetra-<italic>O</italic>-benzyl-<bold><sc>d</sc></bold>-glucopyranose (<bold>3</bold>) [<xref ref-type="bibr" rid="B10-molbank-2012-M761">10</xref>].</p>
+      <p>The ketosylation of <bold>2</bold> with <bold>3</bold> was investigated using Bi(OTf)<sub>3</sub> as shown in <xref ref-type="scheme" rid="molbank-2012-M761-sch001">Scheme 1</xref>. The condensation reaction of <bold>2</bold> with <bold>3</bold> in the presence of 5 mol% Bi(OTf)<sub>3</sub> in dichloromethane at 0 &#xB0;C for 15 h afforded <bold>1</bold> in a good yield of 55%. The benzyl 2,3,4,6-tetra-<italic>O</italic>-benzyl-1-<italic>C</italic>-phenyl-&#x3B1;-<bold><sc>d</sc></bold>-glucopyranoside (<bold>4</bold>) was obtained in 11% yield as a major by-product. Compound <bold>4</bold> would be formed by the reaction of <bold>2</bold> with benzyl alcohol generated by the degradation of <bold>2</bold> and/or <bold>3</bold>. A similar reaction at room temperature reduced the yield of <bold>1</bold> (12%) and increased the yield of <bold>4</bold> (26%).</p>
+      <p>The configuration of the two glycosidic linkages of <bold>1</bold> was determined by NOE and <sup>1</sup>H-NMR experiments. The NOE interaction between aromatic-ortho H and H-2' as shown in <xref ref-type="fig" rid="molbank-2012-M761-f001">Figure 1</xref> was observed. This observation inevitably indicated the equatorial orientation of the phenyl group and determined the &#x3B1;-ketopyranosidic linkage. The &#x3B1;-aldopyranosidic linkage was confirmed by the coupling constant (<italic>J</italic> = 3.4 Hz) of H-1. Thus, both the glycosidic linkages of <bold>1</bold> were &#x3B1;. The ketopyranosidic linkage of <bold>4</bold> was similarly determined as an &#x3B1; by the NOE interaction.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>2,3,4,6-Tetra-O-benzyl-1-C-phenyl-&#x3B1;-<bold><sc>d</sc></bold>-glucopyranosyl 2,3,4,6-tetra-O-benzyl-&#x3B1;-<bold><sc>d</sc></bold>-glucopyranoside <italic>(<bold>1</bold>)</italic></title>
+        <p>To a suspension of Bi(OTf)<sub>3</sub> (4.7 mg, 0.007 mmol), <bold>2</bold> (47.3 mg, 0.09 mmol) and CaSO<sub>4</sub> (<italic>ca</italic>. 100 mg) in CH<sub>2</sub>Cl<sub>2</sub> (3.5 mL) was added <bold>3</bold> (83.2 mg, 0.13 mmol) at 0 &#xB0;C under an Ar atmosphere. The resulting mixture was stirred for 15 h. The reaction was then quenched by addition of a sat. NaHCO<sub>3</sub> solution (5 mL). The reaction mixture was extracted with CH<sub>2</sub>Cl<sub>2</sub>, and the organic layer was washed with water and a sat. NaCl solution. After the organic layer was dried over Na<sub>2</sub>SO<sub>4</sub>, the solvent was evaporated under reduced pressure. The crude product was purified by preparative silica gel TLC (ethyl acetate/hexane = 1/3) to give <bold>1</bold> (R<sub>f</sub> = 0.58, 55.3 mg, 55%) and <bold>4</bold> (R<sub>f</sub> = 0.65, 10.1 mg, 11%) both as colorless oils. Compound <bold>1</bold>: [&#x3B1;]<sub>D</sub><sup>21</sup> +49&#xB0; (<italic>c</italic> 0.74, CHCl<sub>3</sub>). <sup>1</sup>H-NMR (600 MHz, CDCl<sub>3</sub>): &#x3B4; 3.32 (1H, d, <italic>J</italic> = 9.7 Hz, H-2'), 3.33&#x2013;3.37 (2H, m, H<sub>a</sub>-6, H<sub>a</sub>-6'), 3.42 (1H, dd, <italic>J</italic> = 3.4 Hz, <italic>J</italic> = 10.3 Hz, H-2), 3.47 (1H, dd, <italic>J</italic> = 2.8 Hz, <italic>J</italic> = 11.0 Hz, H<sub>b</sub>-6'), 3.62&#x2013;3.64 (1H, m, H<sub>b</sub>-6), 3.65 (1H, t, <italic>J</italic> = 8.9 Hz, H-4), 3.80 (1H, t, <italic>J</italic> = 9.6 Hz, H-4'), 4.121 (1H, t, <italic>J</italic> = 9.6 Hz, H-3), 4.124 (1H, d, <italic>J</italic> = 11.0 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.16 (1H, t, <italic>J</italic> = 9.7 Hz, H-3'), 4.28&#x2013;4.30 (1H, m, H-5), 4.35 (1H, d, <italic>J</italic> = 12.3 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.44&#x2013;4.62 (8H, m, H-5', C<italic>H<sub>2</sub></italic>Ph), 4.75 (1H, d, <italic>J</italic> = 11.0 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.83&#x2013;4.92 (5H, m, C<italic>H<sub>2</sub></italic>Ph), 4.99 (1H, d, <italic>J</italic> = 11.0 Hz, C<italic>H<sub>2</sub></italic>Ph), 5.03 (1H, d, <italic>J</italic> = 3.4 Hz, H-1), 7.14&#x2013;7.33 (43H, m, Ph), 7.83 (2H, d, <italic>J</italic> = 7.6 Hz, Armatic ortho-H). <sup>13</sup>C-NMR (150 MHz, CDCl<sub>3</sub>): &#x3B4; 68.2 (C-6), 68.6 (C-6'), 70.5 (C-5), 71.4 (C-5'), 73.2 (<italic>C</italic>H<sub>2</sub>Ph), 73.3 (<italic>C</italic>H<sub>2</sub>Ph), 73.4 (<italic>C</italic>H<sub>2</sub>Ph), 74.7 (<italic>C</italic>H<sub>2</sub>Ph), 75.0 (<italic>C</italic>H<sub>2</sub>Ph), 75.1 (<italic>C</italic>H<sub>2</sub>Ph), 75.47 (<italic>C</italic>H<sub>2</sub>Ph), 75.51 (<italic>C</italic>H<sub>2</sub>Ph), 78.21 (C-4), 78.22 (C-4'), 80.5 (C-2), 81.8 (C-3), 83.1 (C-3'), 85.5 (C-2'), 92.1 (C-1), 101.3 (C-1'), 127.1&#x2013;128.4 (Ph), 138.0&#x2013;138.7 (Ph). HRMS (ESI): <italic>m/z</italic> calcd for C<sub>7</sub><sub>4</sub>H<sub>7</sub><sub>4</sub>O<sub>11</sub>Na<sup>+</sup>: 1161.5123; found: 1161.5142. Anal. Calcd for C<sub>7</sub><sub>4</sub>H<sub>7</sub><sub>4</sub>O<sub>11</sub>&#xB7;H<sub>2</sub>O: C, 76.79; H, 6.62. Found: C, 76.97; H, 6.82. Compound <bold>4</bold>: [&#x3B1;]<sub>D</sub><sup>24</sup> +41&#xB0; (<italic>c</italic> 0.55, CHCl<sub>3</sub>). <sup>1</sup>H-NMR (600 MHz, CDCl<sub>3</sub>): &#x3B4; 3.38 (1H, d, <italic>J</italic> = 9.6 Hz, H-2), 3.74 (1H, d, <italic>J</italic> = 10.3 Hz, H<sub>a</sub>-6), 3.80&#x2013;3.85 (3H, m, H-4, H<sub>b</sub>-6, C<italic>H<sub>2</sub></italic>Ph), 3.90 (1H, dd, <italic>J</italic> = 3.4 Hz, <italic>J</italic> = 10.3 Hz, H-5), 4.25 (1H, t, <italic>J</italic> = 8.9 Hz, H-3), 4.37 (2H, s, C<italic>H<sub>2</sub></italic>Ph), 4.46 (1H, d, <italic>J</italic> = 10.3 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.61 (1H, d, <italic>J</italic> = 12.3 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.63 (1H, d, <italic>J</italic> = 13.1 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.70 (1H, d, <italic>J</italic> = 12.4 Hz, C<italic>H<sub>2</sub></italic>Ph), 4.86&#x2013;4.88 (2H, m, C<italic>H<sub>2</sub></italic>Ph), 4.94 (1H, d, <italic>J</italic> = 11.0 Hz, C<italic>H<sub>2</sub></italic>Ph), 7.10&#x2013;7.41 (28H, m, Ph), 7.72 (2H, d, <italic>J</italic> = 8.2 Hz, Armatic ortho-H). <sup>13</sup>C-NMR (150 MHz, CDCl<sub>3</sub>): &#x3B4; 63.7 (<italic>C</italic>H<sub>2</sub>Ph), 68.9 (C-6), 72.3 (C-5), 73.4 (<italic>C</italic>H<sub>2</sub>Ph), 75.1 (<italic>C</italic>H<sub>2</sub>Ph), 75.5 (<italic>C</italic>H<sub>2</sub>Ph), 75.7 (<italic>C</italic>H<sub>2</sub>Ph), 78.6 (C-4), 83.1 (C-3), 85.8 (C-2), 101.5 (C-1), 127.3&#x2013;128.4 (Ph), 138.3&#x2013;138.8 (Ph). HRMS (ESI): <italic>m/z</italic> calcd for C<sub>47</sub>H<sub>46</sub>O<sub>6</sub>Na<sup>+</sup>: 729.3187; found: 729.3216. Anal. Calcd for C<sub>47</sub>H<sub>46</sub>O<sub>6</sub>&#xB7;2/3H<sub>2</sub>O: C, 78.53; H, 6.64. Found: C, 78.42; H, 6.61.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M761">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M761-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M761-s001-mod.mol">
+      <label>Supplementary File 1</label>
+      </supplementary-material>
+        <supplementary-material id="molbank-2012-M761-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M761-s001.mol">
+   <label>Supplementary File 2</label>
+     </supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M761">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hiruma</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kajimoto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Weitz-Schmidt</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ollmann</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>C.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rational design and synthesis of a 1,1-linked disaccharide that is 5 times as active as sialyl Lewis X in binding to E-selectin</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1996</year>
+          <volume>118</volume>
+          <fpage>9265</fpage>
+          <lpage>9270</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja9611093</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M761">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dohi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nishida</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Furuta</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Uzawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yokoyama</surname>
+              <given-names>S.-I.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular design and biological potential of galacto-type trehalose as a nonnatural ligand of shiga toxins</article-title>
+          <source>Org. Lett.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>355</fpage>
+          <lpage>357</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol017135+</pub-id>
+          <pub-id pub-id-type="pmid">11820878</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M761">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hui</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>C.-H.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient divergent synthesis of a library of trehalosamine analogues</article-title>
+          <source>Org. Lett.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>2245</fpage>
+          <lpage>2248</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol026095m</pub-id>
+          <pub-id pub-id-type="pmid">12074678</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M761">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamanoi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hamasaki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bismuth(III) triflate-catalyzed dehydrative glycosidation using 1-hydroxy sugars</article-title>
+          <source>Lett. Org. Chem.</source>
+          <year>2008</year>
+          <volume>5</volume>
+          <fpage>30</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="doi">10.2174/157017808783330289</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M761">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamanoi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Iwao</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Oda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hamasaki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Formation of <italic>O</italic>-glycosidic linkages from 1-hydroxy sugars by bismuth(III) triflate-catalyzed dehydrative glycosidation</article-title>
+          <source>Heterocycles</source>
+          <year>2009</year>
+          <volume>77</volume>
+          <fpage>445</fpage>
+          <lpage>460</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-08-S(F)41</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M761">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamanoi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Katsuraya</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hamasaki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of trehalose mimics by bismuth(III) triflate or bis(trifluoromethane)sulfonimide-catalyzed 1-<italic>C</italic>-methyl-<bold><sc>d</sc></bold>-hexopyranosylation</article-title>
+          <source>Tetrahedron Asymmetry</source>
+          <year>2006</year>
+          <volume>17</volume>
+          <fpage>2914</fpage>
+          <lpage>2918</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetasy.2006.11.008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M761">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamanoi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Oda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hamasaki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>6,7,8,10-Tetra-<italic>O</italic>-benzyl-1,2,3,4-tetradeoxy-&#x3B1;-<bold><sc>d</sc></bold>-gluco-dec-5-ulopyranosyl 2,3,4,6-tetra-<italic>O</italic>-benzyl-&#x3B1;-<bold><sc>d</sc></bold>-glucopyranoside</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M671</fpage>
+          <pub-id pub-id-type="doi">10.3390/M671</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M761">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellsworth</surname>
+              <given-names>B.-A.</given-names>
+            </name>
+            <name>
+              <surname>Doyle</surname>
+              <given-names>A.-G.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Caceres-Cortes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Deshpande</surname>
+              <given-names>P.-P.</given-names>
+            </name>
+            <name>
+              <surname>Pullockaran</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Washburn</surname>
+              <given-names>W.-N.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic>-Arylglucoside synthesis: Triisopropylsilane as a selective reagent for the reduction of an anomeric <italic>C</italic>-phenyl ketal</article-title>
+          <source>Tetrahedron Asymmetry</source>
+          <year>2003</year>
+          <volume>14</volume>
+          <fpage>3243</fpage>
+          <lpage>3247</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetasy.2003.08.007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M761">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Czernecki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ville</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>C-Glycosides. 7. Stereospecific <italic>C</italic>-glycosylation of aromatic and heterocyclic rings</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1989</year>
+          <volume>54</volume>
+          <fpage>610</fpage>
+          <lpage>612</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00264a020</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M761">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamanoi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Misawa</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of partially benzylated mono-, di-, and trisaccharides by selective cleavage of the &#x3B2;-fructofuranosidic linkage in fully benzylated sucrose and sucrose-related oligosaccharides under acidic conditions</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>2008</year>
+          <volume>343</volume>
+          <fpage>1366</fpage>
+          <lpage>1372</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.carres.2008.03.024</pub-id>
+          <pub-id pub-id-type="pmid">18423585</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2012-M761-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M761-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M761-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2012-M761-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>NOE interaction.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M761-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

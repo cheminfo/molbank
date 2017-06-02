@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M797</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M797</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Chloro-7-methyl-3-({4-[(4-nitrophenoxy)methyl]-1<italic>H</italic>-1,2,3-triazol-1-yl}methyl)quinoline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Praveena</surname>
+            <given-names>Koduru Sri Shanthi</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M797" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murthy</surname>
+            <given-names>Nandula Yadagiri Sreenivasa</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M797" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pal</surname>
+            <given-names>Sarbani</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M797" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2013-M797" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M797"><label>1</label>MNR Degree &amp; PG College, Kukatpally, Hyderabad-500085, A.P., India</aff>
+      <aff id="af2-molbank-2013-M797"><label>2</label>Department of Chemistry, School of Engineering, Anurag Group of Institutions, Ranga Reddy District-501301, A.P., India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M797"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>sarbani277@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>04</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>2</issue>
+      <elocation-id>M797</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>03</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>04</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, 2-chloro-7-methyl-3-({4-[(4-nitrophenoxy)methyl]-1<italic>H</italic>-1,2,3-triazol-1-yl}methyl)quinoline was synthesized in one pot. The structure of the compound was fully characterized by IR, <sup>1</sup>H and <sup>13</sup>C-NMR, mass spectral analysis and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>triazole</kwd>
+        <kwd>2-chloroquinoline</kwd>
+        <kwd>CuAAC</kwd>
+        <kwd>one pot reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Since the discovery of penicillin by Alexander Fleming and Prontosil by Gerald Domagk the arsenal of antibacterials available for the treatment of infectious disease has expanded exponentially [<xref ref-type="bibr" rid="B1-molbank-2013-M797">1</xref>]. 2-Chloroquinolines <bold>A</bold> (<xref ref-type="scheme" rid="molbank-2013-M797-sch001">Scheme 1</xref>) represents an important class of bio active molecules that shows a wide range of pharmacological activities [<xref ref-type="bibr" rid="B2-molbank-2013-M797">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2013-M797">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2013-M797">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2013-M797">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M797">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2013-M797">7</xref>] including anti bacterial activity. On the other hand triazole core <bold>B</bold> (<xref ref-type="scheme" rid="molbank-2013-M797-sch001">Scheme 1</xref>) is a structural motif of particular interest in the field of medicinal chemistry [<xref ref-type="bibr" rid="B8-molbank-2013-M797">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2013-M797">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2013-M797">10</xref>].</p>
+      <p>Because of their common vast range of biological activity and our interest in quinoline derivatives [<xref ref-type="bibr" rid="B11-molbank-2013-M797">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2013-M797">12</xref>] novel 1,4 disubstituted 1,2,3 triazolyl-2-chloroquinoline <bold>C</bold> was designed having structural features of both <bold>A</bold> and <bold>B</bold> (<xref ref-type="scheme" rid="molbank-2013-M797-sch001">Scheme 1</xref>) and an efficient synthesis was achieved in aqueous medium using copper catalyzed 1,3-dipolar [2+3] cycloaddition between azide and a terminal alkyne (CuAAC) [<xref ref-type="bibr" rid="B13-molbank-2013-M797">13</xref>]. We estimated that combination of structural features of triazole and 2-chloroquinoline would provide new promising pharmacological agent.</p>
+      <p>The starting compound <bold>1</bold> required for our study was prepared in 85% yield from 2-chloro-7-methylquinoline-3-carbaldehyde [<xref ref-type="bibr" rid="B2-molbank-2013-M797">2</xref>] via reduction of its aldehyde group to primary alcohol, using sodium borohydride in ethanol at room temperature followed by conversion of the hydroxyl group to chloro group by refluxing the solution in the presence of thionyl chloride and catalytic amount of pyridine in benzene (<xref ref-type="scheme" rid="molbank-2013-M797-sch002">Scheme 2</xref>).</p>
+      <p>After synthesizing 2-chloro-3-(chloromethyl)-7-methylquinoline (<bold>1</bold>), we performed a one pot sequential reaction to get the desired target molecule. A mixture of compound <bold>1</bold> (0.904 g, 4 mmol), and potassium iodide (0.766 g, 4.6 mmol), in acetone (15 mL) was refluxed for 1.5 h and then cooled to room temperature. To this was added sodium azide (0.28 g, 4.4 mmol), 1-nitro-4-(prop-2-ynyloxy)benzene (0.779 g, 4.4 mmol), copper sulphate (0.996 g, 4 mmol), sodium ascorbate (0.396 g, 2 mmol), and water (10 mL). The mixture was stirred for 0.5 h at room temperature and the progress of the reaction was monitored by checking TLC using 3:1 chloroform: ethyl acetate as eluent in regular intervals. After completion of the reaction, the reaction mixture was filtered. The filtered solid was purified by column chromatography using 3:1 chloroform-ethyl acetate.</p>
+      <p>Description of the compound <bold>1</bold>: White solid.</p>
+      <p>Yield: 95%.</p>
+      <p>M.p.: 120&#x2013;122 &#xB0;C.</p>
+      <p>R<sub>f</sub>: 0.94 (Chloroform:Ethyl acetate = 1:1).</p>
+      <p>IR &#x3C5;<sub>max</sub> (KBr cm<sup>&#x2212;</sup><sup>1</sup>): 3043, 3017, 2969, 2919, 1620, 1602, 1564, 1042, 699.</p>
+      <p>Mass (ES): <italic>m/z</italic> 226 (M+1, 100%).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 8.23 (s, 1H), 7.81 (s, 1H), 7.73 (d, <italic>J</italic> = 8.3 Hz, 1H), 7.43 (d, <italic>J</italic> = 8.3 Hz, 1H), 4.83 (s, 2H), 2.27 (s, 3H).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 100 MHz): &#x3B4; 149.6, 147.5, 141.8, 138.6, 129.8, 128.1, 127.2, 126.9, 125.1, 40.4, 20.2.</p>
+      <p>Elemental analysis found C, 58.55; H, 4.18; N, 6.29. Calc. for C<sub>11</sub>H<sub>9</sub>Cl<sub>2</sub>N; C, 58.43; H, 4.01; Cl, 31.36; N 6.19.</p>
+      <p>Description of the compound <bold>2</bold>: Off white solid.</p>
+      <p>Yield: 1.54 g, 94%.</p>
+      <p>M.p.: 175&#x2013;177 &#xB0;C.</p>
+      <p>R<sub>f</sub>: 0.39 (Chloroform:Ethyl acetate = 3:1).</p>
+      <p>IR &#x3C5;<sub>max</sub> (KBr, cm<sup>&#x2212;</sup><sup>1</sup>): 3151, 3118, 2924, 2852, 1594, 1496.0, 1340, 1264, 1230, 1111.</p>
+      <p>Mass (ES): <italic>m/z</italic> 410 (M+1, 100%).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 8.20 (d, <italic>J</italic> = 9.3 Hz, 2H), 7.94 (s, 1H), 7.80 (s, 2H), 7.66 (d, 1H, <italic>J</italic> = 8.3 Hz), 7.42 (d, 1H, <italic>J</italic> = 8.3 Hz), 7.07 (d, 2H, <italic>J</italic> = 9.3 Hz), 5.82 (s, 2H), 5.32 (s, 2H), 2.57 (s, 3H).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 100 MHz): &#x3B4; 163.0, 148.9, 147.9, 142.7, 142.4, 141.9, 140.8, 138.8, 137.0, 130.2, 127.4, 125.9, 125.3, 123.5, 114.9, 62.4, 51.5, 27.5.</p>
+      <p>Elemental analysis found C, 58.46; H, 3.79; N, 17.38. Calc. for C<sub>20</sub>H<sub>16</sub>ClN<sub>5</sub>O<sub>3</sub>; C, 58.61; H, 3.94; Cl, 8.65; N, 17.09; O, 11.71.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2013-M797">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2013-M797-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M797-s001.pdf">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2013-M797-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M797-s002-mod.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2013-M797-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M797-s002.mol">
+	   <label>Supplementary File 3</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors (S. Pal and K. S. S. Praveena) thank M. N. Raju for his constant encouragement.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M797">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Meara</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Cullum</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Majid</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sheldon</surname>
+              <given-names>T.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic review of antimicrobial agents used for chronic wounds</article-title>
+          <source>Br. J. Surg.</source>
+          <year>2001</year>
+          <volume>88</volume>
+          <fpage>4</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2168.2001.01631.x</pub-id>
+          <pub-id pub-id-type="pmid">11136304</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M797">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdulqader</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Abdelkader</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Lien</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, Synthesis, and pharmacological activities of 2-substituted 4-phenylquinolines as potential antidepressant drugs</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1985</year>
+          <volume>28</volume>
+          <fpage>1394</fpage>
+          <lpage>1398</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M797">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Drabu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Panda</surname>
+              <given-names>B.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>New 2-chloro-7-methylquinoline amine analogues as possible antimycotic agents</article-title>
+          <source>Lat. Am. J. Pharm.</source>
+          <year>2010</year>
+          <volume>29</volume>
+          <fpage>968</fpage>
+          <lpage>975</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M797">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological activities of quinoline derivatives</article-title>
+          <source>Mini Rev. Med. Chem.</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>1648</fpage>
+          <lpage>1654</lpage>
+          <pub-id pub-id-type="doi">10.2174/138955709791012247</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M797">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Drabu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Machwal</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antidepressant and antifungal evaluation of novel 2-chloro-8-methylquinoline amine derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>670</fpage>
+          <lpage>675</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2010.12.002</pub-id>
+          <pub-id pub-id-type="pmid">21194811</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M797">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bindu</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Mahadevan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Satyanarayan</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Ravikumar Naik</surname>
+              <given-names>T.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and DNA cleavage studies of novel quinoline oxime esters</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>898</fpage>
+          <lpage>900</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2011.12.037</pub-id>
+          <pub-id pub-id-type="pmid">22222035</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M797">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rizvi</surname>
+              <given-names>S.U.F.</given-names>
+            </name>
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Parvez</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Suliman</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant and antimicrobial studies of novel <italic>N</italic>&#x2032;-(substituted-2-chloroquinolin-3-yl)methylidene-4-hydroxy-2<italic>H</italic>-1,2-benzothiazine-3-carbohydrazides-1,1-dioxides</article-title>
+          <source>Med. Chem. Res.</source>
+          <year>2012</year>
+          <volume>21</volume>
+          <fpage>2340</fpage>
+          <lpage>2348</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00044-011-9755-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M797">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shafran</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Bakulev</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Rozin</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>Shafran</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Condensed 1,2,3-triazoles (review)</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>2008</year>
+          <volume>44</volume>
+          <fpage>1040</fpage>
+          <lpage>1069</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10593-008-0155-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M797">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Agalave</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Maujan</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Pore</surname>
+              <given-names>V.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2,3-Triazole tethered <italic>&#x3B2;</italic>-lactam-chalcone bifunctional hybrids: Synthesis and anticancer evaluation</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>47</volume>
+          <fpage>594</fpage>
+          <lpage>600</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M797">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Raj</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mahajan</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Bedi</surname>
+              <given-names>P.M.S.</given-names>
+            </name>
+            <name>
+              <surname>Kaur</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Saxena</surname>
+              <given-names>A.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Click chemistry: 1,2,3-Triazoles as pharmacophores</article-title>
+          <source>Chem. Asian J.</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>2696</fpage>
+          <lpage>2718</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M797">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reddy</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Nakka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alishetty</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ghosh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Helliwell</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khagga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel quinoline analogues of nimesulide: An unusual observation</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2011</year>
+          <volume>48</volume>
+          <fpage>555</fpage>
+          <lpage>562</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.618</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M797">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reddy</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Nallapati</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Beevi</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Mangamoori</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Khagga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A "green" synthesis of <italic>N</italic>-(quinoline-3-ylmethylene)benzohydrazide derivatives and their cytotoxicity activities</article-title>
+          <source>J. Braz. Chem. Soc.</source>
+          <year>2011</year>
+          <volume>22</volume>
+          <fpage>1742</fpage>
+          <lpage>1749</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0103-50532011000900017</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M797">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Himo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Lovell</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hilgraf</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rostovtsev</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Noodleman</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K.B.</given-names>
+            </name>
+            <name>
+              <surname>Fokin</surname>
+              <given-names>V.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Copper(I)-catalyzed synthesis of azoles. DFT study predicts unprecedented reactivity and intermediates</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2005</year>
+          <volume>127</volume>
+          <fpage>210</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja0471525</pub-id>
+          <pub-id pub-id-type="pmid">15631470</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2013-M797-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M797-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Design of hybrid molecule.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M797-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M797-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M797-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of the title compound.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M797-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

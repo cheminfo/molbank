@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M437</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M437</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 3,3&#xB4;-[methylenebis(3,1-phenylenenitrilo)]bis[1,3-dihydro]-2H-indol-2-one as a novel bis-Schiff base</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jarrahpour</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2005-M437" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khalili</surname>
+            <given-names>D.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M437">Department of Chemistry, College of Science, Shiraz University, Shiraz 71454, Iran</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2005-M437"><label>*</label>Tel. +98 711 2284822, Fax: +98 711 2280926. e-mail: <email>jarrah@chem.susc.ac.ir</email> and <email>aliasghar6683@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>4</issue>
+      <elocation-id>M437</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>isatin</kwd>
+		<kwd>bis- Schiff base</kwd>
+		<kwd>3,3&#xB4;-diaminodiphenylmethane</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Isatin (1H-indole-2,3-dione) was first obtained by Erdman and Laurent in 1841 as a product from the oxidation of indigo by nitric and chromic acids [<xref ref-type="bibr" rid="B1-molbank-2005-M437">1</xref>]. The synthetic versatility of isatin has led to the extensive use of this compound in organic synthesis. In nature, isatin is found in plants of the genus <italic>Isatis</italic> [<xref ref-type="bibr" rid="B2-molbank-2005-M437">2</xref>], in <italic>Calanthe</italic> discolor LINDL [<xref ref-type="bibr" rid="B3-molbank-2005-M437">3</xref>]. Isatin is the biologically active chemical produced by an <italic>Altermones</italic> sp. Strain inhabiting the surface of embryos of the cardiean shrimp <italic>Palaemon macrodectylus</italic>, which protect them from the pathogenic fungus <italic>Lagenidium callinectes</italic> [<xref ref-type="bibr" rid="B4-molbank-2005-M437">4</xref>]. Schiff bases of isatin were reported to possess anti-HIV [<xref ref-type="bibr" rid="B5-molbank-2005-M437">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2005-M437">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2005-M437">7</xref>], anticonvulsant [<xref ref-type="bibr" rid="B8-molbank-2005-M437">8</xref>], antibacterial [<xref ref-type="bibr" rid="B9-molbank-2005-M437">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2005-M437">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2005-M437">11</xref>], antiprotozoal [<xref ref-type="bibr" rid="B12-molbank-2005-M437">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2005-M437">13</xref>], antifungal [<xref ref-type="bibr" rid="B14-molbank-2005-M437">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2005-M437">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2005-M437">16</xref>], antiviral [<xref ref-type="bibr" rid="B17-molbank-2005-M437">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2005-M437">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2005-M437">19</xref>] and antihelminthic [<xref ref-type="bibr" rid="B20-molbank-2005-M437">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2005-M437">21</xref>] activities. The Schiff bases of isatin have also been used as a ligand for complexation of metals such as copper (&#x406;&#x406;) [<xref ref-type="bibr" rid="B22-molbank-2005-M437">22</xref>]. Based on these facts, we decided to synthesize a new isatin bis-Schiff base as potential biological and complexometric agents. Its biological activities and analytical works are under study.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M437-i001.tif"/>
+      </p>
+      <p>Isatin <bold>1</bold> (2.00 g, 13.6 mmol) and 3,3&#xB4;-diaminodiphenylmethane <bold>2</bold> (1.35 g, 6.8 mmol) were dissolved in 35 mL of warm ethanol containing 0.45 mL of acetic acid. The reaction mixture was refluxed for 17h and set aside. The resultant solidwas filtered and washed with ethanol. Pure Schiff base <bold>3</bold> was obtained upon recrystallization from ethanol (2.40 g, 77.3%).</p>
+      <p>Melting point: &gt;260&#xB0;C</p>
+      <p>IR(KBr, cm<sup>-1</sup>): 1652 (C=N); 1726.2 (C=O); 3168.8 (N-H).</p>
+      <p><sup>1</sup>H-NMR (250MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 10.96 (1H, s, N-H); 7.43-6.29 (16H, m, ArH); 4.07 (2H, s, CH<sub>2</sub>).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 72.54; 115.63; 116.39; 119.11; 120.04; 121.65; 122.25; 124.28; 126.41; 127.20; 130.18; 130.35; 134.66; 139.19; 147.51; 151.73; 155.53; 159.76; 168.29.</p>
+      <p>MS(m/z, %): 457 (17.40); 456 (34.40); 327 (12.40); 312 (31.40); 299 (14.20); 284 (23.40); 44 (100.00).</p>
+    </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2005-M437">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M437-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M437-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M437-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M437-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+       </app>
+</app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>The authors are grateful to Shiraz University Research Council for financial support (Grant No.83-GR-SC-31 and 84-GR-SC-23 ).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M437">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dasilva</surname>
+              <given-names>J. F. M.</given-names>
+            </name>
+            <name>
+              <surname>Garden</surname>
+              <given-names>S. J.</given-names>
+            </name>
+            <name>
+              <surname>Pinto</surname>
+              <given-names>A. C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Braz. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>12</volume>
+		  <issue>3</issue>
+          <fpage>273</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M437">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Zhongcaoyao</source>
+          <year>1986</year>
+          <volume>17</volume>
+          <fpage>8</fpage>
+          <comment>(CA 104:213068f)</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M437">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshikawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Murakami</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kishi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sakurama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nomura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kubo</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1998</year>
+          <volume>46</volume>
+          <fpage>886</fpage>
+          <pub-id pub-id-type="pmid">9621425</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M437">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gil-Turners</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Hay</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Fenical</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1989</year>
+          <fpage>116</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2005-M437">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Yogeeswari</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Pannecouque</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Witvrouw</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chemotherapy</source>
+          <year>1999</year>
+          <volume>45</volume>
+          <fpage>192</fpage>
+          <lpage>196</lpage>
+          <pub-id pub-id-type="pmid">10224341</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2005-M437">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>249</fpage>
+          <lpage>255</lpage>
+          <pub-id pub-id-type="pmid">10758286</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2005-M437">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Arzneimittel Forschun./Drug Res.</source>
+          <year>2000</year>
+          <volume>50</volume>
+          <fpage>55</fpage>
+          <lpage>59</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2005-M437">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sridhar</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Armes</surname>
+              <given-names>S. K.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Pharm. Sci.</source>
+          <year>2002</year>
+          <volume>16</volume>
+          <fpage>129</fpage>
+          <pub-id pub-id-type="pmid">12128166</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2005-M437">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Pharm. Turc.</source>
+          <year>1998</year>
+          <volume>40</volume>
+          <fpage>33</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2005-M437">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarangapani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>V. M.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Pharm. Sci.</source>
+          <year>1994</year>
+          <volume>56</volume>
+          <fpage>174</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2005-M437">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+            <name>
+              <surname>Nobles</surname>
+              <given-names>W. L. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Pharm. Sci.</source>
+          <year>1975</year>
+          <volume>64</volume>
+          <fpage>881</fpage>
+          <pub-id pub-id-type="pmid">1151666</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2005-M437">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Imam</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+          </person-group>
+          <source>Experientia</source>
+          <year>1975</year>
+          <volume>31</volume>
+          <fpage>1287</fpage>
+          <pub-id pub-id-type="pmid">1107062</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2005-M437">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>I. A.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Pharmacol. Pharm.</source>
+          <year>1977</year>
+          <volume>29</volume>
+          <fpage>549</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2005-M437">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+           <source>Indian J. Pharm. Sci.</source>
+          <year>1999</year>
+          <volume>61</volume>
+          <fpage>358</fpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2005-M437">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Sci.Pharm.</source>
+          <year>1999</year>
+          <volume>67</volume>
+          <fpage>103</fpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2005-M437">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Pharm. Acta Helv.</source>
+          <year>1999</year>
+          <volume>74</volume>
+          <fpage>11</fpage>
+          <pub-id pub-id-type="pmid">10748620</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2005-M437">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varma</surname>
+              <given-names>R. S.</given-names>
+            </name>
+            <name>
+              <surname>Nobles</surname>
+              <given-names>W. L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1967</year>
+          <volume>10</volume>
+          <fpage>972</fpage>
+          <pub-id pub-id-type="pmid">4292737</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2005-M437">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>S. P.</given-names>
+            </name>
+            <name>
+              <surname>Shukla</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Awasthi</surname>
+              <given-names>L. P.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Sci.</source>
+          <year>1983</year>
+          <volume>52</volume>
+          <fpage>766</fpage>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2005-M437">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logan</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>M. P.</given-names>
+            </name>
+            <name>
+              <surname>Morgan</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Makohon</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>Pfau</surname>
+              <given-names>C. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Gen. Virol.</source>
+          <year>1975</year>
+          <volume>28</volume>
+          <fpage>271</fpage>
+          <pub-id pub-id-type="pmid">809544</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2005-M437">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarciron</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name>
+              <surname>Audin</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Delebre</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Gabrion</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Petavy</surname>
+              <given-names>A. F.</given-names>
+            </name>
+            <name>
+              <surname>Paris</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Pharm. Sci.</source>
+          <year>1993</year>
+          <volume>82</volume>
+          <fpage>605</fpage>
+          <pub-id pub-id-type="pmid">8331534</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2005-M437">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Et-savi</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Mostafa</surname>
+              <given-names>T. B.</given-names>
+            </name>
+            <name>
+              <surname>Mostafa</surname>
+              <given-names>B. B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Egypt. Soc. Parasitol.</source>
+          <year>1998</year>
+          <volume>28</volume>
+          <fpage>481</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2005-M437">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cerchiaro</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Micke</surname>
+              <given-names>G. A.</given-names>
+            </name>
+            <name>
+              <surname>Tavares</surname>
+              <given-names>M. F. M.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>A. M. D. C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal. A: Chem</source>
+          <year>2004</year>
+          <volume>221</volume>
+          <fpage>29</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group> 
+  </back>
+</article>

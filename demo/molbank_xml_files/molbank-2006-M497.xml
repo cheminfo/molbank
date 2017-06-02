@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M497</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M497</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis and physical characterization of 1-(2,4-dimethoxyphenyl)-4-(4-nitrophenyl)-3-phenoxyazetidin-2-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jarrahpour</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M497" ref-type="corresp">*</xref>
+          <xref rid="af1-molbank-2006-M497" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jalbout</surname>
+            <given-names>A. F.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M497" ref-type="corresp">*</xref>
+          <xref rid="af2-molbank-2006-M497" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rezaei</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M497" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M497"><label>1</label>Department of Chemistry, College of Sciences, Shiraz University, Shiraz 71454, Iran</aff>
+      <aff id="af2-molbank-2006-M497"><label>2</label>Department of Chemistry, The University of Arizona, Tucson, AZ 85721 USA</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2006-M497"><label>*</label> Author to whom correspondence should be addressed; Phone: +98 711 2284822, Fax: +98 711 2280926; E-mail: <underline><email>aliasghar6683@yahoo.com</email></underline> or <underline><email>jarrah@chem.susc.ac.ir</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M497</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>05</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>05</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>In this paper we propose the synthesis of 1-(2,4-dimethoxyphenyl)-4-(4-nitrophenyl)-3-phenoxyazetidin-2-one as a new monocyclic &#x3B2;-lactam. Its structure has been confirmed by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and Mass spectroscopic data. In addition to its synthesis we present AM1 calculations to characterize the physical properties of the molecule.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Azetidin-2-one</kwd>
+		<kwd>monocyclic &#x3B2;-lactam</kwd>
+		<kwd>Staudinger reaction</kwd>
+		<kwd>AM1</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction:</title>
+      <p>It is generally appreciated that &#x3B2;-lactam based antibiotics have a limited future given increased resistance demonstrated by many strains of bacteria [<xref ref-type="bibr" rid="B1-molbank-2006-M497">1</xref>]. There is an urgent need for the development of new classes of antibiotic and many laboratories have made significant progress in this area, especially with the introduction of peptide-based agents [<xref ref-type="bibr" rid="B2-molbank-2006-M497">2</xref>]. The enchanted &#x3B2;-lactams has had a variety of medicinal applications. In addition to the well-known penicillins and cephalosporins antibiotics, a number of other biologically relevant enzymes have been targeted by &#x3B2;-lactams [<xref ref-type="bibr" rid="B3-molbank-2006-M497">3</xref>]. The need for potent and effective &#x3B2;-lactam antibiotics as well as more effective &#x3B2;-lactamase inhibitors has motivated chemists to design new &#x3B2;-lactams [<xref ref-type="bibr" rid="B4-molbank-2006-M497">4</xref>]. These compounds have served as starting materials in the preparation of various heterocyclic compounds of biological significance [<xref ref-type="bibr" rid="B5-molbank-2006-M497">5</xref>]. Substituted hydroxy &#x3B2;-lactams have been the starting materials in the semi-synthesis of paclitaxel (Taxol) and docetaxel (Taxotere) [<xref ref-type="bibr" rid="B6-molbank-2006-M497">6</xref>]. The medicinal use of some &#x3B2;-lactams as therapeutic agents for lowering plasma cholesterol levels has been documented [<xref ref-type="bibr" rid="B7-molbank-2006-M497">7</xref>]. Studies of human leukocyte elastase inhibitory mechanisms and the biological activity of this class of compounds have also been published [<xref ref-type="bibr" rid="B8-molbank-2006-M497">8</xref>]. There have been a few other remarkable developments, such as catalytic asymmetric [<xref ref-type="bibr" rid="B9-molbank-2006-M497">9</xref>] and polymer-supported [<xref ref-type="bibr" rid="B10-molbank-2006-M497">10</xref>] synthesis of &#x3B2;-lactams. In the mid 1970s, a new class of &#x3B2;-lactam antibiotics characterized by a single monocyclic structure, called monocyclic &#x3B2;-lactams [<xref ref-type="bibr" rid="B11-molbank-2006-M497">11</xref>].<sup>6</sup> These are molecules which do not contain a ring fused the &#x3B2;-lactam ring [<xref ref-type="bibr" rid="B12-molbank-2006-M497">12</xref>].<sup>7</sup> Some monocyclic &#x3B2;-lactams containing the phthalimido group have shown good antibacterial activity [<xref ref-type="bibr" rid="B13-molbank-2006-M497">13</xref>].<sup>8</sup> As a result of this general trend of &#x3B2;-lactam use, the searches for clinically useful &#x3B2;-lactams that are antibacterial and have other medically important properties will continue [<xref ref-type="bibr" rid="B14-molbank-2006-M497">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2006-M497">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2006-M497">16</xref>].</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion:</title>
+      <p>Treatment of 4-nitrobenzaldehyde <bold>1</bold> with 2,4-dimethoxyanillin <bold>2</bold>  in ethanol under reflux condition afforded the desired Schiff base <bold>3</bold> as orange crystals in 85% yield. The [2+2] cycloaddition of this imine with the ketene (Staudinger reaction) generated in situ from phenoxyacetyl chloride in the presence of triethylamine in dry dichloromethane afforded the 1-(2,4-dimethoxyphenyl)-4-(4-nitrophenyl)-3-phenoxyazetidin-2-one <bold>5</bold> as a new monocyclic &#x3B2;-lactam (<xref ref-type="scheme" rid="molbank-2006-M497-sch001">Scheme 1</xref>). This [2+2] cycloaddition (Staudinger reaction) afforded the cis stereoisomer. The coupling constants for H<sub>3</sub> and H<sub>4</sub> were about 5 Hz which is consistent with this kind of geometry. The cis geometric isomer of the product was also confirmed by theoretical calculations. Then the optimized structure of the molecule was calculated.</p>
+      <p>All calculations in this work where carried out with the AM1 level of theory using the GAUSSIAN 03 [<xref ref-type="bibr" rid="B17-molbank-2006-M497">17</xref>] suite of programs. More information about these methods is available elsewhere [<xref ref-type="bibr" rid="B18-molbank-2006-M497">18</xref>]. <xref ref-type="fig" rid="molbank-2006-M497-f001">Figure 1</xref> presents the optimized structure of the molecule with bond lengths and bond angles shown, also shown are the theoretical spectra, where frequencies are shown in cm<sup>&#x2212;1</sup>, and IR intensities in KM/mol, and broadened theoretically via Doppler Broadening.</p>
+      <p><xref ref-type="table" rid="molbank-2006-M497-t001">Table 1</xref> shows the thermodynamic properties for the complex in figure 1 where T (temperature in K), S (entropy in J mol<sup>&#x2212;1</sup> K<sup>&#x2212;1</sup>), C<sub>p</sub> (heat capacity at constant pressure in kJ mol<sup>&#x2212;1</sup> K<sup>&#x2212;1</sup>), and &#x394;H=H&#xB0; - H&#xB0;<sub>298.15</sub> (enthalpy content, in kJ mol<sup>&#x2212;1</sup>), T<sub>1</sub>=100 K, T<sub>2</sub>=298.15 K, and T<sub>3</sub>=1000 K calculated AM1 frequencies. The fits were performed according to the equations implemented by the National Institute of Standards and Technology (NIST) [<xref ref-type="bibr" rid="B19-molbank-2006-M497">19</xref>]. These equations have been very good at predicting physical properties of various molecules, as we have tested in the past [<xref ref-type="bibr" rid="B20-molbank-2006-M497">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2006-M497">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2006-M497">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2006-M497">23</xref>].</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p><bold>General</bold></p>
+      <p>All needed chemicals were purchased from Merck, Fluka chemical companies. Dichloromethane and triethylamine were dried by distillation over CaH<sub>2</sub> and then stored over molecular sieve 4&#xC5;. IR spectra were run on a Shimadzu FT-IR 8300 spectrophotometer. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded in DMSO-d<sub>6</sub> and CDCl<sub>3</sub> using a Bruker Avance DPX instrument (<sup>1</sup>H-NMR 250 MHz, <sup>13</sup>C-NMR 62.9 MHz). Chemical shifts were reported in ppm (&#x3B4;) downfield from TMS. The mass spectra were recorded on a Shimadzu GC-MS QP 1000 EX instrument. Melting points were determined in open capillaries with Buchi 510 melting point apparatus and are not corrected. Thin-layer chromatography was carried out on silica gel 254 analytical sheets obtained from Fluka. Column chromatography was carried out on silica gel 60 Merck (230-270 mesh).</p>
+      <p><bold>Synthesis of (2,4-Dimethoxybenzylidene)-(4-nitroyphenyl) amine (3).</bold></p>
+      <p>A mixture of 2,4-dimethoxy aniline (1.68g, 10mmol) and p-nitrobenzaldehyde (1.51g, 10mmol) was refluxed in ethanol for 5 hours. Then the solvent was evaporated under reduced pressure. The crude product was recrystalized from cold methanol to give pure Schiff base <bold>3</bold> as orange crystals. (2.57g, 90%).</p>
+      <p>IR (KBr) (cm<sup>&#x2212;1</sup>): 1612 (C=N).</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 3.83 (OMe, s, 3H), 3.89 (OMe, s, 3H), 6.33-7.72 (aromatic protons, m, 3H), 8.26(ArH, d, 4H), 8.99 (HCN, s, 1H).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 55.55 (OCH<sub>3</sub>), 55.93 (OCH<sub>3</sub>), 99.54-142.31(Aromatic carbons), 155.85(PhCNO<sub>2</sub>),160.00(CN).</p>
+      <p>MS (m/z):286 (M<sup>+</sup>, 100%), 287 (M+1, 23.6%), 271 (43.5%), 225 (59.6%), 109 (49.3%).</p>
+      <p><bold>1-(2,4-Dimethoxyphenyl)-4-(4-nitrophenyl)-3-phenoxy-2-azetidinone (5).</bold>
+      </p>
+      <p>A solution of phenoxyacetyl chloride <bold>4</bold> (1.30 mmol) in dry CH<sub>2</sub>Cl<sub>2</sub> (10 mL) was slowly added to a solution of (2,4-dimethoxybenzylidene)-(4-nitrophenyl) amine <bold>3</bold> (1.00 mmol) and freshly distilled triethylamine (3.00 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (15 mL) at &#x2013;10 &#xB0;C. The reaction mixture was then allowed to warm to room temperature and stirred overnight. Then it was washed with saturated sodium bicarbonate solution (20 mL), brine (20 mL), dried (Na<sub>2</sub>SO<sub>4</sub>) and the solvent was evaporated to give the crude product which was then purified by column chromatography over silica gel using 50:1 (n-Hexane/EtOAc).</p>
+      <p>Melting Point: 146-148 &#xB0;C.</p>
+      <p>IR (KBr) (cm<sup>&#x2212;1</sup>): 1758 cm <sup>&#x2013;1</sup>(CO &#x3B2;-lactam).</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 3.83, 3.89 (2OCH<sub>3</sub>, 2s, 6H), 4.61(H-4, d, 1H, J=5 Hz), 4.80(H-3, d, 1H, J=5.1Hz), 6.69-7.72 (ArH, m, 8H), 8.63(ArH, 2d, 4H).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 65.54, 65.60 (OCH3), 67.21 (C-4), 87.92 (C-3), 114.71-157.09 (aromatic carbons), 162.91(CO, &#x3B2;-lactam).</p>
+      <p>MS (m &#x2044;z):420 (M<sup>+</sup>), 421 (M+1), 286, 241, 179, 134.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+     <app id="app1-molbank-2006-M497">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M497-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M497-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M497-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-s002-mod.mol">
+        <label>Supplementary File 3</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M497-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-s002.mol">
+        <label>Supplementary File 4</label>
+        </supplementary-material>
+	 </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>AAJ and SR thank the Shiraz University Research Council for financial support (Grant No.84-GR-SC-23). AFJ would like to thank the University of Arizona supercomputer center for over 200 hours of computer time for these calculations.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M497">
+        <label>[1].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henry</surname>
+              <given-names>C. M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Eng. News</source>         
+          <volume>2000</volume>
+		  <issue>March</issue>
+          <fpage>41</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M497">
+        <label>[2].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Bardsley</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Engl.</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>1172</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M497">
+        <label>[3].</label>
+        <citation citation-type="journal">
+		  <label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banik</surname>
+              <given-names>B. K.</given-names>
+            </name>
+            <name>
+              <surname>Banik</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Becker</surname>
+              <given-names>F. F.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2005</year>
+          <volume>13</volume>
+		  <fpage>3611</fpage>
+          <lpage>3622</lpage>
+        </citation>
+		<citation citation-type="book">
+		  <label>b)</label>
+          <source>&#x3B2;-Lactams: Synthesis, Stereochemistry, Synthons and Biological Evaluation; Current Medicinal Chemistry</source>
+		  <person-group person-group-type="editor">
+            <name>
+              <surname>Banik</surname>
+              <given-names>B. K.</given-names>
+            </name>
+		  </person-group>
+		  <publisher-name>Bentham Science</publisher-name>
+          <year>2004</year>
+          <volume>Vol. 11</volume>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M497">
+        <label>[4].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buynak</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Med. Chem.</source>
+          <year>2004</year>
+          <volume>11</volume>
+          <fpage>1951</fpage>
+          <lpage>1964</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2006-M497">
+        <label>[5].</label>
+        <citation citation-type="journal">
+		  <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manhas</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Banik</surname>
+              <given-names>B. K.</given-names>
+            </name>
+            <name>
+              <surname>Mathur</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Vincent</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Bose</surname>
+              <given-names>A. K.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+		  <volume>56</volume>
+          <fpage>5587</fpage>
+          <lpage>5601</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2006-M497">
+        <label>[6].</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suffness</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Taxol Science and Applications</source>
+          <publisher-name>CRC</publisher-name>
+          <publisher-loc>Boca Raton, FL</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2006-M497">
+        <label>[7].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clader</surname>
+              <given-names>J. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>47</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm030283g</pub-id>
+          <pub-id pub-id-type="pmid">14695813</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2006-M497">
+        <label>[8].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finke</surname>
+              <given-names>P. E.</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Fletcher</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Ashe</surname>
+              <given-names>B. M.</given-names>
+            </name>
+            <name>
+              <surname>Brause</surname>
+              <given-names>K. A.</given-names>
+            </name>
+            <name>
+              <surname>Chandler</surname>
+              <given-names>G. O.</given-names>
+            </name>
+            <name>
+              <surname>Dellea</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name>
+              <surname>Hand</surname>
+              <given-names>K. M.</given-names>
+            </name>
+            <name>
+              <surname>Maycock</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Osinga</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Underwood</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Doherty</surname>
+              <given-names>J. B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1995</year>
+          <volume>38</volume>
+          <fpage>2449</fpage>
+          <lpage>2462</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00013a021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2006-M497">
+        <label>[9].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>France</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Weatherwax</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Taggi</surname>
+              <given-names>A. E.</given-names>
+            </name>
+            <name>
+              <surname>Lectka</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Acc. Chem. Res.</source>
+          <year>2004</year>
+          <volume>37</volume>
+          <fpage>592</fpage>
+          <lpage>600</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar030055g</pub-id>
+          <pub-id pub-id-type="pmid">15311958</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2006-M497">
+        <label>[10].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schunk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Enders</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>2002</year>
+          <volume>67</volume>
+          <fpage>8034</fpage>
+          <lpage>8042</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo0261552</pub-id>
+          <pub-id pub-id-type="pmid">12423130</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2006-M497">
+        <label>[11].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Durcheimer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Blumbach</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lattrell</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Scheunamann</surname>
+              <given-names>K. H.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1985</year>
+          <volume>24</volume>
+          <fpage>25</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2006-M497">
+        <label>[12].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rode</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Dobrowolski</surname>
+              <given-names>J. C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Molecular Struc.</source>
+          <year>2003</year>
+          <volume>651</volume>
+          <fpage>705</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-2860(03)00121-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2006-M497">
+        <label>[13].</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrahpour</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Shekarriz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taslimi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>29</fpage>
+          <lpage>38</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrahpour</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Shekarriz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taslimi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>939</fpage>
+          <lpage>948</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrahpour</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Zarei</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2006</year>
+          <volume>11</volume>
+          <fpage>49</fpage>
+          <lpage>58</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2006-M497">
+        <label>[14].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sandanayaka</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Prashad</surname>
+              <given-names>A. S.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y. I.</given-names>
+            </name>
+            <name>
+              <surname>Mansour</surname>
+              <given-names>T. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2003</year>
+          <volume>46</volume>
+          <fpage>2569</fpage>
+          <lpage>2571</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2006-M497">
+        <label>[15].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buynak</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>A. S.</given-names>
+            </name>
+            <name>
+              <surname>Fod</surname>
+              <given-names>G. P.</given-names>
+            </name>
+            <name>
+              <surname>Carver</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Carver</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Adam</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Geng</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Bachmann</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Shobassy</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Lackey</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1997</year>
+          <volume>40</volume>
+          <fpage>3423</fpage>
+          <lpage>3433</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm970351x</pub-id>
+          <pub-id pub-id-type="pmid">9341917</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2006-M497">
+        <label>[16].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonneau</surname>
+              <given-names>P. R.</given-names>
+            </name>
+            <name>
+              <surname>Hasani</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Plouffe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Malenfant</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Laplante</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Guse</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ogilvie</surname>
+              <given-names>W. W.</given-names>
+            </name>
+            <name>
+              <surname>Plante</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Davidson</surname>
+              <given-names>W. C.</given-names>
+            </name>
+            <name>
+              <surname>Hopkins</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Morelock</surname>
+              <given-names>M. M.</given-names>
+            </name>
+            <name>
+              <surname>Cordingley</surname>
+              <given-names>M. G.</given-names>
+            </name>
+            <name>
+              <surname>Deziel</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>2965</fpage>
+          <lpage>2973</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja983905+</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2006-M497">
+        <label>[17].</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foresman</surname>
+              <given-names>J. B.</given-names>
+            </name>
+			<name>
+              <surname>Frisch</surname>
+              <given-names>&#xC6;.</given-names>
+            </name>
+          </person-group>
+          <source>Exploring Chemistry with Electronic Structure Methods</source>
+		  <edition>2nd edition</edition>
+          <publisher-name>Gaussian, INC</publisher-name>
+		  <publisher-loc>Pittsburgh, PA</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2006-M497">
+        <label>[18].</label>
+        <citation citation-type="other">
+          <source>GAUSSIAN 03</source>
+          <publisher-name>Revision A.1, M. J. Frisch, et. Al., Gaussian, Inc.</publisher-name>
+		  <publisher-loc>Pittsburgh PA</publisher-loc>
+		  <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2006-M497">
+        <label>[19].</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Linstrom</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Mallard</surname>
+              <given-names>W.G.</given-names>
+            </name>
+          </person-group>
+          <source>NIST Chemistry WebBook</source>
+          <comment>NIST Standard Reference Database Number 69, July 2001, National Institute of Standards and Technology, Gaithersburg MD, 20899</comment>
+          <comment>(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://webbook.nist.gov" ext-link-type="uri">http://webbook.nist.gov</ext-link>)</comment>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2006-M497">
+        <label>[20].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalbout</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Solimannejad</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Labonowski</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Phys. Letts.</source>
+		  <year>2003</year>
+          <volume>379</volume>
+		  <fpage>503</fpage>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2006-M497">
+        <label>[21].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalbout</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Z.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Quasri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jeghnou</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rhandour</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Dhamelincourt</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Dhamelincourt</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mazzah</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Vib. Spect.</source>
+		  <year>2003</year>
+          <volume>33</volume>
+		  <fpage>21</fpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2006-M497">
+        <label>[22].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalbout</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Nazara</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Turker</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Struct.</source>
+		  <comment>(THEOCHEM)</comment>
+		  <year>2004</year>
+		  <volume>627</volume>
+		  <fpage>1</fpage>
+          <comment>(Invited Review)</comment>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2006-M497">
+        <label>[23].</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalbout</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Adamowicz</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Solimmanejad</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Phys. Letts.</source>
+          <year>2006</year>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure, Scheme and Table</title>
+      <fig id="molbank-2006-M497-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M497-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2006-M497-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>AM1 optimized structure with theoretical spectrum, where bond lengths are in angstroms (&#xC5;), bond angles are in degrees (&#xB0;), IR intensities in KM/mol, and frequencies in cm<sup>&#x2212;1</sup>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M497-g001.tif"/>
+      </fig>
+	  <table-wrap id="molbank-2006-M497-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M497-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Thermodynamic Parameters where T (temperature in K), S (entropy in J mol<sup>&#x2212;1</sup> K<sup>&#x2212;1</sup>), C<sub>p</sub> (heat capacity at constant pressure in kJ mol<sup>&#x2212;1</sup> K<sup>&#x2212;1</sup>), and &#x394;H=H&#xB0; - H&#xB0;<sub>298.15</sub> (enthalpy content, in kJ mol<sup>&#x2212;1</sup>), T<sub>1</sub>=100 K, T<sub>2</sub>=298.15 K, and T<sub>3</sub>=1000 K calculated AM1 frequencies.</p>
+        </caption>
+        <table>
+		  <tbody> 
+            <tr>			
+              <td rowspan="2" align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-top:solid #44964C;border-bottom:solid thin"> </td>
+            </tr>
+            <tr>			
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>Fitted Thermodynamic Equation (T/1000=t)</italic></td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>100 K</italic></td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>298.15 K</italic></td>
+			  <td align="left" valign="top" style="border-bottom:solid thin">1000 K</td>
+            </tr>				
+            <tr>
+			  <td rowspan="3" align="left" valign="top" style="border-bottom:solid #44964C;border-right:solid thin"><bold>C<sub>23</sub>H<sub>20</sub>N<sub>2</sub>O<sub>6</sub></bold></td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">C<sub>p</sub></td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">-39.40648+1820.1375*t-985.58349*t<sup>2</sup>+160.21399*t<sup>3</sup> +0.59892*t<sup>&#x2212;2</sup></td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">192.38</td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">423.55</td>
+			  <td align="left" valign="top" style="border-bottom:solid thin">957.45</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">S</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">57.46101*ln(t) + 1274.5249*t -16.36855*t<sup>2</sup>/2-398.42371*t<sup>3</sup>/3 -845.15636 /(2*t<sup>2</sup>) +623.62424</td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">492.89</td>
+			  <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">804.56</td>
+			  <td align="left" valign="top" style="border-bottom:solid thin">1640.35</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid #44964C;border-right:solid thin">&#x394;H</td>
+              <td align="left" valign="top" style="border-bottom:solid #44964C;border-right:solid thin">-161.44462*t + 1607.82305*t<sup>2</sup>/2-613.43153*t<sup>3</sup>/3 -46.8828*t<sup>4</sup>/4 +0.3704/t+696.68514</td>
+              <td align="left" valign="top" style="border-bottom:solid #44964C;border-right:solid thin">12.56</td>
+              <td align="left" valign="top" style="border-bottom:solid #44964C;border-right:solid thin">73.15</td>
+              <td align="left" valign="top" style="border-bottom:solid #44964C">595.97</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

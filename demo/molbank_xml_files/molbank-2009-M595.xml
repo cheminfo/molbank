@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M595</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M595</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 1-[(2-Oxonaphthalen-1(2<italic>H</italic>)-ylidene)methyl]urea</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Jiehua</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Anjun</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Qingjian</given-names>
+          </name>
+          <xref rid="c1-molbank-2009-M595" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M595">College of Chemistry, Chemical Engineering and Materials Science Engineering Research Center of Pesticide and Medicine Intermediate Clean Production Ministry of Education, Shandong Normal University, Jinan 250014, P. R. China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M595"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>liuqj@sdnu.edu.cn</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M595</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>03</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An unexpected product, 1-[(2-oxonaphthalen-1(2<italic>H</italic>)-ylidene)methyl]urea <bold>4</bold> of the condensation reaction of 2-hydroxy-1-naphthaldehyde with or without ethyl benzoylacetate and urea under hydrochloric acid-catalyzed and solvent-free conditions is reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1-[(2-Oxonaphthalen-1(2<italic>H</italic>)-ylidene)methyl]urea</kwd>
+        <kwd>Condensation reaction Solvent-free conditions</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Dihydropyrimidinones (DHPMs) have attracted considerable interest due to the promising biological and pharmacological properties as calcium channel blockers, antihypertensive agents, and anticancer drugs associated with this heterocyclic scaffold.<sup><xref ref-type="bibr" rid="B1-molbank-2009-M595">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M595">2</xref></sup> Thus, the synthesis of such a heterocyclic nucleus is of considerable importance, and quite a number of synthetic modifications based on the Biginelli three-component condensation reaction of aldehyde, &#x3B2;-ketoester, and urea have been developed.<sup><xref ref-type="bibr" rid="B3-molbank-2009-M595">3</xref></sup></p>
+      <p>In continuation of our green chemistry programme towards the synthesis of DHPM heterocyclic compounds, we found an unexpected product, namely 1-[(2-oxonaphthalen-1(2<italic>H</italic>)-ylidene)methyl]urea <bold>4</bold> of the Biginelli reaction of 2-hydroxy-1-naphthaldehyde with ethyl benzoylacetate and urea under hydrochloric acid-catalyzed and solvent-free conditions (<xref ref-type="scheme" rid="molbank-2009-M595-sch001">Scheme 1</xref>).</p>
+      <p>In comparative experiments, reactions of 2-hydroxy-1-naphthaldehyde <bold>1</bold> and urea <bold>2</bold> with or without ethyl benzoylacetate under hydrochloric-acid-catalyzed and solvent or solvent-free conditions afforded <bold>4</bold> as the only product. With ethyl or methyl acetoacetate, however, <bold>4</bold> turned out to be a minor product besides the major product of the Biginelli reaction. </p>
+      <p>It may be rationalized that <bold>4</bold> is the tautomer of <bold>3</bold> that resulted from dehydration condensation reaction of 2-hydroxy-1-naphthaldehyde and urea.</p>
+      <p>This novel reaction may find application in the synthesis of naphthalenylmethylureas which may be bioactively interesting substances.</p>
+    <sec>
+      <title>Experimental procedure</title>
+      <p><bold>Method A</bold></p>
+      <p>A mixture of 2-hydroxy-1-naphthaldehyde <bold>1</bold> (0.86 g, 5 mmol), ethyl benzoylacetate (1.06 g, 5.5 mmol), urea <bold>2</bold> (0.33 g, 5.5 mmol), and hydrochloric acid (2 drops) was heated at 70&#x2DA;C for 2 h. Upon cooling, ethyl acetate-petroleum (1:1, v/v) was added and a yellow precipitate was obtained, then filtered and recrystallized from ethanol to afford the title compound <bold>4</bold> as yellow crystals, 0.65 g, yield 60.7%, m.p. 179.3-180.8 &#x2DA;C.</p>
+    </sec>
+    <sec>
+      <title>Structural Characterization</title>
+      <p><sup>1</sup>H NMR (Bruker Avance 300 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;<sub>H</sub> 13.22 (d, <italic>J</italic> = 10.5 Hz, 1 H, N-H), 9.01 (d, <italic>J</italic> = 10.5 Hz, 1 H, N-H), 7.97 (d, <italic>J</italic> = 8.2 Hz, 2 H), 7.81 (d, <italic>J</italic> = 9.6 Hz, 1 H, Ar-H-4), 7.63 (d, <italic>J</italic> = 7.6 Hz, 1 H), 7.50-6.58 (m, 3 H), 6.60 (d, <italic>J</italic> = 9.6 Hz, 1 H, Ar-H-3) ppm. <sup>13</sup>C NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;<sub>C</sub> 184.0, 154.3, 147.1, 141.9, 134.5, 129.9, 129.6, 126.9, 126.7, 124.9, 119.9, 108.3 ppm. IR (Bruker Tensor 27, KBr): &#x3BD;<sub>max</sub> 3426 (N-H), 1741 (C=O), 1620 (N-C=O), 1584 cm<sup>-1</sup>. MS (Agilent 5973N MSD, EI, 70 eV): m/z (%) 214 (M<sup>+</sup>, 44), 170 (100), 115 (50). Elemental Anal. (Perkin Elmer PE 2400 II HONS) calcd for C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>: C 67.28, H 4.71, N 13.08; found: C 67.26, H 4.60, N 13.04.</p>
+      <p><bold>Method B</bold></p>
+      <p>A mixture of 2-hydroxy-1-naphthaldehyde <bold>1</bold> (0.86 g, 5 mmol), urea <bold>2</bold> (0.33 g, 5.5 mmol), and hydrochloric acid (2 drops) was heated at 100&#x2DA;C for 1 h. Upon cooling, ethyl acetate-petroleum (1:1, v/v) was added and a yellow precipitate was obtained, then filtered and recrystallized from ethanol to give rise to <bold>4</bold> as yellow crystals, 0.49 g, yield 45.5%, m.p. 179.2-180.5 &#x2DA;C.</p>
+      <p>Moreover, other conditions such as solvent-free catalyzed with ammonium chloride and in ethanol catalyzed with hydrochloric acid have also been investigated and <bold>4</bold> was also obtained.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M595">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2009-M595-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M595-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2009-M595-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M595-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M595">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C. O.</given-names>
+            </name>
+          </person-group>
+          <article-title>100 Years of Biginelli Dihydropyrimidine Synthesis</article-title>
+          <source>Tetrahedron</source>
+          <year>1993</year>
+          <volume>49</volume>
+          <fpage>6937</fpage>
+          <lpage>6963</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)87971-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M595">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C. O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Advances in the Biginelli Dihydropyrimidine Synthesis. New Tricks from an Old Dog</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2000</year>
+          <volume>33</volume>
+          <fpage>879</fpage>
+          <lpage>888</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar000048h</pub-id>
+          <pub-id pub-id-type="pmid">11123887</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M595">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>van Lier</surname>
+              <given-names>J. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>TaBr<sub>5</sub>-catalyzed Biginelli reaction: one-pot synthesis of 3,4-dihydropyrimidin-2-(1<italic>H</italic>)-ones/thiones under solvent-free conditions</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2007</year>
+          <volume>48</volume>
+          <fpage>5407</fpage>
+          <lpage>5409</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2007.06.005</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2009-M595-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M595-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M595-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M804</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M804</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5-Pentadecyl-2-((p-tolylimino)methyl)phenol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naganagowda</surname>
+            <given-names>Gadada</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M804" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2013-M804" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Potgieter</surname>
+            <given-names>Kariska</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M804" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meijboom</surname>
+            <given-names>Reinout</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M804" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petsom</surname>
+            <given-names>Amorn</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M804" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M804"><label>1</label>Research Centre for Synthesis and Catalysis, Department of Chemistry, University of Johannesburg, PO Box 524, Auckland Park 2006, Johannesburg, South Africa</aff>
+      <aff id="af2-molbank-2013-M804"><label>2</label>Research Center for Bioorganic Chemistry, Department of Chemistry, Faculty of Science, Chulalongkorn University, Bangkok-10330, Thailand</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M804"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>ratna.gowda@gmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>07</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>3</issue>
+      <elocation-id>M804</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>07</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>5-Pentadecyl-2-((p-tolylimino)methyl)phenol has been synthesized by reaction of 2-hydroxy-4-pentadecylbenzaldehyde with 4-amino-1-methyl-aniline in 1,4-dioxane under reflux. The structure of the synthesized compound was assigned on the basis of elemental analysis, UV, IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>5-pentadecyl-2-((p-tolylimino)methyl)phenol</kwd>
+        <kwd>long chain</kwd>
+        <kwd>cardanol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Schiff bases are used as substrates in the preparation of a number of industrial and biologically active compounds. Schiff bases derived from various aromatic or heterocycles have been reported to possess cytotoxic [<xref ref-type="bibr" rid="B1-molbank-2013-M804">1</xref>], anticonvulsant [<xref ref-type="bibr" rid="B2-molbank-2013-M804">2</xref>], antiproliferative [<xref ref-type="bibr" rid="B3-molbank-2013-M804">3</xref>], antimicrobial [<xref ref-type="bibr" rid="B4-molbank-2013-M804">4</xref>], anticancer [<xref ref-type="bibr" rid="B5-molbank-2013-M804">5</xref>], and antifungal activities [<xref ref-type="bibr" rid="B6-molbank-2013-M804">6</xref>]. In view of these reports, in the present work we have synthesized the title compound.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>2-Hydroxy-4-pentadecylbenzaldehyde [<xref ref-type="bibr" rid="B7-molbank-2013-M804">7</xref>] was prepared from cardanol (3-pentadecylphenol, contained, e.g., in Cashew nut shell liquid (CNSL)) by formylation, using a standard procedure [<xref ref-type="bibr" rid="B7-molbank-2013-M804">7</xref>]. The title compound was obtained in low yield (42%) by refluxing compound <bold>2</bold> with an equimolar amount of 4-amino-1-methyl-aniline in 1,4-dioxane for 5 hours. This new Schiff base was fully characterized by elemental analysis, UV, IR, MS, <sup>1</sup>H-NMR and<sup>13</sup>C-NMR data. The configuration at the imine unit was not investigated; compound <bold>4</bold> is arbitrarily shown in Z configuration in <xref ref-type="scheme" rid="molbank-2013-M804-sch001">Scheme 1</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Melting point was determined in open capillary and is uncorrected. Absorption spectrum was recorded in CHCl<sub>3</sub> by a Hewlett Packard-8453 spectrophotometer. FT-IR spectrum was recorded on a Nicolet Fourier Transform Infrared Spectrophotometer: Impact 410 (Nicolet Instrument Technologies, Inc. WI, USA). <sup>1</sup>H-NMR and <sup>13</sup>C-NMR were obtained in DMSO-<italic>d</italic><sub>6</sub> at 500 MHz for <sup>1</sup>H nuclei and 125 MHz for <sup>13</sup>C nuclei (Bruker Company, Germany). All chemical shifts were reported in parts per million (ppm) using residual proton or carbon signal in deuterated solvents as internal references. Mass spectrum was obtained using matrix-assisted laser desorption ionization mass spectrometry (MALDI-TOF) by using dithranol as a matrix. Elemental analysis (C, H and N) was performed on a Perkin Elmer 2400 analyzer. The purity of the compound was checked by TLC on silica gel and further purification was performed through column chromatography (silica gel, 60&#x2013;120 mesh).</p>
+      <p>2-Hydroxy-4-pentadecylbenzaldehyde <bold>2</bold> (1.66 g, 0.005 mol) in 1,4-dioxane (15 mL) and 4-amino-1-methyl-aniline <bold>3</bold> (0.53 g, 0.005 mol) was heated under reflux for 5 hours. The completion of the reaction was monitored by TLC. The reaction mixture was allowed to cool down to room temperature, and then poured onto ice cooled water with constant stirring. The precipitate was filtered, washed with water, dried and recrystallized from absolute ethanol. The resulting solid was further purified by silica column, using a gradient mixture of hexane/ethyl acetate (50:50) as an eluent to obtain <bold>4</bold>.</p>
+      <p>Color: light yellow solid.</p>
+      <p>Yield: 0.90 g (42%).</p>
+      <p>Melting point: 186&#x2013;188 &#xB0;C.</p>
+      <p>&#x3BB;<sub>max</sub> = 347 nm.</p>
+      <p>MS: <italic>m/z</italic> = 421.742 (M<sup>+</sup>).</p>
+      <p>IR (KBr): &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>): 3435 (O-H str.), 1618 (C=N str.), 2847 ((=C-H),w), 1598, 1577, 1561 ((C=C aromatic), asymm, s), 1463, 1438, (asymm), 1399 ((C=C aromatic), s, m), 1184 (s), 1037 (s), 820 ((aromatic, C-H para), asymm, s), 724, 653 ((aromatic, &#x3B4; C-H mono).</p>
+      <p><sup>1</sup>H-NMR (500 MHz, DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; ppm: 13.20 (s, 1H, OH), 8.88 (s, 1H, CH=N), 7.50 (d, <italic>J</italic> = 7.7 Hz, 1H, Ar-H), 7.29 (d, <italic>J</italic> = 7.8 Hz, 2H, Ar-H), 7.24 (d, <italic>J</italic> = 7.8 Hz, 2H, Ar-H), 6.79 (d, <italic>J</italic>=7.7 Hz, 1H, Ar-H), 6.76 (s, 1H, Ar-H), 2.53 (t, <italic>J</italic> = 7.6 Hz, 2H, Ar-CH<sub>2</sub>), 2.32 (s, 3H, CH<sub>3</sub>), 1.57&#x2013;1.13 (m, 26H, (CH<sub>2</sub>)<sub>13</sub>), 0.83 (t, <italic>J</italic> = 6.8 Hz, 3H, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; ppm: 161.3, 149.3, 145.8, 143.4, 136.7, 132.0, 129.9, 120.9, 119.6, 116.9 (Aromatic carbons), 36.4, 36.8, 31.9, 30.9, 30.6, 29.7, 29.6, 29.5, 29.4, 29.3, 29.2, 29.0, 22.8, 21.6 (methylene carbons), 19.8 (Aromatic CH<sub>3</sub>), 14.1 (CH<sub>3</sub>).</p>
+      <p>Elemental analysis: Calculated for C<sub>29</sub>H<sub>43</sub>NO: C, 82.60%; H, 10.28%; N, 3.32%; found: C, 82.32%; H, 9.96%; N, 3.14%.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2013-M804">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2013-M804-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M804-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M804-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M804-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M804-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M804-s002.zip">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the Higher Education Research Promotion and National Research University Project of Thailand, Office of the Higher Education Commission (project no. EN1250B). The post doctoral fellowship grant from the DST Fund, Johannesburg University was gratefully acknowledged.</p>
+    </ack>
+    <notes>
+      <title>Conflict of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M804">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tarafder</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Kasbollah</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Saravan</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Crouse</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Tin</surname>
+              <given-names>O.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Smethyldithiocarbazate and its schiff bases: Evaluation of bondings and biological properties</article-title>
+          <source>J. Biochem. Mol. Biol. Biophs.</source>
+          <year>2002</year>
+          <volume>6</volume>
+          <fpage>85</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="doi">10.1080/10258140290027207</pub-id>
+          <pub-id pub-id-type="pmid">12186762</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M804">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ku&#xE7;ukguzel</surname>
+              <given-names>&#xDD;.</given-names>
+            </name>
+            <name>
+              <surname>Ku&#xE7;ukguzel</surname>
+              <given-names>&#xDE;.G.</given-names>
+            </name>
+            <name>
+              <surname>Rollas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Otuk-Sany&#xFE;</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ozdemir</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Bayrak</surname>
+              <given-names>&#xDD;.</given-names>
+            </name>
+            <name>
+              <surname>Altu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-(Arylalkylthio)-4-alkyl/aryl-5-(4-aminophenyl)-4H-1,2,4-triazole derivatives and their anticonvulsant activity</article-title>
+          <source>Farmaco</source>
+          <year>2004</year>
+          <volume>59</volume>
+          <fpage>893</fpage>
+          <lpage>901</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.farmac.2004.07.005</pub-id>
+          <pub-id pub-id-type="pmid">15544794</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M804">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vicini</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Geronikaki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Incerti</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Busonera</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Poni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kabras</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Colla</surname>
+              <given-names>P.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of benzo[d]isothiazole, benzothiazole and thiazole Schiff bases</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <fpage>4785</fpage>
+          <lpage>4789</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(03)00493-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M804">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bekircan</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Karaoglu</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial activity of some 3-alkyl-4-(arylmethyleneamino)-4,5-dihydro-1H-1,2,4-triazol-5-ones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2005</year>
+          <volume>44B</volume>
+          <fpage>2614</fpage>
+          <lpage>2617</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200615111</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M804">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bekircan</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kahveci</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kucuk</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anticancer evaluation of some new unsymmetrical 3,5-diaryl-4H-1,2,4-triazole derivatives</article-title>
+          <source>Tur. J. Chem.</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <fpage>29</fpage>
+          <lpage>40</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M804">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Dash</surname>
+              <given-names>B.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new schiff bases containing thiazole and oxazole nuclei and their fungicidal activity</article-title>
+          <source>Pesticides</source>
+          <year>1988</year>
+          <volume>22</volume>
+          <fpage>33</fpage>
+          <lpage>37</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M804">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Payne</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tyman</surname>
+              <given-names>J.H.P.</given-names>
+            </name>
+            <name>
+              <surname>Mehet</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Ninagawa</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of 2-hydroxymethyl derivatives of phenols</article-title>
+          <source>J. Chem. Res.</source>
+          <year>2006</year>
+          <volume>37</volume>
+          <fpage>402</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.3184/030823406777946752</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2013-M804-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M804-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 5-pentadecyl-2-((p-tolylimino)methyl)phenol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M804-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

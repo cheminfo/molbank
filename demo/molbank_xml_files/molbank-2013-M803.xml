@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M803</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M803</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>-(2-Chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Manojkumar</surname>
+            <given-names>Karikere Ekanna</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M803" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sreenivasa</surname>
+            <given-names>Swamy</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M803" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2013-M803" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shivaraja</surname>
+            <given-names>Govindaiah</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M803" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rao</surname>
+            <given-names>Tadimety Madhu Chakrapani</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M803" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M803"><label>1</label>Center for Advanced Materials, Department of Chemistry, Tumkur University, Tumkur-572103, India</aff>
+      <aff id="af2-molbank-2013-M803"><label>2</label>Tadimety Aromatics Pvt. Ltd, Hirehalli Industrial Area, Tumkur-572168, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M803"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>drsreenivasa@yahoo.co.in</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>06</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>3</issue>
+      <elocation-id>M803</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>05</month>
+          <year>2013</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>19</day>
+          <month>06</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>06</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic>N</italic>-(2-Chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide (<bold>3</bold>) was synthesized by reacting 4,4,4-trifluorobutanoic acid (<bold>1</bold>) with 2-amino-4-chlorobenzonitrile (<bold>2</bold>) in the presence of triethylamine and propylphosphonic anhydride in ethyl acetate. Characterization of the compound was done by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, LC-MS and CHN analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>N</italic>-(2-chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide</kwd>
+        <kwd>propylphosphonic anhydride</kwd>
+        <kwd>4,4,4-trifluorobutanoic acid</kwd>
+        <kwd>2-amino-4-chlorobenzonitrile</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+	  <p>In the past decades, because of their wide variety of pharmacological applications, amides have been considered as important pharmacophores. Amides bearing a trifluoromethyl substituent show a broad spectrum of pharmacological properties, including antitumour [<xref ref-type="bibr" rid="B1-molbank-2013-M803">1</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B2-molbank-2013-M803">2</xref>], antioxidant [<xref ref-type="bibr" rid="B3-molbank-2013-M803">3</xref>], analgesic [<xref ref-type="bibr" rid="B4-molbank-2013-M803">4</xref>] and antiviral activity [<xref ref-type="bibr" rid="B5-molbank-2013-M803">5</xref>]. It was also reported that substituted amides show higher anticonvulsive [<xref ref-type="bibr" rid="B6-molbank-2013-M803">6</xref>], hypoglycemic [<xref ref-type="bibr" rid="B7-molbank-2013-M803">7</xref>], antiarrhythmic [<xref ref-type="bibr" rid="B8-molbank-2013-M803">8</xref>] and fungicidal activity [<xref ref-type="bibr" rid="B9-molbank-2013-M803">9</xref>]. Encouraged by these reports, we have synthesised a new compound, <italic>N</italic>-(2-chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide (<bold>3</bold>) by coupling 2-amino-4-chlorobenzonitrile with trifluorobutanoic acid, and it was fully characterized.</p>
+    <sec>
+      <title>Experimental</title>
+      <p>All reagents were purchased from commercial sources and used without further purification. The melting point was determined in a one-end open capillary tube on a liquid paraffin bath and it is not corrected. The reaction was carried out under an inert nitrogen atmosphere. Mass spectra, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded for the compound on an Agilent Mass spectrometer and on a Bruker Avance II (399.65 MHz for <sup>1</sup>H-NMR, 100.50 MHz for <sup>13</sup>C-NMR) instrument, respectively. Chemical shifts are reported in parts per million (ppm) using tetramethylsilane (TMS) as an internal standard. Elemental (C, H and N) analysis was performed on an Elementar vario MICRO cube. The purity of the compound was confirmed using TLC on precoated silica gel plates and further purification was done using column chromatography. </p>
+	  <fig id="molbank-2013-M803-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M803-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route for the title compound, <italic>N</italic>-(2-chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M803-sch001.tif"/>
+      </fig>
+      <sec>
+        <title>Synthesis of N-(2-Chloro-5-cyanophenyl)-4,4,4-trifluorobutanamide <italic>(<bold>3</bold>)</italic></title>
+        <p>2-Amino-4-chlorobenzonitrile (<bold>2</bold>) (1.00 g, 6.5 mmol) was dissolved in dry ethylene dichloride (10 mL) and cooled to 0 &#xB0;C. To this solution, triethylamine (1.99 g, 19.0 mmol), 4,4,4-trifluorobutanoic acid (<bold>1</bold>) (1.12 g, 7.8 mmol) and propylphosphonic anhydride (T3P&#xAE;) (6.04 g, 19.0 mmol) were added and the solution was stirred for 10 h at 80 &#xB0;C with TLC monitoring. Then, the reaction mixture was quenched by addition of ice-cold water. The organic layer was separated, washed with brine, dried over Na<sub>2</sub>SO<sub>4</sub> and concentrated. The crude compound was purified by column chromatography, using petroleum ether/ethyl acetate (7:3) as eluent to give the title compound (<bold>3</bold>) as a colorless solid with R<sub>f</sub> = 0.79.</p>
+        <p>Yield: 1.63 g (90%).</p>
+        <p>Melting point: 151&#x2013;153 &#xB0;C.</p>
+        <p>MS: <italic>m/z</italic> = 277.64 (M<sup>+</sup>+1).</p>
+        <p>IR: &#x3BD;<sub>max</sub>/cm<sup>&#x2212;1</sup>: 3340 (N-H), 2228 (CN), 1698 (CO), 1342&#x2013;1140 (CF<sub>3</sub> streching).</p>
+        <p><sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 10.47 (s, 1H, NH), 7.88 (d, <italic>J</italic> = 8.7 Hz, 1H, Ar-H), 7.80 (d, <italic>J</italic> = 1.9 Hz, 1H, Ar-H), 7.45 (dd, <italic>J</italic> = 8.3 Hz and <italic>J</italic> = 1.5 Hz, 1H, Ar-H), 2.74 (t, <italic>J</italic> = 7.5 Hz, 2H, COCH<sub>2</sub>), 2.67&#x2013;2.55 (m, 2H, CF<sub>3</sub>CH<sub>2</sub>).</p>
+        <p><sup>13</sup>C-NMR (DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 169.3, 141.2, 138.3, 134.8, 128.7 CF<sub>3</sub>, 125.9, 124.6, 115.9, 104.9, 28.7, 27.8.</p>
+        <p>Elemental analysis: Calculated for C<sub>11</sub>H<sub>8</sub>ClF<sub>3</sub>N<sub>2</sub>O: C, 47.76%; H, 2.91%; N, 10.13%. Found: C, 47.79%; H, 2.96%; N, 10.19%.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2013-M803">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2013-M803-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M803-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M803-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M803-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M803-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M803-s002.zip">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>We gratefully acknowledge the guidance by S.C. Sharma. Former Vice Chancellor, Tumkur University, Tumkur.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M803">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdou</surname>
+              <given-names>I.M.</given-names>
+            </name>
+            <name>
+              <surname>Saleh</surname>
+              <given-names>A.M.</given-names>
+            </name>
+			<name>
+              <surname>Hussein</surname>
+              <given-names>H.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antitumor activity of 5-Trifluoromethyl-2,4-dihydropyrazol-3-one nucleus</article-title>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>109</fpage>
+          <lpage>116</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M803">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bukhtiarova</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Trinus</surname>
+              <given-names>F.P.</given-names>
+            </name>
+            <name>
+              <surname>Danilenko</surname>
+              <given-names>V.F.</given-names>
+            </name>
+            <name>
+              <surname>Danilenko</surname>
+              <given-names>G.I.</given-names>
+            </name>
+            <name>
+              <surname>Ovrutskii</surname>
+              <given-names>V.M.</given-names>
+            </name>
+            <name>
+              <surname>Sharykina</surname>
+              <given-names>N.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure and anti-inflammatory activity of isonicotinic and nicotinic amides</article-title>
+          <source>Pharm. Chem. J.</source>
+          <year>1997</year>
+          <volume>31</volume>
+          <fpage>597</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02464277</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M803">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Geronikaki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Litina</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Chatziopoulos</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Soloupis</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of new 4,5-disubstituted-thiazolyl amides, derivatives of 4-hydroxy-piperidine or of 4-N-methyl piperazine</article-title>
+          <source>Molecules</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>472</fpage>
+          <lpage>479</lpage>
+          <pub-id pub-id-type="doi">10.3390/80600472</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M803">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milyutin</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Amirova</surname>
+              <given-names>L.R.</given-names>
+            </name>
+            <name>
+              <surname>Krylova</surname>
+              <given-names>I.V.</given-names>
+            </name>
+            <name>
+              <surname>Nazmetdinov</surname>
+              <given-names>F.Y.</given-names>
+            </name>
+            <name>
+              <surname>Novoselova</surname>
+              <given-names>G.N.</given-names>
+            </name>
+            <name>
+              <surname>Andreichikov</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Kolla</surname>
+              <given-names>V.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, properties, and biological activity of 3-Pyridylamides of 4-aryl-2-hydroxy-4-oxo-2-butenic (aroylpyruvic) acids</article-title>
+          <source>Pharm. Chem. J.</source>
+          <year>1997</year>
+          <volume>31</volume>
+          <fpage>30</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02464682</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M803">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Igosheva</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Tolmacheva</surname>
+              <given-names>I.A.</given-names>
+            </name>
+            <name>
+              <surname>Vikharev</surname>
+              <given-names>Yu.B.</given-names>
+            </name>
+            <name>
+              <surname>Grishko</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Savinova</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Boreko</surname>
+              <given-names>E.I.</given-names>
+            </name>
+            <name>
+              <surname>Eremin</surname>
+              <given-names>V.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological activity of 28-Methoxy-28-oxo-1-cyano-2,3-sec-LUP-20(29)-en-3-oic acid</article-title>
+          <source>Chem. Nat. Compd.</source>
+          <year>2012</year>
+          <volume>48</volume>
+          <fpage>426</fpage>
+          <lpage>430</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10600-012-0266-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M803">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galeeva</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Rudometova</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Gavrilov</surname>
+              <given-names>M.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kolla</surname>
+              <given-names>V.E.</given-names>
+            </name>
+            <name>
+              <surname>Kon&#x2019;shin</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Nazmetdinov</surname>
+              <given-names>F.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and pharmacological activity of 2-arylamino-6,7-dihidro-5H-pyridine-3-carboxylic acid amides</article-title>
+          <source>Pharm. Chem. J.</source>
+          <year>1997</year>
+          <volume>31</volume>
+          <fpage>89</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02464709</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M803">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolotova</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Dolzhenko</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Koz&#x2019;minykh</surname>
+              <given-names>V.O.</given-names>
+            </name>
+            <name>
+              <surname>Kotegov</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Godina</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted amides and hydrazides of 1,4-dicarboxylic acids. Part 8. Synthesis and hypoglycemic activity of substituted succinic acid amides and hydrazides</article-title>
+          <source>Pharm. Chem. J.</source>
+          <year>1999</year>
+          <volume>33</volume>
+          <fpage>635</fpage>
+          <lpage>637</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02974937</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M803">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolotova</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Koz&#x2019;minykh</surname>
+              <given-names>E.N.</given-names>
+            </name>
+            <name>
+              <surname>Kolla</surname>
+              <given-names>V.E.</given-names>
+            </name>
+            <name>
+              <surname>Syropyatov</surname>
+              <given-names>B. Ya.</given-names>
+            </name>
+            <name>
+              <surname>Voronina</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Koz&#x2019;minykh</surname>
+              <given-names>V.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted amides and hydrazides of 1,4-dicarboxylic acids. Part 7. Synthesis and pharmacological activity of some maleic, succinic, and phthalic acid acylhydrazides</article-title>
+          <source>Pharm. Chem. J.</source>
+          <year>1999</year>
+          <volume>33</volume>
+          <fpage>248</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02510044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M803">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walter</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>New carboxylic acid amides of the pyrrole series: Synthetic routes and biological aspects</article-title>
+          <source>Z. Naturforsch. B Chem. Sci.</source>
+          <year>2008</year>
+          <volume>63b</volume>
+          <fpage>351</fpage>
+          <lpage>362</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

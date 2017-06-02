@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M836</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M836</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>'-[2-(7,8-Dimethyl-2,4-dioxo-3,4-dihydrobenzo[<italic>g</italic>]pteridin-10(2<italic>H</italic>)-yl)ethylidene]-4-nitrobenzohydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Morikawa</surname>
+            <given-names>Masayuki</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kino</surname>
+            <given-names>Katsuhito</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M836" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Asada</surname>
+            <given-names>Eriko</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Katagiri</surname>
+            <given-names>Kosuke</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mori-Yasumoto</surname>
+            <given-names>Kanami</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Suzuki</surname>
+            <given-names>Masayo</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kobayashi</surname>
+            <given-names>Takanobu</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Miyazawa</surname>
+            <given-names>Hiroshi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>External Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M836">Kagawa School of Pharmaceutical Sciences, Tokushima Bunri University, 1314-1 Shido, Sanuki, Kagawa 769-2193, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M836"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>kkino@kph.bunri-u.ac.jp</email>; Tel.: +81-87-899-7463; Fax: +81-87-894-0181.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>10</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>4</issue>
+      <elocation-id>M836</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>08</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>10</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, <italic>N</italic>'-[2-(7,8-dimethyl-2,4-dioxo-3,4-dihydrobenzo[<italic>g</italic>]pteridin-10(2<italic>H</italic>)-yl)ethylidene]-4-nitrobenzohydrazide (<bold>1</bold>), was obtained by the reaction of formylmethylflavin and <italic>p</italic>-nitrobenzohydrazide. The product <bold>1</bold> inhibited the DNA binding of nuclear factor-&#x3BA;B, and was characterized by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, electrospray ionization mass spectrometry, elemental analysis, IR and UV.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>flavin</kwd>
+        <kwd>Nuclear factor-&#x3BA;B</kwd>
+        <kwd>inhibitor</kwd>
+        <kwd>DNA binding</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Nuclear factor-&#x3BA;B (NF-&#x3BA;B) is a transcription factor which regulates the expression of proteins that play key roles in immunity and inflammation [<xref ref-type="bibr" rid="B1-molbank-2014-M836">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M836">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M836">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M836">4</xref>]. Consequently, NF-&#x3BA;B is considered a good target for the treatment of many diseases such as cancers and chronic inflammatory diseases [<xref ref-type="bibr" rid="B5-molbank-2014-M836">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M836">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M836">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M836">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2014-M836">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2014-M836">10</xref>]. To find NF-&#x3BA;B inhibitors, we screened our chemical library of small molecule compounds, and found triazine and flavin. Triazine derivatives directly inhibit the DNA binding of NF-&#x3BA;B [<xref ref-type="bibr" rid="B11-molbank-2014-M836">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2014-M836">12</xref>]. Moreover, we synthesized several flavin derivatives [<xref ref-type="bibr" rid="B13-molbank-2014-M836">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2014-M836">14</xref>] and tested their inhibitory effects on the DNA binding of NF-&#x3BA;B by performing electrophoretic mobility shift assays (EMSA) as previously reported [<xref ref-type="bibr" rid="B11-molbank-2014-M836">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2014-M836">12</xref>]. The title compound, <italic>N</italic>'-[2-(7,8-dimethyl-2,4-dioxo-3,4-dihydrobenzo[<italic>g</italic>]pteridin-10(2<italic>H</italic>)-yl)ethylidene]-4-nitrobenzohydrazide (<bold>1</bold>; 100 &#xB5;M), inhibited the DNA binding of NF-&#x3BA;B p50 to 23% of the amount of DNA-bound NF-&#x3BA;B p50 in the control (data not shown). Product <bold>1</bold> was synthesized and characterized as follows. </p>
+      <p>Formylmethylflavin (FMF) was dissolved in 50% acetic acid. <italic>p</italic>-Nitrobenzohydrazide was added to this solution and the mixture was stirred for 3 h at room temperature (<xref ref-type="scheme" rid="molbank-2014-M836-sch001">Scheme 1</xref>). This compound was characterized as the product <bold>1</bold> by NMR (<sup>1</sup>H-NMR, <sup>13</sup>C-NMR and NOESY), electrospray ionization mass spectrometry (ESI-MS), IR and UV (see Supporting Information). The structure of <bold>1</bold> is shown in <xref ref-type="scheme" rid="molbank-2014-M836-sch001">Scheme 1</xref>. Two diastereomers of <bold>1</bold> were observed by NMR. Although the two diastereomers could not be separated by HPLC, they were confirmed by their NOESY spectrum. The <sup>1</sup>H-NMR spectrum revealed that the ratio of the major diastereomer to the minor diastereomer is 1.84. A correlation between the flavin <sup>10</sup><italic>N</italic>-CH<sub>2</sub>C<underline>H</underline> (8.05 ppm) and Ar 1-CON<underline>H</underline> (12.04 ppm) of the major diastereomer was detected in the NOESY spectrum. Therefore, the geometry of the major diastereomer was the <italic>E</italic> form (<xref ref-type="fig" rid="molbank-2014-M836-f001">Figure 1</xref>A). In contrast, the geometry of the minor diastereomer was the <italic>Z</italic> form (<xref ref-type="fig" rid="molbank-2014-M836-f001">Figure 1</xref>B) because no correlation was observed between the flavin <sup>10</sup><italic>N</italic>-CH<sub>2</sub>C<underline>H</underline> (7.63 ppm) and Ar 1-CON<underline>H</underline> (11.95 ppm).</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>FMF was synthesized by a known method [<xref ref-type="bibr" rid="B13-molbank-2014-M836">13</xref>]. FMF (28.4 mg, 0.1 mmol) was dissolved in 9 M acetic acid (2.8 mL, Wako Pure Chemical Industries, Ltd., Osaka, Japan). <italic>p</italic>-Nitrobenzohydrazide (18.1 mg, 0.1 mmol, Wako Pure Chemical Industries, Ltd.) was added to this solution and the mixture was stirred for 3 h at room temperature. The reactions were monitored by chromatography on TLC Silica Gel 60 glass plates (Merck KGaA, Darmstadt, Germany) using 2-propanol (Nacalai Tesque Inc., Kyoto, Japan) as eluent. FMF and <italic>p</italic>-Nitrobenzohydrazide had R<sub>f</sub> values of 0.7 and 0.6, respectively. Instead, the solution contained a product showing an R<sub>f</sub> of 0.4. The resulting precipitate was filtered under vacuum and washed with water. The precipitate yielded 40 mg (90%, based on FMF) of a light yellow solid.</p>
+      <p>The melting/decomposition point was determined with a cartridge heater (ATM-01; AS ONE Corporation, Osaka, Japan); the sample was placed in an aluminum pan, then heated. ATR/FT-IR absorption spectra were recorded on an FT/IR-6300 type A (JASCO Corporation, Tokyo, Japan). Elemental analyses were performed using PE2400 Series II CHNS/O Analyzer (PerkinElmer, Inc., Waltham, MA, USA). <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on an Avance 700 (Bruker BioSpin, Rheinstetten, Germany) using DMSO-<italic>d</italic><sub>6</sub> (Kanto Chemical Co., Inc., Tokyo, Japan) as solvent. NOESY spectra were recorded on an Avance 400 (Bruker BioSpin) using DMSO-<italic>d</italic><sub>6</sub> (Kanto Chemical Co., Inc.) as solvent. Mass spectra were recorded on an APEX-Qe 9.4T AS (Bruker Daltonics, Billerica, MA, USA). UV absorption spectra (220 to 900 nm) were recorded on an Ultrospec 3100 pro (GE Healthcare Japan Corporation, Tokyo, Japan) in DMSO (Wako Pure Chemical Industries, Ltd.).</p>
+      <p>Melting point: &gt;273 &#xB0;C (decomposition).</p>
+      <p>UV (DMSO): &#x3BB;<sub>max</sub> 445 nm (log &#x3B5; 4.10), 340 nm (3.97), 272 nm (4.63).</p>
+      <p>FT-IR (ATR): &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>): 3173 (NH), 3076 (NH), 1719 (C=O), 1695 (C=O), 1651 (C=O).</p>
+      <p>HRESIFTMS <italic>m/z</italic>: 448.13839 [M+H]<sup>+</sup> (calculated for C<sub>21</sub>H<sub>18</sub>N<sub>7</sub>O<sub>5</sub>, 448.13639).</p>
+      <p><sup>1</sup>H-NMR (700 MHz, DMSO-<italic>d</italic><sub>6</sub>, <italic>E</italic>): &#x3B4; 12.04 (s, 1H, Ar 1-CONH), 11.40 (s, 1H, flavin 3-NH), 8.33 (d, <italic>J</italic> = 8.8 Hz, 2H, ArH-3, 5), 8.05 (t, <italic>J</italic> = 3.2 Hz, 1H, flavin <italic>N</italic><sup>10</sup>-CH<sub>2</sub>C<underline>H</underline>), 8.04 (d, <italic>J</italic> = 8.8 Hz, 2H, ArH-2, 6), 7.96 (s, 1H, flavin H-6), 7.81 (s, 1H, flavin H-9), 5.54 (d, <italic>J</italic> = 3.2 Hz, 2H, flavin <italic>N</italic><sup>10</sup>-C<underline>H<sub>2</sub></underline>CH), 2.51 (flavin 8-CH<sub>3</sub>, overlap with the signal of DMSO), 2.41 (s, 3H, flavin 7-CH<sub>3</sub>) ppm.</p>
+      <p><sup>1</sup>H-NMR (700 MHz, DMSO-<italic>d</italic><sub>6</sub>, <italic>Z</italic>): &#x3B4; 11.95 (s, 1H, Ar 1-CONH), 11.34 (s, 1H, flavin 3-NH), 7.78 (d, <italic>J</italic> = 8.4 Hz, 2H, ArH-3, 5), 7.75 (s, 1H, flavin H-6), 7.63 (br t, <italic>J</italic> = 1.9 Hz, 1H, flavin <italic>N</italic><sup>10</sup>-CH<sub>2</sub>C<underline>H</underline>), 7.55 (s, 1H, flavin H-9), 7.35 (d, <italic>J</italic> = 8.4 Hz, 2H, ArH-2, 6), 5.40 (br d, <italic>J</italic> = 1.9 Hz, 2H, flavin <italic>N</italic><sup>10</sup>-C<underline>H<sub>2</sub></underline>CH), 2.37 (s, 3H, flavin 8-CH<sub>3</sub>), 2.35 (s, 3H, flavin 7-CH<sub>3</sub>) ppm.</p>
+      <p><sup>13</sup>C-NMR (175 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; 167.94, 161.32, 159.78, 159.71, 151.45, 150.18, 149.71, 149.25, 147.43, 146.73, 146.30, 145.82, 140.18, 138.70, 137.12, 136.82, 136.00, 135.60, 133.72, 133.48, 131.06, 131.00, 130.47, 129.35, 129.04, 123.59, 122.00, 116.62, 116.38, 45.33, 44.57, 20.70, 20.42, 18.75, 18.62 ppm.</p>
+      <p>Elemental analysis: Calculated for (C<sub>21</sub>H<sub>17</sub>N<sub>7</sub>O<sub>5</sub>)&#xB7;1.2H<sub>2</sub>O, C, 53.78%; H, 4.17%; N, 20.90%. Found: C, 53.77%; H, 4.11%; N, 21.06%.</p>
+      <p>Silica gel TLC (2-propanol) showed a spot (UV, 254 nm) with R<sub>f</sub> = 0.4.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M836">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M836-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M836-s001.pdf">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M836-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M836-s002-mod.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M836-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M836-s002.mol">
+		<label>Supplementary File 3</label>
+		</supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by research grants from 114Bank Foundation. M. Morikawa and M. Suzuki are Research Fellow of Japan Society for the Promotion of Science (JSPS).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>K. Kino designed research; M. Morikawa, K. Kino and E. Asada analyzed the data; M. Morikawa performed identification using ESI-MS and UV; M. Morikawa and E. Asada performed synthesis and purification; E. Asada determined melting/decomposition point; K. Katagiri performed identification using FT-IR and elemental analysis; K. Mori-Yasumoto performed identification using NMR; T. Kobayashi performed EMSA; M. Morikawa, K. Kino, E. Asada, K. Katagiri, K. Mori-Yasumoto, M. Suzuki, T. Kobayashi and H. Miyazawa contributed in the preparing of the manuscript; M. Morikawa, K. Kino, K. Katagiri, K. Mori-Yasumoto, M. Suzuki, T. Kobayashi and H. Miyazawa contributed with valuable discussions and scientific input. All authors read and approved the final manuscript. </p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M836">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Baltimore</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple nuclear factors interact with the immunoglobulin enhancer sequences</article-title>
+          <source>Cell</source>
+          <year>1986</year>
+          <volume>46</volume>
+          <fpage>705</fpage>
+          <lpage>716</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(86)90346-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M836">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghosh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>May</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Kopp</surname>
+              <given-names>E.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>NF-&#x3BA;B and Rel proteins: Evolutionarily conserved mediators of immune responses</article-title>
+          <source>Annu. Rev. Immunol.</source>
+          <year>1998</year>
+          <volume>16</volume>
+          <fpage>225</fpage>
+          <lpage>260</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.immunol.16.1.225</pub-id>
+          <pub-id pub-id-type="pmid">9597130</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M836">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pahl</surname>
+              <given-names>H.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Activators and target genes of Rel/NF-&#x3BA;B transcription factors</article-title>
+          <source>Oncogene</source>
+          <year>1999</year>
+          <volume>18</volume>
+          <fpage>6853</fpage>
+          <lpage>6866</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.onc.1203239</pub-id>
+          <pub-id pub-id-type="pmid">10602461</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M836">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonizzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The two NF-&#x3BA;B activation pathways and their role in innate and adaptive immunity</article-title>
+          <source>Trends Immunol.</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>280</fpage>
+          <lpage>288</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.it.2004.03.008</pub-id>
+          <pub-id pub-id-type="pmid">15145317</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M836">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Kamata</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>IKK/NF-&#x3BA;B signaling: balancing life and death-a new approach to cancer therapy</article-title>
+          <source>J. Clin. Invest.</source>
+          <year>2005</year>
+          <volume>115</volume>
+          <fpage>2625</fpage>
+          <lpage>2632</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI26322</pub-id>
+          <pub-id pub-id-type="pmid">16200195</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M836">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear factor-&#x3BA;B in cancer development and progression</article-title>
+          <source>Nature</source>
+          <year>2006</year>
+          <volume>441</volume>
+          <fpage>431</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature04870</pub-id>
+          <pub-id pub-id-type="pmid">16724054</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M836">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sethi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sung</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>B.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear factor-&#x3BA;B activation: from bench to bedside</article-title>
+          <source>Exp. Biol. Med.</source>
+          <year>2008</year>
+          <volume>233</volume>
+          <fpage>21</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.3181/0707-MR-196</pub-id>
+          <pub-id pub-id-type="pmid">18156302</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M836">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coussens</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Werb</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inflammation and cancer</article-title>
+          <source>Nature</source>
+          <year>2002</year>
+          <volume>420</volume>
+          <fpage>860</fpage>
+          <lpage>867</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature01322</pub-id>
+          <pub-id pub-id-type="pmid">12490959</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M836">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barnes</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear factor-&#x3BA;B: A pivotal transcription factor in chronic inflammatory diseases</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>1997</year>
+          <volume>336</volume>
+          <fpage>1066</fpage>
+          <lpage>1071</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1357-2725(96)00159-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M836">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Visekruna</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Joeris</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Seidel</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kroesen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Loddenkemper</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zeitz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kaufmann</surname>
+              <given-names>S.H.E.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt-Ullrich</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Steinhoff</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Proteasome-mediated degradation of I&#x3BA;B&#x3B1; and processing of p105 in Crohn disease and ulcerative colitis</article-title>
+          <source>J. Clin. Invest.</source>
+          <year>2006</year>
+          <volume>116</volume>
+          <fpage>3195</fpage>
+          <lpage>3203</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI28804</pub-id>
+          <pub-id pub-id-type="pmid">17124531</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M836">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yoshimori</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kino</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Komori</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Miyazawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tanuma</surname>
+              <given-names>S.-I.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new small molecule that directly inhibits the DNA binding of NF-&#x3BA;B</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>5293</fpage>
+          <lpage>5297</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2009.05.030</pub-id>
+          <pub-id pub-id-type="pmid">19539480</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M836">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fujii</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakatsu</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Miyazawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kagechika</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure&#x2013;activity relationship study of triazine-based inhibitors of the DNA binding of NF-&#x3BA;B</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2014</year>
+          <volume>62</volume>
+          <fpage>700</fpage>
+          <lpage>708</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.c14-00218</pub-id>
+          <pub-id pub-id-type="pmid">24990506</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M836">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kino</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Arima</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Komori</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Miyazawa</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photoirradiation products of flavin derivatives, and the effects of photooxidation on guanine</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>2070</fpage>
+          <lpage>2074</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.01.112</pub-id>
+          <pub-id pub-id-type="pmid">19254841</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M836">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kino</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Miyazawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Sugiyama</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>User-friendly synthesis and photoirradiation of a flavin-linked oligomer</article-title>
+          <source>Genes Environ.</source>
+          <year>2007</year>
+          <volume>29</volume>
+          <fpage>23</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="doi">10.3123/jemsge.29.23</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2014-M836-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M836-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>N</italic>'-[2-(7,8-dimethyl-2,4-dioxo-3,4-dihydrobenzo[<italic>g</italic>]pteridin-10(2<italic>H</italic>)-yl)ethylidene]-4-nitrobenzohydrazide (<bold>1</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M836-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2014-M836-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The geometric structures of the product <bold>1</bold>. (<bold>A</bold>) <italic>E</italic> configuration. (<bold>B</bold>) <italic>Z</italic> configuration.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M836-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

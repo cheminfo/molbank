@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M510</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M510</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 2-Chloro-3-(2-naphthyloxy)quinoxaline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Obafemi</surname>
+            <given-names>Craig A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M510" ref-type="corresp">*</xref>
+          <xref rid="af1-molbank-2006-M510" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pfleiderer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M510" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M510"><label>1</label>Department of Chemistry, Obafemi Awolowo University, Ile-Ife, Nigeria</aff>
+      <aff id="af2-molbank-2006-M510"><label>2</label>Fachbereich Chemie, Konstanz University D-78457 Konstanz/ Germany <break/>E-mail: <email>adeyemi01@yahoo.com</email> (<email>craigoba@oauife.edu.ng</email>)</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M510"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>6</issue>
+      <elocation-id>M510</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>2,3-Dichoroquinoxaline</kwd>
+        <kwd>2-naphthol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M510-i001.tif"/></p>
+      <p>A mixture of 2,3-dichloroquinoxaline <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2006-M510">1</xref>] (1.0 g, 5 mmol) and 2-naphthol (0.72 g, 5 mmol) in pyridine (10 mL) was heated to 130&#xB0;C for 3 h, with magnetic stirring, to give a dark-brown reaction mixture. The reaction mixture was allowed to cool and then poured into cold water (50 mL). The resulting solid was filtered, dried and purified by column chromatography on silica gel, eluting with petroleum ether (b.p. 100<sup>&#xB0;</sup>) / ethanol (100:1) to afford 2-chloro-3-(2-naphthyloxy)quinoxaline <bold>3</bold> as colorless crystals (0.9 g, 58.0%).</p>
+      <p>Melting point: 163 &#x2013; 165&#xB0;C </p>
+      <p><sup>1</sup>H-NMR (400 MHz, DMSO-d<sub>6</sub>, d (ppm): 8.10 &#x2013; 7.90 (m, 5H, Ar-H), 7.76 &#x2013; 7.67 (m, 3H, Ar-H), 7.62 &#x2013; 7.54 (m, 3H, Ar-H).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, DMSO-d<sub>6</sub>, d (ppm): 152.8, 150.1, 138.8, 138.6, 133.5, 131.0, 130.8, 129.6, 128.5, 127.7, 127.6, 127.4, 126.8, 126.6, 125.8, 121.5, 118.1.</p>
+      <p>MS (m/z, %): 308 ([M + 2]<sup>+</sup> 31.8), 306 (M<sup>+</sup>, 100), 278 ([M-CO] <sup>+</sup>,19.0), 271 ([M-Cl]<sup>+</sup>, 23.6), 243 ([M-CO-Cl]<sup>+</sup>, 34.6), 163 ([M-C<sub>10</sub>H<sub>7</sub>O] <sup>+</sup>, 8.6), 127 (17.3), 115 (50.3), 102 (45.6), 90 (12.0), 75 (22.2).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M510">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2006-M510-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M510-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M510-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M510-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgment </title>
+      <p>We thank the Alexander von Humboldt Foundation for a post-doctoral fellowship (C.A.O.).</p>
+    </ack>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2006-M510">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Obafemi</surname>
+              <given-names>C.A.</given-names>
+            </name>
+			 <name>
+              <surname>Pfleiderer</surname>
+              <given-names>Wolfgang</given-names>
+            </name>
+          </person-group>
+          <source>Helv. Chim. Acta</source>
+          <year>1994</year>
+          <volume>77</volume>
+          <fpage>1549</fpage>
+          <lpage>1556</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

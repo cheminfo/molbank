@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M488</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M488</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 4-[4-(4-nitrobenzylideneiminophenylene)phenyleneimino methylidene] phenol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marin</surname>
+            <given-names>L.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M488" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cozan</surname>
+            <given-names>V.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M488">Romanian Academy, &#x201C;Petru Poni&#x201D; Institute of Macromolecular Chemistry, Aleea Gr. Ghica Voda 41A, Iasi 700487, Romania, <break/>Phone: 0232-260332, Fax: 0232-211299, E-mail: <email>lmarin@icmpp.ro</email></aff>
+      <author-notes>
+      <corresp id="c1-molbank-2006-M488"><label>*</label>Author to whom correspondence should be addressed;</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M488</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>10</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>01</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>azomethine</kwd>
+        <kwd>liquid crystal</kwd>
+        <kwd>phenolic intermediate</kwd>
+        <kwd>thermotropic</kwd>
+        <kwd>nematic</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The azomethine <bold>1</bold> was prepared as described elsewhere [<xref ref-type="bibr" rid="B1-molbank-2006-M488">1</xref>].  The 4-[4-(4-nitrobenzylidene- iminophenylene)phenyleneimino methylidene] phenol (<bold>2</bold>) was obtained in a similar manner [<xref ref-type="bibr" rid="B2-molbank-2006-M488">2</xref>] by reacting the azomethine <bold>1</bold> with 4-nitrobenzaldehyde in stoichiometric ratio:</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M488-i001.tif"/></p>
+      <p>A mixture of 0.8 g (2.88 mmol) <bold>1</bold> and 0.42 g (2.77 mmol) 4-nitrobenzaldehyde was dissolved in 10 mL DMSO. The mixture was stirred under heating at 90 &#xB0;C for 30 min. The reaction product was isolated by pouring the reaction mixture into water, washing with water and then with methanol. The purity was tested by the thin layer chromatography. IR spectra and elemental analysis confirmed that synthesised compound had the correct structure with a good degree of purity. The azomethine <bold>2</bold> has an orange-ochre powder aspect , yield 80 %.</p>
+      <p><bold>Mp.</bold> 213 &#xB0;C (by polarization light microscopy), 212 &#xB0;C (by thermooptical analysis), 215 &#xB0;C (by DSC method). In the melting state the product exhibit liquid crystalline behavior displaying a typical schlieren texture (see <xref ref-type="fig" rid="molbank-2006-M488-f001">Figure 1</xref>). The isotropisation temperature could not be measured, because the decomposition started before (decomposition temperature T<sub>o</sub> = 256&#xB0;C)</p>
+      <p><bold>UV</bold> (DMF) 286, 382 nm</p>
+      <p><bold>Anal.</bold> calc. for C<sub>26</sub>H<sub>19</sub>N<sub>3</sub> O<sub>3</sub> (421.45): N % 9.97; found: N % 9.52</p>
+      <p><bold>IR</bold> (KBr, cm<sup>&#x2212;1</sup>):  3450 (O-H), 1625 (CH=N), 1600, 1580 (C=C), 1520 (NO<sub>2</sub> asym.), 1450 (C=C), 1350 (NO<sub>2</sub> sym.), 1240 (C-O, asym.), 1160 (C-O, sym.), 855, 840 (1,4-phenylene ring).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M488">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M488-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M488-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M488-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M488-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2006-M488">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cozan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Avram</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. Polym. J.</source>
+          <year>2003</year>
+          <volume>39</volume>
+          <fpage>107</fpage>
+          <lpage>114</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M488">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Racles</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Cozan</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <source>High Performance Polymers</source>
+          <year>2002</year>
+          <volume>14</volume>
+          <fpage>169</fpage>
+          <lpage>181</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure</title>
+      <fig id="molbank-2006-M488-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The schlieren texture of azomethine <bold>2</bold> at 246 &#xB0;C, between crossed polarizers</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M488-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

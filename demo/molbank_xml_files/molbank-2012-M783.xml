@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M783</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M783</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>Z</italic>)-<italic>N</italic>-(7-Cyano-9,9,15,15-tetramethyl-9,10,11,13,14,15-hexahydro-6<italic>H</italic>-benzo[4'',5'']imidazo[1'',2'':1',2']pyrido[3',4':5,6]pyrano[2,3-f]pyrido[3,2,1-ij]quinolin-6-ylidene)pent-4-ynamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bachl</surname>
+            <given-names>J&#xFC;rgen</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M783" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2012-M783" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wolfbeis</surname>
+            <given-names>Otto</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M783" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cativiela</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref rid="af2-molbank-2012-M783" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D&#xED;az</surname>
+            <given-names>David D.</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M783" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2012-M783" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2012-M783" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M783"><label>1</label>Institut f&#xFC;r Organische Chemie, Universit&#xE4;t Regensburg, Universit&#xE4;tsstr. 31, 93053 Regensburg, Germany</aff>
+      <aff id="af2-molbank-2012-M783"><label>2</label>Instituto de S&#xED;ntesis Qu&#xED;mica y Cat&#xE1;lisis Homog&#xE9;nea (ISQCH), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2012-M783"><label>*</label> Author to whom correspondence should be addressed; E-Mails: <email>David.Diaz@chemie.uni-regensburg.de</email> or <email>diazdiaz@unizar.es</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>10</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>4</issue>
+      <elocation-id>M783</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>09</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>10</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Coumarin-based dye (<italic>Z</italic>)-<italic>N</italic>-(7-cyano-9,9,15,15-tetramethyl-9,10,11,13,14,15-hexahydro-6<italic>H</italic>-benzo[4'',5'']imidazo[1'',2'':1',2']pyrido[3',4':5,6]pyrano[2,3-f]pyrido[3,2,1-ij]quinolin-6-ylidene)pent-4-ynamide (<bold>3</bold>) was obtained in 81% yield by reaction between primary imine precursor <bold>1</bold> and pent-4-ynoic anhydride (<bold>2</bold>) under thermal conditions. The title compound was characterized by elemental analysis, melting point, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, FT-IR, mass, UV-vis and fluorescence spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>coumarin</kwd>
+        <kwd>fluorescent dye</kwd>
+        <kwd>alkyne</kwd>
+        <kwd>imine</kwd>
+        <kwd>anhydride</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Coumarin derivatives constitute one of the most important organic fluorescent materials [<xref ref-type="bibr" rid="B1-molbank-2012-M783">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M783">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M783">3</xref>]. During the last decades a number of substituted fluorescent coumarins have been reported to absorb and emit in most parts of the visible spectrum. In fact, their remarkable light emission properties and structural robustness have driven the use of these compounds in a wide range of applications, including, among others, the fabrication of fluorescent brightening agents, daylight fluorescent pigments for textiles, plastics, colouring paint and ink products, tuneable dye lasers, solar energy collectors, non-destructive flaw indicators, liquid crystal displays, organic electroluminescent materials and new diagnostic methods in medicine [<xref ref-type="bibr" rid="B1-molbank-2012-M783">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M783">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M783">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M783">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M783">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M783">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M783">7</xref>].</p>
+      <p>Nevertheless, some attractive commercial coumarin-related dyes lack a proper chemical unit to allow for the attachment of other molecular entities. In this sense, terminal alkynes have been proven to be one of the most versatile functional groups in synthetic organic and materials chemistry [<xref ref-type="bibr" rid="B8-molbank-2012-M783">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2012-M783">9</xref>]. This is mainly due to (1) their facile introduction into organic molecules, and (2) their numerous characteristic reactions such as electrophilic additions of hydrogen, halogens, hydrogen halides or water, metathesis, hydroboration, oxidative cleavage, C&#x2013;C coupling and cycloadditions. Of particular interest among different cycloaddition reactions, the Huisgen 1,3-dipolar cycloaddition has been greatly promoted in the last decade as the most representative example of the &#x201C;click&#x201D; reactions [<xref ref-type="bibr" rid="B10-molbank-2012-M783">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2012-M783">11</xref>].</p>
+      <p>Herein, we report the synthesis and characterization of a new coumarin-related fluorescent dye bearing a terminal alkyne, which provides a remote functional group for further modification. </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>10,11,14,15-Tetrahydro-6-imino-9,9,15,15-tetramethyl-6<italic>H</italic>,9<italic>H</italic>,13<italic>H</italic>-benzimidazo[1'',2'':1',2']pyrido[4',3':2,3][1]benzopyrano[6,7,8-ij]quinolizine-7-carbonitrile (<bold>1</bold>) is a commercial coumarin-related fluorescent red dye that contains a primary ketimine group. This type of fluorescent dyes is suitable for application to polyester fibres [<xref ref-type="bibr" rid="B12-molbank-2012-M783">12</xref>]. In order to incorporate a terminal alkyne we successfully reacted <bold>1</bold> with pent-4-ynoic anhydride (<bold>2</bold>) at 90 &#xB0;C during 16 h (<xref ref-type="scheme" rid="molbank-2012-M783-sch001">Scheme 1</xref>). Although uncommon, similar reactivity using acetic anhydride has been also reported with other imine-containing compounds [<xref ref-type="bibr" rid="B13-molbank-2012-M783">13</xref>]. Thus, the desired fluorescent alkyne-derivative <bold>3</bold> could be obtained in 81% yield upon proper purification (see Experimental Section and <xref ref-type="app" rid="app1-molbank-2012-M783">Supplementary Files</xref>).</p>
+      <p>It is worth to mention that attempts of direct alkylation of the imine group were fruitless due to fast decomposition of dye <bold>1</bold> in the presence of bases (e.g., LDA, tBuOK, NaOMe, NaHMDS, NaH) even at very low temperatures, presumably due to a ring-opening cascade reaction initiated by the nucleophilic unprotonated imine [<xref ref-type="bibr" rid="B14-molbank-2012-M783">14</xref>]. Hence, this process can be inhibited by acylation of the imine using anhydride <bold>2</bold> in the absence of base.</p>
+      <p>Alkyne-containing coumarin <bold>3</bold> was found to be well soluble in a wide range of polar organic solvents (e.g., acetone, EtOAc, THF, EtOH, CH<sub>3</sub>CN, DMSO) or DMSO:H<sub>2</sub>O mixtures (<italic>i.e.</italic>, 30/70 v/v, <italic>c</italic> = 6.8 &#xD7; 10<sup>&#x2212;5</sup> mol&#xB7;L<sup>&#x2212;1</sup>) but insoluble in water or pentane. In terms of UV-vis absorption properties, the two characteristic absorption maxima of unmodified dye <bold>1</bold> in the green region were red-shifted <italic>ca.</italic> 10 and 16 nm respectively upon acylation of the imine, whereas the peaks intensity were kept nearly constant [<xref ref-type="bibr" rid="B14-molbank-2012-M783">14</xref>]. Moreover, modified dye <bold>3</bold> remained highly fluorescent with a quantum yield (&#x3C6;) of 0.35 in EtOH as calculated from its excitation-emission fluorescence spectra [<xref ref-type="bibr" rid="B14-molbank-2012-M783">14</xref>]. In addition, a clear dependence of absorption properties with solvent polarity was evidenced by a bathochromic (red) shift of the absorption maximum with increasing the latter [<xref ref-type="bibr" rid="B14-molbank-2012-M783">14</xref>], ranging from 1,4-dioxane (&#x3BB;<sub>max</sub> = 568 nm) to DMSO (&#x3BB;<sub>max</sub> = 580 nm) (<xref ref-type="fig" rid="molbank-2012-M783-f001">Figure 1</xref>). This indicates that the excited state of the dye is more polar than its ground state, and consequently it is better stabilized by polar solvation.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental </title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR spectra were recorded in CDCl<sub>3</sub> at 25 &#xB0;C on a Bruker Avance 300 spectrometer. <sup>13</sup>C-NMR spectra were recorded in CDCl<sub>3</sub> at 25 &#xB0;C on a Bruker Avance III 600 spectrometer equipped with a TCI cryo-sample head. Chemical shifts are reported relative to residual solvent peaks [<xref ref-type="bibr" rid="B14-molbank-2012-M783">14</xref>]. Mass spectra were obtained with a Finnigan MAT 95 spectrometer. Infrared spectrum was recorded using a Diamond ATR (attenuated total reflection) accessory (Golden Gate) on a Bio-Rad Excalibur FTS 3000 MX spectrophotometer. Melting point (m.p.) was measured in an Opti Melt MPA 100 instrument and is uncorrected. Thin-layer chromatography was carried out on Merck aluminium sheets coated with silica gel 60 F<sub>254</sub>. Compounds were visualized by use of 254/365 nm UV light and phosphomolybdic acid solution in ethanol (20 wt.%) with heating. Preparative TLC was carried out using precoated glass plates of silica gel (SIL G-200 UV<sub>254</sub>, 20 &#xD7; 20 cm, 2 mm thick, Macherey-Nagel). All solvents used during this research were of p.a. grade or purified by standard techniques [<xref ref-type="bibr" rid="B15-molbank-2012-M783">15</xref>]. UV-vis measurements were performed on a Varian Cary 50 Instrument Excitation-emission fluorescence spectra were obtained with an AMINCO Bowman Series 2 Luminescence spectrometer. Fluorescence quantum yield was determined in EtOH using Rhodamine-6G (&#x3C6; = 0.95, &#x3BB;<sub>ex</sub> = 530 nm) as standard sample. Quarz glass cuvettes (Hellma 110-QS) of 0.5 and 1.0 cm pathlength were used for UV and fluorescence measurements respectively. Anhydrous sodium sulphate was used for drying solutions. Although pent-4-ynoic anhydride (<bold>2</bold>) is commercially available, it was synthesized via DCC-coupling (DCC = 1,3-dicyclohexylcarbodiimide) of 4-pentynoic acid in CH<sub>2</sub>Cl<sub>2</sub> at room temperature, affording the desired product as a colourless oil having spectroscopic data identical to those reported in the literature [<xref ref-type="bibr" rid="B16-molbank-2012-M783">16</xref>]. Fluorophore 10,11,14,15-tetrahydro-6-imino-9,9,15,15-tetramethyl-6<italic>H</italic>,9<italic>H</italic>,13<italic>H</italic>-benzimidazo[1'',2'':1',2']pyrido[4',3':2,3][1]benzopyrano[6,7,8-ij]quinolizine-7-carbonitrile (<bold>1</bold>) was purchased from FEW Chemicals GmbH and used without further purification. </p>
+        <p><italic>Synthesis and characterization of</italic> (<italic>Z</italic>)-<italic>N</italic>-(7-cyano-9,9,15,15-tetramethyl-9,10,11,13,14,15-hexahydro-6<italic>H</italic>-benzo[4'',5'']imidazo[1'',2'':1',2']pyrido[3',4':5,6]pyrano[2,3-f]pyrido[3,2,1-ij]quinolin-6-ylidene)pent-4-ynamide (<bold>3</bold>): 10,11,14,15-tetrahydro-6-imino-9,9,15,15-tetramethyl-6<italic>H</italic>,9<italic>H</italic>,13<italic>H</italic>-benzimidazo[1'',2'':1',2']pyrido[4',3':2,3][1]benzopyrano[6,7,8-ij]quinolizine-7-carbonitrile (<bold>1</bold>) (20 mg, 0.043 mmol) was mixed with pent-4-ynoic anhydride (<bold>2</bold>) (463 mg, 2.6 mmol) and stirred for 16 h at 90 &#xB0;C. After this time, TLC-analysis indicated complete conversion of <bold>1</bold> into <bold>3</bold>. The mixture was diluted with water (100 mL) and extracted with CH<sub>2</sub>Cl<sub>2</sub> (100 mL). The organic layer was washed with water (3 &#xD7; 50 mL) and brine (2 &#xD7; 50 mL), dried over Na<sub>2</sub>SO<sub>4</sub>, filtered and concentrated under reduced pressure. The residue was purified by column chromatography on silica gel (eluting with EtOAc/hexanes mixtures ranging from 1:1 to 9:1 v/v) and subsequent preparative TLC (eluting with EtOAc/hexanes 4:1 v/v) affording product <bold>3</bold> (19 mg, 81% yield) as a dark purple solid [<xref ref-type="bibr" rid="B17-molbank-2012-M783">17</xref>]: TLC <italic>R</italic><sub>f</sub> (EtOAc/hexanes 3:1 v/v) 0.44; m.p. = 146 &#xB1; 1 &#xB0;C; <sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 8.63 (s, 1H), 8.59 (d, <italic>J</italic> = 7.8 Hz, 1H), 7.81 (d, <italic>J</italic> = 7.7 Hz, 1H), 7.46 (td, <italic>J</italic> = 7.7, 1.2 Hz, 1H), 7.37 (td, <italic>J</italic> = 7.9, 1.3 Hz, 1H), 7.32 (s, 1H), 3.53 (t, <italic>J</italic> = 6.1 Hz, 2H), 3.42 (t, <italic>J</italic> = 5.9 Hz, 2H), 3.08&#x2013;2.97 (m, 2H), 2.80&#x2013;2.72 (m, 2H), 2.00 (t, <italic>J</italic> = 2.6 Hz, 1H), 1.88 (dd, <italic>J</italic> = 6.6, 4.7 Hz, 2H), 1.82 (t, <italic>J</italic> = 6.4 Hz, 2H), 1.67 (s, 6H), 1.35 (s, 6H); <sup>13</sup>C-NMR (151 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 181.37, 163.07, 152.34, 149.90, 144.72, 144.24, 144.22, 136.93, 132.18, 131.36, 125.70, 125.35, 123.93, 118.84, 117.07, 115.63, 114.97, 112.11, 104.78, 83.84, 73.61, 70.61, 68.62, 48.19, 47.55, 38.86, 38.77, 34.55, 32.34, 32.32, 29.62, 28.19 (2C), 14.46; FT-IR (ATR) &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>) 3317, 2941, 2831, 2383, 2197, 1635, 1448, 1304, 1119, 952, 933, 660, 627, 540, 500, 469, 414; MS (ESI) <italic>m/z</italic> 542 [MH<sup>+</sup>]. HRMS calculated for C<sub>34</sub>H<sub>31</sub>N<sub>5</sub>O<sub>2</sub> 541.2475; found 541.2468. Elemental analysis calculated for C<sub>34</sub>H<sub>31</sub>N<sub>5</sub>O<sub>2</sub>: C, 75.38; H, 5.77; N, 12.94; found: C, 75.54; H, 5.93; N, 13.24; UV-vis (acetone, &#x3BB;<sub>max</sub>, nm (<italic>&#x3B5;</italic>, M<sup>&#x2212;</sup><sup>1</sup>&#xB7;cm<sup>&#x2212;</sup><sup>1</sup>)) [sh = shoulder]: 576 (24200), 530 (sh).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2012-M783">
+      <title>Supplementary materials</title>
+   <supplementary-material id="molbank-2012-M783-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M783-s001.pdf"><label>Supplementary File 1</label></supplementary-material>
+   <supplementary-material id="molbank-2012-M783-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M783-s002-mod.mol"><label>Supplementary File 2</label></supplementary-material>
+   <supplementary-material id="molbank-2012-M783-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M783-s002.mol"><label>Supplementary File 3</label></supplementary-material>
+    </app>
+    </app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank Ministerio de Ciencia e Innovaci&#xF3;n&#x2212;FEDER (CTQ2010&#x2212;17436; J.B. predoctoral fellowship), Gobierno de Arag&#xF3;n (research group E40), CSIC (project PIE 200980I059) and University of Regensburg (Anschubfinanzierung von Wissenschaftlichen Projekten-2011) for financial support. We are also indebted to D. K&#xFC;hbeck and E.-M. Sch&#xF6;n (University of Regensburg) for checking some experiments under basic conditions, D&#xFC;rkop (University of Regensburg) for assistance with fluorescence measurements, M. G. Finn (The Scripps Research Institute, CA) and Qian Wang (University of South Carolina) for valuable scientific discussions, and M. Di Braccio (Universit&#xE0; di Genova) for providing us with a copy of reference 13.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M783">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krasovitskii</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Bolotin</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Luminescent Materials</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>1988</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M783">
+        <label>2.</label>
+		<note><p>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christie</surname>
+              <given-names>R.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluorescent dyes</article-title>
+          <source>Rev. Prog. Color. Relat. Top.</source>
+          <year>1993</year>
+          <volume>23</volume>
+          <fpage>1</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1478-4408.1993.tb00092.x</pub-id>
+        </citation> and references therein.</p></note>
+      </ref>
+      <ref id="B3-molbank-2012-M783">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Kennedy</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Coumarins</source>
+          <publisher-name>John Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M783">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <source>The Pigment Handbook</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>John Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1988</year>
+          <volume>Volume 1</volume>
+          <fpage>859</fpage>
+          <lpage>872</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M783">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miyata</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Electroluminescent Materials and Devices</source>
+          <edition>1st ed.</edition>
+          <publisher-name>CRC Press</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M783">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-H.</given-names>
+            </name>
+          </person-group>
+          <source>Functional Dyes</source>
+          <edition>1st ed.</edition>
+          <publisher-name>Elsevier Science</publisher-name>
+          <publisher-loc>Amsterdam, The Netherlands</publisher-loc>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M783">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valeur</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Berberan-Santos</surname>
+              <given-names>M.N.</given-names>
+            </name>
+          </person-group>
+          <source>Molecular Fluorescence: Principles and Applications</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Singapore</publisher-loc>
+          <year>2012</year>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M783">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patai</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Chemistry of Triple-Bonded Functional Groups</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M783">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diederich</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Stang</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Tykwinski</surname>
+              <given-names>R.R.</given-names>
+            </name>
+          </person-group>
+          <source>Acetylene Chemistry: Chemistry, Biology, and Material Science</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M783">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolb</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Finn</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Click Chemistry: Diverse Chemical Function from a Few Good Reactions</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>2001</year>
+          <volume>40</volume>
+          <fpage>2004</fpage>
+          <lpage>2021</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-3773(20010601)40:11&lt;2004::AID-ANIE2004&gt;3.0.CO;2-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M783">
+        <label>11.</label>
+        <note><p>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meldal</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Torn&#xF8;e</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cu-catalyzed azide-alkyne cycloadditions</article-title>
+          <source>Chem. Rev.</source>
+          <year>2008</year>
+          <volume>108</volume>
+          <fpage>2952</fpage>
+          <lpage>3015</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr0783479</pub-id>
+          <pub-id pub-id-type="pmid">18698735</pub-id>
+        </citation> and references therein.</p></note>
+      </ref>
+      <ref id="B12-molbank-2012-M783">
+        <label>12.</label>
+        <note>
+          <p>BASF German P 2 415 661 (1975).</p>
+        </note>
+      </ref>
+      <ref id="B13-molbank-2012-M783">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mazzei</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ermili</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Balbi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>di Braccio</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schiantarelli</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Cadel</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry and pharmacology of pyran derivatives. XVII. Synthesis of 2-(dialkylamino)-5-hydroxychromones and their transformation to derivatives of 2<italic>H</italic>-pyran[4,3,2-de]-1-benzopyran</article-title>
+          <source>Farmaco Sci.</source>
+          <year>1986</year>
+          <volume>8</volume>
+          <fpage>611</fpage>
+          <lpage>621</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2012-M783">
+        <label>14.</label>
+        <note>
+          <p>See Supplementary Files for detailed information.</p>
+        </note>
+      </ref>
+      <ref id="B15-molbank-2012-M783">
+        <label>15.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W.L.F.</given-names>
+            </name>
+            <name>
+              <surname>Perrin</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <source>Purification of Laboratory Chemicals</source>
+          <edition>4th ed.</edition>
+          <publisher-name>Butterworth-Heinemann</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2012-M783">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malkoch</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schleicher</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Drockenmuller</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hawker</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>T.P.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Fokin</surname>
+              <given-names>V.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structurally Diverse Dendritic Libraries: A Highly Efficient Functionalization Approach Using Click Chemistry</article-title>
+          <source>Macromolecules</source>
+          <year>2005</year>
+          <volume>9</volume>
+          <fpage>3663</fpage>
+          <lpage>3678</lpage>
+          <pub-id pub-id-type="doi">10.1021/ma047657f</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2012-M783">
+        <label>17.</label>
+        <note>
+          <p>If necessary, the amount of pent-4-ynoic anhydride can be reduced (6-fold) using DMF as solvent over a period of 12 h.</p>
+        </note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2012-M783-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M783-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M783-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2012-M783-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>(<bold>A</bold>) UV-vis spectra of modified dye <bold>3</bold> in different organic solvents (<italic>c</italic> = 3.8 &#xD7; 10<sup>&#x2212;5</sup> mol&#xB7;L<sup>&#x2212;1</sup>) showing a positive solvatochromism; (<bold>B</bold>) Appearance of solutions of dye <bold>3</bold> in different organic solvents (<italic>c</italic> = 2.8 &#xD7; 10<sup>&#x2212;4</sup> mol&#xB7;L<sup>&#x2212;1</sup>) under (<italic>top</italic>) visible and (<italic>bottom</italic>) UV light irradiation (&#x3BB;<sub>max</sub> = 365 nm).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M783-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

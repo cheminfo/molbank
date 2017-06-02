@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M816</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M816</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2,3-Bis(4-(3-(trifluoromethyl)-3<italic>H</italic>-diazirin-3-yl)phenyl)oxirane</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Lei</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yoshida</surname>
+            <given-names>Takuma</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Okamoto</surname>
+            <given-names>Masashi</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sakihama</surname>
+            <given-names>Yasuko</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hashidoko</surname>
+            <given-names>Yasuyuki</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hashimoto</surname>
+            <given-names>Makoto</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M816" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M816">Division of Applied Bioscience, Graduate School of Agriculture, Hokkaido University; Kita 9, Nishi 9, Kita-ku, Sapporo 060-8589, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M816"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>hasimoto@abs.agr.hokudai.ac.jp</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>02</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>1</issue>
+      <elocation-id>M816</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>01</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>02</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, which has two photoreactive groups in a molecule, was synthesized by the coupling reaction of 3-(4-(bromomethyl)phenyl)-3-(trifluoromethyl)-3<italic>H</italic>-diazirine in the presence of silver oxide in DMSO.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>diazirine</kwd>
+        <kwd>oxirane</kwd>
+        <kwd>photoaffinity label</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Diazirine based photoaffinity labeling is a useful chemical biology method to elucidate interactions between low molecular weight bioactive compounds and biomolecules [<xref ref-type="bibr" rid="B1-molbank-2014-M816">1</xref>]. Photoreactive compound contained two photophores [<xref ref-type="bibr" rid="B2-molbank-2014-M816">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M816">3</xref>] is one of the attractive tools for comprehensive analysis of ligand-biomolecule interactions by photoaffinity labeling.</p>
+      <p>We have synthesized a new two photophores containing compound, 2,3-bis(4-(3-(trifluoromethyl)-3<italic>H</italic>-diazirin-3-yl)phenyl)oxirane <bold>2</bold>, from 4-[3-(trifluoromethyl)-3<italic>H</italic>-diazirin-3-yl]benzyl bromide <bold>1</bold> with silver oxide in DMSO [<xref ref-type="bibr" rid="B4-molbank-2014-M816">4</xref>] without decomposition of diazirinyl ring. <sup>1</sup>H- and <sup>13</sup>C-NMR chemical shifts for oxirane moiety (3.83 and 62.17 ppm) strongly indicated that the purified compound is <italic>trans</italic>- isomer [<xref ref-type="bibr" rid="B5-molbank-2014-M816">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M816">6</xref>]. The 2,3-<italic>trans</italic> two-photophores containing oxirane ring is utilized for introduction of <bold>2</bold> to ligand.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>Synthesis of 2,3-bis(4-(3-(trifluoromethyl)-3H-diazirin-3-yl)phenyl)oxirane <italic>(<bold>2</bold>)</italic></title>
+        <p>To a solution of 4-[3-(trifluoromethyl)-3<italic>H</italic>-diazirin-3-yl]benzyl bromide (<bold>1</bold>) [<xref ref-type="bibr" rid="B7-molbank-2014-M816">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M816">8</xref>] (0.10 g, 0.36 mmol) in anhydrous DMSO (1 mL), silver oxide (0.09 g, 0.39 mmol) was added. The resulting mixture was stirred overnight at room temperature until TLC showed the reaction to be complete. The reaction was filtered by Celite and treated with H<sub>2</sub>O, which was extracted with diethyl ether. The combined oil layer was dried over MgSO<sub>4</sub> and subjected to rotary evaporation to remove the solvent. The crude product was purified by silica gel column chromatography (CH<sub>2</sub>Cl<sub>2</sub>/hexane, 1:1) to afford <bold>2</bold> (0.06 g, 41%) as a yellow solid. [&#x3B1;]<sub>D</sub> &#x2212;20 (c 0.5, CHCl<sub>3</sub>). UV(CDCl<sub>3</sub>) <italic>&#x3BB;</italic><sub>max</sub> (<italic>&#x3B5;</italic>) 250 (2120), 356 (1170). <sup>1</sup>H-NMR (270 MHz, CDCl<sub>3</sub>): &#x3B4; 7.37 (4H, d, <italic>J</italic> = 8.1 Hz,), 7.22 (4H, d, <italic>J</italic> = 8.1 Hz), 3.83 (2H, s). <sup>13</sup>C-NMR (68 MHz, CDCl<sub>3</sub>): &#x3B4; 138.54, 129.48, 126.91, 126.02, 122.14 (q, <italic><sup>1</sup>J<sub>CF</sub></italic> = 274.7 Hz), 62.17, 28.24 (q, <italic><sup>2</sup>J<sub>CF</sub></italic> = 40.6 Hz). <sup>19</sup>F-NMR (470 MHz, CDCl<sub>3</sub>): &#x3B4; &#x2212;65.22. HRMS (FD): <italic>m/z</italic> calcd for C<sub>18</sub>H<sub>10</sub>F<sub>6</sub>N<sub>4</sub>O: 412.0759; found: 412.0744.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2014-M816">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M816-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M816-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2014-M816-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M816-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+	  </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This research was partially supported by the Fugaku Foundation for financial support. Part of this work was performed under the Cooperative Research Program of &#x201C;Network Joint Research Center for Materials and Devices&#x201D;.</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2014-M816">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hashimoto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hatanaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent progress in diazirine-based photoaffinity labeling</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2008</year>
+          <volume>2008</volume>
+          <fpage>2513</fpage>
+          <lpage>2523</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200701069</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M816">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blencowe</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Blencowe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Cosstick</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hayes</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>A carbene insertion approach to functionalized poly(ethylene oxide)-based gels</article-title>
+          <source>React. Funct. Polym.</source>
+          <year>2008</year>
+          <volume>68</volume>
+          <fpage>868</fpage>
+          <lpage>875</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.reactfunctpolym.2007.12.009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M816">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Muto</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sakihama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hashidoko</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hatanaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hashimoto</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simple and stereocontrolled preparation of benzoylated phenylalanine using Friedel&#x2013;Crafts reaction in trifluoromethanesulfonic acid for photoaffinity labeling</article-title>
+          <source>Heterocycles</source>
+          <year>2013</year>
+          <volume>87</volume>
+          <fpage>2119</fpage>
+          <lpage>2126</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.201406082</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M816">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>D.X.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient one-pot synthesis of <italic>trans</italic>-1,2-diaryloxiranes from the direct coupling of benzyl halides</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2010</year>
+          <volume>51</volume>
+          <fpage>6649</fpage>
+          <lpage>6650</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2010.10.075</pub-id>
+          <pub-id pub-id-type="pmid">21170144</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M816">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tao</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>M.M.-C.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>G.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Planar-chiral pyridine <italic>N</italic>-Oxides, a new family of asymmetric catalysts:&#x2009; Exploiting an &#x3B7;<sup>5</sup>-C<sub>5</sub>Ar<sub>5</sub> ligand to achieve high enantioselectivity</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>353</fpage>
+          <lpage>354</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja003573k</pub-id>
+          <pub-id pub-id-type="pmid">11456531</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M816">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okazaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ando</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Koketsu</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Generation of sulfur ylides from sulfonium salts and their reactions. Comparative study of electrochemical reduction with the base method and mechanism elucidation by the MO method</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>2003</year>
+          <volume>76</volume>
+          <fpage>2155</fpage>
+          <lpage>2165</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.76.2155</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M816">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunner</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Senn</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Richards</surname>
+              <given-names>F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Trifluoromethyl-3-phenyldiazirine. A new carbene generating group for photolabeling reagents</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1980</year>
+          <volume>255</volume>
+          <fpage>3313</fpage>
+          <lpage>3318</lpage>
+          <pub-id pub-id-type="pmid">7364745</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M816">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nakashima</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hashimoto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sadakane</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Tomohiro</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hatanaka</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simple and Versatile method for tagging phenyldiazirine photophores</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2006</year>
+          <volume>128</volume>
+          <fpage>15092</fpage>
+          <lpage>15093</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja066479y</pub-id>
+          <pub-id pub-id-type="pmid">17117852</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M816-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M816-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 2,3-bis(4-(3-(trifluoromethyl)-3<italic>H</italic>-diazirin-3-yl)phenyl)oxirane (<bold>2</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M816-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

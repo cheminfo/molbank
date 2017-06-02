@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M818</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M818</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>[7-(Fluoromethyl)-2-naphthyl]methanol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bogdanov</surname>
+            <given-names>Jane</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M818">Institute of Chemistry, Faculty of Natural Sciences &amp; Mathematics, Ss. Cyril and Methodius University, Arhimedova 5, 1000 Skopje, Macedonia; E-Mail: <email>j_b_bogdanov@yahoo.com</email>; Tel.: +389-2-324-9915; Fax: +389-2-322-865</aff>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>02</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>1</issue>
+      <elocation-id>M818</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>01</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>02</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the author; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was synthesized from 2,7-bis(bromomethyl)naphthalene via two step sequence-partial halogen exchange, followed by hydrolysis. The structure of this product was established by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, <sup>19</sup>F-NMR, FT-IR spectroscopy and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>[7-(Fluoromethyl)-2-naphthyl]methanol</kwd>
+		<kwd>halogen exchange</kwd>
+		<kwd>hydrolysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>One of the usual approaches to increase the potency of biologically active compounds is the replacement of hydrogen with a fluorine atom [<xref ref-type="bibr" rid="B1-molbank-2014-M818">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M818">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M818">3</xref>]. In the course of our research on biologically active compounds, we needed to prepare bifunctional synthetic precursor, <bold>2</bold>, containing naphthylic fluorine. The initial attempt to convert the corresponding diol, to the desired precursor using Olah&#x2019;s HF/pyridine reagent [<xref ref-type="bibr" rid="B4-molbank-2014-M818">4</xref>] met with failure. The next approach was to partially hydrolyze the 2,7-bis(bromomethyl)naphthalene, <bold>1</bold>, and to isolate the corresponding bromoalcohol, [7-(bromomethyl)-2-naphthyl]methanol [<xref ref-type="bibr" rid="B5-molbank-2014-M818">5</xref>], and then perform a halogen exchange. It was difficult to control the partial hydrolysis of <bold>1</bold>, so the remaining approach was to subject <bold>1</bold> to partial halogen exchange and then to hydrolyze the 2-bromomethyl-7-fluoromethylnaphthalene. The choice of nucleophilic fluoride was cesium fluoride, because it can be conveniently dried before use and it has appreciable solubility in organic solvents [<xref ref-type="bibr" rid="B6-molbank-2014-M818">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M818">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M818">8</xref>]. Moreover, its reactivity can be conveniently enhanced by a number of useful additives, such as tetra-alkylammonium salts [<xref ref-type="bibr" rid="B9-molbank-2014-M818">9</xref>], crown ethers [<xref ref-type="bibr" rid="B10-molbank-2014-M818">10</xref>], ionic liquids [<xref ref-type="bibr" rid="B11-molbank-2014-M818">11</xref>] and bulky <italic>tert</italic>-butyl or <italic>tert</italic>-amyl alcohols [<xref ref-type="bibr" rid="B12-molbank-2014-M818">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2014-M818">13</xref>]. Taking into consideration the cost, simplicity and the nature of the substrate, it was established that the most convenient procedure for preparation of pure [7-(fluoromethyl)-2-naphthyl]methanol would be by partial halogen exchange, using cesium fluoride and phase transfer catalyst in acetonitrile, followed by hydrolysis (<xref ref-type="scheme" rid="molbank-2014-M818-sch001">Scheme 1</xref>). </p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>It was very difficult to obtain 2-bromomethyl-7-fluoromethylnaphthalene in pure form because it had very similar polarity with 2,7-bis(bromomethyl)naphthalene and 2,7-bis(fluoromethyl)naphthalene. To simplify the procedure the crude mixture after partial halogen exchange was subjected to hydrolysis. The key step in this synthesis is to monitor the halogen exchange, <italic>i.e.</italic> to stop the reaction when the concentration of the 2-bromomethyl-7-fluoromethylnaphthalene is about 45%. The reaction progress can be conveniently monitored by TLC, gas chromatography (GC) or <sup>1</sup>H-NMR. The order of elution using GC methods (HP-5 capillary columns) is: 2,7-bis(fluoromethyl)naphthalene, 2-bromomethyl-7-fluoromethylnaphthalene and <bold>1</bold>. The title compound, <bold>2</bold>, was prepared in two steps in 28% overall yield. The structure of <bold>2</bold> was unambiguously determined by spectroscopic methods (<sup>1</sup>H-NMR, <sup>13</sup>C-NMR, <sup>19</sup>F-NMR, FT-IR spectroscopy). The presence of benzylic fluoride is evident from the <sup>19</sup>F-NMR spectrum (triplet centered around &#x2212;207.4 ppm, arising from two bond fluorine-hydrogen coupling with coupling constant of 47.7Hz), which is supported by the <sup>1</sup>H-NMR data (doublet centered at 5.53 ppm, <sup>2</sup><italic>J</italic><sub>H-F</sub> = 47.7 Hz, 1H, Ar-<italic>CH<sub>2</sub></italic>-F). These results are in agreement with the literature values [<xref ref-type="bibr" rid="B14-molbank-2014-M818">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2014-M818">15</xref>].</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>General</title>
+        <p>The cesium fluoride (Sigma-Aldrich, Allentown, PA, USA, 99%) was dried at 110 &#xB0;C for 12 h. Acetonitrile (Sure/Seal<sup>TM</sup> bottle, 99.8% anhydrous), calcium carbonate, dichloromethane and dioxane were obtained from Sigma-Aldrich and were used without further purification. Melting points were determined using Thomas-Hoover capillary mp apparatus and were uncorrected. NMR spectra were recorded on Bruker 400 MHz instrument (Freemont, CA, USA) using deuterated chloroform as solvent and tetramethylsilane as internal standard. The IR spectra were recorded on Perkin Elmer Model 1600 instrument using KBr pellets. The number of hydrogens on each carbon was determined from <sup>13</sup>C-NMR and <sup>135</sup>DEPT spectra. Gas chromatography was performed using a HP 6890 instrument with flame ionization detector and capillary column (HP-5, 30m, 0.32 mm i.d., 0.25 &#x3BC;m film thickness). Preparative flash chromatography [<xref ref-type="bibr" rid="B16-molbank-2014-M818">16</xref>] was performed using Merck silica gel 60 (230&#x2013;400 mesh) TLC was carried out using Merck pre-coated plates (60 F<sub>254</sub>, 250 &#x3BC;m).</p>
+      </sec>
+      <sec>
+        <title>Synthesis of [7-(Fluoromethyl)-2-naphthyl]methanol</title>
+        <p>A mixture of 2,7-bis(bromomethyl)naphthalene[<xref ref-type="bibr" rid="B17-molbank-2014-M818">17</xref>], <bold>1</bold>, (1.255 g, 4.00 mmol), dry cesium fluoride (1.341 g, 8.82 mmol), tetraethylammonium bromide (TEAB) (0.015 g, 0.01 mmol) in dry acetonitrile (20 mL) was vigorously stirred and refluxed under nitrogen for 24 h. The reaction progress was monitored by TLC (10% dichloromethane in hexane) and/or GC. Additional dry cesium fluoride (0.760 g, 5.00 mmol) was added and the reaction mixture was refluxed for additional 24 h. The mixture was cooled to ambient temperature, it was diluted with dichloromethane (75 mL) and transferred to a separatory funnel. The organic layer was washed with water (5 &#xD7; 50 mL), brine (1 &#xD7; 50 mL) and dried over sodium sulfate. Removal of solvent and drying <italic>in vacuo</italic> gave 0.923 g of off-white powder consisting of ca. 45% of the desired 2-bromomethyl-7-fluoromethylnaphthalene along with 2,7-bis(fluoromethyl)naphthalene and 2,7-bis(fluoromethyl)naphthalene. This mixture was directly used in the next step without further purification. The crude mixture was dissolved in 1:1 mixture of dioxane/water (v/v), calcium carbonate (2.8 g, 28 mmol) was added and was refluxed for 22 h. The reaction mixture was cooled to room temperature and was vacuum filtered to remove the calcium carbonate. The filter cake was washed with ethyl acetate (300 mL) and the residual calcium carbonate in the ethyl acetate was removed by a washing with 2.5% hydrochloric acid (50 mL). The organic layer was additionally washed with 5% aqueous sodium bicarbonate (1 &#xD7; 50 mL), water (3 &#xD7; 50 mL) and brine (1 &#xD7; 50 mL). Removal of solvent and drying <italic>in vacuo</italic> resulted in 0.622 g of off-white solid, which was subjected to column chromatography (SiO<sub>2</sub>) using gradient elution (20% dichloromethane in hexane, then 10% ethyl acetate in hexane, 20% ethyl acetate in hexane, and final elution with 30% ethyl acetate in hexane). The title compound was obtained as a white crystalline solid (0.215 g, 28% overall yield).</p>
+        <p>Mp 132&#x2013;134 &#xB0;C (dec.).</p>
+        <p>R<sub>f</sub> (30% ethyl acetate in hexanes) = 0.26.</p>
+        <p>GC: R<sub>t</sub> = 16.9 min (100 &#xB0;C, 3 min, 8 &#xB0;C/min to 260 &#xB0;C).</p>
+        <p>IR (KBr, cm<sup>&#x2212;1</sup>): 3258 br. (O-H).</p>
+        <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 7.87&#x2013;7.81 (m, 2 H), 7.79 (s, 2H), 7.51&#x2013;7.45 (m, 2 H), 5.53 (d, <sup>2</sup><italic>J</italic><sub>H-F</sub> = 47.7 Hz, 1H, Ar-<italic>CH<sub>2</sub></italic>-F), 4.84 (s, 2 H, Ar-<italic>CH<sub>2</sub></italic>-OH), 1.93 (s, 1H, D<sub>2</sub>O exchangeable). </p>
+        <p><sup>13</sup>C-NMR (100 MHz): &#x3B4; = 139.11 (C), 134.18 (d, <sup>2</sup><italic>J</italic>C-F = 17 Hz, C), 133.27 (C) 133.04 (d, <italic>J</italic>C-F = 2 Hz, C), 128.50 (CH), 128.39 (CH), 126.85 (d, <sup>3</sup><italic>J</italic>C-F = 7 Hz, CH), 125.96 (CH), 125.74 (CH), 125.20 (d, <italic>J</italic>C-F = 5 Hz, CH), (<italic>Ar</italic>), 84.93 (d, <sup>1</sup><italic>J</italic>C-F = 165 Hz, Ar-<italic>CH<sub>2</sub></italic>-F), 65.51 (Ar-<italic>CH<sub>2</sub></italic>-OH).</p>
+        <p><sup>135</sup>DEPT NMR: &#x3B4; = 128.50 (&#x2191;, CH), 128.39 (&#x2191;, CH), 126.85 (&#x2191;, d, <sup>3</sup><italic>J</italic>C-F = 7 Hz, CH), 125.96 (&#x2191;, CH), 125.74 (&#x2191;, CH), 125.20 (&#x2191;, d, <italic>J</italic>C-F = 5 Hz, CH), (<italic>Ar</italic>), 84.93 (&#x2193;, d, <sup>1</sup><italic>J</italic>C-F = 165 Hz, Ar-<italic>CH<sub>2</sub></italic>-F), 84.10 (&#x2193;, Ar-<italic>CH<sub>2</sub></italic>-F), 65.51 (&#x2193;, Ar-<italic>CH<sub>2</sub></italic>-OH).</p>
+        <p><sup>19</sup>F NMR (CDCl<sub>3</sub>, 280 MHz): &#x2212;207.4 (t, <sup>2</sup><italic>J</italic><sub>H-F</sub> = 47.7 Hz, 1F, Ar-CH<sub>2</sub>-<italic>F</italic>).</p>
+        <p>Calcd. for C<sub>12</sub>H<sub>11</sub>FO, C 75.77% H 5.83%. Found: C, 75.68; H, 5.72.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M818">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M818-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M818-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2014-M818-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M818-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The author is indebted to Alan Benesi for his help with the NMR data.</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2014-M818">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filler</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Organofluorine compounds in medicinal chemistry and biomedical applications</article-title>
+          <source>Studies in Organic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Filler</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Elsevier</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1993</year>
+          <volume>Volume 48</volume>
+          <fpage>1</fpage>
+          <lpage>23</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M818">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seebach</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Organic synthesis-Where now?</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1990</year>
+          <volume>29</volume>
+          <fpage>1320</fpage>
+          <lpage>1367</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199013201</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M818">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hiyama</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biologically active organofluorine compounds</article-title>
+          <source>Organofluorine Compounds</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Berlin, Germany; Heidelberg, Germany</publisher-loc>
+          <year>2000</year>
+          <fpage>137</fpage>
+          <lpage>182</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M818">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olah</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Nojima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kerekes</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic methods and reactions IX. Fluorination of secondary- and tertiary-alcohols with polyhydrogen fluoride/pyridine(trialkylamine) reagents</article-title>
+          <source>Synthesis</source>
+          <year>1973</year>
+          <fpage>786</fpage>
+          <lpage>787</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1973-22301</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M818">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Minami</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Uchida</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Eguchi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kakinuma</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzymatic approach to unnatural glycosides with diverse aglycon scaffolds using glycosyltransferase VinC</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2005</year>
+          <volume>127</volume>
+          <fpage>6148</fpage>
+          <lpage>6149</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja042848j</pub-id>
+          <pub-id pub-id-type="pmid">15853301</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M818">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluoride ion as a base in organic synthesis</article-title>
+          <source>Chem. Rev.</source>
+          <year>1980</year>
+          <volume>80</volume>
+          <fpage>429</fpage>
+          <lpage>452</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr60327a004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M818">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gerstenberger</surname>
+              <given-names>M.R.C.</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Methods of fluorination in organic chemistry</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1981</year>
+          <volume>20</volume>
+          <fpage>647</fpage>
+          <lpage>667</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198106471</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M818">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mascaretti</surname>
+              <given-names>O.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modern methods for the monofluorination of aliphatic organic compounds</article-title>
+          <source>Aldrichim. Acta</source>
+          <year>1993</year>
+          <volume>26</volume>
+          <fpage>47</fpage>
+          <lpage>58</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M818">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhadury</surname>
+              <given-names>P.S.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jaiswal</surname>
+              <given-names>D.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A facile synthesis of organofluorine compounds using a semi-molten mixture of tetrabutylammonium bromide and an alkali metal fluoride</article-title>
+          <source>J. Fluorine Chem.</source>
+          <year>1995</year>
+          <volume>73</volume>
+          <fpage>185</fpage>
+          <lpage>187</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-1139(95)03226-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M818">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gingras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>N. Harpp</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>New anhydrous fluorinating systems: The combination of crown-ethers and cesium fluoride. A relative rate study</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1988</year>
+          <volume>29</volume>
+          <fpage>4669</fpage>
+          <lpage>4672</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)80576-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M818">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Chi</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Significantly enhanced reactivities of the nucleophilic substitution reactions in ionic liquid</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2003</year>
+          <volume>68</volume>
+          <fpage>4281</fpage>
+          <lpage>4285</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo034109b</pub-id>
+          <pub-id pub-id-type="pmid">12762727</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M818">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dong</surname>
+              <given-names>W.K.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Seok</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Sohn</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Katzenellenbogen</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Dae</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile nucleophilic fluorination reactions using tert-alcohols as a reaction medium: Significantly enhanced reactivity of alkali metal fluorides and improved selectivity</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2008</year>
+          <volume>73</volume>
+          <fpage>957</fpage>
+          <lpage>962</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M818">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shinde</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Chi</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synergistic effect of two solvents, tert-alcohol and ionic liquid, in one molecule in nucleophilic fluorination</article-title>
+          <source>Org. Lett.</source>
+          <year>2008</year>
+          <volume>10</volume>
+          <fpage>733</fpage>
+          <lpage>735</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol702679d</pub-id>
+          <pub-id pub-id-type="pmid">18251545</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M818">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dixon</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>F.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of a series of substituted fluoromethyl-naphthalenes</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1981</year>
+          <volume>59</volume>
+          <fpage>2629</fpage>
+          <lpage>2641</lpage>
+          <pub-id pub-id-type="doi">10.1139/v81-379</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2014-M818">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adcock</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Abeywickrema</surname>
+              <given-names>A.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Conformational preference of the fluoromethyl group in some benzyl fluorides: A <sup>13</sup>C N.M.R. study</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>1980</year>
+          <volume>33</volume>
+          <fpage>181</fpage>
+          <lpage>187</lpage>
+          <pub-id pub-id-type="doi">10.1071/CH9800181</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2014-M818">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Still</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mitra</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid chromatographic technique for preparative separations with moderate resolution</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1978</year>
+          <volume>43</volume>
+          <fpage>2923</fpage>
+          <lpage>2925</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00408a041</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2014-M818">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ried</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Bodem</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Characteristic derivatives of the di- and trimethylnaphthalenes</article-title>
+          <source>Chem. Ber.</source>
+          <year>1958</year>
+          <volume>91</volume>
+          <fpage>1981</fpage>
+          <lpage>1982</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19580910932</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M818-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M818-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of [7-(fluoromethyl)-2-naphthyl]methanol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M818-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

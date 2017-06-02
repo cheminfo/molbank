@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M881</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M881</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Luteinizing Hormone Releasing Hormone/Galactose Core/Lipopeptide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Simerska</surname>
+            <given-names>Pavla</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M881" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2015-M881" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lai</surname>
+            <given-names>Hoi Ling</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M881" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Toth</surname>
+            <given-names>Istvan</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M881" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2015-M881" ref-type="aff">2</xref>
+          <xref rid="af3-molbank-2015-M881" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M881"><label>1</label>School of Chemistry and Molecular Biosciences, The University of Queensland, St. Lucia 4072, Queensland, Australia; E-Mails: <email>hoi.lai@uqconnect.edu.au</email> (H.L.L.); <email>i.toth@uq.edu.au</email> (I.T.)</aff>
+      <aff id="af2-molbank-2015-M881"><label>2</label>School of Pharmacy, The University of Queensland, Woolloongabba, Queensland 4012, Australia</aff>
+      <aff id="af3-molbank-2015-M881"><label>3</label>Institute for Molecular Bioscience, The University of Queensland, St Lucia, Queensland 4072, Australia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M881"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>p.simerska@uq.edu.au</email>; Tel.: +61-7-3365-4636.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M881</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>12</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A self-adjuvanting vaccine candidate comprising four copies of luteinizing hormone releasing hormone (LHRH), a galactose carrier/core and lipoamino acid based adjuvant was synthesized in 21% yield by a solid phase peptide synthesis, carbohydrate and Boc-chemistry methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>self-adjuvanting vaccine</kwd>
+        <kwd>carbohydrate carrier</kwd>
+        <kwd>luteinizing hormone releasing hormone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M881" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Prostate cancer has been identified as one of the most high-risk cancers in males [<xref ref-type="bibr" rid="B1-molbank-2015-M881">1</xref>]. The aim of our work was to develop a vaccine candidate for treatment of prostate cancer as an effective treatment is highly needed [<xref ref-type="bibr" rid="B2-molbank-2015-M881">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M881">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M881">4</xref>]. A vaccine candidate containing LHRH decapeptide (EHWSYGLRPG) antigen was used to generate anti-LHRH antibodies, which helped to control the growth of cancerous cells [<xref ref-type="bibr" rid="B5-molbank-2015-M881">5</xref>].</p>
+      <p>The Lipid Core Peptide (LCP) system [<xref ref-type="bibr" rid="B6-molbank-2015-M881">6</xref>] is a self-adjuvanting vaccine delivery system based on lipidic amino acids, a carrier and peptide antigens. Several LCP-based vaccine candidates have elicited high immune response <italic>in vivo</italic> [<xref ref-type="bibr" rid="B7-molbank-2015-M881">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M881">8</xref>].</p>
+      <p>One of the applications of carbohydrates in synthetic peptide vaccines [<xref ref-type="bibr" rid="B9-molbank-2015-M881">9</xref>] is their use as a carrier of peptide antigens, as they provide, after a modification of their functional groups, a number of attachment sites for conjugation of multiple epitopes. Different sugar entities are commercially available and give different spatial arrangements to the attached peptide epitopes, which may result in better recognition by immune cells. Besides that, the stability of peptide antigens in glycopeptide conjugates is improved [<xref ref-type="bibr" rid="B10-molbank-2015-M881">10</xref>]. Immune responses have been detected when carbohydrates were used as a branching core in vaccine constructs [<xref ref-type="bibr" rid="B8-molbank-2015-M881">8</xref>].</p>
+      <p>In this study, an LHRH vaccine candidate was synthesized using a combination of LCP system with three 12-carbon lipoamino acids and a galactose core as carrier of four copies of LHRH peptide antigen. A lipopeptide was attached to the anomeric carbone of the galactose core through a succinic acid linker.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M881" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>From <sc>d</sc>-galactose, a series of reactions (acetylation, bromination, azide formation followed by the removal of acetyl protecting group) were carried out to form &#x3B2;-<sc>d</sc>-galactopyranosyl azide [<xref ref-type="bibr" rid="B11-molbank-2015-M881">11</xref>]. &#x3B2;-<sc>d</sc>-Galactopyranosyl azide was cyanoethylated, and the azide was reduced to amine prior its coupling to monobenzyl adipate [<xref ref-type="bibr" rid="B8-molbank-2015-M881">8</xref>]. The reduction of cyanoethyl groups was achieved by addition of sodium borohydride and cobalt chloride hexahydrate into the reaction. The final reaction step for the carbohydrate core synthesis involved cleavage of benzyl group from the monobenzyl adipate using hydrogenator and Pd catalyst [<xref ref-type="bibr" rid="B8-molbank-2015-M881">8</xref>].</p>
+      <p>After the synthesis of the carbohydrate core <bold>1</bold>, the lipidic adjuvanting moiety consisting of three 2-amino-dodecanoic acids (Boc-C<sub>12</sub>-OH) and two glycine spacers was synthesized [<xref ref-type="bibr" rid="B12-molbank-2015-M881">12</xref>]. Subsequently, the carbohydrate core was coupled onto the lipidic adjuvant to give <bold>2</bold>, followed by the stepwise solid phase peptide synthesis of four copies of LHRH peptide (<xref ref-type="scheme" rid="molbank-2015-M881-sch001">Scheme 1</xref>). For each coupling, 4.4 equiv. of amino acid, 4 equiv. of HBTU in DMF and 6 equiv. DIPEA was used. The crude product was cleaved from the resin by HF and purified by Reverse Phase High Performance Liquid Chromatography (RP-HPLC; <xref ref-type="table" rid="molbank-2015-M881-t001">Table 1</xref>). The pure fractions were lyophilized to give compound <bold>3</bold>, (LHRH)<sub>4</sub>-Gal-LCP, as a white powder (4.7 mg) in 21% yield. Using analytical RP-HPLC with C4 Vydac column, 0%&#x2013;100% gradient over 30 min, and 1 mL/min flow rate, the retention time of (LHRH)<sub>4</sub>-Gal-LCP was 21 and 21.3 min (<xref ref-type="app" rid="app1-molbank-2015-M881">Figure S1</xref>, <xref ref-type="app" rid="app1-molbank-2015-M881">Supplementary materials</xref>). Generally, when using racemic lipoamino acids, the multiple peaks in RP-HPLC chromatogram are assigned to diastereomeric mixture of products including both <sc>d</sc>- and <sc>l</sc>-isoforms [<xref ref-type="bibr" rid="B13-molbank-2015-M881">13</xref>]. The mass of <bold>3</bold> (C<sub>284</sub>H<sub>413</sub>N<sub>75</sub>O<sub>64</sub>, 5901.8) was confirmed by Electrospray Ionisation Mass Spectrometry (ESI-MS) (<xref ref-type="app" rid="app1-molbank-2015-M881">Figure S2</xref>, <xref ref-type="app" rid="app1-molbank-2015-M881">Supplementary materials</xref>).</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M881">
+      <title>3. Experimental Section</title>
+      <p>The (LHRH)<sub>4</sub>-Gal-LCP peptide <bold>3</bold> was synthesised using standard manual Solid Phase Peptide Synthetic (SPPS) protocols, Boc chemistry and <italic>p</italic>-4-methyl benzhydryl amine (<italic>p</italic>-MBHA) resin (Peptides International, Louisville, KY, USA) [<xref ref-type="bibr" rid="B14-molbank-2015-M881">14</xref>]. The <italic>p</italic>MBHA resin (substitution 0.45 mmol&#x2219;g<sup>&#x2212;1</sup>) was swollen in DMF overnight, the hydrochloride salt of the resin-bound amine was neutralized by treating the resin with 10% (<italic>v</italic>/<italic>v</italic>) DIPEA in DMF (3 &#xD7; 5 mL &#xD7; 15 min). The peptides were coupled using 4.4 equiv. amino acids preactivated with 4 equiv. of 0.5 M HBTU in DMF and 6 equiv. DIPEA, then mixed with the resin for 30&#x2013;60 min at r.t. The Boc protecting groups were removed from the amino acids using neat TFA.</p>
+      <p>The building blocks, lipoamino acid Boc-C<sub>12</sub>-OH and galactose core were synthesized according to previously published procedures [<xref ref-type="bibr" rid="B8-molbank-2015-M881">8</xref>]. For the synthesis of LCP moiety, <italic>p</italic>MBHA resin (0.25 mmol scale) was used onto which Boc-Gly-OH, 2 &#xD7; Boc-C<sub>12</sub>-OH, Boc-Gly-OH and Boc-C<sub>12</sub>-OH were coupled. The activated galactose core (<bold>1</bold>, 2equiv., 0.6mmol, 56 mg) was coupled onto the LCP moiety on the resin (0.37 mmol&#x2219;g<sup>&#x2212;1</sup>; 0.03mmol scale) for 8 hours using the standard SPPS procedure. Four copies of LHRH peptide (EHWSYGLRPG) were coupled onto the Gal-LCP-resin <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2015-M881-sch001">Scheme 1</xref>). Upon the completion of coupling of all amino acids, the formyl protecting group on tryptophan was removed by treating the peptide with 20% (<italic>v</italic>/<italic>v</italic>) piperidine in DMF (2 &#xD7; 10 mL &#xD7; 15 min) and the 2,4-dinitrophenyl protecting group was removed by adding 20% 2-mercaptoethanol/10% DIPEA in DMF (2 &#xD7; 10 mL &#xD7; 20 min). After the complete removal of all protecting groups including Boc deprotecion, the peptidyl resin was washed with DMF, DCM and MeOH and dried under vacuum overnight.</p>
+      <p>HF cleavage of peptidyl-resin was carried out at 0&#xBA;C for 2 hours, by treating the peptidyl-resin with HF (10 mL&#x2219;g<sup>&#x2212;1</sup>) and 5% (<italic>v</italic>/<italic>v</italic>) <italic>p</italic>-cresol. HF was removed under vacuum, the peptides were precipitated in ice-cold diethyl ether, filtered and dissolved in 50% MeCN/H<sub>2</sub>O + 0.1% TFA and lyophilized. The crude product <bold>3</bold> was purified on a C4 Vydac column (10 &#xB5;m, 22 mm &#xD7; 250 mm) using preparative RP-HPLC, 10 mL/min flow rate, gradient of solvents as listed in <xref ref-type="table" rid="molbank-2015-M881-t001">Table 1</xref> with detection at 230 nm. The collected fractions were then characterized with analytical RP-HPLC and ESI-MS. Peptide purity of <bold>3</bold>, (LHRH)<sub>4</sub>-Gal-LCP, was checked using analytical RP-HPLC on a Vydac C4 (5 &#xB5;m, 4.6 mm &#xD7; 250 mm) with a gradient of 0 to 100% B over 30 min at a flow rate of 1 mL/min. ESI-MS of <bold>3</bold>, (LHRH)<sub>4</sub>-Gal-LCP, was performed on a PE Sciex AP13000 triple quadrupole mass spectrometer (a constant flow of 1:1 mixture of water containing 0.1% acetic acid and 90% acetonitrile/10% water/0.1% acetic acid at a rate of 0.5 mL/min).</p>
+      <p>(LHRH)<sub>4</sub>-Gal-LCP (<bold>3</bold>): white powder; purification yield: 4.7 mg (21%); RP-HPLC (C4 column; 0%&#x2013;100% solvent B (90% ACN + 10% H<sub>2</sub>O + 0.1% TFA) over 30 min, 1 mL/min flow rate): <italic>t</italic><sub>R</sub> = 21.0 min, 21.3 min. ESI-MS (C<sub>284</sub>H<sub>413</sub>N<sub>75</sub>O<sub>64</sub>, 5901.8): <italic>m</italic>/<italic>z</italic> = 846.4 [M + 7H]<sup>7+</sup> (calcd, 844.1), 984.9 [M + 6H]<sup>6+</sup> (calcd, 984.5), 1181.2 [M + 5H]<sup>5+</sup> (calcd, 1181.2).</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2015-M881">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2015-M881-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M881-s001.pdf">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M881-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M881-s002-mod.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M881-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M881-s002.mol">
+	   <label>Supplementary File 3</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors thank the Australian Research Council for their support of this work with the Professorial Research Fellowship to I.T. (DP110100212); and The University of Queensland for the Vice-Chancellor Fellowship to P.S. (606431). We are grateful for funding from the National Health and Medical Research Council for the Project Grant (APP1026488).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>PS and IT designed and wrote the manuscript. PS and HLL performed synthesis, purification and characterization of the vaccine candidate.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M881">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karan</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Thrasher</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Lubaroff</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prostate cancer: Genes, environment, immunity and the use of immunotherapy</article-title>
+          <source>Prostate Cancer Prostatic Dis.</source>
+          <year>2008</year>
+          <volume>11</volume>
+          <fpage>230</fpage>
+          <lpage>236</lpage>
+          <pub-id pub-id-type="doi">10.1038/pcan.2008.3</pub-id>
+          <pub-id pub-id-type="pmid">18283297</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M881">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Talwar</surname>
+              <given-names>G.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vaccines and passive immunological approaches for the control of fertility and hormone-dependent cancers</article-title>
+          <source>Immunol. Rev.</source>
+          <year>1999</year>
+          <volume>171</volume>
+          <fpage>173</fpage>
+          <lpage>192</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-065X.1999.tb01348.x</pub-id>
+          <pub-id pub-id-type="pmid">10582171</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M881">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raina</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Panda</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Talwar</surname>
+              <given-names>G.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Purification, refolding, and characterization of recombinant LHRH-T multimer</article-title>
+          <source>Protein Expres. Purif.</source>
+          <year>2004</year>
+          <volume>37</volume>
+          <fpage>8</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pep.2004.03.008</pub-id>
+          <pub-id pub-id-type="pmid">15294275</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M881">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Junco</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Peschke</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Zuna</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ehernann</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Fuentes</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bover</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Pimentel</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Basulto</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Reyes</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Calzada</surname>
+              <given-names>L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Immunotherapy of prostate cancer in a murine model using a novel GnRH based vaccine candidate</article-title>
+          <source>Vaccine</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <fpage>8460</fpage>
+          <lpage>8468</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2007.09.033</pub-id>
+          <pub-id pub-id-type="pmid">18022737</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M881">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Finstad</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kowalski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.M.</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>W.G.</given-names>
+            </name>
+            <name>
+              <surname>Bosland</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Murthy</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Walfield</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Synthetic luteinizing hormone releasing hormone (LHRH) vaccine for effective androgen deprivation and its application to prostate cancer immunotherapy</article-title>
+          <source>Vaccine</source>
+          <year>2004</year>
+          <volume>22</volume>
+          <fpage>1300</fpage>
+          <lpage>1313</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2003.08.044</pub-id>
+          <pub-id pub-id-type="pmid">15003660</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M881">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Skwarczynski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipid-core-peptide system for self-adjuvanting synthetic vaccine delivery</article-title>
+          <source>Methods Mol. Biol.</source>
+          <year>2011</year>
+          <volume>751</volume>
+          <fpage>297</fpage>
+          <lpage>308</lpage>
+          <pub-id pub-id-type="pmid">21674338</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M881">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olive</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Batzloff</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Horv&#xE1;th</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Clair</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yarwood</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Good</surname>
+              <given-names>M.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A lipid core peptide construct containing a conserved region determinant of the group A streptococcal M protein elicits heterologous opsonic antibodies</article-title>
+          <source>Infect. Immun.</source>
+          <year>2002</year>
+          <volume>70</volume>
+          <fpage>2734</fpage>
+          <lpage>2738</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.70.5.2734-2738.2002</pub-id>
+          <pub-id pub-id-type="pmid">11953422</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M881">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simerska</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Aal</surname>
+              <given-names>A.B.M.</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Moyle</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>McGeary</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Batzloff</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Olive</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Good</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of a liposaccharide-based delivery system and its application to the design of group a streptococcal vaccines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>51</volume>
+          <fpage>1447</fpage>
+          <lpage>1452</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm701410p</pub-id>
+          <pub-id pub-id-type="pmid">18278857</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M881">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Astronomo</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>D.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carbohydrate vaccines: Developing sweet solutions to sticky situations?</article-title>
+          <source>Nat. Rev. Drug Discov.</source>
+          <year>2010</year>
+          <volume>9</volume>
+          <fpage>308</fpage>
+          <lpage>324</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrd3012</pub-id>
+          <pub-id pub-id-type="pmid">20357803</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M881">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simerska</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ziora</surname>
+              <given-names>Z.M.</given-names>
+            </name>
+            <name>
+              <surname>Fagan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Edrous</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, synthesis and characterisation of mannosylated ovalbumin lipid core peptide self-adjuvanting vaccine delivery system</article-title>
+          <source>Drug Deliv. Transl. Res.</source>
+          <year>2014</year>
+          <volume>4</volume>
+          <fpage>246</fpage>
+          <lpage>255</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13346-013-0173-8</pub-id>
+          <pub-id pub-id-type="pmid">25786879</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M881">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gy&#xF6;rgyde&#xE1;k</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Szil&#xE1;gyi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Paulsen</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, structure and reactions of glycosyl azides</article-title>
+          <source>J. Carbohydr. Chem.</source>
+          <year>1993</year>
+          <volume>12</volume>
+          <fpage>139</fpage>
+          <lpage>163</lpage>
+          <pub-id pub-id-type="doi">10.1080/07328309308021266</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M881">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horv&#xE1;th</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Olive</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Clair</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yarwood</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Good</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>A lipophilic adjuvant carrier system for antigenic peptides</article-title>
+          <source>Lett. Pept. Sci.</source>
+          <year>2001</year>
+          <volume>8</volume>
+          <fpage>285</fpage>
+          <lpage>288</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02446530</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M881">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Lew</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>The stability of lipidic analogues of GnRH in plasma and kidney preparations: The stereoselective release of the parent peptide</article-title>
+          <source>Biorg. Med. Chem. Lett.</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>1609</fpage>
+          <lpage>1612</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2005.01.069</pub-id>
+          <pub-id pub-id-type="pmid">15745807</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M881">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schnolzer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alewood</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alewood</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kent</surname>
+              <given-names>S.B.H.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In situ</italic> neutralization in boc-chemistry solid phase peptide synthesis. Rapid, high yield assembly of difficult sequences</article-title>
+          <source>Int. J. Pept. Res. Ther.</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <fpage>31</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10989-006-9059-7</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme and Table</title>
+      <fig id="molbank-2015-M881-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M881-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic scheme of (LHRH)<sub>4</sub>-Gal-LCP (<bold>3</bold>); (a) C<sub>12</sub>-G-C<sub>12</sub>-C<sub>12</sub>-G-NH-MBHA resin; C<sub>12</sub>=2-amino-<sc>d</sc>,<sc>l</sc>-dodecanoic acid; (b) solid phase peptide synthesis with 4.4 equiv. LHRH (EHWSYGLRPG), 4 equiv. HBTU, 6 equiv. DIPEA, HF cleavage of <bold>3</bold> from the resin.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M881-sch001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2015-M881-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M881-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>RP-HPLC purification method for <bold>3</bold>, (LHRH)<sub>4</sub>-Gal-LCP. Mobile phases were solvent A (water containing 0.1% TFA); solvent B (90% CH<sub>3</sub>CN, 10% water and 0.1% TFA), C4 Vydac column (10 &#xB5;m, 22 mm &#xD7; 250 mm), and flow rate 10 mL/min.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Time (min)</th>
+              <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">Solvent B (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="top">0&#x2013;10</td>
+              <td align="center" valign="top">0&#x2013;40</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">10&#x2013;60</td>
+              <td align="center" valign="top">40&#x2013;80</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top">60&#x2013;80</td>
+              <td align="center" valign="top">80&#x2013;100</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin">80&#x2013;90</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">100</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

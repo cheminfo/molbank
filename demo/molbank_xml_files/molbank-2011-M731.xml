@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M731</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M731</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>-[1-(1<italic>H</italic>-Benzimidazol-2-yl)-2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)vinyl]benzamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaushik</surname>
+            <given-names>Darpan</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M731" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Maan</surname>
+            <given-names>Namita</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M731">Department of Pharmaceutical Chemistry, RITS, 4th Mile Stone, Hisar Road, Sirsa-125055, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M731"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>darpkaush@yahoomail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>07</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>3</issue>
+      <elocation-id>M731</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>07</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel benzimidazole derivative (<bold>2)</bold> was synthesized by hydrolyzing 4-[(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)methylene]-2-phenyloxazol-5(4<italic>H</italic>)-one <bold>(1)</bold>, the azlactone precursor in an acidic medium and treating the product with <italic>o</italic>-phenylenediamine (OPDA) <italic>in situ.</italic> The structure of the title compound (<bold>2)</bold> was established on basis of FT-IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>benzimidazole</kwd>
+        <kwd>oxazolone</kwd>
+        <kwd><italic>o</italic>-phenylenediamine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2011-M731" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The benzimidazole nucleus is an important heterocyclic ring, because of its synthetic utility and broad range of pharmacological activities. The benzimidazole ring, containing two nitrogen atoms, plays an important role in the constitution of many of the natural products as well as synthetic compounds. Benzimidazole derivatives possess various pharmacological activities including antibacterial [<xref ref-type="bibr" rid="B1-molbank-2011-M731">1</xref>], anti-fungal [<xref ref-type="bibr" rid="B2-molbank-2011-M731">2</xref>], antiviral [<xref ref-type="bibr" rid="B3-molbank-2011-M731">3</xref>], antiparasitic [<xref ref-type="bibr" rid="B4-molbank-2011-M731">4</xref>], antiprotozoal [<xref ref-type="bibr" rid="B5-molbank-2011-M731">5</xref>], antihelmintic [<xref ref-type="bibr" rid="B6-molbank-2011-M731">6</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B7-molbank-2011-M731">7</xref>] anti-ulcer [<xref ref-type="bibr" rid="B8-molbank-2011-M731">8</xref>], anti-hypertensive [<xref ref-type="bibr" rid="B9-molbank-2011-M731">9</xref>], anticonvulsant [<xref ref-type="bibr" rid="B10-molbank-2011-M731">10</xref>] and CNS activity [<xref ref-type="bibr" rid="B11-molbank-2011-M731">11</xref>].</p>
+    </sec>
+    <sec id="sec2-molbank-2011-M731" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>The title compound (<bold>2</bold>) was synthesized as presented in <xref ref-type="scheme" rid="molbank-2011-M731-sch001">Scheme 1</xref> by hydrolyzing compound <bold>(1)</bold>, the azlactone precursor in 50% acetic acid medium and treating the product with <italic>o</italic>-phenylenediamine (OPDA) <italic>in situ</italic>. Erlenmeyer-Plochl azlactone synthesis was utilized for the synthesis of the azlactone from hippuric acid [<xref ref-type="bibr" rid="B12-molbank-2011-M731">12</xref>] and 5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazole-4-carboxaldehyde. The util;ized carboxaldehyde was in turn synthesized <italic>via</italic> Vilsmeier-Haack reaction. </p>
+    </sec>
+    <sec id="sec3-molbank-2011-M731" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>The melting point was determined in an open-end capillary tube on a digital melting point apparatus and is uncorrected. Infrared (IR) and proton nuclear magnetic resonance (<sup>1</sup>H-NMR) spectra were recorded on a Nicolet 380 FT-IR (KBr) and a Bruker DRX-300 instrument, respectively. Chemical shifts are expressed in parts per million (ppm) relative to tetramethylsilane as an internal standard. The elemental analysis was performed on a Vario EL III CHNS analyzer using sulphanilic acid as a standard. The ESI-MS spectrum was recorded on a Waters Micromass Q-TOF Micro. The homogeneity of the compounds was monitored by ascending thin-layer chromatography (TLC), visualized by iodine vapour.</p>
+      <sec>
+        <title>Synthesis of N-[1-(1H-benzimidazol-2-yl)-2-(5-chloro-3-methyl-1-phenyl-1H-pyrazol-4-yl)vinyl]benzamide (2)</title>
+        <p>To an equimolar quantity <italic>i.e</italic>. (0.004 mol) of the compound <bold>(1)</bold> and <italic>o</italic>-phenylendiamine (OPDA), was added 20 mL of 50% acetic acid followed by 30 mL of dioxane until the entire solid was dissolved. Then, the solution was refluxed at 135&#x2013;140 &#xB0;C for 20 h with stirring. The reaction mixture was then allowed to cool and it was evaporated nearly to dryness. This resulted in brownish material which was then redissolved in methanol, followed by addition of activated charcoal and then it was further refluxed for another 10 min, then filtered to remove any traces of activated charcoal and further allowed to cooled and the solid thus separated was filtered, washed and then recrystallised from ethanol to give pure crystals. </p>
+        <p>Yield: 72%; mp: 244&#x2013;248 &#xB0;C; R<sub>f</sub>: 0.2, [toluene/ethyl acetate/formic acid (5:4:1)]; buff white crystalline solid.</p>
+        <p>IR (KBr) &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>): 3153 (N-H stretching), 3056 (aromatic C-H stretching), 2926 (aliphatic C-H stretching), 2851, 1654 (CONH), 1611 (C=N), 1577 (C=C).</p>
+        <p><sup>1</sup>H-NMR (300 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) 12.55 (s, 1H, CON<italic>H</italic>, <italic>D<sub>2</sub>O</italic> exchangeable), 10.17 (s, 1H, N<italic>H</italic>, <italic>D<sub>2</sub>O</italic> exchangeable), 8.05&#x2013;8.03 (d, <italic>J</italic> = 7.2 Hz, 2H, Ar-<italic>H</italic>), 7.60&#x2013;7.44 (m, 10H, Ar-<italic>H</italic>), 7.20&#x2013;7.17 (d, <italic>J</italic> = 9.3 Hz, 2H, Ar-<italic>H</italic>), 7.11 (s, 1H, C<italic>H</italic>=C), 2.17 (s, 3H, C<italic>H</italic><sub>3</sub>).</p>
+        <p><sup>13</sup>C-NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) 163.6 (<italic>C</italic>=O), 151.10 (<italic>C</italic>-CH<sub>3</sub>), 148.66 (<italic>C</italic><sub>2</sub>), 143.92 (CH=<italic>C</italic>-N), 138.04, 135.15, 134.36, 132.24, 129.77, 128.75, 128.46, 128.07, 129.00, 122.88, 122.07, 119.13, 114.94, 111.80, 14.29 (<italic>C</italic>H<sub>3</sub>).</p>
+        <p>Anal. Calcd. for C<sub>26</sub>H<sub>20</sub>ClN<sub>5</sub>O: C, 68.80; H, 4.44; N, 15.43; Found: C, 68.97; H, 4.68; N, 15.61. </p>
+        <p>ESI-MS: <italic>m/z</italic> = 454.2 (M<sup>+</sup>, 100%), 456.1 (M<sup>+</sup>+2, 36%). </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M731">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2011-M731-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M731-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2011-M731-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M731-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>Authors are highly thankful to Rajendra Institute of Technology and Sciences, Sirsa for providing the necessary facilities for carrying out the research work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M731">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuzmanovic</surname>
+              <given-names>S.O.P.</given-names>
+            </name>
+            <name>
+              <surname>Cvetkovic</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial evaluation of some benzimidazole derivatives and their zinc(II) complexes</article-title>
+          <source>J. Serb. Chem. Soc.</source>
+          <year>2007</year>
+          <volume>72</volume>
+          <fpage>459</fpage>
+          <lpage>466</lpage>
+          <pub-id pub-id-type="doi">10.2298/JSC0705459P</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M731">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kus</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Altanlar</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new benzimidazole carbamate derivatives for evaluation of antifungal activity</article-title>
+          <source>Turk. J. Chem.</source>
+          <year>2003</year>
+          <volume>27</volume>
+          <fpage>35</fpage>
+          <lpage>39</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M731">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Jaiswal</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antiviral activity of some new benzimidazoles</article-title>
+          <source>J. Ind. Council Chem.</source>
+          <year>2010</year>
+          <volume>27</volume>
+          <fpage>159</fpage>
+          <lpage>162</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M731">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>G.N.</given-names>
+            </name>
+            <name>
+              <surname>Yepez</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Campos</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Tapia</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Luis</surname>
+              <given-names>F.H.</given-names>
+            </name>
+            <name>
+              <surname>Cedillo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gonzalez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Grueiro</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Castilloa</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antiparasitic activity of albendazole and mebendazole analogues</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <fpage>4615</fpage>
+          <lpage>4622</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(03)00497-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M731">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padilla</surname>
+              <given-names>D.V.</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Campos</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Luis</surname>
+              <given-names>F.H.</given-names>
+            </name>
+            <name>
+              <surname>Mulia</surname>
+              <given-names>L.Y.</given-names>
+            </name>
+            <name>
+              <surname>Contreras</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Castillo</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antiprotozoal activity of novel 1-methylbenzimidazole derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>1724</fpage>
+          <lpage>1730</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2008.12.059</pub-id>
+          <pub-id pub-id-type="pmid">19186059</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M731">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sreena</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ratheesh</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rachana</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Poornima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shyni</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anthelmintic activity of benzimidazole derivatives</article-title>
+          <source>Hygeia</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>21</fpage>
+          <lpage>22</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M731">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of (substituted benzamidostyryl) l<italic>H</italic>-benzimidazoles and their screening for anti-inflammatory activity</article-title>
+          <source>Med. Chem. Res.</source>
+          <year>2011</year>
+          <pub-id pub-id-type="doi">10.1007/s00044-011-9552-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M731">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patil</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ganguly</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Surana</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antiulcer activity of 2-[5-substituted-1-<italic>H</italic>-benzo(d) imidazol-2-yl sulfinyl]methyl-3-substituted quinazoline-4-(3<italic>H</italic>) ones</article-title>
+          <source>J. Chem. Sci.</source>
+          <year>2010</year>
+          <volume>122</volume>
+          <fpage>443</fpage>
+          <lpage>450</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M731">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shah</surname>
+              <given-names>D.I.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bansal</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Bansal</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Angiotensin II AT1 receptor antagonists: Design, synthesis and evaluation of substituted carboxamido benzimidazole derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>48</volume>
+          <fpage>1808</fpage>
+          <lpage>1812</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.11.008</pub-id>
+          <pub-id pub-id-type="pmid">18158200</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M731">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Grover</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>D.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, anticonvulsant activity and comparative QSAR study of some novel 1,2,5-trisubstituted benzimidazole derivatives</article-title>
+          <source>Acta Pharm. Sci.</source>
+          <year>2010</year>
+          <volume>52</volume>
+          <fpage>511</fpage>
+          <lpage>522</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M731">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akula</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Srinivas</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Vidyasagar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kandikonda</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3-(1<italic>H</italic>-benzimidazol-2-yl amino)2-phenyl-1, 3-thiazolidin -4-one as potential CNS depressant</article-title>
+          <source>Int. J. Pharm. Tech. Res.</source>
+          <year>2011</year>
+          <volume>3</volume>
+          <fpage>360</fpage>
+          <lpage>364</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M731">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Verma</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Madaan</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-(Benzoylamino)-3-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)acrylic acid</article-title>
+          <source>Molbank</source>
+          <year>2011</year>
+          <volume>2011</volume>
+          <elocation-id>M726</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/M726</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M731-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M731-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route to the title compound.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M731-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

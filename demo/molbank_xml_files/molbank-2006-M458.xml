@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M458</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M458</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of N,N'-bis (a-methylsalicylidene)-3,4'-diaminodiphenyl ether</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jarrahpour</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M458" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rezaei</surname>
+            <given-names>S.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M458">Department of Chemistry, College of Sciences, Shiraz University, Shiraz 71454, Iran tel: +98 711 2284822, fax: +98 711 2280926, e-mail: <email>jarrah@chem.susc.ac.ir</email> and <email>aliasghar6683@yahoo.com</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M458"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>01</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>01</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>1</issue>
+      <elocation-id>M458</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>01</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>2-Hydroxyacetophenone</kwd>
+		<kwd>3,4'- diaminodiphenyl ether</kwd>
+		<kwd>Schiff base</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>There have been few reports about the synthesis and application of Schiff-base ligands derived from 2-hydroxyacetophenone [<xref ref-type="bibr" rid="B1-molbank-2006-M458">1</xref>]. In order to investigate the electronic, steric and geometric effect of a methyl group on an imine carbon on asymmetric catalytic reactions, 2-hydroxyacetophenone (<bold>1</bold>) has been chosen as starting material for synthesizing Schiff-base ligands [<xref ref-type="bibr" rid="B2-molbank-2006-M458">2</xref>]. Suhai and his coworkers have studied the conformational effects on the proton affinity of the Schiff base in bacteriorhodopsin [<xref ref-type="bibr" rid="B3-molbank-2006-M458">3</xref>]. Jacobsen and his coworkers have studied about asymmetric catalysis of hetero-ene reaction with tridentate Schiff base Cr(III) complexes[<xref ref-type="bibr" rid="B4-molbank-2006-M458">4</xref>].</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M458-i001.tif"/></p>
+      <p>2-Hydroxyacetophenone <bold>1</bold> (0.272 g, 0.24 mL, 2 mmol) and 3,4'-diaminodiphenylether <bold>2</bold> (0.33 g, 1 mmol) were dissolved in 10 mL of warm ethanol. The reaction mixture was refluxed for 10h and allowed to stand aside.The solid crystals were filtered off and washed with ethanol.The pure Schiff base <bold>3</bold> was isolated as a light yellow crystalline solid (yield 78%).</p>
+      <p>Melting Point: 182-184 &#xB0;C</p>
+      <p>IR (KBr, &#x3BD;, cm<sup>-1</sup>): 3244(OH), 1620(C=N).</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl3): &#x3B4;= 1.65(6H, s, CH3), 6.21(2H, d, Ar), 6.24(2H, d, Ar), 6.88-7.64(5H, m, Ar), 7.94(2H, d, Ar), 14.57(2H, s, OH).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl3): &#x3B4;= 17.22; 111.71; 113.20; 118.22; 119.63; 126.66; 128.88; 132.95;142.73; 145.60; 146.60; 162.15; 171.23.</p>
+      <p>MS (m/z): 436 (87%), 317 (40%), 210 (48%), 139 (38%), 91 (90%).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M458">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M458-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M458-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M458-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M458-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>The authors thank the Shiraz University Research Council for financial support (Grant No.84-GR-SC-23)</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M458">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <label>(a)</label>
+		  <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J. X.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal.</source>
+          <year>1997</year>
+          <volume>11</volume>
+          <fpage>41</fpage>
+          <lpage>44</lpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holland</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Laidler</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Milner</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Mol. Catal.</source>
+          <year>1981</year>
+          <volume>11</volume>
+          <fpage>119</fpage>
+          <lpage>127</lpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(c)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>G. M.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Zhou</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Chin. Univ</source>
+          <year>1995</year>
+          <volume>16</volume>
+          <fpage>216</fpage>
+          <lpage>219</lpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(d)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qiu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Yiao</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <source>Chin. J. Catal.</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>77</fpage>
+          <lpage>80</lpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(e)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W.</given-names>
+            </name>
+			<name>
+              <surname>Yao</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <source>Chin. J. Catal.</source>
+          <year>2000</year>
+          <volume>21</volume>
+          <fpage>77</fpage>
+          <lpage>80</lpage>
+        </citation>
+        <citation citation-type="journal">
+		<label>(f)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Z. N.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>7187</fpage>
+          <lpage>7191</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M458">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>W. T.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <fpage>511</fpage>
+          <lpage>516</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M458">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tajkhorshid</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Paizs</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Suhai</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem</source>
+          <year>1997</year>
+          <volume>101</volume>
+          <fpage>8021</fpage>
+          <lpage>8027</lpage>
+        </citation>
+      </ref>
+	  <ref id="B4-molbank-2006-M458">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruck</surname>
+              <given-names>R. T.</given-names>
+            </name>
+            <name>
+              <surname>Jacobsen</surname>
+              <given-names>E. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>2882</fpage>
+          <lpage>2883</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  <fn-group><fn><p><italic>Sample Availability</italic>: Available from MDPI.</p></fn></fn-group>
+  </back>
+</article>

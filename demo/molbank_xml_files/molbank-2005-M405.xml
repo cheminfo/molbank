@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M405</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M405</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(2<italic>endo</italic>)-2-Chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oexle</surname>
+            <given-names>Jutta</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Buchinger</surname>
+            <given-names>Michael</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name>
+          <xref rid="af1-molbank-2005-M405" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M405">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany Fax (+49) 711/6854269; E-mail: <email>baldur.foehlisch@oc.uni-stuttgart.de</email></aff>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>2</issue>
+      <elocation-id>M405</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+    </article-meta>
+  </front>
+  <body>
+    <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-i001.tif"/></disp-formula></p>
+    <sec>
+      <title>1. Procedure</title>
+      <p>(2<italic>endo</italic>)-2-Chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one (2) is synthesized via [4+3] cycloaddition of an oxyallyl intermediate generated from 1,3-dichloro-3-methylbutan-2-one with lithium perchlorate / diethylether / triethylamine.</p>
+      <p><italic>A. 1,3-Dichloro-3-methylbutan-2-one</italic> (Note 1). <italic><bold>Caution:</bold> The operation must be carried out in a well-vented hood. The evolving HCl and SO<sub>2</sub> gas should be absorbed by passing over water</italic>.</p>
+      <p>A 2-L, three-necked, round-bottomed flask, fitted with a dropping funnel, immersion thermometer, drying tube (calcium chloride) and an efficient Teflon-coated magnetic stirring bar ("Circulus"), is charged with 3-methylbutan-2-one (isopropyl methyl ketone) (430 mL, ca. 346 g, 4.0 mol) (Note 2) and chilled in an  ice bath. With magnetic stirring, freshly distilled sulfuryl chloride (800 mL, ca. 1334 g, 9.9 mol) is added dropwise. The internal temperature is controlled to be between 10 and 15&#xB0;C; this takes approximately 3 hours. Stirring is continued overnight, while the ice-bath is allowed to melt.</p>
+      <p>Ice water (500 mL) is added to the reaction mixture, and the layers separated by means of a separatory funnel. The aqueous layer is extracted with diethyl ether (3 &#xB4; 200 mL). The ether phases are combined with the organic layer and washed neutral with saturated aqueous NaHCO<sub>3</sub> solution. Then the organic layer is dried overnight with anhydrous magnesium sulfate (Note 3).</p>
+      <p>Most of the solvent is removed by gentle heating in a rotary evaporator. The concentrate is transferred  into a distillation flask that containes a teflon-coated magnetic stirring bar, and mixed with a small amount of calcium carbonate (Note 4). The flask is fitted with a 110 cm vacuum-jacketed Vigreux column (effective length 100 cm), a vacuum distillation head and a vacuum controler. The rectification &#x2013; with continuous magnetic stirring &#x2013; is started, using a pressure of ca. 40 Torr. The first fraction collected at bp 40-50&#xB0;C/40 Torr (73 g) containes mainly the monochlorination product 3-chloro-3-methylbutan-2-one and a minor amount of 1,3-dichloro-3-methylbutan-2-one (<bold>1</bold>), the dichlorination product, as shown by GLC analysis (Note 5). The main product is collected as a fraction with bp 68&#x2013;70&#xB0;C/15 Torr, that consists of 1,3-dichloro-3-methylbutan-2-one (<bold>1</bold>), contaminated with traces of 1,1,3-trichloro-3-methylbutan-2-one. Yield is 469 g (76%) of NMR-pure substance (Note 6).</p>
+      <p><italic>B. (2endo)-2-Chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one</italic> (<bold>2</bold>). A 1-L three-necked flask, fitted with a dropping funnel and a reflux condenser with drying tube (KOH pellets), is charged with dry lithium perchlorate (21.2 g, 0.20 mol) and dry diethyl ether (120 mL) (Note 7). The mixture is stirred with the aid of an efficient Teflon-coated stirring bar (&#x201C;Circulus&#x201D;). When the salt is dissolved, dry 2-methylfuran (180 mL), followed by dry triethylamine (20.3 g, 0.20 mol) is added rapidly through the dropping funnel (Note 8).</p>
+      <p>To this well-stirred solution, a mixture of 1,3-dichloro-3-methylbutan-2-one (<bold>1</bold>, 15.5 g, 0.10 mol), diethyl ether (38 mL) and 2-methylfuran (38 mL) is added dropwise at room temperature within 1 hr. Gradually, a yellow mass with honey-like consistence deposits, and the color of the solution turnes orange to dark. Progress of the reaction may be monitored by GLC (see below).</p>
+      <p>When the reaction is completed (ca. 1 hr), water (250 mL) is added and the mixture transferred to a separatory funnel. The layers are separated, and the aqeous layer is extracted with diethyl ether (4 &#xB4; 100 mL). The combined organic phases are washed with saturated brine (250 mL) and dried overnight with anhydrous magnesium sulfate. The solvent is removed in a rotary evaporator and the residue distilled in a kugelrohr at 70&#xB0;C/0.01 Torr. The pale yellow, waxy product (12.8 g, ca. 63% yield) (Note 9) is dissolved in boiling n-heptane (15 mL) and allowed to cool slowly. The <italic>2endo</italic>-isomer (<bold>2</bold>) separates as a white solid (8.3 g, 41%) with mp 101&#x2013;103&#xB0;C. (Note 10).</p>
+    </sec>
+    <sec>
+      <title>2. Notes</title>
+      <list list-type="order">
+	  <list-item><p>1,3-Dichloro-3-methylbutan-2-one (<bold>1</bold>) may be prepared by vapor.phase chlorination of 3-methylbutan-2-one (methyl isopropyl ketone).<sup><xref ref-type="bibr" rid="B1-molbank-2005-M405">1</xref></sup> Since this preparation requires a special equipment, we prepared dichloroketone <bold>1</bold> by reaction of 3-methylbutan-2-one with sulfuryl chloride (SO<sub>2</sub>Cl<sub>2</sub>), in analogy to the procedure of Wyman and Kaufman.<sup><xref ref-type="bibr" rid="B2-molbank-2005-M405">2</xref></sup></p></list-item>
+      <list-item><p>3-Methylbutan-2-on was purchased from Aldrich Chemical Company, Inc.</p></list-item>
+      <list-item><p>For drying of other chloroketones, the authors prefer a mixture of anhydrous calcium chloride and a smaller amount of calcium carbonate, see Note 4.</p></list-item>
+      <list-item><p>During the rather long distillation time, traces of hydrogen chloride may evolve. They are removed by neutralization with the calcium carbonate.</p></list-item>
+      <list-item><p>For gas chromatography, the we used a 2.3 m glass column, packed with 5% OV 101 on Gaschrom Q, using a temperature program from 80 to 220&#xB0;C, 8 K/min, with FID detector; the carrier gas was nitrogen. Retention times: t<sub>R</sub> = 0.63 min (3-chloro-3-methylbutan-2-one), t<sub>R</sub> = 2.36 min (1,3-dichloro-3-methylbutan-2-one), t<sub>R</sub> = 3.31 min (1,1,3-trichloro-3-methylbutan-2-one).</p></list-item>
+      <list-item><p>The colorless liquid shows the following signals in the <sup>1</sup>H NMR spectrum (60 MHz, CDCl<sub>3</sub>) d: 1.75 (s, 4-H and 3-CH<sub>3</sub>), 4.70 (s, 1-H). The purity of this product is sufficient for preparative work. In order to obtain a product with &gt;99% purity, distillation in vacuo may be repeated. The authors used a 50 cm Fischer Spaltrohr column.</p></list-item>
+      <list-item><p>Lithium perchlorate (<italic>pro analysi or purum</italic>) was purchased from Fluka Feinchemikalien GmbH, Neu-Ulm, Germany or Janssen, Beerse, Belgium, respectively. It is dried in vacuo (oil pump) at 220&#x2013;230&#xB0;C. Diethyl ether is dried over sodium wire, distilled, and stored over molecular sieve 3&#xC5;.</p></list-item>
+      <list-item><p>2-Methylfuran was purchased from Fluka or Janssen. It is shaken with 5 percent aqueous potassium hydroxide solution until the aqueous layer remains colorless, dried over calcium chloride and distilled before use from potassium hydroxide pellets. Triethylamine is distilled from calcium hydride before use.</p></list-item>
+      <list-item><p>Before crystallization, the crude distilled product contains, besides <bold>2</bold>, the <bold>(</bold><italic>2exo</italic>)-2-chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one epimer (<bold>3</bold>), (<italic>4endo</italic>)-4-chloro-1,2,2-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one (<bold>4</bold>), and traces of the <italic>4exo</italic>-isomer, (<italic>4exo</italic>)-4-chloro-1,2,2-trimethyl-8-oxabicyclo[3.2.1]-oct-6-en-3-one (<bold>5</bold>). According to a capillary GLC (21 m glass column, coated with Emulphor), the proportions of <bold>2</bold>, <bold>3</bold>, <bold>4</bold> and <bold>5</bold> were 85 : 5 : 9 : 0.8, <italic>i.e</italic> the regioselectivity of the cycloaddition is [<bold>2</bold> + <bold>3</bold>] : [<bold>4</bold> + <bold>5</bold>] = ca. 9:1 (GLC). The endo/exo selectivity is [<bold>2</bold> + <bold>4</bold>] : [<bold>3</bold> + <bold>5</bold>] = ca. 13:1.</p></list-item>
+	  </list>
+	  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-i002.tif"/></disp-formula></p>
+      <p>The physical properties are as follows:</p>
+      <p><bold>2</bold>: <sup>1</sup>H NMR (60 MHz, CDCl<sub>3</sub>) d: 1.05 (s), 1.37 (s), 1.65 (s), 4.49 (d, <italic>J</italic> = 1.8 Hz), 4.53 (s), AB sub-spectrum centered at 6.28, with d<sub>A</sub> = 6.36, d<sub>B</sub> = 6.19, <italic>J</italic><sub>AB</sub> = 6 Hz; the lines of the A part are split into doublets with 1.8 Hz; <sup>13</sup>C NMR (75.47 MHz, CDCl<sub>3</sub>) d: 20.3, 21.3, 24.5, 53.3, 68.4, 86.75, 88.5, 134.9, 203.3; CIMS (CH<sub>4</sub>, 70 eV) m/z (%): 203 (2), 201 (6), 165 (3), 149 (4), 147 (13), 123 (11), 121 (30), 119 (100), 95 (78), 83 (7); see also Ref.<sup><xref ref-type="bibr" rid="B9-molbank-2005-M405">9</xref></sup></p>
+      <p><bold>3</bold>: <sup>1</sup>H NMR (60 MHz, CDCl<sub>3</sub>) d: 1.00 (s), 1.50 (s), 1.57 (s), 3.77 (s), 4.49 (d, <italic>J</italic> = 1.8 Hz), AB sub-spectrum centered at 6.26, with d<sub>A</sub> = 6.46, d<sub>B</sub> = 6.06, <italic>J</italic><sub>AB</sub> = 6 Hz; the lines of the A part are split into doublets with 1.8 Hz; <sup>13</sup>C NMR (75.47 MHz, CDCl<sub>3</sub>) d: 19.8, 20.5, 26.8, 51.7, 61.3, 85.4, 86.7, 134.7, 136.6, 205.8; CIMS (CH<sub>4</sub>, 70 eV) m/z (%): 203 (2), 201 (5), 167 (6), 157 (2), 155 (6), 149 (8), 147 (16), 123 (81), 121 (36), 119 (100), 95 (96), 85 (15), 83 (10), 71 (11); mp 48&#x2013;50&#xB0;C (petroleum ether).</p>
+      <p><bold>4</bold>: <sup>1</sup>H NMR (60 MHz, CDCl<sub>3</sub>) d: 1.10 (s), 1.30 (s), 1.40 (s); AB sub-spectrum centered at 4.90, with d<sub>A</sub> = 5.02, d<sub>B</sub> = 4.79, <italic>J</italic><sub>AB</sub> = 6 Hz; the lines of the A part are split into doublets with ca. 1 Hz; 6.30 (s); <sup>13</sup>C NMR (75.47 MHz, CDCl<sub>3</sub>) d: 16.75, 20.1, 21.4, 57.3, 62.4, 82.4, 89.6, 131.2, 139.7, 203.4; CIMS (CH<sub>4</sub>, 70 eV) m/z (%): 203 (2), 201 (5), 165 (7), 149 (3), 147 (8), 137 (9), 121 (33), 119 (100), 95 (76), 85 (4), 83 (7); mp 91&#x2013;93&#xB0;C (petroleum ether).</p>
+      <p><bold>5</bold>: CIMS (CH<sub>4</sub>, 70 eV) m/z (%): 203 (3), 201 (10), 185 (13), 183 (38), 165 (8), 155 (12), 143 (21), 137 (22), 121 (21), 119 (63), 95 (100), 85 (17).</p>
+	  <list list-type="order">
+      <list-item><label>10.</label><p>The substance is pure enough for further synthetic work, according to GLC (5% OV 101 on Merck Volaspher A 2, particle size 125-150 mm, 100&#x2013;120 mesh ASTM, 2 m glass column, 80 &#xAE; 250&#xB0;C, 8 K/min, t<sub>R</sub> = 10.2 min), and TLC (petroleum ether/ethyl acetate 4:1, Rf = 0.40). The mother liquor from the heptane crystallization were worked-up by medium pressure liquid chromatography (MPLC) on Lichroprep Si 60 (Merck, Germany), using petroleum ether/ethyl acetate (24:1) for elution. Isomers <bold>2</bold>, <bold>3</bold> and <bold>4</bold> could be separated; however the trace compound <bold>5</bold> escaped isolation.</p></list-item></list>
+    </sec>
+    <sec id="sec3-molbank-2005-M405" sec-type="discussion">
+      <title>3. Discussion</title>
+      <p>A major progress in the synthesis of seven-membered ring ketones has been achieved by the development of the [4 + 3] cycloaddition reaction of furans and other 1,3-dienes with oxyallyl intermediates.<sup><xref ref-type="bibr" rid="B3-molbank-2005-M405">3</xref></sup> For the generation of these intermediates, the reduction of a,a'-dibromo- and polybromoketones has been the preferred method over the last few years.</p>
+      <p>Dehydrohalogenation of a-halogenoketones is an older approach to generate oxyallyls (&#x201C;Favorskii intermediates&#x201D;) which has several advantages, as discussed elsewere.<sup><xref ref-type="bibr" rid="B3-molbank-2005-M405">3d</xref>,<xref ref-type="bibr" rid="B4-molbank-2005-M405">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2005-M405">5</xref></sup> However, in order to obtain synthetically useful yields of [4 + 3] cycloadducts, the crucial point is the choice of the appropriate basic reaction medium. <italic>Inter alia</italic>, lithium perchlorate/diethylether<sup><xref ref-type="bibr" rid="B6-molbank-2005-M405">6</xref></sup> and 2,2,2-trifluoroethanol<sup><xref ref-type="bibr" rid="B7-molbank-2005-M405">7</xref></sup> have been found to be useful for these [4 + 3] cycloaddition reactions. Whereas for the reductive methods of oxyallyl generation, di- or polybromoketones are needed, the dehydrohalogenation methods ("base-mediated conditions"<sup><xref ref-type="bibr" rid="B3-molbank-2005-M405">3d</xref></sup>) can be effected with a-chloroketones. The latter are more shelf-stable and less lacrymatory than the bromo analogues.</p>
+      <p>The procedure illustrates the [4+3] cycloaddition of oxyallyls generated from a-halogenoketones in the LiClO<sub>4</sub>/diethyl ether solvent system. Moreover it is an example for the generation of a monochloro oxyallyl derived from an a,a'-dichloro ketone (<xref ref-type="scheme" rid="molbank-2005-M405-sch001">Scheme 1</xref>), and its <italic>regioselective</italic> cycloaddition to a 2-substituted furan.<sup><xref ref-type="bibr" rid="B8-molbank-2005-M405">8</xref></sup> The major product of this [4 + 3] cycloaddition is <bold>2</bold>, that can be separated easily from the minor products by crystallization (Note 9).</p>
+      <p>(<italic>2endo</italic>)-2-Chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one (<bold>2</bold>) has been prepared previously by Shimizu et al.<sup><xref ref-type="bibr" rid="B9-molbank-2005-M405">9</xref></sup> The japanese researchers transformed dichloroketone <bold>1</bold> into the trimethylsilylenol ether. The latter was reacted with 2-methylfuran using silver perchlorate and calcium carbonate in nitromethane for generation of the oxyallyl intermediate. For a 4.4 mmol scale, a 57% isolated yield of <bold>2</bold> was reported, after chromatographic separation from the by-product, 1-chloro-3-methyl-3-(5-methyl-2-furyl)-butan-2-one. The latter came from a competing electrophilic substitution of 2-methylfuran by the oxyallyl cation. The product ratio (cycloaddition vs. substitution) was 3 : 1.</p>
+      <p>(<italic>2endo</italic>)-2-Chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-one (<bold>2</bold>) may be used as a building block for cycloheptane systems with a 1,1,4-trimethyl substitution pattern. An approach to the terpenoid himachalane skeleton has been worked-out.<sup><xref ref-type="bibr" rid="B10-molbank-2005-M405">10</xref></sup> Key steps are: (a) Catalytic hydrogenation of the C=C double bond of the oxabicycle without touching the chloro substituent. (b) Attachment of the 3-oxobutyl side chain at C-2 via Michael reaction of the saturated bicyclic a-chloro ketone with methyl vinyl ketone. The carbonyl function in <bold>2</bold> can be reduced by LiAlH<sub>4</sub> with high <italic>endo</italic>-selectivity to give (<italic>2endo,3endo</italic>)-2-chloro-1,4,4-trimethyl-8-oxabicyclo[3.2.1]oct-6-en-3-ol.<sup><xref ref-type="bibr" rid="B11-molbank-2005-M405">11</xref></sup></p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M405">
+      <title>Supplementary materials</title>
+      <supplementary-material id="molbank-2005-M405-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-s001-mod.mol">
+        <label>Supplementary File 1</label>
+      </supplementary-material>
+      <supplementary-material id="molbank-2005-M405-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-s001.mol">
+		<label>Supplementary File 2</label>
+	  </supplementary-material>
+      <supplementary-material id="molbank-2005-M405-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-s002-mod.mol">
+		<label>Supplementary File 3</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2005-M405-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-s002.mol">
+		<label>Supplementary File 4</label>
+	  </supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M405">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rabjohn</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Rogier</surname>
+              <given-names>E. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1946</year>
+          <volume>11</volume>
+          <fpage>781</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M405">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wyman</surname>
+              <given-names>D. P.</given-names>
+            </name>
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>P. R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1964</year>
+          <volume>29</volume>
+          <fpage>1956</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M405">
+        <label>3.</label>
+        <note><p>(a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noyori</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hayakawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Org</article-title>
+          <source>React.</source>
+          <year>1983</year>
+          <volume>29</volume>
+          <fpage>163</fpage>
+        </citation> (b) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffmann</surname>
+              <given-names>H. M. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Angew</article-title>
+          <source>Chem., Int. Ed. Engl.</source>
+          <year>1984</year>
+          <volume>23</volume>
+          <fpage>1</fpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198400013</pub-id>
+        </citation> (c) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mann</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1986</year>
+          <volume>42</volume>
+          <fpage>4611</fpage>
+        </citation> (d) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rigby</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Pigge</surname>
+              <given-names>F. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Org</article-title>
+          <source>React.</source>
+          <year>1997</year>
+          <volume>51</volume>
+          <fpage>351</fpage>
+        </citation> (e) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harmata</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>6235</fpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B4-molbank-2005-M405">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sendelbach</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schwetzler-Raschke</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Radl</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Henle</surname>
+              <given-names>G. H.</given-names>
+            </name>
+            <name>
+              <surname>Korfant</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Reiner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1999</year>
+          <volume>64</volume>
+          <fpage>3398</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2005-M405">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oh</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ziani-Cherif</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>J.-R.</given-names>
+            </name>
+            <name>
+              <surname>Cha</surname>
+              <given-names>J. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Org</article-title>
+          <source>Synth.</source>
+          <year>2001</year>
+		  <volume>78</volume>
+          <fpage>####</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2005-M405">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herter</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1982</year>
+          <fpage>976</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2005-M405">
+        <label>7.</label>
+        <note><p><citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gehrlach</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Herter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Angew</article-title>
+          <source>Angew. Chem</source>
+          <year>1982</year>
+          <volume>94</volume>
+		  <fpage>144</fpage>
+        </citation>; <citation citation-type="journal">
+          <source>Angew. Chem. Suppl.</source>
+          <year>1982</year>
+          <fpage>241</fpage>
+        </citation>; <citation citation-type="journal">
+          <source>Angew. Chem. Internat. Edit. Engl.</source>
+          <year>1982</year>
+		  <volume>21</volume>
+          <fpage>137</fpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B8-molbank-2005-M405">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Flogaus</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Oexle</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xE4;del</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1984</year>
+          <volume>35</volume>
+          <fpage>1773</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2005-M405">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tsuno</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>104</volume>
+          <fpage>1330</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2005-M405">
+        <label>10.</label>
+        <note><p>Oexle, J. Dissertation, Univ. Stuttgart, Germany, 1986. Details may be obtained from the senior author (B. F.).</p></note>
+      </ref>
+      <ref id="B11-molbank-2005-M405">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kreiselmeier</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>10077</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2005-M405-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2005-M405-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M405-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

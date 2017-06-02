@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M473</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M473</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-ethoxycarbonylmethyl-3-(ethoxycarbonylmethylene)-2-oxo quinoxaline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ferfra</surname>
+            <given-names>Souad</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahabchane</surname>
+            <given-names>Noureddine H.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>El Mokhtar</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M473" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M473">Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique, Facult&#xE9; des Sciences, BP 1014, Avenue Ibn Batouta, Rabat, Maroc<break/>e-mail: <email>emessassi@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M473"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>2</issue>
+      <elocation-id>M473</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>quinoxaline</kwd>
+        <kwd>phase transfer catalysis</kwd>
+        <kwd>alkylation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <disp-formula>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M473-i001.tif"/>
+  </disp-formula>
+      <p>The compound 3, which exists in tautomeric equilibria between enamine (form A) and methylene imine (form B), was prepared by addition of ethoxycarbonylmethyl chloride <bold>2</bold> (1.23g, 0.01 mol) to a solution of 3-(ethoxycarbonylmethylene)-2-oxo quinoxaline, <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2006-M473">1</xref>] (2.32 g, 0.01 mol) in 60 ml DMF, K<sub>2</sub>CO<sub>3</sub> (1.38g, 0.01mol) and triethylbenzylammonium chloride (0.001 mol).  The mixture was stirred for 24 hours at room temperature. After filtration, the solvent was evaporated and the residue was recrystallized from ethanol affording <bold>3</bold> in 90% yield.</p>
+      <p>Melting point: 154-156&#xB0;C.</p>
+      <p>IR (KBr, cm<sup>-1</sup>) : 1650 ( n<sub>N-C=O</sub>); 1720 (n<sub>N-C=O</sub>).</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 11.20 (0.5H, s, NH, form A); 7.87-6.82 (8H, m, ar); 5.83 (0.5H, s, =CH, form A); 5.01 (1H, s, NCH<sub>2</sub>); 4.89 (1H, s, NCH<sub>2</sub>); 4.21 (8H, m, CH<sub>2</sub>); 3.95 (2H, s, CH<sub>2,</sub> form B); 1.27 (12H , m, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (250MHz, CDCl<sub>3</sub>): &#x3B4;= 170.7 (Cq); 169.3 (Cq); 167.3 (Cq);  166.9 (Cq); 156.4 (Cq); 154.4 (Cq); 142.5 (Cq); 132.7 (Cq); 130.6 (CH<sub>ar</sub>); 130.4 (CH<sub>ar</sub>); 126.0 (Cq); 124.5 (CH<sub>ar</sub>); 124.0 (CH<sub>ar</sub>); 122.5 (CH<sub>ar</sub>); 115.4 (CH<sub>ar</sub>); 113.8 (CH<sub>ar</sub>); 113.2 (CH<sub>ar</sub>); 86.7 (=CH form A);  62.1 (CH<sub>2</sub>); 62.0 (CH<sub>2</sub>); 62.2 (CH<sub>2</sub>); 59.9 (CH<sub>2</sub>); 44.0 (NCH<sub>2</sub>); 43.6 (NCH<sub>2</sub>); 40.7 (CH<sub>2</sub> form B); 14.4 (CH<sub>3</sub>); 14.1 (CH<sub>3</sub>).</p>
+      <p>MS (I.E): 318 [M<sup>+</sup>].</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M473">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M473-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M473-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M473-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M473-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2006-M473">
+        <label>1.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kurasawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Takada</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocycles</article-title>
+          <year>1985</year>
+          <fpage>23</fpage>
+          <comment>N&#xB0;8</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

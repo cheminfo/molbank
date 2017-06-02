@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M407</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M407</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-Methyl-<italic>N</italic>-(5-methyl-furan-2-ylmethyl)-benzenesulfonamide (<italic>N</italic>-(5-Methylfurfuryl)-<italic>p</italic>-toluenesulfonamide)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meining</surname>
+            <given-names>Holger</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name>
+          <xref rid="af1-molbank-2005-M407" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M407">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany Fax: (+ 49) 711/6854269; e-mail: <email>baldur.foehlisch@oc.uni-stuttgart.de</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>2</issue>
+      <elocation-id>M407</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>heterocycles</kwd>
+        <kwd>sulfonamides</kwd>
+        <kwd>protective groups</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body> 
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M407-i001.tif"/></p>
+      <p>5-Methylfurfurylamine was prepared from commercially available 5-methylfurfural via the oxime, followed by LiAlH<sub>4</sub> reduction [<xref ref-type="bibr" rid="B1-molbank-2005-M407">1</xref>]. A solution of 5-methylfurfurylamine (12.2 g, 100 mmol) in <italic>tert</italic>-butylmethyl ether[<xref ref-type="bibr" rid="B2-molbank-2005-M407">2</xref>] (MTBE, 50 mL) was made in a 250-mL four-necked flask, fitted with two dropping funnels and an immersion thermometer, and cooled in an ice/salt bath to -15 &#xB0;C. With vigorous stirring, solutions of <italic>p</italic>-toluenesulfonyl chloride (20.97 g, 110 mmol) in MTBE (80 mL) and 20% aqueous sodium hydroxide (22 mL, 110 mmol) were added simultaneously and cautiously. The temperatur of the reaction mixture was not allowed to exceed &#x2013;5 &#xB0;C. When the addition was completed (60&#x2013;90 min), the cooling bath was removed, and the mixture stirred for 2&#x2013;3 hours. The MTBE layer was separated, and the aqueous layer acidified to pH 3&#x2013;4 and extracted with MTBE (4 &#x2019; 40 mL). The combined organic solutions were washed with saturated brine (2 &#x2019; 40 mL) and dried overnight with magnesium sulfate. After filtration, the solvent was removed in a rotary evaporator. The remaining pale yellow oil solidified in a refrigerator. This raw product was recrystallized from ethanol/pentane (1:1 v/v, 150 mL) to yield 23.44 g (88%) of a colourless crystalline solid.</p>
+      <p>Melting Point: 82.5&#x2013;83.5 &#xB0;C [<xref ref-type="bibr" rid="B3-molbank-2005-M407">3</xref>].</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 2.11 (s, 3 H, 5-CH<sub>3</sub>); 2.41 (s, 3 H, C<italic>H</italic><sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 4.10 (d, <italic>J</italic> = 5.9 Hz, 2 H, CH<sub>2</sub>-N); 4.98 (t, <italic>J</italic> = 5.9 Hz, 1 H, NH); AB sub-spectrum with &#x3B4; <sub>A</sub> = 5.95, &#x3B4; <sub>B</sub> = 5.76, <italic>J</italic><sub>AB</sub> = 3.1 Hz, the B part is split (5 lines, 2 H, H-3 and H-4); AA&#x2019;BB&#x2019; sub-spectrum with &#x3B4; <sub>A</sub> = 7.71, &#x3B4; <sub>B</sub> = 7.26, <italic>J</italic><sub>AB</sub> = 8.0 Hz, (4 H, H-2/6 of CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>, H<sub>AA&#x2019;</sub> and H-3/5 of CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>, H<sub>BB&#x2019;</sub>).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 12.3 (5-CH<sub>3</sub>); 20.5 (<italic>C</italic>H<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 39.2 (CH<sub>2</sub>-N); 105.15 (C-4); 108.1 (C-3); 126.1 (Tos-C-2/6); 128.5 (Tos-C-3/5); 136.0 (Tos-C-4); 142.3 (Tos-C-1); 146.6 (C-5); 151.2 (C-2).</p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3380, 3280 (NH); 2930, 2880 (C-H); 1598 (C=C); 1555, 1492, 1410, 1330, 1160 cm<sup>-1</sup> (SO<sub>2</sub>).</p>
+      <p>Elemental Analysis: Calculated for C<sub>13</sub>H<sub>15</sub>NO<sub>3</sub>S (265.3): C, 58.85%; H, 5.70%; N, 5.28%; S, 12.08%. Found: C, 58.61%; H, 5.68%; N, 5.24%; S 12.03%.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2005-M407">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2005-M407-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M407-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M407-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M407-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2005-M407">
+        <label>1.</label>
+        <note><p>a) <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mndzhoian</surname>
+              <given-names>A. L.</given-names>
+            </name>
+            <name>
+              <surname>Afrikian</surname>
+              <given-names>V. G.</given-names>
+            </name>
+            <name>
+              <surname>Khorenian</surname>
+              <given-names>G. A.</given-names>
+            </name>
+          </person-group>
+          <source>Izv. Akad. Nauk. Arm. SSR Khim. Nauki</source>
+          <year>1961</year>
+          <volume>14</volume>
+          <fpage>363</fpage>
+		  <lpage>368</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1962</bold>, <italic>57</italic>, 11136g</comment>
+        </citation> b) <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mndzhoian</surname>
+              <given-names>A. L.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis of Heterocyclic Compounds</source>
+          <publisher-name>Consultants Bureau</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1959</year>
+          <volume>Vol. 2</volume>
+          <fpage>60</fpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B2-molbank-2005-M407">
+        <label>2.</label>
+        <note><p><italic>tert</italic>-Butylmethyl ether was recommended as an inexpensive solvent when this experiment was carried out (June 1991, Diploma thesis of H.M.). Nowadays, it is considered environmentally problematic. We also used 1,2-dichloroethane instead of the ether.</p></note>
+      </ref>
+      <ref id="B3-molbank-2005-M407">
+        <label>3.</label>
+        <note><p>For a more expensive micro-scale preparation with selective annihilation of contaminants (&#x2018;impurity annihilation&#x2019;), see: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barrett</surname>
+              <given-names>A. G. M.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>Zecri</surname>
+              <given-names>F. J. J.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Soc., Chem. Commun.</source>
+          <year>1998</year>
+          <fpage>2317</fpage>
+		  <lpage>2318</lpage>
+		  </citation> However, physical data and combustion analysis are not given in this paper.</p></note>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

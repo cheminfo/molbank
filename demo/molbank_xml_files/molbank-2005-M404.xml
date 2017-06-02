@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M404</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M404</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Phenylhydrazone of 5-Acetyl-3-(Methylsulfanyl)-1,2,4-Triazine and 3-Methyl-5-(Methylsulfanyl)-1-Phenyl-1<italic>H</italic>-Pyrazolo[4,3-<italic>e</italic>][1,2,4]Triazine from Pivotal Intermediate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mojzych</surname>
+            <given-names>Mariusz</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M404">Institute of Chemistry, University of Podlasie, ul. 3 Maja 54, 08-110 Siedlce, Poland e-mail: <email>mojzych@ap.siedlce.pl</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>1</issue>
+      <elocation-id>M404</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>1,2,4-triazine ketoxime</kwd>
+		<kwd>intramolecular cyclization</kwd>
+		<kwd>1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>As part of ongoing research programme on bicyclic heterocycles [<xref ref-type="bibr" rid="B1-molbank-2005-M404">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M404">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2005-M404">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2005-M404">4</xref>] we have elaborated  a new approach to 1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazine derivative <bold>3</bold> and its synthetic precursor <bold>2</bold> by reaction of oxime 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine (<bold>1</bold>) with phenylhydrazine hydrochloride under different reaction conditions.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M404-i001.tif"/></p>
+    <sec>
+      <title>Phenylhydrazone of 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine 2</title>
+      <p>To a solution of the oxime <bold>1</bold> (184 mg, 1 mmol) and phenylhydrazine hydrochloride (288 mg, 2 mmol) in ethanol (10 ml) 37% HCl (0.3 ml) was added. The mixture was heated at 40 <sup>o</sup>C for 9 hours and then the solvent was evaporated <italic>in vacuo</italic>. The solid was collected by filtration, washed with water and recrystallized from ethanol/water mixture (1:1) to give <bold>2</bold> in 27% yield.</p>
+      <p>Melting point: 224 <sup>o</sup>C.</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>): &#x3B4;= 2.30 (s, 3H); 2.69 (s, 3H); 6.99-7.08 (m, 1H); 7.23-7.28 (m, 2H); 7.32-7.41 (m, 2H); 8.05 (s, 1H, NH); 9.63 (s, 1H).</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3240 (NH); 2980, 1600, 700.</p>
+      <p>EI-MS (70eV, <italic>m</italic>/<italic>z</italic>): 259 (7) [M<sup>+</sup>]; 147 (45); 129 (100); 112 (54); 70 (90).</p>
+      <p>Elemental Analysis: Calculated for C<sub>12</sub>H<sub>13</sub>N<sub>5</sub>S: C 55.60%; H 5.02%; N 27.03%. Found: C 55.53%; H 5.09%; N 26.99%.</p>
+    </sec>
+    <sec>
+      <title>3-Methyl &#x2013;5-(methylsulfanyl)-1-phenyl-1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazine 3</title>
+      <p>To a solution of the oxime <bold>1</bold> (184 mg, 1 mmol) and phenylhydrazine hydrochloride (216 mg, 1.5 mmol) in  ethanol (10 ml) was added 37% HCl (0.3 ml). The mixture was heated at reflux for 5 hours and then the solvent was evaporated <italic>in vacuo</italic>. The solid was collected by filtration, washed with water and recrystallized from ethanol/water mixture (1:1) to give <bold>3</bold> in 18% yield.</p>
+      <p>Melting point: 105 <sup>o</sup>C.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, CDCl<sub>3</sub>): &#x3B4;= 2.73 (s, 3H); 2.77 (s, 3H); 7.29-7.40 (m, 1H); 7.50-7.61 (m, 2H); 8.31-8.38 (m, 2H). </p>
+      <p>IR (KBr, cm<sup>-1</sup>): 2920, 1590, 1500, 1390, 760.</p>
+      <p>EI-MS (70eV, <italic>m</italic>/<italic>z</italic>): 257 (43) [M<sup>+</sup>]; 232 (3); 216 (22); 93 (41); 77 (100).</p>
+      <p>Elemental Analysis: Calculated for C<sub>12</sub>H<sub>11</sub>N<sub>5</sub>S: C 56.03%; H 4.28%; N 27.23%. Found: C 55.67%; H 4.13%; N 27.05%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M404">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2005-M404-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M404-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2005-M404-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M404-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2005-M404-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M404-s002-mod.mol">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2005-M404-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M404-s002.mol">
+	  <label>Supplementary File 4</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M404">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Karczmarzyk</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2000</year>
+          <volume>53</volume>
+          <fpage>2175</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M404">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karczmarzyk</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Cryst.</source>
+          <year>2000</year>
+          <volume>30</volume>
+          <fpage>423</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M404">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Chem.</source>
+          <year>2003</year>
+          <volume>77</volume>
+          <fpage>1797</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M404">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2004</year>
+          <comment>(submited)</comment>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

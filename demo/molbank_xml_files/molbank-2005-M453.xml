@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M453</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M453</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of Benzyl 2-(4-(8-chloro-5<italic>H</italic>-dibenzo[<italic>b,e</italic>][1,4]diazepin-11-yl)piperazin- 1-yl)acetate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Camerino</surname>
+            <given-names>Michelle A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Capuano</surname>
+            <given-names>Ben</given-names>
+          </name>
+          <xref rid="c1-molbank-2005-M453" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Crosby</surname>
+            <given-names>Ian T.</given-names>
+          </name>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Lloyd</surname>
+            <given-names>Edward J.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M453">Department of Medicinal Chemistry, Victorian College of Pharmacy, Monash University, 381 Royal Parade, Parkville, Victoria, 3052, Australia.</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2005-M453">Tel. +61 3 9903 9556; Fax +61 3 9903 9582 e-mail: <email>ben.capuano@vcp.monash.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>12</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>6</issue>
+      <elocation-id>M453</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>11</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>12</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+      </permissions>
+     <kwd-group>
+        <kwd>clozapine</kwd>
+        <kwd>amidine</kwd>
+        <kwd>benzyl ester</kwd>
+        <kwd>N-alkylation</kwd>
+        <kwd>dibenzodiazepine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+   <p>As part of our research programme, we have synthesized the title compound as an intermediate for the preparation of a zwitterionic analogue of the atypical antipsychotic, clozapine. The starting material, desmethylclozaine, <bold>1</bold> was synthesized in accordance with a previously reported literature procedure [<xref ref-type="bibr" rid="B1-molbank-2005-M453">1</xref>]. Subsequent treatment of <bold>1</bold> with benzyl 2-bromoacetate (<bold>2</bold>) afforded the title compound <bold>3</bold> in very good yield.</p>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M453-i001.tif"/></p>
+      <p>To a solution of desmethylclozapine (<bold>1</bold>, 503 mg, 1.61 mmol) and anhydrous triethylamine (0.451 mL, 3.23 mmol) in anhydrous 1,2-dimethoxyethane (25 mL) was added benzyl 2-bromoacetate (<bold>2</bold>, 0.287 mL, 1.81 mmol) <italic>via</italic> syringe. The reaction mixture was stirred at room temperature for 3 hours, filtered and then evaporated to dryness. The residue was treated with distilled water (10 mL) and extracted with dichloromethane (4 &#xB4; 50 mL). The combined organic fractions were dried with anhydrous sodium sulfate, filtered, then evaporated to dryness. The resulting residue was purified using flash chromatography (silica gel 230-400 mesh, ethyl acetate:hexane, 1:1). The fractions containing product were combined and evaporated to dryness affording a yellow oil that solidified on standing. Recrystallisation from dichloromethane-hexane gave the title compound <bold>3</bold> as bright yellow prisms (536 mg, 72%).</p>
+      <p>Melting Point: 182-183&#xB0;C</p>
+      <p>TLC: R<sub>f</sub> (silica; ethyl acetate:hexane, 1:1) 0.35.</p>
+      <p>Elemental Analysis: Calculated for C<sub>26</sub>H<sub>25</sub>ClN<sub>4</sub>O<sub>2</sub>: C, 67.75%; H, 5.47%; N, 12.15%. Found: C, 67.62%; H, 5.51%; N, 12.17%.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3320, 1728, 1600, 1558.</p>
+      <p>UV ((EtOH; &#x3BB;<sub>max</sub> nm; log<sub>10</sub>e): 209 (4.55), 228 (4.43), 260 (4.28), 297 (4.09).</p>
+      <p><sup>1</sup>H-NMR (300 MHz, CD2Cl2): d= 7.39-7.25 (m, 7 H, H1&#x2033;, H3&#x2033;, H2&#x2033;&#x2033;, H3&#x2033;&#x2033;, H4&#x2033;&#x2033;, H5&#x2033;&#x2033;, H6&#x2033;&#x2033;); 7.05-7.00 (m, 2 H, H2&#x2033;, H4&#x2033;); 6.87-6.81 (m, 2 H, H7&#x2033;, H9&#x2033;); 6.65 (d, <italic>J</italic> = 8.5 Hz, 1 H, H6&#x2033;); 5.17 (s, 2 H, H1&#x2034;); 5.05 (s, 1 H, H5&#x2033;); 3.46 (m, 4 H, H3&#x2032;, H5&#x2032;); 3.33 (s, 2 H, H2); 2.67 (m, 4 H, H2&#x2032;, H6&#x2032;).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, CD<sub>2</sub>Cl<sub>2</sub>): d= 170.6 (C=O); 163.4 (C<sub>q</sub>); 153.4 (C<sub>q</sub>); 142.6 (Cq); 141.2 (C<sub>q</sub>); 136.6 (C<sub>q</sub>); 132.5 (CH); 130.8 (CH); 129.3 (C<sub>q</sub>); 129.1 (CH); 128.8 (CH); 127.0 (CH); 124.0 (C<sub>q</sub>); 123.6 (CH); 123.4 (CH); 120.7 (CH); 120.7 (CH); 120.6 (CH); 66.8 (CH<sub>2</sub>); 59.8 (CH<sub>2</sub>); 53.2 (CH<sub>2</sub>); 47.8 (CH<sub>2</sub>).</p>
+      <p>MS ESI (<italic>m/z</italic>, %): 463.2 (M[<sup>37</sup>Cl]H<sup>+</sup>, 32%); 461.2 (M[<sup>35</sup>Cl]H<sup>+</sup>, 100%).</p>
+  </body>
+  <back>
+     <app-group>
+    <app id="app1-molbank-2005-M453">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M453-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M453-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M453-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M453-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+   <ack>
+      <title>Acknowledgment</title>
+      <p>The authors gratefully acknowledge financial support from Monash University and the assistance of Ms Anna Podloucka and Mr James Shin.</p>
+    </ack>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2005-M453">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capuano</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Crosby</surname>
+              <given-names>I. T.</given-names>
+            </name>
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>E. J.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>D. A.</given-names>
+            </name>
+          </person-group>
+          <source>Aust. J. Chem.</source>
+          <year>2002</year>
+          <volume>55</volume>
+          <fpage>565</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from the author.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

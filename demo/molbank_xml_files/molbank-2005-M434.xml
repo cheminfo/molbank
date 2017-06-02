@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M434</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M434</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Semicarbazone and Thiosemicarbazone of 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mojzych</surname>
+            <given-names>Mariusz</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M434">Institute of Chemistry, University of Podlasie, ul. 3 Maja 54, 08-110 Siedlce, Poland e-mail: <email>mojzych@ap.siedlce.pl</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>4</issue>
+      <elocation-id>M434</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>semicarbazone</kwd>
+		<kwd>thiosemicarbazone</kwd>
+		<kwd>5-acetyl-1,2,4-triazine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Semicarbazone as well as thiosemicarbazone of 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine were synthesised as reactive intermediates for the synthesis of 1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazine derivatives <italic>via</italic> acid promoted ring closure [<xref ref-type="bibr" rid="B1-molbank-2005-M434">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M434">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2005-M434">3</xref>].</p>
+	  <p>
+     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M434-i001.tif"/>
+    </p>
+      <p>Starting ketone <bold>1</bold> was prepared according to a reported procedure [<xref ref-type="bibr" rid="B4-molbank-2005-M434">4</xref>]. To a solution of ketone <bold>1</bold> (169 mg, 1 mmol) and semicarbazone or thiosemicarbazone (1.2 mmol) in ethanol (20 ml) 10% HCl (0.5 ml) was added. The resulting reaction mixture was heated at reflux for 5 min and then stirred at room temperature for additional 30 min. The precipitated solid was filtered off, recrystallized from dioxane and dried under vacuum.</p>
+    <sec>
+      <title>Semicarbazone of 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine (2)</title>
+      <p>Yield 89%.</p>
+      <p>Melting Point: 260<sup>&#xBA;</sup>C.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 2.19 (s, 3H); 2.62 (s, 3H); 6.96 (s, 2H, NH<sub>2</sub>); 9.98 (s, 1H); 10.13 (s, 1H, NH).</p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3339; 3106; 1693; 1520; 1486; 1426; 1312; 1256; 1183; 1133; 1058; 871; 713.</p>
+      <p>MS- EI (<italic>m</italic>/<italic>z</italic>, %): 226 (18) [M<sup>+</sup>]; 209 (7); 184 (11); 183 (100); 182 (62); 155 (12); 154 (39); 140 (32); 82 (49); 81 (30); 74 (18); 53 (19).</p>
+      <p>HR-MS: Calculated for C<sub>7</sub>H<sub>10</sub>N<sub>6</sub>OS: 226.0636. Found: 226.06314.</p>
+    </sec>
+    <sec>
+      <title>Thiosemicarbazone of 5-acetyl-3-(methylsulfanyl)-1,2,4-triazine (3)</title>
+      <p>Yield 87%.</p>
+      <p>Melting Point: 229<sup>&#xBA;</sup>C.</p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3304; 3158; 2969; 1587; 1495; 1423; 1243; 1127; 1057; 876.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 2.31 (s, 3H); 2.63 (s, 3H); 8.53 (s, 1H); 8.70 (s, 1H); 10.08 (s, 1H); 10.81 (s, 1H).</p>
+      <p>MS-EI (<italic>m</italic>/<italic>z</italic>, %): 242 (80) [M<sup>+</sup>]; 199 (21); 167 (7); 154 (6); 141 (5); 140 (22); 128 (27); 116 (100); 82 (12); 81 (12); 74 (14); 60 (24); 53 (13).</p>
+      <p>HR-MS: Calculated for C<sub>7</sub>H<sub>10</sub>N<sub>6</sub>S<sub>2</sub>: 242.04084; Found: 242.04129.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M434">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M434-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M434-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M434-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M434-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M434-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M434-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+<supplementary-material id="molbank-2005-M434-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M434-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M434">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Karczmarzyk</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2000</year>
+          <volume>53</volume>
+          <fpage>2175</fpage>
+          <pub-id pub-id-type="doi">10.3987/COM-00-8972</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M434">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Chem.</source>
+          <year>2003</year>
+          <volume>77</volume>
+          <fpage>1797</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M434">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2004</year>
+          <comment>submitted</comment>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M434">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lipi&#x144;ska</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Comm.</source>
+          <year>1996</year>
+          <volume>26</volume>
+          <fpage>4409</fpage>
+          <pub-id pub-id-type="doi">10.1080/00397919608003843</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+  <fn>
+<p><italic>Sample Availability</italic>: Available from MDPI.</p>
+</fn>
+</fn-group>
+  </back>
+</article>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M485</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M485</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 6-chloro-2-oxo-1,2-dihydroquinoline-4-carbohydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bouhfid</surname>
+            <given-names>R.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>E.M.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M485" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M485">Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique, Universit&#xE9; Mohammed V-Agdal, BP: 1014 Avenue Ibn Batouta, Rabat, Maroc. E-mail : <email>emessassi@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M485"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M485</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>03</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>quinoline</kwd>
+		<kwd>hydrazide</kwd>
+		<kwd>condensation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>In previous works we have shown that hydrazides are highly useful starting materials and intermediates in the synthesis of several heterocyclic compounds<sup>1-3</sup> of potential biological activities.</p>
+      <p>The aim of this work is to describe the preparation of a novel compound entitled 6-chloro-2-oxo-1,2-dihydroquinoline-4-carbohydrazide.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M485-i001.tif"/></p>
+      <p>To a solution of ethyl 2-oxo-1,2-dihydroquinoline-4-carboxylate <bold><underline>1</underline></bold> (1g, 3.9 mmol) in ethanol, was added hydrazine hydrate 80 % (0.22 mL, 4.6 mmol). The mixture was refluxed for 24h and ice-water was added. The precipate was filtered and recrystallised from ethanol to afford 0.73 g (70 % yields) of product <bold><underline>2</underline></bold>.</p>
+      <p>Melting point: &gt; 250 &#xB0;C.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO): &#x3B4;= 4.67 (NH<sub>2</sub>); 6.54 (s, 1H, =CH); 7.35-7.78 (m, 3H, H<sub>Ar</sub>); 9.93 (NH).</p>
+      <p><sup>13</sup>C-NMR (300 MHz, DMSO): &#x3B4;= 121.8 (=CH); 118.0, 125.4, 131.2 (CH<sub>Ar</sub>); 114.8, 126.3, 139.3, 139.9 (Cq); 161.3 (C=O); 165.0 (CON<sub>2</sub>H<sub>3</sub>).</p>
+      <p>MS (EI, m/z): 237.</p>
+      <p>Elemental analysis: Calculated for C<sub>10</sub>H<sub>8</sub>ClN<sub>3</sub>O<sub>2</sub>: C, 50.54 %; H, 3.39 %; N, 17.68 %; Found: C, 50.60 %; H, 3.42 %; N, 17.74 %;</p>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2006-M485">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M485-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M485-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M485-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M485-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M485">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Essassi</surname>
+              <given-names>EM.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Soc. Chem. Belg.</source>
+          <year>1987</year>
+          <volume>96</volume>
+          <fpage>63</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M485">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Otmani</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>El Mahi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+          </person-group>
+          <source>C. R. Chimie</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>517</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M485">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Otmani</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>El Hakmaoui</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Gueiffier</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>C. R. Acad. Sci. Paris t-2, s&#xE9;rie IIc</source>
+          <year>2001</year>
+          <volume>4</volume>
+          <fpage>285</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M605</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M605</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4,4&#x2019;-[(2-Chlorophenyl)methylene]bis[1-phenyl-3-(trifluoromethyl)-1<italic>H</italic>-pyrazol-5-ol]</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Changbin</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M605" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2009-M605" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holzer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M605" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M605" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M605"><label>1</label>Department of Drug and Natural Product Synthesis, Faculty of Life Sciences, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria</aff>
+      <aff id="af2-molbank-2009-M605"><label>2</label>Department of Chemistry, Capital Normal University, Xisanhuanbei Road 105, Beijing, 100048, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M605"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>wolfgang.holzer@univie.ac.at</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>07</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M605</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>07</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The reaction of 1-phenyl-3-trifluoromethyl-2-pyrazolin-5-one and 2-chloro&#xAC;benzaldehyde leads to the title compound, which results from addition of a second pyrazolone unit to the primarily formed 1:1 condensation product. Detailed spectroscopic data (<sup>1</sup>H NMR, <sup>13</sup>C NMR, <sup>19</sup>F NMR, IR, MS) are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>3-trifluoromethyl-2-pyrazolin-5-one</kwd>
+        <kwd>condensation</kwd>
+        <kwd>NMR spectroscopy</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>In the course of a synthetic program dedicated to the functionalization of 1-phenyl-3-trifluoromethyl-2-pyrazolin-5-one (<bold>1</bold>) [<xref ref-type="bibr" rid="B1-molbank-2009-M605">1</xref>] we were interested in compound <bold>2</bold>, which was considered as precursor in the synthesis of the chromeno[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one <bold>3</bold> (<xref ref-type="scheme" rid="molbank-2009-M605-sch001">Scheme 1</xref>). The synthesis of compounds similar to <bold>2</bold> has been described by <italic>Sobahi</italic> [<xref ref-type="bibr" rid="B2-molbank-2009-M605">2</xref>] and by <italic>Zohdi</italic> [<xref ref-type="bibr" rid="B3-molbank-2009-M605">3</xref>]: heating equimolar amounts of <bold>1</bold> and differently substituted benzaldehydes to 160 &#xB0;C without a solvent resulted in the formation of the corresponding 1:1 condensation products [<xref ref-type="bibr" rid="B2-molbank-2009-M605">2</xref>]. However, when we applied such conditions (160 &#xB0;C) in the reaction of <bold>1</bold> and 2-chlorobenzaldehyde we only obtained a product which &#x2013; considering its characteristic spectroscopic data &#x2013; turned out to be the 2:1 adduct <bold>4b</bold>. Obviously, the primarily formed 1:1 condensation product <bold>2</bold> instantly reacts with a second pyrazolone unit to afford dimer <bold>4b</bold>. Also the application of other reaction conditions (lower temperature, excess aldehyde, refluxing EtOH with catalytic amounts of piperidine) afforded <bold>4b</bold> as well. The formation of dimeric moieties similar to <bold>4</bold> starting from <bold>1</bold> and substituted benzaldehydes upon heating in aqueous medium without a catalyst was recently reported by <italic>Yao</italic> and coworkers [<xref ref-type="bibr" rid="B4-molbank-2009-M605">4</xref>]. The structure of these products was unequivocally proved by X-ray structure analysis [<xref ref-type="bibr" rid="B4-molbank-2009-M605">4</xref>]. </p>
+      <p>When we furthermore reacted <bold>1</bold> also with benzaldehyde and 2,4-dichlorobenzaldehyde, respectively, we obtained the corresponding dimeric compounds (<bold>4a</bold>, <bold>4c</bold>) as well (<xref ref-type="fig" rid="molbank-2009-M605-f001">Figure 1</xref>). Melting points and <sup>1</sup>H-NMR spectroscopic data of the latter were in full agreement with those given by <italic>Yao</italic> [<xref ref-type="bibr" rid="B4-molbank-2009-M605">4</xref>]. </p>
+      <p>The NMR spectra of compounds <bold>4</bold> exhibit the signals of the characteristic, central C(sp<sup>3</sup>)-H system (&#x3B4; H: 5.22&#x2013;5.68 ppm; &#x3B4; C: 30.7&#x2013;32.8 ppm; <sup>1</sup><italic>J</italic>: 124.5&#x2013;128.0 Hz). For comparison reasons, the NMR spectroscopic data of the hitherto unknown title compound <bold>4b</bold> are presented together with those of known congeners <bold>4a</bold> and <bold>4c</bold> in <xref ref-type="table" rid="molbank-2009-M605-t001">Table 1</xref> and <xref ref-type="table" rid="molbank-2009-M605-t002">Table 2</xref>.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Melting points were determined on a Reichert&#x2013;Kofler hot-stage microscope and are uncorrected. Mass spectra were obtained on a Shimadzu QP 1000 instrument (EI, 70 eV). IR spectrum: Perkin-Elmer FTIR Spectrum 1000 instrument (KBr-disc). The elemental analysis was performed at the Microanalytical Laboratory, University of Vienna. <sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded on a Varian UnityPlus 300 spectrometer at 28 &#xB0;C (299.95 MHz for <sup>1</sup>H, 75.43 MHz for <sup>13</sup>C). The centre of the solvent signal was used as an internal standard which was related to TMS with &#x3B4; = 2.49 ppm (<sup>1</sup>H in DMSO-<italic>d</italic><sub>6</sub>) and &#x3B4; = 39.5 ppm (<sup>13</sup>C in DMSO- <italic>d</italic><sub>6</sub>). The digital resolutions were 0.2 Hz/data point in the <sup>1</sup>H and 0.4 Hz/data point in the <sup>1</sup>H-coupled <sup>13</sup>C-NMR spectra (gated decoupling). <sup>19</sup>F NMR spectra (470.56 MHz) were obtained on a Bruker Avance 500 instrument with a &#x2018;directly&#x2019; detecting broadband observe probe (BBFO) and were referenced using the absolute frequency scale (<italic>&#x39E;</italic> ratio). Unambiguous assignment of signals was accomplished using standard NMR techniques such as HSQC, HMBC, NOE-difference and fully <sup>1</sup>H-coupled <sup>13</sup>C-NMR (gated decoupling) [<xref ref-type="bibr" rid="B5-molbank-2009-M605">5</xref>].</p>
+      <sec>
+	  <title>4,4&#x2019;-[(2-Chlorophenyl)methylene]bis[1-phenyl-3-(trifluoromethyl)-1<italic>H</italic>-pyrazol-5-ol] (<bold>4b</bold>)</title>
+      <p>Under N<sub>2</sub> atmosphere, a mixture of 1-phenyl-3-(trifluoromethyl)-2-pyrazolin-5-one (<bold>1</bold>) (500 mg, 2.19 mmol) and 2-chlorobenzaldehyde (616 mg, 4.38 mmol) was heated at 120-130 &#xB0;C with stirring for 15 min. After cooling to room temperature, 9 mL of light petroleum and 1 mL of ethyl acetate were added and the mixture was refluxed for 15 min, then allowed to cool slowly to ambient temperature. The precipitated solid was filtered off, washed with the same solvent mixture and dried to afford 453 mg (72 %) of the title compound as colorless crystals, mp 202-204 &#xB0;C. </p>
+      <p>IR (KBr) &#x3BD; (cm<sup>-1</sup>): 3445 (OH).</p>
+      <p>MS (EI, 70 eV): (<italic>m/z</italic>, %) M<sup>+</sup> not found, 350/352 (5/2), 316 (20), 315 (100), 228 (32), 105 (16), 91 (13), 77 (95), 51(29). </p>
+      <p>Anal. Calcd for C<sub>27</sub>H<sub>17</sub>ClF<sub>6</sub>N<sub>4</sub>O<sub>2</sub> &#x2022; &#x2153; H<sub>2</sub>O: C, 55.53%; H, 3.04%; N, 9.58%. Found: C, 55.53%; H, 2.72%; N, 9.50%.</p>
+	  </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M605">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M605-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M605-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M605-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M605-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Dr. Changbin Guo thanks the Eurasia-Pacific Uninet Program for providing a scholarship.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M605">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bieringer</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-Acyl-5-hydroxy-1-phenyl-3-trifluoromethylpyrazoles: Synthesis and NMR Spectral Investigations</article-title>
+          <source>Heterocycles</source>
+          <year>2006</year>
+          <volume>68</volume>
+          <fpage>1825</fpage>
+          <lpage>1836</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M605">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sobahi</surname>
+              <given-names>T.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermal condensation of 3-trifluoromethyl- and 3-amino-1-phenyl-2-pyrazolin-5-ones with aromatic aldehydes: Synthesis of 4-arylidenepyrazolones and pyrazolopyranopyrazoles</article-title>
+          <source>Indian J. Chem, Sect. B</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>1315</fpage>
+          <lpage>1318</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200638114</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M605">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zohdi</surname>
+              <given-names>H.F.</given-names>
+            </name>
+            <name>
+              <surname>Elghandour</surname>
+              <given-names>A.H.H.</given-names>
+            </name>
+            <name>
+              <surname>Rateb</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Sallam</surname>
+              <given-names>M.M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reactions with 5-trifluoromethyl-2,4-dihydropyrazol-3-one derivatives: a new route for the synthesis of fluorinated polyfunctionally substituted pyrazole and pyrano[2,3-<italic>c</italic>]pyrazole derivatives</article-title>
+          <source>J. Chem. Res. Synop.</source>
+          <year>1992</year>
+          <fpage>396</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.199314174</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M605">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yao</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>C.X.</given-names>
+            </name>
+            <name>
+              <surname>Tu</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>D.Q.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X.S.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y.Q.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H.Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of 4,4&#x2019;-arylmethylene-bis(3-trifluoromethyl)-1-phenyl-1<italic>H</italic>-pyrazol-5-ol) in aqueous media without catalyst</article-title>
+          <source>J. Fluorine Chem.</source>
+          <year>2007</year>
+          <volume>128</volume>
+          <fpage>105</fpage>
+          <lpage>109</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jfluchem.2006.10.006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M605">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braun</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kalinowski</surname>
+              <given-names>H.O.</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>150 and More Basic NMR Experiments</source>
+		  <edition>2nd expanded ed.</edition>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, New York</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure, Scheme and Tables</title>
+      <fig id="molbank-2009-M605-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M605-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M605-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2009-M605-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Numbering of atoms in the representation of NMR spectra.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M605-g001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2009-M605-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M605-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p><sup>1</sup>H-NMR and <sup>19</sup>F-NMR chemical shifts of compounds <bold>4a-c</bold> (&#x3B4;, ppm, in DMSO-<italic>d</italic><sub>6</sub>).</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">comp.</td>
+              <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">OH</td>
+              <td align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">H<sub>A</sub></td>
+              <td colspan="3" align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">H of N-phenyl</td>
+              <td colspan="5" align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">H of aryl</td>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin"><sup>19</sup>F</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top"> </td>
+              <td align="left" valign="top">2&#x2019;,6&#x2019;</td>
+              <td align="left" valign="top">3&#x2019;,5&#x2019;</td>
+              <td align="left" valign="top">4&#x2019;</td>
+              <td align="left" valign="top">2&#x2019;&#x2019;</td>
+              <td align="left" valign="top">3&#x2019;&#x2019;</td>
+              <td align="left" valign="top">4&#x2019;&#x2019;</td>
+              <td align="left" valign="top">5&#x2019;&#x2019;</td>
+              <td align="left" valign="top">6&#x2019;&#x2019;</td>
+              <td align="left" valign="top">C
+              <underline>F</underline><sub>3</sub></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><bold>4a</bold></td>
+              <td align="left" valign="top">8.33<sup>a</sup></td>
+              <td align="left" valign="top">5.22</td>
+              <td align="left" valign="top">7.87</td>
+              <td align="left" valign="top">7.41</td>
+              <td align="left" valign="top">7.23</td>
+              <td align="left" valign="top">7.26</td>
+              <td align="left" valign="top">7.26</td>
+              <td align="left" valign="top">7.12</td>
+              <td align="left" valign="top">7.26</td>
+              <td align="left" valign="top">7.26</td>
+              <td align="left" valign="top">&#x2013;60.2</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><bold>4b</bold></td>
+              <td align="left" valign="top">6.88<sup>a</sup></td>
+              <td align="left" valign="top">5.68</td>
+              <td align="left" valign="top">7.82</td>
+              <td align="left" valign="top">7.42</td>
+              <td align="left" valign="top">7.25</td>
+              <td align="left" valign="top">&#x2013;</td>
+              <td align="left" valign="top">7.32</td>
+              <td align="left" valign="top">7.18</td>
+              <td align="left" valign="top">7.25</td>
+              <td align="left" valign="top">7.72</td>
+              <td align="left" valign="top">&#x2013;60.0</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin"><bold>4c</bold></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">6.42<sup>a</sup></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">5.63</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.81</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.42</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.25</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">&#x2013;</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.47<sup>b</sup></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">&#x2013;</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.36<sup>c</sup></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">7.68<sup>d</sup></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">&#x2013;60.1</td>
+            </tr>
+          </tbody>
+        </table>
+		<table-wrap-foot>
+          <fn>
+            <p><sup>a</sup> broad signal.&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<sup>b</sup> d, <sup>4</sup><italic>J</italic> = 2.1 Hz.&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<sup>c</sup> dd, <sup>3</sup><italic>J</italic> = 8.5 Hz, <sup>4</sup><italic>J</italic> = 2.1 Hz.&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<sup>d</sup> d, <sup>3</sup><italic>J</italic> = 8.5 Hz.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="molbank-2009-M605-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M605-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p><sup>13</sup>C-NMR data (&#x3B4;, ppm; <italic>J</italic> in Hz; in DMSO-<italic>d</italic><sub>6</sub>).</p>
+        </caption>
+          <table>
+          <tbody>
+             <tr>
+              <td rowspan="2" align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">comp.</td>
+              <td rowspan="2" colspan="3" align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">C<sub>A</sub></td>
+              <td rowspan="2" colspan="3" align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">CF<sub>3</sub></td>
+              <td colspan="9" align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin">C of pyrazole</td>
+            </tr>
+            <tr>
+              <td colspan="3" align="center" valign="top" style="border-bottom:solid thin">C-3</td>
+              <td colspan="3" align="center" valign="top" style="border-bottom:solid thin">C-4</td>
+              <td colspan="3" align="center" valign="top" style="border-bottom:solid thin">C-5</td>
+</tr>
+            <tr>
+              <td align="left" valign="middle"><bold>4a</bold></td>
+              <td colspan="3" align="left" valign="middle">32.8
+              <break/><sup>1</sup><italic>J</italic> = 125.0</td>
+              <td colspan="3" align="left" valign="middle">122.4
+              <break/><sup>1</sup><italic>J</italic> = 270.0</td>
+              <td colspan="3" align="left" valign="middle">138.8
+              <break/><sup>2</sup><italic>J</italic>(C3,F) = 34.5<break/><sup>3</sup><italic>J</italic>(C3,H<sub>A</sub>) = 4.0</td>
+              <td colspan="3" align="left" valign="middle">100.4
+              <break/><sup>2</sup><italic>J</italic>(C4,H<sub>A</sub>) = 8.8</td>
+              <td colspan="3" align="left" valign="middle">157.8
+              <break/><sup>3</sup><italic>J</italic>(C5,H<sub>A</sub>) = 7.9</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><bold>4b</bold></td>
+              <td colspan="3" align="left" valign="middle">30.9
+              <break/><sup>1</sup><italic>J</italic> = 127.5</td>
+              <td colspan="3" align="left" valign="middle">122.1
+              <break/><sup>1</sup><italic>J</italic> = 270.1</td>
+              <td colspan="3" align="left" valign="middle">137.5
+              <break/><sup>2</sup><italic>J</italic>(C3,F) = 35.4<break/><sup>3</sup><italic>J</italic>(C3,H<sub>A</sub>) = 4.0</td>
+              <td colspan="3" align="left" valign="middle">100.2
+              <break/><sup>2</sup><italic>J</italic>(C4,H<sub>A</sub>) = 8.6</td>
+              <td colspan="3" align="left" valign="middle">156.9
+              <break/><sup>3</sup><italic>J</italic>(C5,H<sub>A</sub>) = 7.3</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle"><bold>4c</bold></td>
+              <td colspan="3" align="left" valign="middle">30.7
+              <break/><sup>1</sup><italic>J</italic> = 128.0</td>
+              <td colspan="3" align="left" valign="middle">122.1
+              <break/><sup>1</sup><italic>J</italic> = 270.1</td>
+              <td colspan="3" align="left" valign="middle">137.5
+              <break/><sup>2</sup><italic>J</italic>(C3,F) = 35.7<break/><sup>3</sup><italic>J</italic>(C3,H<sub>A</sub>) = 4.0</td>
+              <td colspan="3" align="left" valign="middle">99.8
+              <break/><sup>2</sup><italic>J</italic>(C4,H<sub>A</sub>) = 8.7</td>
+              <td colspan="3" align="left" valign="middle">156.8
+              <break/><sup>3</sup><italic>J</italic>(C5,H<sub>A</sub>) = 7.0</td>
+            </tr>
+            <tr>
+              <td rowspan="2" colspan="2" align="left" valign="top" style="border-top:double thin;border-bottom:solid thin">comp.</td>
+              <td colspan="6" align="center" valign="top" style="border-top:double thin;border-bottom:solid thin">C of N-phenyl</td>
+              <td colspan="9" align="center" valign="top" style="border-top:double thin;border-bottom:solid thin">C of aryl</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" style="border-bottom:solid thin">1&#x2019;</td>
+              <td colspan="2" align="center" valign="top" style="border-bottom:solid thin">2&#x2019;,6&#x2019;</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">3&#x2019;,5&#x2019;</td>
+              <td colspan="2" align="center" valign="top" style="border-bottom:solid thin">4&#x2019;</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">1&#x2019;&#x2019;</td>
+              <td colspan="2" align="center" valign="top" style="border-bottom:solid thin">2&#x2019;&#x2019;</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">3&#x2019;&#x2019;</td>
+              <td colspan="2" align="center" valign="top" style="border-bottom:solid thin">4&#x2019;&#x2019;</td>
+              <td align="center" valign="top" style="border-bottom:solid thin">5&#x2019;&#x2019;</td>
+              <td colspan="2" align="center" valign="top" style="border-bottom:solid thin">6&#x2019;&#x2019;</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="left" valign="top"><bold>4a</bold></td>
+              <td align="left" valign="top">139.2</td>
+              <td colspan="2" align="left" valign="top">120.9</td>
+              <td align="left" valign="top">128.6</td>
+              <td colspan="2" align="left" valign="top">125.5</td>
+              <td align="left" valign="top">143.5</td>
+              <td colspan="2" align="left" valign="top">127.0</td>
+              <td align="left" valign="top">128.0</td>
+              <td colspan="2" align="left" valign="top">125.6</td>
+              <td align="left" valign="top">128.0</td>
+              <td colspan="2" align="left" valign="top">127.0</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="left" valign="top"><bold>4b</bold></td>
+              <td align="left" valign="top">138.9</td>
+              <td colspan="2" align="left" valign="top">121.1</td>
+              <td align="left" valign="top">128.7</td>
+              <td colspan="2" align="left" valign="top">125.8</td>
+              <td align="left" valign="top">139.7</td>
+              <td colspan="2" align="left" valign="top">131.7</td>
+              <td align="left" valign="top">129.2</td>
+              <td colspan="2" align="left" valign="top">127.7</td>
+              <td align="left" valign="top">126.3</td>
+              <td colspan="2" align="left" valign="top">130.6</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin"><bold>4c</bold></td>
+              <td align="left" valign="top" style="border-bottom:solid thin">138.8</td>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin">121.2</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">128.7</td>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin">125.9</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">138.7</td>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin">132.6</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">128.6</td>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin">131.4</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">126.5</td>
+              <td colspan="2" align="left" valign="top" style="border-bottom:solid thin">131.9</td>
+            </tr>
+          </tbody>
+        </table>
+	   </table-wrap>
+    </sec>
+  </back>
+</article>

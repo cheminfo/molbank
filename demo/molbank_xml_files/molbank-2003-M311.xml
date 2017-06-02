@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M311</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M311</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>8,12-Dibenzyl-4,16-dimethyl-1,3,8,12,17,18-hexaazatricyclo[12.2.1.1<sup>3,6</sup>]octadeca-4,6(18), 14(17), 15-tetraene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berhili</surname>
+            <given-names>Farid</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M311" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M311" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M311" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>El Kadiri</surname>
+            <given-names>Sghir</given-names>
+          </name>
+          <xref rid="af2-molbank-2003-M311" ref-type="aff">b</xref>
+		  <xref rid="c1-molbank-2003-M311" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M311"><label>a</label>Laboratoire de Chimie Organique-Physique, Facult&#xE9; des Sciences, Universit&#xE9; Mohammed Ier Oujda, Maroc</aff>
+      <aff id="af2-molbank-2003-M311"><label>b</label>Laboratoire de Chimie de l'Environnement et des Mat&#xE9;riaux, Facult&#xE9; des Sciences, Universit&#xE9; Mohammed Ier Oujda, Maroc</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2003-M311"><label>*</label>Fax : +212 56 50 06 03 E-mail: <email>elkadiri@sciences.univ-oujda.ac.ma</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>1</issue>
+      <elocation-id>M311</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>macrocyclic compounds</kwd>
+        <kwd>macrocyclic cavity</kwd>
+        <kwd>pyrazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body> 
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M311-i001.tif"/></p>
+      <p>A suspension of sodium carbonate (12 g, 120 mmol) in acetonitrile (250 mL) was refluxed under magnetic stirring, then a solution of bis-(3-chloromethyl-5-methylpyrazolyl)methane (<bold>1</bold>) (2 g, 7 mmol) [<xref ref-type="bibr" rid="B1-molbank-2003-M311">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2003-M311">2</xref>] and diamine <bold>2</bold> (1.68 g , 7 mmol) in acetonitrile (50 mL) was added dropwise. The solution was refluxed under stirring for two hours, filtered and the solvent was removed in vacuum, the residue was purified on alumina column with (CH<sub>2</sub>Cl<sub>2</sub>/MeOH : 95/5) as eluent to give the macrocycle <bold>3</bold> as an oily substance.</p>
+      <p>Yield: (1.5 g, 55 %).</p>
+      <p>(FAB)<sup>+</sup> [M+H]<sup>+</sup> = 457.</p>
+      <p><sup>1</sup>H NMR (250 MHz, CDCl<sub>3</sub>) d ppm: 7.36 (m, 10H, Ph) ; 5.91 (s, 2H, CH<sub>2</sub>-NPz) ; 5.86 (s, 2H, HPz) ; 3.60 (s, 4H, N-<underline>CH</underline><sub>2</sub>-Ph) ; 3.41 (s, 4H, Pz-CH<sub>2</sub>-N) ; 2.30 (s, 6H, CH<sub>3</sub>-Pz) ; 2.20 (t, 4H, N-<underline>CH</underline><sub>2</sub>-CH<sub>2</sub>); 1.30 (m, 2H, CH<sub>2</sub>-<underline>CH</underline><sub>2</sub>-CH<sub>2</sub>).</p>
+  </body>
+  <back>
+    <app-group>
+  <app id="app1-molbank-2003-M311">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M311-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M311-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2003-M311-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M311-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M311">
+        <label>1.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Kadiri</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Ph. D. Thesis</source>
+          <publisher-name>U. S. T. L. Montpellier</publisher-name>
+          <year>1988</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M311">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malek</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Persin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ramdani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sarrasin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zidane</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>New. J. Chem.</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>26</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

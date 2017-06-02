@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M742</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M742</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-[1-(4-Methylphenyl)-3-oxo-1,3,4,5,6,7-hexahydro-2<italic>H</italic>-isoindol-2-yl]propanoic Acid</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Csende</surname>
+            <given-names>Ferenc</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M742" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M742" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jek&#x151;</surname>
+            <given-names>J&#xF3;zsef</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M742" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Porkol&#xE1;b</surname>
+            <given-names>Andrea</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M742" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M742"><label>1</label>Taxus Research Laboratory, Bocskai u. 22, H-4080 Hajd&#xFA;n&#xE1;n&#xE1;s, Hungary</aff>
+      <aff id="af2-molbank-2011-M742"><label>2</label>Department of Chemistry, College of Ny&#xED;regyh&#xE1;za, H-4400 Ny&#xED;regyh&#xE1;za, S&#xF3;st&#xF3;i st. 31/B, Hungary</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M742"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>csende@nanaskabel.hu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>11</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M742</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A simple solvent-free synthesis of 3-[1-(4-methylphenyl)-3-oxo-1,3,4,5,6,7-hexahydro-2<italic>H</italic>-isoindol-2-yl]propanoic acid <bold>3</bold> was achieved by fusion of <italic>cis</italic>-2-[(4-methylphenyl)carbonyl]cyclohexanecarboxylic acid <bold>1</bold> with 3-aminopropanoic acid <bold>2</bold>. The structure of this new compound was confirmed by elemental analysis, IR, EI-MS, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>isoindolone</kwd>
+        <kwd>4-oxocarboxylic acid</kwd>
+        <kwd>&#x3B2;-aminoacid</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>2,3-Dihydro-1<italic>H</italic>-isoindolin-1-one (phthalimidine) as an important hetero ring system is core unit in various naturally occurring alkaloids or synthetic compounds. Several isoindolone derivatives have a range of biological activities including anti-inflammatory (indoprofen) [<xref ref-type="bibr" rid="B1-molbank-2011-M742">1</xref>], antiarrhytmic (ubisindine) [<xref ref-type="bibr" rid="B2-molbank-2011-M742">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M742">3</xref>], nootropic [<xref ref-type="bibr" rid="B4-molbank-2011-M742">4</xref>], anxiolytic and sedative (pazinaclone and pagoclone) [<xref ref-type="bibr" rid="B5-molbank-2011-M742">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2011-M742">6</xref>] or diuretic and antihypertensive activity (chlorthalidone) [<xref ref-type="bibr" rid="B7-molbank-2011-M742">7</xref>]. Other derivatives have potent 5-HT<sub>1A</sub> and 5-HT<sub>2c</sub> receptor antagonist [<xref ref-type="bibr" rid="B8-molbank-2011-M742">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M742">9</xref>], antispasmodic [<xref ref-type="bibr" rid="B10-molbank-2011-M742">10</xref>], antinociceptive (JM-1232) [<xref ref-type="bibr" rid="B11-molbank-2011-M742">11</xref>] and hypnotic activity [<xref ref-type="bibr" rid="B12-molbank-2011-M742">12</xref>] while <italic>N</italic>,<italic>N</italic>-phthaloyl derivative of &#x3B1;-, &#x3B2;- and &#x3B3;-amino acids showed anticonvulsant activity [<xref ref-type="bibr" rid="B13-molbank-2011-M742">13</xref>]. The isoindolinone moiety is also an integral part of a variety of natural products, such as fumaridine, lennoxamine, nuevamine, or aristoyagonine [<xref ref-type="bibr" rid="B14-molbank-2011-M742">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2011-M742">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2011-M742">16</xref>].</p>
+      <p>Recently, we studied of the condensation reaction of the <italic>cis</italic>-cyclohexane-fused &#x3B3;-oxocarboxylic acid <bold>1</bold> with several primary alkyl-, aryl- and arylalkyl amines [<xref ref-type="bibr" rid="B17-molbank-2011-M742">17</xref>] or with bifunctional amines [<xref ref-type="bibr" rid="B18-molbank-2011-M742">18</xref>] to give the corresponding hexahydroisoindolones in good yields. The reactions were performed in refluxing toluene solution in the presence of catalytic amount of <italic>p</italic>-toluenesulfonic acid (PTSA). </p>
+      <p>In continuation of previous works to develop new isoindole derivatives we investigated the reactivity of naturally occurring amino acids with &#x3B3;-oxocarboxylic acids. We observed that application of the usual reaction condition (refluxing toluene) was unsuccessful for the condensation of oxocarboxylic acid and amino acid, thus we had to find a more powerful<italic>,</italic> more effective method. The current work describes the synthesis of 3-[1-(4-methylphenyl)-3-oxo-1,3,4,5,6,7-hexahydro-2<italic>H</italic>-isoindol-2-yl]propanoic acid <bold>3</bold>, which molecule include an isoindoline and a &#x3B2;-alanine moiety (unit) simultaneously.</p>
+	  <fig id="molbank-2011-M742-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M742-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M742-sch001.tif"/>
+      </fig>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>In a round-bottom flask, a mixture of oxocarboxylic acid <bold>1</bold> (2.46 g, 0.01 mol) and an excess of 3-aminopropanoic acid (&#x3B2;-alanine) <bold>2</bold> (1.07 g, 0.012 mol) was heated at 180&#x2013;200 &#xB0;C for 3 hours. After cooling to room temperature the mixture was solved in chloroform and purified by column chromatography with chloroform, then EtOAc eluent on silica gel packing. The collected fractions were evaporated and the residue was treated with diethyl ether (15 mL) and kept in refrigerator overnight then was collected and recrystallized from diethyl ether to give the title compound <bold>3</bold> as a white crystalline solid. </p>
+      <p>Yield: 59%; m.p. 151&#x2013;153 &#xB0;C R<sub>f</sub>: 0.11 (benzene-EtOH-<italic>n</italic>-hexane = 4:1:3, visualization with iodine vapor or by UV light).</p>
+      <p>IR (KBr) &#x3BD;<sub>max</sub>cm<sup>&#x2212;1</sup>: 3041 (OH), 2941, 2925 (C-H aliphatic), 1735 (C=O, lactam), 1639 (C=O, carboxylic acid), 1455, 1412, 1287, 1302, 1186, 1173, 1058, 814, 803, 520.</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) (&#x3B4;/ ppm): 1.57&#x2013;2.05 (m, 5H, aliphatic), 2.26 (m, 3H), 2.34 (s, 3H, CH<sub>3</sub>), 2.46 (m, 1H) 2.64 (m, 1H), 3.48 (m, 1H), 3.80 (m, 1H), 4.88 (s, 1H, Ar-CH), 6.98 (d, 2H, <italic>J</italic> = 2.4 Hz, Ar-H), 7.22 (d, 2H, <italic>J</italic> = 2.4 Hz, Ar-H), 9.36 (s, br, 1H, COOH).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 20.8, 21.7, 22.4, 22.6, 23.7, 36.9 (<underline>C</underline>H<sub>2</sub>-COOH)), 68.5 (N-<underline>C</underline>H<sub>2</sub>-), 77.6 (<underline>C</underline>H benzylic), 128.0, 130.4, 131.3, 132.8, 139.1, 156.3(<underline>C</underline>-anellation), 173.3 (C=O), 175.8 (<underline>C</underline>OOH).</p>
+      <p>Elemental analysis: calculated for C<sub>18</sub>H<sub>21</sub>NO<sub>3</sub>: C, 72.22%, H, 7.07%, N, 4.68%. Found C, 72.25%, H, 7.09%, N, 4.65%.</p>
+      <p>EI-MS (70eV) <italic>m/z</italic>: 299 (M<sup>+</sup>, 82), 281 (22), 238 (100), 212 (27), 185 (18), 105 (93) 91 (71) 77 (50). </p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2011-M742">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M742-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M742-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M742-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M742-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+</app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors would like to thank Institute of Pharmaceutical Chemistry, University of Szeged, Hungary, for the NMR and IR spectroscopic measurements. </p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M742">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nannini</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Giraldi</surname>
+              <given-names>P.N.</given-names>
+            </name>
+            <name>
+              <surname>Molgora</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Biasoli</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Spinelli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Logemann</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Dradi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Zanni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Buttinoni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tommasini</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>New analgesic-anti-inflammatory drugs. 1-Oxo-2-substituted isoindoline derivatives</article-title>
+          <source>Arzneim. Forsch.</source>
+          <year>1973</year>
+          <volume>23</volume>
+          <fpage>1090</fpage>
+          <lpage>1100</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M742">
+        <label>2.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okazaki</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Oshima</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Obase</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Oiji</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nito</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kubo</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoindolin-1-one derivative and antiarrhythmic agent</article-title>
+          <source>Eur. Patent</source>
+          <patent>0,273,401</patent>
+          <day>06</day>
+          <month>July</month>
+          <year>1988</year>
+          <comment>[Chem. Abstr. <bold>1989</bold>, <italic>109</italic>, 170232p]</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M742">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csende</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Porkol&#xE1;b</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mat&#xED;z</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Szab&#xF3;</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Csorv&#xE1;ssy</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Frank</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and antiarrhythmic activity of hexahydroisoindol-1-one derivatives</article-title>
+          <source>Sci. Pharm.</source>
+          <year>1999</year>
+          <volume>67</volume>
+          <fpage>149</fpage>
+          <lpage>158</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M742">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reyes</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Huerta</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Alfaro</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Navarrete</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and nootropic activity of some 2,3-dihydro-1<italic>H</italic>-isoindol-1-one derivatives structurally related with piracetam</article-title>
+          <source>Chem. Biodivers.</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <fpage>2718</fpage>
+          <lpage>2726</lpage>
+          <pub-id pub-id-type="doi">10.1002/cbdv.200900269</pub-id>
+          <pub-id pub-id-type="pmid">21072771</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M742">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wada</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fukuda</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of a new anxiolytic, DN-2327, on learning and memory in rats</article-title>
+          <source>Pharmacol. Biochem. Behav.</source>
+          <year>1992</year>
+          <volume>41</volume>
+          <fpage>573</fpage>
+          <lpage>579</lpage>
+          <pub-id pub-id-type="doi">10.1016/0091-3057(92)90375-P</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M742">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Wit</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Vicini</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Haig</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Hunt</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Feltner</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the abuse potential of pagoclone, a partial GABA<sub>A</sub> agonist</article-title>
+          <source>J. Clin. Psychopharmacol.</source>
+          <year>2006</year>
+          <volume>26</volume>
+          <fpage>268</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.jcp.0000218983.61683.96</pub-id>
+          <pub-id pub-id-type="pmid">16702891</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M742">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zsot&#xE9;r</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Radde</surname>
+              <given-names>I.C.</given-names>
+            </name>
+            <name>
+              <surname>Endrenyi</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of chlorthalidone on blood vessels</article-title>
+          <source>J. Pharmacol. Exp. Ther.</source>
+          <year>1972</year>
+          <volume>180</volume>
+          <fpage>723</fpage>
+          <lpage>731</lpage>
+          <pub-id pub-id-type="pmid">4335113</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M742">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>Z.-P.</given-names>
+            </name>
+            <name>
+              <surname>Kung</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Mu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kung</surname>
+              <given-names>H.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoindol-1-one analogues of 4-(2'-methoxyphenyl)-1-[2'-[<italic>N</italic>-(2"-pyridyl)-<italic>p</italic>-iodobenzamido]ethyl]piperazine (<italic>p</italic>-MPPI) as 5-HT<sub>1A</sub> receptor ligands</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1998</year>
+          <volume>41</volume>
+          <fpage>157</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm970296s</pub-id>
+          <pub-id pub-id-type="pmid">9457239</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M742">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamprecht</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Micheli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tedesco</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Checchia</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Donati</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Petrone</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Terreni</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoindolone derivatives, a new class of 5-HT<sub>2C</sub> antagonists: Synthesis and biological evaluation</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>428</fpage>
+          <lpage>433</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2006.10.029</pub-id>
+          <pub-id pub-id-type="pmid">17074479</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M742">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mukai</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Goto</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Takagi</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Smooth muscle relaxing drugs and guinea pig ileum</article-title>
+          <source>Jpn. J. Pharmacol.</source>
+          <year>1981</year>
+          <volume>37</volume>
+          <fpage>147</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="doi">10.1254/jjp.31.147</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M742">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiba</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nishiyama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>The antinociceptive effects and pharmacological properties of JM-1232(-): A novel isoindoline derivative</article-title>
+          <source>Anesth. Analg.</source>
+          <year>2009</year>
+          <volume>108</volume>
+          <fpage>1008</fpage>
+          <lpage>1014</lpage>
+          <pub-id pub-id-type="doi">10.1213/ane.0b013e318193678f</pub-id>
+          <pub-id pub-id-type="pmid">19224817</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M742">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanamitsu</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Osaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Itsuji</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshimura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tsujimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Soga</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel water-soluble sedative-hypnotic agents: isoindolin-1-one derivatives</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>1682</fpage>
+          <lpage>1688</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.55.1682</pub-id>
+          <pub-id pub-id-type="pmid">18057740</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2011-M742">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Usifoh</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>Lambert</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Wouters</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Scriba</surname>
+              <given-names>G.K.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anticonvulsant activity of <italic>N,N</italic>-phthaloyl derivatives of central nervous system inhibitory amino acids</article-title>
+          <source>Arch. Pharm.</source>
+          <year>2001</year>
+          <volume>334</volume>
+          <fpage>323</fpage>
+          <lpage>331</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-4184(200110)334:10&lt;323::AID-ARDP323&gt;3.0.CO;2-O</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2011-M742">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blask&#xF3;</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gula</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Shamma</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The phthalideisoquinoline alkaloids</article-title>
+          <source>J. Nat. Prod.</source>
+          <year>1982</year>
+          <volume>45</volume>
+          <fpage>105</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1021/np50020a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2011-M742">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valencia</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Freyer</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Shamma</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fajardo</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>(&#xB1;)-Nuevamine, an isoindoloisoquinoline alkaloid, and (&#xB1;)-lennoxamine, an isoindolobenzazepine</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1984</year>
+          <volume>25</volume>
+          <fpage>599</fpage>
+          <lpage>602</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)99948-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2011-M742">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bentley</surname>
+              <given-names>K.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x3B2;-Phenylethylamines and the isoquinoline alkaloids</article-title>
+          <source>Nat. Prod. Rep.</source>
+          <year>1986</year>
+          <volume>3</volume>
+          <fpage>153</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="doi">10.1039/NP9860300153</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2011-M742">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csende</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Szab&#xF3;</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>St&#xE1;jer</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structural study of new saturated isoindol-1-one derivatives</article-title>
+          <source>Heterocycles</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>1809</fpage>
+          <lpage>1821</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-93-6366</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2011-M742">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>St&#xE1;jer</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Csende</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Bern&#xE1;th</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Soh&#xE1;r</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and steric structure of tricyclic and tetracyclic saturated or partially saturated 1,3-heterocycles containing a saturated isoindolone moiety</article-title>
+          <source>Heterocycles</source>
+          <year>1994</year>
+          <volume>37</volume>
+          <fpage>883</fpage>
+          <lpage>890</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.199428190</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M557</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M557</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of ({8-[4,6-Bis-(bis-pyridin-2-ylmethyl-amino)-[1,3,5]triazine-2-ylamino]-octyl}&#x2014;ethoxycarbonylmethyl-amino)-acetic acid ethyl ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vomasta</surname>
+            <given-names>Daniel</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xF6;nig</surname>
+            <given-names>Burkhard</given-names>
+          </name>
+          <xref rid="c1-molbank-2007-M557" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M557">Institute of Organic Chemistry, University of Regensburg, D-93040 Regensburg, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M557"><label>*</label> Author to whom correspondance should be addressed. E-mail: <underline><email>Burkhard.koenig@chemie.uni-regensburg.de</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>07</day>
+        <month>09</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>4</issue>
+      <elocation-id>M557</elocation-id>
+      <permissions>
+        <copyright-statement>&#xA9; 2007 by MDPI (<underline>http://www.mdpi.org/</underline>).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Dipicolylamine</kwd>
+		<kwd>2,4,6-tris-chloro-triazine</kwd>
+		<kwd>iminodiacetic acid</kwd>
+		<kwd>two-prong</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Combination of recognition units in synthetic receptors typically increases binding constants, if cooperativity occurs.<underline>[<xref ref-type="bibr" rid="B1-molbank-2007-M557">1</xref>]</underline> Dipicolylamine (Dpa) bis-zinc complexes are known to bind phosphate-dianions under physiological conditions with good affinities <underline>[<xref ref-type="bibr" rid="B2-molbank-2007-M557">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2007-M557">3</xref>]</underline>, whereas metal(II)-imino-diacetate (M(II)-IDA) complexes (metal(II) = copper(II), nickel(II) or zinc(II)) show affinity to N-terminal histidine.<underline>[<xref ref-type="bibr" rid="B2-molbank-2007-M557">2</xref>]</underline> Combining both units may lead to a selective binding of phosphorylated amino acid bearing N-terminal histidine. We report here a general synthetic route to ligands bearing a Dpa and an Ida site for metal ion complexation. The use of 6-chloro-N,N,N',N'-tetrakis-pyridin-2-ylmethyl-[1,3,5]triazine-2,4-diamine (<bold>1</bold>) in nucleophilic aromatic substitution provides a practical and versatile access to a variety of such two-prong Dpa receptors,<underline>[<xref ref-type="bibr" rid="B4-molbank-2007-M557">4</xref>]</underline> which is exemplarily shown on the preparation of compound <bold>3</bold>.</p>
+	  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M557-i001.tif"/></disp-formula></p>
+      <p><italic>({8-[4,6-Bis-(bis-pyridin-2-ylmethyl-amino)-[1,3,5]triazine-2-ylamino]-octyl}&#x2014;ethoxy&#xAC;carbonylmethyl-amino)-acetic acid ethyl ester</italic> (<bold>3</bold>): 6-Chloro-N,N,N',N'-tetrakis-pyridin-2-ylmethyl-[1,3,5]triazine-2,4-diamine (0.29 g, 1 mmol) was dissolved in dioxane (10 mL) and 0.5 g (1 mmol) of [(8-amino-octyl)-ethoxycarbonylmethyl-amino]-acetic acid ethyl ester (<bold>2</bold>) was added together with 0.27 g (2 mmol) of K<sub>2</sub>CO<sub>3</sub>. The mixture was refluxed for 2 d, filtered and evaporated. The crude product was purified by column chromatography (silica gel, ethyl acetate / ethanol 2:1, <italic>R</italic><sub>f</sub> = 0.27) to yield 0.2 g (27 %) of <bold>3</bold> as a pale yellow oil.</p>
+	  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M557-i002.tif"/></disp-formula></p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; = 1.04-1.23 (m, 14 H, H-7,8,9,10, H-1), 1.25-1-45 (m, 4 H, H-6,11), 2.58 (t, <sup>3</sup>J = 7.5 Hz, 2 H, H-5), 3.14 (q, <sup>3</sup>J = 6.4 Hz, 2 H, H-12), 3.44 (s, 4 H, H-4), 4.06 (q, <sup>3</sup>J = 7.1 Hz, 4 H, H-2), 4.70-4.83 (m, 4 H, H-16,17), 4.85-4.96 (m, 4 H, H-23,24), 5.00 (t, <sup>3</sup>J = 5.8 Hz, 1 H, NH), 6.86-6.97 (m, 4 H, H-20,22), 6.98-7.07 (m, 2 H, H-29), 7.13-7.23 (m, 2 H, H-27), 7.24-7.32 (m, 2 H, H-21), 7.44-7.56 (m, 2 H, H-28), 8.26-8.34 (m, 2 H, H-19), 8.36-8.44 (m, 2 H, H-26).</p>
+	  <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>, HSQC, HMBC, COSY): &#x3B4; = 14.26 (+, 2 C, C-1), 26.79-26.98 (-, 2 C, C-7,8), 27.77 (-, 1 C, C-6), 29.05-29.30 (-, 2 C, C-9,10), 29.72 (-, 1 C, C-11), 40.67 (-, 1 C, C-5), 51.55-52.04 (-, 4 C, C-16,17,23,24), 54.30 (-, 1 C, C-12), 55.01 (-, 2 C, C-4), 60.22 (-, 2 C, C-2), 121.30-121.72 (+, 8 C, C-20,22,27,29), 136.14 (+, 2 C, C-21), 136.34 (+, 2 C, C-28), 148.80 (+, 2 C, C-19), 148.96 (+, 2 C, C-26), 155.14 (C<sub>quat.</sub>, 2 C, C-18), 158.73 (C<sub>quat.</sub>, 2 C, C-25), 165.97 (C<sub>quat.</sub>, 2 C, C-14,15), 166.44 (C<sub>quat.</sub>, 1 C, C-13), 171.19 (C<sub>quat.</sub>, 2 C, C-3).</p>
+	  <p>ES-MS (acetonitrile/TFA): <italic>m/z</italic> (%) = 395.9 (100) [M+2H<sup>+</sup>], 264.3 (40) [M+3H<sup>+</sup>], 790.6 (2) [MH<sup>+</sup> ].</p>
+	  <p>IR (neat): n (cm<sup>-1</sup>) =  3941 (w), 3573 (w) 3437 (s), 3054 (m), 2982 (m), 2932 (m), 2857 (m), 2306 (w), 2126 (w); 1732 (s), 1594 (s), 1543 (s), 1487 (s), 1429 (s), 1411 (s), 1360 (m), 1319 (m), 1266 (s), 1188 (m), 1096 (m), 1026 (m), 942 (w), 893 (w), 810 (m), 736 (s).</p>
+	  <p>HR-MS(EI-MS, 70 eV): <italic>m/z</italic>: calc.: 789.4438; found: 789.4427.</p>
+      <p><italic>[(8-Amino-octyl)-ethoxycarbonylmethyl-amino]-acetic acid ethyl ester</italic> (<bold>2</bold>):</p>
+      <p>To a solution of 5 g (34.7 mmol) of 1,8-diaminooctane in 50 mL of CHCl<sub>3</sub> at 0&#xB0;C was added 2.36 g (11.6 mmol) of boc-anhydride in 14 mL of CHCl<sub>3</sub> dropwise during 0.5 h. The reaction mixture was stirred at room temp. for 2 d, the solvent was evaporated, the residue was taken up with ethyl acetate (200 mL), washed with brine (100 mL, 3x), dried over Na<sub>2</sub>SO<sub>4</sub> and evaporated to give 2.3 g(85%) of <italic>8-(amino-octyl)-carbamic acid tert-butyl ester</italic> <underline>[<xref ref-type="bibr" rid="B5-molbank-2007-M557">5</xref>]</underline> as a colourless oil.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; = 1.20-1.33 (m, 12 H, CH<sub>2</sub>), 1.42 (s, 9 H, boc-CH<sub>3</sub>), 2.65 (m, 2 H, CH<sub>2</sub>), 3.10 (m, 2 H, CH<sub>2</sub>), 4.55 (bs, 1 H, NH).</p>
+      <p><italic>8-(Amino-octyl)-carbamic acid tert-butyl ester</italic> (2.26 g, 9.8 mmol) was dissolved in 100 mL of MeCN and 3.58 g (21.6 mmol) of KI, 4.07 g (29.4 mmol) of K<sub>2</sub>CO<sub>3</sub> and 2.4 mL (3.6 g, 21.6 mmol) of ethylbromo acetate were added to the solution. The mixture was refluxed for 2 d and the solvent was evaporated. The residue was taken up with ethyl acetate (200 mL) and washed with water (100 mL, 3x), sat. NaHCO<sub>3</sub>-solution (100 mL, 2x) and finally with brine (100 mL, 2x). The combined organic phases were dried over Na<sub>2</sub>SO<sub>4</sub>, filtered and evaporated to yield 2.7 g (69%) of <italic>[(8-tert-butoxycarbonylamino-octyl)-ethoxycarbonylmethyl-amino]-acetic acid ethyl ester</italic> as orange oil. The compound was used without further purification.</p>
+	  <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; = 1.14-1.28 (m, 14 H, CH<sub>3</sub>, CH<sub>2</sub>), 1.30-1.46 (m, 13 H, CH<sub>3</sub>, CH<sub>2</sub>), 2.56-2.65 (m, 2 H, CH<sub>2</sub>), 2.95-3.07 (m, 2 H, CH<sub>2</sub>), 3.46 (s, 4 H, CH<sub>2</sub>), 4.10 (quart, 4 H, CH<sub>2</sub>), 4.56 (bs, 1 H, NH).</p>
+	  <p><sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; = 14.1 (+,2 C), 26.7-27.1 (-, 3 C); 28.4 (+, 3 C), 29.2 (-, 2 C), 29.9 (-, 1 C), 40.6 (-, 1 C), 54.3 (-, 1 C), 55.1 (-, 2 C), 60.5 (-, 2 C), 155.9 (C<sub>quat</sub>, 1 C), 171.3 (C<sub>quat</sub>, 2 C), 171.6 (C<sub>quat</sub>, 1 C).  ES-MS (DCM/MeOH + 10 mmol/l NH<sub>4</sub>Ac): <italic>m/z</italic> (%) = 417.4 (100) [MH<sup>+</sup>], 361.3 (10) [MH<sup>+</sup>-C<sub>4</sub>H<sub>8</sub>].</p>
+	  <p>IR (neat): n (cm<sup>-1</sup>) = 3445 (s), 3055 (w), 2982 (m), 2932 (m), 2857 (w), 2209 (w), 1655 (s), 1615 (w), 1502 (w), 1446 (w), 1367 (m), 1265 (s), 1175 (s), 1030 (s), 867 (w), 739 (s).</p>
+	  <p>HR-MS(EI-MS 70 eV): <italic>m/z</italic> (%): calc.: 416.2886; found: 416.2878.</p>
+      <p><italic>[(8-tert-Butoxycarbonylamino-octyl)-ethoxycarbonylmethyl-amino]-acetic acid ethyl ester</italic> (2.72 g, 6.75 mmol) was dissolved in 100 mL of dichloromethane and HCl sat. Et<sub>2</sub>O (approx. 8 mL) was added to the solution and the mixture was stirred at room temp. for 2 d. The mixture was evaporated to dryness. The residue was taken up with ethyl acetate 100 mL and washed with sat. NaHCO<sub>3</sub> solution (50 mL, 3x). The organic phases were dried over Na<sub>2</sub>SO<sub>4</sub> and evaporated to yield 1.34 g (66 %) of compound <bold>2</bold> as orange oil.</p>
+	  <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; = 1.17-1.26 (m, 14 H, CH<sub>3</sub>, CH<sub>2</sub>), 1.33-1.49 (m, 4 H, CH<sub>2</sub>), 2.13 (bs, 2 H, NH<sub>2</sub>), 2.57-2.68 (m, 4 H, CH<sub>2</sub>), 3.46 (s, 4 H, CH<sub>2</sub>), 4.83 (quart., <sup>3</sup>J = 7.1 Hz, 4 H, CH<sub>2</sub>).</p>
+	  <p><sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; = 14.2 (+, 2 C), 26.7-28.3 (-, 3 C), 29.4 (-, 2 C), 33.1 (-, 1 C); 42.0 (-, 1 C); 54.4 (-, 1 C); 55.1 (-, 2 C); 60.6 (-, 2 C); 171.4 (C<sub>quat</sub>, 2 C).</p>
+	  <p>CI-MS (NH<sub>3</sub>): <italic>m/z</italic> (%) = 317.2 (100) [MH<sup>+</sup>].</p>
+	  <p>IR (neat): n (cm<sup>-1</sup>) = 3414 (s), 2984 (w), 2933 (w), 2875 (w), 2084 (w), 1735 (s), 1655 (s), 1535 (w), 1371 (w), 1266 (m), 1192 (m), 1123 (w), 1029 (m), 736 (s).</p>
+	  <p>HR-MS(EI-MS, 70 eV): <italic>m/z</italic> (%) calc.: 316.2362; found: 316.2353.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2007-M557">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M557-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M557-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2007-M557-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M557-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2007-M557">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banerjee</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Eiler</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Jia</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Haldar</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Mallik</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>D.K.</given-names>
+            </name>
+          </person-group>
+          <source>Biochemistry</source>
+          <year>2005</year>
+          <volume>44</volume>
+          <fpage>3211</fpage>
+          <lpage>3224</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2007-M557">
+        <label>2.</label>
+		<note>
+		<p>For a general review on the use of reversible coordination in molecular recognition, see:
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kruppa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Konig</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Rev.</source>
+          <year>2006</year>
+          <volume>106</volume>
+          <fpage>3520</fpage>
+          <lpage>3560</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B3-molbank-2007-M557">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ojida</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mito-Oka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Hamachi</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>6256</fpage>
+          <lpage>6258</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2007-M557">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gamez</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Reedijk</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Inorg. Chem.</source>
+          <year>2006</year>
+          <fpage>29</fpage>
+          <lpage>42</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2007-M557">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csuk</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brezesinski</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Goethe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Raschke</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Reissmann</surname>
+              <given-names>S.Z.</given-names>
+            </name>
+          </person-group>
+          <source>Naturforsch., B</source>
+          <year>2005</year>
+          <volume>60</volume>
+          <fpage>89</fpage>
+          <lpage>98</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

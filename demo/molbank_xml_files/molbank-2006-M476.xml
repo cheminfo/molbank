@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M476</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M476</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl 1-(4-chlorophenyl)-5,6-dimethyl-7,8a-diphenyl-4,5,6,8a-tetrahydro-1H-[1,2,4] triazolo[4,3-c][1,3]diazine-3-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Boudina</surname>
+            <given-names>A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M476" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baouid</surname>
+            <given-names>A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hasnaoui</surname>
+            <given-names>A.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M476">Laboratoire de Chimie des Substances Naturelles et des H&#xE9;t&#xE9;rocycles, Facult&#xE9; des Sciences-Semlalia, Universit&#xE9; Cadi Ayyad, B.P 2390 Marrakech, Maroc. <break/>e-mail: <email>boudina2@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M476"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>03</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>3</issue>
+      <elocation-id>M476</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>[1,2,4]triazolo[1,4]diazepine</kwd>
+        <kwd>[1,2,4] triazolo[1,3]diazine</kwd>
+        <kwd>thermal reaarangement</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <disp-formula>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M476-i001.tif"/>
+  </disp-formula>
+      <p>Compound <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2006-M476">1</xref>] (200 mg, 0.41 mmol) was refluxed in dimethylsulfoxide for 30 minutes. After cooling, the solvent was removed by evaporation under reduced pressure. The residue obtained was purified by chromatography on silica gel column (eluent: hexane/ethyl acetate 90/10), then the isolated product was recrystallized from ethanol to give <bold>2</bold> (130 mg, 65%).</p>
+      <p>Melting point: 130-132&#xB0;C (Ethanol).</p>
+      <p>MS (m/z, %): 487 ([M+H]<sup>+</sup>, 100%).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 250 MHz): &#x3B4;= 1.11 (d, J = 6.90 Hz, 3H,C<underline>H</underline><sub>3</sub>-C-5), 1.44 (t, J = 6.90 Hz, 3H, C<underline>H</underline><sub>3</sub>-CH<sub>2</sub>-O), 2.58 (s, 3H, N-C<underline>H</underline><sub>3</sub>), 4.41 (q, J = 6.90 Hz, 2H, CH<sub>3</sub>-C<underline>H</underline><sub>2</sub>-O), 5.63 (s, 1H, <underline>H</underline>-C-8), 5.65 (q, J = 6.90 Hz, 1H, <underline>H</underline>-C-5), 6.80-7.70 (m, 14H, Ar-<underline>H</underline>). </p>
+      <p><sup>13</sup>C-NMR and DEPT (CDCl<sub>3</sub>, 62.5 MHz): &#x3B4;= 14.21, 19.07 (<underline>C</underline>H<sub>3</sub>-CH<sub>2</sub>-O, <underline>C</underline>H<sub>3</sub>-C-5,), 41.59 (N-<underline>C</underline>H<sub>3</sub>), 61.86 (CH<sub>3</sub>-<underline>C</underline>H<sub>2</sub>-O), 68.13 (<underline>C</underline>-5), 85.60 (<underline>C</underline>-8a), 101.33 (<underline>C</underline>-8). </p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M476">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M476-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M476-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M476-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M476-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2006-M476">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baouid</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Benharref</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hasnaoui</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lavergne</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Soc. Chim. Belg.</source>
+          <year>1994</year>
+          <volume>103</volume>
+		  <issue>12</issue>
+          <fpage>743</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

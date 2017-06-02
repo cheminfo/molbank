@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M794</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M794</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(4-Methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mishriky</surname>
+            <given-names>Nawal</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M794" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2013-M794" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moustafa</surname>
+            <given-names>Aisha M.</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M794" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M794"><label>1</label>Chemistry of Pesticides Department, National Research Centre, Dokki, Cairo 12622, Egypt</aff>
+      <aff id="af2-molbank-2013-M794"><label>2</label>Solid State Physics Department, National Research Centre, Dokki, Cairo 12622, Egypt</aff>
+	   <author-notes>
+        <corresp id="c1-molbank-2013-M794"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>nawalmishriky@hotmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>02</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>1</issue>
+      <elocation-id>M794</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>12</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>02</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>2-(4-Methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile (<bold>4</bold>) was synthesized via nucleophilic substitution reaction of 1-methylpiperazine with 2-bromo analogue <bold>3</bold>. The latter was obtained through bromination (Br<sub>2</sub>/AcOH) of 2-[3-oxo-1-phenyl-3-(thiophen-2-yl)propyl]malononitrile (<bold>2</bold>).</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-propen-1-one</kwd>
+        <kwd>pyridine-3-carbonitrile</kwd>
+        <kwd>single crystal X-ray</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Pyridine-3-carbonitrile derivatives represent an important class of heterocyclic compounds characterized by promising biological properties. Recent publications describing pharmacological properties of pyridine-3-carbonitrile-containing analogues such as vasodilation activities are considered a driving force behind the present investigation [<xref ref-type="bibr" rid="B1-molbank-2013-M794">1</xref>]. Moreover, bioactivity and applications as pharmacological active agents and agricultural materials of pyridinecarbonitriles also prompted the present study [<xref ref-type="bibr" rid="B2-molbank-2013-M794">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2013-M794">3</xref>]. Additionally, 4-aminopyridine-3-carbonitriles were reported as PKC&#x3B8; inhibitors [<xref ref-type="bibr" rid="B4-molbank-2013-M794">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2013-M794">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M794">6</xref>]. PKC&#x3B8;, a novel isoform of protein kinase C (PKC), is crucial for the activation and survival of T cells [<xref ref-type="bibr" rid="B7-molbank-2013-M794">7</xref>]. Proof-of-concept studies with mice where the PKC&#x3B8; gene was deleted or &#x2018;knocked out&#x2019; validated that the inhibition of this kinase could have therapeutic utility in diseases such as multiple sclerosis [<xref ref-type="bibr" rid="B8-molbank-2013-M794">8</xref>] and arthritis [<xref ref-type="bibr" rid="B9-molbank-2013-M794">9</xref>]. 2-Alkoxypyridine-3-carbonitrile derivatives were reported to be active antimicrobial agents against Gram-positive, Gram-negative and acid fast bacteria and yeast [<xref ref-type="bibr" rid="B10-molbank-2013-M794">10</xref>]. Also, pyridine-3-carbonitriles with amino acid functions were reported to exhibit considerable antimicrobial properties [<xref ref-type="bibr" rid="B11-molbank-2013-M794">11</xref>]. 2-Amino-3-cyanopyridine derivatives were proved to have antitubercular activity against <italic>Mycobaterium tuberculosis</italic> H<sub>37</sub> RV ATCC 27294, in BACTEC 12 B medium using the ALAMAR radiometric system comparing with the standard drug rifampin [<xref ref-type="bibr" rid="B12-molbank-2013-M794">12</xref>]. 4-Aryl-6-(4-pyridyl)-2-oxo/ thioxo-1,2-dihydropyridine-3-carbonitriles and 2-amino-4-aryl-6-(4-pyridyl)-pyridine-3-carbonitriles were proved to exert cardiotonic activity comparable to that of milrinone using a spontanously beating atria model from reserpine-treated guinea pigs [<xref ref-type="bibr" rid="B13-molbank-2013-M794">13</xref>]. Pyridine-3-carbonitrile analogues were also reported as fluorescent materials useful as security markers for treatment of paper [<xref ref-type="bibr" rid="B14-molbank-2013-M794">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M794">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2013-M794">16</xref>]. From all the above reports and in continuation with our previous work directing towards construction of various pyridine-3-carbonitrile containing-compounds [<xref ref-type="bibr" rid="B17-molbank-2013-M794">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2013-M794">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2013-M794">19</xref>], it is intended in the present work to investigate synthesis of 2-(4-methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Reaction of 3-phenyl-1-(thiophen-2-yl)-2-propen-1-one (<bold>1</bold>) with malononitrile in absolute ethanol in the presence of morpholine as a basic catalyst afforded 2-[3-oxo-1-phenyl-3-(thiophen-2-yl)propyl]-malononitrile (<bold>2</bold>) in good yield (90%). The isolated compound is similar to the product previously described [<xref ref-type="bibr" rid="B20-molbank-2013-M794">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2013-M794">21</xref>] (<xref ref-type="scheme" rid="molbank-2013-M794-sch001">Scheme 1</xref>). Single crystal X-ray studies of <bold>2</bold> provide conclusive support for its structure (<xref ref-type="fig" rid="molbank-2013-M794-f001">Figure 1</xref> and <xref ref-type="fig" rid="molbank-2013-M794-f002">Figure 2</xref>). Single crystal X-ray studies of <bold>2</bold> show that the atomic coordinates along with their esd's and equivalent isotropic thermal parameters for non-hydrogen atoms are those which are mentioned in <xref ref-type="table" rid="molbank-2013-M794-t001">Table 1</xref>. Selected intramolecular bond lengths and angles are listed in <xref ref-type="table" rid="molbank-2013-M794-t002">Table 2</xref>. </p>
+      <p>Compound <bold>2</bold> crystallizes in a monoclinic unit cell and belongs to the space group P2<sub>1</sub>/c and has 4 molecules per each unit cell. The thienyl ring of compound <bold>2</bold> is nearly planer, with maximum and minimum deviation for C(17) = &#x2212;0.011(4) &#xC5; and C(19) = 0.007(5) &#xC5; from the least square plane passing through the atoms S(1)/C(14)/C(17)/C(19)/C(20). The average values of the bond lengths and angles of the thienyl ring agree with that of identical rings in similar compounds [<xref ref-type="bibr" rid="B22-molbank-2013-M794">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2013-M794">23</xref>]. The dihedral angle between the least square plane passing through the thienyl ring and that through the phenyl moiety is equal to 96.0(4)&#xB0; which indicates that the thienyl ring is nearly perpendicular to the phenyl ring, while the dihedral angle between the least square plane passing through the phenyl ring and the plane containing the two cyano groups is equal to 63.2(3)&#xB0;. The methine carbon C(6) is a four coordinated in an asymmetric tetrahedral configuration forming angles in the range [105.5(2)&#xB0;&#x2013;114.2(2)&#xB0;], <italic>i.e.</italic>, C(6) exists in asymmetric sp<sup>3</sup> hyperdization. The two cyano groups characterized by shortened triple bond C(9)-N(4) = 1.131(3) &#xC5;, C(11)-N(12) = 1.139(3) &#xC5;. Moreover the values of the bond angles C(6)-C(9)-N(4), C(6)-C(11)-N(12) are 178.9(3)&#xB0; and 177.1(3)&#xB0;, respectively confirming the sp hybridization, consistent with other similar structures [<xref ref-type="bibr" rid="B24-molbank-2013-M794">24</xref>]. The dihedral angle between the least square plane through the butanedicarbonitrile moiety [O(2), C(3), N(4), C(6), C(8), C(9), C(10), C(11), N(12)] and that through the phenyl group [C(5), C(7), C(12), C(13), C(15), C(18)] is equal to 93.4(4)&#xB0;, meaning thereby, that both the moieties are held almost perpendicular to each other. </p>
+      <p>The packing diagram of the compound (<xref ref-type="fig" rid="molbank-2013-M794-f002">Figure 2</xref>) highlights the intermolecular contacts through the hydrogen bonding. The important function of these intermolecular bonds is to stabilize the molecules in the crystallographic sites of their space group. The most important intermolecular contacts are listed in <xref ref-type="table" rid="molbank-2013-M794-t003">Table 3</xref>. For example, carbon atom C(6) is hydrogen bonded to the nitrogen atom N(4) of the nitrile group of the neighbouring molecule with symmetry code x, 0.5&#x2212;y, 0.5+z. Also <xref ref-type="fig" rid="molbank-2013-M794-f002">Figure 2</xref> reveals that the molecules are arranged in a layer manner and the direction of these molecules in different layers is opposite to each other.</p>
+      <p>Bromination of <bold>2</bold> (Br<sub>2</sub>/AcOH) afforded 2-bromo-4-phenyl-6-(thiophen-2-yl)-pyridene-3-carbonitrile (<bold>3</bold>) [<xref ref-type="bibr" rid="B20-molbank-2013-M794">20</xref>]. The latter, upon reaction with 1-methylpiperazine in tetrahydrofuran, underwent aromatic nucleophiic substitution giving 2-(4-methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile (<bold>4</bold>) in good (80%) yield. The IR spectrum of <bold>4</bold> exhibits a strong nitrile stretching vibration band at <italic>&#x3BD;</italic> = 2203 cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR spectrum reveals the methyl group of the piperazinyl moiety as a singlet at <italic>&#x3B4;</italic> = 2.41 ppm, while, the piperazinyl methylene protons appear as triplets at <italic>&#x3B4;</italic> = 2.63 and 3.83 ppm. The <sup>13</sup>C-NMR spectrum of <bold>4</bold> exhibits the pyridinyl <italic>C</italic>-3 and <italic>C</italic>-5 at <italic>&#x3B4;</italic> = 91.89 and 110.24 ppm, respectively. The piperazinyl carbons appear at <italic>&#x3B4;</italic> = 48.66 and 55.00 ppm, while the nitrile carbon appears at <italic>&#x3B4;</italic> = 118.09 ppm. The mass spectrum (EI) of <bold>4</bold> exhibits the parent ion peak with a considerable relative intensity value.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Melting points were recorded on a Stuart SMP3 melting point apparatus. IR spectra (KBr) was recorded on a Shimadzu 8400S FT-IR spectrophotometer. NMR spectra were recorded on a JEOL AS 500 (<sup>1</sup>H: 500 MHz, <sup>13</sup>C: 125 MHz) spectrometer. MS spectra was recorded on a Shimadzu QP-2010 plus (EI, 70 eV) spectrometer. The starting compounds <bold>1</bold> [<xref ref-type="bibr" rid="B25-molbank-2013-M794">25</xref>], <bold>2</bold> and <bold>3</bold> [<xref ref-type="bibr" rid="B20-molbank-2013-M794">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2013-M794">21</xref>] were prepared according to the previously reported procedures.</p>
+      <sec>
+        <title>Synthesis of 2-(4-methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile <italic>(<bold>4</bold>)</italic></title>
+        <p>A solution of <bold>3</bold> (1.7 g, 5 mmol) and 1-methylpiperazine (1.5 mL, 10 mmol) in tetrahydrofuran (30 mL) was refluxed for 5 h. The solid separated while refluxing was collected and identified as the corresponding 1-methylpiperazine hydrobromide (soluble in water). The clear reaction mixture was evaporated till dryness, methanol (5 mL) was added, the separated solid was collected, washed with water and crystallized from methanol to give <bold>4</bold> as straw-yellow needles, m.p. 144&#x2013;146 &#xB0;C, yield (1.3 g, 80%). IR: <italic>&#x3BD;</italic><sub>max</sub>/cm<sup>&#x2212;1</sup> 2923, 2845, 2795 (CH aliphatic), 2203 (C&#x2261;N), 1569, 1539 (C=N, C=C). <sup>1</sup>H-NMR (CDCl<sub>3</sub>): <italic>&#x3B4;</italic> 2.41 (s, 3H, NCH<sub>3</sub>), 2.63 (t, 4H, 2 piperazinyl CH<sub>2</sub>, <italic>J</italic> = 4.6 Hz), 3.83 (t, 4H, 2 piperazinyl CH<sub>2</sub>, <italic>J</italic> = 4.6 Hz),7.12 (d, 1H, thienyl <italic>H</italic>-3, <italic>J</italic> = 5.35 Hz), 7.14 (s, 1H, pyridinyl <italic>H-</italic>5), 7.46 (d, 1H, thienyl <italic>H</italic>-4, <italic>J</italic> = 5.35 Hz), 7.49&#x2013;7.52 (m, 3H, Ar H's), 7.56&#x2013;7.58 (m, 2H, Ar H's), 7.65 (d, 1H, thienyl <italic>H</italic>-5, <italic>J</italic> = 5.30 Hz). <sup>13</sup>C-NMR (CDCl<sub>3</sub>): <italic>&#x3B4;</italic> 46.18 (N<italic>C</italic>H<sub>3</sub>), 48.66 (piperazinyl N<italic>C</italic>H<sub>2</sub>), 55.00 (piperazinyl N<italic>C</italic>H<sub>2</sub>), 91.89 (pyridinyl <italic>C</italic>-3), 110.24 (pyridinyl <italic>C</italic>-5), 118.09 (<italic>C</italic>&#x2261;N), 126.69, 128.41, 128.65, 128.90, 129.73, 129.82, 137.28, 144.24, 153.20, 157.36, 162.25 (arom. <italic>C</italic>). MS: <italic>m/z</italic> (%) 360 (M, 16), 362 [(M+2), 4]. Anal. Calcd. for C<sub>21</sub>H<sub>20</sub>N<sub>4</sub>S (360.48): C, 69.97; H, 5.59; N, 15.54. Found: C, 69.72; H, 5.48; N, 15.33.</p>
+      </sec>
+      <sec>
+        <title>Single Crystal X-Ray Crystallographic Data of <italic><bold>2</bold></italic></title>
+        <p>A colorless needle single crystal recrystallized from ethanol of dimensions 0.09 &#xD7; 0.07 &#xD7; 0.13 mm was selected and mounted on a thin glass fiber. X-ray diffraction data were collected at room temperature (T = 298 K) on Enraf Nonius Kappa CCD single crystal diffractometer with graphite monochromatic MoK<italic>&#x3B1;</italic> (<italic>&#x3BB;</italic> = 0.71073 &#xC5;) radiation; the crystal to detector distance was 35 mm. Crystals were indexed from the first ten frames using the DENZO package and positional data were refined along with diffractometer constants to give unit cell parameters suitable for integration and scaling (DENZO, Scalepack) [<xref ref-type="bibr" rid="B26-molbank-2013-M794">26</xref>]. With &#x3C6;-&#x3C9; scan mode, 6291 measured reflections, 3985 independent reflections out of them 1324 reflections with I &#x2265; 3&#x3C3;(I) were used for structure analysis. The crystal structure was solved by direct method using SIR92 program [<xref ref-type="bibr" rid="B27-molbank-2013-M794">27</xref>], which revealed the positions of all non-hydrogen atoms and refined by the full matrix least squares based on F<sup>2</sup> using maXus package [<xref ref-type="bibr" rid="B28-molbank-2013-M794">28</xref>]. The anisotropic displacement parameters of all non-hydrogen atoms were refined, then the hydrogen atoms were introduced as a riding model with C&#x2013;H = 0.96&#xC5; and refined isotropically. The maximum and the minimum heights in the final difference Fourier map were found to be, 0.64 e/&#xC5;<sup>3</sup> and &#x2212;0.68 e/&#xC5;<sup>3</sup>. The Molecular graphics were prepared using ORTEP program [<xref ref-type="bibr" rid="B29-molbank-2013-M794">29</xref>]. Chemical formula C<sub>16</sub>H<sub>12</sub>N<sub>2</sub>OS, M<sub>r</sub> = 280.349, monoclinic, crystallizes in space group P2<sub>1</sub>/c , Cell lengths &#x201C;<italic>a</italic> = 13.4825(6), <italic>b</italic> = 10.8934(4), <italic>c</italic> = 10.1309(4) &#xC5;&#x201D;, Cell angles &#x201C;<italic>&#x3B1; =</italic> 90.00, <italic>&#x3B2; =</italic> 101.2682(13), <italic>&#x3B3; =</italic> 90.00&#xB0;&#x201D;, <italic>V</italic> = 1459.25(10) &#xC5;<sup>3</sup>, Z = 4, <italic>D<sub>c</sub></italic> = 1.276 g/m<sup>3</sup>, <italic>&#x3B8;</italic> values 2.910&#x2013;27.485&#xB0;, absorption coefficient <italic>&#x3BC;</italic> (Mo<italic>-</italic>K<italic><sub>&#x3B1;</sub></italic>) = 0.22 mm<sup>&#x2212;1</sup>, <italic>F</italic>(000) = 584. Convergence for 181 variable parameters by least-squares refinement on <italic>F<sup>2</sup></italic> with <italic>w = 1/[</italic><italic>&#x3C3;<sup>2</sup>(F<sub>o</sub><sup>2</sup>)</italic> <italic>+</italic> <italic>0.10000 F<sub>o</sub></italic><sup>2</sup><italic>]</italic>. The final agreement factors were <italic>R</italic> = 0.044 and <italic>wR</italic> = 0.073 with a goodness-of-fit of 1.376. Full crystallographic details, excluding structure factors have been deposited at Cambridge Crystallographic Data Centre (CCDC) as supplementary publication number CCDC 873576 which can be obtained free of charge (<uri>www.ccdc.cam.ac.uk/data request/cif</uri>).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+     <app-group>
+    <app id="app1-molbank-2013-M794">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2013-M794-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M794-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2013-M794-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M794-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+<ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M794">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barsoum</surname>
+              <given-names>F.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and vasodilation activity of some novel bis(3-pyridinecarbonitrile) derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>45</volume>
+          <fpage>5176</fpage>
+          <lpage>5182</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2010.08.032</pub-id>
+          <pub-id pub-id-type="pmid">20828883</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M794">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pierrat</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gros</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Fort</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solid phase synthesis of pyridine-based derivatives from a 2-chloro-5-bromopyridine scaffold</article-title>
+          <source>J. Comb. Chem.</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <fpage>879</fpage>
+          <lpage>886</lpage>
+          <pub-id pub-id-type="doi">10.1021/cc050054a</pub-id>
+          <pub-id pub-id-type="pmid">16283796</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M794">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jose</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Vibrational spectra and normal co-ordinate analysis of 2-aminopyridine and 2-amino picoline</article-title>
+          <source>Spectrochim. Acta A</source>
+          <year>2006</year>
+          <volume>64</volume>
+          <fpage>240</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.saa.2005.06.043</pub-id>
+          <pub-id pub-id-type="pmid">16406840</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M794">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tumey</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Bhagirath</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Brooijmans</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Boschelli</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>5-Vinyl-3-pyridinecarbonitrile inhibitors of PKC&#x3B8;: Optimization of enzymatic and functional activity</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>7933</fpage>
+          <lpage>7948</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2009.10.020</pub-id>
+          <pub-id pub-id-type="pmid">19884013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M794">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shim</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Eid</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Chaudhary</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Boschelli</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and PKC&#x3B8; inhibitory activity of a series of 5-vinyl phenyl sulfonamide-3-pyridinecarbonitriles</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>6575</fpage>
+          <lpage>6577</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.10.031</pub-id>
+          <pub-id pub-id-type="pmid">19854645</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M794">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niu</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Boschelli</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Tumey</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Bhagirath</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Subrath</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shim</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Eid</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>First generation 5-vinyl-3-pyridinecarbonitrile PKC&#x3B8; inhibitors</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>5829</fpage>
+          <lpage>5832</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.08.086</pub-id>
+          <pub-id pub-id-type="pmid">19762237</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M794">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marsland</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Kopf</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell fate and function: PKC-theta and beyond</article-title>
+          <source>Trends Immunol.</source>
+          <year>2008</year>
+          <volume>29</volume>
+          <fpage>179</fpage>
+          <lpage>185</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.it.2008.01.005</pub-id>
+          <pub-id pub-id-type="pmid">18328786</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M794">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tan</surname>
+              <given-names>S.-L.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Hepburn</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sedgwick</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Chintalacharuvu</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Na</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Resistance to experimental autoimmune encephalomyelitis and impaired IL-17 production in protein kinase C<italic>&#x3B8;</italic>-deficient mice</article-title>
+          <source>J. Immunol.</source>
+          <year>2006</year>
+          <volume>176</volume>
+          <fpage>2872</fpage>
+          <lpage>2879</lpage>
+          <pub-id pub-id-type="doi">10.4049/jimmunol.176.5.2872</pub-id>
+          <pub-id pub-id-type="pmid">16493044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M794">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Healy</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Izmailova</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Walker</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Hattersley</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Siebert</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Terkelsen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Picarella</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pickard</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>PKC-theta-deficient mice are protected from Th1-dependent antigen-induced arthritis</article-title>
+          <source>J. Immunol.</source>
+          <year>2006</year>
+          <volume>177</volume>
+          <fpage>1886</fpage>
+          <lpage>1893</lpage>
+          <pub-id pub-id-type="doi">10.4049/jimmunol.177.3.1886</pub-id>
+          <pub-id pub-id-type="pmid">16849501</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M794">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barsoum</surname>
+              <given-names>F.F.</given-names>
+            </name>
+            <name>
+              <surname>Hussein</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>New 3-pyridinecarbonitrile derivatives and their antimicrobial properties</article-title>
+          <source>Boll. Chim. Farm.</source>
+          <year>2002</year>
+          <volume>141</volume>
+          <fpage>181</fpage>
+          <lpage>187</lpage>
+          <pub-id pub-id-type="pmid">12197415</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M794">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Kalmouch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hosni</surname>
+              <given-names>H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel 3-pyridinecarbonitriles with amino acids function and their fluorescence properties</article-title>
+          <source>Amino Acid</source>
+          <year>2004</year>
+          <volume>26</volume>
+          <fpage>139</fpage>
+          <lpage>146</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00726-003-0051-7</pub-id>
+          <pub-id pub-id-type="pmid">15042442</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M794">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vyas</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Tala</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Akbari</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Dhaduk</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Joshi</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Joshi</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial activity of some new cyanopyridine and cyanopyranes towards <italic>Mycobacterium tuberculosis</italic> and other microoganisms</article-title>
+          <source>Ind. J. Chem.</source>
+          <year>2009</year>
+          <volume>48B</volume>
+          <fpage>833</fpage>
+          <lpage>839</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M794">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adnan</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Azza</surname>
+              <given-names>M.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel milrinone analogous of pyridine-3-carbonitrile derivatives as promising cardiotonic agents</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>40</volume>
+          <fpage>1405</fpage>
+          <lpage>1413</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2013-M794">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Missori</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>de Spirito</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Selci</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gnoli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bertani</surname>
+              <given-names>F.R.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>El-Saied</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Basta</surname>
+              <given-names>A.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel fluorescent security marker. Part I: Morphological and optical properties of 2-amino-6-ethoxy-4-[4-(4-morpholinyl)phenyl]-3,5-pyridinedicarbonitrile nanoparticles</article-title>
+          <source>J. Nanopart. Res.</source>
+          <year>2012</year>
+          <volume>14</volume>
+          <fpage>649</fpage>
+          <lpage>660</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11051-011-0649-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2013-M794">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basta</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>El-Saied</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mohamed</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of fluorescence active pyridinedicarbonitriles and studying their application in functional paper</article-title>
+          <source>Mater. Lett.</source>
+          <year>2011</year>
+          <volume>65</volume>
+          <fpage>1713</fpage>
+          <lpage>1718</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.matlet.2011.02.018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2013-M794">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Basta</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>El-Saied</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluorescence behavior of new 3-pyridinecarbonitrile containing compounds and their application in security paper</article-title>
+          <source>Dyes Pigm.</source>
+          <year>2002</year>
+          <volume>54</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0143-7208(02)00009-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2013-M794">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishriky</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Asaad</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>New pyridinecarbonitriles from fluoro arylpropenones</article-title>
+          <source>Recl. Trav. Chim. Pays-Bas</source>
+          <year>1994</year>
+          <volume>113</volume>
+          <fpage>35</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1002/recl.19941130105</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2013-M794">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishriky</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Asaad</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic approaches towards 5<italic>H</italic>-indeno[1,2-<italic>b</italic>]pyridines</article-title>
+          <source>J. Chem. Res. (S)</source>
+          <year>1997</year>
+          <fpage>316</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="doi">10.1039/a608311k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2013-M794">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishriky</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>Girgis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Fawzy</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic approaches towards benzo[<italic>h</italic>]quinoline-3-carbonitriles</article-title>
+          <source>Pharmazie</source>
+          <year>2000</year>
+          <volume>55</volume>
+          <fpage>269</fpage>
+          <lpage>272</lpage>
+          <pub-id pub-id-type="pmid">10798239</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2013-M794">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharanin</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>Promonenkov</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Shestopalov</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrile cyclization reactions. V. 2-Aryl-3-(2-thienoyl)-1,1-dicyanopropanes and derivatives of pyridines made from them</article-title>
+          <source>Zh. Org. Khim.</source>
+          <year>1982</year>
+          <volume>18</volume>
+          <fpage>630</fpage>
+          <lpage>640</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.198228215</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2013-M794">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greiner-Bechert</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Otto</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,4-Pentandien-3-ones, XXXII: Reaction of 2-acetylthiophene and 2-acetylfuran with malononitrile and aldehydes, and synthesis and properties of phenylene-bis[(thienyl/furyl)nicotinonitrile] derivatives</article-title>
+          <source>Arch. Pharm. (Weinheim)</source>
+          <year>1991</year>
+          <volume>324</volume>
+          <fpage>563</fpage>
+          <lpage>572</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.2503240908</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2013-M794">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanton</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Moratti</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Shi Z. Simpson</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>4,5-Dihydrocyclopenta[<italic>b</italic>]thiophen-6-one</article-title>
+          <source>Acta Cryst. E</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>o371</fpage>
+          <lpage>o372</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536811056042</pub-id>
+          <pub-id pub-id-type="pmid">22346995</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2013-M794">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Youbi</surname>
+              <given-names>O.A.</given-names>
+            </name>
+            <name>
+              <surname>Asiri</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Faidallah</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Tiekink</surname>
+              <given-names>R.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Amino-1-(thiophen-2-yl)-9,10-dihydrophenanthrene-2,4-dicarbonitrile</article-title>
+          <source>Acta Cryst. E</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>o1027</fpage>
+          <lpage>o1028</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536812010033</pub-id>
+          <pub-id pub-id-type="pmid">22589900</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2013-M794">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dinnebier</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Powder study of propanthioamide dervative C<sub>8</sub>H<sub>6</sub>N<sub>2</sub>S<sub>2</sub></article-title>
+          <source>Cryst. Res. Technol.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>346</fpage>
+          <lpage>350</lpage>
+          <pub-id pub-id-type="doi">10.1002/crat.200800503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2013-M794">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Nord</surname>
+              <given-names>F.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the chemistry of heterocyclics. XVII. Thiophene polyene acids, aldehydes, and ketones</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1951</year>
+          <volume>16</volume>
+          <fpage>1720</fpage>
+          <lpage>1730</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo50005a009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2013-M794">
+        <label>26.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otwinowski</surname>
+              <given-names>Z.</given-names>
+            </name>
+			<name>
+              <surname>Minor</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Processing of X-Ray Diffraction Data Collected in Oscillation Mode</article-title>
+          <source>Methods in Enzymology; Macromolecular crystallography, Part A</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Carter</surname>
+              <given-names>C.W.</given-names>
+			  <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Sweet</surname>
+              <given-names>R.M.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1997</year>
+          <volume>Volume 276</volume>
+          <fpage>307</fpage>
+          <lpage>326</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2013-M794">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altomare</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Burla</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Camalli</surname>
+              <given-names>307 M.</given-names>
+            </name>
+            <name>
+              <surname>Cascarano</surname>
+              <given-names>G.L.</given-names>
+            </name>
+            <name>
+              <surname>Giacovazzo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Guagliardi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moliterni</surname>
+              <given-names>A.G.G.</given-names>
+            </name>
+            <name>
+              <surname>Spagna</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>SIR</italic>97: A new tool for crystal structure determination and refinement</article-title>
+          <source>J. Appl. Cryst.</source>
+          <year>1999</year>
+          <volume>32</volume>
+          <fpage>115</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0021889898007717</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2013-M794">
+        <label>28.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mackay</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gilmore</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Shankland</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>maXus Computer Program for the Solution and Refinement of Crystal Structures</source>
+          <publisher-name>Bruker Nonius, The Netherlands, MacScience, Japan and The University of Glasgow</publisher-name>
+          <year>1999</year>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2013-M794">
+        <label>29.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>C.K.</given-names>
+            </name>
+          </person-group>
+          <source>ORTEP--II. A Fortran Thermal-Ellipsoid Plot Program</source>
+		  <comment>Report ORNL-5138</comment>
+          <publisher-name>Oak Ridge National Laboratory</publisher-name>
+          <publisher-loc>Oak Ridge, TN, USA</publisher-loc>
+          <year>1976</year> 
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures, Scheme and Tables</title>
+      <fig id="molbank-2013-M794-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M794-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route towards the targeted 2-(4-methylpiperazin-1-yl)-4-phenyl-6-(thiophen-2-yl)-pyridine-3-carbonitrile (<bold>4</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M794-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M794-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>ORTEP projection of single crystal X-ray diffraction of <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M794-g001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M794-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Packing preview of <bold>2</bold>, view along b-axis.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M794-g002.tif"/>
+      </fig>
+      <table-wrap id="molbank-2013-M794-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M794-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Fractional atomic coordinates and equivalent isotropic thermal parameters (&#xC5;<sup>2</sup>) of <bold>2</bold>, involving non-hydrogen atoms.</p>
+        </caption>
+        <table>
+<thead>
+            <tr>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">Entry</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">X</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">Y</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">z</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">U<sub>eq</sub></th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">Occ</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">S1</td>
+              <td align="left" valign="top">0.52589(8)</td>
+              <td align="left" valign="top">0.32501(11)</td>
+              <td align="left" valign="top">0.36628(12)</td>
+              <td align="left" valign="top">0.0970(7)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">O2</td>
+              <td align="left" valign="top">0.69418(18)</td>
+              <td align="left" valign="top">0.1481(2)</td>
+              <td align="left" valign="top">0.3989(2)</td>
+              <td align="left" valign="top">0.0734(15)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C3</td>
+              <td align="left" valign="top">0.8541(2)</td>
+              <td align="left" valign="top">0.1106(3)</td>
+              <td align="left" valign="top">0.2723(3)</td>
+              <td align="left" valign="top">0.0462(18)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N4</td>
+              <td align="left" valign="top">0.9703(2)</td>
+              <td align="left" valign="top">0.1684(3)</td>
+              <td align="left" valign="top">&#x2212;0.0066(3)</td>
+              <td align="left" valign="top">0.082(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C5</td>
+              <td align="left" valign="top">0.8211(3)</td>
+              <td align="left" valign="top">&#x2212;0.1158(4)</td>
+              <td align="left" valign="top">0.2735(3)</td>
+              <td align="left" valign="top">0.064(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C6</td>
+              <td align="left" valign="top">0.9616(2)</td>
+              <td align="left" valign="top">0.1392(3)</td>
+              <td align="left" valign="top">0.2462(3)</td>
+              <td align="left" valign="top">0.0486(17)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C7</td>
+              <td align="left" valign="top">0.8107(2)</td>
+              <td align="left" valign="top">&#x2212;0.0058(3)</td>
+              <td align="left" valign="top">0.2039(3)</td>
+              <td align="left" valign="top">0.0495(18)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C8</td>
+              <td align="left" valign="top">0.7870(2)</td>
+              <td align="left" valign="top">0.2243(3)</td>
+              <td align="left" valign="top">0.2392(3)</td>
+              <td align="left" valign="top">0.0523(18)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C9</td>
+              <td align="left" valign="top">0.9662(2)</td>
+              <td align="left" valign="top">0.1547(3)</td>
+              <td align="left" valign="top">0.1028(4)</td>
+              <td align="left" valign="top">0.0549(18)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C10</td>
+              <td align="left" valign="top">0.6988(2)</td>
+              <td align="left" valign="top">0.2233(3)</td>
+              <td align="left" valign="top">0.3113(3)</td>
+              <td align="left" valign="top">0.0497(19)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C11</td>
+              <td align="left" valign="top">1.0333(3)</td>
+              <td align="left" valign="top">0.0438(3)</td>
+              <td align="left" valign="top">0.3056(3)</td>
+              <td align="left" valign="top">0.056(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N12</td>
+              <td align="left" valign="top">1.0872(2)</td>
+              <td align="left" valign="top">&#x2212;0.0301(3)</td>
+              <td align="left" valign="top">0.3566(3)</td>
+              <td align="left" valign="top">0.082(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C13</td>
+              <td align="left" valign="top">0.7604(3)</td>
+              <td align="left" valign="top">&#x2212;0.0079(4)</td>
+              <td align="left" valign="top">0.0702(3)</td>
+              <td align="left" valign="top">0.067(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C14</td>
+              <td align="left" valign="top">0.6229(2)</td>
+              <td align="left" valign="top">0.3184(3)</td>
+              <td align="left" valign="top">0.2777(3)</td>
+              <td align="left" valign="top">0.055(2)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C15</td>
+              <td align="left" valign="top">0.7835(3)</td>
+              <td align="left" valign="top">&#x2212;0.2240(4)</td>
+              <td align="left" valign="top">0.2129(5)</td>
+              <td align="left" valign="top">0.084(3)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C16</td>
+              <td align="left" valign="top">0.7222(3)</td>
+              <td align="left" valign="top">&#x2212;0.1158(6)</td>
+              <td align="left" valign="top">0.0096(4)</td>
+              <td align="left" valign="top">0.093(3)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C17</td>
+              <td align="left" valign="top">0.6139(3)</td>
+              <td align="left" valign="top">0.4093(4)</td>
+              <td align="left" valign="top">0.1841(4)</td>
+              <td align="left" valign="top">0.078(3)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C18</td>
+              <td align="left" valign="top">0.7343(3)</td>
+              <td align="left" valign="top">&#x2212;0.2245(5)</td>
+              <td align="left" valign="top">0.0807(6)</td>
+              <td align="left" valign="top">0.095(3)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C19</td>
+              <td align="left" valign="top">0.5267(4)</td>
+              <td align="left" valign="top">0.4814(4)</td>
+              <td align="left" valign="top">0.1824(4)</td>
+              <td align="left" valign="top">0.105(3)</td>
+              <td align="left" valign="top">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin">C20</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">0.4737(3)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">0.4462(5)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">0.2756(5)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">0.107(3)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">1.00</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2013-M794-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M794-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Selected intramolecular geometrical parameters [bond lengths (&#xC5;); bond angles (&#xB0;)] of <bold>2</bold>.</p>
+        </caption>
+        <table>
+<thead>
+            <tr>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">Geometrical parameters</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">Bond lengths (&#xC5;); Bond angles (&#xB0;)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">S(1)-C(14)</td>
+              <td align="left" valign="top">1.726(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">S(1)-C(20)</td>
+              <td align="left" valign="top">1.682(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">O(2)-C(10)</td>
+              <td align="left" valign="top">1.219(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(3)-C(6)</td>
+              <td align="left" valign="top">1.556(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(3)-C(7)</td>
+              <td align="left" valign="top">1.506(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(3)-C(8)</td>
+              <td align="left" valign="top">1.532(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N(4)-C(9)</td>
+              <td align="left" valign="top">1.131(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(5)-C(7)</td>
+              <td align="left" valign="top">1.383(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(5)-C(15)</td>
+              <td align="left" valign="top">1.379(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(6)-C(9)</td>
+              <td align="left" valign="top">1.475(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(6)-C(11)</td>
+              <td align="left" valign="top">1.466(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(7)-C(13)</td>
+              <td align="left" valign="top">1.392(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(8)-C(10)</td>
+              <td align="left" valign="top">1.512(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(10)-C(14)</td>
+              <td align="left" valign="top">1.449(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(11)-N(12)</td>
+              <td align="left" valign="top">1.139(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(13)-C(16)</td>
+              <td align="left" valign="top">1.379(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(14)-C(17)</td>
+              <td align="left" valign="top">1.360(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(15)-C(18)</td>
+              <td align="left" valign="top">1.373(5)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(16)-C(18)</td>
+              <td align="left" valign="top">1.380(5)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(17)-C(19)</td>
+              <td align="left" valign="top">1.411(4)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(19)-C(20)</td>
+              <td align="left" valign="top">1.346(5)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(3)-C(6)-C(9)</td>
+              <td align="left" valign="top">114.2(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(9)-C(6)-C(11)</td>
+              <td align="left" valign="top">109.6(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(3)-C(6)-C(11)</td>
+              <td align="left" valign="top">110.5(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C(14)-S(1)-C(20)</td>
+              <td align="left" valign="top">91.6(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">N(4)-C(9)-C(6)</td>
+              <td align="left" valign="top">178.9(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin">C(6)-C(11)-N(12)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">177.1(3)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2013-M794-t003" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M794-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Hydrogen bonding geometry of <bold>2</bold>.</p>
+        </caption>
+        <table>
+<thead>
+            <tr>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">D-H&#x2026;.A</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">D-H (&#xC5;)</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">H&#x2026;A (&#xC5;)</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">D&#x2026;.A (&#xC5;)</th>
+              <th align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin">D-H&#x2026;.A &#xB0; </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top">C6-H6-N4</td>
+              <td align="left" valign="top">0960(2)</td>
+              <td align="left" valign="top">2.431(2)</td>
+              <td align="left" valign="top">3.251(3)</td>
+              <td align="left" valign="top">143.19(20)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">C8-H8A-N12</td>
+              <td align="left" valign="top">0.960(3)</td>
+              <td align="left" valign="top">2.658(2)</td>
+              <td align="left" valign="top">3.409(4)</td>
+              <td align="left" valign="top">135.39(20)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin">C17-H17-O2</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">0.960(3)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">2.547(2)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">3.336(3)</td>
+              <td align="left" valign="top" style="border-bottom:solid thin">139.58(24)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>x, 0.5&#x2212;y, 0.5+z; 2&#x2212;x, 0.5+y, 0.5&#x2212;z; X, 0.5&#x2212;y, 0.5+z.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

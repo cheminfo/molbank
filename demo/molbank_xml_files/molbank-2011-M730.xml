@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M730</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M730</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2,3-Diaminophenazine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Pandeng</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M730" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Hao</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M730" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Shicheng</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M730" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lucia</surname>
+            <given-names>Lucian</given-names>
+          </name>
+          <xref rid="af3-molbank-2011-M730" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhan</surname>
+            <given-names>Huaiyu</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M730" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Shiyu</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M730" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M730" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M730"><label>1</label>State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China</aff>
+      <aff id="af2-molbank-2011-M730"><label>2</label>Department of Soil Science, University of Wisconsin-Madison, WI 53706-1299, USA</aff>
+      <aff id="af3-molbank-2011-M730"><label>3</label>Department of Wood &amp; Paper Science, North Carolina State University, Raleigh, North Carolina 27695, USA</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M730"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>shyfu@scut.edu.cn</email>; Tel.: +86-20-87112453; Fax: +86-20- 22236078.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>07</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>3</issue>
+      <elocation-id>M730</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>04</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>05</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Herein, we synthesized 2,3-diaminophenazine (DAP) from o-phenylenediamine (OP) using fungal laccase as a biocatalyst. The conversion ratio of OP monomer was 85% and the yield of the final purified product, DAP, was 63%. The structure of the main product, DAP, was confirmed by using several spectroscopy&#xA0;techniques (UV-VIS, IR, 2D-NMR, and MS).</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2,3-diaminophenazine</kwd>
+        <kwd>laccase</kwd>
+        <kwd>o-phenylenediamine</kwd>
+        <kwd>biosynthesis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2011-M730" sec-type="intro">
+      <title>1. Introduction </title>
+      <p>Recently, there has been increasing interest in &#x201C;green&#x201D; approaches for the synthesis of 2,3-diaminophenazine (DAP) because of its potential applications in fluorescence sensitive assays and in the manufacture of conductive polymers [<xref ref-type="bibr" rid="B1-molbank-2011-M730">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M730">2</xref>]. The chemical synthesis of DAP was first developed by oxidation of o-phenylenediamine (OP) using ferric chloride in the 1870s [<xref ref-type="bibr" rid="B3-molbank-2011-M730">3</xref>]. Later, Tarcha <italic>et al.</italic> [<xref ref-type="bibr" rid="B4-molbank-2011-M730">4</xref>] reported that enzyme (biochemical)-catalyzed oxidation of OP could also yield DAP as an alternative way. Their results showed that DAP was produced at a yield of 42% by using the horseradish peroxidase (HRP)-catalyzed oxidation. However, it is not realistic to scale up DAP biosynthesis using HRP because of the increased costs. Similar to HRP, laccase (EC 1.10.3.2), a copper-containing polyphenol oxidases produced dominantly in plants and microorganisms, also carries the ability to catalyze the oxidation of phenols and amines [<xref ref-type="bibr" rid="B5-molbank-2011-M730">5</xref>]. Recently, the potential of laccase-catalyzed polymerization of OP has been demonstrated [<xref ref-type="bibr" rid="B6-molbank-2011-M730">6</xref>] but the main products from laccase/OP reaction still needs to be further characterized. The difference between HRP and laccase-catalyzed reactions is that laccase in acetic buffer needs oxygen as an oxidant while HRP requires the involvement of hydrogen peroxide (<xref ref-type="fig" rid="molbank-2011-M730-f001">Figure 1</xref>). Therefore, biosynthesis of DAP by laccase is expected to be a more economic and safer way than that using HRP. To this end, we studied the biosynthetic DAP from o-phenylenediamine (OP) using a fungal laccase and extensively characterized the product by several spectroscopic techniques (UV-VIS, FT- IR, 2D-NMR, and MS). </p>
+    </sec>
+    <sec id="sec2-molbank-2011-M730" sec-type="results">
+      <title>2. Results and Discussion </title>
+      <p>A typical synthetic protocol is as follows: 5 g of o-phenylenediamine purified by distillation was dissolved in acetate buffer (0.1 mol/L, pH 4.8). The reaction was initiated by adding 1 mL of purified laccase with an activity of 6, 000 U/L, produced by a white-rot fungus <italic>Flammulina velutipes</italic>. Herein, one unit of laccase activity was defined as the amount of enzyme required to oxidize 1 &#x3BC;mol of ABTS (2, 2&#x2019;-azinobis(3-ethylbenzthia-zoline-6-sulfonic acid)) per minute [<xref ref-type="bibr" rid="B7-molbank-2011-M730">7</xref>]. The reaction system was kept in dark under a constant temperature of 30 &#xB0;C and bubbled with oxygen. After 24-h incubation, the resulted crystals were collected by filtering, washing, and drying under vacuum. The conversion ratio (85%) was calculated as the ratio of the mass of the product to the o-phenylenediamine. The product was further purified by dissolving in hot ethanol and recrystalling procedures. The final yield of product was estimated to be 63% after purification. Compared to the HRP-mediated synthesis of DAP, the laccase-oxygen system doesn&#x2019;t require additional chemicals, such as, hydrogen peroxide, and provides a high conversion ratio [<xref ref-type="bibr" rid="B4-molbank-2011-M730">4</xref>]. </p>
+      <p>The purified product (dissolved in methanol) was first characterized using the UV-visible spectrum (200&#x2013;600 nm). As shown in <xref ref-type="fig" rid="molbank-2011-M730-f002">Figure 2</xref>. Two characteristic absorption peaks were found at 258 nm and 426 nm. The peak at 258 nm is attributed to the benzene &#x3C0; &#x2192; &#x3C0; * electronic transition, while the peak at 426 nm is ascribed to the n &#x2192;&#x3C0; * electronic transition. Our observations agree with the UV-visible data of ferric chloride or HRP catalyzed DAP as reported in literature [<xref ref-type="bibr" rid="B8-molbank-2011-M730">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M730">9</xref>].</p>
+      <p>The infrared spectrum (see <xref ref-type="fig" rid="molbank-2011-M730-f003">Figure 3</xref>) of the purified crystals (in KBr pellets) appears similar to that of DAP reported by Jiang and Feng [<xref ref-type="bibr" rid="B9-molbank-2011-M730">9</xref>]. The characteristic bands at 3,434 cm<sup>&#x2212;1</sup>, 3,307 cm<sup>&#x2212;1</sup> and 3,180 cm<sup>&#x2212;1</sup> are attributed to the N&#x2013;H stretching vibrations of at least two -NH<sub>2</sub> groups. The bands at 1,643 cm<sup>&#x2212;1</sup>, 1,562 cm<sup>&#x2212;1</sup> are assigned as the deformation vibration of primary amine and C=N stretching vibration, respectively. Four bands, at 1,492 cm<sup>&#x2212;1</sup> due to a C=C stretching vibration, at 763 cm<sup>-1</sup> due to a ring 4 adjacent hydrogen deformation vibration, and at 586 cm<sup>&#x2212;1</sup> and 487 cm<sup>&#x2212;1</sup> due to the aromatic plane and out-of-plane bending vibration, respectively, are characteristic of phenazine. The absorption at 840 cm<sup>&#x2212;1</sup> is assigned to a ring hydrogen deformation vibration isolation, 1,338 cm<sup>-1</sup> to the C-N= stretching vibration, and 1,224 cm<sup>&#x2212;1</sup> to the aromatic ring C-NH<sub>2</sub> stretching vibration.</p>
+      <p>The structure of products was also characterized by two-dimensional <sup>1</sup>H&#x2013;<sup>13</sup>C Heteronuclear Single Quantum Coherence (HSQC) experiments. Referred to chemical shift data reported, the proton and carbon signals in the NMR spectrum (<xref ref-type="fig" rid="molbank-2011-M730-f004">Figure 4</xref>) were identified, and the attribution of the various peaks shown in <xref ref-type="fig" rid="molbank-2011-M730-f005">Figure 5</xref>a and <xref ref-type="fig" rid="molbank-2011-M730-f005">Figure 5</xref>b below.</p>
+      <p>The obtained mass spectrum (not shown) indicates the products exhibit an intense quasi-molecular ion (M<sup>+</sup>) of 211, suggesting that the molecular formula is C<sub>12</sub>H<sub>10</sub>N<sub>4</sub>. This is in accord with reported data which are obtained from HRP catalyzed formation. The oxidation of o-phenylenediamine via diazo reaction can thus be excluded since the expected product, 2, 2&#x2019;-diaminoazobenzene [<xref ref-type="bibr" rid="B10-molbank-2011-M730">10</xref>], exhibits a molecular ion of 212. Therefore, we propose that laccase can also catalyze the monomer, o-phenylenediamine, to form free radicals. These free radicals then couple with each other and yield 2,3-Diaminophenazine. </p>
+    </sec>
+    <sec id="sec3-molbank-2011-M730" sec-type="conclusions">
+      <title>3. Conclusions</title>
+      <p>In conclusion, laccase in the presence of oxygen can catalyze a high yield synthesis of 2,3-diamino-phenazine (DAP) from o-phenylenediamine (OP) under mild conditions. The structure of the main product, DAP, was confirmed by UV-VIS, IR, 2D-NMR, and MS spectra. The conversion ratio of o-phenylenediamine was 85% and the final yield of DAP after purification reached 63%, significantly higher than that obtained by HRP-catalyzed biosynthesis. Main text paragraph.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M730">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2011-M730-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2011-M730-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by the National Science Foundation of China (No.30771689 and 30972324) and the Major State Basic Research Development Program (No.2010BC732206). We also acknowledge an SCUT-NCSU scholar exchange program that allowed portions of this work to be possible.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M730">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piro</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q.D.</given-names>
+            </name>
+            <name>
+              <surname>Reisberg</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Noel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dang</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Duc</surname>
+              <given-names>H.T.</given-names>
+            </name>
+            <name>
+              <surname>Pham</surname>
+              <given-names>M.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Direct and rapid electrochemical immunosensing system based on a conducting polymer</article-title>
+          <source>Talanta</source>
+          <year>2010</year>
+          <volume>82</volume>
+          <fpage>608</fpage>
+          <lpage>612</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.talanta.2010.05.015</pub-id>
+          <pub-id pub-id-type="pmid">20602943</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M730">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mekler</surname>
+              <given-names>V.M.</given-names>
+            </name>
+            <name>
+              <surname>Bystryak</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Application of o-phenylenediamine as a fluorogenic substrate in peroxidase-mediated enzyme-linked immunosorbent assay</article-title>
+          <source>Anal. Chim. Acta</source>
+          <year>1992</year>
+          <volume>264</volume>
+          <fpage>359</fpage>
+          <lpage>363</lpage>
+          <pub-id pub-id-type="doi">10.1016/0003-2670(92)87025-G</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M730">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dom&#xED;nguez de Mar&#xED;a</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Alc&#xE1;ntara</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Carballeira</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>De la Casa</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Burgos</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;iz</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;nchez-Montero</surname>
+              <given-names>J.V.</given-names>
+            </name>
+            <name>
+              <surname>Sinisterra</surname>
+              <given-names>J.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Candida rugosa lipase: A traditional and complex biocatalyst</article-title>
+          <source>Curr. Org. Chem.</source>
+          <year>2006</year>
+          <volume>10</volume>
+          <fpage>1053</fpage>
+          <lpage>1066</lpage>
+          <pub-id pub-id-type="doi">10.2174/138527206777698057</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M730">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tarcha</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Whittern</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,3-diaminophenazine is the product from the horseradish peroxidase-catalyzed oxidation of o-phenylenediamine</article-title>
+          <source>Anal. Biochem.</source>
+          <year>1987</year>
+          <volume>165</volume>
+          <fpage>230</fpage>
+          <lpage>233</lpage>
+          <pub-id pub-id-type="doi">10.1016/0003-2697(87)90224-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M730">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solomon</surname>
+              <given-names>E.I.</given-names>
+            </name>
+            <name>
+              <surname>Sundaram</surname>
+              <given-names>U.M.</given-names>
+            </name>
+            <name>
+              <surname>Machonkin</surname>
+              <given-names>T.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicopper oxidases and oxygenases</article-title>
+          <source>Chem. Rev.</source>
+          <year>1996</year>
+          <volume>9</volume>
+          <fpage>2563</fpage>
+          <lpage>2605</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr950046o</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M730">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leutbecher</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Constantin</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Mika</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Conrad</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Beifuss</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new Laccase-catalyzed domino process and its application to the efficient synthesis of 2-aryl-1H-benzimidazoles</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2011</year>
+          <volume>52</volume>
+          <fpage>604</fpage>
+          <lpage>607</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2010.11.145</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M730">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourbonnais</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Paice</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidation of non-phenolic substrates: An expanded role for laccase in lignin biodegradation</article-title>
+          <source>FEBS Lett.</source>
+          <year>1990</year>
+          <volume>267</volume>
+          <fpage>99</fpage>
+          <lpage>102</lpage>
+          <pub-id pub-id-type="doi">10.1016/0014-5793(90)80298-W</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M730">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fornera</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Walde</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectrophotometric quantification of horseradish peroxidase with o-phenylenediamine</article-title>
+          <source>Anal. Biochem.</source>
+          <year>2010</year>
+          <volume>407</volume>
+          <fpage>293</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ab.2010.07.034</pub-id>
+          <pub-id pub-id-type="pmid">20692226</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M730">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The study on reaction kinetics based on a new system of the horseradish peroxidase catalyting the oxidation of o-phenylenediamine by H<sub>2</sub>O<sub>2</sub></article-title>
+          <source>Spectrosc. Spectr. Anal.</source>
+          <year>2002</year>
+          <volume>22</volume>
+          <fpage>436</fpage>
+          <lpage>440</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M730">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hempen</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Van Leeuwen</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Luftmann</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Karst</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Liquid chromatographic/mass spectrometric investigation on the reaction products in the peroxidase-catalyzed oxidation of o-phenylenediamine by hydrogen peroxide</article-title>
+          <source>Anal. Bioanal. Chem.</source>
+          <year>2005</year>
+          <volume>382</volume>
+          <fpage>234</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00216-005-3178-4</pub-id>
+          <pub-id pub-id-type="pmid">15900478</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures</title>
+      <fig id="molbank-2011-M730-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Catalytic mechanism of laccase and HRP</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-g001.tif"/>
+      </fig>
+      <fig id="molbank-2011-M730-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>UV-VIS spectrum of product in methanol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-g002.tif"/>
+      </fig>
+      <fig id="molbank-2011-M730-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>FT-IR absorption spectrum of the product.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-g003.tif"/>
+      </fig>
+      <fig id="molbank-2011-M730-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>HSQC spectrum of the product in methanol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-g004.tif"/>
+      </fig>
+      <fig id="molbank-2011-M730-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Attribution of <sup>1</sup>H&#x2013;<sup>13</sup>C HSQC peaks.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M730-g005.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

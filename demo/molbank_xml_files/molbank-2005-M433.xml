@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M433</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M433</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-Nitropyridin-2-yl hydrazone of 5-Acetyl-3-phenyl-1,2,4-triazine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mojzych</surname>
+            <given-names>Mariusz</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M433">Institute of Chemistry, University of Podlasie, ul. 3 Maja 54, 08-110 Siedlce, Poland e-mail: <email>mojzych@ap.siedlce.pl</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>4</issue>
+      <elocation-id>M433</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>hydrazine</kwd>
+        <kwd>pyridin-2-yl hydrazine</kwd>
+        <kwd>5-acetyl-1,2,4-triazine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>In continuation of previous work on the polyfunctionally substituted 1<italic>H</italic>-pyrazolo[4,3-e][1,2,4]triazine [<xref ref-type="bibr" rid="B1-molbank-2005-M433">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M433">2</xref>] we have reported here preparation of 3-nitropyridin-2-yl hydrazone of  5-acetyl-3-phenyl-1,2,4-triazine <bold>3</bold> being valuable intermediate for the synthesis of nitro derivative of this ring system.</p>
+	  <p>
+  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M433-i001.tif"/>
+  </p>
+      <p>To a solution of 5-acetyl-3-phenyl-1,2,4-triazine <bold>1</bold>(199 mg, 1mmol)[<xref ref-type="bibr" rid="B3-molbank-2005-M433">3</xref>] and 3-nitropyridin-2-ylhydrazine <bold>2</bold> (185 mg, 1.2 mmol) in  ethanol (30 ml) 10% HCl (0.5 ml) was added. The resulting reaction mixture was heated at reflux for 5 min and then was stirred at room temperature for 30 min. After that time the solvent was concentrated <italic>in vacuo</italic>. The solid was collected by filtration, washed with water and recrystallized from DMSO/water (1:1) to give compound <bold>3</bold> in 82% yield.</p>
+      <p>Melting Point: 255<sup>&#xBA;</sup>C.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, d6-DMSO): &#x3B4;= 2.53 (s, 3H); 7.21-7.27 (m, 1H); 7.62-7.67 (m, 3H); 8.44-8.54 (m, 3H); 8.65-8.68 (m, 1H); 9.56 (s, 1H); 11.36 (s, 1H). </p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3316; 3069; 1598; 1530; 1500; 1366; 1264; 1199; 1053; 754; 697.</p>
+      <p>MS-EI (<italic>m</italic>/<italic>z</italic>, %): 335 (1) [M<sup>+</sup>]; 189 (30); 180 (9); 179 (100); 157 (6); 143 (8); 133 (5); 128 (7); 103 (7); 102 (4); 77 (5).</p>
+      <p>HR-MS: Calculated for C<sub>16</sub>H<sub>13</sub>N<sub>7</sub>O<sub>2</sub>: 335.11307. Found: 335.11339. </p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M433">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M433-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M433-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M433-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M433-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M433">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Karczmarzyk</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2000</year>
+          <volume>53</volume>
+          <fpage>2175</fpage>
+          <pub-id pub-id-type="doi">10.3987/COM-00-8972</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M433">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mojzych</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Chem.</source>
+          <year>2003</year>
+          <volume>77</volume>
+          <fpage>1797</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M433">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lipi&#x144;ska</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Synth. Comm.</source>
+          <year>1996</year>
+          <volume>26</volume>
+          <fpage>4409</fpage>
+          <pub-id pub-id-type="doi">10.1080/00397919608003843</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+  <fn>
+<p><italic>Sample Availability</italic>: Available from MDPI.</p>
+</fn>
+</fn-group>
+  </back>
+</article>

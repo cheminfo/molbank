@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M477</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M477</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Esterification and hydrolysis under microwave irradiation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Desai</surname>
+            <given-names>Krunal G.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M477" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Desai</surname>
+            <given-names>Kishor R.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M477">Department of Chemistry, Synthetic Organic Chemistry Research Laboratory, Veer Narmad South Gujarat University, Surat-395 007 (Gujarat), India. <break/>Tel: (0261) 2258384, Fax: (0261) 2258384 e-mail: <email>kgdapril@yahoo.co.in</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M477"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>03</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>3</issue>
+      <elocation-id>M477</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>esterification</kwd>
+        <kwd>ammonolysis</kwd>
+        <kwd>microwave effect</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+       <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M477-i001.tif"/></p>
+      <p>p-methoxy benzoicacid <bold>1</bold> (1.67 g, 0.01 mole) and catalytic amount of conc. H<sub>2</sub>SO<sub>4</sub> (2-3 drops) in absolute methanol (30 mL) was taken in RBF placed in a microwave oven and irradiated (400w, 61-62<sup>o</sup>C) for 2.5 min [<xref ref-type="bibr" rid="B1-molbank-2006-M477">1</xref>]. Upon completion of reaction (monitored by TLC), using petroleumether-ethylacetate (8:2) as the eluent solvent system. The reaction mixtures was allowed to attain room temperature and treated with cold water. The solid separated was filtered, washed with water and recrystallised from ethanol to furnish compound <bold>2</bold>, yield 90%.</p>
+      <p>Methyl ester of p-methoxy benzoicacid <bold>2</bold> (1.66 g, 0.01 mole) and hydrazine hydrate (0.9 mL, 0.01 mole) in ethanol (20 mL) was taken in RBF placed in a microwave oven and irradiated (450w, 76-78<sup>o</sup>C) for 3.5 min [<xref ref-type="bibr" rid="B1-molbank-2006-M477">1</xref>]. After completion of reaction (monitored by TLC), using petroleumether-ethylacetate (8:2) as the eluent solvent system. The mixture was cooled and the resulting solid was filtered, dried and recrystallized from ethanol to get compound <bold>3</bold>, yield 83%.</p>
+      <p>Melting point: 88 <sup>oC</sup> <bold>2</bold> and 136 <sup>oC</sup> <bold>3</bold>.</p>
+      <p>IR (KBr) (cm<sup>-1</sup>): <bold>2</bold> 1722 (&gt;C=O of ester), 1225, 1044 (C-O-C), 3023 (C-H, aromatic ring), 1510 (C=C, aromatic ring), 2825 (-OCH<sub>3</sub>). <bold>3</bold> 1661 (&gt;C=O of amide), 3355, 3382 (-NHNH<sub>2</sub>), 2837 (-OCH<sub>3</sub>), 3028, 1522 (C-H, C=C, aromatic ring).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>-DMSO-<italic>d</italic><sub>6</sub>) (400 MHz) &#x3B4; (ppm): <bold>2</bold> 6.70-7.90 (4H, m, Ar-H), 4.0 (3H, s, -COOCH<sub>3</sub>), 3.87 (3H, s, -OCH<sub>3</sub>). <bold>3</bold> 6.85-7.96 (4H, m, Ar-H), 4.41 (2H, s, -NH<sub>2</sub>), 7.85 (1H, s, -CONH-), 3.89 (3H, s, -OCH<sub>&#xAD;3</sub>).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>-DMSO-<italic>d</italic><sub>6</sub>) (62.90 MHz) &#x3B4; (ppm): <bold>2</bold> 56.60 (-OCH<sub>3</sub>), 115.29-134.1 (aromatic carbons), 170 (&gt;C=O of ester), 20 (-COOCH<sub>3</sub>). <bold>3</bold> 57.68 (-OCH<sub>3</sub>), 117.31-130.0 (aromatic carbons), 162 (&gt;C=O of amide).</p>
+      <p>MS (m/z):  <bold>2</bold> 166 (M<sup>+</sup>) (C<sub>9</sub>H<sub>10</sub>O<sub>3</sub><sup>+</sup>), 135 (C<sub>8</sub>H<sub>7</sub>O<sub>2</sub><sup>+</sup>), 107 (C<sub>7</sub>H<sub>7</sub>O<sup>+</sup>), 59 (C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>+</sup>), 31 (CH<sub>3</sub>O<sup>+</sup>). <bold>3</bold> 166 (M<sup>+</sup>) (C<sub>8</sub>H<sub>10</sub>O<sub>2</sub>N<sub>2</sub><sup>+</sup>), 135 (C<sub>8</sub>H<sub>7</sub>O<sub>2</sub><sup>+</sup>), 107 (C<sub>7</sub>H<sub>7</sub>O<sup>+</sup>), 31 (N<sub>2</sub>H<sub>3</sub><sup>+</sup>), 16 (NH<sub>2</sub><sup>+</sup>).</p>
+      <p>Elemental Analysis: Calculated for <bold>2</bold> C<sub>9</sub>H<sub>10</sub>O<sub>3</sub>: C 65.06, H 6.02. Found: C 65.10, H 6.00.</p>
+      <p>Elemental Analysis: Calculated for <bold>3</bold> C<sub>8</sub>H<sub>10</sub>N<sub>2</sub>O<sub>2</sub>: C 72.18, H 6.02, N 16.86. Found: C 72.20, H 6.04, N, 16.89.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M477">
+      <title>Supplementary materials</title>
+      <supplementary-material id="molbank-2006-M477-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M477-s001-mod.mol">
+        <label>Supplementary File 1</label>
+      </supplementary-material>
+      <supplementary-material id="molbank-2006-M477-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M477-s001.mol">
+		<label>Supplementary File 2</label>
+	  </supplementary-material>
+    </app>
+   </app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>The authors thank the Veer Narmad South Gujarat University, Surat for providing research facilities and one of the author (Krunal Desai) is thankful to the Gujarat Council On Science &amp; Technology, Gandhinagar for financial support (Grant No. GUJCOST/200389/MRP/2003-04/10689). Authors are also thankful to CDRI, Lucknow for providing spectral and analytical data of the compounds.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M477">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Desai</surname>
+              <given-names>K. G.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>K. R.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem. (Sec-B).</source>
+          <year>2005</year>
+          <comment><italic>(In Press)</italic></comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

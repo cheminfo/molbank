@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M901</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M901</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6-[(4-Chlorophenyl)(1<italic>H</italic>-1,2,4-triazol-1-yl)methyl]-3-methyl-2(3<italic>H</italic>)-benzoxazolone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gerova</surname>
+            <given-names>Mariana S.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M901" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M901" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ivanova</surname>
+            <given-names>Yordanka B.</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M901" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chanev</surname>
+            <given-names>Christo D.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M901" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petrov</surname>
+            <given-names>Ognyan I.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M901" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M901"><label>1</label>Department of Pharmaceutical and Applied Organic Chemistry, Faculty of Chemistry and Pharmacy, Sofia University "St. Kliment Ohridski", 1 James Bourchier Blvd., Sofia 1164, Bulgaria; <email>hchanev@chem.uni-sofia.bg</email> (C.D.C.); <email>opetrov@chem.uni-sofia.bg</email> (O.I.P.)</aff>
+      <aff id="af2-molbank-2016-M901"><label>2</label>Department of Plant Pathology and Chemistry, Faculty of Ecology and Landscape Architecture, University of Forestry, 10 Kliment Ohridsky Blvd., Sofia 1756, Bulgaria; <email>yordanka_b_ivanova@abv.bg</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M901"><label>*</label> Correspondence: <email>mgerova@chem.uni-sofia.bg</email>; Tel.: +359-2-8161-313; Fax: +359-2-9625-438</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>06</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>2</issue>
+      <elocation-id>M901</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>04</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>05</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new hybrid molecule containing a triazole and a benzoxazolone ring was synthesized. The structure of 6-[(4-chlorophenyl)(1<italic>H</italic>-1,2,4-triazol-1-yl) methyl]-3-methyl-2(3<italic>H</italic>)-benzoxazolone was confirmed by IR, <sup>1</sup>H-, <sup>13</sup>C-NMR, MS and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>triazole</kwd>
+        <kwd>2(3<italic>H</italic>)-benzoxazolone</kwd>
+        <kwd>aromatase inhibitors</kwd>
+        <kwd>antifungal agents</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M901" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Triazoles are an important class of heterocyclic compounds with antimicrobial, antimycotic, antimycobacterial, antiprotozoal, anticonvulsant and anticancer activity [<xref ref-type="bibr" rid="B1-molbank-2016-M901">1</xref>]. Commonly used triazole antifungal drugs include <italic>fluconazole</italic>, <italic>itraconazole</italic> and <italic>voriconazole</italic> [<xref ref-type="bibr" rid="B2-molbank-2016-M901">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M901">3</xref>]. These compounds have a broad spectrum of activity against both superficial and invasive fungal infections [<xref ref-type="bibr" rid="B4-molbank-2016-M901">4</xref>]. Other clinically useful triazole derivatives, such as <italic>anastrozole</italic>, <italic>letrozole</italic> and <italic>vorozole</italic>, act as non-steroidal aromatase inhibitors and find use in the treatment of estrogen dependent breast cancer [<xref ref-type="bibr" rid="B5-molbank-2016-M901">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M901">6</xref>].</p>
+      <p>Given the wide presence of the triazole moiety in bioactive compounds with diverse mechanisms of action, here, we propose the synthesis of 6-[(4-chlorophenyl)(1<italic>H</italic>-1,2,4-triazol-1-yl) methyl]-3-methyl-2(3<italic>H</italic>)-benzoxazolone (<bold>3</bold>). Structurally related hybrid compounds combining an imidazole fragment with a benzazole ring have been previously synthesized as aromatase inhibitors [<xref ref-type="bibr" rid="B7-molbank-2016-M901">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M901">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M901">9</xref>] and antifungal agents [<xref ref-type="bibr" rid="B10-molbank-2016-M901">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M901">11</xref>]. However, fewer molecules containing the triazole and benzoxazolone moieties have been reported. As a third ring in the target molecule, we chose the 4-chlorophenyl moiety, as the presence of chlorine atom on aromatic positions 2 or 4 in some cases improved the effectiveness in azole antifungal agents [<xref ref-type="bibr" rid="B12-molbank-2016-M901">12</xref>]. To the best of our knowledge, triazole derivative <bold>3</bold> has not been previously prepared.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M901" sec-type="results">
+      <title>2. Results</title>
+      <p>The synthesis of the title compound <bold>3</bold> was achieved in two steps, as presented in <xref ref-type="scheme" rid="molbank-2016-M901-sch001">Scheme 1</xref>. Reaction of secondary alcohol <bold>1</bold> [<xref ref-type="bibr" rid="B8-molbank-2016-M901">8</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M901">11</xref>] with thionyl chloride led to the corresponding chloride <bold>2</bold>, which was used in the second stage without further purification. Treatment of <bold>2</bold> with an excess of 1,2,4-triazole provided <bold>3</bold> and triazole hydrochloride as a by-product. Compound <bold>3</bold> was isolated in good yield and purified by recrystallization. Compounds <bold>1&#x2013;3</bold> possess a chiral center and can exist as a pair of enantiomers. We used racemic reagent <bold>1</bold> and the target compound <bold>3</bold> was correspondingly obtained as a mixture of both enantiomers. Their separation could be achieved by HPLC methods using polysaccharide-based stationary phases [<xref ref-type="bibr" rid="B13-molbank-2016-M901">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2016-M901">14</xref>].</p>
+      <p>The structure of <bold>3</bold> was confirmed by IR, <sup>1</sup>H- and <sup>13</sup>C-NMR, MS and elemental analysis. All data are in accordance with the assumed structure. In the <sup>1</sup>H-NMR spectrum two singlets corresponding to the triazole protons (7.98 and 8.03 ppm) were observed. In addition to the signals for aromatic protons in the 6.95&#x2013;7.36 ppm range, a characteristic singlet for the methine proton was observed at 6.74 ppm. A singlet corresponding to the methyl group of benzoxazolone heterocycle was observed at 3.40 ppm (<xref ref-type="app" rid="app1-molbank-2016-M901">Figure S1</xref>).</p>
+    </sec>
+    <sec id="sec3-molbank-2016-M901">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M901">
+        <title>3.1. General Information</title>
+        <p>All reagents were used as received without further purification. Compound <bold>1</bold> was prepared by reduction of the corresponding ketone with sodium borohydride as described previously [<xref ref-type="bibr" rid="B8-molbank-2016-M901">8</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M901">11</xref>]. The reaction was monitored by thin-layer chromatography (TLC) on silica gel plates (Kieselgel 60 F<sub>254</sub>), using cyclohexane/ethyl acetate (3:2) and ethyl acetate/isopropranol (3:1) as eluents. The purity of the final compound <bold>3</bold> was determined by GC-MS analyses on an Agilent 6890 system with MSD 5973, using electron-impact ionization (EI) at 70 eV on a HP-5MS column (30 m &#xD7; 0.25 mm &#xD7; 0.25 &#x3BC;m). Helium was used as a carrier gas with 0.8 mL/min flow rate. The temperature programmed mode was used (from 60 &#xB0;C for 2 min, then with 10 &#xB0;C/min to 300 &#xB0;C for 10 min). The sample was introduced in splitless injection mode. IR spectrum (CHCl<sub>3</sub>) was recorded on a Shimadzu FTIR-8400S spectrometer (Kyoto, Japan). NMR spectra were obtained on a Bruker Avance III HD 500 (Rheinstetten, Germany) in CDCl<sub>3</sub>. Chemical shifts are given in parts per million (&#x3B4;) relative to the solvent peak (&#x3B4; 7.26 ppm for <sup>1</sup>H; &#x3B4; 77.16 ppm for <sup>13</sup>C). Coupling constants (<italic>J</italic>) were measured in hertz (Hz). Elemental analysis (C, H, N) was performed on a VARIO EL III Elemental analyzer (Hanau, Germany) and the obtained results were within &#xB1;0.4% of the theoretical values. Melting point of <bold>3</bold> was determined on a Boetius hot-stage microscope and was uncorrected.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M901">
+        <title>3.2. Synthesis of 6-[(4-Chlorophenyl)(1H-1,2,4-triazol-1-yl)methyl]-3-methyl-2(3H)-benzoxazolone <italic>(<bold>3</bold>)</italic></title>
+        <p>Thionyl chloride (1 mL, 14 mmol) was added to a solution of 6-[(4-chlorophenyl)(hydroxy) methyl]-3-methyl-2(3<italic>H</italic>)-benzoxazolone (<bold>1</bold>, 1.40 g, 5 mmol) in toluene (10 mL). The mixture was refluxed for 30 min and then the access of thionyl chloride was evaporated under reduced pressure. The obtained oil of <bold>2</bold> was dissolved in toluene (15 mL) and 1,2,4-triazole (0.7 g, 10 mmol) was added. The mixture was refluxed for 5 h (TLC) and the solvent was evaporated <italic>in vacuo</italic>. Water (20 mL) was added and the obtained precipitate was filtered off and dried. Recrystallization from toluene afforded <bold>3</bold> (68%, 1.15 g) as white crystals, m.p.: 185&#x2013;186 &#xB0;C. IR (CHCl<sub>3</sub>): 1755 (C=O) cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (500 MHz, CDCl<sub>3</sub>): &#x3B4; 3.40 (s, 3H, NCH<sub>3</sub>), 6.74 (s, 1H, CH), 6.95 (d, 1H, arom. H, <italic>J</italic> = 8.0 Hz), 6.99&#x2013;7.01 (m, 2H, arom. H), 7.06 (d, 2H, arom. H, <italic>J</italic> = 8.4 Hz), 7.36 (d, 2H, arom. H, <italic>J</italic> = 8.4 Hz), 7.98 (s, 1H, triazole H), 8.03 (s, 1H, triazole H). <sup>13</sup>C-NMR (125.8 MHz, CDCl<sub>3</sub>): &#x3B4; 28.2 (NCH<sub>3</sub>), 66.7 (CH), 108.2, 109.9, 123.9, 129.2, 129.3, 132.2, 132.3, 134.9, 136.2, 142.9 (arom. C), 143.4, 152.6 (triazole C), 154.5 (CO). Anal. calcd. for C<sub>17</sub>H<sub>13</sub>ClN<sub>4</sub>O<sub>2</sub> (340.77): C, 59.92; H, 3.85; N, 16.44. Found: C, 60.25; H, 3.58; N, 16.23. MS (EI): [M]<sup>+</sup> <italic>m/z</italic> = 340(38), [M + 2]<sup>+</sup> <italic>m/z</italic> = 342(13), 272(100), 274(32), 152(35), 178(21), 207(20), 236(19).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2016-M901">
+      <title>Supplementary Materials</title>
+      <p>Copies of the <sup>1</sup>H-, <sup>13</sup>C-NMR and MS spectra as well as the molfile for compound <bold>3</bold> can be found at <uri>http://www.mdpi.com/1422-8599/2016/2/M901</uri>.</p>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are thankful to the Sofia University Scientific Research Fund (grant 117/2016) for the financial support.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>O.I.P. designed the experiments; M.S.G. and Y.B.I. performed the experiments and contributed to manuscript; M.S.G. and O.I.P. analyzed the NMR spectral data and wrote the manuscript; C.D.C. provided and analyzed the mass spectra. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M901">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Kavitha</surname>
+              <given-names>H.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological applications of triazole derivatives&#x2014;A review</article-title>
+          <source>Mini-Rev. Org. Chem.</source>
+          <year>2013</year>
+          <volume>10</volume>
+          <fpage>40</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="doi">10.2174/1570193X11310010004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M901">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shalini</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Drabu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>P.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in synthetic approach to and antifungal activity of triazoles</article-title>
+          <source>Beilstein J. Org. Chem.</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <fpage>668</fpage>
+          <lpage>677</lpage>
+          <pub-id pub-id-type="doi">10.3762/bjoc.7.79</pub-id>
+          <pub-id pub-id-type="pmid">21804864</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M901">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fromtling</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Overview of medically important antifungal azole derivatives</article-title>
+          <source>Clin. Microbiol. Rev.</source>
+          <year>1988</year>
+          <volume>1</volume>
+          <fpage>187</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="pmid">3069196</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M901">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.C.A.</given-names>
+            </name>
+            <name>
+              <surname>Sorrell</surname>
+              <given-names>T.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Drugs, Old Drugs. Antifungal agents</article-title>
+          <source>Med. J. Aust.</source>
+          <year>2007</year>
+          <volume>187</volume>
+          <fpage>404</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="pmid">17908006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M901">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Piccart</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The third&#x2013;generation non-steroidal aromatase inhibitors: a review of their clinical benefits in the second-line hormonal treatment of advanced breast cancer</article-title>
+          <source>Ann. Oncol.</source>
+          <year>1999</year>
+          <volume>10</volume>
+          <fpage>377</fpage>
+          <lpage>384</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1008368300827</pub-id>
+          <pub-id pub-id-type="pmid">10370778</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M901">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goss</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anti-aromatase agents in the treatment and prevention of breast cancer</article-title>
+          <source>Cancer Control.</source>
+          <year>2002</year>
+          <volume>9</volume>
+          <fpage>2</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">11965225</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M901">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marchand</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Le Borgne</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Palzer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Le Baut</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hartmann</surname>
+              <given-names>R.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and pharmacological profile of 7-(&#x3B1;-azolylbenzyl)-1<italic>H</italic>-indoles and indolines as new aromatase inhibitors</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2003</year>
+          <volume>13</volume>
+          <fpage>1553</fpage>
+          <lpage>1555</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(03)00182-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M901">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nativelle-Serpentini</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Moslemi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yous</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Lesieur</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Sourdaine</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE9;ralini</surname>
+              <given-names>G.-E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and evaluation of benzoxazolinonic imidazoles and derivatives as non-steroidal aromatase inhibitors</article-title>
+          <source>J. Enz. Inh. Med. Chem.</source>
+          <year>2004</year>
+          <volume>19</volume>
+          <fpage>119</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1080/14756360410001667319</pub-id>
+          <pub-id pub-id-type="pmid">15449726</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M901">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Yous</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nativelle-Serpentini</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Seralini</surname>
+              <given-names>G.-E.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>S.-J.</given-names>
+            </name>
+            <name>
+              <surname>Lesieur</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of Benzothiazinones and Related Compounds as Aromatase Inhibitors in Treatment of Psoriasis and Neoplasm, and Their Preparation. FR 2860235, 1 April 2005</article-title>
+          <source>Chem. Abstr.</source>
+          <year>2005</year>
+          <volume>142</volume>
+          <fpage>355274</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M901">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Botta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Corelli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Manetti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mugnaini</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Tafi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rational design and synthesis of homochiral azole antifungal agents</article-title>
+          <source>Pure Appl. Chem.</source>
+          <year>2001</year>
+          <volume>73</volume>
+          <fpage>1477</fpage>
+          <lpage>1485</lpage>
+          <pub-id pub-id-type="doi">10.1351/pac200173091477</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M901">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Gerova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Petrova</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>New imidazole derivatives of 2(3<italic>H</italic>)-benzazolones as potential antifungal agents</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2009</year>
+          <volume>46</volume>
+          <fpage>44</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.11</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M901">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rani</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>G.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Imidazoles as potential antifungal agents: A review</article-title>
+          <source>Mini-Rev. Med. Chem.</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>1626</fpage>
+          <lpage>1655</lpage>
+          <pub-id pub-id-type="doi">10.2174/13895575113139990069</pub-id>
+          <pub-id pub-id-type="pmid">23815583</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M901">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Danel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Foulon</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Yous</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bonte</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Vaccher</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enantiomeric resolution of new aromatase inhibitors by liquid chromatography on cellulose chiral stationary phases</article-title>
+          <source>J. Sep. Sci.</source>
+          <year>2005</year>
+          <volume>28</volume>
+          <fpage>428</fpage>
+          <lpage>434</lpage>
+          <pub-id pub-id-type="doi">10.1002/jssc.200401761</pub-id>
+          <pub-id pub-id-type="pmid">15835730</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M901">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Danel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Foulon</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Guelzim</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Bonte</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Vaccher</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparative Enantiomeric separation of new aromatase inhibitors by HPLC on polysaccharide-based chiral stationary phases: Determination of enantiomeric purity and assignment of absolute stereochemistry by X-ray structure snalysis</article-title>
+          <source>Chirality</source>
+          <year>2005</year>
+          <volume>17</volume>
+          <fpage>600</fpage>
+          <lpage>607</lpage>
+          <pub-id pub-id-type="doi">10.1002/chir.20206</pub-id>
+          <pub-id pub-id-type="pmid">16200535</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2016-M901-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M901-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 6-[(4-chlorophenyl)(1<italic>H</italic>-1,2,4-triazol-1-yl)methyl]-3-methyl-2(3<italic>H</italic>)-benzoxazolone (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M901-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

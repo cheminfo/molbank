@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M862</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M862</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Fluoro-<italic>N</italic>-methyl-<italic>N</italic>-{[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]methyl}ethanamine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Neudorfer</surname>
+            <given-names>Catharina</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M862" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2015-M862" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2015-M862" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shanab</surname>
+            <given-names>Karem</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M862" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2015-M862" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holzer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M862" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rami-Mark</surname>
+            <given-names>Christina</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M862" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mitterhauser</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M862" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wadsak</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M862" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spreitzer</surname>
+            <given-names>Helmut</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M862" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2015-M862" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M862"><label>1</label>Department of Biomedical Imaging and Image-guided Therapy, Division of Nuclear Medicine, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria; E-Mails: <email>karem.shanab@gmail.com</email> (K.S.); <email>christina.rami-mark@meduniwien.ac.at</email> (C.R.-M.); <email>markus.mitterhauser@meduniwien.ac.at</email> (M.M.); <email>wolfgang.wadsak@meduniwien.ac.at</email> (W.W.)</aff>
+      <aff id="af2-molbank-2015-M862"><label>2</label>Division of Drug Synthesis, Department of Pharmaceutical Chemistry, Faculty of Life Sciences, University of Vienna, Althanstra&#xDF;e 14, 1090 Vienna, Austria; E-Mail: <email>wolfgang.holzer@univie.ac.at</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M862"><label>*</label>Authors to whom correspondence should be addressed; E-Mails: <email>catharina.neudorfer@gmail.com</email> (C.N.); <email>helmut.spreitzer@univie.ac.at</email> (H.S.); Tel.: +43-4277-55629 (C.N.); +43-4277-55621 (H.S.); Fax: +43-4277-855629 (C.N.); +43-4277-855621 (H.S.).</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>06</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>2</issue>
+      <elocation-id>M862</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>04</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>06</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Starting from <italic>N</italic>-methyl-1-[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]methanamine (<bold>1</bold>) target compound <bold>2</bold> is prepared in a mild, direct alkylation approach with 2-fluoroethyl trifluoromethanesulfonate.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>NET</kwd>
+        <kwd>PET</kwd>
+        <kwd>PHOXI</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M862" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>As the norepinephrine transporter (NET) is involved in a variety of diseases, such as neurological/psychiatric disorders, [<xref ref-type="bibr" rid="B1-molbank-2015-M862">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M862">2</xref>], but also plays a pivotal role in cardiovascular [<xref ref-type="bibr" rid="B1-molbank-2015-M862">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M862">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M862">3</xref>], and metabolic diseases [<xref ref-type="bibr" rid="B3-molbank-2015-M862">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M862">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M862">5</xref>], the investigation of the underlying dysregulation-mechanisms of the norepinephrine (NE) system is of major interest.</p>
+      <p>Today, positron emission tomography (PET), being a non-invasive molecular imaging technique, represents the most accurate method to obtain information about the transporter abundance and density in healthy and pathological living human brains. It also enables the collection of missing data and direct quantification of receptor/transporter densities in the living organism. To fully gain insight in the molecular changes of the noradrenergic system via PET, however, prior development of suitable NET-PET radioligands is required. For preclinical investigations of the respective target, non-radioactive references first need to be prepared.</p>
+      <p>Previously several 3,4-dihydro-1<italic>H</italic>-isochromene derivatives were synthesized, [<xref ref-type="bibr" rid="B6-molbank-2015-M862">6</xref>] which have been described by our research group as potential precursors and references for PET-based investigations of the NET. On the basis of these previous studies, we are reporting in this paper the synthesis of a further reference compound for the NET for future preclinical testing, namely 2-fluoro-<italic>N</italic>-methyl-<italic>N</italic>-{[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-methyl<underline>ph</underline>en<underline>ox</underline>y)-3,4-dihydro-1<italic>H</italic>-<underline>i</underline>sochromen-3-yl]methyl}ethanamine (FE@PHOXI1) (<bold>2</bold>).</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M862" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Derivative <bold>1</bold> was made accessible by reacting 1<italic>H</italic>-isochromen-4(3<italic>H</italic>)-one in a Mannich reaction with dimethylamine hydrochloride and paraformaldehyde, followed by reduction of the keto group into an alcohol group with <sc>l</sc>-Selectride [<xref ref-type="bibr" rid="B6-molbank-2015-M862">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M862">7</xref>]. This product was obtained as racemic mixture. The <italic>cis</italic>-isomer could be successfully separated from its <italic>trans</italic>-counterpart by proper purification using column chromatography. Subsequent reaction of the <italic>cis</italic>-isomer with 1-bromo-2-fluorobenzene then afforded 1-[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-bromophenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]-<italic>N</italic>,<italic>N</italic>-dimethylmethanamine, which was converted into <italic>N</italic>,<italic>N</italic>-dimethyl-1-[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]methanamine. Following <italic>N</italic>-demethylation yielded compound <bold>1</bold> [<xref ref-type="bibr" rid="B6-molbank-2015-M862">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M862">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M862">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M862">9</xref>].</p>
+      <p>For the preparation of derivative <bold>2</bold>, a mild synthesis approach was chosen, in which the secondary amine (<bold>1</bold>) was reacted at 0 &#xB0;C with freshly prepared 2-fluoroethyl trifluoromethanesulfonate [<xref ref-type="bibr" rid="B10-molbank-2015-M862">10</xref>] in the presence of trimethylamine (<xref ref-type="scheme" rid="molbank-2015-M862-sch001">Scheme 1</xref>). Due to the high reactivity of triflates, the alkylation was carried out in less than ten minutes while the temperature was slowly raised to 25 &#xB0;C.</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M862">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M862">
+        <title>3.1. General Information</title>
+        <p>The NMR spectra were recorded from a CDCl<sub>3</sub> solution on a Bruker Avance III 400 spectrometer (Billerica, MA, USA) (400 MHz for <sup>1</sup>H, 100 MHz for <sup>13</sup>C, 40 MHz for <sup>15</sup>N, 376 MHz for <sup>19</sup>F) at 25 &#xB0;C. The center of the solvent (residual) signal was used as an internal standard which was related to tetramethylsilane (TMS) with &#x3B4; 7.26 ppm (<sup>1</sup>H in CDCl<sub>3</sub>), and &#x3B4; 77.0 ppm (<sup>13</sup>C in CDCl<sub>3</sub>). <sup>19</sup>F NMR spectra were referenced by absolute referencing via <italic>&#x39E;</italic> ratio. Digital resolutions were 0.25 Hz/data point in the <sup>1</sup>H and 0.3 Hz/data point in the <sup>13</sup>C-NMR spectra. Coupling constants (<italic>J</italic>) are quoted in Hz. The following abbreviations were used to show the multiplicities: s: singlet, d: doublet, t: triplet, q: quadruplet, dd: doublet of doublet, m: multiplet. Mass spectra were obtained on a Shimadzu QP 1000 instrument (EI, 70 eV, Kyoto, Japan), high-resolution mass spectrometry (HRMS) was carried out on a maXis HD ESI-Qq-TOF mass spectrometer (Bruker Daltonics, Bremen, Germany) in the positive-ion mode by direct infusion. Compound purity: all compounds synthesized featured a purity of at least 95%.</p>
+		</sec>
+		<sec id="sec3dot2-molbank-2015-M862">
+        <title>3.2. 2-Fluoro-N-methyl-N-{[(3S*,4S*)-4-(2-methylphenoxy)-3,4-dihydro-1H-isochromen-3-yl]methyl}ethanamine (FE@PHOXI1)</title>
+        <p>To a suspension of <italic>N</italic>-methyl-1-[(3<italic>S*</italic>,4<italic>S*</italic>)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]methanamine (<bold>1</bold>) (0.07 g, 0.26 mmol) in dry acetonitrile (10 mL) was added trimethylamine (0.05 mL, 0.33 mmol) under argon atmosphere. The reaction mixture was cooled to 0 &#xB0;C and 2-fluoroethyl trifluoromethansulfonate (0.04 mL, 0.31 mmol) was slowly added to the mixture. Thereafter, the solution was stirred for 10 min, during which the mixture was allowed to warm to room temperature. After evaporation of the solvent, the resulting crude product was purified by column chromatography (silica gel 60, 7% MeOH in CH<sub>2</sub>Cl<sub>2</sub>).</p>
+        <p>Yield: 15 mg (17%), yellow oil.</p>
+        <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>, for numbering of atoms see formula of <bold>2</bold>): &#x3B4; (ppm) 1.91 (s, 3H, benz 2-CH<sub>3</sub>), 2.56 (s, 3H, NCH<sub>3</sub>), 2.84&#x2013;3.07 (m, 2H, NC<underline>H<sub>2</sub></underline>CH<sub>2</sub>F), 3.04 (m, 1H, isochr-C<underline>H</underline><sub>2</sub>-N), 3.13 (m, 1H, isochr-C<underline>H</underline><sub>2</sub>-N), 4.22 (m, 1H, isochr H-3), 4.65 (dt, <sup>2</sup><italic>J</italic><sub>CH2,F</sub> = 47.5 Hz, <sup>3</sup><italic>J</italic><sub>CH2,CH2</sub> = 4.8 Hz, 1H, NCH<sub>2</sub>C<underline>H</underline><sub>2</sub>F), 4.90 (A-part of an AB-system, <sup>2</sup><italic>J</italic> = 15.2 Hz, 1H, isochr H-1), 5.04 (B-part of an AB-system, <sup>2</sup><italic>J</italic> = 15.2 Hz, 1H, isochr H-1&#x2B9;), 5.19 (d, <sup>3</sup><italic>J</italic> = 2.1 Hz, 1H, isochr H-4), 6.91 (m, 1H, isochr H-5), 6.92 (m, 1H, benz H-4), 7.06 (m, 1H, isochr H-6), 7.07 (m, 1H, isochr H-8), 7.08 (m, 1H, benz H-3), 7.17 (m, 2H, benz H-5 and benz H-6), 7.27 (m, 1H, isochr H-7);</p>
+        <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 16.2 (benz 2-<underline>C</underline>H<sub>3</sub>), 43.1 (NCH<sub>3</sub>), 57.7 (d, <sup>2</sup><italic>J</italic><sub>C,F</sub> = 19.8 Hz, N<underline>C</underline>H<sub>2</sub>CH<sub>2</sub>F), 58.3 (isochr-<underline>C</underline>H<sub>2</sub>-N), 67.7 (isochr C-1), 73.6 (isochr C-4), 74.9 (isochr C-3), 81.4 (d, <sup>1</sup><italic>J</italic><sub>C,F</sub> = 168.0 Hz, NCH<sub>2</sub><underline>C</underline>H<sub>2</sub>F), 116.7 (benz C-6), 122.0 (benz C-4), 124.2 (isochr C-8), 126.4 (isochr C-6), 126.8 (benz C-5), 128.6 (isochr C-7), 129.1 (isochr C-5), 129.8 (benz C-2), 130.9 (benz C-3), 132.0 (isochr C-4a), 134.6 (isochr C-8a), 156.2 (benz C-1);</p>
+        <p><sup>19</sup>F-NMR (471 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) &#x2212;218.6 (m, CH<sub>2</sub><underline>F</underline>);</p>
+        <p>MS: <italic>m/z</italic> (%) 329 (M<sup>+</sup>, 1), 222 (1), 188 (1), 132 (2), 115 (2), 104 (3), 90 (100), 77 (2), 44 (4);</p>
+        <p>HRMS: <italic>m/z</italic> calculated for C<sub>20</sub>H<sub>25</sub>FNO<sub>2</sub> [M + H]<sup>+</sup>: 330.1864. Found: 330.1831.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M862">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M862-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M862-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2015-M862-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M862-s001.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        </app>
+	</app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Catharina Neudorfer: Responsible for the performance of the syntheses and writing; Karem Shanab: Contributions to syntheses and experimental procedures; Wolfgang Holzer: Performance of the NMR analyses; Christina Rami-Mark: Designed parts of the research; Markus Mitterhauser: Designed parts of the research and proofread the manuscript; Wolfgang Wadsak: Designed parts of the research and proofread the manuscript; Helmut Spreitzer: Conceived and supervised the syntheses.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M862">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sung</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Apparsundram</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Galli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kahlig</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Savchenko</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Schroeter</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Quick</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Blakely</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A regulated interaction of syntaxin 1A with the antidepressant-sensitive norepinephrine transporter establishes catecholamine clearance capacity</article-title>
+          <source>J. Neurosci.</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <fpage>1697</fpage>
+          <lpage>1709</lpage>
+          <pub-id pub-id-type="pmid">12629174</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M862">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Hahn</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Joung</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Steele</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Mazei-Robinson</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Gizer</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Teicher</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>D.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A polymorphism in the norepinephrine transporter gene alters promoter activity and is associated with attention-deficit hyperactivity disorder</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2006</year>
+          <volume>103</volume>
+          <fpage>19164</fpage>
+          <lpage>19169</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0510836103</pub-id>
+          <pub-id pub-id-type="pmid">17146058</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M862">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hahn</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Blakely</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A mutation in the human norepinephrine transporter gene (SLC6A2) associated with orthostatic intolerance disrupts surface expression of mutant and wild-type transporters</article-title>
+          <source>J. Neurosci.</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <fpage>4470</fpage>
+          <lpage>4478</lpage>
+          <pub-id pub-id-type="pmid">12805287</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M862">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mirbolooki</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Upadhyay</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Constantinescu</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adrenergic pathway activation enhances brown adipose tissue metabolism: A [<sup>18</sup>F]FDG PET/CT study in mice</article-title>
+          <source>Nucl. Med. Biol.</source>
+          <year>2014</year>
+          <volume>41</volume>
+          <fpage>10</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2013.08.009</pub-id>
+          <pub-id pub-id-type="pmid">24090673</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M862">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Yeckel</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Weinzimmer</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mulnix</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Gallezot</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Carson</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Sherwin</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Ex vivo</italic> and <italic>in vivo</italic> Evaluation of the Norepinephrine Transporter Ligand [<sup>11</sup>C]MRB for Brown Adipose Tissue Imaging</article-title>
+          <source>Nucl. Med. Biol.</source>
+          <year>2012</year>
+          <volume>39</volume>
+          <fpage>1081</fpage>
+          <lpage>1086</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.nucmedbio.2012.04.005</pub-id>
+          <pub-id pub-id-type="pmid">22595487</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M862">
+        <label>6.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Neudorfer</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of Novel Precursors and Reference Compounds for PET Based Investigations Targeting the Norepinephrine Transporter and Monoamine Oxidase B</article-title>
+          <source>Ph.D. Dissertation</source>
+          <publisher-name>University of Vienna</publisher-name>
+          <publisher-loc>Vienna, Austria</publisher-loc>
+          <day>18</day>
+          <month>December</month>
+		  <year>2014</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M862">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hudson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kiankarimi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Eccles</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Dwight</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Mostofi</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Genicot</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Fleck</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Gogas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Aparicio</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Structure-activity relationships of chiral selective norepinephrine reuptake inhibitors (sNRI) with increased oxidative stability</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>4491</fpage>
+          <lpage>4494</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2008.07.049</pub-id>
+          <pub-id pub-id-type="pmid">18672364</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M862">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hudson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kiankarimi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Eccles</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Mostofi</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Genicot</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Dwight</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Fleck</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Gogas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>W.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure-activity relationships of selective norepinephrine reuptake inhibitors (sNRI) with a heterocyclic ring constraint</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>4495</fpage>
+          <lpage>4498</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2008.07.050</pub-id>
+          <pub-id pub-id-type="pmid">18667309</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M862">
+        <label>9.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiankarimi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hudson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dwight</surname>
+              <given-names>W.J.</given-names>
+            </name>
+            <name>
+              <surname>Wesley</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>W.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Monoamine Re-Uptake Inhibitors and Methdos Relating Thereto</article-title>
+          <source>U.S. Pat. Appl. Publ.</source>
+          <patent>US 20060252818 A1</patent>
+          <month>November</month>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M862">
+        <label>10.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Claremon</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Leftheris</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tice</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Cacatian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Himmelsbach</surname>
+              <given-names>F.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cyclic Inhibitors of 11beta-Hydroxysteroid Dehydrogenase 1</article-title>
+          <source>PCT Int. Appl.</source>
+          <patent>WO 2009134392 A1</patent>
+          <month>November</month>
+		  <year>2009</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M862-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M862-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Reaction of <italic>N</italic>-Methyl-1-((3<italic>S</italic>*,4<italic>S</italic>*)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl)methanamine to 2-Fluoro-<italic>N</italic>-methyl-<italic>N</italic>-{[(3<italic>S</italic>*,4<italic>S</italic>*)-4-(2-methylphenoxy)-3,4-dihydro-1<italic>H</italic>-isochromen-3-yl]methyl}ethanamine (FE@PHOXI1).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M862-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

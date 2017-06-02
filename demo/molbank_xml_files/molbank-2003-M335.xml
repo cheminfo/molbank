@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M335</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M335</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Phenylacetic Acid (3<italic>S</italic>,6<italic>S</italic>)-6-Acetoxy-8-methyl-8-aza-bicyclo[3.2.1]oct-3-yl Ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Niu</surname>
+            <given-names>Yin-Yao</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lu</surname>
+            <given-names>Yang</given-names>
+          </name>
+          <xref rid="c1-molbank-2003-M335" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M335">Department of Chemistry Shanghai Second Medical University Shanghai-200025 People's Republic of China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M335">Tel. +86 21 63846590-776464, Fax. +86 21 53065329, E-mail: <email>huaxue@shsmu.edu.cn</email> and <email>luyangssmu@yahoo.com</email></corresp>
+	  </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>3</issue>
+      <elocation-id>M335</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>02</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>05</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved</p>
+        </license>
+      </permissions>    
+    </article-meta>
+  </front>
+    <body>    
+      <p>The fact that the configuration of derivatives of acetic acid 8-methyl-8-aza-bicyclo[3.2.1]oct-6-yl ester was considered having significant influence on the muscarinic activity [<xref ref-type="bibr" rid="B1-molbank-2003-M335">1</xref>] prompted us to synthesize the chiral compounds with the skeleton in order to study the structure-activity relationship.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M335-i001.tif"/></p>
+	  <p>To a solution of (-)-acetic acid (3<italic>S</italic>,6<italic>S</italic>)-3-hydroxy-8-methyl-8-aza-bicyclo[3.2.1]oct-6-yl ester [<xref ref-type="bibr" rid="B2-molbank-2003-M335">2</xref>, <xref ref-type="bibr" rid="B3-molbank-2003-M335">3</xref>] (0.22 g, 1.1 mmol) in dichloromethane (2 mL) with pyridine (0.1 mL) was added dropwise phenylacetyl chloride (0.23 mL, 1.7 mmol). The mixture was stirred for 24 h at room temperature. The solution was evaporated in vacuo to dryness. The residue was dissolved in water (5 mL) and basified with concentrated aqueous ammonia. The aqueous solution was extracted with chloroform (5&#xD7;6 mL), and the combined organic layers were dried over anhydrous sodium sulfate, filtered, evaporated in vacuo, to give phenylacetic acid (3<italic>S</italic>,6<italic>S</italic>)-6-acetoxy-8-methyl-8-aza-bicyclo[3.2.1]oct-3-yl ester (0.34 g, 95%) as a pale yellow oil.</p>
+      <p>[a]<sub>D</sub><sup>20</sup> = +2.0&#xB0; (c 1.05, CHCl<sub>3</sub>).</p>
+      <p>IR (KBr): 2947, 2858, 1732, 1604.</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): 1.64-2.15 (m, 6H), 2.03 (s, 3H), 2.44 (s, 3H), 3.08 (s, 1H), 3.21 (m, 1H), 3.61 (s, 2H), 4.95 (m, 1H), 5.21 (dd, J=3.1, 7.6 Hz, 1 H), 7.20-7.36 (m, 5H).</p>
+      <p>MS: m/z(%) 317 (M<sup>+</sup>,19.58), 182(38.54), 122(53.49), 94(100), 82(9.95), 43(15.63).</p>
+      <p>Anal. Calc for C<sub>18</sub>H<sub>23</sub>NO<sub>4</sub>: C 68.14, H 7.26, N 4.42. Found C 67.76, H 7.26, N 4.32.</p>
+    </body>
+  <back>
+  <app-group>										
+  <app id="app1-molbank-2003-M335">										
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M335-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M335-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>										
+    <supplementary-material id="molbank-2003-M335-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M335-s001.mol">										
+   <label>Supplementary File 2</label>
+</supplementary-material>										
+    </app>										
+</app-group>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>The financial support of Shanghai Municipal Educational Committee is acknowledged.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2003-M335">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z. N.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Universitatis Medicinalis Secondae Shanghai</source>
+          <year>1996</year>
+          <volume>16</volume>
+          <fpage>1</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M335">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H. N.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>Z. H. J.</given-names>
+            </name>
+          </person-group>
+          <source>Shanghai Second Medical University</source>
+          <year>1999</year>
+          <volume>11</volume>
+          <fpage>51</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2003-M335">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yan</surname>
+              <given-names>Z. H.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Valler</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H. Z.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z. N.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Universitatis Medicinalis Secondae Shanghai</source>
+          <year>2001</year>
+          <volume>21</volume>
+          <fpage>199</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from the Authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

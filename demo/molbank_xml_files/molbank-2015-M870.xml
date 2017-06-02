@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M870</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M870</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-(3,4-Dihydroxyphenyl)-8-hydroxy-2<italic>H</italic>-chromen-2-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Svinyarov</surname>
+            <given-names>Ivan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bogdanov</surname>
+            <given-names>Milen</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M870" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M870">Faculty of Chemistry and Pharmacy, University of Sofia &#x201C;St. Kl. Ohridski&#x201D;, 1, James Bourchier Blvd., 1164 Sofia, Bulgaria; E-Mail: <email>ivansvinyarov@abv.bg</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M870"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>mbogdanov@chem.uni-sofia.bg</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>10</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M870</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>10</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>We report a novel protocol for the synthesis of 3-(3,4-dihydroxyphenyl)-8-hydroxy-2<italic>H</italic>-chromen-2-one via demethylation/delactonization/elimination/lactonization/decarboxylation domino reaction sequence of diastereomeric mixture of <italic>cis</italic>- and <italic>trans</italic>-3-(2,3-dimethoxyphenyl)-6,7-dimethoxy-1-oxoisochroman-4-carboxylic acids in boiling HBr/AcOH. The structure of the target compound was established for the first time by means of spectral methods such as <sup>1</sup>H-, <sup>13</sup>C-, DEPT-135-NMR, IR and HRMS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>polyhydroxylated 3-arylcoumarins</kwd>
+        <kwd>3,4-dihydroisocoumarin</kwd>
+        <kwd>domino reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M870" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Coumarins are a large class of oxygenated heterocyclic secondary metabolites that are biosynthesized by plants and fruits <italic>de novo</italic> [<xref ref-type="bibr" rid="B1-molbank-2015-M870">1</xref>] as a defense response to stress (drought and cold), wound, viral infection or invasion by bacterial or fungal pathogens [<xref ref-type="bibr" rid="B2-molbank-2015-M870">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M870">3</xref>]. Natural 3-arylcoumarins are known to display a wide range of biological activities [<xref ref-type="bibr" rid="B4-molbank-2015-M870">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M870">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M870">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M870">7</xref>], such as anti-inflammatory, anticoagulant, anticancer, vasorelaxant, and antiviral, to name just a few. However, it is noteworthy that coumarins are produced only at a nanogram scale in plants, thus showing the need for the development of methods for their rational synthesis. In this regards, herein we report a novel protocol for the facile synthesis of polyhydroxylated 3-arylcoumarin from 3-(2-methoxyphenyl)-1-oxoisochroman-4-carboxylic acids in the presence of hydrobromic acid.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M870" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>It is a well-known fact, that domino reactions are a powerful bond-forming tool that allows the preparation of complex molecules in a one-pot sequential and efficient manner. In a recent our articles, we demonstrated that polyhydroxylated <italic>cis</italic>-restricted stilbenes [<xref ref-type="bibr" rid="B8-molbank-2015-M870">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M870">9</xref>] or 3-arylcoumarins (<bold>2</bold>) bearing carboxylic function in their structure [<xref ref-type="bibr" rid="B10-molbank-2015-M870">10</xref>] can be obtained via one-pot procedure from diastereomeric mixture of methoxylated <italic>cis</italic>- and <italic>trans</italic>-3-aryl-3,4-dihydroisocoumarin-4-carboxylic acids [<xref ref-type="bibr" rid="B11-molbank-2015-M870">11</xref>] by treatment with BBr<sub>3</sub>. However, just recently we observed that replacement of BBr<sub>3</sub> with HBr as a demethylating agent leads to a subsequent reaction, which produces decarboxylated 3-arylcoumarin derivative&#x2014;the title compound <bold>3</bold> (<xref ref-type="scheme" rid="molbank-2015-M870-sch001">Scheme 1</xref>). Its synthesis from 2-(2,3-dimethoxyphenyl)-1-(3,4-dimethoxyphenyl)acrylonitrile in neat pyridine hydrochloride had been previously reported elsewhere [<xref ref-type="bibr" rid="B12-molbank-2015-M870">12</xref>], but detailed experimental procedure, as well as spectral data from <sup>1</sup>H- and <sup>13</sup>C-NMR analyses were not provided. In this regard, herein we report a novel approach for the synthesis of <bold>3</bold> via domino transformation (<italic>cf.</italic> <xref ref-type="scheme" rid="molbank-2015-M870-sch002">Scheme 2</xref>) consisting of five sequential steps, including demethylation, lactone ring opening, elimination, isomerization, lactone ring closure and decarboxylation reactions. The main part of this mechanism was deduced on the base of our previous experiments (for details see [<xref ref-type="bibr" rid="B10-molbank-2015-M870">10</xref>]) and the starting diastereomeric mixture of <italic>cis-</italic> and <italic>trans</italic>-3-(2,3-dimethoxyphenyl)-6,7-dimethoxy-1-oxoisochroman-4-carboxylic acids (<bold>1</bold>) was obtained in 10 min from 6,7-dimetoxihomophthalic anhydride and 2,3-dimethoxybenzaldehyde in presence of DMAP/CH<sub>2</sub>Cl<sub>2</sub> [<xref ref-type="bibr" rid="B8-molbank-2015-M870">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M870">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M870">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2015-M870">11</xref>]. It has to be also mentioned that the target coumarin <bold>3</bold> was isolated in a high purity (&gt;99%) and yield (92%) just by filtration at the end of the reaction, the latter suggesting the proposed reaction credible for the synthesis of a series of polyhydroxylated coumarin derivatives from readily available starting materials at a low cost.</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M870">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M870">
+        <title>3.1. General Information</title>
+        <p>All chemicals used in this study were purchased from Sigma Aldrich (FOT, Sofia, Bulgaria). Melting points were determined on a Kofler microscope Boetius PHMK 0.5 (VEB Kombinat Nagema, Radebeul, Germany). The reactions were monitored by means of thin layer chromatography (TLC) on pre-coated polyesters sheets POLIGRAM<sup>&#xAE;</sup> SIL G/UV<sub>254</sub> (Merck, Darmstadt, Germany); spots were visualized with UV light. The IR spectra were acquired in Nujol on a Specord 75 (Analytik Jena, Jena, Germany) and are reported in reciprocal centimeters. NMR spectra were recorded on a Bruker Avance (250.13 MHz and 62.90 MHz for <sup>1</sup>H and <sup>13</sup>C, respectively,Bruker BioSpin GmbH, Rheinstetten, Germany) using DMSO-<italic>d</italic><sub>6</sub> as a solvent and TMS as an internal standard. The chemicals shifts (&#x3B4;) are given in ppm relative to tetramethylsilane as an internal standard and coupling constants (<italic>J</italic>) values are reported in Hz. The exact mass of compound <bold>3</bold> was determined by HRMS analyses on DFS High Resolution GC/MS (Thermo, ACM2, Sofia, Bulgaria), after derivatization with diazomethane.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M870">
+        <title>3.2. 3-(3,4-Dihydroxyphenyl)-8-hydroxy-2H-chromen-2-one</title>
+        <p>To a solution of <italic>cis</italic>-/<italic>trans</italic>-3-(2,3-dimethoxyphenyl)-6,7-dimethoxy-1-oxoisochroman-4-carboxylic acid (1.0 g, 2.6 mmol) (<bold>1</bold>) in acetic acid (4 mL), 48% HBr (5 mL) was added and the resulting mixture was stirred under reflux (130 &#xB0;C) 18 h. At the end of the reaction (TLC), the reaction mixture was poured over grinded ice (50 g) and stirred for additional 30 min. The crystallized coumarin <bold>3</bold> was then filtered off, washed with deionized water and dried at 100 &#xB0;C under reduced pressure. The obtained in this way coumarin <bold>3</bold> was recrystallized from acetic acid/water prior to spectral characterization (For NMR spectra see <xref ref-type="app" rid="app1-molbank-2015-M870">Supplementary materials</xref>).</p>
+        <p>Yield: 0.64 g (92%), greenish amorphous crystals, m.p. 278&#x2013;280 &#xB0;C. Lit. m.p. 255 &#xB0;C (as monohydrate, Ref. [<xref ref-type="bibr" rid="B12-molbank-2015-M870">12</xref>]).</p>
+        <p><sup>1</sup>H-NMR (250.13 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 6.81 (1H, d, <sup>3</sup><italic>J</italic><sub>H,H</sub> = 8.3 Hz, =CH&#x2013;), 7.02&#x2013;7.10 (2H, m, =CH&#x2013;), 7.09&#x2013;7.21 (2H, m, =CH&#x2013;), 7.24 (1H, d, <sup>3</sup><italic>J</italic><sub>H,H</sub> = 2.2 Hz, =CH&#x2013;), 8.04 (1H, s, =CH&#x2013;) 9.17 (2H, brs, OH), 10.07 (1H, brs, OH).</p>
+        <p><sup>13</sup>C-NMR (62.90 &#x41C;Hz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 115.2 (=CH&#x2013;), 115.9 (=CH&#x2013;), 117.3 (=CH&#x2013;), 118.2 (=CH&#x2013;), 119.8 (=CH&#x2013;), 120.6 (C), 124.3 (=CH&#x2013;), 125.6 (C), 126.6 (C), 138.7 (=CH&#x2013;), 141.2 (C), 144.1 (C), 144.7 (C), 146.1 (C), 159.6 (C).</p>
+        <p>IR: <italic>&#x3BD;</italic><sub>&#x41E;&#x2013;&#x41D;</sub> = 3480&#x2013;2400 cm<sup>&#x2212;1</sup>, <italic>&#x3BD;</italic><sub>C=O</sub> = 1700 cm<sup>&#x2212;1</sup>.</p>
+        <p>HRMS (EI): <italic>m</italic>/<italic>z</italic> Calculated for C<sub>18</sub>H<sub>16</sub>O<sub>5</sub>: 312.09977. Found: 312.09812.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M870">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M870-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M870-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M870-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M870-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M870-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M870-s002.pdf">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The financial support of the National Science Fund of Bulgaria at the Ministry of Education, Youth and Science (project DMU-03-10/2011) is greatly acknowledged by the authors. The authors are also thankful to Mrs. Silviya Stoykova for performing MS analyses.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Ivan Svinyarov and Milen Bogdanov contributed equally to this work.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M870">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Est&#xE9;vez-Braun</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gonz&#xE1;lez</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Coumarins</article-title>
+          <source>Nat. Prod. Rep.</source>
+          <year>1997</year>
+          <volume>14</volume>
+          <fpage>465</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="doi">10.1039/np9971400465</pub-id>
+          <pub-id pub-id-type="pmid">9364778</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M870">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mansfield</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimicrobial compounds and resistance: The role of phytoalexins and phytoanticipins</article-title>
+          <source>Mechanisms of Resistance to Plant Diseases</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Slusarenko</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Fraser</surname>
+              <given-names>R.S.S.</given-names>
+            </name>
+            <name>
+              <surname>van Loon</surname>
+              <given-names>L.C.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Kluwer Academic Publishers</publisher-name>
+          <publisher-loc>Dordrecht, The Netherlands</publisher-loc>
+          <year>2000</year>
+		  <comment>Chapter 7</comment>
+		  <fpage>325</fpage>
+          <lpage>370</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M870">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gnonlonfin</surname>
+              <given-names>G.J.B.</given-names>
+            </name>
+            <name>
+              <surname>Sanni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Brimer</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review scopoletin&#x2014;Coumarin phytoalexin with medicinal properties</article-title>
+          <source>Crit. Rev. Plant Sci.</source>
+          <year>2012</year>
+          <volume>31</volume>
+          <fpage>47</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1080/07352689.2011.616039</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M870">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nikhil</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Shikhra</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Anil</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Prakish</surname>
+              <given-names>N.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diverse pharmacological activities of 3-substituted coumarins: A review</article-title>
+          <source>Int. Res. J. Pharm.</source>
+          <year>2012</year>
+          <volume>3</volume>
+          <fpage>24</fpage>
+          <lpage>29</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M870">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riveiro</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>de Kimpe</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Moglioni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>V&#xE1;zquez</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Monczor</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Shayo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Davio</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Coumarins: Old compounds with novel promising therapeutic perspectives</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2010</year>
+          <volume>17</volume>
+          <fpage>1325</fpage>
+          <lpage>1338</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986710790936284</pub-id>
+          <pub-id pub-id-type="pmid">20166938</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M870">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fylaktakidou</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hadjipavlou-Litina</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Litinas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nicolaides</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural and synthetic coumarin derivatives with anti-inflammatory/antioxidant activities</article-title>
+          <source>Curr. Pharm. Des.</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>3813</fpage>
+          <lpage>3833</lpage>
+          <pub-id pub-id-type="doi">10.2174/1381612043382710</pub-id>
+          <pub-id pub-id-type="pmid">15579073</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M870">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoult</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Pay&#xE1;</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pharmacological and biochemical actions of simple coumarins: Natural products with therapeutic potential</article-title>
+          <source>Gen. Pharmacol.</source>
+          <year>1996</year>
+          <volume>27</volume>
+          <fpage>713</fpage>
+          <lpage>722</lpage>
+          <pub-id pub-id-type="doi">10.1016/0306-3623(95)02112-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M870">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miliovsky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Svinyarov</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Mitrev</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Evstatieva</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nikolova</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Chochkova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bogdanov</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel one-pot synthesis and preliminary biological activity evaluation of <italic>cis</italic>-restricted polyhydroxy stilbenes incorporating protocatechuic acid and cinnamic acid fragments</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>66</volume>
+          <fpage>185</fpage>
+          <lpage>192</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2013.05.040</pub-id>
+          <pub-id pub-id-type="pmid">23796767</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M870">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miliovsky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Svinyarov</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Prokopova</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Batovska</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Stoyanov</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bogdanov</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antioxidant activity of polyhydroxylated <italic>trans</italic>-restricted 2-arylcinnamic acids</article-title>
+          <source>Molecules</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>2555</fpage>
+          <lpage>2575</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules20022555</pub-id>
+          <pub-id pub-id-type="pmid">25648597</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M870">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Svinyarov</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Bogdanov</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-pot synthesis and radical scavenging activity of novel polyhydroxylated 3-arylcoumarins</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2014</year>
+          <volume>78</volume>
+          <fpage>198</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2014.03.053</pub-id>
+          <pub-id pub-id-type="pmid">24681984</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M870">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bogdanov</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Palamareva</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>cis</italic>-/<italic>trans</italic>-Isochromanones. DMAP induced cycloaddition of homophthalic anhydride and aldehydes</article-title>
+          <source>Tetrahedron</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>2525</fpage>
+          <lpage>2530</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2004.01.040</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M870">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buu-Hoi</surname>
+              <given-names>N.P.</given-names>
+            </name>
+            <name>
+              <surname>Saint-Ruf</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Lobert</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxygen heterocycles. Part XIV. Hydroxylated 3-aryl and 3-pyridylcoumarins</article-title>
+          <source>J. Chem. Soc. C</source>
+          <year>1969</year>
+          <volume>16</volume>
+          <fpage>2069</fpage>
+          <lpage>2070</lpage>
+          <pub-id pub-id-type="doi">10.1039/J39690002069</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2015-M870-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M870-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 3-(3,4-dihydroxyphenyl)-8-hydroxy-2<italic>H</italic>-chromen-2-one (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M870-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M870-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M870-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Proposed reaction mechanism for synthesis of 3-arylcoumarin <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M870-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

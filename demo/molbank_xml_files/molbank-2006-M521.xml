@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M521</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M521</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The First Example of Oxidative Nucleophilic Substitution of Hydrogen in <italic>meso</italic>-Aryl Ring of the 5,10,15,20-Tetraphenylporphyrin Derivatives</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mikus</surname>
+            <given-names>Agnieszka</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kisieli&#x144;ska</surname>
+            <given-names>Edyta</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ostrowski</surname>
+            <given-names>Stanis&#x142;aw</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M521" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M521">Institute of Chemistry, University of Podlasie, ul. 3 Maja 54, 08-110 Siedlce, Poland E-mail: <underline><email>stan@ap.siedlce.pl</email></underline></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M521"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>6</issue>
+      <elocation-id>M521</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>10</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>10</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 <underline>MDPI</underline>.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A synthesis of [2-nitro-5-(10,15,20-triphenylporphyrin-5-yl)-phenyl]phenyl-acetonitrile zinc complex by the reaction of the respective nitroporphyrin with the anion of benzyl cyanide, followed by addition of DDQ, is described. This is the first example of this type of process in the nitrophenyl side ring of <italic>meso</italic>-tetraarylporphyrin derivatives.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Porphyrins</kwd>
+		<kwd>Carbanions</kwd>
+		<kwd>Oxidative Nucleophilic Substitution of Hydrogen</kwd>
+		<kwd>Zinc</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The synthesis of unsymmetrical, double functionalized in <italic>meso</italic>-aryl ring, porphyrins is of significant importance due to their potential application as sensitizers in photodynamic cancer therapy (PDT).<sup><xref ref-type="bibr" rid="B1-molbank-2006-M521">1</xref></sup></p>
+      <p>Amongst other methods, a very attractive one seems to be oxidative nucleophilic substitution of hydrogen (ONSH<sup><xref ref-type="bibr" rid="B2-molbank-2006-M521">2</xref></sup>) in nitrophenyl moiety of the respective starting porphyrin. Herein, we present the first example of this type of functionalization in the reaction of 5-(4-nitrophenyl)-10,15,20-triphenylporphyrin zinc complex<sup><xref ref-type="bibr" rid="B3-molbank-2006-M521">3</xref></sup> with phenylacetonitrile carbanion (in DMF, at room temperature) followed by addition of DDQ. This leads to the substitution of hydrogen product, in the position <italic>ortho</italic>- to the NO<sub>2</sub> group, in 35% yield.</p>
+	  <fig id="molbank-2006-M521-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M521-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption><p>&#xA0;</p></caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M521-sch001.tif"/>
+      </fig>
+      <p>To a stirred solution of <italic>t</italic>-BuOK (71 mg, 0.63 mmol) in anhydrous DMF (5 mL, under argon), a solution of 5-(4-nitrophenyl)-10,15,20-triphenylporphyrin zinc(II)<sup><xref ref-type="bibr" rid="B3-molbank-2006-M521">3</xref></sup> (<bold>1</bold>; 50 mg, 0.069 mmol) and benzyl cyanide (19 mg, 0.16 mmol) in DMF (3 mL) was added dropwise <italic>via</italic> syringe at room temperature during <italic>ca</italic> 2 min. After an additional 2 min of stirring, DDQ (23 mg, 0.10 mmol) was added in a one portion and the mixture was stirred for 3 min. Then, the mixture was poured into 3% HCl containing ice (80 mL). The precipitate was filtered, washed with water (3 &#xD7; 15 mL), and then dissolved in CHCl<sub>3</sub> (40 mL). After drying with anhydrous MgSO<sub>4</sub> and evaporation of the solvent, the residue was chromatographed (silica gel 230-400 mesh; eluent: CHCl<sub>3</sub> / <italic>n</italic>-hexane, 2: 1) to give: starting porphyrin <bold>1</bold> &#x2013; 15.4 mg (31%), and product <bold>3</bold> &#x2013; 13.9 mg (24%; 35% for recovered substrate).</p>
+      <p>Melting point: &gt; 300 &#xB0;C</p>
+      <p>IR (CH<sub>2</sub>Cl<sub>2</sub>, cm<sup>-1</sup>): 2246 (CN), 1598, 1583, 1525 (asym. NO<sub>2</sub>), 1487, 1441, 1340 (sym. NO<sub>2</sub>).</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>, 200 MHz): 9.04 (d, <italic>J</italic> = 4.8 Hz, 1 H, H<sup>&#x3B2;</sup>-pyrrole), 8.99-8.94 (m, 5 H, H<sup>&#x3B2;</sup>-pyrrole), 8.89 (d, <italic>J</italic> = 4.8 Hz, 1 H, H<sup>&#x3B2;</sup>-pyrrole), 8.69 (d, <italic>J</italic> = 4.8 Hz, 1 H, H<sup>&#x3B2;</sup>-pyrrole), 8.65 (d, <italic>J</italic> = 1.6 Hz, 1 H, H-2 of H-Ar(NO<sub>2</sub>)), 8.49 (part of AB system, <italic>J</italic> = 8.3 Hz, 1 H, H-5 of H-Ar(NO<sub>2</sub>)), 8.40 (part of AB system coupled with another proton, <italic>J</italic> = 8.3 Hz, 1.6 Hz, 1 H, H-6 of H-Ar(NO<sub>2</sub>)), 8.28-8.16 (m, 6 H, H-Ph), 7.86-7.68 (m, 9 H, H-Ph), 7.58-7.31 (m, 5 H, CH(CN)<underline>Ph</underline>), 6.54 (s, 1 H, C<underline>H</underline>(CN)).</p>
+      <p>UV-VIS (CHCl<sub>3</sub>): &#x3BB;<sub>max</sub> (log <italic>&#x3B5;</italic>): 589.5 (3.79), 548.0 (4.47), 510.5 (3.70), 418.5 (5.55, Soret band), 348.0 nm (4.20).</p>
+      <p>MS (EI), <italic>m/z</italic> (% rel. int.): 836 (1.0, M<bold><sup>+</sup></bold><bold>&#x2D9;</bold>), 810 (0.9, M-CN), 733 (0.5), 678 (2), 677 (4), 676 (3), 675 (4), 674 (1.1), 77 (41), 44 (100, CO<sub>2</sub><bold><sup>+</sup></bold>).</p>
+      <p>MS (ESI), <italic>m/z</italic> (% rel. int.): 842 (11), 841 (16), 840 (46), 839 (50), 838 (80), 837 (57), 836 (100) [isotopic M<bold><sup>+</sup></bold>]. The molecular formula was confirmed by comparing the theoretical and experimental isotope patterns for the M<bold><sup>+</sup></bold> ion (C<sub>52</sub>H<sub>32</sub>N<sub>6</sub>O<sub>2</sub>Zn) &#x2013; found to be identical within the experimental error limits.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M521">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M521-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M521-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M521-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M521-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M521">
+        <label>1.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsi</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Rosenthal</surname>
+              <given-names>D.I.</given-names>
+            </name>
+            <name>
+              <surname>Glatstein</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Drugs</source>
+          <year>1999</year>
+          <volume>57</volume>
+          <fpage>725</fpage>
+          <lpage>734</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nyman</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Hynninen</surname>
+              <given-names>P.H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Photochem. Photobiol. B</source>
+          <year>2004</year>
+          <volume>73</volume>
+          <fpage>1</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jphotobiol.2003.10.002</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M521">
+        <label>2.</label>
+        <citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>M&#x105;kosza</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Stali&#x144;ski</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1998</year>
+          <volume>54</volume>
+          <fpage>8797</fpage>
+          <lpage>8810</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>M&#x105;kosza</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Stali&#x144;ski</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Chem.</source>
+          <year>1999</year>
+          <volume>73</volume>
+          <fpage>151</fpage>
+          <lpage>161</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M521">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ostrowski</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mikus</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shim</surname>
+              <given-names>Y.K.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.-Ch.</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>E.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K.-I.</given-names>
+            </name>
+            <name>
+              <surname>Olejnik</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocycles</source>
+          <year>2002</year>
+          <volume>57</volume>
+          <fpage>1615</fpage>
+          <lpage>1626</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

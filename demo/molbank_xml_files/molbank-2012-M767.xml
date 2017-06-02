@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M767</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M767</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-Hydroxy-1-methyl-7-(propan-2-yl)-4-azatricyclo [5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Szulczyk</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M767" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Struga</surname>
+            <given-names>Marta</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M767">Department of Medical Chemistry, 1st Faculty of Medicine, Medical University of Warsaw, 3 Oczki Street, 02-007 Warsaw, Poland</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M767"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>daniel.szulczyk@wum.edu.pl.</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>07</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>3</issue>
+      <elocation-id>M767</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>03</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>07</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>1-Methyl-7-(propan-2-yl)-4-oxatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione (<bold>1</bold>) as starting material and hydroxylamine were used for the preparation of the title compound 4-hydroxy-1-methyl-7-(propan-2-yl)-4-azatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione (<bold>2</bold>). This product was characterized by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, MS and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>4-oxatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene</kwd>
+        <kwd>4-azatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene</kwd>
+        <kwd>maleimides</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2012-M767" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The extensively studied class of cyclic imides is known for a wide spectrum of biological activities. Less examined, but also valuable for their activities are <italic>N</italic>-hydroxy analogues. They were synthesized as potential &#x3B2;-adrenolytic [<xref ref-type="bibr" rid="B1-molbank-2012-M767">1</xref>], anxiolytic [<xref ref-type="bibr" rid="B2-molbank-2012-M767">2</xref>], anti-inflammatory and analgesic agents [<xref ref-type="bibr" rid="B3-molbank-2012-M767">3</xref>]. Some of the reported derivatives possess metal-chelating abilities, and a number of these compounds inhibits the growth of microorganisms [<xref ref-type="bibr" rid="B4-molbank-2012-M767">4</xref>]. Additionally, cyclic imides were tested <italic>in vitro</italic> against various bacteria including Gram-positive <italic>cocci</italic>, Gram-negtive rods and fungi species (e.g., <italic>Candida</italic>) [<xref ref-type="bibr" rid="B5-molbank-2012-M767">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M767">6</xref>]. The large group of 4-azatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene was tested for their affinity to 5-HT<sub>1A</sub> and 5-HT<sub>2A</sub> receptors [<xref ref-type="bibr" rid="B7-molbank-2012-M767">7</xref>]. The most popular method to produce cyclic imides and <italic>N</italic>-hydroxy analogues is the well-known Diels-Alder reaction [<xref ref-type="bibr" rid="B8-molbank-2012-M767">8</xref>], but this work describes another conventional method for the synthesis of 4-azatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene derivatives [<xref ref-type="bibr" rid="B9-molbank-2012-M767">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2012-M767">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2012-M767">11</xref>]. This one is reserved for <italic>N</italic>-hydroxy derivatives. The aim of our present work was to prepare 4-hydroxy-1-methyl-7-(propan-2-yl)-4-aza&#xAD;tricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione (<bold>2</bold>), starting from the corresponding anhydride 1-methyl-7-(propan-2-yl)-4-oxatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione (<bold>1</bold>) using an aqueous solution of hydroxylamine (<xref ref-type="scheme" rid="molbank-2012-M767-sch001">Scheme 1</xref>).</p>
+    </sec>
+    <sec id="sec2-molbank-2012-M767" sec-type="methods">
+      <title>2. Experimental</title>
+      <sec id="sec2dot1-molbank-2012-M767">
+        <title>2.1. General</title>
+        <p>The melting point was determined in an open capillary and is uncorrected. The NMR spectra were recorded on a Bruker AVANCE DMX400 spectrometer, operating at 400 MHz (<sup>1</sup>H-NMR) and 100 MHz (<sup>13</sup>C-NMR). The chemical shift values are expressed in ppm relative to TMS as an internal standard. Mass spectra (ESI) measurements were carried out on a Waters ZQ Micro-mass instrument with a quadrupol mass analyzer. The spectra were recorded in positive ion mode at a declustering potential of 40&#x2013;60 V. The sample was previously separated on a UPLC column (C18) using a Waters UPLC ACQUITY<sup>TM</sup> system connected with a DPA detector. Flash chromatography was performed on Merck silica gel 60 (200&#x2013;400 mesh) using a chloroform/methanol (19:1 vol) mixture as eluent. Analytical TLC was carried out on silica gel F<sub>254</sub> (Merck) plates (0.25 mm thickness). </p>
+      </sec>
+      <sec id="sec2dot2-molbank-2012-M767">
+        <title>2.2. Synthesis of 4-Hydroxy-1-methyl-7-(propan-2-yl)-4-azatricyclo[5.2.2.0<sup>2,6</sup>]undec-8-ene-3,5-dione <italic>(<bold>2</bold>)</italic></title>
+        <p>A mixture of the anhydride <bold>1</bold> (0.234 g, 1 mmol), K<sub>2</sub>CO<sub>3</sub> (0.20 g, 1.4 mmol), NH<sub>2</sub>OH&#xB7;HCl (0.20 g, 2.9 mmol) and H<sub>2</sub>O (5 mL) was refluxed for 5 h. The precipitate was filtered, washed with water, dried and purified by column chromatography (silica gel) to obtain a white solid.</p>
+        <p>Yield: 90%.</p>
+        <p>m.p.: 139&#x2013;140 &#xB0;C.</p>
+        <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 5.97 (d, 1H, CH=, <italic>J</italic> = 8.4 Hz); 5.89 (d, 1H, CH=, <italic>J</italic> = 8.4 Hz); 4.18 (br s, 1H, OH); 2.93 (d, 1H, CH-C=O, <italic>J</italic> = 7.6 Hz); 2.58&#x2013;2.51 (m, 2H, CH-C=O, CH=); 1.50&#x2013;1.40 (m, 2H, CH<sub>2</sub>); 1.46 (s, 3H, CH<sub>3</sub>); 1.36&#x2013;1.24 (m, 2H, CH<sub>2</sub>); 1.08 (d, 3H, CH<sub>3</sub>, <italic>J</italic> = 6.8 Hz); 0.98 (d, 3H, CH<sub>3</sub>, <italic>J</italic> = 6.8 Hz).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm):174.3, 172.5, 136.3, 48.9, 47.7, 45.1, 43.7, 36.9, 34.2, 29.7, 22.6, 18.4, 16.9.</p>
+        <p>ESI MS: <italic>m/z</italic> = 272.4 [M+Na] <sup>+</sup> (100%).</p>
+        <p>Elemental analysis: Calculated for C<sub>14</sub>H<sub>19</sub>NO<sub>3</sub> (249.306): C, 67.45%, H, 7.68%, N, 5.62%. Found: C, 67.48%, H, 7.50%, N, 5.72%. </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M767">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M767-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M767-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M767-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M767-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2012-M767">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jarocka</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new derivatives of 1-hydroxymethyl and 1-methoxymethyl-dibenzo[e.h]bicyclo[2.2.2]-octane-2,3-dicarboximide with an expected &#x3B2;-adrenolytic activity</article-title>
+          <source>Acta Polon. Pharm.</source>
+          <year>2000</year>
+          <volume>57</volume>
+          <fpage>S60</fpage>
+          <lpage>S62</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M767">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Krawiecka</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of N-substituted cyclic imides with an expected anxiolytic activity. XXIV. Derivatives of N-hydroxy-1-methoxybicyclo[2.2.2]oct-5-ene-2,3-dicarboximide</article-title>
+          <source>Acta Polon. Pharm.</source>
+          <year>2003</year>
+          <volume>60</volume>
+          <fpage>177</fpage>
+          <lpage>182</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M767">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abu-Hashem</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Gouda</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Anti-inflammatory and Analgesic Evaluation of Certain New 3a,4,9,9a-Tetrahydro-4,9-benzenobenz[f]isoindole-1,3-diones</article-title>
+          <source>Arch. Pharm. Chem. Life Sci.</source>
+          <year>2011</year>
+          <volume>344</volume>
+          <fpage>543</fpage>
+          <lpage>551</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.201100020</pub-id>
+          <pub-id pub-id-type="pmid">21681809</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M767">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Matsuo</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nakanishi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Takase</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Otsuki</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of Cyclic Hydroxamic Acid Derivatives, and Their Chelating Abilities and Biological Activities</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1988</year>
+          <volume>36</volume>
+          <fpage>2323</fpage>
+          <lpage>2330</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.36.2323</pub-id>
+          <pub-id pub-id-type="pmid">3240464</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M767">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Struga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Stefanska</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zimniak</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Koziol</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial activity of bis-[2-hydroxy-3-(1,7,8,9,10-pentamethyl-3,5-dioxo-4-aza-tricyclo[5.2.1.02,6]dec-8-en-4-yloxy)-propyl]-dimethyl-ammonium chloride</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>1309</fpage>
+          <lpage>1314</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.08.014</pub-id>
+          <pub-id pub-id-type="pmid">17950957</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M767">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Struga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Krawiecka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Stefa&#x144;ska</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Miroslaw</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kozio&#x142;</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Structural Characterisation of Derivatives of Tricyclo[5.2.1.02,6]dec-8-ene-3,5-dione with an Expected Antimicrobial Activity</article-title>
+          <source>J. Chin. Chem. Soc.</source>
+          <year>2008</year>
+          <volume>55</volume>
+          <fpage>1258</fpage>
+          <lpage>1265</lpage>
+          <pub-id pub-id-type="doi">10.1002/jccs.200800187</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M767">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bojarski</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Koziol</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kuran</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jagiello-Wojtowicz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Chodkowska</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and serotonin receptor activity of the arylpiperazine alkyl/propoxy derivatives of new azatricycloundecanes</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>152</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.03.019</pub-id>
+          <pub-id pub-id-type="pmid">18486277</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M767">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ogbomo</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Burnell</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>cis</italic>-3,5-Cyclohexadiene-1,2-diol derivatives: Facial selectivity in their Diels&#x2013;Alder reactions with ethylenic, acetylenic and azo dienophiles</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2006</year>
+          <volume>4</volume>
+          <fpage>3838</fpage>
+          <lpage>3848</lpage>
+          <pub-id pub-id-type="doi">10.1039/B607938E</pub-id>
+          <pub-id pub-id-type="pmid">17024292</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M767">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fujimoto</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sakai</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Les Hydrazides et Hydroxamates Intramoleculaires. III. Sur la Synthese des Homologues d&#x2019;Hydroxy-2 <italic>cis</italic>-Perhydroisoindolinedione-1,3</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1968</year>
+          <volume>16</volume>
+          <fpage>622</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.16.622</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M767">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stolberg</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Mosher</surname>
+              <given-names>W.A.</given-names>
+            </name>
+            <name>
+              <surname>Wagner-Jauregg</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of a Series of Vicinally Substituted Hydroxamic Acids</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1957</year>
+          <volume>79</volume>
+          <fpage>2615</fpage>
+          <lpage>2617</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01567a069</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M767">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Miarka</surname>
+              <given-names>S.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stereospecific Lossen Rearrangements</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1959</year>
+          <volume>24</volume>
+          <fpage>1293</fpage>
+          <lpage>1296</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01091a035</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2012-M767-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M767-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-hydroxy-1-methyl-7-(propan-2-yl)-4-azatricyclo[5.2.2.0<sup>2,6</sup>]un&#xAD;dec-8-ene-3,5-dione.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M767-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

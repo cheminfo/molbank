@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M303</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M303</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>8a-Formyloxy-14,15-dinorlabdan-13-one [(-)-4-((1<italic>R</italic>,2<italic>R</italic>,4a<italic>S</italic>,8a<italic>S</italic>)-2-Formyloxy-2,5,5,8a-tetramethyldecahydro-1-naphthalenyl)-2-butanone] </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Castro</surname>
+            <given-names>Juan M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Salido</surname>
+            <given-names>Sofia</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Altarejos</surname>
+            <given-names>Joaquin</given-names>
+          </name>
+          <xref rid="c1-molbank-2003-M303" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nogueras</surname>
+            <given-names>Manuel</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sanchez</surname>
+            <given-names>Adolfo</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M303">Departamento de Qu&#xED;mica Inorg&#xE1;nica y Org&#xE1;nica, Facultad de Ciencias Experimentales, Universidad de Ja&#xE9;n, 23071 Ja&#xE9;n, Spain</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M303">Tel.: 34-953-002743, fax: 34-953-012141, E-mail: <email>jaltare@ujaen.es</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>1</issue>
+      <elocation-id>M303</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>12</month>
+          <year>2001</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+      </permissions>
+      <kwd-group>
+        <kwd>Diterpenes</kwd>
+        <kwd>labdanes</kwd>
+        <kwd>cleavage of alkenes</kwd>
+        <kwd>potassium permanganate</kwd>
+        <kwd>ketones</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+   <body>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M303-i001.tif"/></p>
+    <p>To a stirred solution of a mixture of <italic>E/Z</italic> isomers <bold>1</bold> (81 mg, 0.22 mmol, 45:55 ratio) in acetone (5 mL) was added a mixture of KMnO4 (122 mg, 0.77 mmol) and anhydrous MgSO<sub>4</sub> (120 mg) at 10 &#xB0;C [<xref ref-type="bibr" rid="B1-molbank-2003-M303">1</xref>]. After stirring for 10 min reaction was allowed to warm to room temperature. Then another portion of KMnO4 (25 mg, 0.16 mmol) and anhydrous MgSO<sub>4</sub> (25 mg) was added. After 20 min the crude was filtered over Celite and the clean solution evaporated under reduced pressure to yield a residue which was solved in Et<sub>2</sub>O (25 mL). This solution was washed with brine (3&#xD7;10 mL), dried over anhydrous Na<sub>2</sub>SO<sub>4</sub> and the solvent evaporated under reduced pressure to yield a residue (61 mg) which was purified by flash chromatography on silica gel, using a 2:3 hexane/Et<sub>2</sub>O mixture as eluent, to give the title compound <bold>2</bold> (50 mg, 0.16 mmol, 73%).</p>
+      <p>Mp: 66.0-67.4 &#xB0;C (white crystals, from hexane).</p>
+      <p>[a]<sub>D</sub> = -22.3&#xB0; (c 1.01 cg&#xB7;mL<sup>-1</sup>, CHCl<sub>3</sub>).</p>
+      <p>IR (KBr, n, cm<sup>-1</sup>): 1722, 1198, 1165 (OOCH), 1696 (CO).</p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>, d, ppm): 0.79 (3H, s, Me<sub>b</sub>-4), 0.86 (3H, s, Me-10), 0.88 (3H, s, Me<sub>a</sub>-4), 1.52 (3H, s, Me-8), 2.13 (3H, s, Me-13), 0.93-1.84 (13H, m, H-1,2,3,5,6,7a,9,11), 2.43-2.69 (3H, m, Hb-7, H-12), 8.02 (1H, s, OOCH).</p>
+      <p><sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>, d, ppm): 39.48 (C-1), 18.17 (C-2), 41.67 (C-3), 33.04 (C-4), 55.50 (C-5), 19.87 (C-6), 39.48 (C-7), 88.99 (C-8), 57.95 (C-9), 39.48 (C-10), 19.26 (C-11), 46.37 (C-12), 208.98 (C-13), 29.78 (C-16), 21.03 (C-17), 33.21 (C-18), 21.32 (C-19), 15.42 (C-20), 160.28 (OOCH).</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2003-M303">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M303-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M303-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2003-M303-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M303-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>We wish to thank the Junta de Andaluc&#xED;a for financial support and the Ministerio de Educaci&#xF3;n, Cultura y Deporte for a Fellowship to J. M. Castro.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2003-M303">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leite</surname>
+              <given-names>M. A. F.</given-names>
+            </name>
+            <name>
+              <surname>Sarragiotto</surname>
+              <given-names>M. H.</given-names>
+            </name>
+            <name>
+              <surname>Imamura</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name>
+              <surname>Marsaioli</surname>
+              <given-names>A. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Absolute Configuration of Drim-9(11)-en-8-ol from Aspergillus oryzae</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1986</year>
+          <volume>51</volume>
+          <fpage>5409</fpage>
+          <lpage>5410</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00376a066</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Available from the authors and from MDPI</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

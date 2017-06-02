@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M559</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M559</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Structure of Methyl (1S, 6S) 6-(4-chlorophenyl)-4-(4-methylphenyl) cyclohex-3-en-2-one-1-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jalbout</surname>
+            <given-names>Abraham F.</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M559" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2007-M559" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2007-M559" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Contreras-Torres</surname>
+            <given-names>Flavio F.</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M559" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lobo</surname>
+            <given-names>Gabriela M.</given-names>
+          </name>
+          <xref rid="af3-molbank-2007-M559" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Charris</surname>
+            <given-names>Jaimi E.</given-names>
+          </name>
+          <xref rid="af3-molbank-2007-M559" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M559"><label>1</label>Instituto de Qu&#xED;mica, Universidad Nacional Aut&#xF3;noma de M&#xE9;xico, M&#xE9;xico D.F., A. Postal, 04510, M&#xE9;xico.</aff>
+      <aff id="af2-molbank-2007-M559"><label>2</label>Department of Chemistry, The University of Arizona, Tucson, AZ 85721 USA.</aff>
+      <aff id="af3-molbank-2007-M559"><label>3</label>Laboratorio de S&#xED;ntesis Org&#xE1;nica, Facultad de Farmacia, Universidad Central de Venezuela, Caracas 1051, Venezuela.</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M559"><label>*</label>Author to whom correspondence should be addressed. E-mail: <underline><email>ajalbout@u.arizona.edu</email></underline>; Tel: +1-520-621-6761; Fax: +1-520-621-8047</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>11</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>5</issue>
+      <elocation-id>M559</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>05</month>
+          <year>2007</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>09</month>
+          <year>2007</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2007 by MDPI (http://www.mdpi.org/).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The exploration of a simple molecule with different functionalities for the synthesis of heterocycles is a worthwhile contribution in the chemistry of heterocycles. In fact, the 6-carbetoxy-3,5-diarylcyclohexenone has been used as an effective synthon in some projected synthesis of benzoselenadiazoles/thiadiazoles<sup>1</sup>, spirocyclohexanones<sup>2</sup>, carbazol derivatives<sup>3</sup>, fused isoxazoles and pyrazoles<sup>4,5</sup>. The intermediates present in this communication has been chosen by us as a promising starting material to develop pyrazole rings with antimalarial and antibacterial activities<sup>6</sup>.</p>
+      <p>New compounds were synthesised by a base catalysed Claisen-Schmidt condensation of the 4-chloro benzaldehyde with their appropriate acetophenone. These ketones on treatment with methyl acetoacetato in presence of sodium methoxide yield Methyl (1S, 6S) 6-(4-chlorophenyl)-4-(4-methylphenyl) cyclohex-3-en-2-one-1-carboxylate <bold>2</bold> or Methyl (1S, 6S) 4,6-diphenylcyclohex-3-en-2-one-1-carboxylate <bold>3</bold> (see <xref ref-type="scheme" rid="molbank-2007-M559-sch001">Scheme 1</xref> and <uri>http://www.mdpi.org/molbank/molbank2007/m559.htmFig. 1</uri>). In the present job we report the formation of <bold>2</bold> by analysis elemental as well IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR, COSY, and HETCOR spectral and crystallographic studies. The analyses of <bold>3</bold> will be the focus of discussion in a future paper.</p>
+      <p>The IR spectra of <bold>2</bold> showed bands around 1718, 1654 and 1603 cm<sup>-1</sup> corresponding to carbonyl a,b-unsaturated, carbonyl ester and C=C bonds, respectively. The <sup>1</sup>H NMR spectra of <bold>2</bold> exhibited a doublet and doublet of triplet at 3.06 and 3.07, respectively for H<sub>4a</sub> and H<sub>4b</sub>. Proton 4a or 4b is coupling with proton in position 2. The absence of doublet corresponding to a,b-unsaturated of starter material indicates that addition reaction has indeed taken place. <sup>13</sup>C NMR confirm the presence of carbonyl of ketone and ester at 194 and 170 ppm. In addition, COSY and HETCOR confirmed the assignments. The X-Ray structure is shown in <xref ref-type="fig" rid="molbank-2007-M559-f001">Figure 1</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Melting points were determined on a Thomas micro hot stage apparatus and are uncorrected. Infrared spectra were determined as KBr pellets on a Shimadzu model 470 spectrophotometer. The <sup>1</sup>H NMR, <sup>13</sup>C NMR, COSY and HETCOR spectra were recorded using a Jeol Eclipse 270 MHz spectrometer. Chemical shifts are expressed relative to residual chloroform. Central Service of Universidad de M&#xE1;laga, M&#xE1;laga, Espa&#xF1;a performed elemental analyses, results were within &#xB1; 0.4% of predicted values for all compounds. Chemical reagents were obtained from Aldrich Chemical Co., USA. All solvents were distilled and dried with the usual desiccant.</p>
+    </sec>
+    <sec>
+      <title>X-ray Crystallographic Data Collection and Structural Determination.</title>
+      <p>Single-crystal X-ray diffraction measurement of the compound carried out with a Bruker Smart 1000 CCD diffractometer equipped with a graphite crystal monochromator situated in the incident beam for data collection at 298(2) K.  The lattice parameters were obtained by least-squares refinement of the diffraction data of 9336 reflections, and data collections were performed with Mo K&#x3B1;radiation (&#x3BB;= 0.71073 &#xC5;) by &#x3C9; scan mode in the range of 1.96 &lt; &#x3B8; &lt; 25.10&#xB0;. All of the measured independent reflections were used in the structural analysis, and semiempirical absorption corrections were applied using the SADABS program. The maximum and minimum transmission factors were 0.980 and 0.961. The program SAINT14 was used for integration of the diffraction profiles.</p>
+      <p>The structure was solved by direct methods using the SHELXS97 program of the SHELXTL package and refined with SHELXL9715. The non-hydrogen atoms were located in successive difference Fourier syntheses. The final refinement was performed by full-matrix least-squares methods with anisotropic thermal parameters for all of the non-hydrogen atoms on <italic>F2</italic>. All of the hydrogen atoms were generated theoretically onto the specific atoms and refined isotropically with fixed thermal factors. A summary of the crystallographic data and structure refinement is listed in <xref ref-type="table" rid="molbank-2007-M559-t001">Table 1</xref>. Selected bond lengths as well as bond angles of <bold>2</bold> are listed in <xref ref-type="table" rid="molbank-2007-M559-t002">Table 2</xref>.</p>
+    </sec>
+    <sec>
+      <title>General procedure for the synthesis</title>
+      <p>A mixture of sodium methoxide (catalytic), freshly distilled methyl or methyl acetoacetate (0.01 mol) and chalcone <bold>1a,b</bold> (0.01 mol) in absolute methanol 20 ml was stirred at room temperature over night. The resulting precipitate was collected off by filtration, washed with methanol, and then the crystals were washed with bidistilled water. Crystallisation from methanol solutions yields crystals suitable for single-crystal X-ray diffraction.</p>
+    </sec>
+    <sec>
+      <title>Methyl (1S, 6S) 6-(4-chlorophenyl)-4-(4-methylphenyl)cyclohex-3-en-2-one-1-carboxylate</title>
+      <p>Yield 83%; m.p. 148-150 <sup>o</sup>C; IR (cm<sup>-1</sup>, KBr): 1718 (CO), 1654 (CO), 1603 (C=C). <sup>1</sup>H NMR CDCl<sub>3</sub>: d 2.37 (s, 3H, CH<sub>3</sub>), 3.06 (d, 1H, H<sub>4a</sub>, J:12 Hz), 3.07 (dt, 1H, H<sub>4b</sub>, J:12, 3.7, 2.0 Hz), 3.59 (s, 3H, OCH<sub>3</sub>), 3.75 (m, 2H, H<sub>5,6</sub>), 6.54 (d, 1H, H<sub>2</sub>, J:1.9 Hz), 7.21 (m, 4H, Ar), 7.31 (d, 2H, Ar, J:8.4 Hz), 7.43 (d, 2H, Ar, J:8.2 Hz). <sup>13</sup>C NMR: 21,01, 35.49, 43.13, 52.02, 59.21, 123.36, 126.36, 128.83, 129.32, 129.91, 133.54, 134.74, 139.92, 141.55, 158.79, 170.12, 194.13. Anal. Calcd. For C<sub>21</sub>H<sub>19</sub>O<sub>3</sub>Cl: C, 71.02; H, 5.39. Found. C, 71.28; H, 5.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2007-M559">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M559-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M559-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2007-M559-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M559-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2007-M559">
+        <label>1.</label>
+        <note><p><citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padmavathi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Boggu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Akula</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Katta</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dandu</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Some Fused Pyrazoles and Isoxazoles</article-title>
+          <source>Molecules</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <fpage>1281</fpage>
+          <lpage>1286</lpage>
+          <pub-id pub-id-type="doi">10.3390/51201281</pub-id>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balasankar</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Gopalakrishnan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nagarajan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial activity of some 5-(4-biphenylyl)-7-aryl[3,4-d][1,2,3]-benzothiadiazoles</article-title>
+          <source>Eur. J. Med Chem.</source>
+          <year>2005</year>
+          <volume>40</volume>
+          <fpage>728</fpage>
+          <lpage>731</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B2-molbank-2007-M559">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kremslehner</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of thieno[3,2-d][1,2,3]thiadiazoles. New mechanistic aspects of the Hurd-Mori reaction</article-title>
+          <source>Heterocycles</source>
+          <year>1998</year>
+          <volume>48</volume>
+          <fpage>259</fpage>
+          <lpage>266</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-97-8015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2007-M559">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kremslehner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;llner</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Application of the Hurd-Mori reaction for the synthesis of tricyclic annelated 1,2,3-thiadiazoles</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1996</year>
+          <volume>33</volume>
+          <fpage>1759</fpage>
+          <lpage>1763</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570330635</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2007-M559">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewis</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-[(1,2,3-Thiadiazol-5-ylthio)methyl]cephalosporins</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1979</year>
+          <volume>22</volume>
+          <fpage>1214</fpage>
+          <lpage>1218</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00196a012</pub-id>
+          <pub-id pub-id-type="pmid">117106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2007-M559">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padmavathi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Sharmila</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Padmaja</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bhaskar</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient synthesis of 6,8-diarylcarbazoles via Fischer indole cyclizations</article-title>
+          <source>Heterocycl. Commun.</source>
+          <year>1999</year>
+          <volume>5</volume>
+          <fpage>451</fpage>
+          <lpage>456</lpage>
+          <pub-id pub-id-type="doi">10.1515/HC.1999.5.5.451</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2007-M559">
+        <label>6.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jalbout</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Charris</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <comment>unpublished results</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure, Scheme and Tables</title>
+      <fig id="molbank-2007-M559-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2007-M559-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Chemical synthesis of Methyl (1S, 6S) 6-(4-chlorophenyl)-4-(4-methylphenyl) cyclohex-3-en-2-one-1-carboxylate <bold>2</bold>.There, <bold>a</bold> represents to CH<sub>3</sub>COCH<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>, NaOMe, MeOH, rt. <bold>2</bold> (R<sub>1</sub>: 4-Cl; R<sub>2</sub>: 4-Me); <bold>3</bold> (R<sub>1</sub>= R<sub>2</sub>: H).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M559-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2007-M559-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>View of the structure of <bold>2</bold> with the atom numbering, showing displacement ellipsoids at the 50% probability level.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M559-g001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2007-M559-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2007-M559-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Crystallographic data for compound <bold>2</bold></p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-top:solid green;border-bottom:solid green;border-right:solid thin">Parameter</td>
+              <td align="left" valign="middle" style="border-top:solid green;border-bottom:solid green;border-right:solid thin">Compound <bold>2</bold></td>
+              <td align="left" valign="middle" style="border-top:solid green;border-bottom:solid green;border-right:solid thin">Parameter</td>
+              <td align="left" valign="middle" style="border-top:solid green;border-bottom:solid green">Compound <bold>2</bold></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin">formula</td>
+              <td align="left" valign="middle" style="border-right:solid thin">C<sub>21</sub> H<sub>19</sub> Cl O<sub>3</sub></td>
+              <td align="left" valign="middle" style="border-right:solid thin">&#x3C1;(calcd), g cm<sup>-3</sup></td>
+              <td align="left" valign="middle">1.308</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin">fw</td>
+              <td align="left" valign="middle" style="border-right:solid thin">354.81</td>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>F</italic>(000)</td>
+              <td align="left" valign="middle">744</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin">lattice</td>
+              <td align="left" valign="middle" style="border-right:solid thin">Monoclinic</td>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>&#x3BC;</italic>(Mo KR), cm<sup>-1</sup></td>
+              <td align="left" valign="middle">2.28</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>a</italic>, &#xC5;</td>
+              <td align="left" valign="middle" style="border-right:solid thin">10.949(2)</td>
+              <td align="left" valign="middle" style="border-right:solid thin">diffractometer</td>
+              <td align="left" valign="middle">APEX</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>b</italic>, &#xC5;</td>
+              <td align="left" valign="middle" style="border-right:solid thin">14.047(3)</td>
+              <td align="left" valign="middle" style="border-right:solid thin">radiatn <italic>&#x3BB;</italic>, &#xC5;</td>
+              <td align="left" valign="middle">0.71073</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>c</italic>, &#xC5;</td>
+              <td align="left" valign="middle" style="border-right:solid thin">12.343(2)</td>
+              <td align="left" valign="middle" style="border-right:solid thin">temp, &#x652; C</td>
+              <td align="left" valign="middle">25</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>&#x3B2;</italic>, deg</td>
+              <td align="left" valign="middle" style="border-right:solid thin">108.392(4)</td>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>R</italic> (<italic>I</italic> &gt; 2.00<italic>&#x3C3;</italic>(<italic>I</italic>))<italic>a</italic></td>
+              <td align="left" valign="middle">0.1331</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>V</italic>, &#xC5;<sup>3</sup></td>
+              <td align="left" valign="middle" style="border-right:solid thin">1801.4(6)</td>
+              <td align="left" valign="middle" style="border-right:solid thin"><italic>R</italic>w (all data)<italic>b</italic></td>
+              <td align="left" valign="middle">0.2143</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin">space group</td>
+              <td align="left" valign="middle" style="border-right:solid thin">P2(1)/c</td>
+              <td align="left" valign="middle" style="border-right:solid thin">no. of observs</td>
+              <td align="left" valign="middle">3212 (all data)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid green;border-right:solid thin">Z</td>
+              <td align="left" valign="middle" style="border-bottom:solid green;border-right:solid thin">4</td>
+              <td align="left" valign="middle" style="border-bottom:solid green;border-right:solid thin">no. of variables</td>
+              <td align="left" valign="middle" style="border-bottom:solid green">228</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2007-M559-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2007-M559-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Selected bond distances (&#xC5;), angles (deg) and torsion angles (deg) for compound <bold>2</bold> at 298 K</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-top:solid green; border-bottom:solid thin">Distances</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Cl(1)-C(12)</td>
+              <td align="center" valign="middle">1.748(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O(1)-C(18)</td>
+              <td align="center" valign="middle">1.217(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O(2)-C(17)</td>
+              <td align="center" valign="middle">1.189(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O(3)-C(17)</td>
+              <td align="center" valign="middle">1.320(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O(3)-C(21)</td>
+              <td align="center" valign="middle">1.454(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(1)-C(7)</td>
+              <td align="center" valign="middle">1.472(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(7)</td>
+              <td align="center" valign="middle">1.507(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)</td>
+              <td align="center" valign="middle">1.508(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(3)-C(5)</td>
+              <td align="center" valign="middle">1.503(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(3)-C(8)</td>
+              <td align="center" valign="middle">1.532(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(4)-C(20)</td>
+              <td align="center" valign="middle">1.509(8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(7)-C(10)</td>
+              <td align="center" valign="middle">1.337(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(8)-C(17)</td>
+              <td align="center" valign="middle">1.512(8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(8)-C(18)</td>
+              <td align="center" valign="middle">1.520(8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C(10)-C(18)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1.462(8)</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">angles</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(7)-C(2)-C(3)</td>
+              <td align="center" valign="middle">114.2(4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)-C(8)</td>
+              <td align="center" valign="middle">111.0(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(10)-C(7)-C(2)</td>
+              <td align="center" valign="middle">118.9(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(18)-C(8)-C(3)</td>
+              <td align="center" valign="middle">112.1(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(7)-C(10)-C(18)</td>
+              <td align="center" valign="middle">124.2(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C(10)-C(18)-C(8)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">118.0(5)</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin">torsion angles</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(7)-C(2)-C(3)-C(5)</td>
+              <td align="center" valign="middle">-179.6(4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(7)-C(2)-C(3)-C(8)</td>
+              <td align="center" valign="middle">-51.3(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)-C(5)-C(16)</td>
+              <td align="center" valign="middle">-106.7(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(8)-C(3)-C(5)-C(16)</td>
+              <td align="center" valign="middle">126.9(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)-C(5)-C(15)</td>
+              <td align="center" valign="middle">66.7(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(8)-C(3)-C(5)-C(15)</td>
+              <td align="center" valign="middle">-59.7(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(14)-C(1)-C(7)-C(10)</td>
+              <td align="center" valign="middle">151.8(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(13)-C(1)-C(7)-C(10)</td>
+              <td align="center" valign="middle">-28.9(8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(14)-C(1)-C(7)-C(2)</td>
+              <td align="center" valign="middle">-26.5(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(13)-C(1)-C(7)-C(2)</td>
+              <td align="center" valign="middle">152.8(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(3)-C(2)-C(7)-C(10)</td>
+              <td align="center" valign="middle">26.4(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(3)-C(2)-C(7)-C(1)</td>
+              <td align="center" valign="middle">-155.1(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(5)-C(3)-C(8)-C(17)</td>
+              <td align="center" valign="middle">-62.5(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)-C(8)-C(17)</td>
+              <td align="center" valign="middle">171.2(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(5)-C(3)-C(8)-C(18)</td>
+              <td align="center" valign="middle">175.1(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(3)-C(8)-C(18)</td>
+              <td align="center" valign="middle">48.8(6)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(1)-C(7)-C(10)-C(18)</td>
+              <td align="center" valign="middle">-176.8(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(2)-C(7)-C(10)-C(18)</td>
+              <td align="center" valign="middle">1.5(8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(21)-O(3)-C(17)-O(2)</td>
+              <td align="center" valign="middle">-1.0(9)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(21)-O(3)-C(17)-C(8)</td>
+              <td align="center" valign="middle">178.7(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(18)-C(8)-C(17)-O(2)</td>
+              <td align="center" valign="middle">62.7(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(3)-C(8)-C(17)-O(2)</td>
+              <td align="center" valign="middle">-61.4(7)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C(18)-C(8)-C(17)-O(3)</td>
+              <td align="center" valign="middle">-117.0(5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid green"> C(3)-C(8)-C(17)-O(3)</td>
+              <td align="center" valign="middle" style="border-bottom:solid green">119.0(5)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

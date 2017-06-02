@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M483</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M483</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>N,N-bis[(1,5-dimethylpyrazol-3-yl)methyl]para-toluidine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bouabdallah</surname>
+            <given-names>Ibrahim</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M483" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zidane</surname>
+            <given-names>Ismail</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M483">Laboratoire de Chimie Organique Physique, D&#xE9;partement de Chimie, Facult&#xE9; des Sciences, Universit&#xE9; Mohamed Premier, BP 524, 60000, Oujda, Maroc e-mail: <email>bouabib2002@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M483"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>06</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>4</issue>
+      <elocation-id>M483</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>10</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>01</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Tripod</kwd>
+		<kwd>pyrazol</kwd>
+		<kwd>ligand</kwd>
+		<kwd>tridentate</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M483-i001.tif"/></disp-formula>
+      <p>The mixture of para-toluidine <bold>1</bold> (0.535 g, 5 mmol), 3-chloromethyl-1,5-dimethylpyrazol <bold>2</bold> (1.44 g, 10 mmol)  and sodium carbonate (4.24 g, 40 mmol) in acetonitrile (50 mL) was refluxed for three hours [<xref ref-type="bibr" rid="B1-molbank-2006-M483">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2006-M483">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2006-M483">3</xref>]. The solvent was removed at reduced pressure. The residue was purified through a silica column (CH<sub>2</sub>Cl<sub>2</sub>) to give the product <bold>3</bold> (726 mg, 45 % yield) as a white solid.</p>
+      <p>Melting point: 98 - 100&#xB0;C (CCl<sub>4</sub>)</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3020 (&#x3BD;<sub>=C-H</sub>); 2960 (&#x3BD;<sub>C-H, CH3</sub>); 2920 (&#x3BD;<sub>C-H, CH2</sub>); 2875 (&#x3BD;<sub>C-H, N-CH3</sub>); 1620 (&#x3BD;<sub>C=N</sub>); 1530 (&#x3BD;<sub>C=C</sub>); 1430; 1390 (&#x3B4;<sub>C-N</sub>); 1340; 1235; 1185; 940; 800 (&#x3B4;<sub>=C-H</sub>); 780.</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 300 MHz): <monospace>d</monospace>= 6.94 (d, 2 H, H2&#x2019;, J = 8.4 Hz); 6.78 (d, 2 H, H3&#x2019;, J = 8.4 Hz); 5.85 (s, 2 H, C4-<underline>H</underline>); 4.46 (s, 4 H, N-C<underline>H</underline><sub>2</sub>-pz); 3.69 (s, 6 H, N-C<underline>H</underline><sub>3</sub>); 2.19 (s, 3 H, C<underline>H</underline><sub>3</sub>-C<sub>6</sub>H<sub>4</sub> ); 2.16 (s, 6 H, C5-C<underline>H</underline><sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 75 MHz): <monospace>d</monospace>= 149.72 (C3); 143.50 (C1&#x2019;); 139.51(C5); 129.85 (C3&#x2019;); 125.42 (C4&#x2019;); 113.54 (C2&#x2019;); 104.51(C4); 49.34 (N-<underline>C</underline>H2-pz); 36.25 (N-<underline>C</underline>H3); 20.62 (<underline>C</underline>H<sub>3</sub>-C<sub>6</sub>H<sub>4</sub>); 11.65 (<underline>C</underline>5-CH<sub>3</sub>).</p>
+      <p>MS (EI), m/z: 323 (5.4 %); 228 (0.4 %); 214 (100 %); 109 (24.5 %); 91 (4.4 %); 77 (0.5 %); 56 (4.9 %); 40 (3.5 %).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M483">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M483-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M483-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2006-M483-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M483-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2006-M483">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bouabdallah</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ramdani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zidane</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Touzani</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2005</year>
+          <elocation-id>M 397</elocation-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M483">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bouabdallah</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ramdani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zidane</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Touzani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Eddike</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Radi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Haidoux</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Res.</source>
+          <year>2005</year>
+          <month>April</month>
+          <fpage>242</fpage>
+          <lpage>244</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M483">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malek</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Th&#xE8;se de Doctorat d&#x2019;Etat</source>
+          <publisher-name>Facult&#xE9; des Sciences</publisher-name>
+          <publisher-loc>Oujda, Maroc</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

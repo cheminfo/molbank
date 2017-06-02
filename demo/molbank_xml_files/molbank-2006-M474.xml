@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M474</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M474</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5,5&#x2019;-Biindole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quintanilla-Licea</surname>
+            <given-names>Ramiro</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M474" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2006-M474" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Colunga-Valladares</surname>
+            <given-names>Juan F.</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M474" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caballero-Quintero</surname>
+            <given-names>Adolfo</given-names>
+          </name>
+          <xref rid="af3-molbank-2006-M474" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Waksman</surname>
+            <given-names>Noem&#xED;</given-names>
+          </name>
+          <xref rid="af3-molbank-2006-M474" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gomez-Flores</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M474" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rodr&#xED;guez-Padilla</surname>
+            <given-names>Cristina</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M474" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tamez-Guerra</surname>
+            <given-names>Reyes</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M474" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M474"><label>1</label>Facultad de Ciencias Biol&#xF3;gicas, Universidad Aut&#xF3;noma de Nuevo Le&#xF3;n, Pedro de Alba s/n, Cd. Universitaria, San Nicol&#xE1;s de los Garza, Nuevo Le&#xF3;n, M&#xE9;xico</aff>
+      <aff id="af2-molbank-2006-M474"><label>2</label>Facultad de Ciencias Qu&#xED;micas, Universidad Aut&#xF3;noma de Nuevo Le&#xF3;n, Pedro de Alba s/n, Cd. Universitaria, San Nicol&#xE1;s de los Garza, Nuevo Le&#xF3;n, M&#xE9;xico</aff>
+      <aff id="af3-molbank-2006-M474"><label>3</label>Facultad de Medicina, Universidad Aut&#xF3;noma de Nuevo Le&#xF3;n, Pedro de Alba s/n, Cd. Universitaria, San Nicol&#xE1;s de los Garza, Nuevo Le&#xF3;n, M&#xE9;xico</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2006-M474"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>rquintanilla@fcb.uanl.mx</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>03</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>2</issue>
+      <elocation-id>M474</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>01</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>09</day>
+          <month>03</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 by MDPI (http://www.mdpi.org).</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Synthesis of 5,5&#x2019;-biindole was carried out by the Madelung indole reaction. Under strong basic conditions and high temperatures (350 &#xBA;C), <italic>N,N&#x2019;</italic>-<italic>bis</italic>-formyl-<italic>o</italic>-tolidine underwent cyclization to produce high amounts of the dimeric indole. Full and unambiguous assignments of all <sup>1</sup>H- and <sup>13</sup>C-NMR resonances of indole and 5,5&#x2019;-biindole in DMSO-<italic>d<sub>6</sub></italic> are also reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Indoloquinolizine</kwd>
+		<kwd>Antitumor activity</kwd>
+		<kwd>Teuber&#x2019;s reaction</kwd>
+		<kwd>Indole synthesis</kwd>
+		<kwd><sup>1</sup>H-NMR</kwd>
+		<kwd><sup>13</sup>C-NMR</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Indoles are one of the most widely distributed heterocyclic compounds in nature [<xref ref-type="bibr" rid="B1-molbank-2006-M474">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2006-M474">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2006-M474">3</xref>]. The indole ring appears in tryptophan [<xref ref-type="bibr" rid="B4-molbank-2006-M474">4</xref>], an essential aminoacid, and metabolites of tryptophan are important in the biological chemistry of both plants and animals. In plants, indole alkaloids, including indole-3-acetic acid and its secondary metabolites, are known as plant growth hormones [<xref ref-type="bibr" rid="B5-molbank-2006-M474">5</xref>]; in animals, serotonin (5-hydroxytryptamine) is a crucial neurotransmitter in the central nervous system [<xref ref-type="bibr" rid="B6-molbank-2006-M474">6</xref>]. The potent physiological properties of these indole derivatives led to vast research of their use as medicines in the field of pharmaceutical chemistry. Furthermore, indomethacin [<xref ref-type="bibr" rid="B7-molbank-2006-M474">7</xref>], a non-steroidal anti-inflammatory agent, and pindolol [<xref ref-type="bibr" rid="B8-molbank-2006-M474">8</xref>], a &#x3B2;-adrenergic blocker, are clinically proven indole compounds. Several naturally-occurring indoles are also of clinical relevance; vincristine, a dimeric indole alkaloid, and related compounds, were the first of the antimitotic class of chemotherapeutic agents for cancer [<xref ref-type="bibr" rid="B9-molbank-2006-M474">9</xref>]. The mitomycins [<xref ref-type="bibr" rid="B10-molbank-2006-M474">10</xref>] and derivatives of ellipticine [<xref ref-type="bibr" rid="B11-molbank-2006-M474">11</xref>] are other examples of compounds having antitumor activity. Extensive research on reactivity and synthesis of indoles has been done and there is increased interest for the development of new strategies to produce indole skeletons [<xref ref-type="bibr" rid="B12-molbank-2006-M474">12</xref>].</p>
+      <p>Indoloquinolizines [<xref ref-type="bibr" rid="B13-molbank-2006-M474">13</xref>] are a small group of indole alkaloids-related natural products, commonly found in plants of the genus <italic>Rauwolfia</italic> as zwitterionic compounds (e.g. alstonine <bold>1</bold>, serpentine <bold>2</bold>, flavopereirine <bold>3</bold> and sempervirine <bold>4</bold> ). Indoloquinolizines contain at least one tetracyclic ring with a &#x3B2;-carboline unit, like the indolopyridocoline <bold>5</bold> from <italic>Gonioma kamassi</italic> (<xref ref-type="scheme" rid="molbank-2006-M474-sch001">Scheme 1</xref>) [<xref ref-type="bibr" rid="B3-molbank-2006-M474">3</xref>].</p>
+      <p>Natural indoloquinolizines have been reported to inhibit DNA synthesis in cancer cell lines [<xref ref-type="bibr" rid="B14-molbank-2006-M474">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2006-M474">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2006-M474">16</xref>]. In this regard, alstonine <bold>1</bold>, serpentine <bold>2</bold> and sempervirine <bold>4</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch001">Scheme 1</xref>), were shown to protect BALB/c and Swiss mice from cancer induced by YC8 lymphoma and Ehrlich carcinoma cells, respectively [<xref ref-type="bibr" rid="B15-molbank-2006-M474">15</xref>]. In addition, it was reported that synthetic derivatives of the natural product javacarboline showed potent antitumor activities against P-388 murine leukemia cells and PC-6 human lung carcinoma cells [<xref ref-type="bibr" rid="B16-molbank-2006-M474">16</xref>].</p>
+      <p>Since there are few and complex strategies available to obtain the indoloquinolizine basic tetracyclic structure [<xref ref-type="bibr" rid="B17-molbank-2006-M474">17</xref>], we are developing Teuber&#x2019;s reaction [<xref ref-type="bibr" rid="B18-molbank-2006-M474">18</xref>] as a useful and easy method for obtaining synthetic indoloquinolizines, as new antitumor agents, from tryptamines and &#x3B2;&#x2013;dicarbonyl compounds. Thus, starting with tryptamine hydrochloride <bold>6</bold> and acetylacetaldehyde dimethyl acetal, Teuber <italic>et al.</italic> obtained 3-acetyl-7,12-dihydro-2-methyl-6<italic>H</italic>-indolo[2,3-<italic>a</italic>]quinolizinium chloride <bold>7</bold>, which after oxidation with <italic>o</italic>-chloranyl yielded the compound <bold>8</bold> with ring C of the tetracyclic system completely aromatized; treatment of <bold>8</bold> with base yielded the corresponding indoloquinolizine <bold>9</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch002">Scheme 2</xref>) [<xref ref-type="bibr" rid="B19-molbank-2006-M474">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2006-M474">20</xref>].</p>
+      <p>Recently, Sol&#xED;s-Maldonado <italic>et al.</italic> [<xref ref-type="bibr" rid="B21-molbank-2006-M474">21</xref>] demonstrated that compounds <bold>7-9</bold> possessed differential effects on <italic>in vitro</italic> rat lymphocyte and macrophage functions; proliferation of thymic lymphocytes was significantly (<italic>p</italic>&lt;0.05) increased (up to 30% increase) by compound <bold>7</bold> at concentrations ranging from 10<sup>-11</sup> to 10<sup>-5</sup> M, compared with untreated control. In addition, tumor necrosis factor-&#x3B1; and nitric acid production by peritoneal macrophages was significantly (<italic>p</italic>&lt;0.05) increased (up to 30% increase) by compounds <bold>8</bold> and <bold>9</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch002">Scheme 2</xref>) at concentrations of 10<sup>-11</sup> to 10<sup>-5</sup> M, and 10<sup>-5</sup> M, respectively. The dimeric indoloquinolizine <bold>10</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch003">Scheme 3</xref>), obtained by reaction of dihydroindoloquinolizine <bold>7</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch002">Scheme 2</xref>) with benzaldehyde under piperidine catalysis [<xref ref-type="bibr" rid="B20-molbank-2006-M474">20</xref>], showed higher effects (up to 40% increase) on lymphocytes proliferation than the monomeric ones [<xref ref-type="bibr" rid="B21-molbank-2006-M474">21</xref>].</p>
+      <p>These synthetic indoloquinolizines, particularly the dimeric compounds, could serve then as immunotherapeutic agents by selectively increasing the pool of activated T lymphocytes or stimulating macrophage functions, with potential use in treatment of infectious diseases and cancer.</p>
+      <p>In order to be able to continue our research on this subject, we want to synthesize the dimeric indoloquinolizine <bold>11</bold> according to the retrosynthesis of <xref ref-type="scheme" rid="molbank-2006-M474-sch004">Scheme 4</xref>. Using Teuber&#xB4;s reaction, compound <bold>11</bold> can be obtained from the dimeric tryptamine <bold>12</bold> by first synthesizing 5,5&#x2019;-biindole <bold>13.</bold></p>
+      <p>In this paper we describe an efficient synthesis of 5,5&#x2019;-biindole <bold>13</bold> using the Madelung synthesis of indoles. As we have noted a lack of accurate <sup>1</sup>H- and <sup>13</sup>C-NMR data for indole in DMSO-<italic>d<sub>6</sub></italic> in the literature, we also report here a detailed <sup>13</sup>C- and <sup>1</sup>H-NMR study for both compounds.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Since the first indole synthesis in 1866 [<xref ref-type="bibr" rid="B22-molbank-2006-M474">22</xref>], a number of synthetic methods for the construction of the indole nucleus have been devised, the most common or &#x201C;classical&#x201D; are the Fischer, Bischler, Reissert, Nenitzescu and Madelung ones [<xref ref-type="bibr" rid="B1-molbank-2006-M474">1</xref>,<xref ref-type="bibr" rid="B23-molbank-2006-M474">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2006-M474">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2006-M474">25</xref>]. The availability of the starting material and compatibility with the reaction conditions determine the choice of the appropriate synthesis method for a target molecule containing this type of nucleus [<xref ref-type="bibr" rid="B2-molbank-2006-M474">2</xref>,<xref ref-type="bibr" rid="B26-molbank-2006-M474">26</xref>,<xref ref-type="bibr" rid="B27-molbank-2006-M474">27</xref>]. Therefore, a large number of new original syntheses or modifications and applications of known methods continue to be reported [<xref ref-type="bibr" rid="B28-molbank-2006-M474">28</xref>,<xref ref-type="bibr" rid="B29-molbank-2006-M474">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2006-M474">30</xref>].</p>
+      <p>The Madelung indole synthesis is a method for producing indoles from a base-catalyzed thermal cyclization of <italic>N</italic>-acyl-<italic>o</italic>-toluidides [<xref ref-type="bibr" rid="B31-molbank-2006-M474">31</xref>,<xref ref-type="bibr" rid="B32-molbank-2006-M474">32</xref>], and is one of the few known reactions by which the simple indole compound <bold>15</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch005">Scheme 5</xref>) can be obtained [<xref ref-type="bibr" rid="B33-molbank-2006-M474">33</xref>,<xref ref-type="bibr" rid="B34-molbank-2006-M474">34</xref>,<xref ref-type="bibr" rid="B35-molbank-2006-M474">35</xref>].</p>
+      <p>The most usual conditions previously reported by others include sodium or potassium alkoxide at temperatures of 200-400 &#xBA;C; thus, indole <bold>15</bold> (79% yield) can be obtained from <italic>N</italic>-formyl-<italic>o</italic>-toluidine <bold>14</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch005">Scheme 5</xref>) [<xref ref-type="bibr" rid="B36-molbank-2006-M474">36</xref>,<xref ref-type="bibr" rid="B37-molbank-2006-M474">37</xref>,<xref ref-type="bibr" rid="B38-molbank-2006-M474">38</xref>]. This yield is calculated on the assumption that 2 moles of <italic>N</italic>-formyl-<italic>o</italic>-toluidine <bold>14</bold> are required for the production of 1 mole of indole [<xref ref-type="bibr" rid="B33-molbank-2006-M474">33</xref>], although the mechanism of Madelung&#xB4;s reaction has not been completely elucidated [<xref ref-type="bibr" rid="B32-molbank-2006-M474">32</xref>].</p>
+      <p>Therefore we decided to use the Madelung&#xB4;s indole reaction to synthesize 5,5&#xB4;-biindole <bold>13</bold> starting from <italic>N,N&#x2019;</italic>-<italic>bis</italic>-formyl-<italic>o</italic>-tolidine <bold>16</bold> (<xref ref-type="scheme" rid="molbank-2006-M474-sch006">Scheme 6</xref>) [<xref ref-type="bibr" rid="B36-molbank-2006-M474">36</xref>].</p>
+      <p>After work-up, we obtained a brown oil which crystallized on cooling. The yield was 1.9 g (88%). Purification by recrystallization in chloroform led to a light-brown solid with a melting point of 195 &#xBA;C. The ESMS showed a molecular ion at 233 Daltons ([M+H]<sup>.+</sup>), in agreement with the molecular formula C<sub>16</sub>H<sub>12</sub>N<sub>2</sub>. There are no accurate <sup>1</sup>H- and <sup>13</sup>C-NMR available reports for indole in DMSO-<italic>d<sub>6</sub></italic> [<xref ref-type="bibr" rid="B39-molbank-2006-M474">39</xref>,<xref ref-type="bibr" rid="B40-molbank-2006-M474">40</xref>,<xref ref-type="bibr" rid="B41-molbank-2006-M474">41</xref>,<xref ref-type="bibr" rid="B42-molbank-2006-M474">42</xref>,<xref ref-type="bibr" rid="B43-molbank-2006-M474">43</xref>] to be compared with those of 5,5&#x2019;-bindole, therefore we used commercially available indole to acquire this spectroscopic information.</p>
+      <p><sup>1</sup>H-<sup>1</sup>H-COSY, HMQC and HMBC experiments established geminal and vicinal hydrogen interactions, as well as direct (<sup>1</sup><italic>J</italic><sub>CH</sub>) and two and three bond correlations between carbon and hydrogen in the structure of both indole <bold>15</bold> and 5,5&#x2019;-biindole <bold>13</bold>. The definite assignment of the chemical shifts of protons and carbons are shown in <xref ref-type="table" rid="molbank-2006-M474-t001">Table 1</xref> and <xref ref-type="table" rid="molbank-2006-M474-t002">Table 2</xref>. </p>
+      <p>1D NOE difference measurements established the signal of proton 7 of indole in the <sup>1</sup>H-NMR spectrum, since NOEs between the doublet at 7.39 ppm and the singlet at 11.08 ppm (N-H) could be detected. Further NOEs between resonances at 11.08 and 7.33 ppm demonstrated the vicinity of N-H and H-2. In the HMBC spectrum of indole (<xref ref-type="fig" rid="molbank-2006-M474-f001">Figure 1</xref>) three bond connectivity between C-7 and H-5 can be observed, whereas in HMBC spectrum of 5,5&#x2019;-biindole (<xref ref-type="fig" rid="molbank-2006-M474-f002">Figure 2</xref>) this is absent, indicating the joint point of the two indole nuclei.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Among several methods available for the synthesis of biindole compounds [<xref ref-type="bibr" rid="B44-molbank-2006-M474">44</xref>,<xref ref-type="bibr" rid="B45-molbank-2006-M474">45</xref>,<xref ref-type="bibr" rid="B46-molbank-2006-M474">46</xref>,<xref ref-type="bibr" rid="B47-molbank-2006-M474">47</xref>], the use of the Madelung&#xB4;s indole reaction was found suitable for the cyclization of <italic>N,N&#x2019;</italic>-<italic>bis</italic>-formyl-<italic>o</italic>-tolidine to produce 5,5&#x2019;-biindole.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>NMR spectra were recorded in DMSO-<italic>d<sub>6</sub></italic> at 25 &#xBA;C on a spectrometer Bruker DPX400 operating at 400.13 MHz for <sup>1</sup>H, and 100.61 MHz for <sup>13</sup>C. Chemical shifts are given in ppm relative to TMS. Thin layer chromatography (TLC) was performed on precoated plates (Aldrich TLC aluminum sheets silica 60 F<sub>254</sub>) with detection by UV light. FTIR spectra were taken on a Perkin-Elmer spectrometer using potassium bromide pellets. Mass spectra were measured with a Varian MAT 311A Spectrometer. Melting points were determined on an Electrothermal 9100 apparatus and are uncorrected. Indole was obtained from Sigma-Aldrich (St. Louis, MO).</p>
+      </sec>
+      <sec>
+        <title>5,5&#x2019;-Biindole <italic>(<bold>13</bold>)</italic>.</title>
+        <p>A 500 mL three-necked round-bottomed flask is fitted with a reflux condenser and a gas inlet tube connected to a cylinder of nitrogen. The third opening of the flask is closed by a stopper. The top of the condenser is connected to an air trap which consists of two 250 mL suction flasks connected in series (the first one is empty; the second one contains paraffin oil, and the inlet tube of this flask extends slightly below the surface of the oil). In the reaction flask is placed <italic>tert</italic>-butyl alcohol (150 mL) and the air in the flask is displaced by dry nitrogen gas. Then metallic potassium (4 g, 0.1 mol) is added, in portions, to the alcohol. The mixture is heated gently until all potassium has dissolved, and then <italic>N,N&#x2019;-bis-</italic>formyl<italic>-o-</italic>tolidine 16 (5 g, 0.019 mol) [<xref ref-type="bibr" rid="B36-molbank-2006-M474">36</xref>] is added and brought into solution. The condenser is set for distillation with a filter flask as the receiver; this flask is protected from the air by connecting it to the trap used in the initial operation. The reaction flask is surrounded by an electric mantle, and the excess alcohol is removed by distillation. The residue is heated to 350-360 &#xBA;C for about 30 minutes and then is allowed to cool in a stream of nitrogen. The residue is decomposed by addition of water (100 mL). The mixture is extracted successively with chloroform (100 and 50 mL), and the combined chloroform extracts are shaken with cold dilute 5% hydrochloric acid. The chloroform extract is washed with water (50 mL) of, followed by 5% sodium carbonate solution (50 mL), and is dried over anhydrous sodium sulfate and the solvent was evaporated. A brown oil was obtained which crystallized on cooling. The yield was 1.9 g (88%). Purification by recrystallization in chloroform led to a light-brown solid with a melting point of 195 &#xBA;C. TLC: R<sub>f</sub> = 0.6 (hexane-acetone, 3:2); IR (KBr): <italic>v</italic><sub>max</sub> 3406, 1625, 1469, 1406, 1343, 749 cm<sup>-1</sup>; ESMS (positive ion mode): <italic>m/z</italic> 233 ([M+H]<sup>.+</sup>, base peak; Calcd. for C<sub>16</sub>H<sub>12</sub>N<sub>2,</sub> 232). <sup>1</sup>H-NMR and <sup>13</sup>C-NMR see <xref ref-type="table" rid="molbank-2006-M474-t002">Table 2</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M474">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M474-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M474-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank the Deutscher Akademischer Austauschdienst (DAAD, Germany), who financed a 2-month stay of R. Quintanilla-Licea at the University of G&#xF6;ttingen. We deeply appreciate Prof. Lutz F. Tietze of the University of G&#xF6;ttingen for supporting us with MS measurements and SDBSWeb (<uri>http://www.aist.go.jp/RIODB/SDBS</uri>) for free access to its spectral data bank (19 January 2006). This study was supported by PAICYT grants CN892-04 and CN1097-05 from the Universidad Aut&#xF3;noma de Nuevo Le&#xF3;n (Mexico) to RQL.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M474">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sundberg</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The chemistry of indoles</article-title>
+          <source>Organic Chemistry, a series of monographs</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Blomquist</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York and London</publisher-loc>
+          <year>1970</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M474">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saxton</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoles, Part four, The monoterpenoid indole alkaloids</article-title>
+          <source>The Chemistry of Heterocyclic Compounds, a series of monographs</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Weissberger</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>E.C.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1983</year>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M474">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hesse</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Alkaloids, Nature&#x2019;s curse or blessing?</source>
+          <publisher-name>VHCA</publisher-name>
+          <publisher-loc>Z&#xFC;rich</publisher-loc>
+          <year>2002</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M474">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monien</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Krishnasamy</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>U.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Importance of Tryptophan 49 of Antithrombin in Heparin Binding and Conformational Activation</article-title>
+          <source>Biochemistry</source>
+          <year>2005</year>
+          <volume>44</volume>
+          <fpage>11660</fpage>
+          <lpage>11668</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi050741i</pub-id>
+          <pub-id pub-id-type="pmid">16128566</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2006-M474">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tafazoli</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>O'Brien</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prooxidant Activity and Cytotoxic Effects of Indole-3-acetic Acid Derivative Radicals</article-title>
+          <source>Chem. Res. Toxicol.</source>
+          <year>2004</year>
+          <volume>17</volume>
+          <fpage>1350</fpage>
+          <lpage>1355</lpage>
+          <pub-id pub-id-type="doi">10.1021/tx034217t</pub-id>
+          <pub-id pub-id-type="pmid">15487895</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2006-M474">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Geng</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Statistical and Generalized Two-Dimensional Correlation Spectroscopy of Multiple Ionization States. Fluorescence of Neurotransmitter Serotonin</article-title>
+          <source>Anal. Chem.</source>
+          <year>2005</year>
+          <volume>77</volume>
+          <fpage>20</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1021/ac0492362</pub-id>
+          <pub-id pub-id-type="pmid">15623274</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2006-M474">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fronza</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mele</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Redenti</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ventura</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title><sup>1</sup>H NMR and Molecular Modeling Study on the Inclusion Complex &#x3B2;-Cyclodextrin-Indomethacin</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>909</fpage>
+          <lpage>914</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo951410m</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2006-M474">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bontchev</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Pantcheva</surname>
+              <given-names>I.N.</given-names>
+            </name>
+            <name>
+              <surname>Bontchev</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Ivanov</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Danchev</surname>
+              <given-names>N.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Copper (II) Complexes of the &#x3B2;-blocker pindolol: properties, structure, biological activity</article-title>
+          <source>BioMetals</source>
+          <year>2002</year>
+          <volume>15</volume>
+          <fpage>79</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1013128606238</pub-id>
+          <pub-id pub-id-type="pmid">11860026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2006-M474">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yokoshima</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ueda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kuboyama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yokuyama</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Fukuyama</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sterocontrolled Total Synthesis of (+)-Vinblastine</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2002</year>
+          <volume>124</volume>
+          <fpage>2137</fpage>
+          <lpage>2139</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja0177049</pub-id>
+          <pub-id pub-id-type="pmid">11878966</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2006-M474">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>V.-S.</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kohn</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>M.-s.</given-names>
+            </name>
+          </person-group>
+          <article-title>C5 Cytosine Methylation at CpG Sites Enhances Sequence Selectivity of Mitomycin C-DNA Bonding</article-title>
+          <source>Biochemistry</source>
+          <year>2000</year>
+          <volume>39</volume>
+          <fpage>2612</fpage>
+          <lpage>2618</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi991307h</pub-id>
+          <pub-id pub-id-type="pmid">10704210</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2006-M474">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirsch</surname>
+              <given-names>G.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic Analogues of Carbazole Alkaloids</article-title>
+          <source>Curr. Org. Chem.</source>
+          <year>2001</year>
+          <volume>5</volume>
+          <fpage>507</fpage>
+          <lpage>518</lpage>
+          <pub-id pub-id-type="doi">10.2174/1385272013375409</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2006-M474">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamijo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Bimetallic Catalyst and Dual Role Catalyst: Synthesis of <italic>N</italic>-(Alkoxycarbonyl)indoles from (2-(Alkynyl)phenylisocianates</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2003</year>
+          <volume>68</volume>
+          <fpage>4764</fpage>
+          <lpage>4771</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo034254p</pub-id>
+          <pub-id pub-id-type="pmid">12790580</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2006-M474">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>St&#xF6;ckigt</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biosynthesis in <italic>Rauwolfia serpentine</italic> &#x2013; Modern Aspects of an Old Medicinal Plant</article-title>
+          <source>The Alkaloids</source>
+          <year>1995</year>
+          <volume>47</volume>
+          <fpage>115</fpage>
+          <lpage>172</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2006-M474">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beljanski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Beljanski</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective Inhibition of in vitro Synthesis of cancer DNA by Alkaloids of &#x3B2;-Carboline Class</article-title>
+          <source>Exp. Cell Biol.</source>
+          <year>1982</year>
+          <volume>50</volume>
+          <fpage>79</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.1159/000163131</pub-id>
+          <pub-id pub-id-type="pmid">7075859</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2006-M474">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beljanski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Beljanski</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Three Alkaloids as Selective Destroyers of Cancer Cells in Mice</article-title>
+          <source>Oncology</source>
+          <year>1986</year>
+          <volume>49</volume>
+          <fpage>198</fpage>
+          <lpage>203</lpage>
+          <pub-id pub-id-type="doi">10.1159/000226363</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2006-M474">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshino</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Koike</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nikaido</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antitumor Activity of Javacarboline Derivatives</article-title>
+          <source>Heterocycles</source>
+          <year>1999</year>
+          <volume>51</volume>
+          <fpage>281</fpage>
+          <lpage>293</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2006-M474">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matia</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Ezquerra</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Navio</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Vaquero</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Alvarez-Builla</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Uses of Westphal Condensation: Synthesis of Flavocorylene and Related Indolo[2,3-<italic>a</italic>]quinolizinium Salts</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1991</year>
+          <volume>32</volume>
+          <fpage>7575</fpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(91)80538-H</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2006-M474">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teuber</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Hochmuth</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Eine einfache Indolo[2,3-<italic>a</italic>]chinolizin-Synthese. Zugleich eine Modell-Reaktion f&#xFC;r die Alkaloid-Biogenese?</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1964</year>
+          <fpage>325</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(64)80022-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2006-M474">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teuber</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Quintanilla-Licea</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Raabe</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indolo[2,3-<italic>a</italic>]quinolizines and a Convenient Synthesis of Flavoserpentine</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1988</year>
+          <fpage>1111</fpage>
+          <lpage>1120</lpage>
+          <pub-id pub-id-type="doi">10.1002/jlac.198819881202</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2006-M474">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quintanilla-Licea</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Teuber</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review on reactions of acetylacetaldehyde with aromatic amines and indoles &#x2013; Synthesis of heterocycles <italic>via</italic> hydroxymethylene ketones</article-title>
+          <source>Heterocycles</source>
+          <year>2001</year>
+          <volume>55</volume>
+          <fpage>1365</fpage>
+          <pub-id pub-id-type="doi">10.3987/REV-01-539</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2006-M474">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sol&#xED;s-Maldonado</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Quintanilla-Licea</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tamez-Guerra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rodr&#xED;guez-Padilla</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gomez-Flores</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential Effects of synthetic indoloquinolizines on in vitro Rat Lymphocyte and Macrophage Functions</article-title>
+          <source>Int. Immunopharmacol.</source>
+          <year>2003</year>
+          <volume>3</volume>
+          <fpage>1261</fpage>
+          <lpage>1271</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1567-5769(03)00080-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2006-M474">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>von Bayer</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Ann. Chem.</source>
+          <year>1866</year>
+          <volume>140</volume>
+          <fpage>295</fpage>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2006-M474">
+        <label>23.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Remers</surname>
+              <given-names>W.A.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>R.K.</given-names>
+            </name>
+          </person-group>
+          <source>In Indoles, Part One</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Houlihan</surname>
+              <given-names>W.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>John Wiley &amp; Sons, Inc.</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1972</year>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2006-M474">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuethe</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>I.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid and Efficient Synthesis of 1<italic>H</italic>-Indol-2-yl-1<italic>H</italic>-quinolin-2-ones</article-title>
+          <source>Org. Lett.</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>3975</fpage>
+          <lpage>3978</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol035541i</pub-id>
+          <pub-id pub-id-type="pmid">14535757</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2006-M474">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pal</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dakarapu</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Padakanti</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A direct Access to 3-(2-Oxoalkyl)indoles via Aluminum Chloride Induced C-C Bond Formation</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2004</year>
+          <volume>69</volume>
+          <fpage>2913</fpage>
+          <lpage>2916</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo049923t</pub-id>
+          <pub-id pub-id-type="pmid">15074955</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2006-M474">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sz&#xE1;ntay</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic Studies in Alkaloid Chemistry</article-title>
+          <source>The Alkaloids</source>
+          <year>1998</year>
+          <volume>50</volume>
+          <fpage>377</fpage>
+          <lpage>414</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2006-M474">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takao</surname>
+              <given-names>K.-i.</given-names>
+            </name>
+            <name>
+              <surname>Munakata</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tadano</surname>
+              <given-names>K.-i.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Advances in Natural Product Synthesis by Using Intramolecular Dies-Alder Reactions</article-title>
+          <source>Chem. Rev.</source>
+          <year>2005</year>
+          <volume>105</volume>
+          <fpage>4779</fpage>
+          <lpage>4807</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr040632u</pub-id>
+          <pub-id pub-id-type="pmid">16351062</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2006-M474">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Orita</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Otera</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel Synthesis of 2-Aryl and 2,3-Disubstituted Indoles by Modified Double Elimination Protocol</article-title>
+          <source>Org. Lett.</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <fpage>4641</fpage>
+          <lpage>4643</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol051826e</pub-id>
+          <pub-id pub-id-type="pmid">16209499</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2006-M474">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peters</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Waldmeier</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Joncour</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient Synthesis of a 5-HT<sub>2C</sub> Receptor Agonist Precursor</article-title>
+          <source>Org. Process Res. Dev.</source>
+          <year>2005</year>
+          <volume>9</volume>
+          <fpage>508</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="doi">10.1021/op050065s</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molbank-2006-M474">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dalpozzo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bartoli</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bartoli Indole Synthesis</article-title>
+          <source>Curr. Org. Chem.</source>
+          <year>2005</year>
+          <volume>9</volume>
+          <fpage>163</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.2174/1385272053369204</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molbank-2006-M474">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Madelung</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1912</year>
+          <volume>45</volume>
+          <fpage>1128</fpage>
+        </citation>
+      </ref>
+      <ref id="B32-molbank-2006-M474">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Houlihan</surname>
+              <given-names>W.J.</given-names>
+            </name>
+            <name>
+              <surname>Parrino</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Uike</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lithiation of <italic>N</italic>-(2-Alkylphenyl)alkanamides and Related Compounds. A Modified Madelung Indole Synthesis</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1981</year>
+          <volume>46</volume>
+          <fpage>4511</fpage>
+          <lpage>4515</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00335a038</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molbank-2006-M474">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyson</surname>
+              <given-names>F.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indole Preparation</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1941</year>
+          <volume>63</volume>
+          <fpage>2024</fpage>
+          <lpage>2025</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01852a505</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molbank-2006-M474">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Friedman</surname>
+              <given-names>H.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indole from Formyl-toluidine</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1948</year>
+          <volume>70</volume>
+          <fpage>1280</fpage>
+          <lpage>1281</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01183a508</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molbank-2006-M474">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyson</surname>
+              <given-names>F.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of Indole</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1950</year>
+          <volume>72</volume>
+          <fpage>2801</fpage>
+          <lpage>2803</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01162a540</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molbank-2006-M474">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quintanilla-Licea</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Colunga-Valladares</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Caballero-Quintero</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rodr&#xED;guez-Padilla</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Tamez-Guerra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gomez-Flores</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Waksman</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>NMR Detection of Isomers Arising from Restricted Rotation of C-N Amide Bond of <italic>N</italic>-formyl-<italic>o</italic>-toluidine and <italic>N,N&#x2019;</italic>-<italic>bis</italic>-formyl-<italic>o</italic>-tolidine</article-title>
+          <source>Molecules</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <fpage>662</fpage>
+          <lpage>673</lpage>
+          <pub-id pub-id-type="doi">10.3390/70800662</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37-molbank-2006-M474">
+        <label>37.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Furniss</surname>
+              <given-names>B.S.</given-names>
+            </name>
+          </person-group>
+          <source>Vogel&#x2019;s Textbook of Practical Organic Chemistry, Including Qualitative Organic Analysis</source>
+          <publisher-name>Longman</publisher-name>
+          <publisher-loc>London and New York</publisher-loc>
+          <year>1978</year>
+          <fpage>885</fpage>
+          <lpage>886</lpage>
+        </citation>
+      </ref>
+      <ref id="B38-molbank-2006-M474">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyson</surname>
+              <given-names>F.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indole</article-title>
+          <source>Org. Synth. Coll. Vol. III</source>
+          <year>1955</year>
+          <fpage>479</fpage>
+          <lpage>482</lpage>
+        </citation>
+      </ref>
+      <ref id="B39-molbank-2006-M474">
+        <label>39.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hiremat</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Hosmane</surname>
+              <given-names>R.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Applications of Nuclear Magnetic Resonance Spectroscopy to Heterocyclic Chemistry: Indole and its Derivatives</article-title>
+          <source>Advances in Heterocyclic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Boulton</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>New York and London</publisher-loc>
+          <year>1973</year>
+          <volume>Vol. 15</volume>
+          <fpage>278</fpage>
+          <lpage>324</lpage>
+        </citation>
+      </ref>
+      <ref id="B40-molbank-2006-M474">
+        <label>40.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crabb</surname>
+              <given-names>T.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear Magnetic Resonance of Alkaloids</article-title>
+          <source>Annual Reports on NMR Spectroscopy</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Webb</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Academic Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year>1978</year>
+          <volume>Vol. 8</volume>
+          <fpage>2</fpage>
+          <lpage>198</lpage>
+        </citation>
+      </ref>
+      <ref id="B41-molbank-2006-M474">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ernst</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carbon-13 NMR Spectroscopy of Substituted Indoles and Tryptamines</article-title>
+          <source>J. Chem. Res. (S)</source>
+          <year>1981</year>
+          <fpage>259</fpage>
+          <comment><italic>J. Chem. Res. (M)</italic> <bold>1981</bold>, 3019-3027</comment>
+        </citation>
+      </ref>
+      <ref id="B42-molbank-2006-M474">
+        <label>42.</label>
+        <citation citation-type="web">
+          <article-title>Integrated Spectral Data Base System for Organic compounds</article-title>
+          <comment>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.aist.go.jp/RIODB/SDBS" ext-link-type="uri">http://www.aist.go.jp/RIODB/SDBS</ext-link>
+          </comment>
+          <comment>[a] SDBS No. 717HSP-49-404; [b] SDBS No. 717CDS-00-313</comment>
+        </citation>
+      </ref>
+      <ref id="B43-molbank-2006-M474">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beller</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Breindl</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Riermeier</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Tillack</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 2,3-Dihydroindoles, Indoles, and Anilines by Transition Metal-Free Amination of Aryl chlorides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2001</year>
+          <volume>66</volume>
+          <fpage>1403</fpage>
+          <lpage>1412</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo001544m</pub-id>
+          <pub-id pub-id-type="pmid">11312973</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44-molbank-2006-M474">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gossler</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Plieninger</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoles by Reduction of Isatines, II &#x2013; Synthesis and Properties of Biindoles</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1977</year>
+          <fpage>1953</fpage>
+          <lpage>1958</lpage>
+        </citation>
+      </ref>
+      <ref id="B45-molbank-2006-M474">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suvorov</surname>
+              <given-names>N.N.</given-names>
+            </name>
+            <name>
+              <surname>Samsoniya</surname>
+              <given-names>Sh.A.</given-names>
+            </name>
+            <name>
+              <surname>Chilikin</surname>
+              <given-names>L.G.</given-names>
+            </name>
+            <name>
+              <surname>Chikvadize</surname>
+              <given-names>I.Sh.</given-names>
+            </name>
+            <name>
+              <surname>Turchin</surname>
+              <given-names>K.F.</given-names>
+            </name>
+            <name>
+              <surname>Efimova</surname>
+              <given-names>T.K.</given-names>
+            </name>
+            <name>
+              <surname>Tret&#x2019;yakova</surname>
+              <given-names>L.G.</given-names>
+            </name>
+            <name>
+              <surname>Gverdtsiteli</surname>
+              <given-names>I.M.</given-names>
+            </name>
+            <name>
+              <surname>Bisindoles</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3,5&#x2019;- and 5,5&#x2019;-<italic>bis</italic>-1<italic>H</italic>-indoles</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1978</year>
+          <fpage>217</fpage>
+          <lpage>224</lpage>
+        </citation>
+      </ref>
+      <ref id="B46-molbank-2006-M474">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rollin</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Troupel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tuck</surname>
+              <given-names>D. G.</given-names>
+            </name>
+            <name>
+              <surname>Perichon</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Coupling of Organic Groups by the Electrochemical Reduction of Organic Halides: Catalysis by 2,2&#x2019;-bipyridinenickel Complexes</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>1986</year>
+          <volume>303</volume>
+          <fpage>131</fpage>
+          <lpage>137</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-328X(86)80118-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molbank-2006-M474">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Courtois</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Barhdadi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Troupel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Perichon</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electroreductive Coupling of Organic Halides in Alcoholic Solvents. An Example: the Electrosynthesis of Biaryls Catalyzed by Nickel-2,2&#x2019;-bipyridine Complex</article-title>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>11569</fpage>
+          <lpage>11576</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(97)00744-8</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p>
+          <italic>Sample availability: Available from the author.</italic>
+        </p>
+      </fn>
+    </fn-group>
+    <sec sec-type="display-objects">
+      <title>Figures, Schemes and Tables</title>
+      <fig id="molbank-2006-M474-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Naturally-occurring indoloquinolizines.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Teuber&#x2019;s reaction for synthesis of indoloquinolizines.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch002.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-sch003" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Synthesis of dimeric indoloquinolizine <bold>10</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch003.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-sch004" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch004_Scheme 4</object-id>
+        <label>Scheme 4</label>
+        <caption>
+          <p>Retrosynthesis of dimeric indoloquinolizine <bold>11</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch004.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-sch005" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch005_Scheme 5</object-id>
+        <label>Scheme 5</label>
+        <caption>
+          <p>Madelung&#xB4;s indole reaction.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch005.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-sch006" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-sch006_Scheme 6</object-id>
+        <label>Scheme 6</label>
+        <caption>
+          <p>Synthesis of 5,5&#xB4;-biindole <bold>13</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-sch006.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>HMBC spectra of indole <bold>15</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-g001.tif"/>
+      </fig>
+      <fig id="molbank-2006-M474-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>HMBC spectra of 5,5&#x2019;-biindole <bold>13</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M474-g002.tif"/>
+      </fig>
+      <table-wrap id="molbank-2006-M474-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p><sup>1</sup>H(400 MHz) and <sup>13</sup>C (100MHz) NMR spectral data for indole <bold>15</bold> in DMSO-<italic>d<sub>6</sub></italic>, including results obtained by heteronuclear 2D shift-correlated HMQC (<sup>1</sup><italic>J</italic><sub>CH</sub>) and HMBC (<sup>n</sup><italic>J</italic><sub>CH</sub>, n=2 and 3). Chemical shifts (d, ppm) and coupling constants (<italic>J</italic>, Hz, in parenthesis).<sup>a</sup></p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+        <tbody>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>POSITION</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>d<sub>H</sub></bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>d<sub>C</sub></bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold><sup>b</sup>DEPT 135</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>COSY <sup>1</sup>H-<sup>1</sup>H</bold><break/><bold>Correlations</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold><sup>c</sup>HMQC</bold><break/><sup>1</sup><italic>J</italic><sub>CH</sub></td>
+              <td colspan="2" align="center" valign="middle" style="border-bottom: hidden"><bold><sup>c</sup>HMBC (12Hz)</bold></td>
+            </tr>
+            <tr>
+            <td align="center" valign="middle" style="border-right: hidden"><sup>2</sup><italic>J</italic><sub>CH</sub></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin"><sup>3</sup><italic>J</italic><sub>CH</sub></td>
+            </tr>
+			<tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">1 (N-H)</td>
+              <td align="left" valign="top" style="border-right:solid thin">11.08 (s)</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">2</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.33 (t, 2.65)</td>
+              <td align="left" valign="top" style="border-right:solid thin">125.07</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">N-H, H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">3</td>
+              <td align="left" valign="top" style="border-right:solid thin">6.42 (d, 2.65)</td>
+              <td align="left" valign="top" style="border-right:solid thin">100.84</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2, H-4</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">3a</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">127.47</td>
+              <td align="left" valign="top" style="border-right:solid thin">(0) C<sub>q</sub></td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2, H-5,<break/>H-7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">4</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.53 (d, 7.82)</td>
+              <td align="left" valign="top" style="border-right:solid thin">119.87</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-5</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">5</td>
+              <td align="left" valign="top" style="border-right:solid thin">6.98 (t, 7.37)</td>
+              <td align="left" valign="top" style="border-right:solid thin">118.64</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-5</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">6</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.07 (t, 7.52)</td>
+              <td align="left" valign="top" style="border-right:solid thin">120.75</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">7</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.39 (d, 8.06)</td>
+              <td align="left" valign="top" style="border-right:solid thin">111.26</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-5</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">7a</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">135.71</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">(0) C<sub>q</sub></td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">H-2, H-3,<break/>H-4, H-6</td>
+            </tr>
+          </tbody>
+        </table>
+	  <table-wrap-foot>
+            <fn>
+              <p><list list-type="alpha-lower">
+        <list-item>
+          <label>a)</label>
+          <p>Number of hydrogens bound to carbon atoms deduced by comparative analysis of DEPT 135-<sup>13</sup>C-NMR spectra. Chemical shifts and coupling constants (<italic>J</italic>) obtained of 1D <sup>1</sup>H-NMR spectrum</p>
+        </list-item>
+        <list-item>
+          <label>b)</label>
+          <p>DEPT shows CH, CH<sub>2</sub>, CH<sub>3</sub>, C<sub>q</sub></p>
+        </list-item>
+        <list-item>
+          <label>c)</label>
+          <p>Correlation from C to the indicated hydrogens</p>
+        </list-item>
+      </list></p>
+            </fn>
+          </table-wrap-foot>
+	  </table-wrap>
+      <table-wrap id="molbank-2006-M474-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2006-M474-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p><sup>1</sup>H(400 MHz) and <sup>13</sup>C (100MHz) NMR spectral data for 5,5&#x2019;-biindole <bold>13</bold> in DMSO-<italic>d<sub>6</sub></italic>, including results obtained by heteronuclear 2D shift correlated HMQC (<sup>1</sup><italic>J</italic><sub>CH</sub>) and HMBC (<sup>n</sup><italic>J</italic><sub>CH</sub>, n=2 and 3). Chemical shifts (d, ppm) and coupling constants (<italic>J</italic>, Hz, in parenthesis).<sup>a</sup></p>
+        </caption>
+        <table rules="all" style="border:solid thin">
+<tbody>
+            <tr>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold><sup>b</sup>POSITION</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>d<sub>H</sub></bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>d<sub>C</sub></bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold><sup>c</sup>DEPT 135</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold>COSY <sup>1</sup>H-<sup>1</sup>H</bold><break/><bold>Correlations</bold></td>
+              <td rowspan="2" align="center" valign="middle" style="border:solid thin"><bold><sup>d</sup>HMQC</bold><break/><sup>1</sup><italic>J</italic><sub>CH</sub></td>
+              <td colspan="2" align="center" valign="middle" style="border-bottom: hidden"><bold><sup>d</sup>HMBC (12Hz)</bold></td>
+            </tr>
+            <tr>
+            <td align="center" valign="middle" style="border-right: hidden"><sup>2</sup><italic>J</italic><sub>CH</sub></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin;border-right:solid thin"><sup>3</sup><italic>J</italic><sub>CH</sub></td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">1 (N-H)</td>
+              <td align="left" valign="top" style="border-right:solid thin">11.06 (s)</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2, H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">2</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.34 (s)</td>
+              <td align="left" valign="top" style="border-right:solid thin">125.59</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">N-H, H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">3</td>
+              <td align="left" valign="top" style="border-right:solid thin">6.46 (s)</td>
+              <td align="left" valign="top" style="border-right:solid thin">101.22</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">3a</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">128.18</td>
+              <td align="left" valign="top" style="border-right:solid thin">(0) Cq</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-3</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-2, H-7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">4</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.77 (s)</td>
+              <td align="left" valign="top" style="border-right:solid thin">117.81</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">5</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">133.12</td>
+              <td align="left" valign="top" style="border-right:solid thin">(0) Cq</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">6</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.39 (d, 8.42)</td>
+              <td align="left" valign="top" style="border-right:solid thin">120.72</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin">H-4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-right:solid thin">7</td>
+              <td align="left" valign="top" style="border-right:solid thin">7.44 (d, 8.38)</td>
+              <td align="left" valign="top" style="border-right:solid thin">111.45</td>
+              <td align="left" valign="top" style="border-right:solid thin">(+) CH</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-6</td>
+              <td align="left" valign="top" style="border-right:solid thin">H-7</td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-right:solid thin"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">7a</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">134.80</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">(0) Cq</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin"> </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">H-2, H-3, H-4, H-6</td>
+            </tr>
+          </tbody>
+        </table>
+		<table-wrap-foot>
+            <fn>
+              <p><list list-type="alpha-lower">
+        <list-item>
+          <label>a)</label>
+          <p>Number of hydrogens bound to carbon atoms deduced by comparative analysis of DEPT 135-<sup>13</sup>C-NMR spectra. Chemical shifts and coupling constants (<italic>J</italic>) obtained of 1D <sup>1</sup>H NMR spectrum</p>
+        </list-item>
+        <list-item>
+          <label>b)</label>
+          <p>Corresponding also to positions 1&#x2019;-7a&#x2019; due to symmetry of the molecule</p>
+        </list-item>
+        <list-item>
+          <label>c)</label>
+          <p>DEPT shows CH, CH<sub>2</sub>, CH<sub>3</sub>, C<sub>q</sub></p>
+        </list-item>
+        <list-item>
+          <label>d)</label>
+          <p>Correlation from C to the indicated hydrogens</p>
+        </list-item>
+      </list></p>
+            </fn>
+          </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

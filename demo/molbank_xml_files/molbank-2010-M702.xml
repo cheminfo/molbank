@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M702</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M702</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N,N'</italic>-{1,3-Phenylenebis[methyleneoxy-2,1-phenylene(<italic>Z</italic>)methylylidene]}bis[1-(1-naphthyl)methanamine]</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>George</surname>
+            <given-names>Lucy A.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M702" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bertolo</surname>
+            <given-names>Emilia</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M702" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2010-M702" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lodeiro</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M702" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M702"><label>1</label>Ecology Research Group, Department of Geographical and Life Sciences, Canterbury Christ Church University, Canterbury, Kent, CT1 1QU, UK</aff>
+      <aff id="af2-molbank-2010-M702"><label>2</label>Grupo BIOSCOPE, Departamento de Qu&#xED;mica F&#xED;sica, Falcultad de Ciencias, Campus de Ourense, Universidad de Vigo, 32004, Ourense, Spain</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M702"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>emilia.bertolo@canterbury.ac.uk.</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>10</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>4</issue>
+      <elocation-id>M702</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new fluorescent di-imine compound containing two naphthalene groups has been synthesized by classical Schiff-base reaction between 2,2&#x2019;-[1,3-phenylene-bis-(methyleneoxy)]dibenzaldehyde and 1-naphthylmethylamine. The new bischromophoric compound has been characterised by IR, NMR and MALDI-TOF MS spectroscopy. The photophysical characterization was carried out by UV-vis and fluorescence emission spectroscopy, using chloroform. The monomer and excimer bands, typical for the naphthalene in solution, are present in the emission spectra for the compound.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>fluorescence</kwd>
+        <kwd>Schiff base</kwd>
+        <kwd>imine compound</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The synthesis and characterisation of new fluorescence chemosensors has evolved rapidly in the last few years [<xref ref-type="bibr" rid="B1-molbank-2010-M702">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M702">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M702">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M702">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M702">5</xref>]. A fluorescence chemosensor is a compound that exhibits changes in its fluorescence properties upon interaction with an analyte. Fluorescence chemosensors have the potential to be highly selective even at very low concentrations of analyte [<xref ref-type="bibr" rid="B6-molbank-2010-M702">6</xref>]. The continuing research into the application of fluorescence probes has led to the development of numerous fluorescence systems based on restricting the rotation of imine (C=N) bonds by complexation of cations [<xref ref-type="bibr" rid="B7-molbank-2010-M702">7</xref>].</p>
+      <p>This paper describes the synthesis and characterisation of a new di-imine compound (L), which could potentially be used as fluorescence chemosensor due to its fluorescent properties. The compound has been prepared by classical Schiff-base reaction between 2,2&#x2019;-[1,3-phenylenebis-(methyleneoxy)]-dibenzaldehyde (<bold>1</bold>) and the fluorescence probe 1-naphthylmethylamine (<bold>2</bold>)<bold>.</bold> The synthetic route to prepare L is depicted in <xref ref-type="fig" rid="molbank-2010-M702-f001">Figure 1</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>2,2&#x2019;-[1,3-phenylenebis(methyleneoxy)]dibenzaldehyde (<bold>1</bold>) was prepared following the method described previously [<xref ref-type="bibr" rid="B8-molbank-2010-M702">8</xref>], by reaction between salicylaldehyde, sodium hydroxide and 1,3-bis(bromo-methyl)benzene (2:2:1 ratio) in an ethanol/water solution (2:1 ratio). A solution of 2,2&#x2019;-[1,3-phenylene-bis(methyleneoxy)]dibenzaldehyde (<bold>1</bold>) (0.346 g), dissolved in methanol (50 mL) was added dropwise to a solution of 1-naphthylmethylamine (<bold>2</bold>) (0.157 mL) in methanol (50 mL). The resulting solution was gently refluxed with magnetic stirring for 4 h, during which the colour changed slowly from clear to pale yellow. The solution was then left to cool, whilst stirring, for 24 h. The solvent was then evaporated to ca. 10 mL to produce a yellow solid powder, stable in air, which was filtered off and characterised as L.</p>
+      <p>Yield: 67.6%.</p>
+      <p>MALDI-TOF-MS: <italic>m/z</italic> = 625 [LH]<sup>+</sup></p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>) &#x3B4; (ppm) = 8.84 (s, 2H, N=C-H); 8.13&#x2013;6.90 (m, C-H ar); 5.24 (s, 2H, N-CH); 5.09 (s, 4H, OCH<sub>2</sub>).</p>
+      <p>Elemental analysis: calculated for C<sub>44</sub>H<sub>36</sub>N<sub>2</sub>O<sub>2</sub> (624.76) C, 84.59%; H, 5.81%; N, 4.49%. Found: C, 84.10%; H, 5.81%; N, 4.55%.</p>
+      <p>IR (cm-1) (<bold>L</bold>): 3100 (C-H, Ar), 1640 (C=N), 1620, 1600, 1520 and 1500 (C=C, Ar).</p>
+      <p>Uv-vis (CHCl<sub>3</sub>), [<bold>L</bold>] = 1.0 &#xD7;10<sup>&#x2212;5</sup> M, &#x3BB;<sub>max</sub> 250 nm, 280 nm and 294 nm</p>
+      <p>Fluorescence Emission (CHCl<sub>3</sub>); [<bold>L</bold>] = 1.0 &#xD7;10<sup>&#x2212;5</sup>: &#x3BB;<sub>max</sub> 340 nm (monomer) and 440 nm (excimer).</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2010-M702">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M702-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M702-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M702-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M702-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>E. Bertolo thanks Canterbury Christ Church University Research Grant Fund for financial support. C. Lodeiro thanks University of Vigo INOU-ViCou K914 (Spain) and Scientific PROTEOMASS Association (Ourense-Spain) for financial support, and Xunta de Galicia for the Isidro Parga Pondal Research programme. </p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+	  <ref id="B1-molbank-2010-M702">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Mejuto</surname>
+              <given-names>J.C.</given-names>
+            </name>
+			<name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+			<name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Nu&#xF1;ez</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Light and colour as analytical detection tools: A journey into the periodic table using polyamines to bio-inspired systems as chemosensors</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2010</year>
+          <volume>39</volume>
+          <fpage>2948</fpage>
+          <lpage>2976</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M702">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pina</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Luminescent and chromogenic molecular probes based on polyamines and related compounds</article-title>
+          <source>Coordin. Chem. Rev.</source>
+          <year>2009</year>
+          <volume>253</volume>
+          <fpage>1353</fpage>
+          <lpage>1385</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M702">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bencini</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lippolis</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,10-phenanthroline: A versatile building block for the construction of ligands for various purposes</article-title>
+          <source>Coordin. Chem. Rev.</source>
+          <year>2010</year>
+          <volume>254</volume>
+          <fpage>2096</fpage>
+          <lpage>2180</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M702">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mewis</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Archibald</surname>
+              <given-names>S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biomedical applications of macrocyclic ligand complexes</article-title>
+          <source>Coordin. Chem. Rev.</source>
+          <year>2010</year>
+          <volume>254</volume>
+          <fpage>1686</fpage>
+          <lpage>1712</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M702">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pazos</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>V&#xE1;zquez</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Mascare&#xF1;as</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>V&#xE1;zquez</surname>
+              <given-names>E.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peptide-based fluorescent biosensors</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2009</year>
+          <volume>38</volume>
+          <fpage>3348</fpage>
+          <lpage>3359</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M702">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+			<name>
+              <surname>Fernades</surname>
+              <given-names>L.</given-names>
+            </name>
+			<name>
+              <surname>Covelo</surname>
+              <given-names>B.</given-names>
+            </name>
+			<name>
+              <surname>Tamayo</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Bertolo</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+			<name>
+              <surname>Avil&#xE9;s</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sensing metal ions with twoazomethine-thiophene pincer ligands (NSN): Fluorescence and MALDI-TOF-MS applications</article-title>
+          <source>Inorg. Chem. Commun.</source>
+          <year>2007</year>
+          <volume>10</volume>
+          <fpage>925</fpage>
+          <lpage>929</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M702">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sheng</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Wang</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Li</surname>
+              <given-names>H.</given-names>
+            </name>
+			<name>
+              <surname>Wu</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Water Soluble &#x201C;Switching On&#x201D; fluorescent Chemosenor of Selectivity to Cd<sup>2+</sup></article-title>
+          <source>Org. Lett.</source>
+          <year>2007</year>
+          <volume>9</volume>
+          <fpage>3829</fpage>
+          <lpage>3832</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M702">
+        <label>8.</label>
+        <citation citation-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yson</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterisation of a N<sub>2</sub>O<sub>2</sub> containing compound with potential application as a sensor for Cu(II) and Zu (II)</article-title>
+          <source>BSc Thesis</source>
+		  <publisher-name>Canterbury Christ Church University</publisher-name>
+          <year>2007</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure</title>
+      <fig id="molbank-2010-M702-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Schematic synthesis of L.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M702-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

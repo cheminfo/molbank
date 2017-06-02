@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M626</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M626</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>S*</italic>)-2,7,8-Trihydroxychroman-4-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cheng</surname>
+            <given-names>Ming-Jen</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M626" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lo</surname>
+            <given-names>Wen-Li</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M626" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yeh</surname>
+            <given-names>Hung-Chun</given-names>
+          </name>
+          <xref rid="af3-molbank-2009-M626" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Chung-Yi</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M626" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2009-M626" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M626"><label>1</label>Bioresource Collection and Research Center (BCRC), Food Industry Research and Development Institute (FIRDI), Hsinchu, Taiwan</aff>
+      <aff id="af2-molbank-2009-M626"><label>2</label>School of Medical and Health Sciences, Fooyin University, Kaohsiung County, Taiwan</aff>
+      <aff id="af3-molbank-2009-M626"><label>3</label>Department of Medical Technology, Fooyin University, Kaohsiung County, Taiwan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M626"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>xx377@mail.fy.edu.tw</email>; Tel.: +886-7-7811151 ex 6200; Fax: +886-7-7834548.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>10</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>4</issue>
+      <elocation-id>M626</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>09</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>10</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Reticumanone (<bold>1</bold>), a new chromanone, isolated from the leaves of <italic>Cinnamomum reticulatum</italic> Hay (Lauraceae), has been characterized as (<italic>S</italic><italic>*</italic>)-2,7,8-trihydroxychroman-4-one, by means of spectroscopic methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>Cinnamomum reticulatum</italic> Hay</kwd>
+        <kwd>Lauraceae</kwd>
+        <kwd>reticumanone</kwd>
+        <kwd>chromanone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2009-M626" sec-type="intro">
+      <title>1. Introduction </title>
+      <p>The <italic>Cinnamoum</italic> species (Lauraceae) have been used in folk medicine for sweating, antipyretic, and analgesic effect [<xref ref-type="bibr" rid="B1-molbank-2009-M626">1</xref>]. There is only one paper describing the constituents of <italic>Cinnamomum reticulatum</italic> Hay [<xref ref-type="bibr" rid="B1-molbank-2009-M626">1</xref>]. In the course of screening for biologically and chemically novel agents from Formosan Lauraceous plants [<xref ref-type="bibr" rid="B2-molbank-2009-M626">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M626">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2009-M626">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2009-M626">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2009-M626">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2009-M626">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2009-M626">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2009-M626">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2009-M626">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2009-M626">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2009-M626">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2009-M626">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M626">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2009-M626">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2009-M626">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2009-M626">17</xref>], <italic>C</italic><italic>. reticulatum</italic> Hay was chosen for further phytochemical investigation. In this paper, we report the isolation and structural elucidation of this new chromanone compound (<bold>1</bold>). </p>
+    </sec>
+    <sec id="sec2-molbank-2009-M626" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Reticumanone (<bold>1</bold>), obtained as a white amorphous powder (CHCl<sub>3</sub>), was assigned the molecular formula C<sub>9</sub>H<sub>8</sub>O<sub>5</sub> by HR-EIMS at <italic>m/z</italic> [M]<sup>+</sup> 196.0374 (calcd for C<sub>9</sub>H<sub>8</sub>O<sub>5</sub>, 196.0372). UV &#x3BB;<sub>max</sub> at 273, 310 (sh), 322 nm, IR bands at 1660 cm<sup>-1</sup> and a signal appearing at &#x3B4; 182.4 in the <sup>13</sup>C-NMR spectrum indicate the chromanone skeleton of this compound [<xref ref-type="bibr" rid="B18-molbank-2009-M626">18</xref>]. The IR spectrum revealed the presence of a hydroxyl group absorption at &#x3BD; 3400 cm<sup>-1</sup>. The <sup>1</sup>H-NMR spectrum of <bold>1</bold> showed one set of AB doublet signals at &#x3B4; 6.81 (1H, d, <italic>J</italic> = 8.8), and 7.31 (1H, d, <italic>J</italic> = 8.8), one methine proton at &#x3B4; 5.32 (1H, dd, <italic>J</italic> = 9.0, 3.4), and two methylene protons at &#x3B4; 2.67 (1H, dd, <italic>J</italic> = 16.8, 9.0)/3.08 (1H, dd, <italic>J</italic> = 16.8, 3.4), indicating that <bold>1</bold> was probably a 2,7,8-trihydroxychroman-4-one. The <sup>13</sup>C-NMR spectrum indicated that compound <bold>1</bold> had a total of 9 carbons, with the skeleton consisting of a chroman-4-one. The carbons of the chroman-4-one were assigned, from <sup>13</sup>C-NMR and DEPT experiments, one methylene at &#x3B4; 45.9 (C-3); three methines at &#x3B4; 92.4 (C-2), 126.8 (C-6) and 131.4 (C-5); and five quaternary carbons at &#x3B4; 111.8 (C-4a), 135.7 (C-8), 150.6 (C-8a), 152.1 (C-7) and 182.9 (C-4). The structure of <bold>1</bold> was also confirmed by 2D NMR experiments. A COSY correlation was observed between H-2 and H-3, and between H-5 and H-6 (<xref ref-type="fig" rid="molbank-2009-M626-f001">Figure 1</xref>). The HETCOR experiment showed that the carbon signals at &#x3B4; 92.4 for C-2, 45.9 for C-3, 131.4 for C-5 and 126.8 for C-6 were correlated to the proton signals at &#x3B4; 5.32 for H-2, 2.67/3.08 for H-3, 7.31 for H-5 and 6.81 for H-6, respectively. The relative configuration of <bold>1</bold> was determined by 2D NOESY analysis. The observation of the NOESY correlation from H-3eq. to H-2 suggested that H-2 was in the &#x3B2;&#x2013;configuration (<xref ref-type="fig" rid="molbank-2009-M626-f002">Figure 2</xref>). Thus, the structure of <bold>1</bold> was determined to be (<italic>S</italic><italic>*</italic>)-2,7,8-trihydroxychroman-4-one and has been named reticumanone.</p>
+    </sec>
+    <sec id="sec3-molbank-2009-M626" sec-type="methods">
+      <title>3. Experimental</title>
+      <sec id="sec3dot1-molbank-2009-M626">
+        <title>3.1. General</title>
+        <p>UV spectra were obtained on a Jasco UV-240 spectrophotometer in CH<sub>3</sub>CN, IR spectra were measured on a Hitachi 260-30 spectrophotometer. <sup>1</sup>H NMR (400 MHz), HETCOR, HMBC, COSY, NOESY, and DEPT spectra were obtained on a Varian (Unity Plus) NMR spectrometer. Low-resolution EIMS spectra were collected on a Jeol JMS-SX/SX 102A mass spectrometer or Quattro GC/MS spectrometer having a direct inlet system. High-resolution EIMS spectrum was measured on a Jeol JMS-HX 110 mass spectrometer. Silica gel 60 (Merck, 70~230 mesh, 230~400 mesh) was used for column chromatography. Precoated Silica gel plates (Merck, Kieselgel 60 F-254), 0.20 mm and 0.50 mm, were used for analytical TLC and preparative TLC, respectively, visualized with 50% H<sub>2</sub>SO<sub>4</sub>.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2009-M626">
+        <title>3.2. Plant Material</title>
+        <p>The leaves of <italic>C. reticulatum</italic> Hay were collected from Pingtung County, Taiwan, May 2005. Plant material was identified by Professor Fu-Yuan Lu (Department of Forestry and Natural Resources College of Agriculture, National Chiayi University). A voucher specimen (Cinnamo. 6) was deposited in the School of Medical and Health Sciences, Fooyin University, Kaohsiung County, Taiwan.</p>
+      </sec>
+      <sec id="sec3dot3-molbank-2009-M626">
+        <title>3.3. Extraction and Isolation</title>
+        <p>The air-dried leaves of <italic>C. reticulatum</italic> Hay (3.4 kg) were extracted with <italic>n</italic>-hexane (30 L &#xD7; 5) and CHCl<sub>3</sub> (30 L &#xD7; 5) at room temperature and a <italic>n</italic>-hexane extract (43.5 g) and CHCl<sub>3</sub> extract (151.5 g) were obtained upon concentration under reduced pressure. The <italic>n</italic>-hexane extract (43.5 g) was chromatographed over silica gel (980 g, 70&#x2212;230 mesh) using <italic>n</italic>-hexane/EtOAc/Acetone mixtures as eluents to produce five fractions. Part of fraction 4 (10.62 g) was subjected to silica gel chromatography by eluting with CHCl<sub>3</sub>-MeOH (60:1), enriched with MeOH to furnish five further fractions (4-1&#x2212;4-5). Fraction 4-2 (2.56 g) was further purified on a silica gel column using CHCl<sub>3</sub>-MeOH mixtures to obtain reticumanone (4 mg).</p>
+        <p><bold>Reticumanone</bold> ((<italic>S</italic><italic>*</italic>)-2,7,8-trihydroxychroman-4-one) (<bold>1</bold>): White amorphous powder (CHCl<sub>3</sub>); [&#x3B1;]<sup>25</sup><sub>D</sub>&#x2013;12.6&#xB0; (c 0.005, CHCl<sub>3</sub>); UV/Vis (CH<sub>3</sub>CN): &#x3BB;<sub>max</sub> (log <italic>&#x3B5;</italic>): 273 (3.62), 310 (sh), 322 (3.00) nm; IR (neat) &#x3BD;<sub>max</sub>: 3400 (br, OH), 2920, 2850, 1660 (C=O), 1250 cm<sup>-1</sup>; MS (EI, 70 eV): <italic>m/z</italic> (%): 196 [M]<sup>+</sup> (45), 179 (57), 163 (64), 147 (100), 90 (32); HR-MSEI: <italic>m/z</italic> [M]<sup>+</sup> calcd for C<sub>9</sub>H<sub>8</sub>O<sub>5</sub>: 196.0372; found: 196.0374; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; 2.67 (1H, dd, <italic>J</italic> = 16.8, 9.0 Hz, H-3ax.), 3.08 (1H, dd, <italic>J</italic> = 16.8, 3.4 Hz, H-3eq.), 5.32 (1H, dd, <italic>J</italic> = 9.0, 3.4 Hz, H-2), 6.81 (1H, d, <italic>J</italic> = 8.8 Hz, H-6), 7.31 (1H, d, <italic>J</italic> = 8.8 Hz, H-5); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): 45.9 (C-3, CH<sub>2</sub>), 92.4 (C-2, CH), 111.8 (C-4a, C), 126.8 (C-6, CH), 131.4 (C-5, CH), 135.7 (C-8, C), 150.6 (C-8a, C), 152.1 (C-7, C), 182.9 (C-4, C).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+<app-group>
+    <app id="app1-molbank-2009-M626">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M626-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M626-s002-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M626-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M626-s002.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This investigation was supported by a grant from the National Science Council of Republic of China (NSC-97-2320-B-242-002-MY3).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M626">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuo</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+            <name>
+              <surname>Shue</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>New esters, 2-(4-hydroxy-3-methoxyphenyl)ethyl hexa- and octacosanoates from the leaves of <italic>Cinnamomum reticulatum</italic> Hay</article-title>
+          <source>J. Chin. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>38</volume>
+          <fpage>65</fpage>
+          <lpage>69</lpage>
+          <pub-id pub-id-type="doi">10.1002/jccs.199100012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M626">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Yeh</surname>
+              <given-names>Y.T.</given-names>
+            </name>
+            <name>
+              <surname>Yen</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic compounds from the stems of <italic>Cinnamomum tenuifolium</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2009</year>
+          <volume>72</volume>
+          <comment>in press</comment>
+          <pub-id pub-id-type="doi">10.1021/np900225p</pub-id>
+          <pub-id pub-id-type="pmid">19754130</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M626">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B.N.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Yen</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anticancer activity of Isoobtusilactone A from <italic>Cinnamomum kotoense</italic>: Involvement of apoptosis, cell-cycle dysregulation, mitochondria regulation, and reactive oxygen species</article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2008</year>
+          <volume>71</volume>
+          <fpage>933</fpage>
+          <lpage>940</lpage>
+          <pub-id pub-id-type="doi">10.1021/np070620e</pub-id>
+          <pub-id pub-id-type="pmid">18489163</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M626">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>P.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kotomolide A arrests cell cycle progression and induces apoptosis through the induction of ATM/p53 and the initiation of mitochondrial system in human non-small cell lung cancer A549 cells</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2008</year>
+          <volume>46</volume>
+          <fpage>2476</fpage>
+          <lpage>2484</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fct.2008.04.016</pub-id>
+          <pub-id pub-id-type="pmid">18511169</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M626">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuo</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Tzeng</surname>
+              <given-names>T.F.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Involvement of reactive oxygen species/c-Jun NH<sub>2</sub>-terminal kinase pathway in kotomolide A induces apoptosis in human breast cancer cells</article-title>
+          <source>Toxicol. Appl. Pharmacol.</source>
+          <year>2008</year>
+          <volume>229</volume>
+          <fpage>215</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.taap.2008.01.034</pub-id>
+          <pub-id pub-id-type="pmid">18374381</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M626">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuo</surname>
+              <given-names>S.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.D.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Hsui</surname>
+              <given-names>Y.R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic constituents from the leaves of <italic>Cinnamomum subavenium</italic></article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2008</year>
+          <volume>56</volume>
+          <fpage>97</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.56.97</pub-id>
+          <pub-id pub-id-type="pmid">18175985</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M626">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>T.Z.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Yiin</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoobtusilactone A induces both caspase&#x2013;dependent and &#x2013;independent apoptosis in Hep G2 cells</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2008</year>
+          <volume>46</volume>
+          <fpage>321</fpage>
+          <lpage>327</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fct.2007.08.014</pub-id>
+          <pub-id pub-id-type="pmid">17897765</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M626">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.D.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel cytotoxic monoterpenoid from the leaves of <italic>Cinnamomum subavenium</italic></article-title>
+          <source>Nat. Prod. Res.</source>
+          <year>2008</year>
+          <volume>22</volume>
+          <fpage>1055</fpage>
+          <lpage>1059</lpage>
+          <pub-id pub-id-type="doi">10.1080/14786410802228637</pub-id>
+          <pub-id pub-id-type="pmid">18780246</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M626">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.W.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.D.</given-names>
+            </name>
+            <name>
+              <surname>Hsui</surname>
+              <given-names>Y.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic constituents of the stems of <italic>Cinnamomum subavenium</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2007</year>
+          <volume>70</volume>
+          <fpage>103</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="doi">10.1021/np060425k</pub-id>
+          <pub-id pub-id-type="pmid">17253858</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M626">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>P.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isokotomolide A, a new butanolide extracted from the leaves of <italic>Cinnamomum kotoense</italic>, arrests cell cycle progression and induces apoptosis through the induction of p53/p21 and the initiation of mitochondrial system in human non-small cell lung cancer A549 cells</article-title>
+          <source>Eur. J. Pharmacol.</source>
+          <year>2007</year>
+          <volume>574</volume>
+          <fpage>94</fpage>
+          <lpage>102</lpage>
+          <pub-id pub-id-type="pmid">17707793</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M626">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>T.Z.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Yiin</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Chern</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoobtusilactone A-induced apoptosis in human hepatoma Hep G2 cells is mediated via increased NADPH oxidase-derived reactive oxygen species (ROS) production and the mitochondria-associated apoptotic mechanisms</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2007</year>
+          <volume>45</volume>
+          <fpage>1268</fpage>
+          <lpage>1276</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fct.2007.01.008</pub-id>
+          <pub-id pub-id-type="pmid">17321026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2009-M626">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuo</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoobtusilactone A induced cell cycle arrest and apoptosis through reactive oxygen species/apoptosis signal-regulating kinase 1 signaling pathway in human breast cancer cells</article-title>
+          <source>Cancer Res.</source>
+          <year>2007</year>
+          <volume>67</volume>
+          <fpage>7406</fpage>
+          <lpage>7420</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-1089</pub-id>
+          <pub-id pub-id-type="pmid">17671211</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2009-M626">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical and cytotoxic constituents from the leaves of <italic>Cinnamomum kotoense</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2006</year>
+          <volume>69</volume>
+          <fpage>927</fpage>
+          <lpage>933</lpage>
+          <pub-id pub-id-type="doi">10.1021/np060107l</pub-id>
+          <pub-id pub-id-type="pmid">16792412</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2009-M626">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Butanolides from the stem of <italic>Cinnamomum kotoense</italic></article-title>
+          <source>Nat. Prod. Commun.</source>
+          <year>2006</year>
+          <volume>1</volume>
+          <fpage>453</fpage>
+          <lpage>455</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2009-M626">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lignans from the stem of <italic>Cinnamomum camphora</italic></article-title>
+          <source>Nat. Prod. Commun.</source>
+          <year>2006</year>
+          <volume>1</volume>
+          <fpage>21</fpage>
+          <lpage>25</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2009-M626">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Liou</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>L.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Using experimental studies and theoretical calculations to analyze the molecular mechanism of coumarin, <italic>p</italic>-hydroxybenzoic acid, and cinnamic acid</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>2005</year>
+          <volume>741</volume>
+          <fpage>21</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2005.02.009</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2009-M626">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>S.F.</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>T.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituent chemical shift of rhamnosides from the stems of <italic>Cinnamomum osmophleum</italic></article-title>
+          <source>Chin. Pharm. J.</source>
+          <year>2004</year>
+          <volume>56</volume>
+          <fpage>141</fpage>
+          <lpage>146</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2009-M626">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ngo</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Thi</surname>
+              <given-names>C.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>An unusual <italic>m</italic>-hydroxyacetophenone and three new chromanone derivatives from <italic>Chrysothamnus viscidiflorus</italic></article-title>
+          <source>Phytochemistry</source>
+          <year>1981</year>
+          <volume>20</volume>
+          <fpage>485</fpage>
+          <lpage>487</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(00)84171-0</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures</title>
+      <fig id="molbank-2009-M626-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>COSY and HMBC Correlation of reticumanone (<bold>1</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M626-g001.tif"/>
+      </fig>
+      <fig id="molbank-2009-M626-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>NOESY Correlations of reticumanone (<bold>1</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M626-g002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

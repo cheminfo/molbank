@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M854</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M854</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methyl 2-[(2-{2-[(2-acetamidophenyl)ethynyl]benzamido}phenyl)ethynyl]benzoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Demizu</surname>
+            <given-names>Yosuke</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M854" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2015-M854" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Misawa</surname>
+            <given-names>Takashi</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M854" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yamagata</surname>
+            <given-names>Nanako</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M854" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Doi</surname>
+            <given-names>Mitsunobu</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M854" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kurihara</surname>
+            <given-names>Masaaki</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M854" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2015-M854" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M854"><label>1</label>Division of Organic Chemistry, National Institute of Health Sciences, 1-18-1, Kamiyoga, Setagaya, Tokyo 158-8501, Japan; E-Mails: <email>misawa@nihs.go.jp</email> (T.M.); <email>Nanako_Yamagata@ooc.co.jp</email> (N.Y.)</aff>
+      <aff id="af2-molbank-2015-M854"><label>2</label>Osaka University of Pharmaceutical Sciences, Osaka 569-1094, Japan; E-Mail: <email>doit@gly.oups.ac.jp</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M854"><label>*</label> Author to whom correspondence should be addressed; E-Mails: <email>demizu@nihs.go.jp</email> (Y.D.); <email>masaaki@nihs.go.jp</email> (M.K.); Tel./Fax: +81-3-3700-1141 (Y.D. &amp; M.K.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>04</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>2</issue>
+      <elocation-id>M854</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>02</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>04</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was prepared by inducing amide bond formation between methyl 2-[(2-aminophenyl)ethynyl]benzoate and 2-[(2-acetamidophenyl)ethynyl]benzoic acid in the presence of dichlorotriphenylphosphorane. The structure of the synthesized compound was determined on the basis of its <sup>1</sup>H-nuclear magnetic resonance (NMR), <sup>13</sup>C-NMR, and mass spectral data. Furthermore, the compound&#x2019;s crystal structure is also reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>foldamer</kwd>
+        <kwd>aromatic amide</kwd>
+        <kwd>X-ray crystallographic analysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The <italic>de novo</italic> design of oligomers that form well-defined three-dimensional conformations is of extraordinary importance in the fields of biotechnology, nanotechnology, and medicinal chemistry. Such conformationally ordered molecules are called foldamers [<xref ref-type="bibr" rid="B1-molbank-2015-M854">1</xref>], and amide, urea, arene, and acetylene units are often utilized as templates for constructing such foldamers [<xref ref-type="bibr" rid="B2-molbank-2015-M854">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M854">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M854">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M854">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M854">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M854">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M854">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M854">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M854">10</xref>]. In this note, we report the synthesis of the hybrid foldamer methyl 2-[(2-{2-[(2-acetamidophenyl)ethynyl]benzamido}phenyl)ethynyl]benzoate (<bold>3</bold>), which possesses both amide and acetylene units. Its dominant conformation in the crystalline state was also analyzed by X-ray crystallographic analysis.</p>
+      <p>During the synthesis of the molecule, the coupling of methyl 2-[(2-aminophenyl)ethynyl]benzoate (<bold>1</bold>) [<xref ref-type="bibr" rid="B11-molbank-2015-M854">11</xref>] and 2-[(2-acetamidophenyl)ethynyl]benzoic acid (<bold>2</bold>) [<xref ref-type="bibr" rid="B12-molbank-2015-M854">12</xref>] was induced with dichlorotriphenylphosphorane in CHCl<sub>3</sub> to give the target molecule <bold>3</bold> in a 95% yield. The structure of <bold>3</bold> was subsequently determined on the basis of its <sup>1</sup>H-nuclear magnetic resonance (NMR), <sup>13</sup>C-NMR, and mass spectral data. </p>
+      <p>The three-dimensional structure of <bold>3</bold> was determined by X-ray crystallographic analysis [<xref ref-type="bibr" rid="B13-molbank-2015-M854">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2015-M854">14</xref>]. Single crystals of <bold>3</bold> were obtained via the slow evaporation of tetrahydrofuran. The X-ray crystallographic structure of <bold>3</bold> was solved with a <italic>C<sub>c</sub></italic> spacer group, resulting in left- and right-handed folded structures containing 1.5 residues per turn (<xref ref-type="fig" rid="molbank-2015-M854-f001">Figure 1</xref>). In the crystal structure of <bold>3</bold>, two hydrogen bonds were observed between H-N(1) and C(1)=O(1) [N(1)&#xB7;&#xB7;&#xB7;O(1) = 3.15 &#xC5;; N-H&#xB7;&#xB7;&#xB7;O 165.9&#xB0;] and between H-N(2) and C(2)=O(2) [N(2)&#xB7;&#xB7;&#xB7;O(2) = 3.10 &#xC5;; N-H&#xB7;&#xB7;&#xB7;O 159.9&#xB0;]. The new folding molecule described in this study is expected to be useful for designing foldamer scaffolds.</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>General Information </title>
+        <p>The molecule&#x2019;s <sup>1</sup>H and <sup>13</sup>C-NMR spectra were recorded on a <italic>Varian AS 400</italic> spectrometer (Agilent, Santa Clara, CA, USA) after being dissolved in CDCl<sub>3</sub>, and tetramethylsilane was used as an internal standard. The molecule&#x2019;s coupling constants (<italic>J</italic>) are reported in Hz and refer to the apparent peak multiplicities (s = singlet, d = doublet, t = triplet, m = multiplet, br s= broad singlet). The molecule&#x2019;s melting point was determined using a <italic>Yanako MP-13</italic> (Yanako, Kyoto, Japan). High resolution mass spectra were recorded on a SHIMADZU <italic>LCMS-IT-TOF</italic> spectrometer (SHIMADZU, Kyoto, Japan). The data collection for the X-ray diffraction analysis was performed on Rigaku RAXIS-RAPID and Bruker AXS SMART APEX imaging plate diffractometers (Bruker, Yokohama, Japan) using graphite-monochromated Mo<italic>K</italic>&#x3B1; radiation.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of Methyl 2-[(2-{2-[(2-acetamidophenyl)ethynyl]benzamido}phenyl)ethynyl]benzoate <italic>(<bold>3</bold>)</italic></title>
+        <p>Dichlorotriphenylphosphorane (1.0 g, 3.0 mmol) and 2-[(2-aminophenyl)ethynyl]benzoate (<bold>1</bold>) (376.9 mg 1.5 mmol) were added to a solution of 2-[(2-acetamidophenyl)ethynyl]benzoic acid (<bold>2</bold>) (279.3 mg, 1.0 mmol) in chloroform (5.0 mL). The reaction mixture was stirred for 3 h at 70 &#xB0;C under an argon atmosphere. Chloroform (50 mL) was added to the solution, which was then washed with water (30 mL &#xD7; 2) and brine (10 mL), before being dried over Na<sub>2</sub>SO<sub>4</sub>. The solvent was removed in vacuo, and the resultant product was purified by chromatography on silica gel (30% AcOEt in hexane) to give <bold>3</bold> (486 mg, 95%) as a colorless crystal.</p>
+		<p>Mp: 161&#x2013;163 &#xB0;C</p>
+        <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 400 MHz) &#x3B4; 9.73 (br s, 1H), 8.81 (br s, 1H), 8.48-8.51 (m, 2H), 7.98 (d, 2H, <italic>J</italic> = 8.0 Hz), 7.85 (d, 1H, <italic>J</italic> = 7.2 Hz), 7.67 (d, 1H, <italic>J</italic> = 6.8 Hz), 7.57 (t, 2H, <italic>J</italic> = 7.6 Hz), 7.47&#x2013;7.53 (m, 2H), 7.35&#x2013;7.43 (m, 3H), 7.31 (t, 1H, <italic>J</italic> = 8.4 Hz), 7.15 (t, 1H, <italic>J</italic> = 7.6 Hz), 6.97 (t, 1H, <italic>J</italic> = 7.6 Hz), 3.34 (s, 3H), 2.29 (s, 3H).</p>
+        <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 400 MHz) &#x3B4; 24.6, 51.9, 89.8, 90.4, 93.9, 95.1, 111.5, 113.1, 119.6, 120.6, 122.2, 122.7, 123.8, 123.9, 127.9, 128.2, 129.0, 129.7, 129.9, 130.1, 130.5, 130.6, 131.6, 132.1, 132.3, 133.0, 133.7, 137.6, 140.2, 140.7, 165.4, 167.3, 170.1. </p>
+        <p>HRMS (ESI-TOF): [M + Na]<sup>+</sup> calcd for C<sub>33</sub>H<sub>24</sub>N<sub>2</sub>NaO<sub>4</sub> 535.1628; found 535.1634. </p>
+	</sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M854">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M854-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M854-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2015-M854-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M854-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+  </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This study was supported, in part, by JSPS KAKENHI Grant Number 26460169 (YD), and by a Grant-in-Aid from the Tokyo Biochemical Research Foundation (YD).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The listed authors contributed to this study in the following ways: T. Misawa and N. Yamagata performed the synthesis and identification; M. Doi performed the X-ray crystallographic analysis; and Y. Demizu and M. Kurihara prepared the manuscript. All of the authors have read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare that no conflicts of interest exist.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M854">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horne</surname>
+              <given-names>W.S.</given-names>
+            </name>
+            <name>
+              <surname>Gellman</surname>
+              <given-names>S.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Foldamers with heterogeneous backbones</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2008</year>
+          <volume>41</volume>
+          <fpage>1399</fpage>
+          <lpage>1408</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar800009n</pub-id>
+          <pub-id pub-id-type="pmid">18590282</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M854">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fischer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Guichard</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Folding and self-assembly of aromatic and aliphatic urea oligomers: Towards connecting structure and function</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2010</year>
+          <volume>8</volume>
+          <fpage>3101</fpage>
+          <lpage>3117</lpage>
+          <pub-id pub-id-type="doi">10.1039/c001090a</pub-id>
+          <pub-id pub-id-type="pmid">20502838</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M854">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saraogi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>A.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent advances in the development of aryl-based foldamers</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2009</year>
+          <volume>38</volume>
+          <fpage>1726</fpage>
+          <lpage>1743</lpage>
+          <pub-id pub-id-type="doi">10.1039/b819597h</pub-id>
+          <pub-id pub-id-type="pmid">19587965</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M854">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Demizu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Doi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kurihara</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Helical foldamer containing a combination of cyclopentane-1,2-diamine and 2,2-dimethylmalonic acid</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2013</year>
+          <volume>78</volume>
+          <fpage>9991</fpage>
+          <lpage>9994</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo401505b</pub-id>
+          <pub-id pub-id-type="pmid">23957650</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M854">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demizu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Doi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kurihara</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oligopeptides with equal amounts of L- and D-amino acids may prefer a helix screw sense</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2013</year>
+          <volume>78</volume>
+          <fpage>9991</fpage>
+          <lpage>9994</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo402133e</pub-id>
+          <pub-id pub-id-type="pmid">24191707</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M854">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kemp</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-Amino-2&#x2032;-carboxydiphenylacetylenes as &#x3B2;-turn mimetics. Synthesis and conformational properties</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>4175</fpage>
+          <lpage>4178</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(95)00775-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M854">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kemp</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>A short &#x3B2;-sheet containing proline nucleated by a 2,2&#x2032;-substituted tolan &#x3B2;-turn mimetic</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>4179</fpage>
+          <lpage>4180</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(95)00776-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M854">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lingard</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>I.K.H.</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>R.T.W.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>A.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diphenylacetylene-Linked Peptide Strands Induce Bidirectional &#x3B2;-Sheet Formation</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2014</year>
+          <volume>53</volume>
+          <fpage>3650</fpage>
+          <lpage>3653</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.201309353</pub-id>
+          <pub-id pub-id-type="pmid">24554626</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M854">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>X.W.</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Furukawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>X.C.</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Backbone-rigidfied oligo(<italic>m</italic>-phenylene ethynylenes)</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2004</year>
+          <volume>126</volume>
+          <fpage>3148</fpage>
+          <lpage>3162</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja039416d</pub-id>
+          <pub-id pub-id-type="pmid">15012145</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M854">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fu</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>H.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Shape-persistent H-bonded macrocyclic aromatic pentamers</article-title>
+          <source>Chem. Commun.</source>
+          <year>2013</year>
+          <volume>49</volume>
+          <fpage>4127</fpage>
+          <lpage>4144</lpage>
+          <pub-id pub-id-type="doi">10.1039/c2cc36698c</pub-id>
+          <pub-id pub-id-type="pmid">23320255</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M854">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Offermann</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>McKendrick</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Sejberg</surname>
+              <given-names>J.J.P.</given-names>
+            </name>
+            <name>
+              <surname>Mo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Holdom</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Helm</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Leatherbarrow</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Beavil</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Sutton</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Spivey</surname>
+              <given-names>A.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and incorporation into cyclic peptides of tolan amino acids and their hydrogenated congeners: construction of an array of A-B-loop mimetics of the c&#x3B5;3 domain of human IgE</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2012</year>
+          <volume>77</volume>
+          <fpage>3197</fpage>
+          <lpage>3214</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo202604q</pub-id>
+          <pub-id pub-id-type="pmid">22397517</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M854">
+        <label>12.</label>
+        <note>
+          <p>Compound <bold>2</bold> was prepared by N-acetylation of compound <bold>1</bold> and the subsequent alkaline hydrolysis of the methyl ester.</p>
+        </note>
+      </ref>
+      <ref id="B13-molbank-2015-M854">
+        <label>13.</label>
+        <note>
+          <p>CCDC-784138 (<bold>3</bold>) contains the supplementary crystallographic data for this paper. These data can be obtained free of charge at <uri>www.ccdc.cam.ac.uk/conts/retrieving.html</uri> (or from the Cambridge Crystallographic Data Centre, 12, Union Road, Cambridge CB2 1EZ, UK; fax: (+44) 1223-336-033; or <email>deposit@ccdc.cam.ac.uk</email>).</p>
+        </note>
+      </ref>
+      <ref id="B14-molbank-2015-M854">
+        <label>14.</label>
+        <note>
+          <p><italic>Crystal data for</italic> <bold>3</bold>: C<sub>33</sub>H<sub>24</sub>N<sub>2</sub>O<sub>4</sub>; <italic>M</italic>r = 512.54; Monoclinic; <italic>Cc</italic>, <italic>a</italic> = 18.3920, <italic>b</italic> = 9.0316, <italic>c</italic> = 15.1378 &#xC5;; &#x3B1; = 90, <italic>&#x3B2;</italic> = 114.054, &#x3B3; = 90&#xB0;; V = 2513.2 &#xC5;<sup>3</sup>; <italic>Z</italic> = 4; <italic>D</italic><sub>calc</sub> = 1.355 g/cm<sup>3</sup>; <italic>&#x3BC;</italic> (Mo<italic>K&#x3B1;</italic>) = 0.90 cm<sup>&#x2212;1</sup>; No. of observations (<italic>I</italic> &gt; 2&#x3C3;(<italic>I</italic>)) = 4457; No. of variables = 352; <italic>R<sub>1</sub></italic> = 0.0658, and <italic>R<sub>w</sub></italic> = 0.1753.</p>
+        </note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2015-M854-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M854-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of methyl 2-[(2-{2-[(2-acetamidophenyl)ethynyl]benzamido}phenyl)ethynyl]benzoate (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M854-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M854-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>X-ray diffraction structure of <bold>3</bold> as viewed (<bold>a</bold>) perpendicular to and (<bold>b</bold>) along its helical axis. The left-handed folded structure and hydrogen atoms have been omitted for clarity.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M854-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

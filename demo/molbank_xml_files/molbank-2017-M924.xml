@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M924</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2017-M924</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>E</italic>)-1-(2-Aminophenyl)-3-(benzo[<italic>d</italic>][1,3]dioxol-5-yl)prop-2-en-1-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abonia</surname>
+            <given-names>Rodrigo</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2017-M924" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arteaga</surname>
+            <given-names>Diana</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Insuasty</surname>
+            <given-names>Daniel</given-names>
+          </name>
+		  <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quiroga</surname>
+            <given-names>Jairo</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Insuasty</surname>
+            <given-names>Braulio</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moreno-Fuquen</surname>
+            <given-names>Rodolfo</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M924" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kennedy</surname>
+            <given-names>Alan R.</given-names>
+          </name>
+          <xref rid="af2-molbank-2017-M924" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Boer&#xE9;</surname>
+            <given-names>Ren&#xE9; T.</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2017-M924"><label>1</label>Department of Chemistry, Universidad del Valle, A.A. 25360 Santiago de Cali, Colombia; <email>diana.arteaga@correounivalle.edu.co</email> (D.A.); <email>daniel.insuasty@correounivalle.edu.co</email> (D.I.); <email>jairo.quiroga@correounivalle.edu.co</email> (J.Q.); <email>braulio.insuasty@correounivalle.edu.co</email> (B.I.); <email>rodimo26@yahoo.es</email> (R.M-F.)</aff>
+      <aff id="af2-molbank-2017-M924"><label>2</label>WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde, 295 Cathedral Street, Glasgow G1 1XL, Scotland; <email>a.r.kennedy@strath.ac.uk</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2017-M924"><label>*</label>Correspondence: <email>rodrigo.abonia@correounivalle.edu.co</email>; Tel.: +57-2-339-3248</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>2017</volume>
+      <issue>1</issue>
+      <elocation-id>M924</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title chalcone (<italic>E</italic>)-1-(2-aminophenyl)-3-(benzo[<italic>d</italic>][1,3]dioxol-5-yl)prop-2-en-1-one was obtained in 76% yield from a NaOH catalyzed Claisen&#x2013;Schmidt condensation reaction between <italic>o</italic>-aminoacetophenone and piperonal. This product will be used as a key precursor for the development of an alternative route for the total synthesis of the alkaloid Graveoline. Single crystals of the title compound suitable for X-ray diffraction were grown via slow evaporation in ethanol at room temperature. A complete crystallographic study was performed in depth to unequivocally confirm its structure. The crystal structure of the title <italic>o</italic>-aminochalcone, C<sub>16</sub>H<sub>13</sub>NO<sub>3</sub>, shows two molecules per asymmetric unit (Z = 4) and adopts an <italic>E</italic> configuration about the C=C double bond. In the title compound, the mean plane of the non-H atoms of the central chalcone fragment C&#x2014;C(O)&#x2014;C&#x2014;C&#x2014;C is as follow: [root-mean-square (r.m.s.) deviation = 0.0210 &#xC5; for A&#x2013;B and 0.0493 for C&#x2013;D molecules]. In the crystal, molecules are linked by N&#x2013;H...O and C&#x2013;H...O, hydrogen bonds forming S(6), R<sup>2</sup><sub>2</sub>(6) and edge-fused R<sup>4</sup><sub>4</sub>(24)rings along with C(18) chains running parallel to (110).</p>
+      </abstract>
+      <kwd-group>
+        <kwd><italic>o</italic>-aminoacetophenones</kwd>
+        <kwd>benzodioxolyl moiety</kwd>
+        <kwd>Claisen&#x2013;Schmidt condensation</kwd>
+        <kwd><italic>o</italic>-aminochalcones</kwd>
+        <kwd>single crystal X-ray diffraction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2017-M924" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Chalcones are synthetic or naturally occurring &#x3B1;,&#x3B2;-unsaturated diaryl ketones which have shown a wide spectrum of biological [<xref ref-type="bibr" rid="B1-molbank-2017-M924">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2017-M924">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2017-M924">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2017-M924">4</xref>] and synthetic [<xref ref-type="bibr" rid="B5-molbank-2017-M924">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2017-M924">6</xref>] properties. It has been found that their biological activities and those of their derivatives may be enhanced by the insertion of heterocyclic rings in their structures [<xref ref-type="bibr" rid="B7-molbank-2017-M924">7</xref>]. Thus, chalcones bearing the heterocyclic [<xref ref-type="bibr" rid="B1-molbank-2017-M924">1</xref>,<xref ref-type="bibr" rid="B3-molbank-2017-M924">3</xref>]-dioxolo functionality are of particular interest because diverse synthetic and natural compounds containing this functionality in their frameworks have displayed important biological and pharmacological properties [<xref ref-type="bibr" rid="B8-molbank-2017-M924">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2017-M924">9</xref>]. Continuing with our current studies on the synthetic utility of <italic>o</italic>-aminochalcones [<xref ref-type="bibr" rid="B10-molbank-2017-M924">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2017-M924">11</xref>], the amino-[1,3]-dioxolo derivative <bold>3</bold> was obtained (as precursor for alkaloid Graveoline), from the condensation reaction of <italic>o</italic>-aminoacetophenone <bold>1</bold> and piperonal <bold>2</bold> in ethanolic alkaline media, (<xref ref-type="scheme" rid="molbank-2017-M924-sch001">Scheme 1</xref>).</p>
+    </sec>
+    <sec id="sec2-molbank-2017-M924" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Chalcone <bold>3</bold> was previously prepared in 82% yield (m.p. 112 &#xB0;C) by T&#xF3;k&#xE9;s and Forr&#xF3; [<xref ref-type="bibr" rid="B12-molbank-2017-M924">12</xref>] for diverse bromination studies involving the formation of the tetrahydroquinolone <bold>4</bold>, (Entry 1, <xref ref-type="scheme" rid="molbank-2017-M924-sch001">Scheme 1</xref>). Posteriorly, Bunce and Nammalwar [<xref ref-type="bibr" rid="B13-molbank-2017-M924">13</xref>] obtained chalcone <bold>3</bold> as a side-product in 46% yield (m.p. 110&#x2013;112 &#xB0;C), attempting to synthesize the quinolone <bold>4</bold> through an in situ tandem reduction&#x2013;Michael addition reaction in acetic acid media, (Entry 2, <xref ref-type="scheme" rid="molbank-2017-M924-sch001">Scheme 1</xref>).</p>
+      <p>In this work, compound <bold>3</bold> was synthesized as a key intermediate for an alternative route of synthesis of alkaloid Graveoline and related methylenedioxy 2-aryl-4-quinolones. This product was obtained in 76% yield from equimolar amounts of <italic>o</italic>-aminoacetophenone <bold>1</bold> and piperonal <bold>2</bold> via a NaOH catalyzed Claisen&#x2013;Schmidt condensation reaction as shown in <xref ref-type="scheme" rid="molbank-2017-M924-sch001">Scheme 1</xref>, Entry 3. The residue was crystallized from ethanol affording a yellow solid. Single crystals of <bold>3</bold> suitable for X-ray diffraction were grown via slow evaporation of the ethanolic mother liquor.</p>
+      <p>Although compound <bold>3</bold> was acceptably characterized in references [<xref ref-type="bibr" rid="B12-molbank-2017-M924">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2017-M924">13</xref>], some differences with our experimental data were found and no crystallographic analysis was supplied. These findings encouraged us to grow crystals of chalcone <bold>3</bold> suitable for X-ray diffraction. Additionally, a complete analytical and spectroscopic characterization (i.e., IR, 1D and 2D NMR, mass and elemental analysis) of compound <bold>3</bold> was performed; see Materials and Methods section.</p>
+      <sec id="sec2dot1-molbank-2017-M924">
+        <title>2.1. Structural Analysis</title>
+        <p>Single crystals of <bold>3</bold> suitable for X-ray diffraction were grown via slow evaporation in ethanol at room temperature. According to the results (<xref ref-type="fig" rid="molbank-2017-M924-f001">Figure 1</xref>, <xref ref-type="fig" rid="molbank-2017-M924-f002">Figure 2</xref> and <xref ref-type="table" rid="molbank-2017-M924-t001">Table 1</xref>, <xref ref-type="table" rid="molbank-2017-M924-t002">Table 2</xref>), there is no doubt that the obtained compound effectively corresponds to chalcone <bold>3</bold> as suggested in <xref ref-type="scheme" rid="molbank-2017-M924-sch001">Scheme 1</xref>, (Entry 3).</p>
+        <p>Similar compounds to <bold>3</bold> have previously been reported in the literature (i.e., 1-(6-amino-1,3-benzodioxol-5-yl)-3-(3,4,5-trimethoxyphenyl)prop-2-en-1-one [<xref ref-type="bibr" rid="B14-molbank-2017-M924">14</xref>] and 1-(6-amino-1,3-benzodioxol-5-yl)-3-(4-methoxyphenyl)prop-2-en-1-one [<xref ref-type="bibr" rid="B15-molbank-2017-M924">15</xref>]). The title compound <bold>3</bold> crystallizes in triclinic, <italic>P</italic><inline-formula>
+          <mml:math id="mm1" display="block">
+            <mml:semantics>
+              <mml:mover accent="true">
+                <mml:mn>1</mml:mn>
+                <mml:mo>&#xAF;</mml:mo>
+              </mml:mover>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula>, with Z = 4. In the molecular structure of <bold>3</bold> shown in <xref ref-type="fig" rid="molbank-2017-M924-f001">Figure 1</xref>, the central fragments C1&#x2013;C7(O1)&#x2013;C8=C9&#x2013;C10 and C17&#x2013;C23(O2)&#x2013;C24=C25&#x2013;C6 are essentially planar (root-mean-square (r.m.s.) deviation for all non-H atoms = 0.0210 &#xC5; and 0.0493 &#xC5; respectively) and they form dihedral angles of 1.47(9)&#xB0; and 7.79(15)&#xB0; with the A and C aryl rings, respectively and 4.86(9)&#xB0; and 2.09(15)&#xB0; with the B and D benzodioxol rings, respectively. The amino groups are <italic>syn</italic> positioned with respect to the carbonyl groups in both molecules.</p>
+        <p>Bond lengths and bond angles in the title molecules are in good agreement with those found in the related compounds of the references [<xref ref-type="bibr" rid="B14-molbank-2017-M924">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2017-M924">15</xref>], with the exception of the C10&#x2013;C15 and C26&#x2013;C31 bond lengths. Whereas the title structure exhibits shortened distances of 1.3949(18) and 1.3966(18) &#xC5;, respectively, in these compounds, such bond lengths are 1.426(3) and 1.430(3) &#xC5;, respectively.</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2017-M924">
+        <title>2.2. Supramolecular Features</title>
+        <p>The packing arrangement of the title compound can be described by strong intramolecular N&#x2013;H...O hydrogen bonds and by intermolecular N&#x2013;H...O and C&#x2013;H...O hydrogen bonds of medium-strength (see <xref ref-type="table" rid="molbank-2017-M924-t001">Table 1</xref>), [<xref ref-type="bibr" rid="B16-molbank-2017-M924">16</xref>]. The two molecules of the asymmetric unit intertwine to form intra-intermolecular intercalated bonds, generating S(6) and <inline-formula>
+          <mml:math id="mm2" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+                  <mml:mi>R</mml:mi>
+                  <mml:mn>4</mml:mn>
+                  <mml:mn>4</mml:mn>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula>(24) rings [<xref ref-type="bibr" rid="B17-molbank-2017-M924">17</xref>]. In these interactions, the N2&#x2013;H3N moiety in the molecule at (x,y,z) acts as a hydrogen-bond donor to the O1 atom of the carbonyl group at (x,y,z) and N1&#x2013;H1N in the molecule at (x,y,z) acts as a hydrogen-bond donor to the O4 atom of the carbonyl group at (2 &#x2212; x, 1 &#x2212; y, 1 &#x2212; z). Molecules are connected and they are related by an inversion center, forming a kind of inner ring as seen in <xref ref-type="fig" rid="molbank-2017-M924-f002">Figure 2</xref>. One of the molecules of the asymmetric unit proceeds to join, via C32&#x2013;H32...O5 bonds with its twin molecule, configuring dimers with <inline-formula>
+          <mml:math id="mm3" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+                  <mml:mi>R</mml:mi>
+                  <mml:mn>2</mml:mn>
+                  <mml:mn>2</mml:mn>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula>-(6) rings. Thus, the inner rings are attached to C(18) chains of molecules, forming sheets running parallel to (110).</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2017-M924">
+      <title>3. Materials and Methods</title>
+      <sec id="sec3dot1-molbank-2017-M924">
+        <title>3.1. General Information</title>
+        <p>The melting point was determined on a B&#xFC;chi melting point B-450 apparatus (Instrumart, South Burlington, VT, USA) and is uncorrected. The FTIR spectrum was recorded on a Shimadzu FTIR 8400 spectrophotometer (Scientific Instruments Inc., Seattle, WA, USA) using KBr disks. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on a Bruker Avance 400 spectrometer (Bruker BioSpin GmbH, Rheinstetten, Germany) operating at 400 MHz and 100 MHz, respectively, and using DMSO-<italic>d</italic><sub>6</sub> as solvent and tetramethylsilane as an internal standard. The mass spectrum was obtained on a SHIMADZU-GCMS 2010-DI-2010 spectrometer (Scientific Instruments Inc., Columbia, IN, USA), equipped with a direct inlet probe) operating at 70 eV. Microanalysis was performed on a Thermo-Finnigan Flash EA1112 CHN elemental analyzer (Thermo Fischer Scientific Inc., Madison, WI, USA), and the values are within &#xB1;0.4% of the theoretical values. Silica gel aluminum plates (Merck 60 F<sub>254</sub>, Darmstadt, Germany) were used for analytical Thin Layer Chromatography (TLC). The starting ketone <bold>1</bold> and aldehyde <bold>2</bold> were purchased from (Sigma-Aldrich, San Luis, MO, USA); analytical or reagent grades were used without further purification.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2017-M924">
+        <title>3.2. Synthesis of (E)-1-(2-Aminophenyl)-3-(benzo[d][1,3]dioxol-5-yl)prop-2-en-1-one (<bold>3</bold>)</title>
+        <p>A mixture of <italic>o</italic>-aminoacetophenone <bold>1</bold> (0.5 g, 1 mmol), piperonal <bold>2</bold> (1 mmol), 20% NaOH aqueous solution (0.5 mL), and 96% EtOH (5 mL) was subjected to reflux for 20 min. The solid formed was filtered and washed with water then with ethanol. Recrystallization from 96% ethanol afforded <bold>3</bold> (76% yield, yellow solid, m.p. 117 &#xB0;C). FTIR (KBr): &#x3BD; = 3425, 3309 (NH<sub>2</sub>), 3070, 2904, 1633 (C=O), 1601, 1566, 1244 and 1207 (CO) cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) <italic>&#x3B4;</italic>: 6.11 (s, 2H, OCH<sub>2</sub>O, H-16), 6.60 (t, <italic>J</italic> = 8.0 Hz, 1H, H-5), 6.81 (d, <italic>J</italic> = 8.0 Hz, 1H, H-3), 6.98 (d, <italic>J</italic> = 8.0 Hz, 1H, H-14), 7.26&#x2013;7.29 (m, 2H, H-15, H-4), 7.38 (s, 2H, NH<sub>2</sub>), 7.59 (d, <italic>J</italic> = 16.0 Hz, 1H, H-9), 7.63 (s, 1H, H-11), 7.84 (d, <italic>J</italic> = 16.0 Hz, 1H, H-8), 8.11 (d, <italic>J</italic> = 8.0 Hz, 1H, H-6) ppm. <sup>13</sup>C-NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) <italic>&#x3B4;</italic>: 102.0 (C-16, OCH<sub>2</sub>O), 107.4 (C-11), 108.9 (C-14), 114.9 (C-5), 117.3 (C-3), 118.2 (C-2), 121.8 (C-8), 125.8 (C-15), 130.1 (C-1), 131.9 (C-6), 134.6 (C-4), 142.5 (C-9), 148.6 (C-12), 149.6 (C-13), 152.5 (C-10), 191.0 (C-7, C=O) ppm. The numbering of the C and H atoms is the same as that for structure <bold>3</bold> in <xref ref-type="fig" rid="molbank-2017-M924-f001">Figure 1</xref>. Anal. calcd. for C<sub>16</sub>H<sub>13</sub>NO<sub>3</sub> (267.27): C, 71.90; H, 4.90; N, 5.24. Found: C, 72.03; H, 4.77; N, 5.35. MS (EI, 70 eV) <italic>m</italic>/<italic>z</italic> (%): 267 (31) [M<sup>+</sup>], 266 (50), 146 (100).</p>
+        <p><bold>Crystal Data:</bold> C<sub>16</sub>H<sub>13</sub>NO<sub>3</sub> (M = 267.27 g/mol): triclinic, space group <italic>P</italic><inline-formula>
+          <mml:math id="mm6" display="block">
+            <mml:semantics>
+              <mml:mover accent="true">
+                <mml:mn>1</mml:mn>
+                <mml:mo>&#xAF;</mml:mo>
+              </mml:mover>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> (no. 2), a = 7.7323(3) &#xC5;, b = 11.2145(5) &#xC5;, c = 15.1819(7) &#xC5;, V = 1276.36(10) &#xC5;<sup>3</sup>, Z = 4, T = 123(2) K, &#x3BC;(MoK&#x3B1;) = 0.097 mm<sup>&#x2212;1</sup>, D<sub>calc</sub> = 1.391 Mg/m<sup>3</sup>, 11,674 reflections measured (3.028&#xB0; &#x2264; &#x3B8; &#x2264; 27.497&#xB0;), 5794 unique (R<sub>int</sub> = 0.0185, R<sub>sigma</sub> = 0.0317) which were used in all calculations. The final R1 was 0.0413 (I &gt; 2&#x3C3;(I)) and wR2 was 0.0554 (all data).</p>
+        <p><bold>Data Collection and Refinement Details:</bold> Diffraction data were collected on an Oxford Diffraction Xcalibur E diffractometer [<xref ref-type="bibr" rid="B18-molbank-2017-M924">18</xref>], using graphite monochromated MoK&#x3B1; radiation (0.71073 &#xC5;). The corrected data were solved by direct methods with SHELXS-97 and refined by full-matrix methods on F<sup>2</sup> with SHELXL-2014 [<xref ref-type="bibr" rid="B19-molbank-2017-M924">19</xref>]. All H-atoms, except for H&#x2013;N, were positioned at geometrically idealized positions, C&#x2013;H = 0.9500 &#xC5;, C16-H = 0.9900 &#xC5; and C32-H = 0.9900 &#xC5; and were refined using a riding model approximation with U<sub>iso</sub>(H) = 1.2 U<sub>eq</sub>(parent atom). H&#x2013;N atoms were found from the Fourier difference maps, and their coordinates were freely refined. Correctness of the model was confirmed by low residual peaks (0.257) and holes (&#x2212;0.203 e. &#xC5;<sup>&#x2212;3</sup>) in the final difference map. (CCDC 1518500 contains the <xref ref-type="app" rid="app1-molbank-2017-M924">supplementary crystallographic data</xref> for this paper. These data can be obtained free of charge via <uri>http://www.ccdc.cam.ac.uk/conts/retrieving.html</uri> or from the CCDC, 12 Union Road, Cambridge CB2 1EZ, UK; Fax: +44 1223 336033; E-mail: deposit@ccdc.cam.ac.uk.)</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2017-M924">
+        <title>Supplementary Materials</title>
+        <p>Copies of the IR, <sup>1</sup>H-, <sup>13</sup>C-NMR, DEPT-135, 2D NMR and mass spectra and the checkCIF and CIF files for compound <bold>3</bold> can be found at <uri>www.mdpi.com/1422-8599/2017/1/M923</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors thank COLCIENCIAS and Universidad del Valle for financial support&#x2014;Project Number CI-7907. D.A. specially thank COLCIENCIAS for a &#x201C;Joven Investigador&#x201D; fellowship.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>R.A. designed the experiments; D.A. and D.I. performed the experiments; R.A., D.A., D.I., J.Q., and B.I. analyzed the IR, MS, and NMR spectral data and wrote the manuscript; R.M-F. and A.R.K. performed the measurement and analysis of the X-ray experiments and helped to write the manuscript. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Note</title>
+      <ref id="B1-molbank-2017-M924">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pereira-&#xC1;vila</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>de Albino-Sm&#xE2;nia</surname>
+              <given-names>E.F.</given-names>
+            </name>
+            <name>
+              <surname>Delle-Monache</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sm&#xE2;nia-J&#xFA;nior</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-activity relationship of antibacterial chalcones</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2008</year>
+          <volume>16</volume>
+          <fpage>9790</fpage>
+          <lpage>9794</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2008.09.064</pub-id>
+          <pub-id pub-id-type="pmid">18951808</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2017-M924">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sivakumar</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>Muthu-Kumar</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Doble</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifungal activity, mechanism and QSAR studies on chalcones</article-title>
+          <source>Chem. Biol. Drug Des.</source>
+          <year>2009</year>
+          <volume>74</volume>
+          <fpage>68</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1747-0285.2009.00828.x</pub-id>
+          <pub-id pub-id-type="pmid">19519746</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2017-M924">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Modzelewska</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pettit</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Achanta</surname>
+              <given-names>G.</given-names>
+            </name>
+			<name>
+              <surname>Davidson</surname>
+              <given-names>N.E.</given-names>
+            </name>
+			<name>
+              <surname>Huang</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Khan</surname>
+              <given-names>S.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anticancer activities of novel chalcone and bis-chalcone derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <fpage>3491</fpage>
+          <lpage>3495</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2006.01.003</pub-id>
+          <pub-id pub-id-type="pmid">16434201</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2017-M924">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Won</surname>
+              <given-names>S.-J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C.-T.</given-names>
+            </name>
+            <name>
+              <surname>Tsao</surname>
+              <given-names>L.-T.</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>J.-R.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C.-N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic chalcones as potential anti-inflammatory and cancer chemopreventive agents</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>40</volume>
+          <fpage>103</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2004.09.006</pub-id>
+          <pub-id pub-id-type="pmid">15642415</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2017-M924">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elarfi</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Al-Difar</surname>
+              <given-names>H.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some heterocyclic compounds derived from chalcones</article-title>
+          <source>Sci. Revs. Chem. Commun.</source>
+          <year>2012</year>
+          <volume>2</volume>
+          <fpage>103</fpage>
+          <lpage>107</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2017-M924">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalirajan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sivakumar</surname>
+              <given-names>S.U.</given-names>
+            </name>
+            <name>
+              <surname>Jubie</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gowramma</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Suresh</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of some heterocyclic derivatives of chalcones</article-title>
+          <source>Int. J. ChemTech Res.</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>27</fpage>
+          <lpage>34</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2017-M924">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bandgar</surname>
+              <given-names>B.P.</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Gacche</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Korbad</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Hote</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Kinkar</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Jalde</surname>
+              <given-names>S.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of nitrogen-containing chalcones as possible anti-inflammatory and antioxidant agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>730</fpage>
+          <lpage>733</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.11.068</pub-id>
+          <pub-id pub-id-type="pmid">20005707</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2017-M924">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gabrielsen</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Monath</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Huggins</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kefauver</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Pettit</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Groszek</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hollingshead</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kirsi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shannon</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Schubert</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antiviral (RNA) activity of selected amaryllidaceae isoquinoline constituents and synthesis of related substances</article-title>
+          <source>J. Nat. Prod.</source>
+          <year>1992</year>
+          <volume>55</volume>
+          <fpage>1569</fpage>
+          <lpage>1581</lpage>
+          <pub-id pub-id-type="doi">10.1021/np50089a003</pub-id>
+          <pub-id pub-id-type="pmid">1336040</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2017-M924">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krause</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Goeber</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spasmolytic effects of tetrahydroisoquinoline derivatives</article-title>
+          <source>Pharmazie</source>
+          <year>1972</year>
+          <volume>27</volume>
+          <fpage>419</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="pmid">5082275</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2017-M924">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abonia</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cuervo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Insuasty</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Quiroga</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nogueras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cobo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Meier</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lotero</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Amberlyst-15<sup>&#xAE;</sup> mediated synthesis of new functionalized dioxoloquinolinone derivatives</article-title>
+          <source>Open Org. Chem. J.</source>
+          <year>2008</year>
+          <volume>2</volume>
+          <fpage>26</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="doi">10.2174/1874095200801020026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2017-M924">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abonia</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cuervo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Insuasty</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Quiroga</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nogueras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cobo</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple two-step sequence for the synthesis of novel 3-aryl[1,3]dioxolobenzo[<italic>f</italic>]pyrrolo[1,2-<italic>a</italic>]azepin-11-ones from 6-amino-3,4-methylenedioxyacetophenone</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2008</year>
+          <fpage>4684</fpage>
+          <lpage>4689</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200800493</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2017-M924">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>T&#xF3;k&#xE9;s</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Forr&#xF3;</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bromo-derivatives of 2&#x2032;-NHR-3,4-methylenedioxychalcone and its 4-quinolone isomer</article-title>
+          <source>Synth. Commun.</source>
+          <year>1991</year>
+          <volume>21</volume>
+          <fpage>1201</fpage>
+          <lpage>1211</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919108021039</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2017-M924">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Nammalwar</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>(&#xB1;)-2-Aryl-2,3-dihydro-4(1<italic>H</italic>)-quinolinones by a tandem reduction&#x2013;Michael addition reaction</article-title>
+          <source>J. Heterocyclic Chem.</source>
+          <year>2011</year>
+          <volume>48</volume>
+          <fpage>613</fpage>
+          <lpage>619</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.624</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2017-M924">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Low</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Cobo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nogueras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;nchez</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Albornoz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Abonia</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparison of the supramolecular structures of 1-(6-amino-1,3-benzo-dioxol-5-yl)-3-(3,4,5-trimethoxy-phenyl)prop-2-en-1-one and 1-(6-amino-1,3-benzodioxol-5-yl)-3-[4-(<italic>N,N</italic>-dimethylamino)phenyl]-prop-2-en-1-one</article-title>
+          <source>Acta Cryst.</source>
+          <year>2002</year>
+          <volume>C58</volume>
+          <fpage>o42</fpage>
+          <lpage>o45</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2017-M924">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Low</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Cobo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nogueras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cuervo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Abonia</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Glidewell</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polarized molecular-electronic structures and supramolecular aggregation in 1-(6-amino-1,3-benzo-dioxol-5-yl)-3-arylprop-2-en-1-ones</article-title>
+          <source>Acta Cryst.</source>
+          <year>2004</year>
+          <volume>C60</volume>
+          <fpage>o744</fpage>
+          <lpage>o750</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2017-M924">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nardelli</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>PARST</italic>95&#x2014;An update to <italic>PARST</italic>: A system of Fortran routines for calculating molecular structure parameters from the results of crystal structure analyses</article-title>
+          <source>J. Appl. Cryst.</source>
+          <year>1995</year>
+          <volume>28</volume>
+          <fpage>659</fpage>
+          <pub-id pub-id-type="doi">10.1107/S0021889895007138</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2017-M924">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Etter</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Encoding and decoding hydrogen-bond patterns of organic compounds</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1990</year>
+          <volume>23</volume>
+          <fpage>120</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar00172a005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2017-M924">
+        <label>18.</label>
+        <note><p>Oxford Diffraction CrysAlis PRO. 2010, Oxford Diffraction Ltd., Yarnton, England.</p></note>
+      </ref>
+      <ref id="B19-molbank-2017-M924">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal structure refinement with <italic>SHELXL</italic></article-title>
+          <source>Acta Cryst.</source>
+          <year>2015</year>
+          <volume>C71</volume>
+          <fpage>3</fpage>
+          <lpage>8</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures, Scheme and Tables</title>
+      <fig id="molbank-2017-M924-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M924-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Routes for the synthesis of the <italic>o</italic>-aminochalcone <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M924-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2017-M924-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Oak Ridge Thermal Ellipsoids Program (ORTEP) drawing of the asymmetric unit for the <italic>o</italic>-aminochalcone <bold>3</bold>; ellipsoids are displayed at the 50% probability level.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M924-g001.tif"/>
+      </fig>
+      <fig id="molbank-2017-M924-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Part of the crystal structure of <bold>3</bold>, showing the formation of S(6), <inline-formula>
+            <mml:math id="mm4" display="block">
+              <mml:semantics>
+                <mml:mrow>
+                  <mml:msubsup>
+                    <mml:mi>R</mml:mi>
+                    <mml:mn>2</mml:mn>
+                    <mml:mn>2</mml:mn>
+                  </mml:msubsup>
+                </mml:mrow>
+              </mml:semantics>
+            </mml:math>
+          </inline-formula> (6) and <inline-formula>
+          <mml:math id="mm5" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+                  <mml:mi>R</mml:mi>
+                  <mml:mn>4</mml:mn>
+                  <mml:mn>4</mml:mn>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula>-(24) rings along with C(18) chains running parallel to (010). (Symmetry codes: (i) 2 &#x2212; x, 1 &#x2212; y, 1 &#x2212; z; (ii) &#x2212;x, 3 &#x2212; y, 1 &#x2212; z).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M924-g002.tif"/>
+      </fig>
+      <table-wrap id="molbank-2017-M924-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M924-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Selected bond lengths [&#xC5;], angles [&#xB0;] and torsion angles [&#xB0;] for chalcone <bold>3</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Bond Lengths</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">C1-C7; 1.4696(18)</td>
+              <td align="center" valign="middle">C17-C23; 1.4712(18)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C7-O1; 1.2445(16)</td>
+              <td align="center" valign="middle">C23-O4; 1.2431(16)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C8-C9; 1.3334(19)</td>
+              <td align="center" valign="middle">C24-C25; 1.3322(19)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C9-C10; 1.4553(19)</td>
+              <td align="center" valign="middle">C25-C26; 1.4570(18)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C10-C15; 1.3949(18)</td>
+              <td align="center" valign="middle">C26-C31; 1.3966(18)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O2-C12; 1.3608(17)</td>
+              <td align="center" valign="middle">O5-C28; 1.3691(16)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O3-C13; 1.3662(17)</td>
+              <td align="center" valign="middle">O6-C29; 1.3663(16)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C11-C12; 1.3591(19)</td>
+              <td align="center" valign="middle">C27-C28; 1.3611(19)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C13-C14; 1.363(2)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C29-C30; 1.3647(19)</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin"><bold>Angles</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C7-C8-C9; 122.35(13)</td>
+              <td align="center" valign="middle">C17-C23-C24; 119.00(12)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C8-C9-C10; 126.41(13)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C24-C25-C26; 126.36(13)</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin"><bold>Torsion Angles</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">N1-C2-C1-C7; -2.2(2)</td>
+              <td align="center" valign="middle">N2-C18-C17-C23; &#x2212;0.57(18)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C2-C1-C7-O1; 1.9(2)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C18-C17-C23-O4; 7.32(18)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2017-M924-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M924-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Hydrogen bond lengths [&#xC5;] and angles [&#xB0;] for <italic>o</italic>-aminochalcone <bold>3</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">D&#x2013;H...A</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">D&#x2013;H</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">H...A</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">D...A</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">D&#x2013;H...A</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">N2-H3N&#x2026;O1</td>
+              <td align="center" valign="middle">0.899(18)</td>
+              <td align="center" valign="middle">2.132(19)</td>
+              <td align="center" valign="middle">3.0293(16)</td>
+              <td align="center" valign="middle">175.8(16)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">N1-H1N&#x2026;O4<sup>i</sup></td>
+              <td align="center" valign="middle">0.88(2)</td>
+              <td align="center" valign="middle">2.22(2)</td>
+              <td align="center" valign="middle">3.0254(17)</td>
+              <td align="center" valign="middle">152.6(16)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C32-H32B&#x2026;O5<sup>ii</sup></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.99</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2.49</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3.3497(17)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">144.9</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Symmetry codes: (i) 2 &#x2212; x, 1 &#x2212; y, 1 &#x2212; z; (ii) &#x2212;x, 3 &#x2212; y, 1 &#x2212; z.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M806</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M806</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(5-Chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Albooye</surname>
+            <given-names>Fereshteh</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M806" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2013-M806" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kiyani</surname>
+            <given-names>Hamzeh</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M806" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2013-M806" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M806"><label>1</label>Chemistry Group, Faculty of Science, Islamic Azad University, Damghan Branch, 3671639998, Damghan, Iran</aff>
+      <aff id="af2-molbank-2013-M806"><label>2</label>School of Chemistry, Damghan University, Damghan, 36715-364, Iran</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M806"><label>*</label> Authors to whom correspondence should be addressed; E-Mails: <email>f_albooye@yahoo.com</email> (F.A.); <email>hkiyani@du.ac.ir</email> (H.K.).</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>07</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>3</issue>
+      <elocation-id>M806</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>07</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>As a consequence of one-pot, three-component reaction of <italic>trans</italic>-2-benzoyl-3-(4-nitrophenyl)aziridine with 5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazole-4-carbaldehyde and ammonium acetate, 2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene was achieved in good yield. The desired photochromic compound display interesting photochromic behavior in the crystalline and solution phase. The structure of the newly synthesized photochromic compound was characterized by elemental analysis, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and UV-Visible spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyrazole</kwd>
+        <kwd>photochromism</kwd>
+        <kwd>bicyclic aziridine</kwd>
+        <kwd>Vilsmeier-Haack reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Molecules that show reversible, light-induced changes between two isomers with different absorption spectra <italic>i.e.</italic> two different colors are known as photochromes and the associated phenomenon is well-known photochromism [<xref ref-type="bibr" rid="B1-molbank-2013-M806">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2013-M806">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2013-M806">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2013-M806">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2013-M806">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M806">6</xref>]. This phenomenon provides an appropriate approach to the development of light-sensitive eyewear [<xref ref-type="bibr" rid="B7-molbank-2013-M806">7</xref>], optical memory [<xref ref-type="bibr" rid="B8-molbank-2013-M806">8</xref>], molecular devices [<xref ref-type="bibr" rid="B9-molbank-2013-M806">9</xref>], optical sensing applications [<xref ref-type="bibr" rid="B10-molbank-2013-M806">10</xref>], molecular photonics as well as more integrated technologies [<xref ref-type="bibr" rid="B2-molbank-2013-M806">2</xref>].</p>
+      <p>Polyaromatic bicyclic aziridine derivatives constitute an interesting class of organic photochromic compounds have special photochromic properties. These intelligent photochromes exhibit a noticeable color change as a result of the photochromic reaction in the solid and solution state. This property lets us to study them as nominees in the exploration for intelligent photochromic materials [<xref ref-type="bibr" rid="B11-molbank-2013-M806">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2013-M806">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2013-M806">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2013-M806">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M806">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2013-M806">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2013-M806">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2013-M806">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2013-M806">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2013-M806">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2013-M806">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2013-M806">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2013-M806">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2013-M806">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2013-M806">25</xref>,<xref ref-type="bibr" rid="B26-molbank-2013-M806">26</xref>,<xref ref-type="bibr" rid="B27-molbank-2013-M806">27</xref>,<xref ref-type="bibr" rid="B28-molbank-2013-M806">28</xref>,<xref ref-type="bibr" rid="B29-molbank-2013-M806">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2013-M806">30</xref>,<xref ref-type="bibr" rid="B31-molbank-2013-M806">31</xref>,<xref ref-type="bibr" rid="B32-molbank-2013-M806">32</xref>,<xref ref-type="bibr" rid="B33-molbank-2013-M806">33</xref>,<xref ref-type="bibr" rid="B34-molbank-2013-M806">34</xref>,<xref ref-type="bibr" rid="B35-molbank-2013-M806">35</xref>,<xref ref-type="bibr" rid="B36-molbank-2013-M806">36</xref>,<xref ref-type="bibr" rid="B37-molbank-2013-M806">37</xref>]. Depending on the particular structure, 1,3-diazabicyclo[3.1.0]hex-3-ene derivative crystals showed different colors upon UV irradiation [<xref ref-type="bibr" rid="B11-molbank-2013-M806">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2013-M806">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2013-M806">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2013-M806">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M806">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2013-M806">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2013-M806">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2013-M806">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2013-M806">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2013-M806">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2013-M806">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2013-M806">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2013-M806">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2013-M806">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2013-M806">25</xref>,<xref ref-type="bibr" rid="B26-molbank-2013-M806">26</xref>,<xref ref-type="bibr" rid="B27-molbank-2013-M806">27</xref>,<xref ref-type="bibr" rid="B28-molbank-2013-M806">28</xref>,<xref ref-type="bibr" rid="B29-molbank-2013-M806">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2013-M806">30</xref>,<xref ref-type="bibr" rid="B31-molbank-2013-M806">31</xref>,<xref ref-type="bibr" rid="B32-molbank-2013-M806">32</xref>]. For this reason, synthesis of these compounds has gained great attention in the area of organic photochromism chemistry.</p>
+      <p>On the other hand, the pyrazole ring is important class of heterocyclic compounds in pharmaceutical field and synthetic chemistry. Pyrazoles and their derivatives have been known to exhibit a wide range of physiological and pharmacological activities, such as anti-inflammatory [<xref ref-type="bibr" rid="B38-molbank-2013-M806">38</xref>], antibacterial [<xref ref-type="bibr" rid="B39-molbank-2013-M806">39</xref>,<xref ref-type="bibr" rid="B40-molbank-2013-M806">40</xref>], anti-convulsant [<xref ref-type="bibr" rid="B41-molbank-2013-M806">41</xref>], anticancer [<xref ref-type="bibr" rid="B42-molbank-2013-M806">42</xref>,<xref ref-type="bibr" rid="B43-molbank-2013-M806">43</xref>], anti-depressant [<xref ref-type="bibr" rid="B44-molbank-2013-M806">44</xref>], anti-hyperglycemic [<xref ref-type="bibr" rid="B45-molbank-2013-M806">45</xref>], antiviral [<xref ref-type="bibr" rid="B46-molbank-2013-M806">46</xref>], antipyretic [<xref ref-type="bibr" rid="B47-molbank-2013-M806">47</xref>], antioxidant [<xref ref-type="bibr" rid="B48-molbank-2013-M806">48</xref>], antitubercular [<xref ref-type="bibr" rid="B49-molbank-2013-M806">49</xref>], fungicides [<xref ref-type="bibr" rid="B50-molbank-2013-M806">50</xref>], and analgesic activities [<xref ref-type="bibr" rid="B51-molbank-2013-M806">51</xref>]. These heterocycles have also found applications in transition-metal chemistry as an analytical reagent [<xref ref-type="bibr" rid="B52-molbank-2013-M806">52</xref>], ligand used for complexation with metals and as antioxidant additives to fuels [<xref ref-type="bibr" rid="B53-molbank-2013-M806">53</xref>,<xref ref-type="bibr" rid="B54-molbank-2013-M806">54</xref>].</p>
+      <p>The desired pyrazolyl-1,3-diazabicyclo[3.1.0]hex-3-ene <bold>7a</bold> was prepared by the one-pot reaction of equimolar amounts of ketoaziridine compound <bold>1</bold> and chloropyrazole aldehyde <bold>3</bold>, in the presence excess amount of NH<sub>4</sub>OAc in dry ethanol at room temperature (<xref ref-type="scheme" rid="molbank-2013-M806-sch001">scheme 1</xref>).</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p><xref ref-type="scheme" rid="molbank-2013-M806-sch001">Scheme 1</xref> shows the synthesis of the 1,3-diazabicyclo[3.1.0]hex-3-ene derivative <bold>7</bold>. In the first step, the desired intermediate 3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5(4<italic>H</italic>)-one (<bold>6</bold>) was obtained by cyclocondensation reaction of ethyl acetoacetate and phenyl hydrazine. Then, the Vilsmeier-Haack reaction of the resulted product pyrazolon derivative lead to chloroformylation to obtain required 5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazole-4-carbaldehyde (<bold>3</bold>). The starting ketoaziridine <bold>1</bold> was prepared according previously to the described method [<xref ref-type="bibr" rid="B13-molbank-2013-M806">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2013-M806">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M806">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2013-M806">16</xref>]. The structure of <bold>7a</bold> is supported by spectral data. Accordingly, the IR spectrum of <bold>7a</bold> revealed the presence of the nitro group at 1,508 and 1,345 cm<sup>&#x2212;1</sup>, as well as the presence of absorption band at 1,599 cm<sup>&#x2212;1</sup>, attributed to the C&#x2550;N double bond. Moreover, in the IR spectrum, absorption bands belonging to the carbonyl and aziridine NH groups in the ketoaziridine <bold>1</bold>, as well as aldehyde functional group in the compound <bold>3</bold> disappeared. While in the <sup>1</sup>H-NMR spectrum of the newly formed compound, revealed one singlet at &#x3B4; = 2.43 ppm for the pyrazole CH<sub>3</sub> protons. The protons of aziridine ring displayed two signals at &#x3B4; = 2.74 and 3.78 ppm as singlet which attributed to H-6 and H-5, respectively. The signal attributable to the H-2 proton of the imidazoline ring is found at &#x3B4; = 6.66 ppm as a singlet. The signal doublet at &#x3B4; = 8.20 ppm belongs to two protons in the <italic>ortho</italic> position relative to the nitro group. The resonances of the two protons belong to two protons in the <italic>ortho</italic> position of the phenyl ring located in right-hand, appeared at 8.02 ppm as a doublet of doublets. The multiplets signal appeared in the region of &#x3B4; = 7.42&#x2013;7.62 ppm integrating for 10 protons confirm the other aromatic protons. The <sup>13</sup>C-NMR spectrum fully supported the proposed structure due to the appearance of signal at &#x3B4; = 170.4 ppm due to C&#x2550;N carbon in imidazoline ring as well as the appearance of signal around &#x3B4; = 13.8 ppm assignable to methyl group of the pyrazole ring. Carbon of C-2 position displayed a chemical shift at &#x3B4; = 90.1 ppm. Two carbons of aziridine ring showed two chemical shifts at &#x3B4; = 41.9 and 57.5 ppm, which confirms the presence of carbons at 5- and 6-positions, respectively. The pyrazole C&#x2550;N and &#x2550;C&#x2014;Cl carbons resonates at &#x3B4; = 148.8 and 114.4 ppm, respectively. The aromatic carbons in the structure of the desired compound were observable at &#x3B4; 147.4&#x2013;123.6 ppm.</p>
+      <p>Proposed photochromic color change of pyrazolyl-1,3-diazabicyclo[3.1.0]hex-3-ene <bold>7a</bold> based on reversible aziridine ring-opening and ring-closing photoisomers is illustrated in <xref ref-type="scheme" rid="molbank-2013-M806-sch002">scheme 2</xref>. The ring-closed photoisomer of bicyclic aziridine <bold>7a</bold> exhibits slight conjugation and consequently lacks of absorption in the visible region of the spectrum. However, it can absorb a photon in the ultraviolet region of the spectrum and its aziridine moiety can undergo an electrocyclic ring-opening reaction to yield the open photoisomer forms <bold>7b</bold>. The installation of an azomethine ylide moiety in the ring-open isomer leads to a longer &#x3C0;-system, which has an electronic transition corresponding to photons in the visible region of the spectrum; this photoisomer, upon absorption of visible light, undergoes a cyclization reaction to generate the ring-closed isomer.</p>
+      <p>The photochromic behavior of the 2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene induced by photoirradiation at ambient temperature was evaluated both in EtOH and in dichloromethane (DCM) solutions (3.0 &#xD7; 10<sup>&#x2212;4</sup> mol L<sup>&#x2212;1</sup>). Exposure of the solutions of <bold>7a</bold> to UV light (centered on 365 nm) induces a color change in the solution from colorless (<bold>7a</bold>) to yellow (<bold>7b</bold>). This change color occurs in EtOH and DCM solutions, whereas change color in solid state occurs from pale beige crystals (<bold>7a</bold>) to deep orange crystals (<bold>7b</bold>). Upon irradiation with UV light, compound <bold>7a</bold> underwent a photochromic reaction (<xref ref-type="scheme" rid="molbank-2013-M806-sch002">Scheme 2</xref>); this goes along with noticeable changes in the absorption spectra as shown in <xref ref-type="fig" rid="molbank-2013-M806-f001">Figure 1</xref>.</p>
+      <p>The changes in the absorption spectra of 2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene in EtOH induced by irradiation with UV light is shown in <xref ref-type="fig" rid="molbank-2013-M806-f001">Figure 1</xref>A. Before irradiation with UV light, there is no band in the visible region. After UV irradiation of the solution, absorption bands appeared in the visible region. Before irradiation, closed isomer of <bold>7a</bold> showed a sharp absorption peak at 255 nm in EtOH. Upon irradiation with 365 nm light, a new visible absorption band focused at 415 nm was appeared. The appearance of this new band is ascribable to the formation of the open-ring photoisomer forms <bold>7b</bold>. This could be seen with the naked eye, as the colorless solution of <bold>7a</bold> turned yellow. As expected, with increased irradiation time, intensity of the absorption band in the visible region is gradually increased, which states that the ring-opening reaction occurs. These spectral changes showed that <bold>7a</bold> display photochromic behavior, similar to known <italic>triaryl</italic>-1,3-diazabicyclo[3.1.0]hex-3-enes [<xref ref-type="bibr" rid="B11-molbank-2013-M806">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2013-M806">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2013-M806">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2013-M806">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M806">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2013-M806">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2013-M806">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2013-M806">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2013-M806">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2013-M806">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2013-M806">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2013-M806">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2013-M806">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2013-M806">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2013-M806">25</xref>,<xref ref-type="bibr" rid="B26-molbank-2013-M806">26</xref>,<xref ref-type="bibr" rid="B27-molbank-2013-M806">27</xref>,<xref ref-type="bibr" rid="B28-molbank-2013-M806">28</xref>,<xref ref-type="bibr" rid="B29-molbank-2013-M806">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2013-M806">30</xref>,<xref ref-type="bibr" rid="B31-molbank-2013-M806">31</xref>,<xref ref-type="bibr" rid="B32-molbank-2013-M806">32</xref>]. In DCM solution, <bold>7a</bold> also exhibited similar photochromic color change to that in EtOH. The changes in the absorption spectra of 2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene is shown in <xref ref-type="fig" rid="molbank-2013-M806-f001">Figure 1</xref>B. Upon irradiation with 365 nm UV light, the colorless solution of <bold>7a</bold> turned yellow, of which the absorption maximum was observed at 420 nm in consequence of the formation of the open-ring photoisomer <bold>7b</bold>. Also, an isosbestic point around 270 nm in <xref ref-type="fig" rid="molbank-2013-M806-f001">Figure 1</xref>B, showed the presence of two species <bold>7a</bold> and <bold>7b</bold>. Color change in solid and solution state was observed by eye-naked, when compounds are exposed to light (UV light from mercury, xenon lamp, fluorescent lamp or sunlight) at ambient temperature. Moreover, <bold>7b</bold> was converted to <bold>7a</bold> when the <bold>7b</bold> is kept in the dark for 6-8 h or after putting it in the oven for 8 min at 80 &#xB0;C.</p>
+	  </sec>
+	  <sec>
+      <title>Experimental</title>
+      <sec>
+        <title>Preparation of 3-Methyl-1-phenyl-1H-pyrazol-5(4H)-one <italic>(<bold>6</bold>)</italic></title>
+        <p>To a magnetically stirred solution of the ethyl acetoacetate (1.91 mL, 15 mmol) and dry ethanol (4 mL), phenyl hydrazine (1.48 mL, 15 mmol) was added dropwise at room temperature. The reaction mixture was then heated in an oil bath under reflux condition for 5.5 h. After completion of reaction the reaction mixture was cooled in ice bath to precipitate. The precipitates obtained were filtered, dried and recrystallized from ethanol to give the product <bold>6</bold>. Yield: 80%; m.p. 129&#x2013;131 &#xB0;C (Lit. [<xref ref-type="bibr" rid="B55-molbank-2013-M806">55</xref>] m.p. 128&#x2013;130 &#xB0;C).</p>
+      </sec>
+      <sec>
+        <title>Preparation of 5-Chloro-3-methyl-1-phenyl-1H-pyrazole-4-carbaldehyde <italic>(<bold>3</bold>)</italic></title>
+        <p>To an ice-cold dimethylformamide (15 mmol, 1.15 mL) was added dropwise with stirring phosphorus oxychloride (35 mmol, 3.2 mL) over a period of 15 min, stirring was continued for further 20 min keeping the reaction mixture at 0 &#xB0;C. To this mixture was added 3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-5(4<italic>H</italic>)-one (0.88 g, 5 mmol), and the reaction mixture was then heated under reflux for 1.5 h. After completion of the reaction, as monitored with TLC, the reaction mixture was cooled to room temperature, the reaction mixture was poured into mixture of crushed ice and water (60 mL) whereupon the solid product separated out that was filtered, washed with excess of cold water, dried and recrystallized from ethanol to afford the pale yellow solid compound <bold>3</bold>. Yield: 80%; m.p. 141&#x2013;142 &#xB0;C (Lit. [<xref ref-type="bibr" rid="B55-molbank-2013-M806">55</xref>] m.p. 140&#x2013;141 &#xB0;C).</p>
+      </sec>
+      <sec>
+        <title>Synthesis of 2-(5-chloro-3-methyl-1-phenyl-1H-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene <italic>(<bold>7a</bold>)</italic></title>
+        <p>Similar to the recently published synthesis [<xref ref-type="bibr" rid="B31-molbank-2013-M806">31</xref>,<xref ref-type="bibr" rid="B32-molbank-2013-M806">32</xref>], to a magnetically stirred solution of <italic>trans</italic>-2-benzoyl-3-(4-nitrophenyl)aziridine <bold>1</bold> (0.268 g, 1 mmol) and 5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazole-4-carbaldehyde <bold>3</bold> (0.221 g, 1 mmol) in 7 mL of absolute ethanol was added NH<sub>4</sub>OAc (0.78 g, 10 mmol) at room temperature. The mixture was stirred for 48 h. The reaction mixture was filtered, washed with absolute ethanol, dried under reduced pressure, and the resulting solid was recovered, purified by silica gel column chromatography using ethyl acetate/hexane (1:5, v/v) as the eluent, and recrystallized from absolute ethanol (10 mL) to give the target compound <bold>7a</bold> as pale beige colorless solid that changed to the deep orange (<bold>7b</bold>).</p>
+        <p>Yield: 80%; m.p. 175&#x2013;176 &#xB0;C.</p>
+        <p>IR (KBr) <italic>v</italic><sub>max</sub> cm<sup>&#x2212;1</sup>: 3057, 2924, 2862, 1599, 1508, 1345, 1108, 1046, 977, 859, 771, 742, 691.</p>
+        <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) (&#x3B4;/ppm): 8.20 (d, <italic>J</italic> = 8.8 Hz, 2H, Ar-H), 8.02 (dd, <italic>J</italic> = 1.2, 6.8 Hz, 2H, Ar-H), 7.61 (t, <italic>J</italic> = 7.2 Hz, 1H, Ar-H), 7.62&#x2013;7.46 (m, 9H, Ar-H), 6.66 (s, 1H, H-2), 3.78 (t, <italic>J</italic> = 1.6 Hz, 1H, H-5), 2.74 (s, 1H, H-6), 2.43 (s, 3H, CH<sub>3</sub>).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 170.4 (C&#x2550;N, imidazole), 148.8 (C&#x2550;N, pyrazole), 147.4, 145.3, 138.1, 131.9, 131.4, 129.0, 128.4, 128.3, 127.4, 126.1, 125.1, 123.6, 114.4 (&#x2550;C&#x2013;Cl, pyrazole), 90.1 (C-2), 57.5 (C-5), 41.9 (C-6), 13.8 (CH<sub>3</sub>).</p>
+        <p>Anal. Calcd. for C<sub>26</sub>H<sub>20</sub>ClN<sub>5</sub>O<sub>2</sub>: C, 66.45; H, 4.29; Cl, 7.54; N, 14.90; O, 6.81. Found: C, 66.50; H, 4.32; N, 14.94; O, 6.74.</p>
+        <p>UV-Vis (EtOH, &#x3BB;<sub>max</sub>/nm): 255 before irradiation, and 260, 415 after irradiation; UV-Vis (DCM, &#x3BB;<sub>max</sub>/nm): 255 before irradiation, and 265, 420 after irradiation.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2013-M806">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2013-M806-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M806-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M806-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-s002.pdf">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>The authors are thankful to Research Council of the Damghan University and Islamic Azad University, Branch of Damghan.</p>
+    </ack>
+    <notes>
+      <title>Conflict of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M806">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishibashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Umesato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kobatake</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Irie</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Miyasaka</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclization Reaction Dynamics of a Photochromic Diarylethene Derivative as Revealed by Femtosecond to Microsecond Time-Resolved Spectroscopy</article-title>
+          <source>J. Phys. Chem. C</source>
+          <year>2011</year>
+          <volume>115</volume>
+          <fpage>4265</fpage>
+          <lpage>4272</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp112370a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M806">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yun</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>You</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>kim</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Huh</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochromic fluorescence switching from diarylethenes and its applications</article-title>
+          <source>J. Photoch. Photobiol. C Photochem. Rev.</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <fpage>111</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jphotochemrev.2009.05.002</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M806">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ashraf</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gainsford</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>Kay</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal and Molecular Structure of 7-Diethylamino-[1',3',3'-trimethyl-4-((1,3,3-trimethyl-1,3-dihydro-2<italic>H</italic>-indole-2-ylidene)methyl)-1',3,3',4-tetrahydrospiro[chromene-2,2'-indole]]: A Dicondensation Product From the Reaction of 4-Diethylaminosalicylaldehyde with Fischer&#x2019;s Base</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>2012</year>
+          <volume>65</volume>
+          <fpage>779</fpage>
+          <lpage>784</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M806">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Masunov</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical study of photochromic compounds: Part 3. Prediction of thermal stability</article-title>
+          <source>J. Phys. Chem. C</source>
+          <year>2011</year>
+          <volume>115</volume>
+          <fpage>10292</fpage>
+          <lpage>10297</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp200980v</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M806">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Masunov</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theoretical study of photochromic compounds. 1. Bond length alternation and absorption spectra for the open and closed forms of 29 diarylethene derivatives</article-title>
+          <source>J. Phys. Chem. A</source>
+          <year>2009</year>
+          <volume>113</volume>
+          <fpage>8409</fpage>
+          <lpage>8414</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp900485p</pub-id>
+          <pub-id pub-id-type="pmid">19569671</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M806">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jacquemin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Perpete</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Maurel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Perrier</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Doubly closing or not? Theoretical analysis for coupled photochromes</article-title>
+          <source>J. Phys. Chem. C</source>
+          <year>2010</year>
+          <volume>114</volume>
+          <fpage>9489</fpage>
+          <lpage>9497</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp102118w</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M806">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crano</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Flood</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Knowles</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Van Gemert</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochromic compounds: Chemistry and application in ophthalmic lenses</article-title>
+          <source>Pure Appl. Chem.</source>
+          <year>1996</year>
+          <volume>68</volume>
+          <fpage>1395</fpage>
+          <lpage>1398</lpage>
+          <pub-id pub-id-type="doi">10.1351/pac199668071395</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M806">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dvornikov</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Malkin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rentzepis</surname>
+              <given-names>P.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectroscopy and kinetics of photochromic materials for 3D optical memory devices</article-title>
+          <source>J. Phys. Chem.</source>
+          <year>1994</year>
+          <volume>98</volume>
+          <fpage>6746</fpage>
+          <lpage>6752</lpage>
+          <pub-id pub-id-type="doi">10.1021/j100078a016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M806">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Willner</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Rubin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shatzmiller</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zor</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reversible light-stimulated activation and deactivation of .alpha.-chymotrypsin by its immobilization in photoisomerizable copolymers</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>8690</fpage>
+          <lpage>8694</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00072a023</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M806">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Winkler</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Deshayes</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photodynamic transport of metal ions</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1989</year>
+          <volume>111</volume>
+          <fpage>769</fpage>
+          <lpage>770</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00184a076</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M806">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Mamaghani</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Behzadi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure&#x2013;behavior relationships of tetra-substituted imidazole derivatives of 1,3-diazabicyclo[3,1,0]hex-3-ene</article-title>
+          <source>Mol. Divers.</source>
+          <year>2012</year>
+          <volume>16</volume>
+          <fpage>737</fpage>
+          <lpage>747</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11030-012-9409-7</pub-id>
+          <pub-id pub-id-type="pmid">23108946</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M806">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Besharati-Seidani</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new bicyclic aziridines containing chalcone analogs and investigation of their photochromic properties</article-title>
+          <source>Bull. Korean Chem. Soc.</source>
+          <year>2013</year>
+          <volume>34</volume>
+          <fpage>875</fpage>
+          <lpage>883</lpage>
+          <pub-id pub-id-type="doi">10.5012/bkcs.2013.34.3.875</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M806">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Tabatabaeian</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Zanjanchi</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochromic behavior of several new synthesized Bis-1,3-Diazabicyclo[3.1.0]hex-3-enes</article-title>
+          <source>J. Phys. Org. Chem.</source>
+          <year>2009</year>
+          <volume>22</volume>
+          <fpage>559</fpage>
+          <lpage>567</lpage>
+          <pub-id pub-id-type="doi">10.1002/poc.1550</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2013-M806">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yazdanbakhsh</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Sharifzadeh</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and photochromic properties of new heterocyclic derivatives of 1,3-diazabicyclo[3.1.0]hex-3-ene</article-title>
+          <source>J. Chin. Chem. Soc.</source>
+          <year>2007</year>
+          <volume>54</volume>
+          <fpage>635</fpage>
+          <lpage>641</lpage>
+          <pub-id pub-id-type="doi">10.1002/jccs.200700091</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2013-M806">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Tabatabaeian</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Zanjanchi</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and photochromism of 1,3-diazabicyclo[3.1.0]hex-3-ene Phenol Rings</article-title>
+          <source>Mendeleev. Commun.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>203</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.mencom.2009.07.010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2013-M806">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Tabatabaeian</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two 1,3-diazabicyclo[3.1.0]hex-3-enes with a &#x2018;Tripod&#x2019; core</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>2012</year>
+          <volume>95</volume>
+          <fpage>536</fpage>
+          <lpage>542</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.201100333</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2013-M806">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dyakonenko</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Maleev</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Zbruyev</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Layered crystal structure of bicyclic aziridines as revealed by analysis of intermolecular interactions energy</article-title>
+          <source>Cryst. Eng. Comm.</source>
+          <year>2010</year>
+          <volume>12</volume>
+          <fpage>1816</fpage>
+          <lpage>1823</lpage>
+          <pub-id pub-id-type="doi">10.1039/b922131j</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2013-M806">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruno</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Nicol</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Rotondo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Risitano</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Foti</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure investigation of bridgehead aziridine: Synthesis, theoretical, and crystallographic study of 2,4,6-Triphenyl-1,3-diazabicyclo[3.1.0]hex-3-ene</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>2006</year>
+          <volume>89</volume>
+          <fpage>190</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.200690021</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2013-M806">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Risitano</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Grassi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Foti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Moraci</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel efficient three-component one-pot synthesis of 1,3-diazabicyclo[3.1.0]hex-3-ene system under microwave irradiation</article-title>
+          <source>Synlett</source>
+          <year>2005</year>
+          <fpage>1633</fpage>
+          <lpage>1635</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2005-869859</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2013-M806">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Tabatabaeian</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ghavidast</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and photochromic behavior of mono, and biphotochromic system linked by <italic>p</italic>-Phenylene bridge</article-title>
+          <source>Chin. Chem. Lett.</source>
+          <year>2010</year>
+          <volume>21</volume>
+          <fpage>1199</fpage>
+          <lpage>1202</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cclet.2010.04.036</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2013-M806">
+        <label>21.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Gurley</surname>
+              <given-names>T.W.</given-names>
+            </name>
+          </person-group>
+          <source>Azaheterocycles Based on &#x3B1;,&#x3B2;-Unsaturated Carbonyls</source>
+          <publisher-name>Springer-Verlag</publisher-name>
+          <publisher-loc>Berlin&amp;Heidelberg, Germany</publisher-loc>
+          <year>2008</year>
+		  <comment>Chapter 1</comment>
+		  <fpage>17</fpage>
+		  <lpage>32</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2013-M806">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Trozolo</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Leslie</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Sarportdar</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Ferraudi</surname>
+              <given-names>G.J.</given-names>
+            </name>
+            <name>
+              <surname>DoMinh</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hartless</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemistry of Some Three-Membered Heterocycles</article-title>
+          <source>Pure Appl. Chem.</source>
+          <year>1979</year>
+          <volume>51</volume>
+          <fpage>261</fpage>
+          <lpage>270</lpage>
+          <pub-id pub-id-type="doi">10.1351/pac197951020261</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2013-M806">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahmoodi</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Thiophene Derivatives of 1,3-Diazabicyclo[3,1,0]hex-3-ene</article-title>
+          <source>Bull. Korean Chem. Soc.</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>1417</fpage>
+          <lpage>1420</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2013-M806">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xFC;rr</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Perspectives in Photochromism: A Novel System Based on the 1,5-Electrocyclization of Heteroanalogous Pentadienyl Anions</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>413</fpage>
+          <lpage>431</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198904131</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2013-M806">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hadjoudis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Marvidis</surname>
+              <given-names>I.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochromism and Thermochromism of Schiff Bases in the Solid State: Structural Aspects</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2004</year>
+          <volume>33</volume>
+          <fpage>579</fpage>
+          <lpage>588</lpage>
+          <pub-id pub-id-type="doi">10.1039/b303644h</pub-id>
+          <pub-id pub-id-type="pmid">15592623</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2013-M806">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hiene</surname>
+              <given-names>H.W.</given-names>
+            </name>
+            <name>
+              <surname>Weese</surname>
+              <given-names>R.H.</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>R.A.</given-names>
+            </name>
+			<name>
+              <surname>Aziridines</surname>
+              <given-names>X.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis and reactions of 1,3-diazabicyclo[3.1.0]hex-3-enes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1967</year>
+          <volume>32</volume>
+          <fpage>2708</fpage>
+          <lpage>2711</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01284a014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2013-M806">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padwa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Glazer</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemical reorganizations in the 1,3-diazabicyclo[3.1.0]hex-3-ene system</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1972</year>
+          <volume>94</volume>
+          <fpage>7788</fpage>
+          <lpage>7797</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00777a022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2013-M806">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padwa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Clough</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Glazer</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemical transformations of small-ring heterocyclic compounds. XXIV. Photoisomerization of the triphenyl-1,3-diazabicyclo[3.1.0]hex-3-ene system</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1970</year>
+          <volume>92</volume>
+          <fpage>1778</fpage>
+          <lpage>1779</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00709a070</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2013-M806">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dyakonenko</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Zbruev</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,2-Dimethyl-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene</article-title>
+          <source>Acta Crystallogr. Sect. E: Struct. Rep. Online</source>
+          <year>2005</year>
+          <volume>E61</volume>
+          <fpage>o667</fpage>
+          <lpage>o668</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536805004484</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molbank-2013-M806">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zbruyev</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Vashchenko</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Andryushchenko</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Musatov</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Knyazeva</surname>
+              <given-names>I.V.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of polyarene derivatives of fused aziridines by Suzuki-Miyaura cross-coupling</article-title>
+          <source>Tetrahedron</source>
+          <year>2007</year>
+          <volume>63</volume>
+          <fpage>4297</fpage>
+          <lpage>4303</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2007.03.060</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molbank-2013-M806">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-(4-Diethoxymethylphenyl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene</article-title>
+          <source>Molbank</source>
+          <year>2012</year>
+          <volume>2012</volume>
+          <fpage>M780</fpage>
+          <pub-id pub-id-type="doi">10.3390/M780</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molbank-2013-M806">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiyani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ardyanian</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>N</italic>-(4-(6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene-2-yl)phenyl)acetamide</article-title>
+          <source>Molbank</source>
+          <year>2013</year>
+          <volume>2013</volume>
+		  <fpage>M791</fpage>
+          <pub-id pub-id-type="doi">10.3390/M791</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molbank-2013-M806">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khlebnikov</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Novikov</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fused Aziridines as Sources of Azomethine ylides</article-title>
+          <source>Chem. Heterocyl. Compd.</source>
+          <year>2012</year>
+          <volume>48</volume>
+          <fpage>179</fpage>
+          <lpage>190</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10593-012-0981-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34-molbank-2013-M806">
+        <label>34.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#x2019;yakonenko</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Zbruev</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular and Crystal Structure of 3,3-Dimethyl-5-(2-naphthyl)-1-(4-nitrophenyl)-3,5a-dihydro-1<italic>H</italic>-azireno[1,2-c]imidazole</article-title>
+          <source>J. Struct. Chem.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>1110</fpage>
+          <lpage>1113</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10947-006-0252-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35-molbank-2013-M806">
+        <label>35.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zbruev</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Panikarskaya</surname>
+              <given-names>V.D.</given-names>
+            </name>
+            <name>
+              <surname>Kasyan</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Zavora</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Lisetskii</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The photoinduced transformations of aziridine derivatives in liquid crystalline matrices</article-title>
+          <source>Russ. J. Phys. Chem. A</source>
+          <year>2009</year>
+          <volume>83</volume>
+          <fpage>1350</fpage>
+          <lpage>1354</lpage>
+          <pub-id pub-id-type="doi">10.1134/S0036024409080172</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36-molbank-2013-M806">
+        <label>36.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zbruev</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Yarmenko</surname>
+              <given-names>F.G.</given-names>
+            </name>
+            <name>
+              <surname>Chebanov</surname>
+              <given-names>V.A.</given-names>
+            </name>
+            <name>
+              <surname>Desenko</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Shishkin</surname>
+              <given-names>O.V.</given-names>
+            </name>
+            <name>
+              <surname>Lukinova</surname>
+              <given-names>E.V.</given-names>
+            </name>
+            <name>
+              <surname>Knyazeva</surname>
+              <given-names>I.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and study of new 2-aryl-1-(4-nitrophenyl)-1,1a-dihydroazireno[1,2-<italic>a</italic>]quinoxaline derivatives</article-title>
+          <source>Russ. Chem. Bull.</source>
+          <year>2006</year>
+          <volume>55</volume>
+          <fpage>362</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11172-006-0261-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B37-molbank-2013-M806">
+        <label>37.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaluski</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Figas</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Vorobyeva</surname>
+              <given-names>N.P.</given-names>
+            </name>
+            <name>
+              <surname>Orlov</surname>
+              <given-names>V.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal and molecular structure of 2-(4-methoxyphenyl)-4-phenyl-6-(4-nitrophenyl)-1,3-diazabicylo[3.1.0]hex-3-ene</article-title>
+          <source>J. Struct. Chem.</source>
+          <year>1994</year>
+          <volume>35</volume>
+          <fpage>134</fpage>
+          <lpage>137</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02578514</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38-molbank-2013-M806">
+        <label>38.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ragab</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Abdel Gawad</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Georgey</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Said</surname>
+              <given-names>M.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel 1,3,4-trisubstituted pyrazoles as anti-inflammatory and analgesic agents</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>63</volume>
+          <fpage>645</fpage>
+          <lpage>654</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2013.03.005</pub-id>
+          <pub-id pub-id-type="pmid">23567953</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39-molbank-2013-M806">
+        <label>39.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Damlijanovic</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Vukicevic</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Radulovic</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Palic</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ellmerer</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ratkovic</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Joksovic</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Vukicevic</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial activity of some new pyrazole derivatives containing a ferrocene unit</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>1093</fpage>
+          <lpage>1096</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.01.006</pub-id>
+          <pub-id pub-id-type="pmid">19167220</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40-molbank-2013-M806">
+        <label>40.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Desai</surname>
+              <given-names>N.C.</given-names>
+            </name>
+            <name>
+              <surname>Rajpara</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Joshi</surname>
+              <given-names>V.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of pyrazole encompassing 2-pyridone derivatives as antibacterial agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2013</year>
+          <volume>23</volume>
+          <fpage>2714</fpage>
+          <lpage>2717</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2013.02.077</pub-id>
+          <pub-id pub-id-type="pmid">23511017</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41-molbank-2013-M806">
+        <label>41.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amnerkar</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Bhusari</surname>
+              <given-names>K.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, anticonvulsant activity and 3D-QSAR study of some prop-2-eneamido and 1-acetyl-pyrazolin derivatives of aminobenzothiazole</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>45</volume>
+          <fpage>149</fpage>
+          <lpage>159</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2009.09.037</pub-id>
+          <pub-id pub-id-type="pmid">19853976</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42-molbank-2013-M806">
+        <label>42.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clapham</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Batsanov</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Bryce</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Tarbit</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Trifluoromethyl-substituted pyridyl- and pyrazolylboronic acids and esters: Synthesis and Suzuki&#x2013;Miyaura cross-coupling reactions</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2009</year>
+          <volume>7</volume>
+          <fpage>2155</fpage>
+          <lpage>2161</lpage>
+          <pub-id pub-id-type="doi">10.1039/b901024f</pub-id>
+          <pub-id pub-id-type="pmid">19421454</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43-molbank-2013-M806">
+        <label>43.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lv</surname>
+              <given-names>P.-C.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>H.-L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of pyrazole derivatives containing thiourea skeleton as anticancer agents</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2010</year>
+          <volume>18</volume>
+          <fpage>4606</fpage>
+          <lpage>4614</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2010.05.034</pub-id>
+          <pub-id pub-id-type="pmid">20627597</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44-molbank-2013-M806">
+        <label>44.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ozdemir</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Kandilici</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Gumusel</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Calis</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Bilgin</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Studies on Antidepressant and Anticonvulsant Activities of Some 3-(2-furyl)-pyrazoline Derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>373</fpage>
+          <lpage>379</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2006.09.006</pub-id>
+          <pub-id pub-id-type="pmid">17069933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45-molbank-2013-M806">
+        <label>45.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bebernitz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Argentiery</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Battle</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Balkan</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Byrkey</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Eckhardt</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kapa</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Strohschein</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The effect of 1,3-diaryl-[1<italic>H</italic>]-pyrazole-4-acetamides on glucose utilization in ob/ob Mice</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2001</year>
+          <volume>44</volume>
+          <fpage>2601</fpage>
+          <lpage>2611</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm010032c</pub-id>
+          <pub-id pub-id-type="pmid">11472214</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46-molbank-2013-M806">
+        <label>46.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>H.-J.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>S.-J.</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.-C.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K.-I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of antitumor activity of pyrazole oxime ethers</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>3307</fpage>
+          <lpage>3312</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2005.03.082</pub-id>
+          <pub-id pub-id-type="pmid">15922597</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47-molbank-2013-M806">
+        <label>47.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sener</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kasim-Sener</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bildmci</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kasimogullari</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ak&#xE7;amur</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the reactions of cyclic oxalyl compounds with hydrazines or hydrazones: Synthesis and reactions of 4-benzoyl-1-(3-nitrophenyl)-5-phenyl-1<italic>H</italic>-pyrazole-3-carboxylic acid</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2002</year>
+          <volume>39</volume>
+          <fpage>869</fpage>
+          <lpage>875</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570390503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B48-molbank-2013-M806">
+        <label>48.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rangaswamy</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>H.V.</given-names>
+            </name>
+            <name>
+              <surname>Harini</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Naik</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of benzofuran based 1,3,5-substituted pyrazole derivatives: As a new class of potent antioxidants and antimicrobials-A novel accost to amend biocompatibility</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>4773</fpage>
+          <lpage>4772</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2012.05.061</pub-id>
+          <pub-id pub-id-type="pmid">22695127</pub-id>
+        </citation>
+      </ref>
+      <ref id="B49-molbank-2013-M806">
+        <label>49.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pathak</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Chovatia</surname>
+              <given-names>P.T.</given-names>
+            </name>
+            <name>
+              <surname>Parekh</surname>
+              <given-names>H.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antitubercular and antimicrobial evaluation of 3-(4-chlorophenyl)-4-substituted pyrazole derivatives</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>5129</fpage>
+          <lpage>5133</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2012.05.063</pub-id>
+          <pub-id pub-id-type="pmid">22695129</pub-id>
+        </citation>
+      </ref>
+      <ref id="B50-molbank-2013-M806">
+        <label>50.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vicentini</surname>
+              <given-names>C.B.</given-names>
+            </name>
+            <name>
+              <surname>Romagnoli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Andreotti</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Mares</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic pyrazole derivatives as growth inhibitors of some phytopathogenic fungi</article-title>
+          <source>J. Agric. Food Chem.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>10331</fpage>
+          <lpage>10338</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf072077d</pub-id>
+          <pub-id pub-id-type="pmid">18001038</pub-id>
+        </citation>
+      </ref>
+      <ref id="B51-molbank-2013-M806">
+        <label>51.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vijesh</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Isloor</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Shetty</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sundershan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Fun</surname>
+              <given-names>H.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New pyrazole derivatives containing 1,2,4-triazoles and benzoxazoles as potent antimicrobial and analgesic agents</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>62</volume>
+          <fpage>410</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2012.12.057</pub-id>
+          <pub-id pub-id-type="pmid">23385092</pub-id>
+        </citation>
+      </ref>
+      <ref id="B52-molbank-2013-M806">
+        <label>52.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wisniewski</surname>
+              <given-names>M.Z.</given-names>
+            </name>
+            <name>
+              <surname>Surga</surname>
+              <given-names>W.J.</given-names>
+            </name>
+            <name>
+              <surname>Opozda</surname>
+              <given-names>E.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium (II) methylpyrazole complexes</article-title>
+          <source>Transition Met. Chem.</source>
+          <year>1994</year>
+          <volume>19</volume>
+          <fpage>353</fpage>
+          <lpage>354</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00139112</pub-id>
+        </citation>
+      </ref>
+      <ref id="B53-molbank-2013-M806">
+        <label>53.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pavani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ramanan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxalate bridged copper pyrazole complex templated anderson-evans cluster based solids</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>2011</year>
+          <volume>64</volume>
+          <fpage>68</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1071/CH10276</pub-id>
+        </citation>
+      </ref>
+      <ref id="B54-molbank-2013-M806">
+        <label>54.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kulkarni</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Kamath</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Budagumpi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Revankar</surname>
+              <given-names>V.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrazole bridged binuclear transition metal complexes: Synthesis, characterization, antimicrobial activity and DNA binding/cleavage studies</article-title>
+          <source>J. Mol. Struct.</source>
+          <year>2011</year>
+          <volume>1006</volume>
+          <fpage>580</fpage>
+          <lpage>588</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2011.10.008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B55-molbank-2013-M806">
+        <label>55.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>C.-J.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>Y.-Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and crystal structure of 5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazole-4-carbaldehyde</article-title>
+          <source>J. Chem. Crystallogr.</source>
+          <year>2011</year>
+          <volume>41</volume>
+          <fpage>1816</fpage>
+          <lpage>1819</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10870-011-0178-4</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Schemes</title>
+      <fig id="molbank-2013-M806-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M806-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 2-(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)-6-(4-nitrophenyl)-4-phenyl-1,3-diazabicyclo[3.1.0]hex-3-ene (<bold>7a</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M806-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M806-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Proposed photochromic color change from <bold>7a</bold> to <bold>7b</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-sch002.tif"/>
+      </fig>
+      <fig id="molbank-2013-M806-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Overlay UV/Vis spectral changes of <bold>7a</bold> under 365 nm irradiation at ambient temperature (<bold>A</bold>) in EtOH (3.0 &#xD7; 10<sup>&#x2212;4</sup> mol L<sup>&#x2212;1</sup>) and (<bold>B</bold>) in DCM (3.0 &#xD7; 10<sup>&#x2212;4</sup> mol L<sup>&#x2212;1</sup>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M806-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

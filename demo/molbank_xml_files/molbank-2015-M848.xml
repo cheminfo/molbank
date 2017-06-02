@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M848</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M848</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl 4,4''-Dibromo-5'-(butylamino)-2',6'-dinitro-[1,1':3',1''-terphenyl]-4'-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rocchi</surname>
+            <given-names>Damiano</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gonz&#xE1;lez</surname>
+            <given-names>Juan F.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Men&#xE9;ndez</surname>
+            <given-names>J. Carlos</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M848" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M848">Departamento de Qu&#xED;mica Org&#xE1;nica y Farmac&#xE9;utica, Facultad de Farmacia, Universidad Complutense, Madrid 28040, Spain; E-Mails: <email>rocchid83@gmail.com</email> (D.R.); <email>juanfrangn@farm.ucm.es</email> (J.F.G.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M848"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>josecm@ucm.es</email>; Tel.: +34-91-394-1840; Fax: +34-91-394-1822.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>1</issue>
+      <elocation-id>M848</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>03</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Ethyl 4,4''-Dibromo-5'-(butylamino)-2',6'-dinitro-[1,1':3',1''-terphenyl]-4'-carboxylate (<bold>2</bold>) which is a <italic>m</italic>-terphenyl derivative containing an hexasubstituted, highly functionalized substituted benzene core, has been synthesized.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>terphenyls</kwd>
+        <kwd>anthranillic esters</kwd>
+        <kwd>poly-substituted benzene rings</kwd>
+        <kwd>nitration</kwd>
+        <kwd>multicomponent reactions</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Multifunctionalized benzene derivatives are important frameworks in several areas. Particularly, arylamine derivatives are important as molecular components in electronic devices and dyes [<xref ref-type="bibr" rid="B1-molbank-2015-M848">1</xref>]. Terphenyl and polyarylamine cores have attracted attention as organic components for semiconductor materials because of their high thermal stability and excellent optic properties due to the broken conjugation. Poly(<italic>m</italic>-phenylene) derivatives are particularly interesting in some aspects of materials science, such as artificial helical polymers [<xref ref-type="bibr" rid="B2-molbank-2015-M848">2</xref>] and dye-sensitized solar cells [<xref ref-type="bibr" rid="B3-molbank-2015-M848">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M848">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M848">5</xref>], and also in supramolecular chemistry [<xref ref-type="bibr" rid="B6-molbank-2015-M848">6</xref>]. Additionally, some terphenyl-derived compounds have interesting pharmacological properties [<xref ref-type="bibr" rid="B7-molbank-2015-M848">7</xref>] and these compounds have also been used as efficient ligands for metal-catalyzed reactions [<xref ref-type="bibr" rid="B8-molbank-2015-M848">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M848">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M848">10</xref>]. Due to their importance, many research groups have focused their efforts in the development of efficient methods for the synthesis of polysubstituted and highly functionalized benzene derivatives from simple acyclic substrates [<xref ref-type="bibr" rid="B11-molbank-2015-M848">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M848">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M848">13</xref>]. </p>
+      <p>We describe here the preparation of a <italic>m</italic>-terphenyl derivative (<bold>2</bold>) containing an hexasubstituted central ring that, besides the two aryl-aryl bonds, contains four functional groups, namely one ester, one alkylamino and two nitro functions. This pattern potentially allows transformations of interest in materials chemistry, such as the preparation of carbazole systems via the Cadogan reaction. Furthermore, the presence of the two 4-bromo substituents in the peripheral aromatic rings allows to perform polymerizations via cross-coupling reactions. </p>
+      <p>The synthesis of our target compound started from precursor <bold>1</bold>, which was in turn obtained in 77% overall yield by a microwave-assisted three-component reaction between butylamine, ethyl 3-oxobutanoate, and 4,4'-dibromochalcone [<xref ref-type="bibr" rid="B14-molbank-2015-M848">14</xref>], followed by dehydrogenation with DDQ in toluene [<xref ref-type="bibr" rid="B15-molbank-2015-M848">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2015-M848">16</xref>]. Compound <bold>1</bold> was regioselectively nitrated in its central benzene ring in almost quantitative yield by treatment with sulfonitric mixture in acetic acid at 0 &#xB0;C, followed by heating at 50 &#xB0;C for 40 minutes (<xref ref-type="scheme" rid="molbank-2015-M848-sch001">Scheme 1</xref>). </p>
+      <p><italic>Ab initio</italic> calculations at the 6-31+G* level showed that, not unexpectedly, steric congestion around the central benzene ring drove several of the functional groups out of conjugation (<xref ref-type="fig" rid="molbank-2015-M848-f001">Figure 1</xref>). This is an interesting feature, as it is expected to increase the reactivity of compound <bold>2</bold> and thereby render it more amenable to synthetic manipulation aimed at its use as a building block in the synthesis of new organic materials.</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <p>Melting points were measured in an open capillary tube and are uncorrected. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on a Bruker (Avance) 250 MHz NMR instrument (Billerica, MA, USA) maintained by the CAI de Resonancia Magn&#xE9;tica, Universidad Complutense, using CDCl<sub>3</sub> as solvent and the residual CHCl<sub>3</sub> as reference. Chemical shifts are given in parts per million (&#x3B4; scale) and the coupling constants are given in Hertz. Silica gel-G plates (Merck) were used for TLC analysis. Elemental analyses were measured by the CAI de Microan&#xE1;lisis Elemental, Universidad Complutense, on a Leco 932 CHNS analyser (St. Joseph, MI, USA). IR spectra were recorded on an Agilent CARY630 FTIR instrument (neat sample on a NaCl window) (Santa Clara, CA, USA). The computational studies were performed with MacSpartan 10 software.</p>
+      <p><italic>Ethyl 4,4''-Dibromo-5'-(butylamino)-2',6'-dinitro-[1,1':3',1''-terphenyl]-4'-carboxylate</italic> (<bold>2</bold>). A solution of ethyl-6-butylamino-2,4-di-(4-bromophenyl)-benzoate <bold>1</bold> (425 mg, 0.8 mmol) in acetic acid (2 mL) was added dropwise in an ice bath to 5 mL of a stirred nitrating mixture, previously prepared by mixing nitric acid and sulfuric acid (1/1). The reaction was heated at 50 &#xB0;C for 40 minutes and upon completion of the reaction, as indicated by TLC (mobile phase, 9:1 petroleum ether&#x2013;ethyl acetate, R<sub>f</sub> of compound <bold>2</bold>, 0.47), the reaction mixture was cooled to room temperature and poured onto an ice bath. The precipitate obtained was isolated by filtration under <italic>vacuum</italic> and was crystalized with ethanol to give 482 mg (97 % yield) of compound <bold>2</bold> as pale yellow crystals. </p>
+      <p>Melting point: 180&#x2013;181 &#xB0;C. </p>
+      <p>IR &#x3BD;<sub>max</sub> (film): 2960, 2875, 1734, 1541 cm<sup>&#x2212;1</sup>. </p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>) &#x3B4; 7.70&#x2013;7.55 (m, 4H), 7.28&#x2013;7.22 (m, 4H), 4.18&#x2013;3.92 (m, 3H), 3.85&#x2013;3.66 (m, 1H), 1.82&#x2013;1.53 (m, 2H), 1.46&#x2013;1.23 (m, 2H), 1.08&#x2013;0.82 (m, 6H). </p>
+      <p><sup>13</sup>C-NMR (63 MHz, CDCl<sub>3</sub>) &#x3B4; 162.7, 151.2, 148.5, 135.7, 135.1, 132.6, 132.2, 130.4, 130.2, 130.1, 129.0, 126.6, 125.9, 125.1, 63.5, 55.0, 28.9, 20.0, 13.6, 13.6. </p>
+      <p>Elemental analysis (%) calcd for C<sub>25</sub>H<sub>23</sub>Br<sub>2</sub>N<sub>3</sub>O<sub>6</sub>: C, 48.33; H, 3.73; N, 6.76; found: C, 48.28; H, 3.80; N, 6.68.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M848">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M848-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M848-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M848-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M848-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M848-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M848-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Financial support from Ministerio de Econom&#xED;a y Competitividad (MINECO) is gratefully acknowledged (grant CTQ-2012-33272-BQU).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>D.R. performed the experimental work and product characterization. J.F.G. and J.C.M. prepared the manuscript, with contributions from all authors. The overall project management was done by J.C.M.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M848">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kapustin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Prostyakova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bryk</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yagudaeva</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Zubov</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Composite Materials Modified with Nano-Layers of Functionalized Polymers for Bioanalysis and Medical Diagnostics</article-title>
+          <source>Nanocomposites and Polymers with Analytical Methods</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Cupoletti</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>InTech</publisher-name>
+          <publisher-loc>Rijeka, Croatia</publisher-loc>
+          <year>2011</year>
+		  <comment>Chapter 4</comment>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M848">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yashima</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Furusho</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Single- and Double-Stranded Helical Polymers: Synthesis, Structures, and Functions</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2008</year>
+          <volume>41</volume>
+          <fpage>1166</fpage>
+          <lpage>1180</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar800091w</pub-id>
+          <pub-id pub-id-type="pmid">18690750</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M848">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yen</surname>
+              <given-names>Y.-S.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W.-T.</given-names>
+            </name>
+            <name>
+              <surname>Hsu</surname>
+              <given-names>C.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Chou</surname>
+              <given-names>H.-H.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Yeh</surname>
+              <given-names>M.-C.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Arylamine-Based Dyes for p-Type Dye-Sensitized Solar Cells</article-title>
+          <source>Org. Lett.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>4930</fpage>
+          <lpage>4933</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol202014x</pub-id>
+          <pub-id pub-id-type="pmid">21859116</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M848">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sasabe</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Seino</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kido</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>m</italic>-Terphenyl-Modifed Sulfone Derivative as a Host Material for High-Efficiency Blue and Green Phosphorescent OLEDs</article-title>
+          <source>J. Chem. Mater.</source>
+          <year>2012</year>
+          <volume>24</volume>
+          <fpage>1404</fpage>
+          <lpage>1406</lpage>
+          <pub-id pub-id-type="doi">10.1021/cm3006748</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M848">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Coropceanu</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Br&#xE9;das</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design of Efficient Ambipolar Host Materials for Organic Blue Electrophosphorescence: Theoretical Characterization of Hosts Based on Carbazole Derivatives</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2011</year>
+          <volume>133</volume>
+          <fpage>17895</fpage>
+          <lpage>17900</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja207554h</pub-id>
+          <pub-id pub-id-type="pmid">21942419</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M848">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrand</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Crump</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Synthetic Lectin Analog for Biomimetic Disaccharide Recognition</article-title>
+          <source>Science</source>
+          <year>2007</year>
+          <volume>318</volume>
+          <fpage>619</fpage>
+          <lpage>622</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1148735</pub-id>
+          <pub-id pub-id-type="pmid">17962557</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M848">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rajakumar</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Padmanabhan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rajesh</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Study on Anti-Arthritic, Anti-Inflammatory Activity and Toxicity of Some Novel Bis-Oxy Cyclophane Diamides</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>3770</fpage>
+          <lpage>3775</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2012.04.010</pub-id>
+          <pub-id pub-id-type="pmid">22542015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M848">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kays</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Developments in Transition Metal Diaryl Chemistry</article-title>
+          <source>Dalton Trans.</source>
+          <year>2011</year>
+          <volume>40</volume>
+          <fpage>769</fpage>
+          <lpage>778</lpage>
+          <pub-id pub-id-type="doi">10.1039/C0DT01247E</pub-id>
+          <pub-id pub-id-type="pmid">21152535</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M848">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kays</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Stabilization of Organometallic Complexes Using <italic>m</italic>-Terphenyl Ligands</article-title>
+          <source>Organomet. Chem.</source>
+          <year>2010</year>
+          <volume>36</volume>
+          <fpage>56</fpage>
+          <lpage>76</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M848">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clyburne</surname>
+              <given-names>J.A.C.</given-names>
+            </name>
+            <name>
+              <surname>McMullen</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unusual Structures of Main Group Organometallic Compounds Containing <italic>m</italic>-Terphenyl Ligands</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2000</year>
+          <volume>210</volume>
+          <fpage>73</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0010-8545(00)00317-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M848">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hassan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE9;vignon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gozzi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Schulz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lemaire</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aryl-Aryl Bond Formation One Century After the Discovery of the Ullmann Reaction</article-title>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>1359</fpage>
+          <lpage>1469</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr000664r</pub-id>
+          <pub-id pub-id-type="pmid">11996540</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M848">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wulff</surname>
+              <given-names>W.D.</given-names>
+            </name>
+            <name>
+              <surname>Rheingold</surname>
+              <given-names>A.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The First Examples of a Meta-Benzannulation from the Reaction of Fischer Carbene Complexes with Alkynes</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2003</year>
+          <volume>125</volume>
+          <fpage>8980</fpage>
+          <lpage>8981</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja035428n</pub-id>
+          <pub-id pub-id-type="pmid">15369331</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M848">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Odedra</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C.-J.</given-names>
+            </name>
+            <name>
+              <surname>Pratap</surname>
+              <given-names>T.B.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>C.-W.</given-names>
+            </name>
+            <name>
+              <surname>Ran</surname>
+              <given-names>Y.-F.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>R.-S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ruthenium-Catalyzed Aromatization of Enediynes via Highly Regioselective Nucleophilic Additions on a &#x3C0;-Alkyne Functionality. A Useful Method for the Synthesis of Functionalized Benzene Derivatives</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2005</year>
+          <volume>127</volume>
+          <fpage>3406</fpage>
+          <lpage>3412</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja043047j</pub-id>
+          <pub-id pub-id-type="pmid">15755159</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M848">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rocchi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gonz&#xE1;lez</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Men&#xE9;ndez</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Montmorillonite Clay-Promoted, Solvent-Free Cross-Aldol Condensations under Focused Microwave Irradiation</article-title>
+          <source>Molecules</source>
+          <year>2014</year>
+          <volume>19</volume>
+          <fpage>7317</fpage>
+          <lpage>7326</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules19067317</pub-id>
+          <pub-id pub-id-type="pmid">24901834</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M848">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sridharan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Men&#xE9;ndez</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-Step Stereocontrolled Synthesis of Densely Functionalized Cyclic &#x3B2;-Aminoesters Containing Four Stereocenters, Based on a New Cerium(IV) Ammonium Nitrate Catalyzed Sequential Three-Component Reaction</article-title>
+          <source>Org. Lett.</source>
+          <year>2008</year>
+          <volume>10</volume>
+          <fpage>4303</fpage>
+          <lpage>4306</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol801738d</pub-id>
+          <pub-id pub-id-type="pmid">18778079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M848">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rocchi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gonz&#xE1;lez</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Men&#xE9;ndez</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-Assisted, Sequential Four-Component Synthesis of Polysubstituted 5,6-Dihydroquinazolinones from Acyclic Precursors and a Mild, Halogenation-Initiated Method for Their Aromatization Under Focused Microwave Irradiation</article-title>
+          <source>Green Chem.</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>511</fpage>
+          <lpage>517</lpage>
+          <pub-id pub-id-type="doi">10.1039/c2gc36221j</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2015-M848-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M848-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of ethyl 4,4''-dibromo-5'-(butylamino)-2',6'-dinitro-[1,1':3',1''-terphenyl]-4'-carboxylate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M848-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M848-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Three-dimensional structure of compound <bold>2</bold>, minimized at the 6-31+G* level.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M848-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

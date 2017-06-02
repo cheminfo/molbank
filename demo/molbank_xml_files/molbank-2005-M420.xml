@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M420</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M420</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-(2,5-Diethoxy-4-iodo-phenylethynyl)-[1,10]-phenanthroline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Habibi</surname>
+            <given-names>Davood</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M420">Department of Chemistry, Faculty of Sciences, Bu Ali Sina University, Hamedan, Iran. Code: 6517838683. e-mail: <email>dhabibi@basu.ac.ir</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>3</issue>
+      <elocation-id>M420</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>1,4-diethoxy-2,5-diiodobenzene</kwd>
+		<kwd>Sonogashira procedure</kwd>
+		<kwd>phenanthroline</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M420-i001.tif"/></disp-formula>
+      <p>The experimental procedure follows a protocol developed by Sonogashira [<xref ref-type="bibr" rid="B1-molbank-2005-M420">1</xref>]. All reactions were carried out under the atmosphere of dry argon by using standard Schlenk tube techniques. </p>
+      <p>To a mixture of 3-ethynyl-[1,10]-phenanthroline [<xref ref-type="bibr" rid="B2-molbank-2005-M420">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2005-M420">3</xref>] (306 mg, 1.5 mmol) and 1,4-diethoxy-2,5-diiodobenzene (3.135 g, 7.5 mmol) in dry benzene (25 mL), and triethyl amine (10 mL), were added CuI (28.6 mg, 0.15 mmol), and [PdCl<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub>] (52.6 mg, 0.075 mmol). The reaction mixture was kept at 80 <bold><sup>&#xB0;</sup></bold>C for 24h while stirring vigorously and monitored with mass spectrometer to see the formation of the desired product. After removal of the solvent, the residue was washed with aqueous potassium cyanide (2%, 30 mL) and distilled water (100 mL), and purified by column chromatography (SiO<sub>2</sub>, CHCl<sub>3</sub>) to collect 3-(2,5-diethoxy-4-iodo-phenylethynyl)-[1,10]-phenanthroline (222 mg, 0.45 mmol, 30%).</p>
+      <p>Melting Point: &gt; 300&#xB0;C. </p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3205, 2202, 1590, 1477, 1415, 1261, 1202, 1095, 1053, 940, 818, 729. </p>
+      <p><sup>1</sup>H-NMR (200 MHz, d<sub>6</sub>-acetone): &#x3B4;= 1.3 (6H, 2CH<sub>3</sub>); 4 (4H, 2CH<sub>2</sub>); 6.6 (1H, 8'-H); 7.0 (1H, 5'-H); 7.25 (1H, 8-H); 7.4 (1H, 5-H); 7.7 (1H, 6-H); 8.0 (1H, 7-H); 8.2 (1H, 4-H); 8.8 (1H, 9-H); 9.0 (1-H, 2-H).</p>
+      <p>Elemental Analysis: Calculated for C<sub>24</sub>H<sub>19</sub>IN<sub>2</sub>O<sub>2</sub>: C, 58.31%; H, 3.87%; N, 5.67%. Found: C, 58.0%; H, 4.0%; N, 5.8%. </p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M420">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M420-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M420-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2005-M420-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M420-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author gratefully acknowledges the financial supports from the Bu Ali Sina University, Hamedan, Iran. </p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M420">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sonogashira</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tohda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hagihara</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett</source>
+          <year>1975</year>
+          <fpage>4467</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M420">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Habibi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Schmittel</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2001</year>
+          <elocation-id>M224</elocation-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M420">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Habibi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Schmittel</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2001</year>
+          <elocation-id>M225</elocation-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M420">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giesa</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schulz</surname>
+              <given-names>R. C.</given-names>
+            </name>
+          </person-group>
+          <source>Makromol. Chem.</source>
+          <year>1990</year>
+          <volume>191</volume>
+          <fpage>857</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2005-M420">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weder</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wrighton</surname>
+              <given-names>M. S.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1996</year>
+          <volume>29</volume>
+          <fpage>5157</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2005-M420">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Swager</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Gil</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Wrighton</surname>
+              <given-names>M. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Phys. Chem.</source>
+          <year>1995</year>
+          <volume>99</volume>
+          <fpage>4886</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

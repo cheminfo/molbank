@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M778</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M778</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(4-Fluoro-3-nitrophenyl)-6-(4-methoxyphenyl)imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kundapur</surname>
+            <given-names>Umesha</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M778" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sarojini</surname>
+            <given-names>Balladka Kunhanna</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M778" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2012-M778" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Narayana</surname>
+            <given-names>Badiadka</given-names>
+          </name>
+          <xref rid="af2-molbank-2012-M778" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M778"><label>1</label>Research Department of Chemistry, P. A College of Engineering, Nadupadavu, Mangalore 574153, Karnataka, India</aff>
+      <aff id="af2-molbank-2012-M778"><label>2</label>Department of Studies in Chemistry, Mangalore University, Mangalagangotri-574 199, Karnataka, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M778"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>bksaroj@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>4</issue>
+      <elocation-id>M778</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>07</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>09</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, 2-(4-fluoro-3-nitrophenyl)-6-(4-methoxyphenyl)&#xAC;imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole (<bold>3</bold>) was obtained by the condensation of 5-(4-fluoro-3-nitrophenyl)-[1,3,4]thiadiazol-2-ylamine (<bold>1</bold>) with 4-methoxyphenacyl bromide (<bold>2</bold>). The newly prepared imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole derivative (<bold>3</bold>) was characterized by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and LCMS spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,3,4-Thiadiazole</kwd>
+        <kwd><italic>N</italic>-bridged heterocycle</kwd>
+        <kwd>imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Thiadiazole derivatives find diverse applications as pharmaceuticals, oxidation inhibitors, cyanine dyes and metal chelating agents. A literature review revealed that compounds with the thiadiazole nucleus possess antimicrobial [<xref ref-type="bibr" rid="B1-molbank-2012-M778">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M778">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M778">3</xref>], antituberculosis [<xref ref-type="bibr" rid="B4-molbank-2012-M778">4</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B5-molbank-2012-M778">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M778">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M778">7</xref>], anticonvulsant [<xref ref-type="bibr" rid="B8-molbank-2012-M778">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2012-M778">9</xref>], antihypertensive [<xref ref-type="bibr" rid="B10-molbank-2012-M778">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2012-M778">11</xref>], antioxidant [<xref ref-type="bibr" rid="B12-molbank-2012-M778">12</xref>] and anticancer [<xref ref-type="bibr" rid="B13-molbank-2012-M778">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2012-M778">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2012-M778">15</xref>] activities. Imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole derivatives were also found to be very interesting molecules with a wide range of biological activities like anticancer, antitubercular, antibacterial, antifungal, anticonvulsant, analgesic, antisecretory, anti-inflammatory, cardiotonic, diuretic and herbicidal activities [<xref ref-type="bibr" rid="B16-molbank-2012-M778">16</xref>]. Levamisole, a well known immunomodulator, contains an imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole moiety. Owing to our interest in nitrogen bridged heterocyclic medicinal chemistry, it was contemplated to synthesize the title compound.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>5-(4-Fluoro-3-nitrophenyl)-1,3,4-thiadiazol-2-ylamine (<bold>1</bold>), on reflux with 4-methoxyphenacyl bromide (<bold>2</bold>) in ethanol as solvent yielded 2-(4-fluoro-3-nitrophenyl)-6-(4-methoxyphenyl)&#xAC;imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole (<bold>3</bold>).</p>
+      <p>The IR spectrum of (2-(4-fluoro-3-nitrophenyl)-6-(4-methoxyphenyl)imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole 3 showed strong absorption bands at 1599 cm<sup>&#x2212;1</sup>, 1485 cm<sup>&#x2212;1</sup> and 1324 cm<sup>&#x2212;1</sup> due to C&#x2013;N, N&#x2013;O and C&#x2013;F stretching of the nitro and fluoro group at the benzene ring. The absence of strong absorption bands at 3457 cm<sup>&#x2212;1</sup> and 3092.5 cm<sup>&#x2212;1</sup> due to the &#x2013;NH<sub>2</sub> group of the precursor thiazole amine <bold>1</bold> indicated the formation of the product <bold>3</bold>. <sup>1</sup>H-NMR was recorded in DMSO-<italic>d</italic><sub>6</sub> (400 MHz) and the spectrum showed a signal at &#x3B4; 3.78 ppm as a singlet which could be attributed to the methoxy group. The aromatic protons of the methoxy-bearing phenyl ring appear as two doublets in the region &#x3B4; 6.99 (d, <italic>J</italic> = 8.8 Hz, 2H) and 7.83 (d, <italic>J</italic> = 8.8 Hz, 2H) respectively. The signals for three protons of the fluoro/nitro substituted phenyl group appear at 8.33 (t, <italic>J</italic> = 8.2 Hz, 1H), 8.19 (dd, <italic>J</italic> = 1.7, 11.7 Hz, 1H) 8.00 (d, <italic>J</italic> = 8.7 Hz, 1H). A singlet appears at &#x3B4; 8.71 ppm which is due to the imidazole ring proton. The spin-spin coupling constant of 11.7 Hz, reflects the interaction between hydrogen and fluorine atom. Further, the <sup>13</sup>C-NMR spectrum was recorded in TFA because of the poor solubility of the compound in DMSO and this spectrum shows peaks at 161.0, 143.5, 140.03, 133.9, 127.5, 123.0, 118.2, 117.2, 116.9, 115.5, 115.2, 112.7, 110.2, 109.9 and 54.9 which accounted for 17 carbon atoms with 2 sets of equivalent carbons. The mass spectrum shows the molecular ion peak at <italic>m/z</italic> 371.0 (M<sup>+</sup>+1) corresponding to the molecular formula of C<sub>17</sub>H<sub>11</sub>FN<sub>4</sub>O<sub>3</sub>S and elemental analysis gave satisfactory results for the title compound.</p>
+	</sec>
+	<sec>
+      <title>Experimental</title>
+      <p>The melting point was taken in an open capillary tube and is uncorrected. The purity of the compound was confirmed by thin layer chromatography using Merck silica gel 60 F<sub>254</sub> coated aluminum plates. The IR spectrum was recorded on a Shimadzu-FTIR Infrared spectrometer in KBr (max in cm<sup>&#x2212;1</sup>). The <sup>1</sup>H-NMR (400 MHz) spectrum was recorded on a Bruker AMX 400 spectrometer, with 5 mm PABBO BB -1H TUBES and approximately 0.03 M solutions in DMSO-<italic>d</italic><sub>6</sub> and the <sup>13</sup>C-NMR (100 MHz) spectrum was recorded in TFA. LCMS was obtained using an Agilent 1200 series LC and Micromass zQ spectrometer. Elemental analysis was carried out by using a VARIO EL-III (Elementar Analysensysteme GmbH).</p>
+      <p>A mixture of 5-(4-fluoro-3-nitrophenyl)-1,3,4-thiadiazol-2-ylamine (<bold>1</bold>) (5.0 g, 0.0208 mol) and 4-methoxyphenacyl bromide (<bold>2</bold>) (5.2 g, 0.0229 mol) in absolute ethanol (50 mL) was refluxed for 16 h. The reaction mass was cooled to RT, the solid which precipitated was filtered and slurried with 10% sodium bicarbonate (50 mL). The solid was collected by filtration, washed with water and dried under suction to afford the title compound (6.2 g) as a brick-red solid with a yield of 80.5%.</p>
+      <p>Melting point: 228.2&#x2013;229.5 &#xB0;C.</p>
+      <p>LCMS: <italic>m/z</italic> = 371.0 (M<sup>+</sup>+1).</p>
+      <p>IR (KBr): &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>), 1599, 1485 (N&#x2013;O), 1324 (C&#x2013;F).</p>
+      <p><sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; ppm, 8.71 (s, 1H, ArH), 8.33 (t, <italic>J</italic> = 8.2 Hz, 1H, ArH), 8.19 (dd, <italic>J</italic> = 1.7, 11.7 Hz, 1H, ArH), 8.00 (d, <italic>J</italic> = 8.7 Hz, 1H, ArH), 7.83 (d, <italic>J</italic> = 8.7 Hz, 2H, ArH), 6.99 (d, <italic>J</italic> = 8.8 Hz, 2H, ArH), 3.78 (s, 3H, OCH<sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, TFA): &#x3B4; ppm, 161.0, 143.5, 140.0, 133.9, 127.5, 123.0, 118.2, 117.2, 116.9, 115.5, 115.2, 112.7, 110.2, 109.9 and 54.9.</p>
+      <p>Elemental analysis: Calculated for C<sub>17</sub>H<sub>11</sub>FN<sub>4</sub>O<sub>3</sub>S., C, 55.13%; H, 2.99%; N, 15.13%; Found: C, 55.18%; H, 2.94%; N, 15.16%.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2012-M778">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M778-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M778-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M778-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M778-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M778-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M778-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are thankful to PA College of Engineering Mangalore, Karnataka, India, for providing facility for the research work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2012-M778">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demirbas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sahin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Demirbas</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Karaoglu</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new 1,3,4-thiadiazol-2-ylmethyl-1,2,4-triazole derivatives and investigation of their antimicrobial activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>2896</fpage>
+          <lpage>2903</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.12.005</pub-id>
+          <pub-id pub-id-type="pmid">19167136</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M778">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kadi</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>El-Brollosy</surname>
+              <given-names>N.R.</given-names>
+            </name>
+            <name>
+              <surname>Al-Deeb</surname>
+              <given-names>O.A.</given-names>
+            </name>
+            <name>
+              <surname>Habib</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>El-Emam</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antimicrobial, and anti-inflammatory activities of novel 2-(1-adamantyl)-5-substituted-1,3,4-oxadiazoles and 2-(1-adamantylamino)-5-substituted-1,3,4-thiadiazoles</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>235</fpage>
+          <lpage>242</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2006.10.003</pub-id>
+          <pub-id pub-id-type="pmid">17129641</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M778">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bekhit</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Aziem</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, synthesis and biological evaluation of some pyrazole derivatives as anti-inflammatory-antimicrobial agents</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2004</year>
+          <volume>12</volume>
+          <fpage>1935</fpage>
+          <lpage>1945</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2004.01.037</pub-id>
+          <pub-id pub-id-type="pmid">15051061</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M778">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solak</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Rollas</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antituberculosis activity of 2-(aryl/alkylamino)-5-(4-aminophenyl)-1,3,4-thiadiazoles and their Schiff bases</article-title>
+          <source>ARKIVOC</source>
+          <year>2006</year>
+          <volume>12</volume>
+          <fpage>173</fpage>
+          <lpage>181</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M778">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mullican</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Connor</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Kostlan</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Schrier</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Dyer</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design of 5-(3,5-di-tert-butyl-4-hydroxyphenyl)-1,3,4-thiadiazoles, -1,3,4-oxadiazoles, and -1,2,4-triazoles as orally active, nonulcerogenic antiinflammatory agents</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>1090</fpage>
+          <lpage>1099</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00060a017</pub-id>
+          <pub-id pub-id-type="pmid">8478906</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M778">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Connor</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Sercel</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Sorenson</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Doubleday</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Unangst</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>B.D.</given-names>
+            </name>
+            <name>
+              <surname>Beylin</surname>
+              <given-names>V.G.</given-names>
+            </name>
+            <name>
+              <surname>Gilbertson</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Synthesis, Structure&#x2212;Activity Relationships, and <italic>in vivo</italic> Evaluations of Substituted Di-<italic>tert</italic>-butylphenols as a Novel Class of Potent, Selective, and Orally Active Cyclooxygenase-2 Inhibitors. 1. Thiazolone and Oxazolone Series</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <fpage>1161</fpage>
+          <lpage>1169</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm980570y</pub-id>
+          <pub-id pub-id-type="pmid">10197960</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M778">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mathew</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Keshavayya</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vaidya</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Giles</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on synthesis and pharmacological activities of 3,6-disubstituted-1,2,4-triazolo[3,4-<italic>b</italic>]-1,3,4-thiadiazoles and their dihydro analogues</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>823</fpage>
+          <lpage>840</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2006.12.010</pub-id>
+          <pub-id pub-id-type="pmid">17331622</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M778">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chapleo</surname>
+              <given-names>C.B.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Saville</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.C.B.</given-names>
+            </name>
+            <name>
+              <surname>Stilling</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Tulloch</surname>
+              <given-names>I.F.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Welbourne</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted 1,3,4-thiadiazoles with anticonvulsant activity. 1. Hydrazines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1986</year>
+          <volume>29</volume>
+          <fpage>2273</fpage>
+          <lpage>2280</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00161a024</pub-id>
+          <pub-id pub-id-type="pmid">3783589</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M778">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chapleo</surname>
+              <given-names>C.B.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Stilling</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Tulloch</surname>
+              <given-names>I.F.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted 1,3,4-thiadiazoles with anticonvulsant activity. 4. Amidines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1988</year>
+          <volume>31</volume>
+          <fpage>7</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00396a004</pub-id>
+          <pub-id pub-id-type="pmid">3336034</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M778">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gadie</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Pape</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Saville</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Doxey</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Berridge</surname>
+              <given-names>T.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antihypertensive thiadiazoles. 1. Synthesis of some 2-aryl-5-hydrazino-1,3,4-thiadiazoles with vasodilator activity</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1988</year>
+          <volume>31</volume>
+          <fpage>902</fpage>
+          <lpage>906</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00400a003</pub-id>
+          <pub-id pub-id-type="pmid">3361578</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M778">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Myers</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gadie</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hale</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Horsley</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Pape</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Saville</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Doxey</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Berridge</surname>
+              <given-names>T.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antihypertensive thiadiazoles. 2. Vasodilator activity of some 2-aryl-5-guanidino-1,3,4-thiadiazoles</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1988</year>
+          <volume>31</volume>
+          <fpage>906</fpage>
+          <lpage>913</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00400a004</pub-id>
+          <pub-id pub-id-type="pmid">3361579</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2012-M778">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cressier</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Prouillac</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hernandez</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Amourette</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Diserbo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lion</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rima</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antioxidant properties and radioprotective effects of new benzothiazoles and thiadiazoles</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>5275</fpage>
+          <lpage>5284</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2009.05.039</pub-id>
+          <pub-id pub-id-type="pmid">19502068</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2012-M778">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matysiak</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nazulewicz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pelczynska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Switalska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jaroszewicz</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Opolski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antiproliferative activity of some 5-substituted 2-(2,4-dihydroxyphenyl)-1,3,4-thiadiazoles</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2006</year>
+          <volume>41</volume>
+          <fpage>475</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2005.12.007</pub-id>
+          <pub-id pub-id-type="pmid">16517026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2012-M778">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holla</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Gonsalves</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sarojini</surname>
+              <given-names>B.K.</given-names>
+            </name>
+            <name>
+              <surname>Shridhara</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new biologically active thiadiazolotriazinones&#x2014;Part III</article-title>
+          <source>Il Farmaco</source>
+          <year>2002</year>
+          <volume>57</volume>
+          <fpage>693</fpage>
+          <lpage>696</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0014-827X(02)01260-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2012-M778">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Crespan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Botta</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Falchi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Maga</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Manetti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Corradi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mancini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Santucciv</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Schenone</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Discovery and SAR of 1,3,4-thiadiazole derivatives as potent Abl tyrosine kinase inhibitors and cytodifferentiating agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>1207</fpage>
+          <lpage>1211</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2007.11.112</pub-id>
+          <pub-id pub-id-type="pmid">18078752</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2012-M778">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jadhav</surname>
+              <given-names>V.B.</given-names>
+            </name>
+            <name>
+              <surname>Kulkarni</surname>
+              <given-names>M.V.</given-names>
+            </name>
+            <name>
+              <surname>Rasal</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Biradar</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Vinay</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-inflammatory evaluation of methylene bridged benzofuranyl imidazo[2,1-<italic>b</italic>][1,3,4]thiadiazoles</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>1721</fpage>
+          <lpage>1729</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.06.023</pub-id>
+          <pub-id pub-id-type="pmid">17845827</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2012-M778-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M778-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 2-(4-fluoro-3-nitrophenyl)-6-(4-methoxyphenyl)imidazo[2,1-<italic>b</italic>]-1,3,4-thiadiazole.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M778-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

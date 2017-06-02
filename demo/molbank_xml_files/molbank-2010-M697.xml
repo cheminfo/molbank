@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M697</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M697</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-Acetyl-17-{2-hydroxy-3-[4-(2-methoxyphenyl)piperazin-1-yl]propyl}-17-azapentacyclo[6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pakosi&#x144;ska-Parys</surname>
+            <given-names>Magdalena</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M697" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kossakowski</surname>
+            <given-names>Jerzy</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Struga</surname>
+            <given-names>Marta</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M697">Chair and Department of Medical Chemistry, 1<sup>st</sup> Faculty of Medicine, Medical University of Warsaw, 3 Oczki Street, 02-007 Warsaw, Poland</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M697"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>mpakosinska@wum.edu.pl</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>09</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>3</issue>
+      <elocation-id>M697</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>08</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>09</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was synthesized by condensation of an oxiran imide derivative with an appropriate amine and its IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and mass spectroscopic data are reported. The synthesized compound was evaluated for its cytotoxicity and anti-HIV-1 activity in MT-4 cells.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1-acetyl-17-{2-hydroxy-3-[4-(2-methoxyphenyl)piperazin-1-yl]propyl}-17-azapentacyclo[6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione</kwd>
+        <kwd>cytotoxicity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Currently available drugs for the treatment of HIV infections are based on combination of two types of anti-HIV-1 agents: nucleoside reverse transcriptase inhibitors (RTIs) and protease inhibitors [<xref ref-type="bibr" rid="B1-molbank-2010-M697">1</xref>]. The RTIs can be divided into nucleoside (NI) and non-nucleoside RT inhibitors (NNRTI). Several non-nucleoside inhibitors have been described, including nevirapine, thiobenzimidazolone (TIBO) derivatives, pyridinone derivatives and the bis(heteroaryl)piperazines (BHAPs), such as delavirdine and atevirdine [<xref ref-type="bibr" rid="B2-molbank-2010-M697">2</xref>]. Another arylpiperazine, vicriviroc, is currently under phase II of clinical investigation [<xref ref-type="bibr" rid="B3-molbank-2010-M697">3</xref>]. Therefore, the discovery of new BHAP analogs is actively pursued [<xref ref-type="bibr" rid="B4-molbank-2010-M697">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M697">5</xref>].</p>
+      <p>1-Acetyl-17-(oxiran-2-ylmethyl)-17-azapentacyclo[6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione <bold>1</bold> was used as a starting material. It was obtained from the reaction of imide 1-acetyl-17-azapentacyclo[6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione with 2-(chloromethyl)oxirane [<xref ref-type="bibr" rid="B6-molbank-2010-M697">6</xref>]. Next, it was subjected to the reaction with an amine to give the appropriate amino alcohol <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2010-M697-sch001">Scheme 1</xref>).</p>
+      <p>The synthesized compound was evaluated for its cytotoxicity and anti-HIV-1 activity in MT-4 cells [<xref ref-type="bibr" rid="B7-molbank-2010-M697">7</xref>]. The obtained compound <bold>1</bold> does not show activity against HIV-1. Compound concentation (&#xB5;M) required to reduce the viability of mock-infected MT-4 cells by 50% is 45 (CC<sub>50</sub>). Compound concentration (&#xB5;M) required to achieve 50% protection of MT-4 cells from the HIV-1 induced cytopathogeneticy is 45 or less (EC<sub>50</sub>).</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>Chemistry</title>
+        <p>Synthesis of 1-acetyl-17-{2-hydroxy-3-[4-(2-methoxyphenyl)piperazin-1-yl]propyl}-17-azapentacyclo- [6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione hydrochloride (<bold>2</bold>)</p>
+        <p>A mixture of 1-acetyl-17-(oxiran-2-ylmethyl)-17-azapentacyclo[6.6.5.0<sup>2,7</sup>.0<sup>9,14</sup>.0<sup>15,19</sup>]nonadeca-2,4,6,9,11,13-hexaene-16,18-dione (<bold>1</bold>) (0.5 g, 0.0013 mol) and (1-(2-methoxyphenyl)piperazine (0.43 g, 0.0019 mol in water/methanol (1:40) was refluxed for 50 h. The liquid was distilled off, the oily residue was purified by column chromatography (chloroform:methanol; 100:0.5 vol.). The dried residue was dissolved in methanol, and then 10 drops of HCl saturated methanol were added. The mixture was kept for 12 h at 6 &#xB0;C and after that time the solvent was distilled off. </p>
+        <p>White crystals, yield 70%.</p>
+        <p>Melting point: 192 &#xB0;C. </p>
+        <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 11.72 (s, 1H, NH<sup>+</sup>); 7.67&#x2013;7.65 (m, 2H, CH<sub>arom.</sub>); 7.43&#x2013;4.40 (m, 2H, CH<sub>arom.</sub>); 7.24&#x2013;6.97 (m, 8H, CH<sub>arom.</sub>); 4.35&#x2013;4.20 (m, 2H, CH); 4.02&#x2013;3.87 (m, 2H, CH<sub>2</sub>); 3.96 (s, 3H, OCH<sub>3</sub>); 3.71&#x2013;3.40 (m, 6H, CH<sub>2</sub>); 3.24&#x2013;2.94 (m, 4H, CH<sub>2</sub>); 2.82 (d, 3H, CH<sub>3</sub>, <italic>J</italic> = 3.2 Hz).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 177.05, 177.02, 176.73, 141,52, 141,47, 140.14, 140.15, 138.62, 138.58, 137.27, 127.98, 127,78, 127.69, 127.59, 127.15, 125.51, 125.39, 125.32, 125.22, 124.74, 123.92, 123.32, 121.98, 64.03, 61.51, 60.77, 56.38, 50.95, 49.22, 48.57, 48.46, 46.20, 46.15, 42.5.</p>
+        <p>ESI MS: <italic>m/z</italic> = 566.12 [M]<sup>+</sup> (100%).</p>
+        <p>Elemental Analysis: Calculated for C<sub>34</sub>H<sub>36</sub>ClN<sub>3</sub>O<sub>5</sub> x 2H<sub>2</sub>O (638.15): C, 63.99%; H, 6.32%; N, 6.58%;. Found: C, 64.02%; H 6.30%; N, 6.55%.</p>
+      </sec>
+      <sec>
+        <title>Antiviral Assay Procedures</title>
+        <p>The antiviral investigations of the compound were performed in Dipartamento di Scienze e Tecnologie Biomediche, Universita di Cagliari, Monserato, Italy.</p>
+        <p>The compound was solubilized in DMSO at 200 mM and then diluted into a culture medium.</p>
+      </sec>
+      <sec>
+        <title>Cells and Viruses</title>
+        <p>Cell lines were purchased from American Type Culture Collection (ATCC). The absence of mycoplasma contamination was checked periodically by the Hoechst staining method. Cell lines supporting the multiplication of RNA viruses were the following: CD4<sup>+</sup> human T-cells containing an integrated HTLV-1 genome (MT-4).</p>
+      </sec>
+      <sec>
+        <title>Cytotoxicity Assays</title>
+        <p>For cytotoxicity evaluations, exponentially growing cells derived from human haematological tumors [CD4<sup>+</sup> human T-cells containing an integrated HTLV-1 genome (MT-4)] were seeded at an initial density of 1 &#xD7; 10<sup>5</sup> cells/mL in 96 well plates in RPMI-1640 medium supplemented with 10% fetal calf serum (FCS), 100 units/mL penicillin G and 100 &#xB5;g/mL streptomycin. Cell cultures were then incubated at 37 &#xB0;C in a humidified, 5% CO<sub>2</sub> atmosphere in the absence or presence of serial dilutions of test compounds. Cell viability was determined after 96 h at 37 &#xB0;C by the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl-tetrazolium bromide (MTT) method [<xref ref-type="bibr" rid="B7-molbank-2010-M697">7</xref>].</p>
+      </sec>
+      <sec>
+        <title>Antiviral Assay</title>
+        <p>Activity of the compound against Human Immunodeficiency Virus type-1 (HIV-1) was based on inhibition of virus-induced cytopathogenicity in MT-4 cells acutely infected with a multiplicity of infection (m.o.i.) of 0.01. Briefly, 50 &#x3BC;L of RPMI containing 2 &#xD7; 10<sup>4</sup> MT-4 were added to each well of flat-bottom microtitre trays containing 50 &#x3BC;L of RPMI, without or with serial dilutions of the test compound. Then, 20 &#x3BC;L of an HIV-1 suspension containing 100 CCID50 were added. After a 4-day incubation, cell viability was determined by the MTT method.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M697">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M697-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M697-s001-mod.mol">
+      <label>Supplementary File 1</label>
+      </supplementary-material>
+        <supplementary-material id="molbank-2010-M697-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M697-s001.mol">
+   <label>Supplementary File 2</label>
+     </supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M697">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carpenter</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Fischl</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Hammer</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Hirsch</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Jacobsen</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Katzenstein</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Montaner</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Richman</surname>
+              <given-names>D.D.</given-names>
+            </name>
+            <name>
+              <surname>Saag</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Schooley</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Vella</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yeni</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Volberding</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antiretroviral therapy for HIV infection in 1998: Updated recommendations of the International AIDS Society-USA Panel</article-title>
+          <source>J. Am. Med. Assoc.</source>
+          <year>1998</year>
+          <volume>280</volume>
+          <fpage>78</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.280.1.78</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M697">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romero</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Morge</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Genin</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Biles</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Busso</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Resnick</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Althaus</surname>
+              <given-names>I.W.</given-names>
+            </name>
+            <name>
+              <surname>Reusser</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Tarpley</surname>
+              <given-names>W.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bis(heteroaryl)piperazine (BHAP) reverse transcriptase inhibitors: Structure-activity relationships of novel substituted indole analogues and the identification of 1-[(5-methanesulfonamido-1H-indol-2-yl)-carbonyl]-4-[3- [(1-methylethyl)amino]-pyridinyl]piperazine monomethanesulfonate (U-90152S), a second-generation clinical candidate</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>1505</fpage>
+          <lpage>1508</lpage>
+          <pub-id pub-id-type="pmid">7684450</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M697">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gulick</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Flexner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Skolnik</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Wilkin</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Krambrink</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Coakley</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Greaves</surname>
+              <given-names>W.L.</given-names>
+            </name>
+            <name>
+              <surname>Zolopa</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Reichman</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Godfrey</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hirsch</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kuritzkes</surname>
+              <given-names>D.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase 2 study of the safety and efficacy of vicriviroc, a CCR5 inhibitor, in HIV-1-Infected, treatment-experienced patients: AIDS clinical trials group 5211</article-title>
+          <source>J. Infect. Dis.</source>
+          <year>2007</year>
+          <volume>196</volume>
+          <fpage>304</fpage>
+          <lpage>312</lpage>
+          <pub-id pub-id-type="doi">10.1086/518797</pub-id>
+          <pub-id pub-id-type="pmid">17570119</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M697">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pinna</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Loriga</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Murineddu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Grella</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vargiu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Murgioni</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>La Colla</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-HIV-1 activity of new delavirdine analogues carrying arylpyrrole moieties</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2001</year>
+          <volume>49</volume>
+          <fpage>1406</fpage>
+          <lpage>1411</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.49.1406</pub-id>
+          <pub-id pub-id-type="pmid">11724230</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M697">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tagat</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>McCombie</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Nazareno</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Labroli</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Steensma</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Strizki</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Baroudy</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Lachowicz</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Varty</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Watkins</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Piperazine-based CCR5 antagonists as HIV-1 inhibitors. IV. Discovery of 1-[(4,6-dimethyl-5-pyrimidinyl)carbonyl]-4-[4-[2-methoxy-1(R)-4-(trifluoromethyl)phenyl]ethyl-3(S)-methyl-1-piperazinyl]-4-methylpiperidine (Sch-417690/Sch-D), a potent, highly selective, and orally bioavailable CCR5 antagonist</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>47</volume>
+          <fpage>2405</fpage>
+          <lpage>2408</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M697">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Szczepek</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Pakosi&#x144;ska-Parys</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new n-substituted cyclic imides with expected anxiolytic activity. XXI. Derivatives of 1-acetyldibenzo-[e.h]-bicyclo[2.2.2]-octane-2,3-dicarboximide</article-title>
+          <source>Acta Pol. Pharm.</source>
+          <year>2002</year>
+          <volume>59</volume>
+          <fpage>418</fpage>
+          <lpage>423</lpage>
+          <pub-id pub-id-type="pmid">12669762</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M697">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pauwels</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Balzarini</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Baba</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Snoeck</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schols</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Herdewijn</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Desmyster</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid and automated tetrazolium-based colorimetric assay for the detection of anti-HIV compounds</article-title>
+          <source>J. Virol. Methods</source>
+          <year>1998</year>
+          <volume>20</volume>
+          <fpage>309</fpage>
+          <lpage>321</lpage>
+          <pub-id pub-id-type="doi">10.1016/0166-0934(88)90134-6</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2010-M697-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M697-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-amino-2-hydoxypropyl derivatives.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M697-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

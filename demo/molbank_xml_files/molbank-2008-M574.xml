@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M574</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2008-M574</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis, Characterization and Antileucemic Activity of 7-Hydroxy-8-acetylcoumarin Benzoylhydrazone </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kotali</surname>
+            <given-names>Antigoni</given-names>
+          </name>
+          <xref rid="af1-molbank-2008-M574" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2008-M574" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lafazanis</surname>
+            <given-names>Ioannis S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Papageorgiou</surname>
+            <given-names>Athanassios</given-names>
+          </name>
+          <xref rid="af2-molbank-2008-M574" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chrysogelou</surname>
+            <given-names>Eleni</given-names>
+          </name>
+          <xref rid="af2-molbank-2008-M574" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lialiaris</surname>
+            <given-names>Theodoros</given-names>
+          </name>
+          <xref rid="af3-molbank-2008-M574" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sinakos</surname>
+            <given-names>Zacharias</given-names>
+          </name>
+          <xref rid="af4-molbank-2008-M574" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2008-M574"><label>1</label>Laboratory of Organic Chemistry, Department of Chemical Engineering, College of Engineering, University of Thessaloniki, Thessaloniki 54006, Greece E-mail: <email>kotali@eng.auth.gr</email></aff>
+      <aff id="af2-molbank-2008-M574"><label>2</label>Department of Experimental Chemotherapy, Symeonidion Research Center, Theagenion Cancer Hospital, Thessaloniki 54007, Greece</aff>
+      <aff id="af3-molbank-2008-M574"><label>3</label>Department of Genetics, Democritus University of Thrace, Alexandroupolis, Greece</aff>
+      <aff id="af4-molbank-2008-M574"><label>4</label>EKETA, Thessaloniki 57001, Greece</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2008-M574"><label>*</label> Author to whom correspondence should be addressed.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>08</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>2008</volume>
+      <issue>2</issue>
+      <elocation-id>M574</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>04</month>
+          <year>2007</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>08</day>
+          <month>08</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>08</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2008 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>7-Hydroxy-8-acetylcoumarin</kwd>
+        <kwd>benzoic hydrazide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>As part of a research programme targeting novel molecules derived from nitrogen derivatives of <italic>o</italic>-hydroxyaryl ketones [<xref ref-type="bibr" rid="B1-molbank-2008-M574">1</xref>] we synthesised 7-hydroxy-8-acetylcoumarin benzoylhydrazone. Coumarins are very well known for their biological activity [<xref ref-type="bibr" rid="B2-molbank-2008-M574">2</xref>]. Moreover hydrazone moiety has been reported to possess anticancer activity [<xref ref-type="bibr" rid="B3-molbank-2008-M574">3</xref>]. Thus, it is not unreasonable to assume that a molecule that possesses both coumarin and hydrazone features will possibly show interesting combined biological activity.
+	  <disp-formula id="molbank-2008-M574-i001">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M574-i001.tif"/>
+        </disp-formula>
+      7-Hydroxy-8-acetylcoumarin was prepared according to the literature method [<xref ref-type="bibr" rid="B4-molbank-2008-M574">4</xref>] whereas commercially available benzoic hydrazide was supplied by Aldrich. </p>
+    <sec id="sec1-molbank-2008-M574">
+      <title>1. Method of Preparation 7-hydroxy-8-acetylcoumarin benzoylhydrazone</title>
+      <p>Benzoic hydrazide (0.61 g, 4.5 mmol) was added to a solution of 7-hydroxy-8-acetylcoumarin (1 g, 4.5 mmol) in propanol-1 (10 mL).  The reaction mixture was refluxed for 24 hours. It was then allowed to cool at room temperature. Subsequently, it was stored in the refrigerator overnight. Filtration of the precipitate, which was formed, afforded (1.38 g, 92 %) of the desired <italic>N</italic>-benzoylhydrazone as white crystals. The product was identified by its <sup>1</sup>H NMR, <sup>13</sup>C NMR and MS and it was subjected to elemental analysis without further purification. </p>
+      <p>M.p. 248.5-249.5 &#xB0;C. </p>
+      <p><sup>1</sup>H NMR (400 MHz, DMSO-d<sub>6</sub>): 2.28 (s, 3H), 6.25-6.25 (d, <italic>J</italic>=8.6Hz, 1H), 6.93-6.95 (d, <italic>J</italic>=8.6Hz, 1H), 7.41-8.08 (m, 4H), 8.57-8.80 (m, 3H), 11.24 (s, 1H), 12.37 (s, 1H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, DMSO-d<sub>6</sub>): 19.6, 111.9, 112.0, 112.45, 114.4, 120.0, 123.8, 129.1, 130.7, 132.55, 133.9, 137.9, 145.6, 154.0, 154.9, 160.5, 160.9, 165.2.</p>
+      <p>MS <italic>m/z</italic> (ES+): 345 [M+Na]<sup>+</sup>, 323 [M+1]<sup>+</sup>.</p>
+      <p>Anal. Calc. for C<sub>18</sub>H<sub>14</sub>N<sub>2</sub>O<sub>4</sub>: C 67.08, H 4.38, N 8.69; found: C 66.99, H 4.30, N, 8.61.</p>
+    </sec>
+    <sec id="sec2-molbank-2008-M574">
+      <title>2. Material and Methods</title>
+      <sec id="sec2dot1-molbank-2008-M574">
+        <title>2.1. Mice</title>
+        <p>Male and female mice DBA/2 and BDF<sub>1</sub> (C57Bl6 x DBA/2) mice that were 4-6 weeks of age and weighted 20-25 g were used for toxicity and antitumor evaluation experiments. Mice, provided by the Experimental Animal production Laboratory of Theagenion Cancer Hospital, were under conditions of constant temperature and humidity, with sterile beckling, water and food.</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2008-M574">
+        <title>2.2. Tumor</title>
+        <p>Transplantation of lymphocytic P388 Leucemia was carried out by withdrawing peritoneal fluid from donor DBA/2 mice with 7-day growth. The suspension was centrifuged for 2 min (2000 g). The supernatant peritoneal fluid was decanted and a fold dilution with 0.9% NaCl solution was made. The cell number was determined. The resulting cell suspension of 0.1 ml, containing 106 cells, was injected intraperitoneally into each animal.</p>
+      </sec>
+      <sec id="sec2dot3-molbank-2008-M574">
+        <title>2.3. Compounds</title>
+        <p>In all experiments, 7-hydroxy-8-acetylcoumarin benzoylhydrazone was administrated by IP injection. It was dissolved in 10% DMSO and suspended in corn oil. Stock solutions of the compound were prepared immediately before administration.</p>
+        <p>Percentage of deaths due to the toxicity of each dose is plotted on the ordinate, while the administered doses are plotted on the abscisae on semilogarithmic paper. The point of the line corresponding to 50% and 10% mortalities gives the L<sub>50</sub> and L<sub>10</sub> respectively [<xref ref-type="bibr" rid="B5-molbank-2008-M574">5</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2008-M574">
+      <title>3. Chemotherapy Evaluation</title>
+      <p>For the survival experiments, the antitumor activity of 7-hydroxy-8-acetylcoumarin benzoylhydrazone against P388 murine lymphocytic leukaemia was assessed from the oncostatic parameter T/C% : the mean of median survival time of the drug-treated animals (T) excluding long-term survivors, versus corn-oil treated controls (C), expressed as percentage. The minimum criterion for activity is T/C&#x2265;125%, according to the experimental evaluation of antitumor drugs in National Cancer Institute in USA [<xref ref-type="bibr" rid="B6-molbank-2008-M574">6</xref>].</p>
+    </sec>
+    <sec id="sec4-molbank-2008-M574">
+      <title>4. Acute Toxicity</title>
+      <p>All experiments were consisted of six mice in each drug treatment group and eight mice in the tumor control group. Experiments were initiated by implanting mice with tumor cells. Drug treatments were given as single, or intraperitoneally injections, using LD<sub>40</sub> as a therapeutic dose. Experiments were terminated when no mice remained alive [<xref ref-type="bibr" rid="B5-molbank-2008-M574">5</xref>]. </p>
+    </sec>
+    <sec id="sec5-molbank-2008-M574" sec-type="results">
+      <title>5. Results</title>
+      <p>The results for the antileucemic activity of 7-hydroxy-8-acetylcoumarin benzoylhydrazone are presented in <xref ref-type="table" rid="molbank-2008-M574-t001">Table I</xref>.</p>
+      <p>From the <xref ref-type="table" rid="molbank-2008-M574-t001">Table I</xref> it can be seen that the antitumor activity of 7-hydroxy-8-acetylcoumarin benzoylhydrazone is interesting producing T/C rates of 147 and 138% when the single and intermitted (days 1,4,7) treatment schedules, respectively, were used. This activity is above the borderline activity (T/C&#x2265;125%), which is the minimum criterion of activity of drugs [<xref ref-type="bibr" rid="B5-molbank-2008-M574">5</xref>].</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2008-M574">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2008-M574-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M574-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M574-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M574-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2008-M574">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kotali</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Prep. Proc. Int.</source>
+          <year>1994</year>
+          <volume>26</volume>
+		  <issue>2</issue>
+		  <fpage>155</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2008-M574">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Kennedy</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Thornes</surname>
+              <given-names>R. D.</given-names>
+            </name>
+          </person-group>
+          <source>Coumarins: Biology, Applications and Mode of Action</source>
+          <publisher-name>John Wiley</publisher-name>
+          <publisher-loc>England</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2008-M574">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdel-Rahman</surname>
+              <given-names>R. M.</given-names>
+            </name>
+            <name>
+              <surname>Seada</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fawzy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>el-Baz</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Farmaco.</source>
+          <year>1993</year>
+          <volume>48</volume>
+		  <issue>3</issue>
+          <fpage>397</fpage>
+          <pub-id pub-id-type="pmid">8323671</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2008-M574">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abramov</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Dehaen</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>1529</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2008-M574">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <collab>EORTC group</collab>
+          </person-group>
+          <article-title>EORTC screening procedures</article-title>
+          <source>Eur. J. Cancer</source>
+          <year>1972</year>
+          <volume>8</volume>
+          <fpage>185</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2008-M574">
+        <label>6.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goldin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sofivia</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Syruin</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>National Cancer Insitute Monograph</source>
+          <year>1980</year>
+          <volume>55</volume>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Table</title>
+      <table-wrap id="molbank-2008-M574-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2008-M574-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Antitumer Activity of 7-hydroxy-8-acetylcoumarin benzoylhydrazone in murine P388 leukemia.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Treatment Schedule</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Dosage(mg/kg)</th>
+              <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin">MST<sup>a</sup>(days)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">T/C%<sup>b</sup></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">200</td>
+              <td align="left" valign="middle">Day 1</td>
+              <td align="left" valign="middle">13.25 (9.0)<sup>c</sup></td>
+              <td align="center" valign="middle">147</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">100</td>
+              <td align="left" valign="middle">Days 1,4,7</td>
+              <td align="left" valign="middle">14.5 (10.5)<sup>c</sup></td>
+              <td align="center" valign="middle">138</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">100</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Days 1-9</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">10.4 (9.0)<sup>c</sup></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">116</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+		 <fn><p><sup>a</sup>MST: survival time</p></fn>
+	     <fn><p><sup>b</sup>T/C: survival time of drug-treated animals (T) versus corn-oil control animals (C)</p></fn>
+	     <fn><p><sup>c</sup>MST of control animals</p></fn>
+		</table-wrap-foot>
+	  </table-wrap>
+    </sec>
+  </back>
+</article>

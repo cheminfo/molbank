@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M841</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M841</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2,3,4,9-Tetrahydro-9-(3-hydroxy-1,4-dioxo-1<italic>H</italic>-dihydro-naphthalen-2-yl)-8-methoxy-3,3-dimethyl-1<italic>H</italic>-xanthen-1-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yoshioka</surname>
+            <given-names>Eito</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kohtani</surname>
+            <given-names>Shigeru</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Miyabe</surname>
+            <given-names>Hideto</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M841" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M841">School of Pharmacy, Hyogo University of Health Sciences, 1-3-6, Minatojima, Chuo-ku, Kobe, 650-8530, Japan; E-Mails: <email>e.yoshioka@huhs.ac.jp</email> (E.Y.); <email>kohtani@huhs.ac.jp</email> (S.K.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M841"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>miyabe@huhs.ac.jp</email>; Tel.: +81-78-304-3094; Fax: +81-78-304-2794.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>01</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>1</issue>
+      <elocation-id>M841</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>12</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>01</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound 2,3,4,9-tetrahydro-9-(3-hydroxy-1,4-dioxo-1<italic>H</italic>-dihydro-naphthalen-2-yl)-8-methoxy-3,3-dimethyl-1<italic>H</italic>-xanthen-1-one (<bold>5</bold>) was obtained by the nucleophilic addition of 2-hydroxy-1,4-naphthoquinone (<bold>4</bold>) to 2<italic>H</italic>-chromene derivative <bold>3</bold>, which was prepared by the domino three-component coupling reaction of aryne precursor <bold>1</bold> with DMF and the active methylene compound dimedone (<bold>2</bold>). The one-pot synthesis of the title compound <bold>5</bold> from aryne precursor <bold>1</bold> was also achieved.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>multi-component reaction</kwd>
+        <kwd>domino reaction</kwd>
+        <kwd>arynes</kwd>
+        <kwd>heterocycles</kwd>
+        <kwd>synthesis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Arynes are highly reactive and kinetically unstable intermediates for constructing multisubstituted arenes with structural diversity and complexity [<xref ref-type="bibr" rid="B1-molbank-2015-M841">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M841">2</xref>]. In particular, the recent aryne-based chemistry has made great advances in synthetic chemistry [<xref ref-type="bibr" rid="B3-molbank-2015-M841">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M841">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M841">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M841">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M841">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M841">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M841">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M841">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2015-M841">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M841">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M841">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2015-M841">14</xref>]. Our laboratory is interested in developing domino reactions using arynes. We have recently developed the efficient insertion of arynes, generated <italic>in situ</italic> from <italic>ortho</italic>-(trimethylsilyl)aryl triflates and the fluoride ion, into the C=O &#x3C0;&#x2013;bond of DMF [<xref ref-type="bibr" rid="B15-molbank-2015-M841">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2015-M841">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2015-M841">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2015-M841">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2015-M841">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2015-M841">20</xref>].</p>
+      <p>Synthetic strategies involving domino processes offer the advantage of multiple carbon-carbon and/or carbon-heteroatom bond formations in a single operation [<xref ref-type="bibr" rid="B21-molbank-2015-M841">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2015-M841">22</xref>]. In this paper, we report two synthetic methods for preparing the title compound <bold>5</bold> via a domino multicomponent coupling reaction starting from the generation of an aryne. Moreover, this molecule <bold>5</bold> has a pharmaceutically important structure, because a similar type of compound was studied as a neuropeptide Y Y5 receptor antagonist by Merck-Banyu researchers [<xref ref-type="bibr" rid="B23-molbank-2015-M841">23</xref>].</p>
+      <p>First, the 2<italic>H</italic>-chromene derivative <bold>3</bold> was prepared according to our reported method (<xref ref-type="scheme" rid="molbank-2015-M841-sch001">Scheme 1</xref>) [<xref ref-type="bibr" rid="B17-molbank-2015-M841">17</xref>]. To suppress the competitive reaction of aryne <bold>A</bold> with dimedone (<bold>2</bold>), <italic>N</italic>,<italic>N</italic>-dimethylformamide (DMF) was employed as a solvent. In the presence of anhydrous TBAF (3 equiv.), treatment of triflate <bold>1</bold> with dimedone (<bold>2</bold>) in DMF at room temperature for 3 h gave the desired 2<italic>H</italic>-chromene <bold>3</bold> in 53% yield. This transformation proceeds via the insertion of aryne <bold>A</bold>, generated from <italic>ortho</italic>-(trimethylsilyl)aryl triflate <bold>1</bold>, into the C=O of DMF and the nucleophilic addition of dimedone (<bold>2</bold>) to benzoxetene <bold>B</bold> or <italic>ortho</italic>-quinone methide <bold>C</bold>.</p>
+      <p>For the synthesis of the title compound <bold>5</bold>, 2-hydroxy-1,4-naphthoquinone (<bold>4</bold>) was employed as a nucleophile (<xref ref-type="scheme" rid="molbank-2015-M841-sch002">Scheme 2</xref>). In the presence of anhydrous TBAF (3 equiv.), we allowed 2<italic>H</italic>-chromene <bold>3</bold> to react with 1.1 equiv. of 2-hydroxy-1,4-naphthoquinone <bold>4</bold> in DMF. As expected, the title compound <bold>5</bold> was obtained in 67% yield. We were gratified to observe that 2-hydroxy-1,4-naphthoquinone <bold>4</bold> acts as a nucleophilic active methylene compound with the sufficient reactivity toward 2<italic>H</italic>-chromene <bold>3</bold>.</p>
+      <p>As an alternative convenient approach to title compound <bold>5</bold>, we next directed our attention to the direct one-pot synthesis of <bold>5</bold> from aryne precursor <bold>1</bold> (<xref ref-type="scheme" rid="molbank-2015-M841-sch003">Scheme 3</xref>). The two-step preparation was successfully applied in the convenient one-pot synthesis. At first, triflate <bold>1</bold> in DMF was treated with dimedone (<bold>2</bold>) in the presence of anhydrous TBAF. After being stirred for 3 h, 2-hydroxy-1,4-naphthoquinone (<bold>4</bold>, 2.1 equiv.) was added to the reaction mixture. After the purification, the desired title compound <bold>5</bold> was isolated in 40% yield.</p>
+    <sec>
+      <title>Experimental</title>
+      <sec>
+        <title>General Information</title>
+        <p>Infrared spectra were measured on a FT/IR-4100 instrument (JASCO, Hachioji-city, Tokyo, Japan). <sup>1</sup>H-NMR (400 MHz) and <sup>13</sup>C-NMR (101 MHz) spectra were measured on a ECX-400 PSK (JEOL, Akishima-city, Tokyo, Japan) with CDCl<sub>3</sub> as an internal standard (77.0 ppm). Mass spectra (ESI-MS) were obtained by use of a Thermo Fisher Scientific Exactive LC/MS spectrometer (Bremen-city, Germany). For silica gel column chromatography, SiliCycle Inc. (Quebec-city, QC, Canada) SiliaFlash F60 was used.</p>
+      </sec>
+      <sec>
+        <title>2,3,4,4a-Tetrahydro-4a-hydroxy-8-methoxy-3,3-dimethyl-1H-xanthen-1-one <italic>(<bold>3</bold>)</italic></title>
+        <p>To a solution of 3-methoxy-2-(trimethylsilyl)phenyl triflate (<bold>1</bold>, 105 &#xB5;L, 0.40 mmol) and dimedone (<bold>2</bold>, 56 mg, 0.40 mmol) in DMF (3.4 mL) was added a solution of anhydrous TBAF (314 mg, 1.20 mmol) in DMF (0.60 mL) under argon atmosphere at room temperature. After being stirred at room temperature for 3 h, silica gel (1.0 g) was added to the reaction mixture, and then it was concentrated under reduced pressure. Purification of the residue by flash silica gel column chromatography (AcOEt:hexane = 1:8&#x2013;1:0 with 2% CH<sub>2</sub>Cl<sub>2</sub>) afforded 2<italic>H</italic>-chromene <bold>3</bold> (58 mg, 53%). Colorless crystals. Sublimated decomposition 118&#x2013;120 &#xB0;C (CH<sub>2</sub>Cl<sub>2</sub>-iso-Pr<sub>2</sub>O). IR (KBr) 3417 (br), 2957, 1671, 1603, 1566, 1467 cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (C<sub>6</sub>D<sub>6</sub>) &#x3B4; 8.21 (1H, s), 6.94 (1H, t, <italic>J</italic> = 8.0 Hz), 6.73 (1H, d, <italic>J</italic> = 8.0 Hz), 6.03 (1H, d, <italic>J</italic> = 8.0 Hz), 3.20 (3H, s), 2.39 (1H, br s), 2.32 (1H, dd, <italic>J</italic> = 16.0, 1.5 Hz), 2.13 (1H, dd, <italic>J</italic> = 14.0, 1.0 Hz), 2.03 (1H, br d, <italic>J</italic> = 14.0 Hz), 1.91 (1H, br d, <italic>J</italic> = 16.0 Hz), 0.94 (3H, s), 0.69 (3H, s). <sup>13</sup>C-NMR (C<sub>6</sub>D<sub>6</sub>) &#x3B4; 196.1, 158.2, 153.9, 132.2, 128.7, 124.7, 111.0, 110.3, 103.4, 96.7, 55.2, 52.6, 48.7, 31.4, 30.3, 27.8. HRMS (ESI<sup>+</sup>) calcd for C<sub>16</sub>H<sub>18</sub>O<sub>4</sub>Na (M+Na<sup>+</sup>): 297.1097, Found: 297.1095.</p>
+      </sec>
+      <sec>
+        <title>2,3,4,9-Tetrahydro-9-(3-hydroxy-1,4-dioxo-1H-dihydronaphthalen-2-yl)-8-methoxy-3,3-dimethyl-1H-xanthen-1-one <italic>(<bold>5</bold>)</italic></title>
+        <p>To a solution of 2<italic>H</italic>-chromene <bold>3</bold> (16 mg, 0.060 mmol) and 2-hydroxy-1,4-naphthoquinone (<bold>4</bold>, 12 mg, 0.066 mmol) in DMF (600 &#xB5;L) was added a solution of anhydrous TBAF (47 mg, 0.18 mmol) in DMF (90 &#xB5;L) under argon atmosphere at room temperature. After being stirred at room temperature for 1 h, silica gel (0.1 g) was added to the reaction mixture, and then it was concentrated under reduced pressure. Purification of the residue by flash silica gel column chromatography (acetone/chloroform = 1:50&#x2013;1:2) afforded compound <bold>5</bold> (17 mg, 67%). Dark red solid. <sup>1</sup>H-NMR (CDCl<sub>3</sub>) &#x3B4; 8.07 (1H, br s), 8.01 (1H, dd, <italic>J</italic> = 7.5, 1.2 Hz), 7.68 (1H, br t, <italic>J</italic> = 7.3 Hz), 7.61 (1H, td, <italic>J</italic> = 7.5, 1.2 Hz), 7.15 (1H, t, <italic>J</italic> = 8.2 Hz), 6.70 (1H, d, <italic>J</italic> = 8.2 Hz), 6.53 (1H, d, <italic>J</italic> = 8.2 Hz), 5.44 (1H, br s), 3.67 (3H, s), 2.53 (2H, br s), 2.30 (1H, d, <italic>J</italic> = 16.5 Hz), 2.20 (1H, d, <italic>J</italic> = 16.5 Hz), 1.11 (3H, s), 1.01 (3H, s). <sup>13</sup>C-NMR (CDCl<sub>3</sub>) &#x3B4; 197.4 (br), 182.0, 157.6, 153.0 (br), 151.2, 134.6, 132.8, 132.5, 129.5, 128.0, 126.9 (br), 125.8, 111.5, 110.3, 108.6, 106.2, 55.7, 50.7, 41.5, 32.1, 29.3, 27.2, 24.4; Three carbon peaks were missing due to overlapping. HRMS (ESI<sup>+</sup>) calcd for C<sub>26</sub>H<sub>23</sub>O<sub>6</sub> (M+H<sup>+</sup>): 431.1489, Found: 431.1473; Anal. calcd for C<sub>26</sub>H<sub>22</sub>O<sub>6</sub>: C, 72.55; H, 5.15. Found: C, 71.77; H, 5.15.</p>
+      </sec>
+      <sec>
+        <title>Procedure for One-Pot Synthesis</title>
+        <p>To a solution of 3-methoxy-2-(trimethylsilyl)phenyl triflate (<bold>1</bold>, 158 &#xB5;L, 0.60 mmol) and dimedone (<bold>2</bold>, 56 mg, 0.40 mmol) in DMF (5.1 mL) was added a solution of anhydrous TBAF (472 mg, 1.8 mmol) in DMF (0.90 mL) under argon atmosphere at room temperature. After being stirred at room temperature for 3 h, 2-hydroxy-1,4-naphthoquinone (<bold>4</bold>, 151 mg, 0.84 mmol) was added to the reaction mixture. After being stirred at room temperature for 1 h, silica gel (1.5 g) was added to the reaction mixture, and then it was concentrated under reduced pressure. Purification of the residue by flash silica gel column chromatography (acetone/chloroform = 1:50&#x2013;1:2) afforded compound <bold>5</bold> (69 mg, 40%).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M841">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M841-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M841-s001-mod.mol">
+    <label>Supplementary File 1</label>
+    </supplementary-material>
+        <supplementary-material id="molbank-2015-M841-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M841-s001.mol">
+   <label>Supplementary File 2</label>
+   </supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was partially supported by JSPS KAKENHI Grant-in-Aid for Young Scientists (B) Grant Number 24790032.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>E. Yoshioka performed experiments and analyzed the data. S. Kohtani carried out part of the data analysis. H. Miyabe contributed to design of the study and manuscript writing.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest. </p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M841">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pe&#xF1;a</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>P&#xE9;rez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Guiti&#xE1;n</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insertion of arynes into &#x3B4;-bonds</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>3579</fpage>
+          <lpage>3581</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200600291</pub-id>
+          <pub-id pub-id-type="pmid">16671120</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M841">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ohshita</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kunai</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aryne, ortho-quinone methide, and ortho-quinodimethane: Synthesis of multisubstituted arenes using the aromatic reactive intermediates</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>2010</year>
+          <volume>83</volume>
+          <fpage>199</fpage>
+          <lpage>219</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.20090245</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M841">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pe&#xF1;a</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Escudero</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>P&#xE9;rez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Guiti&#xE1;n</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Castedo</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient palladium-catalyzed cyclotrimerization of arynes: Synthesis of triphenylenes</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>2659</fpage>
+          <lpage>2661</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1521-3773(19981016)37:19&lt;2659::AID-ANIE2659&gt;3.0.CO;2-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M841">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshikawa</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-catalyzed intermolecular controlled insertion of benzyne-benzyne-alkene and benzyne-alkyne-alkene&#x2014;Synthesis of phenanthrene and naphthalene derivatives</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2000</year>
+          <volume>39</volume>
+          <fpage>173</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1521-3773(20000103)39:1&lt;173::AID-ANIE173&gt;3.0.CO;2-F</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M841">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Larock</surname>
+              <given-names>R.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-catalyzed, sequential, three-component cross-coupling of aryl halides, alkynes, and arynes</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>2535</fpage>
+          <lpage>2538</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200604969</pub-id>
+          <pub-id pub-id-type="pmid">17328028</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M841">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jayanth</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>C.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nickel-catalyzed coupling of arynes, alkenes, and boronic acids: Dual role of the boronic acid</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>5921</fpage>
+          <lpage>5924</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200701063</pub-id>
+          <pub-id pub-id-type="pmid">17582805</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M841">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saito</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Shiotani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kinbara</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nickel-catalyzed [2+2+2] cycloaddition of arynes and an unactivated alkene: Synthesis of 9,10-dihydrophenanthrene derivatives</article-title>
+          <source>Chem. Commun.</source>
+          <year>2009</year>
+          <fpage>4284</fpage>
+          <lpage>4286</lpage>
+          <pub-id pub-id-type="doi">10.1039/b907476g</pub-id>
+          <pub-id pub-id-type="pmid">19585048</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M841">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zeng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ni</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Silver-mediated trifluoromethylation-iodination of arynes</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2013</year>
+          <volume>135</volume>
+          <fpage>2955</fpage>
+          <lpage>2958</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja312711c</pub-id>
+          <pub-id pub-id-type="pmid">23398454</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M841">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Fukushima</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ohshita</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kunai</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>CO<sub>2</sub> incorporation reaction using arynes: Straightforward access to benzoxazinone</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2006</year>
+          <volume>128</volume>
+          <fpage>11040</fpage>
+          <lpage>11041</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja064157o</pub-id>
+          <pub-id pub-id-type="pmid">16925418</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M841">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilmore</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Allan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Stoltz</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Orthogonal synthesis of indolines and isoquinolines via aryne annulation</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2008</year>
+          <volume>130</volume>
+          <fpage>1558</fpage>
+          <lpage>1559</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja0780582</pub-id>
+          <pub-id pub-id-type="pmid">18193875</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M841">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sha</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <article-title>A multicomponent reaction of arynes, isocyanides, and terminal alkynes: Highly chemo- and regioselective synthesis of polysubstituted pyridines and isoquinolines</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2009</year>
+          <volume>48</volume>
+          <fpage>3458</fpage>
+          <lpage>3461</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200900212</pub-id>
+          <pub-id pub-id-type="pmid">19350594</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M841">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhunia</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Porwal</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gonnade</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Biju</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicomponent reactions involving arynes, quinolines, and aldehydes</article-title>
+          <source>Org. Lett.</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>4620</fpage>
+          <lpage>4623</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol4023134</pub-id>
+          <pub-id pub-id-type="pmid">23981103</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M841">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhunia</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Pachfule</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rajamohanan</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Biju</surname>
+              <given-names>A.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Transition-metal-free multicomponent reactions involving arynes, <italic>N</italic>-heterocycles, and isatins</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2013</year>
+          <volume>52</volume>
+          <fpage>10040</fpage>
+          <lpage>10043</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.201304278</pub-id>
+          <pub-id pub-id-type="pmid">23913808</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M841">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stephens</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Cormier</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chavez</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Arman</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Larionov</surname>
+              <given-names>O.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Three-component reaction of small-ring cyclic amine with arynes and acetonitrile</article-title>
+          <source>Chem. Comm.</source>
+          <year>2013</year>
+          <volume>49</volume>
+          <fpage>6558</fpage>
+          <lpage>6560</lpage>
+          <pub-id pub-id-type="doi">10.1039/c3cc42854k</pub-id>
+          <pub-id pub-id-type="pmid">23770825</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M841">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kohtani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequential reaction of arynes via insertion into the <italic>&#x3C0;</italic>-bond of amides and trapping reaction with dialkylzincs</article-title>
+          <source>Org. Lett.</source>
+          <year>2010</year>
+          <volume>12</volume>
+          <fpage>1956</fpage>
+          <lpage>1959</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol100387h</pub-id>
+          <pub-id pub-id-type="pmid">20361749</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M841">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insertion of arynes into the carbon-oxygen double bond of amides and its application into the sequential reactions</article-title>
+          <source>Tetrahedron</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>179</fpage>
+          <lpage>189</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2011.10.072</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2015-M841">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kohtani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A multicomponent coupling reaction induced by insertion of arynes into the C=O bond of formamide</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2011</year>
+          <volume>50</volume>
+          <fpage>6638</fpage>
+          <lpage>6642</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.201102088</pub-id>
+          <pub-id pub-id-type="pmid">21626634</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2015-M841">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kohtani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Straightforward synthesis of dihydrobenzofurans and benzofurans from arynes</article-title>
+          <source>Org. Lett.</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>3938</fpage>
+          <lpage>3941</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol4017063</pub-id>
+          <pub-id pub-id-type="pmid">23859157</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2015-M841">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kohtani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Three-component coupling reactions of arynes for the synthesis of benzofurans and coumarins</article-title>
+          <source>Molecules</source>
+          <year>2014</year>
+          <volume>19</volume>
+          <fpage>863</fpage>
+          <lpage>880</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules19010863</pub-id>
+          <pub-id pub-id-type="pmid">24419139</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2015-M841">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshioka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Tamenaga</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Miyabe</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>[4+2] Cycloaddition of intermediates generated from arynes and DMF</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2014</year>
+          <volume>55</volume>
+          <fpage>1402</fpage>
+          <lpage>1405</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2013.12.119</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2015-M841">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramachary</surname>
+              <given-names>D.B.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequential one-pot combination of multi-component and multi-catalysis cascade reactions: An emerging technology in organic synthesis</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2011</year>
+          <volume>9</volume>
+          <fpage>1277</fpage>
+          <lpage>1300</lpage>
+          <pub-id pub-id-type="doi">10.1039/C0OB00611D</pub-id>
+          <pub-id pub-id-type="pmid">21120241</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2015-M841">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xF6;mling</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry and biology of multicomponent reactions</article-title>
+          <source>Chem. Rev.</source>
+          <year>2012</year>
+          <volume>112</volume>
+          <fpage>3083</fpage>
+          <lpage>3135</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr100233r</pub-id>
+          <pub-id pub-id-type="pmid">22435608</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2015-M841">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sato</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jitsuoka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shibata</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hirohashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nonoshita</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Moriya</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Haga</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sakuraba</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ando</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ohe</surname>
+              <given-names>T.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>(9<italic>S</italic>)-9-(2-Hydroxy-4,4-dimethyl-6-oxo-1-cyclohexen-1-yl)-3,3-dimethyl-2,3,4,9-tetrahydro-1<italic>H</italic>-xanthen-1-one, a selective and orally active neuropeptide Y Y5 receptor antagonist</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>51</volume>
+          <fpage>4765</fpage>
+          <lpage>4770</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm8003587</pub-id>
+          <pub-id pub-id-type="pmid">18637668</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2015-M841-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M841-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Preparation of 2<italic>H</italic>-chromene derivative <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M841-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M841-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M841-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of title compound <bold>5</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M841-sch002.tif"/>
+      </fig>
+      <fig id="molbank-2015-M841-sch003" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M841-sch003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>One-pot synthesis of title compound <bold>5</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M841-sch003.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

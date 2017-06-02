@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M522</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M522</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Electrophilic Substitution at C(7) of a Protected 7-Deaza-2&#x2019;-deoxyguanosine &#x2013; The 2&#x2019;-Deoxyribonucleoside Parent Analogue of Queuosine<xref ref-type="fn" rid="fn001-molbank-2007-M522">#</xref></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramzaeva</surname>
+            <given-names>Natalya</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosemeyer</surname>
+            <given-names>Helmut</given-names>
+          </name>
+          <xref rid="c1-molbank-2007-M522" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M522">Organische Chemie I &#x2013; Bioorganische Chemie, Institut f&#xFC;r Chemie, Fachbereich Biologie/Chemie, Universit&#xE4;t Osnabr&#xFC;ck, Barbarastr. 7, D-49069 Osnabr&#xFC;ck, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M522"><label>*</label> Author to whom correspondence should be addressed. E-Mail: <underline><email>Helmut.Rosemeyer@uos.de</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>04</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>04</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>1</issue>
+      <elocation-id>M522</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>03</month>
+          <year>2007</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>04</month>
+          <year>2007</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2007 by MDPI (<underline><uri>http://www.mdpi.org/</uri></underline>).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>In this manuscript we report on the regioselective electrophilic substitution at C(7) of 7-[2-deoxy-3,5-bis-O-(2-methylpropanoyl)-<italic>&#xDF;</italic>-D-erythro-pentofuranosyl]-2-(formylamino)-4-methoxy-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidine (<bold>2</bold>) &#x2013; a protected precursor of 7-deaza-2&#x2019;-deoxyguanosine - using N,N-dimethyl-methyleniminium iodide (Eschenmoser&#x2019;s salt) yielding the Mannich compound <bold>4</bold>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>7-Deazapurine</kwd>
+		<kwd>Mannich bases</kwd>
+		<kwd>Eschenmoser&#x2019;s Salt</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Most naturally occurring 7-deazapurine ribonucleosides [<underline><xref ref-type="bibr" rid="B1-molbank-2007-M522">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2007-M522">2</xref></underline>] &#x2013; both of the adenosine as well as of the guanosine type &#x2013; carry substituents at the 7-position, and many of them which are found in tRNA represent Mannich bases such as the nucleoside &#x201C;Q&#x201D; {2-amino-5-(4,5-cis-dihydroxy-1-cyclopenten-3-yl-trans-aminomethyl-(7-&#xDF;-D-ribofuranosyl)-3,7-dihydro-4H-pyrrolo[2,3-d]pyrimidin-4-one, Queuosine, 1}. Many attempts have been made to direct a Mannich side chain regioselectively into position 7. In contrast to 7-deazaadenosine derivatives [<underline><xref ref-type="bibr" rid="B3-molbank-2007-M522">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2007-M522">4</xref></underline>] this is not an easy task for 7-deazaguanosine precursors [<underline><xref ref-type="bibr" rid="B5-molbank-2007-M522">5</xref></underline>] and requires chemical detours [<underline><xref ref-type="bibr" rid="B6-molbank-2007-M522">6</xref></underline>]. For example, regioselective C(7) Mannich alkylation (morpholine, HCOH/HOAc) can be performed at 3&#x2019;,5&#x2019;-bis-O-toluoylated 6-methoxy-2-(methylthio)-7-deazapurine 2&#x2019;-deoxy-&#xDF;-D-ribonucleoside, followed by a three-step aglycone conversion to 7-deazaguanine and deprotection of the glycone [<underline><xref ref-type="bibr" rid="B7-molbank-2007-M522">7</xref></underline>].</p>
+	  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M522-i001.tif"/></disp-formula></p>
+      <p>It has been reported for 7-deazaguanines that the position of electrophilic substitution strongly depends on the particular substituent pattern of the base as well as of the reaction conditions [<underline><xref ref-type="bibr" rid="B8-molbank-2007-M522">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2007-M522">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2007-M522">10</xref></underline>]. Of decisive importance is the observation that a free 2-amino group directs the electrophilic attack into the undesired 8-position (position 6 using systematic numbering) of the 7-deazaguanine moiety. This is the result of mesomeric stabilization of the &#x3C3;-complex formed during electrophilic attack at the 8-position. On the other hand, 2-acylamino-7-deazaguanine derivatives form the desired 7-substituted compounds [<underline><xref ref-type="bibr" rid="B8-molbank-2007-M522">8</xref></underline>]</p>
+      <p>In this communication we disclose that reaction of the fully protected 7-deaza-2&#x2019;-deoxy-7-deazaguanosine derivative <bold>2</bold> [<underline><xref ref-type="bibr" rid="B8-molbank-2007-M522">8</xref></underline>] with N,N-dimethyl-methyleniminium iodide (Eschenmoser&#x2019;s salt) afforded the C(7) alkylated Mannich compound <bold>4</bold> in moderate yield. This reaction presents a new and alternative route to 7-deazapurine nucleosides with a Mannich side chain in position 7. The structure of <bold>4</bold> was unequivocally assigned by <sup>1</sup>H- and <sup>13</sup>C-NMR spectroscopy as well as by <sup>1</sup>H-NMR NOE difference spectroscopy (see Experimental Procedure). <sup>13</sup>C-NMR resonances were assigned applying DEPT-135 and [C,H]HETCOR spectra.</p>
+      <p>A further transformation of the tertiary amino group of <bold>4</bold> into other Mannich compounds can be accomplished after quarternization. Furthermore, the synthetic or enzymatic incorporation of Mannich bases derived from compounds such as compound <bold>4</bold> allows the introduction of reporter groups in a favourable position of a DNA molecule because the Mannich side chain protrudes into the major groove of a B-DNA double helix.</p>
+	  <sec>
+	  <title>Experimental Procedure</title>
+      <p><italic>7-[2-Deoxy-3,5-bis-O-(2-methylpropanoyl)-&#xDF;-D-erythro-pentofuranosyl]-5-(dimethylaminomethyl)-2-(formylamino)-4-methoxy-7H-pyrrolo[2,3-d]pyrimidine (<bold>4</bold>).</italic></p>
+	  <p>Compound <bold>2</bold> (305 mg, 0.7 mmol) was dissolved in acetonitrile (3 mL) and N,N-dimethyl-methyleniminium iodide (<bold>3</bold>, Eschenmoser&#x2019;s Salz, 260 mg, 1.4 mmol) was added. After heating to 80&#xB0;C for 24h, the reaction mixture was evaporated to a small volume, and compound <bold>4</bold> (67 mg, 20 %) was isolated as an amorphous solid by thick-layer chromatography (chloroform/methanol, 9:1, two developments, R<sub>f</sub>, 0.4), elution from the silica gel with methanol and centrifugation. <sup>1</sup>H-NMR ((D<sub>6</sub>)DMSO, 500.1 MHz): &#x3B4; 10.73 (1H, d, <italic>H</italic>C=O, J = 9.9 Hz); 9.44 (1H, d, NH, J = 9.3 Hz); 7.31 (1H, s, H-C(6)); 6.49 (1H, dd, H-C(1&#x2019;), J = 6.4, 8.0 Hz); 5.36 (1H, dd, H-C(3&#x2019;), J = 2.8, 3.6 Hz); 4.28 - 4.17 (3H, m, H-C(4&#x2019;), H<sub>2</sub>-C(5&#x2019;)); 4.03 (3H, s, OCH<sub>3</sub>); 3.67 (2H, s, CH<sub>2</sub>); 2.86 (1H, m, iBu-CH); 2.63 &#x2013; 2.57 (2H, m, H<sub>2</sub>-C(2&#x2019;)); 2.47 (1H, m, iBu-CH); 2.28 (6H, s, N(CH<sub>3</sub>)<sub>2</sub>); 1.15 and 1.09 (12H, 4 iBu-CH<sub>3</sub>). <sup>1</sup>H-NMR NOE Data ((D<sub>6</sub>)DMSO): proton irradiated: H-C(1&#x2019;). NOE observed: H-C(6), 1.5 %; H<sub>&#x3B1;</sub>-C(2&#x2019;), 2.5 %; H-C(4&#x2019;), 1.5 %.  <sup>13</sup>C-NMR ((D<sub>6</sub>)DMSO, 125.8 MHz): &#x3B4; 175.6, 175.8 (2 C=O, iBu); 163.4 (C-4); 163.3 (C=O, formyl); 152.4 (C-7a); 152.0 (C-2); 121.6 (C-6); 111.4 (C-5); 101.5 (C-4a); 82.9 (C-1&#x2019;); 81.1 (C-4&#x2019;); 74.2 (C-3&#x2019;); 63.6 (C-5&#x2019;); 53.8 (CH<sub>2</sub>); 53.7 (OCH<sub>3</sub>); 44.1 and 33.1 (4 Me, iBu); 35.9 (C-2&#x2019;); 18.6 (2 Me, N(CH<sub>3</sub>)<sub>2</sub>).</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2007-M522">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M522-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M522-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2007-M522-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M522-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2007-M522">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suhadolnik</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <source>Nucleosides As Biological Probes</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1979</year>
+          <fpage>158</fpage>
+          <lpage>169</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2007-M522">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Limbach</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Crain</surname>
+              <given-names>P.F.</given-names>
+            </name>
+            <name>
+              <surname>McCloskey</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <source>Nucleic Acids Res</source>
+          <year>1994</year>
+          <volume>22</volume>
+          <fpage>2183</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2007-M522">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>S.I.</given-names>
+            </name>
+            <name>
+              <surname>Ueda</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Nucleosides Nucleotides</source>
+          <year>1983</year>
+          <volume>2</volume>
+          <fpage>113</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2007-M522">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>West</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1961</year>
+          <volume>26</volume>
+          <fpage>4959</fpage>
+          <pub-id pub-id-type="doi">10.1021/jo01070a044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2007-M522">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>L&#xFC;pke</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1977</year>
+          <volume>110</volume>
+          <fpage>1462</fpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19771100428</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2007-M522">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1978</year>
+          <volume>111</volume>
+          <fpage>2925</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2007-M522">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zulauf</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1997</year>
+          <fpage>1067</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2007-M522">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramzaeva</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Helv. Chim. Acta</source>
+          <year>1995</year>
+          <volume>78</volume>
+          <fpage>1083</fpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.19950780505</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2007-M522">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Imamiya</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hitaka</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nomura</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nishimura</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Perkin Trans 1</source>
+          <year>1988</year>
+          <fpage>1637</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2007-M522">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benghiat</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Crooks</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1983</year>
+          <volume>20</volume>
+          <fpage>1023</fpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570200436</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn001-molbank-2007-M522">
+	  <label>#</label>
+        <p>Purine numbering has been used within the General Part of the manuscript, systematic numbering within the Experimental Part.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

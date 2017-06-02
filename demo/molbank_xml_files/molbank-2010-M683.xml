@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M683</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M683</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2,2'-(2,2'-Oxybis(ethane-2,1-diyl)bis(oxy))bis(<italic>N</italic>-(2,2'-bithiophen-5-ylmethylene)aniline)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pedras</surname>
+            <given-names>Bruno</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M683" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gallego</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M683" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Figueiredo</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M683" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nunes-Miranda</surname>
+            <given-names>J&#xFA;lio Dinis</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M683" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Capelo</surname>
+            <given-names>Jos&#xE9; Luis</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M683" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2010-M683" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lodeiro</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M683" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2010-M683" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2010-M683" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M683"><label>1</label>REQUIMTE, Department of Chemistry, FCT-UNL, 2829-516 Monte de Caparica, Portugal</aff>
+      <aff id="af2-molbank-2010-M683"><label>2</label>BIOSCOPE Group, Physical-Chemistry Department, Faculty of Science, Campus Ourense, University of Vigo, 32004, Ourense, Spain</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M683"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>clodeiro@uvigo.es</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>05</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>2</issue>
+      <elocation-id>M683</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>05</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new flexible fluorescent compound L derived from 1,5-bis(2-aminophenoxy)-3-oxapentane (<bold>A</bold>) has been synthesized by classical Schiff-base reaction between (<bold>A</bold>) and 2,2&#xB4;-bithiophene carbaldehyde (<bold>B</bold>). The same synthesis was reproduced by a green methodology using an ultrasonication reaction in a classical sonication bath. The structure of the new compound was confirmed by elemental analysis, IR, <sup>1</sup>H-NMR, MALDI-TOF-MS and EI-MS-spectra, UV-vis and fluorescence emission spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>imine compounds</kwd>
+        <kwd>fluorescence chemosensors</kwd>
+        <kwd>2,2&#x2019;-bithiophene</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M683" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>In the field of fluorescence chemosensors [<xref ref-type="bibr" rid="B1-molbank-2010-M683">1</xref>] with potential applications as emissive sensing materials, different approaches have been followed for their synthesis [<xref ref-type="bibr" rid="B2-molbank-2010-M683">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M683">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M683">4</xref>]. A Schiff-base condensation is a classical reaction starting from a primary amine and an active carbonyl group as an easy way to obtain emissive compounds provided with the C=N donor-group [<xref ref-type="bibr" rid="B5-molbank-2010-M683">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M683">6</xref>].</p>
+      <p>Due to the interest of the above suggestion, we planned to synthesize a new emissive compound that combines together two sensing sites, which are a polyoxa chain provided with two phenolic units and two bithiophene chromophores. In the present note, we are reporting a simple method for synthesizing a bithiophene derivative, using classical Schiff-base condensation in ethanolic solution [<xref ref-type="bibr" rid="B7-molbank-2010-M683">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M683">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M683">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2010-M683">10</xref>] and a green method using an ultrasound-assisted synthesis [<xref ref-type="bibr" rid="B11-molbank-2010-M683">11</xref>], which does not need any catalyst. The work-up procedure was very simple and convenient.</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M683" sec-type="methods">
+      <title>2. Experimental</title>
+      <p>A mixture of 0.5 mmol of 1,5-bis(2-aminophenoxy)-3-oxapentane (<bold>A</bold>) (0.144 g) and 1 mmol of 2,2&#xB4;-bithiophene carbaldehyde (<bold>B</bold>) (0.194 g) was added to 50 mL of absolute ethanol, and kept under reflux for 4 h. After that time, the mixture was allowed to cool to room temperature, and a yellow precipitate was formed, which was filtered off and washed with diethyl ether (3 portions of 10 mL) and with cold absolute ethanol (3 portions of 10 mL). The yellow powder was purified by silica gel column chromatography (eluent: petroleum ether/ethyl acetate, 3/7). The reaction was reproduced in the same solvent using a green methodology, employing a 1510 Branson ultrasonication cleaner bath during 2 h at room temperature with the same results. In order to reduce the quantity of residues, the reaction can be reproduced reducing the solvent employed (absolute ethanol) to 25 or 5 mL. In both cases, the reactants were reduced to 0.25 mmol and 0.5 mmol, and to 0.05 mmol and 0.1 mmol of the amine and the carbaldehyde precursors respectively.</p>
+	  <disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M683-i001.tif"/></disp-formula>
+      <p>Yield: 300 mg (94%). </p>
+      <p>EI-MS: <italic>m/z</italic> (rel. int%): 640.04 (100) ([L<sup>&#x2022;</sup>]<sup>+</sup>)</p>
+      <p>MALDI-TOF-MS: <italic>m/z</italic> (rel. int%): 641.08 (95) [L+H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>): &#x3B4; = 8.6 (s, 2H, N=C-H); 7.3&#x2013;6.9 (m, C-H, Ar); 4.2 (t, 4H, CH<sub>2</sub>); 4.0 (t, 4H, CH<sub>2</sub>) ppm.</p>
+      <p>IR (cm<sup>-1</sup>): 3068 (C-H, Ar), 2926 and 2872 (C-H, Alq), 1659 (C=N), 1609, 1583, 1547 and 1505 (C=C, Ar), 1127 (C-S), 1047 (C-O, Alq).</p>
+	  <p>Elemental analysis: Calcd for C<sub>34</sub>H<sub>28</sub>N<sub>2</sub>O<sub>3</sub>S<sub>4</sub>&#xB7;0.5H<sub>2</sub>O: C, 62.85; H, 4.50; N, 4.30; S, 19.75. Found: C, 62.95; H, 4.60; N, 4.05; S, 19.80%.</p>
+	  <p>Uv-vis (Absolute ethanol, [L] = 9.3 &#xD7; 10<sup>-6</sup> M, &#x3BB;<sub>max</sub> 360 nm; &#x3B5; (M<sup>-1</sup>cm<sup>-1</sup>): 29760. </p>
+	  <p>Fluorescence Emission (Absolute ethanol, [L] = 9.3E<sup>-6</sup> M): &#x3BB;<sub>max</sub> 452 nm.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M683">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M683-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M683-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2010-M683-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M683-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We would like to thank Xunta de Galiza (Spain) for project 09CSA043383PR and the University of Vigo, Vicou for projects INOU UVIGO/VICOU/K914-122P64702/2009 and UVIGO/VICOU/K912-122P64702/2009. Thanks to the FCT-MCTES/FEDER (Portugal) through national projects POCI/QUI/55519/2004 and PDTC/QUI/66250/2006. B. P thanks FCT/Portugal for the PhD Grant SFRH/BD/27786/2006. C.L. and J.L. thank Xunta de Galicia for the Isidro Parga Pondal Research Program.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M683">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Czarnik</surname>
+              <given-names>A.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical Communication in water using Fluorescent chemosensors</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>1994</year>
+          <volume>27</volume>
+          <fpage>302</fpage>
+          <lpage>308</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar00046a003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M683">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pina</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Luminescent and chromogenic molecular probes based on polyamines and related compounds</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2009</year>
+          <volume>253</volume>
+          <fpage>1353</fpage>
+          <lpage>1385</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ccr.2008.09.008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M683">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cozzi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Dolci</surname>
+              <given-names>L.C.</given-names>
+            </name>
+            <name>
+              <surname>Garelli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Montati</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Prodi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zaccheroni</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photophysical properties of Schiff-base metal complexes</article-title>
+          <source>New J. Chem.</source>
+          <year>2003</year>
+          <volume>27</volume>
+          <fpage>692</fpage>
+          <lpage>697</lpage>
+          <pub-id pub-id-type="doi">10.1039/b209396k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M683">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Si</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>F.R.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced fluorescence sensing of hydroxylated organotins by a boronic acid-linke Schiff-base</article-title>
+          <source>Chem. Commun.</source>
+          <year>2009</year>
+          <fpage>4179</fpage>
+          <lpage>4181</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M683">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>V&#xE1;zquez</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bermejo</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Sanmart&#xED;n</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Deibe</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Mah&#xED;a</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Metal complexes with a chiral N4 symmetrical Schiff base. Crystal structures of the ligand and its Cu(II) and Ni(II) &#x201C;mono-helicates&#x201D;</article-title>
+          <source>J. Chem. Soc. Dalton Trans.</source>
+          <year>2002</year>
+          <fpage>870</fpage>
+          <lpage>877</lpage>
+          <pub-id pub-id-type="doi">10.1039/b107116p</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M683">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Metal ion interaction of two new tritopic N2O3 macrobicycles with B15C5 moieties in acetonitrile solution</article-title>
+          <source>J. Inclu. Phen. Mac. Chem.</source>
+          <year>2004</year>
+          <volume>49</volume>
+          <fpage>249</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10847-004-0506-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M683">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lima</surname>
+              <given-names>L.C.</given-names>
+            </name>
+            <name>
+              <surname>Parola</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Seixas de Melo</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Covelo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Tamayo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intramolecular excimer formation and sensing behaviour of new fluorimetric probes and their interactions with metal cations and barbituric acids</article-title>
+          <source>Sensors Act. B Chem.</source>
+          <year>2006</year>
+          <volume>115</volume>
+          <fpage>276</fpage>
+          <lpage>286</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.snb.2005.09.010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M683">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Covelo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Tamayo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>B&#xE9;rtolo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Avil&#xE9;s</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sensing metal ions with two azomethine-thiophene pincer ligands (NSN): Fluorescence and MALDI-TOF-MS applications</article-title>
+          <source>Inorg. Chem. Commun.</source>
+          <year>2007</year>
+          <volume>10</volume>
+          <fpage>925</fpage>
+          <lpage>929</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.inoche.2007.05.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M683">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Boucher</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fern&#xE1;ndez-Lodeiro</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Nu&#xF1;ez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Nieto-Faza</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>B&#xE9;rtolo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploiting anionic and cationic interactions with a new emissive imine-based b-naphthol molecular probe</article-title>
+          <source>Inorg. Chem. Commun.</source>
+          <year>2009</year>
+          <volume>12</volume>
+          <fpage>925</fpage>
+          <lpage>912</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.inoche.2009.07.011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M683">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Rodr&#xED;guez</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Raposo</surname>
+              <given-names>M.M.M.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization and spectroscopic studies of two new Schiff-base bithienyl pendant-armed 15-crown-5 molecular probes</article-title>
+          <source>Inorg. Chem. Commun.</source>
+          <year>2009</year>
+          <volume>12</volume>
+          <fpage>79</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.inoche.2008.11.007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M683">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rodr&#xED;guez</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Crehuet</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Avil&#xE9;s</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new tripodal poly-imine indole-containing ligand: Synthesis, complexation, spectroscopic and theoretical studies</article-title>
+          <source>Inorg. Chim. Acta</source>
+          <year>2009</year>
+          <volume>362</volume>
+          <fpage>2627</fpage>
+          <lpage>2635</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ica.2008.11.032</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M683">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Beyond the Analytical Chemistry</article-title>
+          <source>Ultrasound in Chemistry. Analytical Applications</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2009</year>
+          <fpage>129</fpage>
+          <lpage>148</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

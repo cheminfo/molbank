@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M660</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M660</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Aza-27-crown-9 Amino Acid</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sp&#xE4;th</surname>
+            <given-names>Andreas</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xF6;nig</surname>
+            <given-names>Burkhard</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M660" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M660">Institute of Organic Chemistry, University of Regensburg, D-93040 Regensburg, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M660"><label>*</label>Author to whom correspondence should be addressed; Fax: +49-943-941-1717; E-Mail: <email>Burkhard.Koenig@chemie.uni-regensburg.de</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>1</issue>
+      <elocation-id>M660</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>02</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A luminescent aza-27-crown-9 ether amino acid was prepared by a three-step reaction sequence. The compound signals ammonium ion binding by an increase in emission intensity.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>aza crown ether</kwd>
+        <kwd>amino acid</kwd>
+        <kwd>receptor</kwd>
+        <kwd>luminescence</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M660" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Crown ethers of appropriate size are known to be suitable hosts for a variety of ions [<xref ref-type="bibr" rid="B1-molbank-2010-M660">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M660">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M660">3</xref>]. We have recently developed crown ether amino acids (CEAAs, 21-crown-7) with a luminescent moiety, which bind ammonium ions and indicate the recognition event by changes in their specific emission properties. The units can be covalently linked by peptide coupling to more extended receptors showing high specificity for N-terminal lysine in peptides [<xref ref-type="bibr" rid="B4-molbank-2010-M660">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M660">5</xref>] or with other recognition motifs binding for example histidine peptides [<xref ref-type="bibr" rid="B6-molbank-2010-M660">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M660">7</xref>]. The ability of benzo-27-crown-9 ethers to bind guanidinium ions is known [<xref ref-type="bibr" rid="B8-molbank-2010-M660">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M660">9</xref>], was applied in extraction experiments [<xref ref-type="bibr" rid="B10-molbank-2010-M660">10</xref>] and has been proven by crystal structures [<xref ref-type="bibr" rid="B11-molbank-2010-M660">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M660">12</xref>]. Examples of related chemosensors were employed for detecting naturally occurring toxins [<xref ref-type="bibr" rid="B13-molbank-2010-M660">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2010-M660">14</xref>].</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M660">
+      <title>2. Synthesis</title>
+      <p>Tetraethyleneglycol ether chains are attached to 4,5-dihydroxyphthalic acid methyl ester (<bold>1</bold>) by reaction with an excess of tosylate <bold>2</bold> at elevated temperature in DMF under basic conditions. Subsequent tosylation and nucleophilic macrocyclisation with boc-ethylenediamine (<bold>5</bold>) gives the luminescent aza-27-crown-9 ether amino acid (<bold>6</bold>) in good overall yield of 45%.</p>
+	  <fig id="molbank-2010-M660-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M660-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of aza-27-crown-9 ether amino acid.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M660-sch001.tif"/>
+		 <p>Conditions: (a) DMF, K<sub>2</sub>CO<sub>3</sub>, 90 &#xB0;C, overnight; (b) THF, H<sub>2</sub>O, KOH, TsCl, 0 &#xB0;C to RT, 3 h; (c) MeCN, H<sub>2</sub>O, K<sub>2</sub>CO<sub>3</sub>, KI, reflux, over night.</p>
+      </fig>
+    </sec>
+    <sec id="sec3-molbank-2010-M660" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>Compound <bold>1</bold> [<xref ref-type="bibr" rid="B15-molbank-2010-M660">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2010-M660">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2010-M660">17</xref>], <bold>2</bold> [<xref ref-type="bibr" rid="B18-molbank-2010-M660">18</xref>] and <bold>5</bold> [<xref ref-type="bibr" rid="B19-molbank-2010-M660">19</xref>] were prepared following literature known procedures. The complete analytics for the intermediates <bold>3</bold> and <bold>4</bold> can be found in the supporting information.</p>
+      <sec>
+        <title>Dimethyl 13-(2-(tert-butoxycarbonylamino)ethyl)-3,5,6,8,9,11,12,13,14,15,17,18,20,21,23,24-hexadecahydro-2H-benzo[k][1,4,7,10,13,16,19,22,25]octaoxaazacycloheptacosine-27,28-dicarboxylate <italic>(<bold>6</bold>)</italic></title>
+        <p>(<bold>a</bold>) To a mixture of 0.68 g dimethyl-4,5-dihydroxyphthalate (<bold>1</bold>) (3 mmol) and 1.38 g K<sub>2</sub>CO<sub>3</sub> (10 mmol) in DMF (5 mL), 3.5 g tetraethyleneglykole monotosylate (<bold>2</bold>) (10 mmol) in DMF (5 mL) were added and stirred under nitrogen at 60 &#xB0;C overnight. After cooling to room temperature, the mixture was poured into 30 mL of ice-cold saturated NH<sub>4</sub>Cl solution. The resulting mixture was extracted four times with 10 mL of DCM. The combined organic phases were dried over MgSO<sub>4</sub> and the solvent was evaporated. Traces of DMF were removed with the aid of a high-vacuum pump. The residue was purified by flash chromatography on silica gel (Et<sub>2</sub>O/EtOH 1:1, R<sub>f</sub> = 0.16) to afford compound <bold>3</bold> as a yellow sticky oil (1.25 g, 2.16 mmol, 72% for step <bold>a</bold>).</p>
+        <p>(<bold>b</bold>) The product from the previous step (<bold>3</bold>) (1.16 g, 2.0 mmol) and 1.14 g of 4-toluenesulfonyl chloride (6.0 mmol) were dissolved in 20 mL of THF. A cold solution of potassium hydroxide (0.73 g, 13.0 mmol) in 3 mL of water was added dropwise at 0&#xB0;C over a period of 1 h. The mixture was stirred for 2 h at room temperature and poured into 60 mL of a vigorously stirring mixture of water and diethylether (1:3; v/v). The aqueous phase was extracted three times with 30 mL of diethylether. The combined organic phases were washed once with 30 mL of saturated aqueous NH<sub>4</sub>Cl solution, then with 30 mL of water and dried over MgSO<sub>4</sub>. The solvent was evaporated to yield <bold>4</bold> as a pale yellow, sticky oil (1.62 g, 1.83 mmol, 91% for step <bold>b</bold>).</p>
+        <p>(<bold>c</bold>) Compound <bold>4</bold> (1.11 g, 1.25 mmol) was dissolved in acetonitrile (20 mL), containing 0.2 mL of water. The mono-boc-protected ethylene diamine <bold>5</bold> (205 mg, 1.25 mmol), KI (310 mg, 1.8 mmol) and K<sub>2</sub>CO<sub>3</sub> (1.67 g, 12.5 mmol) were added successively. The mixture was refluxed overnight and filtered over celite after cooling. The filter cake was washed with acetonitrile and dichloromethane. After removal of the solvent under reduced pressure, the residue was purified by column chromatography (ethyl acetate / ethanol 3:1) to give the product <bold>6</bold> as a clear, yellow oil (R<sub>f</sub> = 0.1) in an overall yield of 45% (610 mg, 0.85 mmol, 68% for step <bold>c</bold>).</p>
+        <p><bold>MF:</bold> C<sub>34</sub>H<sub>57</sub>N<sub>2</sub>O<sub>14</sub>; <bold>FW:</bold> 717.84 g/mol; <bold>UV</bold> (MeOH): &#x3BB; (&#x3B5;) = 269 (8900), 225 (29600); <bold>IR</bold> (KBr): &#x3BD; [cm<sup>-1</sup>] = 3360 (w), 2920 (m), 2946 (m), 2870 (m), 1714 (s), 1598 (m), 1516 (m), 1436 (m), 1351 (m), 1285 (s), 1251 (m), 1182 (s), 1122 (s), 1062 (m), 978 (m), 946 (m), 882 (w), 782 (m), 659 (w); <bold>MS</bold> (ESI-MS, CH<sub>2</sub>Cl<sub>2</sub>/MeOH + 10 mmol NH<sub>4</sub>OAc): e/z (%) = 703.4 (100, MH<sup>+</sup>); - <bold>HRMS</bold> (PI-LSIMS FAB, MeOH/Glycerine): calc. for C<sub>33</sub>H<sub>55</sub>N<sub>2</sub>O<sub>14</sub><sup>+</sup> [MH<sup>+</sup>]: 703.3653, found: 736.3659; <bold>EA</bold> (C<sub>34</sub>H<sub>57</sub>N<sub>2</sub>O<sub>14</sub> * 2 H<sub>2</sub>O): calc. C 53.6, H 7.9, N 3.8, found. C 53.3, H 7.8, N 3.7.; <bold><sup>1</sup>H-NMR</bold> (300 MHz, CDCl<sub>3</sub>): &#x3B4; [ppm] = 1.42 (s, 9 H), 2.74 (m, 2 H), 2.83 (m, 4 H), 3.20 (m, 2 H), 3.51&#x2013;3.78 (m, 20 H), 3.80&#x2013;3.96 (m, 4 H), 3.86 (s, 6 H), 4.20 (m, 4 H), 5.61 (bs, 1 H), 7.18 (s, 2 H); <bold><sup>13</sup>C-NMR</bold> (75 MHz, CDCl<sub>3</sub>): &#x3B4; [ppm] = 28.5 (+, 3 C), 29.7 (-, 1 C), 38.9 (-, 1 C), 52.6 (+, 2 C), 54.3 (-, 2 C), 68.8 (-, 2 C), 69.2 (-, 2 C), 69.5 (-, 2 C), 70.5 (-, 2 C), 70.7 (-, 2 C), 70.7 (-, 2 C), 71.1 (-, 2 C), 78.9 (C<sub>quat</sub>, 1 C), 113.7 (+, 2 C), 125.4 (C<sub>quat</sub>, 2 C), 150.5 (C<sub>quat</sub>, 2 C), 156.2 (C<sub>quat</sub>, 1 C), 167.8 (C<sub>quat</sub>, 2 C).</p>
+		<fig id="molbank-2010-M660-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Absorption and emission spectra of compound <bold>6</bold> (c = 2.8 &#xD7; 10<sup>-5</sup> mol/L) in methanol solution.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M660-g001.tif"/>
+      </fig>
+      </sec>
+    </sec>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2010-M660">
+        <title>Supplementary materials</title>
+		<supplementary-material id="molbank-2010-M660-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M660-s001-mod.mol">
+   <label>Supplementary File 1</label>
+	</supplementary-material>
+        <supplementary-material id="molbank-2010-M660-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M660-s001.mol">
+   <label>Supplementary File 2</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2010-M660-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M660-s002.doc">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank the Deutsche Forschungsgemeinschaft (GRK 760) and the University of Regensburg for support of this work.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M660">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gokel</surname>
+              <given-names>G.W.</given-names>
+            </name>
+          </person-group>
+          <source>Crown Ethers and Cryptands</source>
+          <publisher-name>Royal Society of Chemistry</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>1991</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M660">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Izatt</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Pawlak</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bradshaw</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermodynamic and Kinetic data for macrocycle interactions with cations and anions</article-title>
+          <source>Chem. Rev.</source>
+          <year>1991</year>
+          <volume>91</volume>
+          <fpage>1721</fpage>
+          <lpage>2085</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00008a003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M660">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Izatt</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Bradshaw</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Lamb</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>J.J.</given-names> 
+            </name>
+          </person-group>
+          <article-title>Thermodynamic and kinetic data for cation-macrocycle interaction</article-title>
+          <source>Chem. Rev.</source>
+          <year>1985</year>
+          <volume>85</volume>
+          <fpage>271</fpage>
+          <lpage>339</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00068a003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M660">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sp&#xE4;th</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;nig</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modular synthesis of di- and tripeptides of luminescent crown ether aminocarboxylic acids</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>690</fpage>
+          <lpage>695</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2008.10.086</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M660">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mandl</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Koenig</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Luminescent crown ether amino acids-selective binding to N-terminal lysine in peptides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2005</year>
+          <volume>70</volume>
+          <fpage>670</fpage>
+          <lpage>674</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo048105y</pub-id>
+          <pub-id pub-id-type="pmid">15651816</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M660">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kruppa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mandl</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Miltschitzky</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;nig</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>A luminescent receptor with affinity for N-terminal histidine in peptides in aqueous solution</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2005</year>
+          <volume>127</volume>
+          <fpage>3362</fpage>
+          <lpage>3365</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja043930h</pub-id>
+          <pub-id pub-id-type="pmid">15755153</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M660">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stadlbauer</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Riechers</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sp&#xE4;th</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;nig</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Utilizing reversible copper(II) peptide coordination in a sequence-selective luminescent receptor</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2008</year>
+          <volume>14</volume>
+          <fpage>2536</fpage>
+          <lpage>2541</lpage>
+          <pub-id pub-id-type="doi">10.1002/chem.200701442</pub-id>
+          <pub-id pub-id-type="pmid">18213557</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M660">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kyba</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Helgeson</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Madan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gokel</surname>
+              <given-names>G.W.</given-names>
+            </name>
+            <name>
+              <surname>Tarnowski</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Cram</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Host-guest complexation. 1. Concept and illustration</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1977</year>
+          <volume>99</volume>
+          <fpage>2564</fpage>
+          <lpage>2571</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00450a026</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M660">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lehn</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+            <name>
+              <surname>Vierling</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Hayward</surname>
+              <given-names>R.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stable and selective guanidinium and imidazolium complexes of a macrocyclic receptor molecule</article-title>
+          <source>J. Chem. Soc. Chem. Commun.</source>
+          <year>1979</year>
+          <fpage>296</fpage>
+          <lpage>298</lpage>
+          <pub-id pub-id-type="doi">10.1039/c39790000296</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M660">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stolwijk</surname>
+              <given-names>T.B.</given-names>
+            </name>
+            <name>
+              <surname>Grootenhuis</surname>
+              <given-names>P.D.J.</given-names>
+            </name>
+            <name>
+              <surname>van der Wal</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Sudh&#xF6;lter</surname>
+              <given-names>E.J.R.</given-names>
+            </name>
+            <name>
+              <surname>Reinhoudt</surname>
+              <given-names>D.N.</given-names>
+            </name>
+            <name>
+              <surname>Harkema</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Uiterwijk</surname>
+              <given-names>J.W.H.M.</given-names>
+            </name>
+            <name>
+              <surname>Kruise</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crown ether mediated transport of guanidinium thiocyanate through a bulk liquid membrane and the correlation with the complex stability constants</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1986</year>
+          <volume>51</volume>
+          <fpage>4891</fpage>
+          <lpage>4898</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00375a025</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M660">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Boer</surname>
+              <given-names>J.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Uiterwijk</surname>
+              <given-names>J.W.H.M.</given-names>
+            </name>
+            <name>
+              <surname>Geevers</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Harkema</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Reinhoudt</surname>
+              <given-names>D.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrocyclic receptor molecules for guanidinium cations. Preparation, X-ray structures, and kinetic stabilities of 1:1 complexes of guanidinium perchlorate with benzo-27-crown-9, dibenzo-27-crown-9, and dibenzo-30-crown-10</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1983</year>
+          <volume>48</volume>
+          <fpage>4821</fpage>
+          <lpage>4830</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00173a008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M660">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Staveren</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Hertog</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Reinhoudt</surname>
+              <given-names>D.N.</given-names>
+            </name>
+            <name>
+              <surname>Uiterwijk</surname>
+              <given-names>J.W.H.M.</given-names>
+            </name>
+            <name>
+              <surname>Kruise</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Harkema</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses and crystal structures of encapsulated guanidinium complexes of 27-membered macrocyclic ligands</article-title>
+          <source>J. Chem. Soc. Chem. Commun.</source>
+          <year>1984</year>
+          <fpage>1409</fpage>
+          <lpage>1411</lpage>
+          <pub-id pub-id-type="doi">10.1039/C39840001409</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M660">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gawley</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Haque</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Thorne</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Pharr</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Visible fluorescence chemosensor for saxitoxin</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2007</year>
+          <volume>72</volume>
+          <fpage>2187</fpage>
+          <lpage>2191</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo062506r</pub-id>
+          <pub-id pub-id-type="pmid">17298099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M660">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mao</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Thorne</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Pharr</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Gawley</surname>
+              <given-names>R.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of crown ether ring size on binding and fluorescence response to saxitoxin in anthracylmethyl monoazacrown ether chemosensors</article-title>
+          <source>Can. J. Chem.</source>
+          <year>2006</year>
+          <volume>84</volume>
+          <fpage>1273</fpage>
+          <lpage>1279</lpage>
+          <pub-id pub-id-type="doi">10.1139/v06-093</pub-id>
+          <pub-id pub-id-type="pmid">21562619</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M660">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two types of indirect cyclodimerization of biacetyl via its enol silyl ethers</article-title>
+          <source>Chem. Lett.</source>
+          <year>1977</year>
+          <fpage>1219</fpage>
+          <lpage>1222</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.1977.1219</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M660">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>House</surname>
+              <given-names>H.O.</given-names>
+            </name>
+            <name>
+              <surname>Czuba</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Gall</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Olmstead</surname>
+              <given-names>H.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry of carbanions. XVIII. Preparation of trimethylsilyl enol ethers</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1969</year>
+          <volume>34</volume>
+          <fpage>2324</fpage>
+          <lpage>2336</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01260a018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2010-M660">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drager</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>O&#xB4;Brien</surname>
+              <given-names>D.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel synthesis of liquid crystalline phthalocyanines</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>2257</fpage>
+          <lpage>2260</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo9919254</pub-id>
+          <pub-id pub-id-type="pmid">10774060</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2010-M660">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Menzer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>I.W.</given-names>
+            </name>
+            <name>
+              <surname>Preece</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Stoddart</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Tolley</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bis[2]catenanes and a bis[2]rotaxane-model compounds for polymers with mechanically interlocked components</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>1996</year>
+          <volume>2</volume>
+          <fpage>31</fpage>
+          <lpage>44</lpage>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2010-M660">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>James</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Callahan</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Ashton-Shue</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bryan</surname>
+              <given-names>H.G.</given-names>
+            </name>
+            <name>
+              <surname>Bryan</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Heckman</surname>
+              <given-names>G.D.</given-names>
+            </name>
+            <name>
+              <surname>Kinter</surname>
+              <given-names>L.B.</given-names>
+            </name>
+            <name>
+              <surname>McDonald</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>D.B.</given-names>
+            </name>
+            <name>
+              <surname>Silvestri</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Stassen</surname>
+              <given-names>F.L.</given-names>
+            </name>
+            <name>
+              <surname>Sulat</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Yim</surname>
+              <given-names>N.C.F.</given-names>
+            </name>
+            <name>
+              <surname>Huffman</surname>
+              <given-names>W.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-activity relationships of novel vasopressin antagonists containing C-terminal diaminoalkanes and (aminoalkyl)guanidines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1989</year>
+          <volume>32</volume>
+          <fpage>391</fpage>
+          <lpage>396</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+   </back>
+</article>

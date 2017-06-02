@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M288</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2002-M288</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Bromo-N<sup>1</sup>, N<sup>1</sup>, N<sup>4</sup>, N<sup>4</sup>-tetramethyl-benzene-1,4-diamine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zieg</surname>
+            <given-names>Harald</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pitsch</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koenig</surname>
+            <given-names>Burkhard</given-names>
+          </name>
+          <xref rid="af1-molbank-2002-M288" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2002-M288">Institut fuer Organische Chemie, Universitaet Regensburg, D-93040 Regensburg, Germany; Fax (+49) 941 943 171; E-mail: <underline><email>burkhard.koenig@chemie.uni-regensburg.de</email></underline></aff>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>02</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2002</year>
+      </pub-date>
+      <volume>2002</volume>
+      <issue>1</issue>
+      <elocation-id>M288</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>03</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>03</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2002 MDPI.</copyright-statement>
+        <copyright-year>2002</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M288-i001.tif"/></p>
+      <p>Compound <bold>3</bold> has been reported in a patent<sup>1</sup> as a catalyst for hydrogen peroxide bleaching in photographic processing methods, but no synthesis or spectroscopic data are available in the chemical literature. We report here the synthesis and characterization of the compound.</p>
+      <p>A mixture of N,N,N',N'-tetramethyl-benzene-1,4-diamine (3.1 g, 18.9 mmol) (<bold>1</bold>), n-BuLi (22.7 mmol, 16.2 ml; 1.4 mol/L in hexane) and TMEDA (2.8 ml, 18.9 mmol) was heated to reflux for 45 min. A white precipitate is observed. The reaction mixture was cooled down to 0 &#xB0;C, the solvent was decanted from the residue and 50 ml of THF were added. After addition of 2-bromo-1,1,1-triethoxy-ethane (5.0 g, 21 mmol) (<bold>2</bold>) the reaction mixture was heated to reflux for 15 min and stirred at room temp. overnight. The reaction was quenched with aqueous sat. NH<sub>4</sub>Cl solution (100 ml), diluted with ethyl acetate, the organic phase was washed with water, dried over Na<sub>2</sub>SO<sub>4</sub> and the solvent was removed in vacuo. The crude product was purified by column chromatography on silica [petrol ether (60/70) / ethyl acetate 3:1; R<sub>f</sub> = 0.56] to yield 1.03 g (23 %) of <bold>3</bold>; brown solid, mp. 35 &#xB0;C.</p>
+      <p>IR (KBr): 2979 cm<sup>&#x2212;1</sup>, 2937, 2890, 2853, 2821, 2788, 1605, 1507, 942, 811, 678.</p>
+      <p>UV/Vis (CH<sub>3</sub>CN): lmax (log e) = 210 nm (4.333), 266 (4.147), 322 (3.445).</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): d = 2.70 (s, 6H), 2.88 (s, 6H), 6.65 (dd, 3J = 8.8 Hz, 4J = 2.9 Hz, 1H), 6.94 (d, 4J = 2.9 Hz, 1H), 7.02 (d, 3J = 8.8 Hz, 1H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): d = 40.81 (+), 44.92 (+), 112.49 (+), 117.65 (+), 120.90 (C<sub>quat</sub>), 121.06 (+), 141.71 (C<sub>quat</sub>), 147.91 (C<sub>quat</sub>).</p>
+      <p>MS (70 eV), m/z (%): 242 (100) [M<sup>+</sup>], 227 (76) [M+-CH<sub>3</sub>].</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2002-M288">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2002-M288-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M288-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2002-M288-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M288-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+	  </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2002-M288">
+        <label>1.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Toole</surname>
+              <given-names>T. R.</given-names>
+            </name>
+          </person-group>
+          <source>US Patent</source>
+		  <year>1997</year>
+          <comment>Cont.-in-part of U.S. Ser. No. 362,384</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> available form the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

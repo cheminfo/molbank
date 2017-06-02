@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M815</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M815</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-(Hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Salim</surname>
+            <given-names>Emil</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M815" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2014-M815" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Galais</surname>
+            <given-names>Alice</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M815" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Trombotto</surname>
+            <given-names>St&#xE9;phane</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M815" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2014-M815" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M815"><label>1</label>Ing&#xE9;nierie des Mat&#xE9;riaux Polym&#xE8;res (IMP, UMR CNRS 5223), Universit&#xE9; Claude Bernard Lyon 1, Universit&#xE9; de Lyon, Villeurbanne F-69622, France</aff>
+      <aff id="af2-molbank-2014-M815"><label>2</label>Department of Chemistry, Institut Teknologi Bandung, Bandung 40132, Indonesia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M815"><label>*</label>Authors to whom correspondence should be addressed: E-Mail: <email>stephane.trombotto@univ-lyon1.fr</email>; Tel.: +33-4-7243-1210; Fax: +33-4-7243-1249.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>02</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>1</issue>
+      <elocation-id>M815</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>01</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>02</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Low molecular weight chitooligosaccharide with one 2,5-anhydro-<sc>d</sc>-mannofuranose unit at the reducing end (COSamf) was prepared by nitrous deamination of fully <italic>N</italic>-deacetylated chitosan. The functionalization of the amf unit by reductive amination with 4-(hexyloxy)aniline in presence of NaBH<sub>3</sub>CN was achieved in high yield. The chemical structure of the targeted 4-(hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose was fully characterized by NMR spectroscopy, MALDI-TOF mass spectrometry and size-exclusion chromatography. This synthesis opens the way to a new generation of COSamf derivatives with potential amphiphilic properties.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>chitosan</kwd>
+        <kwd>chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose</kwd>
+        <kwd>4-(hexyloxy)aniline</kwd>
+        <kwd>nitrous deamination</kwd>
+        <kwd>reductive amination</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Chitosan is a random linear polysaccharide of <sc>d</sc>-glucosamine (GlcN) and <italic>N</italic>-acetyl-<sc>d</sc>-glucosamine (GlcNAc) units linked by &#x3B2;-(1&#x2192;4) glycosidic bonds. Chitosan is generally obtained by chemical or enzymatic <italic>N</italic>-deacetylation of chitin, the second most abundant naturally occurring polymer produced industrially from shells of crustaceans and squid pens [<xref ref-type="bibr" rid="B1-molbank-2014-M815">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M815">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M815">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M815">4</xref>]. Chitooligosaccharides (COS), also named chitosan or chitin oligomers, have recently received considerable attention as functional biomolecules with a wide range of applications in food, agriculture, medicine, pharmaceutics and cosmetics. COS take advantage of their various interesting physico-chemical and biological properties, including water-solubility, biocompatibility, antibacterial, antifungal and antitumoral activities [<xref ref-type="bibr" rid="B5-molbank-2014-M815">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M815">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M815">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M815">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2014-M815">9</xref>]. In order to improve the scope of their properties, chemical modifications of COS have been investigated for a decade [<xref ref-type="bibr" rid="B10-molbank-2014-M815">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2014-M815">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2014-M815">12</xref>]. In this study, we described the synthesis of the 4-(hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose. The interest of this work is to take advantage of the reactivity of the aldehyde group of the 2,5-anhydro-<sc>d</sc>-mannofuranose (amf) unit present at the reducing end of COS obtained by nitrous deamination of chitosan, to generate original amphiphilic COS derivatives.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>4-(hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose was efficiently synthesized from chitosan in a two-step procedure involving the reductive amination of chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose (COSamf, <bold>1</bold>) with 4-(hexyloxy)aniline as illustrated in <xref ref-type="scheme" rid="molbank-2014-M815-sch001">Scheme 1</xref>.</p>
+      <p>COSamf <bold>1</bold> was prepared by nitrous acid deamination of a fully <italic>N-</italic>deacetylated chitosan based on the method previously described by Tommeraas <italic>et al.</italic> [<xref ref-type="bibr" rid="B13-molbank-2014-M815">13</xref>]. Thus, the depolymerization of chitosan (DA 0%, <overline>Mw</overline> = 270 kg/mol; <overline>Mn</overline> = 115 kg/mol, &#xD0; = 2.3) by NaNO<sub>2</sub> (GlcN/NaNO<sub>2</sub> molar ratio = 10) in aqueous acid solution at room temperature led to COSamf <bold>1</bold> in 67% mass yield after 24 h of reaction. The chemical structure of COSamf <bold>1</bold> was fully confirmed by <sup>1</sup>H and <sup>13</sup>C-NMR spectroscopies, MALDI-TOF mass spectrometry and size-exclusion chromatography (see <xref ref-type="app" rid="app1-molbank-2014-M815">Supporting Information</xref>). Therefore it has been shown COSamf <bold>1</bold> is composed of a mixture of oligomers, with an average number of GlcN units into chains around 23.</p>
+      <p>The reductive amination of COSamf <bold>1</bold> with 4-(hexyloxy)aniline in presence of NaBH<sub>3</sub>CN was carried out at 40 &#xB0;C in buffer solution (pH 5.5) for 48 h, leading to the targeted 4-(hexyloxy)aniline-linked COSamf <bold>2</bold> in an excellent mass yield (92%). The chemical structure of the title compound was entirely characterized by <sup>1</sup>H and <sup>13</sup>C-NMR spectroscopies thanks to two-dimensional NMR analyses, pointing out the coupling reaction between the aldehyde function of COSamf <bold>1</bold> and the amine group of the aniline residue. Thus, the presence of the corresponding CH<sub>2</sub>-N covalent linkage was displayed at &#x3B4; 3.50 ppm for methylene protons and 69.7 ppm for the methylene carbon, respectively in <sup>1</sup>H and <sup>13</sup>C-NMR spectra. As confirmed by MALDI-TOF mass spectrometry (see <xref ref-type="app" rid="app1-molbank-2014-M815">Supporting Information</xref>), 4-(hexyloxy)aniline-linked COSamf <bold>2</bold> is composed of a mixture of oligomers, with an average number of GlcN units into chains, determined by both <sup>1</sup>H-NMR and SEC, equal to 23 as for COSamf <bold>1</bold>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p><italic>4-(Hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose</italic> <bold>2</bold>: A fully <italic>N</italic>-deacetylated chitosan (2.1 g, 13 mmol GlcN unit) was solubilized in 1 L of water by addition of 11.5 mL HCl (37% w/w). A freshly prepared solution of NaNO<sub>2</sub> (1.3 mmol) was added and the reaction was allowed to proceed for 24 h at room temperature. The product was precipitated by addition of conc. NH<sub>4</sub>OH, centrifuged (15 min, 11200 rpm), washed with distilled water until neutral pH, then freeze-dried leading to COSamf <bold>1</bold> (1.4 g, 67% mass yield) as a white powder. COSamf <bold>1</bold> (0.5 g, 0.14 mmol of amf unit) was then solubilized in 20 mL of ammonium acetate buffer (50 mM, pH 5.5). 271 mg of 4-(hexyloxy)aniline (1.4 mmol) in 10 mL ethanol and 88 mg of sodium cyanoborohydride (1.4 mmol) were added and the reaction was allowed to proceed for 48 h at 40 &#xB0;C. The product was precipitated by addition of conc. NH<sub>4</sub>OH, centrifuged (15 min, 11,200 rpm), washed with water/ethanol (50:50) then freeze-dried leading to <bold>2</bold> (460 mg, 92% mass yield) as a white powder. <sup>1</sup>H-NMR (300 MHz, D<sub>2</sub>O, 298 &#xB0;K): &#x3B4; (ppm) 7.45 (d, <italic>J</italic> = 9.0 Hz, 2H, H aromatic), 7.15 (d, <italic>J</italic> = 9.0 Hz, 2H, H aromatic), 4.90&#x2013;4.70 (m, 23H, H-1 GlcN), 4.32 (m, 1H, H-3 amf), 4.24 (m, 1H, H-5 amf), 4.18 (m, 1H, H-4 amf), 4.14 (m, 1H, H-2 amf), 4.08 (t, <italic>J</italic> = 6.6 Hz, 2H, CH<sub>2</sub>O), 4.00&#x2013;3.40 (m, H-3 to H-6 GlcN, H-6 amf, CH<sub>2</sub>N), 3.18 (t, <italic>J</italic> = 8.9 Hz, 23H, H-2 GlcN), 1.75 (m, 2H, CH<sub>2</sub>), 1,40 (m, 2H, CH<sub>2</sub>), 1.30 (m, 4H, 2CH<sub>2</sub>), 0.85 (t, <italic>J</italic> = 7.0 Hz, 3H, CH<sub>3</sub>). <sup>13</sup>C-NMR (125 MHz, D<sub>2</sub>O, 298 &#xB0;K): &#x3B4; (ppm) 159.8 (CO aromatic), 127.3 (CN aromatic), 124.7 (2CH aromatic), 116.8 (2CH aromatic), 99.3 (C-1' GlcN), 98.1 (C-1 GlcN), 86.8 (C-4 amf), 83.1 (C-5 amf), 78.6 (C-2 amf), 77.9 (C-3 amf), 77.0 (C-5&#x2019; GlcN), 76.9 (C-4 GlcN), 75.3 (C-5 GlcN), 72.3 (C-3' GlcN), 70.6 (C-3 GlcN), 70.2 (C-4' GlcN), 69.7 (CH<sub>2</sub>O), 61.9 (C-6 amf), 60.9 (C-6' GlcN), 60.6 (C-6 GlcN), 56.4 (C-2 GlcN), 56.1 (C-2' GlcN), 53.2 (CH<sub>2</sub>N), 31.3 (CH<sub>2</sub>), 28.7 (CH<sub>2</sub>), 25.4 (CH<sub>2</sub>), 22.5 (CH<sub>2</sub>), 13.9 (CH<sub>2</sub>). <italic>Note that C&#x2019; represents carbon atoms of the GlcN unit linked to the amf unit.</italic> MALDI-TOF MS: presence of a major peak at <italic>m/z</italic> 1650.5 attributed to HO-(GlcN)<sub>8</sub>-C<sub>18</sub>H<sub>28</sub>NO<sub>4</sub> (<italic>m/z</italic> monoisotopic calcd for [C<sub>66</sub>H<sub>117</sub>O<sub>37</sub>N<sub>9</sub>Na]<sup>+</sup> = 1650.7 mass units (&#x394; = 0.01%)). HRMS (ESI): calcd for C<sub>66</sub>H<sub>117</sub>O<sub>37</sub>N<sub>9</sub>Na: <italic>m/z</italic> 1650.7448; found 1650.7432 [M+Na]<sup>+</sup> (difference = 1.6 ppm).</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2014-M815">
+      <title>Supplementary materials</title>
+    <supplementary-material id="molbank-2014-M815-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M815-s001.pdf">
+	<label>Supplementary File 1</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2014-M815-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M815-s002-mod.mol">
+	<label>Supplementary File 2</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2014-M815-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M815-s002.mol">
+	<label>Supplementary File 3</label>
+	</supplementary-material>
+   </app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank Catherine Ladavi&#xE8;re (IMP, CNRS), Agn&#xE8;s Crepet (IMP, CNRS) and Bernard Fenet (CCRMN, Universit&#xE9; Lyon 1) for their helpful assistances and discussions in MALDI-TOF mass spectrometry, size-exclusion chromatography and NMR spectroscopy analyses, respectively. ES specially thanks Didin Mujahidin (Organic Chemistry Laboratory of Institut Teknologi Bandung, Indonesia) for his fruitful support during this study. Financial support from the University Lyon 1 is greatly acknowledged.</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M815">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Domard</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Domard</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan: Structure-Properties Relationship and Biomedical Applications</article-title>
+          <source>Polymeric Biomaterials</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dumitriu</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York, USA</publisher-loc>
+          <year>1994</year>
+          <fpage>187</fpage>
+          <lpage>212</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M815">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kurita</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitin and chitosan: Functional biopolymers from marine crustaceans</article-title>
+          <source>Mar. Biotechnol.</source>
+          <year>2006</year>
+          <volume>8</volume>
+          <fpage>203</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10126-005-0097-5</pub-id>
+          <pub-id pub-id-type="pmid">16532368</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M815">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aranaz</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Heras</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan amphiphilic derivatives: Chemistry and applications</article-title>
+          <source>Curr. Org. Chem.</source>
+          <year>2010</year>
+          <volume>14</volume>
+          <fpage>308</fpage>
+          <lpage>330</lpage>
+          <pub-id pub-id-type="doi">10.2174/138527210790231919</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M815">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dash</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chiellini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ottenbrite</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Chiellini</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitosan: A versatile semi-synthetic polymer in biomedical applications</article-title>
+          <source>Prog. Polym. Sci.</source>
+          <year>2011</year>
+          <volume>36</volume>
+          <fpage>981</fpage>
+          <lpage>1014</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.progpolymsci.2011.02.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M815">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-K.</given-names>
+            </name>
+            <name>
+              <surname>Rajapakse</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzymatic production and biological activities of chitosan oligosaccharides (COS): A review</article-title>
+          <source>Carbohydr. Polym.</source>
+          <year>2005</year>
+          <volume>62</volume>
+          <fpage>357</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.carbpol.2005.08.012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M815">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Trombotto</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ladavi&#xE8;re</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Delolme</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Domard</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical preparation and structural characterization of a homogeneous series of chitin/chitosan oligomers</article-title>
+          <source>Biomacromolecules</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>1731</fpage>
+          <lpage>1738</lpage>
+          <pub-id pub-id-type="doi">10.1021/bm800157x</pub-id>
+          <pub-id pub-id-type="pmid">18547106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M815">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mourya</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Inamdar</surname>
+              <given-names>N.N.</given-names>
+            </name>
+            <name>
+              <surname>Choudhari</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chitooligosaccharides: Synthesis, characterization and applications</article-title>
+          <source>Polym. Sci. Ser. A Polym. Phys.</source>
+          <year>2011</year>
+          <volume>53</volume>
+          <fpage>583</fpage>
+          <lpage>612</lpage>
+          <pub-id pub-id-type="doi">10.1134/S0965545X11070066</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M815">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aam</surname>
+              <given-names>B.B.</given-names>
+            </name>
+            <name>
+              <surname>Heggset</surname>
+              <given-names>E.B.</given-names>
+            </name>
+            <name>
+              <surname>Norberg</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>S&#xF8;rlie</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>V&#xE5;rum</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Eijsink</surname>
+              <given-names>V.G.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Production of chitooligosaccharides and their potential applications in medicine</article-title>
+          <source>Mar. Drugs</source>
+          <year>2010</year>
+          <volume>8</volume>
+          <fpage>1482</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="doi">10.3390/md8051482</pub-id>
+          <pub-id pub-id-type="pmid">20559485</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M815">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xia</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological activities of chitosan and chitooligosaccharides</article-title>
+          <source>Food Hydrocolloids</source>
+          <year>2011</year>
+          <volume>25</volume>
+          <fpage>170</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.foodhyd.2010.03.003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M815">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rasmussen</surname>
+              <given-names>M.O.</given-names>
+            </name>
+            <name>
+              <surname>Hogg</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bono</surname>
+              <given-names>J.-J.</given-names>
+            </name>
+            <name>
+              <surname>Samain</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Driguez</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>New access to lipo-chitooligosaccharides nodulations factors</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2004</year>
+          <volume>2</volume>
+          <fpage>1908</fpage>
+          <lpage>1910</lpage>
+          <pub-id pub-id-type="doi">10.1039/b403575e</pub-id>
+          <pub-id pub-id-type="pmid">15227544</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M815">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alba</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Marmuse</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Delolme</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Vors</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Ladavi&#xE8;re</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Trombotto</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Access to tetra-N-acetyl-chitopentaose by chemical N-acetylation of glucosamine pentamer</article-title>
+          <source>Carbohydr. Polym.</source>
+          <year>2013</year>
+          <volume>98</volume>
+          <fpage>770</fpage>
+          <lpage>777</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M815">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guerry</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bernard</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Samain</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fleury</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cottaz</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Halila</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aniline-catalyzed reductive amination as a powerful method for the preparation of reducing end-"Clickable" chitooligosaccharides</article-title>
+          <source>Bioconjugate Chem.</source>
+          <year>2013</year>
+          <volume>24</volume>
+          <fpage>544</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="doi">10.1021/bc3003716</pub-id>
+          <pub-id pub-id-type="pmid">23458450</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M815">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tommeraas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Varum</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>B.E.</given-names>
+            </name>
+            <name>
+              <surname>Smidsrod</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and characterization of oligosaccharides produced by nitrous acid depolymerization of chitosans</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>2001</year>
+          <volume>333</volume>
+          <fpage>137</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(01)00130-6</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M815-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M815-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the 4-(hexyloxy)aniline-linked chitooligosaccharide-2,5-anhydro-<sc>d</sc>-mannofuranose from chitosan.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M815-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

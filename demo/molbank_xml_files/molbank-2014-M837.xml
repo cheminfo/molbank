@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M837</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M837</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(2<italic>S</italic>)-[3-(Anthracen-9-yl)-4,5-dihydroisoxazol-5-yl]methyl 2-[(<italic>tert</italic>-butoxycarbonyl)amino]propanoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Memeo</surname>
+            <given-names>Misal Giuseppe</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Distante</surname>
+            <given-names>Francesco</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quadrelli</surname>
+            <given-names>Paolo</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M837" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>External Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M837">Department of Chemistry, University of Pavia, Viale Taramelli 12, 27100 - Pavia, Italy</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M837"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>paolo.quadrelli@unipv.it</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>11</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>4</issue>
+      <elocation-id>M837</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>09</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>11</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The synthesis of the (2<italic>S</italic>)-[3-(anthracen-9-yl)-4,5-dihydroisoxazol-5-yl]methyl 2-[(<italic>tert</italic>-butoxycarbonyl)amino]propanoate is obtained through the 1,3-dipolar cycloaddition of the stable anthracenenitrile oxide and the <italic>N</italic>-Boc protected (<italic>S</italic>)-alanine allyl ester as dipolarophile. The structure and the fluorescence properties are described upon the relative analytical and spectroscopic data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>anthracenenitrile oxide</kwd>
+        <kwd>1,3-dipolar cycloaddition</kwd>
+        <kwd>fluorescent probe</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Bio-orthogonal chemistry provides an absolutely remarkable method for biomolecular studies of proteins, glycans, and lipids in living systems without interfering with natural biochemical processes [<xref ref-type="bibr" rid="B1-molbank-2014-M837">1</xref>]. From the chemical point of view, the development of bioorthogonal reactions imposes special and restrictive conditions, such as selectivity, biological inertness, strong covalent bonds, high reaction rates, and biocompatibility of the chemical reactions [<xref ref-type="bibr" rid="B2-molbank-2014-M837">2</xref>].</p>
+      <p>The classical methodologies to perform a reliable chemical ligation are the well-documented Staudinger ligation [<xref ref-type="bibr" rid="B3-molbank-2014-M837">3</xref>], the Huisgen 1,3-dipolar cycloaddition of azides (Click Reactions) [<xref ref-type="bibr" rid="B4-molbank-2014-M837">4</xref>], as well as the Diels-Alder (DA) reactions of suitably design diene systems [<xref ref-type="bibr" rid="B5-molbank-2014-M837">5</xref>].</p>
+      <p>The use of reduced molecular weight organic molecules as chemical probes represents an outbreaking task in modern organic chemistry research [<xref ref-type="bibr" rid="B6-molbank-2014-M837">6</xref>]. Typically, these molecules are analogs of the bio-interacting substrate containing a fluorescent tag for imaging analysis [<xref ref-type="bibr" rid="B7-molbank-2014-M837">7</xref>]. In the search of novel synthetic approaches to be applied at Activity-Based Protein Profiling (ABPP) [<xref ref-type="bibr" rid="B8-molbank-2014-M837">8</xref>], we describe here the rapid and selective synthesis of an anthracene-isoxazolyl derivative containing a protected aminoacidic residue.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Commercially available <italic>N</italic>-Boc protected (<italic>S</italic>)-alanine <bold>1</bold> was converted into the corresponding allyl ester <bold>3</bold> through the typical DCC/DMAP coupling procedure with allyl alcohol <bold>2</bold> [<xref ref-type="bibr" rid="B9-molbank-2014-M837">9</xref>]. The white solid ester <bold>3</bold> was isolated through column chromatography and obtained in 75% yield and submitted to the 1,3-dipolar cycloaddition with a slight excess (1.2 equiv.) of freshly prepared [<xref ref-type="bibr" rid="B10-molbank-2014-M837">10</xref>] anthracenenitrile oxide <bold>4</bold> in dichloromethane (DCM) solution. The reaction was conducted at room temperature for 24 h. Chromatographic separation of the worked-up reaction mixture afforded the expected single regioisomer <bold>5</bold> as a dark yellow solid (m.p. 68&#x2013;70 &#xB0;C from diisopropyl ether/petrol ether) in 60% yield (<xref ref-type="scheme" rid="molbank-2014-M837-sch001">Scheme 1</xref>).</p>
+      <p>The structure of compound <bold>5</bold> was assigned through a diligent examination of all the collected analytical and spectroscopic data. From the IR spectrum the presence of the NH of the Boc-protected aminoacidic residue is shown by a broad band centred at 3381 cm<sup>&#x2212;1</sup>; the C=O groups are shown by the strong and intense bands at 1755 and 1694 cm<sup>&#x2212;1</sup>. The <sup>1</sup>H-NMR spectrum (d<sub>6</sub>-DMSO) shows the presence of the anthracene ring in the aromatic region with signals ranging from 7.62 ppm to 8.77 ppm. The presence of the newly formed isoxazoline ring is confirmed by the presence of a broad signal at 5.27 ppm relative to the CH-O of the heterocyclic ring, coupled with the exocyclic methylene group of which signals are found at 3.39 and 3.71 ppm (AB system). Another AB system constituted by two double triplets at 4.36 and 4.50 ppm corresponds to the isoxazoline methylene. The alanine moiety gave the expected signals of the methyl group at 1.33 ppm as a doublet coupled with the CH found at 4.20 ppm as typical quartet. The NH of the aminoacid was also found at 7.39 ppm as a triplet and exchanges with D<sub>2</sub>O. In order to corroborate the above reported attribution, COSY and NOESY experiments were performed. The <sup>13</sup>C-NMR spectrum indicates that the cycloadduct <bold>5</bold> exists as an inseparable mixture of two diastereoisomers (1:1 ratio) due to the undefined chirality of the C5 isoxazoline carbon atom.</p>
+      <p>The stability of the anthracenenitrile oxide <bold>4</bold> is due to the known forbidden dimerization because of the high steric demanding structure of the anthracene moiety [<xref ref-type="bibr" rid="B11-molbank-2014-M837">11</xref>]. This behavior allowed also to perform the cycloaddition reaction in water solution, the privileged solvent in biological systems, even with better yields (75% of product <bold>5</bold>). The same steric effects are at work in determining the high regioselectivity of the reaction. Upon investigation on the composition of the crude reaction mixture by NMR techniques, no other compounds were identified in addition to the isolated cycloadduct <bold>5</bold>, confirming the peculiar regiochemical outcome.</p>
+      <p>The fluorescence properties given by the anthryl residue to the cycloadduct <bold>5</bold> were determined by recording a fluorescence spectrum in methanol as solvent. The emission maximum is centered at 481 nm and is displayed in the cycloadduct, only. <xref ref-type="fig" rid="molbank-2014-M837-f001">Figure 1</xref> shows the switching on of the cycloadduct <bold>5</bold> during the reaction, which is nearly completed in 12 h. Reference materials, the anthracenenitrile oxide <bold>4</bold>, the isolated cycloadduct <bold>5</bold> and the alanine dipolarophile <bold>3</bold> are reported for comparison.</p>
+      <p>The present protocol represents a valuable and innovative methodology for the synthesis of fluorescence chemical probes for ligation chemistry.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>The synthesis of the fluorescent cycloadduct <bold>5</bold> represents a nice and promising application of the nitrile oxide cycloaddition chemistry to the synthesis of fluorescence chemical probes for performing ligation studies in living systems without interfering with natural biochemical processes.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p><italic>General</italic> - All melting points (m.p.) are uncorrected. Elemental analyses were done on an elemental analyzer available at the Department. <sup>1</sup>H (400 MHz) and <sup>13</sup>C (100 MHz) NMR spectra were recorded on a Bruker AVANCE 400 spectrometer (solvents specified). Chemical shifts are expressed in ppm from internal tetramethylsilane (&#x3B4;) and coupling constants (<italic>J</italic>) are in Hertz (Hz). IR spectra (nujol mulls) were recorded on a spectrophotometer Perkin Elmer RX-1 available at the Department and absorbtions (&#x3BD;) are in cm<sup>&#x2212;1</sup>. Fluerescence spectrum was recorded on a Perkin Elmer LS-55.</p>
+      <p><italic>Synthesis of cycloadduct <bold>5</bold></italic> - To a solution of 204 mg (0.93 mmol) of anthracenenitrile oxide <bold>4</bold> in 50 mL of DCM, 100 mg (0.77 mmol) of <italic>N</italic>-Boc protected alanine allyl ester <bold>3</bold> were added portionwise under stirring at room temperature and the reaction was conducted overnight. After evaporation of the solvent at reduced pressure, the residue was submitted to column chromatography (Kieselgel 60, 70&#x2013;230 mesh, Merck; eluent cyclohexane/ethyl acetate 9:1 to 1:1) to isolate the final product <bold>5</bold> as a dark yellow solid (m.p. 68&#x2013;70 &#xB0;C from diisopropyl ether/petrol ether) in 60% yield.</p>
+      <p><underline>FT-IR:</underline> &#x475;<sub>N-H</sub> 3381cm<sup>&#x2212;1</sup>; &#x475;<sub>C=O</sub> 1755, 1694 cm<sup>&#x2212;1</sup>.</p>
+      <p><underline><sup>1</sup>H-NMR (400 MHz, &#x3B4; DMSO)</underline>: 1.33 (d, 3H, <italic>J</italic> = 7 Hz, CH<sub>3</sub>), 3.39, 3.71 (m, 1H + 1H, CH<sub>2</sub>-O), 4.20 (q, <italic>J</italic> = 7 Hz, 1H, <italic>CH</italic>-CH<sub>3</sub>), 4.36, 4.51 (dt, 1H + 1H, <italic>J</italic> = 13, 9 Hz, CH-<italic>CH<sub>2</sub></italic>), 5.27 (bs, 1H, CH-O), 7.39 (t, <italic>J</italic> = 6 Hz, 1H, NH), 7.61 (m, 4H, Anth), 8.00 (m, 2H, Anth), 8.18 (d, <italic>J</italic> = 8 Hz, 2H, Anth), 8.77 (s, 1H, Anth).</p>
+      <p><underline><sup>13</sup>C-NMR (100 MHz, &#x3B4; DMSO)</underline>: 17.0 [16.9], 28.1, 42.0 [42.1], 49.1, 65.4 [65.2], 77.9 [78.0], 123.3, 124.7, 125.7, 126.9, 127.0, 128.6, 128.7, 129.25, 129.3, 130.7, 155.3, 155.8, [155.9], 173.3 [173.2]. In brackets are the signal of the minor diastereoisomer.</p>
+      <p><underline>Elemental analysis</underline>: Calculated for C<sub>26</sub>H<sub>28</sub>N<sub>2</sub>O<sub>5</sub> (MW = 448.20): C, 69.63; H, 6.29; N, 6.25. Found: C, 69.60; H, 6.30; N, 6.22.</p>
+      <p>The reaction was similarly performed in water as a solvent. Upon extraction of the organic compounds from the water phase with DCM, a residue was obtained upon evaporation of the organic solvent. From the reaction mixture, the expected product <bold>5</bold> was obtained in 75% yield, identical to the previously reported specimen.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M837">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M837-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M837-s001.pdf">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M837-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M837-s002-mod.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M837-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M837-s002.mol">
+		<label>Supplementary File 3</label>
+		</supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Financial support by the University of Pavia, MIUR (PRIN 2011, CUP: F11J12000210001) is gratefully acknowledged. COST Action CM1004 <italic>&#x201C;Synthetic Probes for Chemical Proteomics and Elucidation of Biosynthetic Pathways&#x201D;</italic> is also gratefully acknowledged.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The listed authors contributed to this work as described in the following. Misal G. Memeo gave the concepts of work and interpreted the results. Francesco Distante carried out of the synthetic work and interpreted the results. Paolo Quadrelli prepared the manuscript and contributed with valuable discussions as well as scientific input and funding of Spectra for Substances. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M837">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prescher</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Dube</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Bertozzi</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical remodelling of cell surfaces in living animals</article-title>
+          <source>Nature</source>
+          <year>2004</year>
+          <volume>430</volume>
+          <fpage>873</fpage>
+          <lpage>877</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature02791</pub-id>
+          <pub-id pub-id-type="pmid">15318217</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M837">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sletten</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Bertozzi</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioorthogonal Chemistry: Fishing for Selectivity in a Sea of Functionality</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2009</year>
+          <volume>48</volume>
+          <fpage>6974</fpage>
+          <lpage>6998</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200900942</pub-id>
+          <pub-id pub-id-type="pmid">19714693</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M837">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saxon</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Bertozzi</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell Surface Engineering by a Modified Staudinger Reaction</article-title>
+          <source>Science</source>
+          <year>2000</year>
+          <volume>287</volume>
+          <fpage>2007</fpage>
+          <lpage>2010</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.287.5460.2007</pub-id>
+          <pub-id pub-id-type="pmid">10720325</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M837">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rostovtsev</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>L.G.</given-names>
+            </name>
+            <name>
+              <surname>Fokin</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Stepwise Huisgen Cycloaddition Process: Copper(I)-Catalyzed Regioselective &#x201C;Ligation&#x201D; of Azides and Terminal Alkynes</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2002</year>
+          <volume>114</volume>
+          <fpage>2708</fpage>
+          <lpage>2711</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-3757(20020715)114:14&lt;2708::AID-ANGE2708&gt;3.0.CO;2-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M837">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Angell</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Fringuelli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Minuti</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Taticchi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wenkert</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diels-Alder reactions of cycloalkenones. 14. Endo diastereoselectivity of 2-cyclohexenones in reactions with cyclopentadiene</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1988</year>
+          <volume>53</volume>
+          <fpage>4325</fpage>
+          <lpage>4328</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00253a025</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M837">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frye</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The art of the chemical probe</article-title>
+          <source>Nat. Chem. Biol.</source>
+          <year>2010</year>
+          <volume>6</volume>
+          <fpage>159</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="doi">10.1038/nchembio.296</pub-id>
+          <pub-id pub-id-type="pmid">20154659</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M837">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verdoes</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Florea</surname>
+              <given-names>B.I.</given-names>
+            </name>
+            <name>
+              <surname>van der Marel</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Overkleeft</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical Tools To Study the Proteasome</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>3301</fpage>
+          <lpage>3313</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200900075</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M837">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Willems</surname>
+              <given-names>L.I.</given-names>
+            </name>
+            <name>
+              <surname>Verdoes</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Florea</surname>
+              <given-names>B.I.</given-names>
+            </name>
+            <name>
+              <surname>van der Marel</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Overkleeft</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-Step Labeling of Endogenous Enzymatic Activities by Diels&#x2013;Alder Ligation</article-title>
+          <source>ChemBioChem</source>
+          <year>2010</year>
+          <volume>11</volume>
+          <fpage>1769</fpage>
+          <lpage>1781</lpage>
+          <pub-id pub-id-type="doi">10.1002/cbic.201000280</pub-id>
+          <pub-id pub-id-type="pmid">20623570</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M837">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hupp</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Tepe</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide Hydrochloride-Mediated Oxazole Rearrangement: Gaining Access to a Unique Marine Alkaloid Scaffold</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2009</year>
+          <volume>74</volume>
+          <fpage>3406</fpage>
+          <lpage>3413</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo900264p</pub-id>
+          <pub-id pub-id-type="pmid">19331366</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M837">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grundmann</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Dean</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrile Oxides. V. Stable Aromatic Nitrile Oxides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1965</year>
+          <volume>30</volume>
+          <fpage>2809</fpage>
+          <lpage>2812</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01019a074</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M837">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moggio</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Legnani</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bovio</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Memeo</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Quadrelli</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel anthracene derivatives of isoxazolino-carbocyclic nucleoside analogues</article-title>
+          <source>Tetrahedron</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>1384</fpage>
+          <lpage>1392</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2011.12.047</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2014-M837-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M837-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of (2<italic>S</italic>)-[3-(anthracen-9-yl)-4,5-dihydroisoxazol-5-yl]methyl 2-[(<italic>tert</italic>-butoxycarbonyl)amino]propanoate <bold>5</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M837-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2014-M837-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Fluorescence properties of reagents <bold>3</bold> and <bold>4</bold> and cycloadduct <bold>5</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M837-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

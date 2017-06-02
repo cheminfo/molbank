@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M718</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M718</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6-Methyl-2-nitro-1-phenyl-hept-4-en-3-ol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Herrmann</surname>
+            <given-names>Josef M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xF6;nig</surname>
+            <given-names>Burkhard</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M718" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M718">Institute of Organic Chemistry, University of Regensburg, D-93040 Regensburg, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M718"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>Burkhard.koenig@chemie.uni-regensburg.de</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>02</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M718</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>01</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>02</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>In this short note, we report the synthesis of 6-methyl-2-nitro-1-phenyl-hept-4-en-3-ol by a LiAlH<sub>4</sub> catalyzed nitroaldol reaction for carbon-carbon bond formation. The title compound was characterized by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, MS, IR and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Henry reaction</kwd>
+        <kwd>nitroaldol reaction</kwd>
+        <kwd>carbon-carbon bond formation</kwd>
+        <kwd>LiAlH<sub>4</sub></kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The nitroaldol or Henry reaction is a well known powerful carbon-carbon bond forming reaction. It is the base catalyzed addition of a nitroalkane to a carbonyl compound and gives access to various substrates. The nitroaldol product, a 2-nitroalkanol, can be easily transferred into other substance classes like nitro alkenes, 2-amino alcohols and &#x3B1;-nitro ketones [<xref ref-type="bibr" rid="B1-molbank-2011-M718">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M718">2</xref>]. All these substance classes are highly functionalized organic molecules and thus very useful in natural product synthesis. In the course of a natural product synthesis we explored the nitroaldol reaction for 1-nitro-2-phenylethane (<bold>1</bold>) and 4-methyl-2-pentenal (<bold>2</bold>) as substrates for the synthesis of 6-methyl-2-nitro-1-phenyl-hept-4-en-3-ol (<bold>3</bold>) (<xref ref-type="scheme" rid="molbank-2011-M718-sch001">Scheme 1</xref>).</p>
+      <p>In this case, it is crucial to avoid elimination of water and 1,4-addition of the deprotonated nitroalkane to the &#x3B1;,&#x3B2;-unsaturated aldehyde. LiAlH<sub>4</sub> as catalyst achieves these requirements [<xref ref-type="bibr" rid="B3-molbank-2011-M718">3</xref>], because it is not basic enough for elimination of water and the coordination with Li<sup>+</sup>, that acts as Lewis acid, forms a transition state that avoids 1,4-addition. Because of the carefully controlled reaction conditions, including low temperature and high dilution of LiAlH<sub>4</sub>, the reduction of the nitro group could not be observed [<xref ref-type="bibr" rid="B4-molbank-2011-M718">4</xref>].</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H-NMR was recorded on Bruker Avance 300 spectrometer and <sup>13</sup>C-NMR on Bruker Avance 400 spectrometer at 300 K, chemical shifts are reported in relation to Me<sub>4</sub>Si (&#x3B4; = 0 ppm). The infrared spectrum was recorded on Bio-Rad FT-IR- FTS 155 spectrometer and for mass spectrometry a Finnigan MAT 95 spectrometer was used. LiAlH<sub>4</sub> and 4-methyl-2-pentenal (<bold>2</bold>) were used as purchased and 1-nitro-2-phenylethane (<bold>1</bold>) was synthesized according to common literature [<xref ref-type="bibr" rid="B5-molbank-2011-M718">5</xref>]. Solvents were purified and dried according to common procedures [<xref ref-type="bibr" rid="B6-molbank-2011-M718">6</xref>].</p>
+      </sec>
+      <sec>
+        <title>Synthesis of 6-methyl-2-nitro-1-phenyl-hept-4-en-3-ol <italic>(<bold>3</bold>)</italic></title>
+        <p>The reaction was carried out under nitrogen atmosphere using standard schlenk techniques. 1-Nitro-2-phenylethane (3.8 g, 25 mmol) was added to a slurry of LiAlH<sub>4</sub> (27 mg, 0.7 mmol, 14 mol %) in dry THF (10 mL) at 0 &#xB0;C. After 0.5 h 4-methyl-2-pentenal (0.50 g, 5.1 mmol) was added dropwise, subsequent stirring was continued for 24 h at 0 &#xB0;C. The reaction mixture was quenched with HCl (1 <sc>M</sc>, 20 mL), allowed to warm to room temperature and extracted with dichloromethane (3 &#xD7; 25 mL). The combined organic layers were dried with MgSO<sub>4</sub> and evaporated. The crude product was purified by flash chromatography (hexanes/ethyl acetate 9:1). Excess of 1-nitro-2-phenylethane (3.0 g, 20 mmol) was re-isolated for further reactions. 6-Methyl-2-nitro-1-phenylhept-4-en-3-ol was isolated as yellow oil in 56% yield. <bold><sup>1</sup>H-NMR</bold> (300 MHz, CDCl<sub>3</sub>): &#x3B4; = 1.01 (dd, <italic>J</italic> = 6.7, 2.3 Hz, 6H), 2.24 (d, <italic>J</italic> = 5.8 Hz, 1H), 2.28&#x2013;2.41 (m, 1H), 3.10&#x2013;3.37 (m, 2H), 4.44 (dd, <italic>J</italic> = 13.4, 6.8 Hz, 0.6H), 4.52 (dd, <italic>J</italic> = 11.4, 4.5 Hz, 0.4H), 4.66&#x2013;4.77 (m, 1H), 5.37&#x2013;5.48 (m, 1H), 5.80&#x2013;5.91 (m, 1H), 7.15&#x2013;7.34 (m, 5H) ppm. <bold><sup>13</sup>C-NMR</bold> (100 MHz, CDCl<sub>3</sub>): &#x3B4; = 22.0, 30.9, 36.6, 73.2, 93.5, 123.8, 127.4, 127.5, 128.5, 128.8, 128.9, 129.0, 135.1, 144.0 ppm. <bold>MS</bold> (CI, NH<sub>3</sub>): m/z (%) = 267.1 (100) [MNH<sub>4</sub><sup>+</sup>]. <bold>IR</bold> [cm<sup>&#x2212;1</sup>]: <italic>v</italic> = 699, 1017, 1548, 2962. <bold>Elemental analysis</bold> calculated for C<sub>14</sub>H<sub>20</sub>NO<sub>3</sub>: C, 67.18; H, 8.05; N, 5.60; O, 19.18; found: C, 66.92; H, 8.19; N, 5.51.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2011-M718">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M718-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M718-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2011-M718-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M718-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M718">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luzzio</surname>
+              <given-names>F.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Henry Reaction: Recent Examples</article-title>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>915</fpage>
+          <lpage>945</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(00)00965-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M718">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosini</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ballini</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Functionalized Nitroalkanes as Useful Reagents for Alkyl Anion Synthons</article-title>
+          <source>Synthesis</source>
+          <year>1988</year>
+          <volume>1988</volume>
+          <fpage>833</fpage>
+          <lpage>847</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1988-27726</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M718">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Youn</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile Synthesis of 2-Nitroalkanols Mediated with LiAlH<sub>4</sub> as Catalyst</article-title>
+          <source>Synlett</source>
+          <year>2000</year>
+          <volume>2000</volume>
+          <fpage>880</fpage>
+          <lpage>882</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M718">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kamitori</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hojo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Masuda</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Izumi</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lithium Aluminum Hydride on Silica Gel - Selective Reduction of Ketones and Carboxy Esters in the Presence of Nitro and Cyano Groups</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1983</year>
+          <volume>24</volume>
+          <fpage>2575</fpage>
+          <lpage>2576</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)81985-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M718">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Borden</surname>
+              <given-names>W.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peracid Oxidation of Aliphatic Amines: General Synthesis of Nitroalkanes</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1979</year>
+          <volume>44</volume>
+          <fpage>659</fpage>
+          <lpage>661</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo01318a050</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M718">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W.L.F.</given-names>
+            </name>
+            <name>
+              <surname>Chai</surname>
+              <given-names>C.L.L.</given-names>
+            </name>
+          </person-group>
+          <source>Purification of Laboratory Chemicals</source>
+          <edition>6th ed.</edition>
+          <publisher-name>Butterworth-Heinemann</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>2009</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M718-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M718-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 6-Methyl-2-nitro-1-phenyl-hept-4-en-3-ol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M718-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M916</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M916</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Communication</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-<italic>C</italic>-Alkynyl and 2-<italic>C</italic>-<italic>cis</italic>-Alkenyl &#x3B2;-Mannosides with Acetal Protected &#x3B3;-Aldehyde Functionality via 2-Uloside Alkynylation and Lindlar Hydrogenation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Borowski</surname>
+            <given-names>Daniel</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Menzel</surname>
+            <given-names>Melchior</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ziegler</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M916" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+       <aff id="af1-molbank-2016-M916">Institute of Organic Chemistry, University of T&#xFC;bingen, Auf der Morgenstelle 18, 72076 T&#xFC;bingen, Germany; <email>daniel.borowski@uni-tuebingen.de</email> (D.B.); <email>melchiormenzel@googlemail.com</email> (M.M.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M916"><label>*</label>Correspondence: <email>thomas.ziegler@uni-tuebingen.de</email>; Tel.: +49-07071-29-73035</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>11</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M916</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Benzyl 3,4,6-tri-<italic>O</italic>-benzyl-&#x3B2;-<sc>d</sc>-<italic>arabino</italic>-hexos-2-ulo-1,5-pyranoside was subjected to <italic>manno</italic>-selective ketone alkynylation with propiolaldehyde dibenzyl acetal, resulting in the formation of a 2-<italic>C</italic>-alkynyl &#x3B2;-mannoside bearing a &#x3B3;-dibenzyl acetal functionality. Subsequent transacetalization of the acetal moiety with methanol and 1,3-dihydroxypropane and acetylation of position 2, respectively, gave 4 different 2-<italic>C</italic>-alkynyl branched mannosides. Lindlar hydrogenation of the latter under optimized conditions in dimethylformamide afforded a series of 2-<italic>C</italic>-<italic>cis</italic>-alkenyl mannosides. X-ray molecular structures of benzyl 3,4,6-tri-<italic>O</italic>-benzyl-&#x3B2;-<sc>d</sc>-<italic>arabino</italic>-hexos-2-ulo-1,5-pyranoside and of the branched glycoside benzyl 3,4,6-tri-<italic>O</italic>-benzyl-2-<italic>C</italic>-((<italic>Z</italic>)-3,3-dibenzyloxyprop-1-en-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside are reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>branched carbohydrates</kwd>
+        <kwd>alkynylation</kwd>
+        <kwd>alkynes</kwd>
+        <kwd><italic>cis</italic>-alkenes</kwd>
+        <kwd>Lindlar hydrogenation</kwd>
+        <kwd>partial hydrogenation</kwd>
+        <kwd>&#x3B2;-mannosides</kwd>
+        <kwd>2-ulosides</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M916" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Carbon-branched carbohydrates and especially 1,2-annulated carbohydrates have been the target of considerable synthetic efforts in recent years, for such sugar derivatives may have potential medical application as glycosidase inhibitors [<xref ref-type="bibr" rid="B1-molbank-2016-M916">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M916">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M916">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M916">4</xref>]. In the context of our current project regarding the development of synthetic strategies towards bicyclic annulated carbohydrate derivatives [<xref ref-type="bibr" rid="B5-molbank-2016-M916">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M916">6</xref>], we became interested in the synthesis of 2-<italic>C</italic>-<italic>cis</italic>-alkenyl substituted &#x3B2;-mannosides bearing a &#x3B3;-formyl moiety. Such <italic>C</italic>-branched glycosides having an additional aldehyde group were thought to be useful synthetic precursors for 1,2-annulated glycosides. Therefore, we contemplated a reaction sequence in which a 2-keto-glucoside (2-uloside) is <italic>manno</italic>-selectively alkynylated with propiolaldehyde dibenzyl acetal and subsequently partially hydrogenated. Initially, we next anticipated a synthetic route featuring dihydroxylation of the <italic>cis</italic>-alkene and subsequent deprotection/hemiacetal formation for the synthesis of reducing bycyclic sugar derivatives. Due to the observed inertness of the side chain alkene moiety under several osmium-catalyzed dihydroxylation conditions, most probably caused by the sterical crowdedness of the dibenzyl acetal function, derivatives of the alkynylation product bearing less bulky acetal protecting groups (dimethyl acetal and dioxane) were synthesized and hydrogenated to give the corresponding <italic>cis</italic>-alkenes. In addition, acetylation of the axial C<italic>2</italic>-OH function was performed to study a possible adverse effect of the free hydroxyl group in the planned dihydroxylation reactions. Here, we wish to report on the detailed synthesis of a series of four variably protected 2-<italic>C</italic>-alkynyl branched mannosides as well as 2-<italic>C</italic>-<italic>cis</italic>-alkenyl branched mannosides derived thereof.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M916" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Our synthetic sequence started by subjecting benzyl &#x3B2;-glucoside <bold>1</bold> [<xref ref-type="bibr" rid="B7-molbank-2016-M916">7</xref>] to Dess-Martin oxidation to afford the corresponding perbenzylated 2-uloside <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2016-M916-sch001">Scheme 1</xref>). Previously, Fokt et al. [<xref ref-type="bibr" rid="B8-molbank-2016-M916">8</xref>] described the synthesis of <bold>2</bold> via glycosylation reactions with a 2-ulosyl bromide. However, based on our previously encountered difficulties with comparable glycosylation reactions [<xref ref-type="bibr" rid="B5-molbank-2016-M916">5</xref>] (i.e., low yields and the formation of side products) we anticipated our approach via Dess-Martin oxidation of <bold>1</bold> to be more efficient. Indeed, 2-uloside <bold>2</bold> was obtained in this way in an excellent 96% yield. Due to the high crystallinity of 2-uloside <bold>2</bold>, X-ray structural analysis was performed in order to complete the analytical data of <bold>2</bold>. Compound <bold>2</bold> crystallized as thin needles upon diffusion of <italic>n</italic>-pentane into a solution of <bold>2</bold> in ethyl acetate/chloroform (2:1). The space group was found to be P2<sub>1</sub> and the asymmetric unit contained one molecule of <bold>2</bold>. The molecular structure (<xref ref-type="fig" rid="molbank-2016-M916-f001">Figure 1</xref>) revealed a carbonyl bond length of 1.204 &#xC5; (C2-O21) as well as carbonyl angles of 115.3 &#xC5; (C1-C2-C3) and 122.3&#xB0; (C1-C2-O21 and C3-C2-O21). The carbohydrate system was found to comprise a distorted <sup>4</sup>C<sub>1</sub> conformation.</p>
+      <p>Subsequently, alkynylation of <bold>2</bold> with propiolaldehyde dibenzyl acetal [<xref ref-type="bibr" rid="B9-molbank-2016-M916">9</xref>] and <italic>n</italic>-butyllithium gave 2-<italic>C</italic>-alkynyl mannoside <bold>3a</bold> in 85% yield. The attack of the nucleophile solely occurred from the equatorial side and no diastereomeric byproduct could be detected. Similarly, high stereoselectivities were previously observed for a wide variety of nucleophilic addition reactions to &#x3B2;-2-ulosides [<xref ref-type="bibr" rid="B5-molbank-2016-M916">5</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M916">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M916">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2016-M916">12</xref>]. In order to expand the synthetic applicability of the thus prepared branched mannosides we performed a series of transacetalizations affording products with variably orthogonally protected side chain formyl moieties. Thus, iodine-catalyzed [<xref ref-type="bibr" rid="B13-molbank-2016-M916">13</xref>] and acid-catalyzed transacetalization of <bold>3a</bold> with methanol and 1,3-dihydroxypropane, respectively, afforded dimethyl acetal <bold>3b</bold> (88%) and 1,3-dioxane <bold>3c</bold> (84%) (<xref ref-type="scheme" rid="molbank-2016-M916-sch001">Scheme 1</xref>). Acetylation of the tertiary 2-OH function under standard conditions [<xref ref-type="bibr" rid="B14-molbank-2016-M916">14</xref>] gave acetate <bold>3d</bold> in 81% yield. The subsequent partial hydrogenation of <bold>3a</bold> employing Lindlar&#x2019;s catalyst and H<sub>2</sub> [<xref ref-type="bibr" rid="B15-molbank-2016-M916">15</xref>] was initially performed in ethyl acetate as well as methanol. However, only minor hydrogenation of the starting material was observed in these solvents over several days. We attributed this finding to the sterical crowdedness of the alkyne moiety in <bold>3a</bold> caused by the bulky dibenzyl acetal and the other benzyl protecting groups in the glycoside. Changing the solvent to 1,4-dioxane had only a slightly accelerating effect. In contrast, using DMF as the solvent resulted in a smooth conversion of alkynes <bold>3a</bold>&#x2013;<bold>3d</bold> to afford the corresponding <italic>cis</italic>-alkenes <bold>4a</bold>&#x2013;<bold>4d</bold> in typically 2&#x2013;5 days and in good yields (81%&#x2013;93%). Although the partial hydrogenation of alkynes with Lindlar catalyst has been used frequently, solvent effects as well as effects of sterical crowdedness seem to be hardly assessable, and the conditions often need rigorous optimization regarding the individual reaction system [<xref ref-type="bibr" rid="B16-molbank-2016-M916">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2016-M916">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2016-M916">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2016-M916">19</xref>]. Therefore, we believe the protocol described above might be of further use for the partial hydrogenation of comparable branched alkyne systems. The vicinal alkene coupling constants <italic>J</italic><sub>7,8</sub> of glycosides <bold>4</bold> were found to be in a region between the anticipated values for <italic>cis</italic>- and <italic>trans</italic>-alkenes (<italic>J</italic><sub>7,8</sub> = 12.4 (<bold>4a</bold>), 12.4 (<bold>4b</bold>), 12.1 (<bold>4c</bold>), 12.4 (<bold>4d</bold>) Hz). Furthermore, 2D NMR experiments (H,H-NOESY) as well as X-ray structural analysis (<italic>vide infra</italic>) were utilized for additional structural elucidation and final proof of the structures of <bold>4a</bold>&#x2013;<bold>4d</bold>.</p>
+      <p>Originally we anticipated a synthetic route to 1,2-annulated glycosides based on the <italic>syn</italic>-selective catalytic osmoylation of <italic>cis</italic>-alkenes of type <bold>4</bold>. However, <bold>4a</bold>, <bold>4c</bold> and <bold>4d</bold>, respectively, appeared to be remarkably inert under various osmoylation conditions [<xref ref-type="bibr" rid="B20-molbank-2016-M916">20</xref>]. Even stoichiometric amounts of osmium tetroxide at elevated temperatures did not result in dihydroxylation of the double bond. For example, dibenzyl acetal <bold>4a</bold> did not react over several days when stirred at 70 &#xB0;C in acetone/water/<italic>t</italic>-butyl alcohol with 1.2 equivalents of osmium tetroxide and 5 vol % of pyridine as an additive. Dimethyl acetal <bold>4b</bold> only resulted in acetal hydrolysis and subsequent decomposition.</p>
+      <p>Both glycosides <bold>4a</bold> and <bold>4b</bold> but not glycosides <bold>4c</bold> and <bold>4d</bold> exhibited each remarkably complex <sup>1</sup>H and <sup>13</sup>C-NMR spectra in CDCl<sub>3</sub> (<xref ref-type="fig" rid="molbank-2016-M916-f002">Figure 2</xref>; for the full spectra see the Supporting Information). We attributed these unusually complex spectra to a conformational isomerism caused by constrained rotation of the single bonds adjacent to the bulky alkene moiety. In DMSO-<italic>d</italic><sub>6</sub> as the solvent compound <bold>4a</bold> showed a simpler NMR spectrum and no rotamers were observed. Similar distinct solvent dependencies of conformational isomerism have been reported in the literature [<xref ref-type="bibr" rid="B21-molbank-2016-M916">21</xref>]. In the case of compound <bold>4b</bold>, rotamers were still observable in DMSO-<italic>d</italic><sub>6</sub>, albeit to a much lesser extent. NMR measurements performed at elevated temperatures (50 &#xB0;C) failed because of decomposition. The structure of glycoside <bold>4a</bold> could finally be unambiguously confirmed by X-ray crystallography. Glycoside <bold>4a</bold> formed thin needles suitable for X-ray analysis by slow diffusion of <italic>n</italic>-pentane into a solution of the compound in ethyl acetate. The X-ray structure revealed compound <bold>4a</bold> to crystallize in the triclinic space group P1. The asymmetric unit contained four molecules of <bold>4a</bold>. An examination of the molecular structure (<xref ref-type="fig" rid="molbank-2016-M916-f003">Figure 3</xref>) confirmed the expected <sup>4</sup>C<sub>1</sub> conformation of the carbohydrate system. The olefinic bond length (C421-C422: 1.325 &#xC5;) and torsion angle (C402-C421-C422-C423: 3.0&#xB0;) were found to be as anticipated for an isolated <italic>cis</italic>-alkene. The sterically crowded side chain dibenzyl acetal moiety was found to shield both sides of the alkene double bond as illustrated by the torsion angles involving the acetal oxygen atoms and the alkene carbon atoms (C421-C422-C423-O40A: 94.3&#xB0; and C421-C422-C423-O421: &#x2212;144.1&#xB0;).</p>
+      <p>In conclusion, we have described a methodology for the straightforward synthesis of 2-<italic>C</italic>-alkynyl and 2-<italic>C</italic>-<italic>cis</italic>-alkenyl &#x3B2;-mannosides with an acetal-protected &#x3B3;-aldehyde functionality. The synthesis comprises the <italic>manno</italic>-selective alkynylation of a benzylated 2-uloside and subsequent partial hydrogenation of the intermediate branched alkynes utilizing Lindlar&#x2019;s catalyst. DMF as the solvent of choice was found to have a distinctly accelerating effect on the partial hydrogenation, and this finding could be of further use for the Lindlar hydrogenation of similar sterically crowded alkyne systems. The 2-<italic>C</italic>-branched carbohydrates reported here might be valuable building blocks for synthetic carbohydrate chemistry due to the potential orthogonality of the side chain carbonyl protection. For example, <italic>C</italic>-glycosyl-substituted (Z)-acrolein systems might be accessible from the described compounds.</p>
+    </sec>
+    <sec id="sec3-molbank-2016-M916">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M916">
+        <title>3.1. General Methods</title>
+        <p>NMR spectra were recorded with a Bruker Avance 400 spectrometer (Bruker BioSpin GmbH, Rheinstetten, Germany) and calibrated for the solvent signal (<sup>1</sup>H: CDCl<sub>3</sub>: 7.26 ppm; acetone-D<sub>6</sub>: 2.05 ppm; DMSO-<italic>d</italic><sub>6</sub>: 2.50 ppm; <sup>13</sup>C: CDCl<sub>3</sub>: 77.16 ppm; acetone-<italic>d</italic><sub>6</sub>: 29.84 ppm; DMSO-<italic>d</italic><sub>6</sub>: 39.52 ppm). For diastereotopic methylene protons, the signal appearing at higher chemical shift was designated H<italic>a</italic>, the one appearing at lower chemical shift values was designated H<italic>b</italic>. NMR spectra of compounds <bold>2</bold>-<bold>4</bold> are given in the Supporting Information. ESI-TOF-HRMS spectra were measured with a Bruker maXis 4 g spectrometer (Bruker Daltonik GmbH, Bremen, Germany), ESI-FTICR-HRMS spectra with a Bruker Apex II spectrometer and FAB-spectra with a Finnigan MAT spectrometer model TSQ 70 (Finnigan MAT, Bremen, Germany). Elemental analysis was performed with a HEKAtech Euro 3000 CHN analyzer (HEKAtech GmbH, Wegberg, Germany). Optical rotations were measured with a Perkin-Elmer Polarimeter 341 (Perkin Elmer Inc., Waltham, MA, USA) in a 10 cm cuvette at 20 &#xB0;C. Melting points were determined with a B&#xFC;chi Melting Point M-560 apparatus (B&#xDC;CHI Labortechnik GmbH, Essen, Germany). Reactions were monitored by TLC on Polygram Sil G/UV silica gel plates from Macherey-Nagel. Detection of spots was effected by charring with H<sub>2</sub>SO<sub>4</sub> (5% in EtOH), staining by spraying the plates with (NH<sub>4</sub>)<sub>2</sub>MoO<sub>4</sub>/Ce(SO<sub>4</sub>)<sub>2</sub> in diluted sulfuric acid or by inspection of the TLC plates under UV light. Preparative chromatography was performed on silica gel (0.032&#x2013;0.063 mm) from Macherey-Nagel (Macherey-Nagel GmbH &amp; Co. KG, D&#xFC;ren, Germany). All solvents were purchased in technical grade and purified by distillation. For the reactions, the following solvents were dried according to standard methods and stored over molecular sieves 4 &#xC5;: CH<sub>2</sub>Cl<sub>2</sub>, THF and DMF: P<sub>4</sub>O<sub>10</sub>; toluene: Na/benzophenone. Dess-Martin periodinane was prepared via the potassium bromate method [<xref ref-type="bibr" rid="B22-molbank-2016-M916">22</xref>]. Propiolaldehyde dibenzyl acetal was prepared according to the method published by Fliegel et al. [<xref ref-type="bibr" rid="B9-molbank-2016-M916">9</xref>]. The following reagents were commercially available and used without further purification: Lindlar catalyst, <italic>para</italic>-toluenesulfonic acid, acetic anhydride, 4-(dimethylamino)pyridine (Sigma-Aldrich Chemie, Munich, Germany), 1,3-dihydroxypropane (abcr, Karlsruhe, Germany), <italic>n</italic>-butyllithium (Fisher Scientific, Nidderrau, Germany), triethylamine (Th. Geyer, Renningen, Germany). All yields given below are isolated yields.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M916">
+        <title>3.2. X-ray Crystallography</title>
+        <p>Crystals of <bold>2</bold> were grown by slow diffusion of <italic>n</italic>-pentane into a solution of the compound in ethyl acetate/chloroform (2:1; 20 mg, 750 &#xB5;L) at ambient temperature. Crystals of <bold>4a</bold> were grown by diffusion of <italic>n</italic>-pentane into a solution of <bold>4a</bold> in ethyl acetate (20 mg, 500 &#xB5;L) at ambient temperature. X-ray data were collected on a Bruker SMART APEX II DUO diffractometer (Bruker AXS Advanced X-ray Solutions GmbH, Karlsruhe, Germany) using a Cu K&#x3B1; radiation (&#x3BB; = 1.54178 &#xC5;) or Mo K&#x3B1; radiation (&#x3BB; = 0.71073 &#xC5;). Corrections for absorption effects were applied using SADABS [<xref ref-type="bibr" rid="B23-molbank-2016-M916">23</xref>]. All structures were solved by direct methods using SHELXS and SHELXL for structure solution and refinement [<xref ref-type="bibr" rid="B24-molbank-2016-M916">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2016-M916">25</xref>,<xref ref-type="bibr" rid="B26-molbank-2016-M916">26</xref>]. Complete crystallographic data for the structural analysis have been deposited with the Cambridge Crystallographic Data, CCDC 1505647 (for <bold>2</bold>) and CCDC 1505648 (for <bold>4a</bold>). Copies of this information may be obtained free of charge from The Cambridge Crystallographic Data Centre.</p>
+      </sec>
+      <sec>
+        <title>3.3. Benzyl 3,4,6-Tri-O-benzyl-&#x3B2;-<sc>d</sc>-arabino-hexos-2-ulo-1,5-pyranoside <italic>(<bold>2</bold>)</italic></title>
+        <p>To a solution of glucoside <bold>1</bold> [<xref ref-type="bibr" rid="B7-molbank-2016-M916">7</xref>] (1.65 g; 3.05 mmol) in CH<sub>2</sub>Cl<sub>2</sub> (100 mL) Dess-Martin periodinane (2.85 g; 6.71 mmol) was added in portions over 15 min at r.t., and the mixture was stirred until TLC (toluene/ethyl acetate, 4:1) indicated complete transformation of the starting material (16 h). The solution was diluted with CH<sub>2</sub>Cl<sub>2</sub> (100 mL) and washed with water, three times with a 1:1 mixture of satd. aqueous NaHCO<sub>3</sub> solution and an aqueous 0.2 M Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> solution and with water (80 mL each). The organic layer was dried with Na<sub>2</sub>SO<sub>4</sub>, filtered and concentrated in vacuo. The crude product was suspended in toluene/acetone (20 mL/15 mL), and the suspension was purified by column chromatography (SiO<sub>2</sub>, toluene/acetone, 20:1) to afford pure ketone <bold>2</bold> (1.58 g; 2.92 mmol; 96%) as a colorless solid. Crystals suitable for X-ray structural analysis were obtained from <italic>n</italic>-pentane/ethyl acetate/chloroform. Analytical data were found to be in accordance with ref. [<xref ref-type="bibr" rid="B8-molbank-2016-M916">8</xref>]. Additional characterization data: <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 197.4 (C-2), 138.1, 137.8, 137.4, 136.2 (4 &#xD7; C<sub>Ar,quart</sub>), 128.6, 128.6, 128.5, 128.3, 128.2, 128.1, 128.0, 127.8 (20 &#xD7; C<sub>Ar</sub>), 97.4 (C-1), 85.8 (C-3), 80.1 (C-4), 75.9 (C-5), 75.0 ,73.6, 73.6, 70.3 (4 &#xD7; CH<sub>2</sub>Ph), 69.1 (C-6). Anal. calcd. for C<sub>34</sub>H<sub>34</sub>O<sub>6</sub>: C, 75.82; H, 6.36. Found: C, 75.54; H, 6.35.</p>
+      </sec>
+      <sec>
+        <title>3.4. Benzyl 3,4,6-Tri-O-benzyl-2-C-(3,3-dibenzyloxypropyn-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>3a</bold>)</italic></title>
+        <p>Propiolaldehyde dibenzyl acetal [<xref ref-type="bibr" rid="B9-molbank-2016-M916">9</xref>] (1.02 g; 4.04 mmol) was dissolved in anhydrous THF (35 mL) and cooled to &#x2212;80 &#xB0;C. <italic>n</italic>-Butyllithium (1.50 mL; 4.04 mmol; 2.7 M in <italic>n</italic>-heptane) was added dropwise and stirring at &#x2212;80 &#xB0;C was continued for 2.5 h. Next, 2-uloside <bold>2</bold> (1.98 g; 3.67 mmol) in 30 mL THF was added dropwise over 15 min. After stirring for another 15 min, the reaction was quenched by the addition of satd. aqueous NaCl solution (25 mL), allowed to warm to ambient temperature, diluted with chloroform (200 mL) and washed with water, satd. aqueous NH<sub>4</sub>Cl solution, satd. aqueous NaHCO<sub>3</sub> solution and water (100 mL each). Drying of the organic layer with Na<sub>2</sub>SO<sub>4</sub>, filtration, evaporation of the solvents and chromatographic purification (SiO<sub>2</sub>, toluene/acetone, 20:1) afforded alkyne <bold>3a</bold> (2.47 g; 3.12 mmol; 85%) as a colorless solid. An analytical sample was recrystallized from <italic>n</italic>-hexane/ethyl acetate. <italic>R</italic><sub>f</sub> = 0.65 (toluene/ethyl acetate, 4:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm1" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> +3.5 (<italic>c</italic> 1, CHCl<sub>3</sub>); m.p. 85 &#xB0;C (<italic>n</italic>-hexane/ethyl acetate); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.50&#x2013;7.21 (m, 30H, H<sub>Ar</sub>), 5.57 (s, 1H, H-9), 5.14 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.6 Hz, CH<sub>2</sub>Ph), 5.04 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.1 Hz, CH<sub>2</sub>Ph), 4.95 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.6 Hz, CH<sub>2</sub>Ph), 4.88 (d, 1H, <italic>J<sub>gem</sub></italic> = 11.1 Hz, CH<sub>2</sub>Ph), 4.85&#x2013;4.78 (m, 3H, CH<sub>2</sub>Ph), 4.74&#x2013;4.63 (m, 4H, CH<sub>2</sub>Ph), 4.59 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 4.56 (s, 1H, H-1), 3.91&#x2013;3.76 (m, 3H, H-4, H-6a, H-6b), 3.71 (d, 1H, <italic>J</italic><sub>3,4</sub> = 9.1 Hz, H-3), 3.52 (ddd, 1H, <italic>J</italic><sub>4,5</sub> = 9.9, <italic>J</italic><sub>5,6</sub> = 5.1, 1.9 Hz, H-5), 3.10 (bs, 1H, OH); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 138.2, 138.1, 137.8 137.4, 137.3, 136.7 (6 &#xD7; C<sub>Ar,quart</sub>), 128.5, 128.4, 128.4, 128.4, 128.3, 128.0, 128.0, 128.0, 127.9, 127.9, 127.8, 127.8, 127.7 (30 &#xD7; C<sub>Ar</sub>), 99.7 (C-1), 90.7 (C-9), 85.3 (C-3), 85.1 (C-7), 80.8 (C-8), 76.1 (CH<sub>2</sub>Ph), 75.3 (C-5), 75.2 (CH<sub>2</sub>Ph), 75.0 (C-4), 73.6 (CH<sub>2</sub>Ph), 71.6 (C-2), 70.8 (CH<sub>2</sub>Ph), 69.0 (C-6), 67.5 (C9-O-<italic>C</italic>H<sub>2</sub>Ph), 67.4 (C9-O-<italic>C</italic>H2Ph); HR-ESI-TOF calcd. for C<sub>51</sub>H<sub>50</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 813.3398 Found: 813.3384; Anal. calcd. for C<sub>51</sub>H<sub>50</sub>O<sub>8</sub>: C, 77.45; H, 6.37. Found: C, 77.21; H, 6.40.</p>
+      </sec>
+      <sec>
+        <title>3.5. Benzyl 3,4,6-Tri-O-benzyl-2-C-(3,3-dimethoxypropyn-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>3b</bold>)</italic></title>
+        <p>Dibenzyl acetal <bold>3a</bold> (301 mg; 0.38 mmol) was dissolved in anhydrous methanol (20 mL) and iodine (200 mg; 0.79 mmol) was added. The solution was stirred at 60 &#xB0;C for 48 h until TLC (toluene/ethyl acetate, 4:1) indicated complete consumption of the starting material. The reaction mixture was cooled to 0 &#xB0;C, treated with solid Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> (1.0 g), stirred for 15 min and allowed to warm to ambient temperature. Next, chloroform (100 mL) was added and the organic layer was washed with water (2 &#xD7; 30 mL) and brine (30 mL). The solution was dried with Na<sub>2</sub>SO<sub>4</sub>, filtered and concentrated in vacuo. Chromatographic purification of the residue (SiO<sub>2</sub>, toluene/acetone, 20:1) afforded <bold>3b</bold> (213 mg; 0.33 mmol; 88%) as a colorless oil. <italic>R</italic><sub>f</sub> = 0.30 (toluene/ethyl acetate, 4:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm2" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2212;6.7 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.48&#x2013;7.27 (m, 18H, H<sub>Ar</sub>), 7.22&#x2013;7.15 (m, 2H, H<sub>Ar</sub>), 5.18 (s, 1H, H-9), 5.08 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 5.00 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.1 Hz, CH<sub>2</sub>Ph), 4.90 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 4.85&#x2013;4.74 (m, 2H, CH<sub>2</sub>Ph), 4.70&#x2013;4.51 (m, 4H, CH<sub>2</sub>Ph, H-1), 3.86&#x2013;3.67 (m, 4H, H-4, H-6a, H-6b, H-3, visible coupling constants: <italic>J</italic><sub>3,4</sub> = 9.1 Hz), 3.52&#x2013;3.45 (m, 1H, H-5), 3.36 (s, 6H, 2 &#xD7; CH<sub>3</sub>), 3.04 (bs, 1H, OH); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 138.3, 138.1, 137.9 136.8 (4 &#xD7; C<sub>Ar,quart</sub>), 128.5, 128.4, 128.0, 128.0, 128.0, 127.9, 127.9, 127.7 (20 &#xD7; C<sub>Ar</sub>), 99.9 (C-1), 93.1 (C-9), 85.4 (C-3), 84.9 (C-7), 80.5 (C-8), 76.1 (CH<sub>2</sub>Ph), 75.4 (C-5), 75.2 (CH<sub>2</sub>Ph), 75.0 (C-4), 73.6 (CH<sub>2</sub>Ph), 71.7 (C-2), 70.9 (CH<sub>2</sub>Ph), 69.1 (C-6), 52.8 (CH<sub>3</sub>), 52.6 (CH<sub>3</sub>); HR-ESI-TOF calcd. for C<sub>39</sub>H<sub>42</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 661.2772 Found: 661.2777; Anal. calcd. for C<sub>39</sub>H<sub>42</sub>O<sub>8</sub>: C, 73.33; H, 6.63. Found: C, 73.04; H, 6.65.</p>
+      </sec>
+      <sec>
+        <title>3.6. Benzyl 3,4,6-Tri-O-benzyl-2-C-((1,3-dioxan-2-yl)ethynyl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>3c</bold>)</italic></title>
+        <p>To a solution of dibenzyl acetal <bold>3a</bold> (465 mg; 0.59 mmol) in anhydrous toluene (15 mL) was added 1,3-propanediol (426 &#xB5;L; 5.88 mmol) and a catalytic amount of <italic>p</italic>-toluenesulfonic acid hydrate (14 mg) and the solution was stirred at 100 &#xB0;C for 22 h until TLC (toluene/ethyl acetate, 4:1) indicated the complete transformation of the starting material. The reaction mixture was diluted with toluene (20 mL), washed with satd. aqueous NaHCO<sub>3</sub> solution (20 mL) and water (20 mL). After drying with Na<sub>2</sub>SO<sub>4</sub>, filtration and concentration in vacuo chromatographic purification of the residue (SiO<sub>2</sub>, toluene/ethyl acetate, 7:1) afforded <bold>3c</bold> (320 mg; 84%) as a colorless amorphous solid. <italic>R</italic><sub>f</sub> = 0.26 (toluene/ethyl acetate, 4:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm3" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2212;2.4 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.48&#x2013;7.42 (m, 4H, H<sub>Ar</sub>), 7.40&#x2013;7.26 (m, 14H, H<sub>Ar</sub>), 7.21&#x2013;7.16 (m, 2H, H<sub>Ar</sub>), 5.46 (s, 1H, H-9), 5.10 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 5.01 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.4 Hz, CH<sub>2</sub>Ph), 4.91 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 4.85&#x2013;4.76 (m, 2H, CH<sub>2</sub>Ph), 4.69&#x2013;4.52 (m, 4H, CH<sub>2</sub>Ph, H-1), 4.22&#x2013;4.15 (m, 2H, -C<italic>H<sub>2</sub></italic>-CH<sub>2</sub>-CH<sub>2</sub>-), 3.86&#x2013;3.69 (m, 6H, -CH<italic><sub>2</sub></italic>-CH<sub>2</sub>-C<italic>H<sub>2</sub></italic>-, H-6a, H-6b, H-4, H-3, visible coupling constants: <italic>J</italic><sub>3,4</sub> = 8.8 Hz), 3.48 (ddd, 1H, <italic>J</italic><sub>4,5</sub> = 9.8, <italic>J</italic><sub>5,6</sub> = 5.1, 2.0 Hz, H-5), 3.07 (bs, 1H, OH), 1.81&#x2013;1.67 (m, 2H, -CH<sub>2</sub>-C<italic>H<sub>2</sub></italic>-CH<sub>2</sub>-); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 138.3, 138.1, 137.9, 136.9 (4 &#xD7; C<sub>Ar,quart</sub>), 128.5, 128.4, 128.4, 128.3, 128.0, 127.9, 127.9, 127.8, 127.7 (20 &#xD7; C<sub>Ar</sub>), 99.9 (C-1), 90.2 (C-9), 85.4 (C-3), 85.1 (C-7), 80.7 (C-8), 76.1 (CH<sub>2</sub>Ph), 75.4 (C-5), 75.2 (CH<sub>2</sub>Ph), 75.0 (C-4), 73.6 (CH<sub>2</sub>Ph), 71.7 (C-2), 70.9 (CH<sub>2</sub>Ph), 69.1 (C-6), 64.6 (-<italic>C</italic>H<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-), 64.6 (-CH<sub>2</sub>-CH<sub>2</sub>-<italic>C</italic>H<sub>2</sub>-), 25.7 (-CH<sub>2</sub>-<italic>C</italic>H<sub>2</sub>-CH<sub>2</sub>-); HR-ESI-TOF calcd. for C<sub>40</sub>H<sub>42</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 673.2772 Found: 673.2777; Anal. calcd. for C<sub>40</sub>H<sub>42</sub>O<sub>8</sub>: C, 73.83; H, 6.51. Found: C, 73.67; H, 6.66.</p>
+      </sec>
+      <sec>
+        <title>3.7. Benzyl 2-O-Acetyl-3,4,6-tri-O-benzyl-2-C-(3,3-dibenzyloxypropyn-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>3d</bold>)</italic></title>
+        <p>A solution <bold>3a</bold> (394 mg; 0.50 mmol), acetic anhydride (4 mL), triethylamine (76 &#xB5;L; 0.548 mmol) and DMAP (122 mg; 1.0 mmol) in chloroform (4 mL) was heated to 65 &#xB0;C for 4 d until TLC (toluene/ethyl acetate, 4:1) indicated complete conversion of the starting material. The reaction mixture was diluted with chloroform (50 mL) and poured onto an ice-cold satd. aqueous NaHCO<sub>3</sub> solution (50 mL). The organic layer was washed with sat. aqueous NaHCO<sub>3</sub> solution and water (20 mL each), dried with Na<sub>2</sub>SO<sub>4</sub>, filtered, concentrated in vacuo and coevaporated with toluene (2 &#xD7; 10 mL). Chromatography of the residue (SiO<sub>2</sub>, toluene/acetone, 50:1) gave <bold>3d</bold> (335 mg; 0.40 mmol; 81%) as a colorless oil. <italic>R</italic><sub>f</sub> = 0.70 (toluene/ethyl acetate, 4:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm4" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2212;11.7 (c 0.85, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.43&#x2013;7.18 (m, 28H, H<sub>Ar</sub>), 7.15&#x2013;7.10 (m, 2H, H<sub>Ar</sub>), 5.53 (s, 1H, H-9), 5.30 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 4.97 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.4 Hz, CH<sub>2</sub>Ph), 4.87&#x2013;4.62 (m, 8H, CH<sub>2</sub>Ph), 4.56 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.1 Hz, CH<sub>2</sub>Ph), 4.51&#x2013;4.44 (m, 2H, H-1, CH<sub>2</sub>Ph), 3.79&#x2013;3.67 (m, 4H, H-6a, H-6b, H-3), 3.49 (ddd, 1H, <italic>J</italic><sub>4,5</sub> = 9.6, <italic>J</italic><sub>5,6</sub> = 4.5, 2.5 Hz, H-5), 2.18 (s, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 168.3 (C=O acetyl), 138.3, 138.2, 138.0, 137.6, 137.6, 136.7 (6 &#xD7; C<sub>Ar,quart</sub>), 128.7, 128.5, 128.5, 128.5, 128.4, 128.4, 128.3, 128.2, 128.0, 127.9, 127.8, 127.8, 127.7 (30 &#xD7; C<sub>Ar</sub>), 100.6 (C-1), 91.0 (C-9), 86.1 (C-3), 84.4 (C-7), 82.2 (C.8), 75.7 (C-5), 75.4 (CH<sub>2</sub>Ph), 2 &#xD7; 75.2 (CH<sub>2</sub>Ph, C-2), 74.7 (C-4), 73.6 (CH<sub>2</sub>Ph), 71.2 (CH<sub>2</sub>Ph), 69.2 (C-6), 67.6 (CH<sub>2</sub>Ph), 67.6 (CH<sub>2</sub>Ph), 22.2 (CH<sub>3</sub>); HR-ESI-TOF calcd. for C<sub>53</sub>H<sub>52</sub>O<sub>9</sub>Na [M + Na]<sup>+</sup>: 855.3504 Found: 855.3505; Anal. calcd. for C<sub>53</sub>H<sub>52</sub>O<sub>9</sub>: C, 76.42; H, 6.29. Found: C, 76.36; H, 6.32.</p>
+      </sec>
+      <sec>
+        <title>3.8. Lindlar Hydrogenations: General Procedure for the Synthesis of <italic><bold>4a</bold></italic>, <italic><bold>4b</bold></italic>, <italic><bold>4c</bold></italic> and <italic><bold>4d</bold></italic></title>
+        <p>Compound <bold>3</bold> was dissolved in anhydrous DMF and Lindlar catalyst was added. The suspension was stirred under an atmosphere of hydrogen (at a pressure slightly above atmospheric pressure evoked by a column of water) at r.t. until TLC (toluene/ethyl acetate, 4:1) indicated complete conversion of the starting material. The mixture was diluted with CH<sub>2</sub>Cl<sub>2</sub>. Filtration through a layer of Celite provided, after evaporation of the solvent and coevaporation with <italic>n</italic>-heptane, the <italic>cis</italic>-alkene <bold>4</bold>, typically in high purity. If necessary, chromatographic purification/recrystallization provided the further purified products.</p>
+      </sec>
+      <sec>
+        <title>3.9. Benzyl 3,4,6-Tri-O-benzyl-2-C-((Z)-3,3-dibenzyloxyprop-1-en-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>4a</bold>)</italic></title>
+        <p>A solution of <bold>3a</bold> (129 mg; 0.163 mmol) in anhydrous DMF (2 mL) was treated with Lindlar catalyst (64 mg; 50 wt %) for 48 h as described in the general procedure above. Chromatography (SiO<sub>2</sub>, toluene/acetone, 20:1) gave <bold>4a</bold> (120 mg; 0.151 mmol; 93%) as a colorless solid. An analytical sample was recrystallized from <italic>n</italic>-hexane/ethyl acetate. Crystals suitable for X-ray structural analysis were obtained from <italic>n</italic>-pentane/ethyl acetate. <italic>R</italic><sub>f</sub> = 0.76 (toluene/ethyl acetate, 4:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm5" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				<mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2212;34.0 (<italic>c</italic> 0.5, CHCl<sub>3</sub>); m.p. 95 &#xB0;C (<italic>n</italic>-hexane/ethyl acetate); <sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 7.40&#x2013;7.15 (m, 30H, H<sub>Ar</sub>), 6.19 (d, 1H, <italic>J</italic><sub>8,9</sub> = 6.8 Hz, H-9), 5.74 (dd, 1H, <italic>J</italic><sub>7,8</sub> = 12.4, <italic>J</italic><sub>8,9</sub> = 6.8 Hz, H-8), 5.67 (d, <italic>J</italic><sub>7,8</sub> = 12.4 Hz, H-7), 4.85&#x2013;4.40 (m, 13H, CH<sub>2</sub>Ph, H-1), 4.34 (bs, 1H, OH), 3.78&#x2013;3.63 (m, 4H, H-3, H-4, H-6a, H-6b), 3.58&#x2013;3.52 (m, 1H, H-5); <sup>13</sup>C-NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 138.5, 138.5, 138.4, 138.4, 138.3, 137.7 (6 &#xD7; C<sub>Ar,quart</sub>), 133.2 (C-7), 129.9 (C-8), 128.2, 128.2, 128.1, 128.1, 128.0, 127.7, 127.6, 127.6, 127.5, 127.4, 127.4, 127.3, 127.2, 127.2 (30 &#xD7; C<sub>Ar</sub>), 100.8 (C-1), 97.5 (C-9), 84.3 (C-3), 78.7 (C-2), 75.6 (C-4), 74.9 (CH<sub>2</sub>Ph), 74.5 (C-5), 74.1 (CH<sub>2</sub>Ph), 72.3 (CH<sub>2</sub>Ph), 70.2 (CH<sub>2</sub>Ph), 69.1 (C-6), 67.5 (CH<sub>2</sub>Ph), 66.3 (CH<sub>2</sub>Ph); HR-ESI-TOF calcd. for C<sub>51</sub>H<sub>52</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 815.3554 Found: 815.3544; Anal. calcd. for C<sub>51</sub>H<sub>52</sub>O<sub>8</sub>: C, 77.25; H, 6.61. Found: C, 77.31; H, 6.56.</p>
+      </sec>
+      <sec>
+        <title>3.10. Benzyl 3,4,6-Tri-O-benzyl-2-C-((Z)-3,3-dimethoxyprop-1-en-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>4b</bold>)</italic></title>
+        <p>Alkyne <bold>3b</bold> (95 mg; 0.149 mmol) in anhydrous DMF (3 mL) was treated with Lindlar catalyst (71 mg; 75 wt %) for 5 d as described in the general procedure above. After chromatographic purification (SiO<sub>2</sub>, toluene + 2% Et<sub>3</sub>N), alkene <bold>4b</bold> (87 mg; 0.136 mmol; 91%) was obtained as a colorless, amorphous solid. <italic>R</italic><sub>f</sub> = 0.23 (toluene + 2% Et<sub>3</sub>N); [&#x3B1;]<inline-formula>
+          <mml:math id="mm6" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2212;57.0 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: rotameric isomerism, significant signals: 5.69 (d, 1H, <italic>J</italic><sub>8,9</sub> = 6.3 Hz, H-9), 5.59 (d, 1H, <italic>J</italic><sub>7,8</sub> = 12.4 Hz, H-7), 5.54 (dd, 1H, <italic>J</italic><sub>7,8</sub> = 12.4, <italic>J</italic><sub>8,9</sub> = 6.3 Hz, H-8), 3.14 (s, 6H, 2 &#xD7; CH<sub>3</sub>); <sup>13</sup>C-NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: rotameric isomerism, significant signals: 133.2 (C-7), 129.8 (C-8), 100.7 (C-1), 99.0 (C-9), 74.5 (C-5), 52.8, 51.6 (2 &#xD7; CH<sub>3</sub>); HR-ESI-TOF calcd. for C<sub>39</sub>H<sub>44</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 663.2928 Found: 663.2933; Anal. calcd. for C<sub>39</sub>H<sub>44</sub>O<sub>8</sub>: C, 73.10; H, 6.92. Found: C, 72.97; H, 7.01.</p>
+      </sec>
+      <sec>
+        <title>3.11. Benzyl 3,4,6-Tri-O-benzyl-2-C-((Z)-2-(1,3-dioxan-2-yl)vinyl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>4c</bold>)</italic></title>
+        <p>Alkyne <bold>3c</bold> (239 mg; 0.367 mmol) in anhydrous DMF (5 mL) was treated with Lindlar catalyst (144 mg; 60 wt %) for 3 d as described in the general procedure above. Alkene <bold>4c</bold> (194 mg; 0.297 mmol; 81%) was obtained as a colorless, amorphous solid. <italic>R</italic><sub>f</sub> = 0.65 (toluene/ethyl acetate, 2:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm7" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2013;61.2 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.41&#x2013;7.25 (m, 18H, H<sub>Ar</sub>), 7.23&#x2013;7.17 (m, 2H, H<sub>Ar</sub>), 5.80 (d, 1H, <italic>J</italic><sub>8,9</sub> = 5.1 Hz, H-9), 5.70 (dd, 1H, <italic>J</italic><sub>7,8</sub> = 12.1, <italic>J</italic><sub>8,9</sub> = 5.2 Hz, H-8), 5.33 (d, 1H, <italic>J</italic><sub>7,8</sub> = 12.1 Hz, H-7), 4.93 (d, 1H, <italic>J<sub>gem</sub></italic> = 12.1 Hz, CH<sub>2</sub>Ph), 4.86 (d, 1H, <italic>J<sub>gem</sub></italic> = 10.9 Hz, CH<sub>2</sub>Ph), 4.76&#x2013;4.52 (m, 6H, CH<sub>2</sub>Ph), 4.26 (s, 1H, H-1), 4.10&#x2013;4.01 (m, 2H, -C<italic>H<sub>2</sub></italic>-CH<sub>2</sub>-CH<sub>2</sub>-), 3.92&#x2013;3.72 (m, 6H, H-4, OH, -CH<sub>2</sub>-CH<sub>2</sub>-<italic>CH<sub>2</sub></italic>-, H-6a, H-6b), 3.49&#x2013;3.43 (m, 1H, H-5), 3.40 (d, 1H, <italic>J</italic><sub>3,4</sub> = 9.1 Hz, H-3), 2.17&#x2013;2.03 (m, 1H, -CH<sub>2</sub>-C<italic>Ha</italic>Hb-<italic>C</italic>H<sub>2</sub>-), 1.31 (d, 1H, <italic>J<sub>vic</sub></italic> = 13.4 Hz, -CH<sub>2</sub>-CHa<italic>Hb</italic>-<italic>C</italic>H<sub>2</sub>-); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 138.5, 138.4, 138.0, 137.2 (4 &#xD7; C<sub>Ar,quart</sub>), 133.2 (C-7), 132.2 (C-8), 128.8, 128.5, 128.5, 128.4, 128.4, 128.3, 127.9, 127.9, 127.9, 127.8, 127.7 (20 &#xD7; C<sub>Ar</sub>), 99.8 (C-1), 98.5 (C-9), 84.6 (C-3), 78.7 (C-2), 2 &#xD7; 76.1 (C-4, CH<sub>2</sub>Ph), 75.5 (C-5), 75.2 (CH<sub>2</sub>Ph), 73.7 (CH<sub>2</sub>Ph), 70.4 (CH<sub>2</sub>Ph), 69.5 (C-6), 66.7 (<italic>C</italic>H<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-), 66.6 (CH<sub>2</sub>-CH<sub>2</sub>-<italic>C</italic>H<sub>2</sub>-), 25.6 (CH<sub>2</sub>-<italic>C</italic>H<sub>2</sub>-CH<sub>2</sub>-); HR-ESI-TOF calcd. for C<sub>40</sub>H<sub>44</sub>O<sub>8</sub>Na [M + Na]<sup>+</sup>: 675.2932 Found: 675.2928; Anal. calcd. for C<sub>40</sub>H<sub>44</sub>O<sub>8</sub>: C, 73.60; H, 6.79. Found: C, 73.65; H, 6.88.</p>
+      </sec>
+      <sec>
+        <title>3.12. Benzyl 2-O-Acetyl-3,4,6-tri-O-benzyl-2-C-((Z)-3,3-dibenzyloxyprop-1-en-1-yl)-&#x3B2;-<sc>d</sc>-mannopyranoside <italic>(<bold>4d</bold>)</italic></title>
+        <p>Alkyne <bold>3d</bold> (249 mg; 0.299 mmol) in anhydrous DMF (3 mL) was treated with Lindlar&#x2019;s catalyst (113 mg; 45 wt %) for 3 d as described in the general procedure above. Alkene <bold>4d</bold> (220 mg; 0.263 mmol; 88%) was obtained as a colorless oil. <italic>R</italic><sub>f</sub> = 0.78 (toluene/ethyl acetate, 2:1); [&#x3B1;]<inline-formula>
+          <mml:math id="mm8" display="block">
+            <mml:semantics>
+              <mml:mrow>
+                <mml:msubsup>
+				 <mml:mrow/>
+                  <mml:mi mathvariant="normal">D</mml:mi>
+                  <mml:mrow>
+                    <mml:mn>20</mml:mn>
+                  </mml:mrow>
+                </mml:msubsup>
+              </mml:mrow>
+            </mml:semantics>
+          </mml:math>
+        </inline-formula> &#x2013;18.6 (<italic>c</italic> 1, CHCl<sub>3</sub>); <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;: 7.35&#x2013;7.16 (m, 30H, H<sub>Ar</sub>), 6.21 (d, 1H, <italic>J</italic><sub>7,8</sub> = 12.4 Hz, H-7), 5.76 (dd, 1H, <italic>J</italic><sub>7,8</sub> = 12.4, <italic>J</italic><sub>8,9</sub> = 7.8 Hz, H-8), 5.67 (d, 1H, <italic>J</italic><sub>8,9</sub> = 7.8 Hz, H-9), 5.27 (s, 1H, H-1), 4.87 (d, 1H, <italic>J<sub>gem</sub></italic> = 11.6 Hz, CH<sub>2</sub>Ph), 4.65&#x2013;4.55 (m, 3H, CH<sub>2</sub>Ph), 4.51&#x2013;4.46 (m, 3H, CH<sub>2</sub>Ph), 4.44&#x2013;4.37 (m, 5H, CH<sub>2</sub>Ph), 4.95&#x2013;4.82 (m, 4H, H-5, H-3, H-6a, H-4), 3.77 (dd, 1H, <italic>J</italic><sub>6a,6b</sub> = 9.6, <italic>J</italic><sub>5,6b</sub> = 5.8 Hz, H-6b), 1.83 (s, 3H, CH<sub>3</sub>); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;: 169.4 (C=O acetyl), 138.5, 138.4, 138.2, 138.1, 138.0, 137.8 (6 &#xD7; C<sub>Ar,quart</sub>), 133.1 (C-7), 128.6, 128.5, 128.5, 128.4, 128.4, 128.3, 128.2, 127.9, 127.8, 127.8, 127.7, 127.6, 127.6, 127.5 (30 &#xD7; C<sub>Ar</sub>), 127.1 (C-8), 99.9 (C-1), 95.8 (C-9), 80.2 (C-2), 79.7 (C-3), 75.1 (*C-4), 74.9 (*C-5; assignments may be interchanged), 74.8 (CH<sub>2</sub>Ph), 73.3 (CH<sub>2</sub>Ph), 72.3 (CH<sub>2</sub>Ph), 71.1 (CH<sub>2</sub>Ph), 70.6 (C-6), 66.9 (CH<sub>2</sub>Ph), 65.2 (CH<sub>2</sub>Ph), 22.2 (CH<sub>3</sub>); HR-ESI-TOF calcd. for C<sub>53</sub>H<sub>54</sub>O<sub>9</sub>Na [M + Na]<sup>+</sup>: 857.3660 Found: 857.3663; Anal. calcd. for C<sub>53</sub>H<sub>54</sub>O<sub>9</sub>: C, 76.24; H, 6.52. Found: C, 76.14; H, 6.48.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M916">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>http://www.mdpi.com/1422-8599/2016/4/M916</uri>, NMR spectra of compounds <bold>2</bold>&#x2013;<bold>4</bold>.</p>
+		</app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We thank Petra Kr&#xFC;ger (elemental analysis), Dorothee Wistuba, Claudia Kruse, Peter Haiss (mass spectra) and C&#xE4;cilia Maichle-M&#xF6;ssmer (X-ray crystallography) and Gregor Lemanski for their contribution to this work.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Melchior Menzel, Daniel Borowski and Thomas Ziegler designed the experiments; Daniel Borowski performed the experiments and analyzed the data; Daniel Borowski and Thomas Ziegler wrote the paper.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M916">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chapleur</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ch&#xE9;tien</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Preparative Carbohydrate Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Hanessian</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>2007</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M916">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshimura</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Branched-chain Sugars</article-title>
+          <source>Adv. Carbohydr. Chem. Biochem.</source>
+          <year>1984</year>
+          <volume>42</volume>
+          <fpage>69</fpage>
+          <lpage>134</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M916">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Awan</surname>
+              <given-names>S.I.</given-names>
+            </name>
+            <name>
+              <surname>Werz</surname>
+              <given-names>D.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of 1,2-annulated and 1-spiroannulated carbohydrate derivatives: Recent developments</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2012</year>
+          <volume>20</volume>
+          <fpage>1846</fpage>
+          <lpage>1856</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2011.10.089</pub-id>
+          <pub-id pub-id-type="pmid">22136766</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M916">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vankar</surname>
+              <given-names>Y.D.</given-names>
+            </name>
+            <name>
+              <surname>Linker</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Developments in the Synthesis of 2-<italic>C</italic>-Branched and 1,2-Annulated Carbohydrates</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2015</year>
+          <volume>2015</volume>
+          <fpage>7633</fpage>
+          <lpage>7642</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.201501176</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M916">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borowski</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zweib&#xF6;hmer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2-Annulated sugars: Synthesis of polyhydroxylated 2,10-dioxadecalins with &#x3B2;-<italic>manno</italic> configuration</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2016</year>
+          <fpage>5248</fpage>
+          <lpage>5256</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.201601050</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M916">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Menzel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ziegler</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Vicinal Diketoses by Using a Metathesis-Hydroxylation-Oxidation Sequence</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2014</year>
+          <fpage>7658</fpage>
+          <lpage>7663</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.201403140</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M916">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nepogodev</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pakulski</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Zamojski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Holst</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Brade</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis and characterisation of 2-<italic>O</italic>-(6-<italic>O</italic>-<sc>l</sc>-<italic>glycero</italic>-&#x3B1;,&#x3B2;-<sc>d</sc>-<italic>manno</italic>-heptopyranosyl-&#x3B1;-<sc>d</sc>-glucopyranosyl)-&#x3B1;,&#x3B2;-<sc>d</sc>-glucopyranose</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>1992</year>
+          <volume>232</volume>
+          <fpage>33</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0008-6215(00)90992-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M916">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fokt</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Skora</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Conrad</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Madden</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Emmett</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Priebe</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title><sc>d</sc>-Glucose and <sc>d</sc>-mannose-based metabolic probes. Part 3: Synthesis of specifically deuterated <sc>d</sc>-glucose, <sc>d</sc>-mannose, and 2-deoxy-<sc>d</sc>-glucose</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>2013</year>
+          <volume>368</volume>
+          <fpage>111</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.carres.2012.11.021</pub-id>
+          <pub-id pub-id-type="pmid">23376241</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M916">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fliegel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Beaudet</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Watrelot-Bourdeau</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cornet</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Quintard</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of &#x3B1;-substituted &#x3B3;-alkoxyallylstannanes from &#x3B2;-tributylstannyl acrolein acetals: Scope of the method and primary rationalization of the obtained results</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>2005</year>
+          <volume>690</volume>
+          <fpage>659</fpage>
+          <lpage>673</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jorganchem.2004.10.022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M916">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmeichel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Redlich</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Grignard Reagent from 2-Bromomethyl-1,3-dioxolane, a Novel and Efficient <italic>d</italic><sup>2</sup>-Reagent: Synthesis of Branched Chain Carbohydrate Derivatives</article-title>
+          <source>Synthesis</source>
+          <year>1996</year>
+          <volume>1996</volume>
+          <fpage>1002</fpage>
+          <lpage>1006</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1996-4321</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M916">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ker&#xE9;kgy&#xE1;rt&#xF3;</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>R&#xE1;k&#xF3;</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>&#xC1;goston</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gy&#xE9;m&#xE1;nt</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Szurmai</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Factors Governing Stereoselectivity in Borohydride Reductions of &#x3B2;-<sc>d</sc>-Glycoside-2-uloses&#x2014;The Peculiar Effect of &#x201C;Activated&#x201D; DMSO</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2000</year>
+          <volume>2000</volume>
+          <fpage>3931</fpage>
+          <lpage>3935</lpage>
+          <pub-id pub-id-type="doi">10.1002/1099-0690(200012)2000:23&lt;3931::AID-EJOC3931&gt;3.0.CO;2-W</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M916">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cleator</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>McCusker</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Steltzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Grignard additions to 2-uloses: Synthesis of stereochemically pure tertiary alcohols</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>3077</fpage>
+          <lpage>3080</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2004.02.106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M916">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szarek</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Zamojski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ison</surname>
+              <given-names>E.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new, facile method for cleavage of acetals and dithioacetals</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1986</year>
+          <volume>27</volume>
+          <fpage>3827</fpage>
+          <lpage>3830</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)83890-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M916">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>H&#xF6;fle</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Steglich</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-Dialkylaminopyridines as Acylation Catalysts; III. Acylation of Sterically Hindered Alcohols</article-title>
+          <source>Synthesis</source>
+          <year>1972</year>
+          <volume>1972</volume>
+          <fpage>619</fpage>
+          <lpage>621</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1972-21955</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M916">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindlar</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dubuis</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium catalyst for partial reduction of acetylenes</article-title>
+          <source>Org. Synth.</source>
+          <year>1966</year>
+          <volume>46</volume>
+          <fpage>89</fpage>
+          <lpage>92</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M916">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Campos</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Journe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kowal</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Larsen</surname>
+              <given-names>R.D.</given-names>
+            </name>
+            <name>
+              <surname>Reider</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Controlled semihydrogenation of aminoalkynes using ethylenediamine as a poison of Lindlar's catalyst</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2001</year>
+          <volume>66</volume>
+          <fpage>3634</fpage>
+          <lpage>3635</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo015514a</pub-id>
+          <pub-id pub-id-type="pmid">11348162</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M916">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sydnes</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Holmelid</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kvernenes</surname>
+              <given-names>O.H.</given-names>
+            </name>
+            <name>
+              <surname>Valdersnes</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hodne</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Boman</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stereospecific synthesis of allylic and homoallylic alcohols from functionalized propargylic alcohols</article-title>
+          <source>Arkivoc</source>
+          <year>2008</year>
+          <volume>2008</volume>
+          <fpage>242</fpage>
+          <lpage>268</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M916">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garc&#xED;a-Mota</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>G&#xF3;mez-D&#xED;az</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Novell-Leruth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Vargas-Fuentes</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bellarosa</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bridier</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>P&#xE9;rez-Ram&#xED;rez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF3;pez</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>A density functional theory study of the &#x2018;mythic&#x2019; Lindlar hydrogenation catalyst</article-title>
+          <source>Theor. Chem. Acc.</source>
+          <year>2011</year>
+          <volume>128</volume>
+          <fpage>663</fpage>
+          <lpage>673</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00214-010-0800-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2016-M916">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siau</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stereoselective Synthesis of Z-Alkenes</article-title>
+          <source>Top. Curr. Chem.</source>
+          <year>2012</year>
+          <volume>327</volume>
+          <fpage>33</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="pmid">22392480</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2016-M916">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erdik</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>K&#xE2;hya</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Da&#x15F;kapan</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Accelerating Ligands for Osmium Tetraoxide Catalyzed Racemic Dihydroxylation of &#x3B1;-Pinene</article-title>
+          <source>Synth. Commun.</source>
+          <year>1998</year>
+          <volume>28</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919808005067</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2016-M916">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abraham</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Tormena</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Rittner</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Conformational Analysis. Part 35. NMR, solvation and theoretical investigation of rotational isomerism in methyl fluoroacetate and methyl difluoroacetate</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 2</source>
+          <year>2001</year>
+         <fpage>815</fpage>
+          <lpage>820</lpage>
+          <pub-id pub-id-type="doi">10.1039/b008453k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2016-M916">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boeckmann</surname>
+              <given-names>R.K.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mullins</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Dess-Martin Periodinane: 1,1,1-Triacetoxy-1,1-dihydro-1,2-benziodoxol-3(1H)-one</article-title>
+          <source>Org. Synth.</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>141</fpage>
+          <lpage>146</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2016-M916">
+        <label>23.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXS 97, Program for the Solution of Crystal Structures</source>
+		   <publisher-name>University of Goettingen</publisher-name>
+          <publisher-loc>Goettingen, Germany</publisher-loc>
+          <year>1997</year>
+		  <comment><italic>Acta Crystallogr. Sect. B</italic> <bold>2006</bold>, <italic>B62</italic>, 912&#x2013;918</comment> 
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2016-M916">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase Annealing in <italic>SHELX</italic>-90: Direct Methods for Larger Structures</article-title>
+          <source>Acta Crystallogr. Sect. A</source>
+          <year>1990</year>
+          <volume>46</volume>
+          <fpage>467</fpage>
+          <lpage>473</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0108767390000277</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2016-M916">
+        <label>25.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXL, Bruker Analytical X-ray Division; Bruker Analytical X-ray</source>
+          <publisher-name>Instruments, Inc.</publisher-name>
+          <publisher-loc>Madison, WI, USA</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2016-M916">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>H&#xFC;bschle</surname>
+              <given-names>C.B.</given-names>
+            </name>
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Dittrick</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>ShelXle</italic>: A Qt graphical user interface for <italic>SHELXL</italic></article-title>
+          <source>J. Appl. Crystallogr.</source>
+          <year>2011</year>
+          <volume>44</volume>
+          <fpage>1281</fpage>
+          <lpage>1284</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0021889811043202</pub-id>
+          <pub-id pub-id-type="pmid">22477785</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Scheme</title>
+      <fig id="molbank-2016-M916-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Molecular structure of <bold>2</bold>. Hydrogen atoms as well as a disorder involving the <italic>O</italic>51 benzyl group are omitted for clarity. Ellipsoids are drawn at a 50% probability level. Red = oxygen, gray = carbon.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M916-g001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M916-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M916-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>C</italic>-2-alkynylated and <italic>cis</italic>-alkenylated mannosides via oxidation, alkynylation and partial hydrogenation. (<bold>a</bold>) Dess-Martin Periodinane, CH<sub>2</sub>Cl<sub>2</sub>, 20 &#xB0;C, 18 h, 96%; (<bold>b</bold>) propiolaldehyde dibenzyl acetal, <italic>n</italic>-BuLi, THF, &#x2212;80 &#xB0;C, 15 min, 85%; (<bold>c</bold>) I<sub>2</sub> 0.04 M in MeOH, 60 &#xB0;C, 48 h, 88%; (<bold>d</bold>) 1,3-dihydroxypropane, <italic>p</italic>-TosOH cat., toluene, 100 &#xB0;C, 22 h, 84%; (<bold>e</bold>) Ac<sub>2</sub>O, Et<sub>3</sub>N, DMAP, chloroform, 65 &#xB0;C, 4 d, 81%; (<bold>f</bold>) H<sub>2</sub>, Lindlar catalyst, DMF, 20 &#xB0;C, 2&#x2013;5 days, 81%&#x2013;93%; DMAP = 4-dimethylaminopyridine.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M916-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M916-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p><sup>13</sup>C-NMR spectra of <bold>4a</bold> in CDCl<sub>3</sub> (<bold>a</bold>) and DMSO-<italic>d</italic><sub>6</sub>; (<bold>b</bold>) in the range 80&#x2013;115 ppm.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M916-g002.tif"/>
+      </fig>
+      <fig id="molbank-2016-M916-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Molecular structure of <bold>4a</bold>. Hydrogen atoms are omitted for clarity. Ellipsoids are drawn at a 50% probability level. Red = oxygen, gray = carbon.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M916-g003.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

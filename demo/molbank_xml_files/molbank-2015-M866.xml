@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M866</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M866</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3,4-Dihydro-3-(2-hydroxyethyl)-4-(nitromethyl)quinazolin-2(1<italic>H</italic>)-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sawant</surname>
+            <given-names>Rajiv T.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stevens</surname>
+            <given-names>Marc Y.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Odell</surname>
+            <given-names>Luke R.</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M866" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M866">Organic Pharmaceutical Chemistry, Department of Medicinal Chemistry, Uppsala Biomedical Center, Uppsala University, P. O. Box 574, SE-751 23 Uppsala, Sweden; E-Mails: <email>rajiv.sawant@orgfarm.uu.se</email> (R.T.S.); <email>marc.stevens@orgfarm.uu.se</email> (M.Y.S.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M866"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>luke.odell@orgfarm.uu.se</email>; Tel.: +46-18-471-4297.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>3</issue>
+      <elocation-id>M866</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>04</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>07</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A one-pot, direct synthesis of 3,4-dihydro-3-(2-hydroxyethyl)-4-(nitromethyl)quinazolin-2(1<italic>H</italic>)-one from methyl (2-formylphenyl)carbamate, ethanolamine and nitromethane in AcOH is reported. The reaction proceeds via a cascade three-component <italic>aza</italic>-Henry reaction under microwave irradiation and the title compound was characterized by <sup>1</sup>H NMR, <sup>13</sup>C NMR and ESI/MS analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>multicomponent reaction</kwd>
+        <kwd><italic>aza</italic>-Henry</kwd>
+        <kwd>3,4-dihydroquinazolinone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The 3,4-dihydroquinazolinone structural motif is found in a number of pharmacologically active compounds that exhibit a broad spectrum of biological properties [<xref ref-type="bibr" rid="B1-molbank-2015-M866">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M866">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M866">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M866">4</xref>]. They have also been used as building blocks in the synthesis of 2-substituted 3,4-dihydroquinazolinones [<xref ref-type="bibr" rid="B5-molbank-2015-M866">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M866">6</xref>]. The <italic>aza</italic>-Henry (or nitro-Mannich) reaction is one of the most important tools for carbon&#x2013;carbon bond formation that allows easy access to &#x3B2;-nitroamine derivatives, which are valuable building blocks in organic synthesis [<xref ref-type="bibr" rid="B7-molbank-2015-M866">7</xref>]. Wang and co-workers disclosed a thiourea-catalyzed asymmetric <italic>aza</italic>-Henry reaction with cyclic trifluoromethyl ketimines and extended the protocol for the synthesis of the anti-HIV drug, DPC-083 [<xref ref-type="bibr" rid="B8-molbank-2015-M866">8</xref>]. We realized that this important method has a limited scope for <italic>N</italic>-3 substitution and requires preparation and isolation of an imine intermediate prior to the <italic>aza</italic>-Henry reaction. To address this issue, we recently reported a microwave-assisted multicomponent protocol for the metal-free synthesis of substituted 3,4-dihydroquinazolinones using a novel cascade imine/cyclization/<italic>aza</italic>-Henry reaction [<xref ref-type="bibr" rid="B9-molbank-2015-M866">9</xref>]. As part of an ongoing project focusing on the development of an efficient synthesis of 3,4-dihydroquinazolinones, we required access to 3-hydroxyethyl 3,4-dihydroquinazolinone (<bold>2</bold>). Our proposed direct synthesis of 3,4-dihydro-3-(2-hydroxyethyl)-4-(nitromethyl)quinazolin-2(1<italic>H</italic>)-one (<bold>2</bold>) was based on our cascade <italic>aza</italic>-Henry protocol. Herein, we report a one-pot three-component procedure for the synthesis of <bold>2</bold> using readily available methyl (2-formylphenyl)carbamate (<bold>1</bold>), ethanolamine and nitromethane under microwave irradiation (<xref ref-type="scheme" rid="molbank-2015-M866-sch001">Scheme 1</xref>).</p>
+      <p>We initiated our synthesis of 3,4-dihydroquinazolinone <bold>2</bold> by a one-pot three step reaction between methyl (2-formylphenyl)carbamate (<bold>1</bold>), ethanolamine and nitromethane in acetic acid at 130 &#xB0;C for 10 min under microwave irradiation. This afforded the desired alcohol product <bold>2</bold> in 56% yield along with 10% of an acetate side product due to the competing acylation reaction of alcohol <bold>2</bold> with acetic acid (<xref ref-type="scheme" rid="molbank-2015-M866-sch001">Scheme 1</xref>). The ester side product may be subsequently transformed into the title product by simple basic hydrolysis. The reaction proceeds through the following three step cascade reaction sequence: (a) formation of an imine from ethanolamine and methyl (2-formylphenyl)carbamate; (b) concomitant intramolecular cyclization with carbamate to afford cyclic iminium ion <bold>I</bold>; and (c) finally, addition of nitromethane to iminium ion <bold>I</bold> gives the <italic>aza</italic>-Henry product <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2015-M866-sch001">Scheme 1</xref>). In summary, we report the direct synthesis and spectral characterization of a novel 3,4-dihydroquinazolinone.</p>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>General</title>
+        <p>All reagents and chemicals were purchased and used as such without further purification unless otherwise stated. <sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded on a Varian Mercury Plus at 400 and 100 MHz (Varian, Inc., Palo Alto, CA, USA), respectively, using CDCl<sub>3</sub> as the solvent. Chemical shifts (&#x3B4;) are reported in ppm and referenced indirectly to TMS via the solvent (or residual solvent) signal. Microwave reactions were performed in an Initiator single mode reactor producing controlled irradiation at 2450 MHz and the temperature was monitored via the built-in online infrared sensor. Microwave-mediated reactions were performed in sealed Pyrex process vials designed for 2&#x2013;5 mL reaction volumes. LC/MS (Dionex Corporation, Sunnyville, CA, USA) was performed on an instrument equipped with a CP-Sil 8 CB capillary column (50 &#xD7; 3.0 mm, particle size 2.6 &#x3BC;m, pore size 100 &#xC5;) operating at an ionization potential of 70 eV using a CH<sub>3</sub>CN/H<sub>2</sub>O gradient (0.05% HCOOH). Accurate mass values were determined on a mass spectrometer equipped with an electrospray and 7-T hybrid ion trap (LTQ) detector.</p>
+      </sec>
+      <sec>
+        <title>Experimental Procedure for the Preparation of 3,4-Dihydro-3-(2-hydroxyethyl)-4-(nitromethyl)quinazolin-2(1H)-one <italic>(<bold>2</bold>)</italic></title>
+        <p>A 2&#x2013;5 mL Pyrex process vial was charged with aldehyde <bold>1</bold> (150 mg, 0.837 mmol), ethanolamine (102 mg, 1.67 mmol), nitromethane (153 mg, 2.51 mmol) and acetic acid (1 mL). The vial was sealed and subjected to microwave irradiation at 130 &#xB0;C for 10 min. After being cooled to room temperature, the reaction mixture was concentrated <italic>in vacuo</italic> and purified by silica gel chromatography (90% EtOAc in <italic>n</italic>-pentane), to give compound <bold>2</bold> as a white solid (117 mg, 56%).</p>
+        <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 7.51 (s, 1H), 7.29 (td, <italic>J</italic> = 7.7, 1.5 Hz, 1H), 7.15&#x2013;7.08 (m, 1H), 7.02 (td, <italic>J</italic> = 7.5, 1.0 Hz, 1H), 6.81 (d, <italic>J</italic> = 7.9 Hz, 1H), 5.26 (dd, <italic>J</italic> = 7.4, 5.9 Hz, 1H), 4.77 (dd, <italic>J</italic> = 12.0, 5.9 Hz, 1H), 4.51 (dd, <italic>J</italic> = 12.0, 7.4 Hz, 1H), 3.93&#x2013;3.80 (m, 3H), 3.59&#x2013;3.48 (m, 1H).</p>
+        <p><sup>13</sup>C NMR (101 MHz, CDCl<sub>3</sub>) &#x3B4; 156.4, 136.5, 130.1, 126.1, 123.2, 117.6, 114.6, 77.6, 62.2, 59.7, 51.0.</p>
+        <p>HRMS (ESI): Calcd for C<sub>11</sub>H<sub>14</sub>N<sub>3</sub>O<sub>4</sub> [M + H]<sup>+</sup> <italic>m</italic>/<italic>z</italic> 252.0984, found <italic>m</italic>/<italic>z</italic> 252.0991.</p>
+        <p>Copies of the <sup>1</sup>H, <sup>13</sup>C NMR and LCMS spectra for compound <bold>2</bold> are available in the <xref ref-type="app" rid="app1-molbank-2015-M866">supplementary information</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2015-M866">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2015-M866-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M866-s001.pdf">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M866-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M866-s002-mod.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M866-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M866-s002.mol">
+	   <label>Supplementary File 3</label>
+	   </supplementary-material>
+	  </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank the Faculty of Pharmacy, Uppsala University and the Knut and Alice Wallenberg Foundation for financial support.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>R.T.S and M.Y.S performed the experimental work and all authors designed, wrote and edited the paper.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M866">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corbett</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Rodgers</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Gearhart</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Magnus</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Bacheler</surname>
+              <given-names>L.T.</given-names>
+            </name>
+            <name>
+              <surname>Diamond</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Jeffrey</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Klabe</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Cordova</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Inhibition of Clinically Relevant Mutant Variants of HIV-1 by Quinazolinone Non-Nucleoside Reverse Transcriptase Inhibitors</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>43</volume>
+          <fpage>2019</fpage>
+          <lpage>2030</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm990580e</pub-id>
+          <pub-id pub-id-type="pmid">10821714</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M866">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Bajpai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Pandey</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>V.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Pharmacological Study of Novel Pyrido-quinazolone Analogues as Anti-fungal, Antibacterial, and Anticancer Agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2006</year>
+          <volume>16</volume>
+          <fpage>4581</fpage>
+          <lpage>4585</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2006.06.015</pub-id>
+          <pub-id pub-id-type="pmid">16806924</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M866">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hasegawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Muraoka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Matsui</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kojima</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Discovery of a Novel Potent Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger Inhibitor: Design, Synthesis and Structure-Activity Relationships of 3,4-Dihydro-2(1<italic>H</italic>)-Quinazolinone Derivatives</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2003</year>
+          <volume>13</volume>
+          <fpage>3471</fpage>
+          <lpage>3475</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(03)00744-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M866">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barrow</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Rittle</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Reger</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Bondiskey</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>McGaughey</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Bock</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Hartman</surname>
+              <given-names>G.D.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ballard</surname>
+              <given-names>J.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Discovery of 4,4-Disubstituted Quinazolin-2-ones as T-Type Calcium Channel Antagonists</article-title>
+          <source>ACS Med. Chem. Lett.</source>
+          <year>2010</year>
+          <volume>1</volume>
+          <fpage>75</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1021/ml100004r</pub-id>
+          <pub-id pub-id-type="pmid">24900180</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M866">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kosasayama</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Higashi</surname>
+              <given-names>K.I.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclic Guanidines VI. Synthesis of Hypoglycemic Tricyclic Guanidines</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1979</year>
+          <volume>27</volume>
+          <fpage>880</fpage>
+          <lpage>892</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.27.880</pub-id>
+          <pub-id pub-id-type="pmid">476864</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M866">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>M.Y.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic Studies on Quinazoline Derivatives II. The Reactions of 2-Trichloro-and 2-Trifluoroacetamidobenzophenones with Primary Amines</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1981</year>
+          <volume>29</volume>
+          <fpage>2135</fpage>
+          <lpage>2156</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.29.2135</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M866">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noble</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitro-Mannich Reaction</article-title>
+          <source>Chem. Rev.</source>
+          <year>2013</year>
+          <volume>113</volume>
+          <fpage>2887</fpage>
+          <lpage>2939</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr300272t</pub-id>
+          <pub-id pub-id-type="pmid">23461586</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M866">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bifunctional Cinchona Alkaloid Thiourea Catalyzed Highly Efficient, Enantioselective <italic>Aza</italic>-Henry Reaction of Cyclic Trifluoromethyl Ketimines: Synthesis of Anti-HIV Drug DPC 083</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2011</year>
+          <volume>50</volume>
+          <fpage>11773</fpage>
+          <lpage>11776</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.201105970</pub-id>
+          <pub-id pub-id-type="pmid">21989976</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M866">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>M.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wieckowski</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sawant</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Odell</surname>
+              <given-names>L.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Microwave-Assisted Multicomponent Synthesis of Substituted 3,4-Dihydroquinazolinones</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2015</year>
+          <volume>13</volume>
+          <fpage>2044</fpage>
+          <lpage>2054</lpage>
+          <pub-id pub-id-type="doi">10.1039/C4OB02417F</pub-id>
+          <pub-id pub-id-type="pmid">25518892</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M866-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M866-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 3,4-dihydroquinazolinone <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M866-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

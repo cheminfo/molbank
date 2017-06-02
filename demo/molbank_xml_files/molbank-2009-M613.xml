@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M613</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M613</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of a 2-Furylpyrazoline Derivative Using Microwave Irradiation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jothikrishnan</surname>
+            <given-names>Balapragalathan Thappali</given-names>
+          </name>
+          <xref rid="c1-molbank-2009-M613" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shafi</surname>
+            <given-names>Suban Syed</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M613">Department of Chemistry, Islamiah College, Vaniyambadi-635 751, Tamilnadu, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M613"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>bala.pragalathan@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>08</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M613</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>05</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>07</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A simple method for the synthesis of pyrazoline derivative containing furan moiety was developed. Thus, 5-(6-bromo-1,3-benzodioxol-5-yl)-3-(2-furyl)-1-(3-methyl-phenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole was synthesized using microwave irradiation and it was characterized by NMR, IR, and LCMS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>(2Z)-3-(6-bromo-1,3-benzodioxol-5-yl)-1-(2-furyl) prop-2-en-1-one</kwd>
+        <kwd>3-tolylhydrazine hydrochloride</kwd>
+        <kwd>microwave</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+     <p>Aryl furylpyrazolines exhibit antidepressant and anticonvulsant activities [<xref ref-type="bibr" rid="B1-molbank-2009-M613">1</xref>]. Pyrazolines can be synthesized by the reaction between chalcones (<bold>1</bold>) and arylhydrazines (<bold>2</bold>) using catalytic amounts of acetic acid in ethanol  as solvent under reflux conditions [<xref ref-type="bibr" rid="B2-molbank-2009-M613">2</xref>] and acetic acid as a solvent [<xref ref-type="bibr" rid="B3-molbank-2009-M613">3</xref>]. In some cases bases like K<sub>2</sub>CO<sub>3</sub> [<xref ref-type="bibr" rid="B4-molbank-2009-M613">4</xref>] and Ba(OH)<sub>2</sub> [<xref ref-type="bibr" rid="B5-molbank-2009-M613">5</xref>] were employed. We are hereby reporting a simple method for synthesizing an aryl furylpyrazoline by a non-conventional method, using microwave conditions, which does not need any catalyst. The work-up procedure is simple and convenient.</p>
+	 <p><disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M613-i001.tif"/>
+        </disp-formula></p>
+      <p>A solution of (<bold>1</bold>) (0.321 g, 1 mmol) which was prepared by the reaction between 6-Bromopiperonal and 2-Acetylfuran and (<bold>2</bold>) (0.158g,1mmol) in absolute ethanol (5 ml) was placed in a microwave Pyrex vial and irradiated with 200W for 10 min at 150 &#xB0;C (final temperature). The reaction mixture was cooled to room temperature and concentrated. The solid obtained was washed with a little amount of hexane, filtered and dried under vacuum to give a brown-coloured solid (<bold>3</bold>).</p>
+      <p>Yield = 80%</p>
+      <p>M.p. = 138 &#xB0;C</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 7.53 (d, <italic>J</italic> = 1.6 Hz, 1H), 7.10 (t, <italic>J</italic> = 7.6 Hz, 2H), 7.03 (s, 1H), 6.71 (s, 1H), 6.66 (t, <italic>J</italic> = 7.6 Hz, 2H), 6.59 (d, <italic>J</italic> = 3.6 Hz, 1H), 6.50-6.49 (m, 1H), 5.93 (s, 2H), 5.53 (q, <italic>J</italic> = 10.6 Hz, 1H), 3.91-3.84 (m, 1H), 2.95 (dd, <italic>J</italic> = 6.8 Hz, 17.6 Hz, 1H), 2.33 (s, 3H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): 148.22, 148.03, 147.92, 143.95, 143.51, 139.05, 138.98, 134.14, 128.86, 120.48, 114.15, 112.90, 111.73, 111.68, 110.17, 109.79, 107.33, 101.86, 63.01, 41.87 and 21.74.</p>
+      <p>MS: m/z (ES), 426 [(M+1)<sup>+</sup>].</p>
+      <p>IR: cm<sup>-1</sup> = 3226, 2903, 2359, 1598, 1582, 1409, 1364, 1318, 1240, 1159, 1109, 1035, 1006, 932, 870, 852, 752, 690, 668, 596, 538.</p>
+      <p>Elemental Analysis: Calculated for C<sub>21</sub>H<sub>17</sub>BrN<sub>2</sub>O<sub>3</sub> (425.27): C, 59.3%; H, 4.03%; N, 6.59%.</p>
+      <p>Found: C, 58.05%; H, 4.18%; N, 6.26%.</p>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2009-M613">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M613-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M613-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M613-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M613-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank Syngene Intl. Ltd. Bangalore, India for providing the analytical facilities to carryout the research work and also thank Islamiah College for providing all other facilities.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M613">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD6;zdemir</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Kandilci</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;m&#xFC;sel</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Cal&#x131;s</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Bilgin</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and studies on antidepressant and anticonvulsant activities of some 3-(2-furyl)pyrazoline derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>373</fpage>
+          <lpage>379</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2006.09.006</pub-id>
+          <pub-id pub-id-type="pmid">17069933</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M613">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holla</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Akberali</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>Shivananda</surname>
+              <given-names>M.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on arylfuran derivatives. Part X. Synthesis and antibacterial properties of arylfuryl-2-pyrazolines</article-title>
+          <source>Il Farmaco</source>
+          <year>2000</year>
+          <volume>55</volume>
+          <fpage>256</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="pmid">10966156</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M613">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Hasan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some new bioactive 1-N-substituted 3,5-diaryl-2-pyrazolines</article-title>
+          <source>Heterocyclic Commun.</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <fpage>131</fpage>
+          <lpage>138</lpage>
+          <pub-id pub-id-type="doi">10.1515/HC.2007.13.2-3.131</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M613">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kidwai</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kukreja</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Thakur</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>K<sub>2</sub>CO<sub>3</sub>-mediated regioselective synthesis of isoxazoles and pyrazolines</article-title>
+          <source>Lett. Org. Chem.</source>
+          <year>2006</year>
+          <volume>3</volume>
+          <fpage>135</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.2174/157017806775224170</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M613">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdel-Magid</surname>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Koskinen</surname>
+            </name>
+          </person-group>
+          <article-title>Barium Hydroxide</article-title>
+          <source>e-EROS Encyclopedia of Reagents for Organic Synthesis</source>
+          <publisher-name>John Wiley &amp; Sons, Ltd</publisher-name>
+          <publisher-loc>USA</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

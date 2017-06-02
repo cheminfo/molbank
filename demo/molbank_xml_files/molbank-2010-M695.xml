@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M695</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M695</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Methyl-3-{4-[2-(1<italic>H</italic>-tetrazol-5-yl)ethylamino]phenyl}-3<italic>H</italic>-quinazolin-4-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arulmurugan</surname>
+            <given-names>Subramaniyan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kavitha</surname>
+            <given-names>Helen P.</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M695" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M695">Research Department of Chemistry, SRM  University, Ramapuram Campus, Chennai-89, Tamil Nadu, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M695"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>helenkavithap@yahoo.co.in</email>; Tel.: +91 44 43923038.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>09</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>3</issue>
+      <elocation-id>M695</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>09</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>This present work aims at synthesizing a novel tetrazole from quinazolinone. 3-(4-Aminophenyl)-2-methyl-3<italic>H</italic>-quinazolin-4-one is converted into a nitrile by reacting it with acrylonitrile and triton B. The nitrile on treatment with NaN<sub>3</sub>, NH<sub>4</sub>Cl and DMF yielded the corresponding tetrazole. The tetrazole obtained was characterized by IR, <sup>1</sup>H NMR, EI-MS and elemental analysis. The compound was screened for antimicrobial activity against <italic>Staphylococcus aureus, Escherichia coli, Candida albicans</italic> and <italic>Aspergillus niger</italic>.The results of the study show that the compound possesses fairly good antimicrobial activity against the test organisms.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>quinazolinone</kwd>
+        <kwd>tetrazole</kwd>
+        <kwd>antimicrobial</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M695" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Quinazolinones are versatile nitrogen containing heterocyclic compounds, possessing a broad spectrum of biological and pharmacological activities such as hypotensive [<xref ref-type="bibr" rid="B1-molbank-2010-M695">1</xref>], anticancer [<xref ref-type="bibr" rid="B2-molbank-2010-M695">2</xref>], anti-HIV [<xref ref-type="bibr" rid="B3-molbank-2010-M695">3</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B4-molbank-2010-M695">4</xref>], analgesic [<xref ref-type="bibr" rid="B5-molbank-2010-M695">5</xref>], antiviral [<xref ref-type="bibr" rid="B6-molbank-2010-M695">6</xref>], antitubercular [<xref ref-type="bibr" rid="B7-molbank-2010-M695">7</xref>], antimicrobial [<xref ref-type="bibr" rid="B8-molbank-2010-M695">8</xref>], anti-bacterial [<xref ref-type="bibr" rid="B9-molbank-2010-M695">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2010-M695">10</xref>] <italic>etc</italic>. Tetrazoles [<xref ref-type="bibr" rid="B11-molbank-2010-M695">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M695">12</xref>] are medicinally important heterocycles incorporated in a large number of drugs. They are reported to possess anti-inflammatory, antiarthritic, analgesic, ulcus therapeutic and coccidiostatic properties [<xref ref-type="bibr" rid="B13-molbank-2010-M695">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2010-M695">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2010-M695">15</xref>]. Tetrazoles can be synthesized by a number of methods, viz., reaction of hydrozoic acids or its salts with imidoyl chlorides or imino ethers or diazo coupling of heterocyclic hydrazines or hydrocyanic acid. Most of these methods have limited use in preparative organic chemistry, because the use of hydrazoic acid presents considerable experimental difficulties due to its toxicity. In continuation of our department&#x2019;s work [<xref ref-type="bibr" rid="B16-molbank-2010-M695">16</xref>] on the synthesis of tetrazoles, here in this paper we would like to report the synthesis of a new tetrazole from quinazolinone.</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M695" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>The starting material, 3-(4-amino-phenyl)-2-methyl-<italic>3H</italic>-quinazolin-4-one <bold>1</bold> was prepared according to the reported literature [<xref ref-type="bibr" rid="B17-molbank-2010-M695">17</xref>]. Compound <bold>1</bold> undergoes cyanoethylation in the presence of acrylonitrile and triton B to give <bold>2</bold>. The nitrile <bold>2</bold> on treatment with NaN<sub>3</sub> and NH<sub>4</sub>Cl gives the corresponding tetrazole <bold>3.</bold>The structure of the compound was confirmed by IR, <sup>1</sup>H NMR, MS and elemental analysis. The IR spectrum of the target compound shows absorption bands at 1,021 cm<sup>&#x2212;1</sup> and 1,196 cm<sup>&#x2212;1</sup> due to the presence of a tetrazole ring. The band at 1,249 cm<sup>&#x2212;1</sup> corresponds to N-N=N while an absorption band at 1,408 cm<sup>&#x2212;1</sup> corresponds to N=N. The absorption band at 1,610 cm<sup>&#x2212;1</sup>, can be assigned to C=N. In the <sup>1</sup>H NMR spectra of the target compound, the protons of the phenyl ring attached to the quinazolinone moiety appeared as a multiplet in the region &#x3B4; 6.94&#x2013;7.10. Methyl protons of the quinazolinone ring appeared as a singlet at &#x3B4; 3.3. Two doublets observed at 8.55 and 8.10 and the two triplets observed at &#x3B4; 7.53 and &#x3B4; 7.14 may be due to the protons of the benzene ring fused with the pyrimidinone ring. The NH protons are observed as a singlet at &#x3B4; 5.0.The two methylene protons appeared as singlets at &#x3B4; 2.21 and &#x3B4; 2.72. The mass spectrum of compound <bold>3</bold> was found to show a regular fragmentation pattern giving a molecular ion peak at m/z 347 along with other fragments.</p>
+      <sec id="sec2dot1-molbank-2010-M695">
+        <title>2.1. Antimicrobial activity</title>
+        <p>The antimicrobial activity data of the synthesized compound <bold>3</bold> is presented in <xref ref-type="table" rid="molbank-2010-M695-t001">Table 1</xref>. Analysis of the data in the table reveals that the synthesized compound possesses fairly good antimicrobial activity against the test organisms. However, the activity is less than the standard drug (Ciprofloxacin and Fluconazole, respectively).</p>
+		<p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M695-i001.tif"/></disp-formula></p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2010-M695" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>Melting points were determined with a digital melting point apparatus and are uncorrected. FTIR spectra were recorded on a Shimadzu FT-IR model spectrophotometer. <sup>1</sup>H NMR spectra were recorded in MeOD on a Bruker AV III 500 MHz using TMS as internal standard. The mass spectra were recorded on a JEOL GCmate instrument. The purity of the compound was checked by TLC.</p>
+      <sec id="sec3dot1-molbank-2010-M695">
+        <title>3.1. 2-Methyl-3-{4-[2-(1H-tetrazol-5-yl-ethylamino]phenyl}-3H-quinazolin-4-one <italic>(<bold>3</bold>)</italic></title>
+        <p>3-(4-Aminophenyl)-2-methyl-<italic>3H</italic>-quinazolin-4-one <bold>1</bold> (2.51 g, 0.01 mol) was mixed with 2.12 mL (0.04 mol) of acrylonitrile in a 250 mL round bottomed flask and cooled in an ice bath. Triton B (2 mL) was added dropwise with shaking. The vigorous reaction which set in was allowed to subside and then the mixture was refluxed on a steam bath for 2 h. The solution was cooled and it was then extracted with ethylene dichloride. It was dried over anhydrous sodium sulphate and the solvent was removed to give the nitrile <bold>2.</bold> The nitrile was obtained in 60% yield. The crude nitrile on recrystalization from DMF melted at 105 &#xB0;C.</p>
+        <p>A mixture of 3-[4-(2-methyl-4-oxo-4<italic>H</italic>-quinazolin-3-yl)phenylamino]propionitrile <bold>2</bold> (3.04 g, 0.01 mol), sodium azide (1.0 g, 0.01 mol), dimethyl formamide (10 mL) and ammonium chloride (5.3 g, 0.1 mol) was placed in a 100 mL round bottomed flask. The content was heated in an oil bath for 7 h at 125 &#xB0;C. The solvent was removed at reduced pressure. The reaction mixture was dissolved in 100 mL of distilled water and carefully acidified with hydrochloric acid (2 mL) to pH 2. The solution was cooled to 5 &#xB0;C in an ice bath. The product was isolated by filtration, washed with several portions of water, dried and recrystallized from DMF. Yield 70%, m.p. &gt; 350 &#xB0;C. Calculated for C<sub>18</sub>H<sub>17</sub>N<sub>7</sub>O (347.15): C, 62.24%; H, 4.93%; N, 28.23%. Found: C, 62.38%; H, 4.72%; N, 28.13%. IR, &#x3C5; cm<sup>&#x2212;1</sup>: 1022 and 1197 (tetrazole ring), 1249 (N-N=N), 1408 (N=N), 1610 (C=N), 3210 (N-H stretching), 2926 (methyl CH stretching), 2849 (CH<sub>2</sub>). <sup>1</sup>H NMR (MeOD, 500 MHz): 6.90&#x2013;7.10 (m, 4H, Ar-H), 8.50 (d,1H, <italic>J</italic> = 8.5 Hz, 5-H quinazolinone), 8.10 (d, 1H, <italic>J</italic> = 8.0 Hz, 8-H quinazolinone), 7.15 (t, 1H, 6-H quinazolinone), 7.54 (t, 1H, 7-H quinazolinone), 3.30 (s, 3H, CH<sub>3</sub>), 2.21 (s, 2H, (C-CH<sub>2</sub>-), 2.72 (s, 2H, N-CH<sub>2</sub>-), 5.0 (s, 1H, NH). MS (EI, 70 eV) <italic>m/z</italic>: 347 (M+1)<sup>+</sup> (48%), 292 (46), 238 (30), 147 (25), 132 (20), 69 (13)</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2010-M695">
+        <title>3.2. Antimicrobial activity</title>
+        <p>The antimicrobial activity was determined <italic>in vitro</italic> by the disc diffusion method by measuring zones of inhibition.</p>
+        <p>A known weight of the test compound <bold>3</bold> (50 &#xB5;g/disc) was impregnated in a sterile filter paper disc of size 4 mm. It was then allowed to dry. Another disc, dipped only in DMSO, after drying, was used as the control.</p>
+        <p>The plates, containing nutrient agar were used. They were seeded with different organisms at concentrations of 2&#x2013;3 &#xD7; 10<sup>&#x2212;7</sup> in Colony Forming Unit (CFU) using a sterile swab. The discs containing the sample were placed at different positions using fine pointed forceps. The plates were incubated at 37 &#xB0;C for 24 h, followed by measuring the zones of inhibition. The above observations were made under sterile condition. Ciprofloxacin (5 &#xB5;g/disc) and Fluconazole (10 &#xB5;g/disc) were used as standard for bacteria and fungi respectively.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M695">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M695-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M695-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M695-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M695-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to thank the management of SRM University for providing necessary facilities to carryout the research work.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M695">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tyagi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shrivastava</surname>
+              <given-names>V.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Newer potential quinazolinones as hypotensive agents</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2003</year>
+          <volume>42B</volume>
+          <fpage>2142</fpage>
+          <lpage>2144</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200352170</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M695">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chandrika</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>Yakaiah</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>A.R.R.</given-names>
+            </name>
+            <name>
+              <surname>Narsaiah</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>ChakraReddy</surname>
+              <given-names>N.</given-names>
+            </name>
+			<name>
+              <surname>Sridhar</surname>
+              <given-names>V.</given-names>
+            </name>
+			<name>
+              <surname>Rao</surname>
+              <given-names>J.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel 4,6-disubstituted Quinazoline derivatives, their anti-inflammatory and anti-cancer activity(cytotoxic) against U937 leukemia cell lines</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>846</fpage>
+          <lpage>852</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M695">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shah</surname>
+              <given-names>B.R.</given-names>
+            </name>
+            <name>
+              <surname>Bhatt</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Undavia</surname>
+              <given-names>N.K.</given-names>
+            </name>
+            <name>
+              <surname>Trivedi</surname>
+              <given-names>P.B.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>N.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 2,3-disubstituted-3,1-quinazolin-4(4<italic>H</italic>)-ones as potential anticancer and anti-HIV agents</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1995</year>
+          <volume>34B</volume>
+          <fpage>201</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.199525163</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M695">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rani</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Archana</surname>
+            </name>
+			<name>
+              <surname>Srivastava</surname>
+              <given-names>V.K.</given-names>
+            </name>
+			<name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-inflammatory activity of some new 2,3-disubstituted-6-monosubstituted-quinazolin-4(3<italic>H</italic>)-ones</article-title>
+          <source>Ind. J. Heterocycl. Chem.</source>
+          <year>2002</year>
+          <volume>41B</volume>
+          <fpage>2642</fpage>
+          <lpage>2646</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M695">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alagarsamy</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Muthukumar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Pavalarani</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Vasanthanathan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Revathi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Analgesic and Anti-inflammatory Activities of Some Novel 2,3-Disubstituted Quinazoline-4(3H)-ones</article-title>
+          <source>Biol. Pharm. Bull.</source>
+          <year>2003</year>
+          <volume>26</volume>
+          <fpage>557</fpage>
+          <lpage>559</lpage>
+          <pub-id pub-id-type="doi">10.1248/bpb.26.557</pub-id>
+          <pub-id pub-id-type="pmid">12673044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M695">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandey</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Sarah</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Zehra</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiadiazolyl quinazoolones as potential antiviral and antihypertensive agents</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2004</year>
+          <volume>43B</volume>
+          <fpage>180</fpage>
+          <lpage>183</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M695">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joshi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chaudhari</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Some New 4-Quinazolnone-2-carboxy Esters, 2-Carboxamides, 2-Carboxyhydrazides &amp; their Tosyl Derivatives Having Potential Biological Activity</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1987</year>
+          <volume>28B</volume>
+          <fpage>602</fpage>
+          <lpage>604</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M695">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wasfy</surname>
+              <given-names>A.A.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on quinazolines: Part II-Synthesis and antimicrobial evaluation of some 2,2-disubstituted-3,3-biquinazoin-4(3<italic>H</italic>)-ones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2003</year>
+          <volume>42B</volume>
+          <fpage>3102</fpage>
+          <lpage>3107</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200414171</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M695">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nanda</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Ganguli</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial Activity of some 3-(Arylideneamino)-2-phenylquinazoline-4-(3H)-nes Synthesis and Preliminary QSAR Studies</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>2413</fpage>
+          <lpage>2426</lpage>
+          <pub-id pub-id-type="doi">10.3390/12102413</pub-id>
+          <pub-id pub-id-type="pmid">17978766</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M695">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shivram Holla</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Padmaja</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Shivnanda</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Akbarali</surname>
+              <given-names>P.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial activity of nitro-furylvinylquinazolinones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1998</year>
+          <volume>37B</volume>
+          <fpage>715</fpage>
+          <lpage>716</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M695">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Butler</surname>
+              <given-names>R.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Structure, Reactions Synthesis and Uses of Heterocyclic Compounds</article-title>
+          <source>Comprehensive Heterocyclic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Potts</surname>
+              <given-names>K.T.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pregamon Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1984</year>
+          <fpage>791</fpage>
+          <lpage>838</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M695">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Butler</surname>
+              <given-names>R.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Structure, Reactions, Synthesis and Uses of Heterocyclic Compounds</article-title>
+          <source>Comprehensive Heterocyclic Chemistry-II</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Storr</surname>
+              <given-names>R.C.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pregamon Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1996</year>
+          <fpage>621</fpage>
+          <lpage>678</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M695">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Kapoor</surname>
+              <given-names>U.K.</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>R.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-Medicinal Chemistry of Tetrazole</article-title>
+          <source>Prog. Med. Chem.</source>
+          <year>1980</year>
+          <volume>17</volume>
+          <fpage>151</fpage>
+          <lpage>183</lpage>
+          <pub-id pub-id-type="pmid">7031768</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M695">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bradbury</surname>
+              <given-names>R.H.</given-names>
+            </name>
+            <name>
+              <surname>Allot</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Dennis</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Girdwood</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Kenny</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>Major</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Oldham</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Ratccliffe</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Rivett</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Robins</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>New nonpeptide angiotensine II receptorantagonists.3. Syntheis, biological properties, and structure-activity relationships of 2-alkyl-4-(biphenylmethoxy)pyridine derivatives</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>1245</fpage>
+          <lpage>1254</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00061a016</pub-id>
+          <pub-id pub-id-type="pmid">8487261</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M695">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Upadhayaya</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sinha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kishore</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Chandra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Arora</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel substituted tetrazoles having antifungal activity</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>39</volume>
+          <fpage>579</fpage>
+          <lpage>592</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2004.03.004</pub-id>
+          <pub-id pub-id-type="pmid">15236838</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M695">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Venkatraman</surname>
+              <given-names>B.R.</given-names>
+            </name>
+            <name>
+              <surname>Kavitha</surname>
+              <given-names>H.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 4-[10<italic>H</italic>-phenothiazine-10-yl(1<italic>H</italic>&#x2014;tetrazol-5yl)-methyl]phenol</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M621</fpage>
+          <pub-id pub-id-type="doi">10.3390/M621</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2010-M695">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Errede</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>McBrady</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Oien</surname>
+              <given-names>H.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylanthranils. 2. The Problem of Selectivity in the Reaction of Acetylanthranil with Anilines</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1976</year>
+          <volume>41</volume>
+          <fpage>1765</fpage>
+          <lpage>1768</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00872a022</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Table</title>
+      <table-wrap id="molbank-2010-M695-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M695-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Antimicrobial activity data of the synthesized compound.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="left" valign="top" style="border:solid thin">Compound</th>
+              <th colspan="4" align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Zone of inhibition (mm)</th>
+            </tr>
+            <tr>
+              <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>S. aureus</italic></th>
+              <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>E. Coli</italic></th>
+              <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>C. albicans</italic></th>
+              <th align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin"><italic>A. niger</italic></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">Compound <bold>3</bold></td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">11</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">13</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">8</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">11</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">Control</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">-</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">Standard</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">40</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">41</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">23</td>
+              <td align="center" valign="top" style="border-bottom:solid thin;border-right:solid thin">22</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

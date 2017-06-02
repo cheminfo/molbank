@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M313</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M313</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>10,14-(Cyanomethyl)-6,18-dimethyl-1,5,9,14,19,20-hexaazatricyclo[14.2.1.1<sup>5,8</sup>]icosa-6,8(20), 16(19), 17-tetraene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berhili</surname>
+            <given-names>Farid</given-names>
+          </name>
+		  <xref rid="af1-molbank-2003-M313" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+		  <xref rid="af1-molbank-2003-M313" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+		  <xref rid="af1-molbank-2003-M313" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>El Kadiri</surname>
+            <given-names>Sghir</given-names>
+          </name>
+		  <xref rid="af2-molbank-2003-M313" ref-type="aff">b</xref>
+          <xref rid="c1-molbank-2003-M313" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M313"><label>a</label>Laboratoire de Chimie Organique-Physique, Facult&#xE9; des Sciences, Universit&#xE9; Mohammed Ier Oujda, Maroc</aff>
+      <aff id="af2-molbank-2003-M313"><label>b</label>Laboratoire de Chimie de l'Environnement et des Mat&#xE9;riaux, Facult&#xE9; des Sciences, Universit&#xE9; Mohammed Ier Oujda, Maroc</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M313"><label>*</label>Fax : +212 56 50 06 03 E-mail: <email>elkadiri@sciences.univ-oujda.ac.ma</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>1</issue>
+      <elocation-id>M313</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+      </permissions>
+      <kwd-group>
+        <kwd>macrocyclic compounds</kwd>
+        <kwd>macrocyclic cavity</kwd>
+        <kwd>pyrazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M313-i001.tif"/></p>
+      <p>A suspension of sodium carbonate (12 g, 120 mmol) in acetonitrile (250 mL) was refluxed under magnetic stirring, then a solution of bis-(3-chloromethyl-5-methylpyrazolyl)propane (<bold>1</bold>) (2.03 g, 7 mmol) [<xref ref-type="bibr" rid="B1-molbank-2003-M313">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2003-M313">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2003-M313">3</xref>] and diamine <bold>2</bold> (1.9 g , 7 mmol) in acetonitrile (50 mL) was added dropwise. The solution was refluxed under stirring for two hours, filtered and the solvent was removed in vacuum, the residue was purified on alumina column with (CH<sub>2</sub>Cl<sub>2</sub>/MeOH : 97/3) as eluent to give the macrocycle <bold>3</bold> as an oily substance.</p>
+      <p>Yield: (1.1 g, 50 %).</p> 
+	  <p>(FAB)<sup>+</sup> [M+H]<sup>+</sup> = 363.</p>
+      <p><sup>1</sup>H NMR (250 MHz, CDCl<sub>3</sub>) d ppm: 5.93 (s, 2H, HPz) ; 4.00 (t, 4H, CH<sub>2</sub>-<underline>CH</underline><sub>2</sub>-Pz) ; 3.60 (s, 4H, CH<sub>2</sub>-CN) ; 3.50 (s, 4H, Pz-CH<sub>2</sub>-N) ; 2.50 (t, 4H, N-<underline>CH</underline><sub>2</sub>-CH<sub>2</sub>) ; 2.16 (s, 6H, CH<sub>3</sub>-Pz) ; 1.60 (m, 2H, Pz-CH<sub>2</sub>-<underline>CH</underline><sub>2</sub>-CH<sub>2</sub>) ; 1.56 (m, 2H, N-CH<sub>2</sub>-<underline>CH</underline><sub>2</sub>).</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2003-M313">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M313-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M313-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2003-M313-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M313-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M313">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tarrago</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>El Kadiri</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marzin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Coquelet</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>New J. Chem.</source>
+          <year>1991</year>
+          <volume>15</volume>
+          <fpage>677</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M313">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bienvenue</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Choua</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Lobo-Recio</surname>
+              <given-names>M-Has.</given-names>
+            </name>
+            <name>
+              <surname>Marzin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pacheco</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Seta</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tarrago</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Inorg. Biochem.</source>
+          <year>1995</year>
+          <volume>57</volume>
+          <fpage>157</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2003-M313">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bol</surname>
+              <given-names>J. E.</given-names>
+            </name>
+            <name>
+              <surname>Driessen</surname>
+              <given-names>W. L.</given-names>
+            </name>
+            <name>
+              <surname>Reedjik</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Chem. Commun.</source>
+          <year>1995</year>
+          <volume>13</volume>
+          <fpage>65</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M719</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M719</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>trans</italic>-2-Phenyl-4-thiophenoxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyran</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mallik</surname>
+            <given-names>Asok K.</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M719" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M719" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mandal</surname>
+            <given-names>Tapas K.</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M719" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pal</surname>
+            <given-names>Rammohan</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M719" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Patra</surname>
+            <given-names>Amarendra</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M719" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M719"><label>1</label>Department of Chemistry, Jadavpur  University, Kolkata-700032, India</aff>
+      <aff id="af2-molbank-2011-M719"><label>2</label>Department of Chemistry, University of Calcutta, Kolkata-700009, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M719"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>mallikak52@yahoo.co.in</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>02</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M719</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>12</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>02</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Iodine-catalyzed cyclocondensation of cinnamaldehyde and thiophenol yields rapidly <italic>trans</italic>-2-phenyl-4-thiophenoxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyran in excellent yield with very high diastereoselectivity.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>cinnamaldehyde</kwd>
+        <kwd>thiophenol</kwd>
+        <kwd>iodine</kwd>
+        <kwd><italic>trans</italic>-2-phenyl-4-thiophenoxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyran</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>3,4-Dihydro-2<italic>H</italic>-1-benzothiopyran derivatives (thiochromans) exhibit a wide range of biological activities, which include anti-bacterial, anti-inflammatory, anti-psychotic, anti-hyperplasia and anti-cancer activities [<xref ref-type="bibr" rid="B1-molbank-2011-M719">1</xref>]. Therefore, development of new and facile synthetic routes leading to such heterocycles for assessment of their biological potential is of considerable interest. A survey of the literature shows that there are a variety of methods available for the synthesis of these compounds, among which the reaction of thiophenols with &#x3B1;,&#x3B2;-unsaturated aldehydes [<xref ref-type="bibr" rid="B2-molbank-2011-M719">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M719">3</xref>] or allyl alcohols [<xref ref-type="bibr" rid="B4-molbank-2011-M719">4</xref>] in presence of various acidic catalysts are particularly important. Iodine is known to show Lewis acid properties [<xref ref-type="bibr" rid="B5-molbank-2011-M719">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2011-M719">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M719">7</xref>] and in recent years these are being nicely exploited for achieving varieties of addition, elimination and condensation reactions. Thus, the conjugate addition of thiophenol to &#x3B1;,&#x3B2;-unsaturated ketones has been reported to be catalyzed by iodine [<xref ref-type="bibr" rid="B5-molbank-2011-M719">5</xref>]. Our endeavor to synthesize 3,4-dihydro-2<italic>H</italic>-1-benzothiopyrans started by taking two readily available fragments, <italic>viz</italic>., thiophenol and cinnamaldehyde and using iodine as catalyst, the interesting results of which are presented herein.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>In the present study, when a mixture of thiophenol and cinnamaldehyde in CH<sub>2</sub>Cl<sub>2</sub> was stirred at room temperature for 16 hours, only one product was obtained in excellent yield (90%). Characterization of the product from its spectral (IR, <sup>1</sup>H and <sup>13</sup>C NMR including HMBC and HMQC, and MS) data showed it to be <italic>trans</italic>-2-phenyl-4-thiophenoxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyran (<bold>1</bold>). The <italic>trans</italic> configuration was ascertained from a comparison of the <italic>J</italic>-values of the four aliphatic protons of the product with the reported <italic>J</italic>-values for the aliphatic protons of <italic>cis</italic> and <italic>trans</italic> isomers of 4-acetoxy-2-alkylchromans [<xref ref-type="bibr" rid="B8-molbank-2011-M719">8</xref>] and 4-methoxyflavans [<xref ref-type="bibr" rid="B9-molbank-2011-M719">9</xref>] and those for <italic>cis</italic>-1,3-diarylthiochromans [<xref ref-type="bibr" rid="B10-molbank-2011-M719">10</xref>]. Confirmation of the said structure was finally obtained from X-ray crystallographic studies (ORTEP diagram shown in <xref ref-type="fig" rid="molbank-2011-M719-f001">Figure 1</xref>) [<xref ref-type="bibr" rid="B11-molbank-2011-M719">11</xref>].</p>
+      <fig id="molbank-2011-M719-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M719-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route to the title compound <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M719-sch001.tif"/>
+      </fig>
+      <p>Our attempt to reduce the reaction time by carrying out the reaction at the boiling temperature of CH<sub>2</sub>Cl<sub>2</sub> was not very successful, because the product was not at all clean, possibly due to some polymerization reactions.</p>
+      <p>In a report of synthesis of 2-aryl-4-thioaryloxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyrans and 2-alkyl-4-thioaryloxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyrans, Ishino <italic>et al</italic>. [<xref ref-type="bibr" rid="B2-molbank-2011-M719">2</xref>] reported that they obtained both the <italic>cis</italic> and <italic>trans</italic> isomers of these compounds (<bold>2a/2b</bold> and <bold>3a</bold>/<bold>3b</bold>) and they could not separate the diastereomers. Without isolating the pure diastereomers, they determined the composition of the mixtures from the <sup>1</sup>H NMR spectral data of the product mixtures. Subsequently, Jafarzadeh <italic>et al</italic>. [<xref ref-type="bibr" rid="B3-molbank-2011-M719">3</xref>] have reported the synthesis of such compounds without mentioning any stereochemistry (<italic>i.e.,</italic> the products having the structure <bold>4</bold>) by tungstophosphoric acid catalyzed cyclocondensation of &#x3B1;,&#x3B2;-unsaturated aldehydes and thiophenols, but the <sup>1</sup>H NMR spectral data reported by them corresponded neither with the data reported by Ishino <italic>et al.</italic> [<xref ref-type="bibr" rid="B2-molbank-2011-M719">2</xref>] nor with the data recorded by us. Moreover, the <sup>1</sup>H NMR spectral data for the aliphatic protons of two compounds (<bold>4a</bold> and <bold>4b</bold>) of the same series reported by them differed significantly [<bold>4a</bold>: &#x3B4; 3.54 (1H, d, <italic>J</italic> = 7.3 Hz), 5.19 (1H, d, <italic>J</italic> = 9.3 Hz), 6.22 (1H, dd, <italic>J</italic> = 1.8 and 8.7 Hz), 6.39 (1H, dd, <italic>J</italic> = 1.9 and 8.9 Hz); <bold>4b</bold>: &#x3B4; 4.98 (1H, d, <italic>J</italic> = 7.0 Hz), 6.18 (1H, d, <italic>J</italic> = 9.2 Hz ), 6.41 (1H, dd, <italic>J</italic> = 1.7 and 8.5 Hz ), 6.89 (1H, dd, <italic>J</italic> = 1.6 and 8.5 Hz)]. It was very difficult to understand why the data for these two closely related compounds differed so widely. This left some doubt about the identity of the compounds isolated by Jafarzadeh <italic>et al</italic>. [<xref ref-type="bibr" rid="B3-molbank-2011-M719">3</xref>]. The very high diastereoselectivity of the iodine-catalyzed reaction described here may be accounted for by considering that the stable cation <bold>5</bold> generated by initial combination of the two reactants followed by a cyclization is attacked very selectively from the side opposite of the existing phenyl (<xref ref-type="fig" rid="molbank-2011-M719-sch002"><bold>Scheme 2</bold></xref>)</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <p>To a mixture of cinnamaldehyde (1 mmol) and thiophenol (2 mmol) in dry dichloromethane (30 mL), iodine (64 mg, 0.25 mmol) was added and the reaction mixture was stirred in N<sub>2</sub> atmosphere at room temperature (30 &#xB0;C). When the reaction was complete after 16 h, the reaction mixture was diluted with dichloromethane (25 mL) and the resulting solution was washed with sodium thiosulphate solution (2 &#xD7; 25 mL) and water (2 &#xD7; 25 mL), successively. The solid material obtained after removal of the solvent showed one TLC spot and it was purified further by passing through a silica gel (100&#x2013;200 mesh) column followed by crystallization from chloroform-petroleum ether, yield: 90%; mp. 102 &#xB0;C, colorless cubes.</p>
+      <p>IR (KBr) cm<sup>&#x2212;1</sup>: 3028, 2903, 1585, 1562, 1470, 1453, 1436, 1297, 1249, 1152, 1058, 960, 745. <sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; 2.43&#x2013;2.51 (2H, m, H<sub>2</sub>-3), 4.74 (1H, t, <italic>J</italic> = 3.1 Hz, H-4), 5.15 (1H, dd, <italic>J</italic> = 9.2 and 5.6 Hz, H-2), 7.00&#x2013;7.06 (1H, m, H-6), 7.10&#x2013;7.17 (2H, m), 7.28&#x2013;7.38 (7H, m), 7.41&#x2013;7.45 (2H, m), 7.49&#x2013;7.52 (2H, m). <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; 34.69, 40.50, 49.15, 123.91, 125.89, 127.84, 127.90, 128.72, 129.16, 130.73, 131.55, 133.10, 134.25, 134.74, 140.72. MS (TOF MS ES<sup>+</sup>): Calcd. for C<sub>21</sub>H<sub>18</sub>S<sub>2</sub> (M+K)<sup>+</sup>: 373.0487; found 373.0115. Elemental analysis: Calcd. for C<sub>21</sub>H<sub>18</sub>S<sub>2</sub>: C, 75.40; H, 5.42. Found: C, 75.12; H, 5.59%. </p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Thus, we report here a very simple and highly diastereoselective synthesis of <italic>trans</italic>-2-phenyl-4-thiophenoxy-3,4-dihydro-2<italic>H</italic>-1-benzothiopyran which itself and its analogues are expected to find important applications. </p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2011-M719">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M719-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M719-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2011-M719-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M719-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Financial assistance from the CAS program, Department of Chemistry is gratefully acknowledged. The authors also acknowledge the DST-FIST program to the Department of Chemistry, Jadavpur University for providing the NMR spectral data.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M719">
+        <label>1.</label>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zu</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enantioselective organocatalytic tandem Michael-aldol reactions: One-pot synthesis of chiral thiochromenes</article-title>
+          <source>J. Amer. Chem. Soc.</source>
+          <year>2006</year>
+          <volume>128</volume>
+          <fpage>10354</fpage>
+          <lpage>10355</lpage>
+		  <comment>and references cited therein</comment>
+          <pub-id pub-id-type="doi">10.1021/ja063328m</pub-id>
+          <pub-id pub-id-type="pmid">16895386</pub-id>
+        </citation> 
+      </ref>
+      <ref id="B2-molbank-2011-M719">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishino</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Mihara</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kawai</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Improve method for synthesis of 4-thioaryl-2, 3, 4-trihydro-1-benzo-thiopyrans: Acid-induced stereoselective intermolecular cycloaddition of &#x3B1;,&#x3B2;-unsaturated aldehydes with arenethiols</article-title>
+          <source>Synlett</source>
+          <year>2001</year>
+          <fpage>1317</fpage>
+          <lpage>1319</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2001-16071</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M719">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jafarzadeh</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Amani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nikpour</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-free and room temperature synthesis of thiochromans in presence of a catalytic amount of tungstophosphoric acid</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>7567</fpage>
+          <lpage>7569</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.08.156</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M719">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishino</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nishiguchi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hirashima</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile synthesis of 3, 4-dihydro-2H-1-benzothiopyrans: Zinc iodide induced intermolecular cycloaddition between allyl alcohols and arenethiols</article-title>
+          <source>Synlett</source>
+          <year>1991</year>
+          <fpage>633</fpage>
+          <lpage>635</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1991-20822</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M719">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chu</surname>
+              <given-names>C.-M.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sastry</surname>
+              <given-names>M.N.V.</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>C.-F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Iodine-catalysed Michael addition of mercaptans to &#x3B1;,&#x3B2;-unsaturated ketones under solvent-free conditions</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>4971</fpage>
+          <lpage>4974</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.05.099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M719">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Banerjee</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Vera</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Mora</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Laya</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Bedoya</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Cabrera</surname>
+              <given-names>E.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Iodine in organic synthesis</article-title>
+          <source>J. Sci. Ind. Res.</source>
+          <year>2006</year>
+          <volume>65</volume>
+          <fpage>299</fpage>
+          <lpage>308</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M719">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress in synthetic application of iodine as a Lewis acid catalyst</article-title>
+          <source>Chin. J. Org. Chem.</source>
+          <year>2009</year>
+          <volume>29</volume>
+          <fpage>1719</fpage>
+          <lpage>1727</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M719">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kabuto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kikuchi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis and stereochemistry of 4-chromanones and 4-chromanols with bulky substituents</article-title>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1973</year>
+          <volume>46</volume>
+          <fpage>1839</fpage>
+          <lpage>1844</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.46.1839</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M719">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pouget</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Fagnere</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Basly</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Leveque</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Chulia</surname>
+              <given-names>A.-J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure of flavan-4-ols and 4-methoxyflavans as new potential anticancer drugs</article-title>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>6047</fpage>
+          <lpage>6052</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(00)00566-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M719">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Button</surname>
+              <given-names>M.A.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient syntheses of thiochromans via cationic cycloadditions</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2001</year>
+          <volume>66</volume>
+          <fpage>5595</fpage>
+          <lpage>5600</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo001571c</pub-id>
+          <pub-id pub-id-type="pmid">11485489</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M719">
+        <label>11.</label>
+        <note>
+          <p><bold>X-ray crystallography:</bold> X-Ray single crystal data were collected using Mo K&#x3B1; (&#x3BB; = 0.7107 &#xC5;) radiation on a SMART APEX II diffractometer equipped with CCD area detector. Data collection, data reduction, structure solution/refinement were carried out using the software package of SMART APEX. The single crystal structure of <bold>1</bold> was solved by direct method and refined. The non hydrogen atoms were treated anisotropically. The positions of all hydrogen atoms were generated by their idealized geometry and refined using a riding model. Crystal dimension: 0.32 &#xD7; 0.26 &#xD7; 0.19 mm; T = 298(2) K; orthorhombic, space group Pccn ; a = 29.205(2), b = 9.3942(7), c = 12.8072(10) &#x1FA;; <italic>V</italic> = 3513.8(5) &#x1FA;<sup>3</sup>; Z = 8, &#x3C1;<sub>calcd</sub> = 1.265 gcm<sup>&#x2212;3</sup>; &#xB5; = 0.300 mm<sup>&#x2212;1</sup>; F(000) = 1408; &#x3B8;min/max/&#xB0; = 1.39/28.11; R<sub>int</sub> = 0.0302; Range of h, k, l = -38/38, -11/12, -16/16; 36889 reflections collected of which 4268 were unique, 3273 observed [I &gt; 2&#x3C3;(I)] reflections, 208 parameters were refined; R<sub>1</sub> = 0.0410, wR<sub>2</sub> = 0.1032; Goodness of fit on F<sup>2</sup> = 1.006; CCDC -799121 contains the supplementary crystallographic data for this paper. These data can be obtained free of charge from The Cambridge Crystallographic Data Centre via <uri>www.ccdc. cam.ac.uk /data request /cif</uri>.</p>
+        </note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2011-M719-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>ORTEP diagram of <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M719-g001.tif"/>
+      </fig>
+      <fig id="molbank-2011-M719-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M719-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Plausible mechanism for formation of <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M719-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M358</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2004-M358</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of novel Schiff base N-[(E)-1-(1H-indole-3-yl)methylidene]-N-[4-(4-{[(E)-1-(1H-indol-3-yl)methylidene]amino}&#xA0; phenoxy)phenyl] amine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jarrahpour</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2004-M358" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zarei</surname>
+            <given-names>M.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2004-M358">Department of Chemistry, College of Sciences, Shiraz University, Shiraz 71454, Iran Tel. No. 0098 711 2284822,&#xA0; Fax: 0098 711 2280926, E-mail: <underline><email>aliasghar6683@yahoo.com</email></underline>, <underline><email>jarrah@chem.susc.ac.ir</email></underline></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2004-M358"><label>*</label>Author to whom correspondence should be addressed.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>2004</volume>
+      <issue>1</issue>
+      <elocation-id>M358</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>08</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>02</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 MDPI.</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M358-i001.tif"/></p>
+      <p>A mixture of  4,4'-diaminodiphenyl ether  <bold>1</bold> (2.00 g, 10.00 mmol), indole-3-carboxaldehyde <bold>2</bold> (2.90 g, 20.00 mmol) in absolute ethanol (50.00 mL) was stirred at room temperature for 8 hours. Then the solvent was evaporated under reduced pressure to give the crude imine as a solid . The new Schiff base <bold>3</bold> was recrystallized from methanol (3.25 g, 71%).</p>
+      <p>m.p. 252-254 <sup>o</sup>C.</p>
+      <p><bold>IR</bold> (KBr) (cm<sup>-1</sup>): 1624 (C=N), 3424 (NH )</p>
+      <p><bold><sup>1</sup>H-NMR</bold> (DMSO) (250 MHz)&#x3B4;(ppm): 7.05-7.99 (16H, m, 4Ph), 8.37 (2H, d, C=<underline>CH),</underline> 8.74 (2H, s, N=CH), 11.76 (2H, br , indole NH)</p>
+      <p><bold><sup>13</sup>C-NMR</bold> (DMSO) (62.90 MHz)&#x3B4;(ppm): 112.3-137.5 (aromatic carbons), 148.98 (C=<underline>C</underline>HNH), 155.18 (C=N)</p>
+      <p><bold>MS</bold> (m/z, %): 454 (M <sup>+</sup> ,9.10), 325 (InC=NphOPhN, 40.00 ), 235 (InC=NPhO, 100.00), 117 (In, 20.00), 92 (PhO, 10.00), 90 (PhN, 8.30), 76 (PhH)</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2004-M358">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M358-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M358-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2004-M358-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M358-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>The authors  thank the Shiraz University Research Council for financial support (Grant No. 81-SC-1495-C191).</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability</italic>: Available from MDPI</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

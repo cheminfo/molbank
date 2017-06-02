@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M566</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2008-M566</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>-1-(4,4-dimethyl-2,6-dioxocyclohex-1-ylidene)ethyl (<italic>N</italic>-Dde) Lipoamino Acids</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ross</surname>
+            <given-names>Benjamin P.</given-names>
+          </name>
+          <xref rid="af1-molbank-2008-M566" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Falconer</surname>
+            <given-names>Robert A.</given-names>
+          </name>
+          <xref rid="af2-molbank-2008-M566" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Toth</surname>
+            <given-names>Istvan</given-names>
+          </name>
+          <xref rid="af1-molbank-2008-M566" ref-type="aff">1</xref>
+          <xref rid="af3-molbank-2008-M566" ref-type="aff">3</xref>
+          <xref rid="c1-molbank-2008-M566" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2008-M566"><label>1</label>School of Pharmacy, The University of Queensland, Brisbane, Queensland 4072, Australia.</aff>
+      <aff id="af2-molbank-2008-M566"><label>2</label>Institute of Cancer Therapeutics, School of Life Sciences, University of Bradford, West Yorkshire, BD7 1DP, United Kingdom.</aff>
+      <aff id="af3-molbank-2008-M566"><label>3</label>School of Molecular and Microbial Sciences, The University of Queensland, Brisbane, Queensland 4072, Australia.</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2008-M566"><label>*</label>Author to whom correspondence should be addressed; Tel.: +61 7 3346 9892; Fax: +61 7 3365 4273; E-mail: <email>i.toth@.uq.edu.au</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>08</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>2008</volume>
+      <issue>2</issue>
+      <elocation-id>M566</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>03</month>
+          <year>2007</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>02</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2008 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>lipoamino acid</kwd>
+        <kwd>LAA</kwd>
+        <kwd>2-aminoalkanoic acid</kwd>
+        <kwd>1-(4,4-dimethyl-2,6-dioxocyclohex-1-ylidene)ethyl</kwd>
+        <kwd>Dde</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The conjugation of a drug with one or more lipoamino acids (LAAs; 2-aminoalkanoic acids; e.g. <bold>3</bold>) can impart upon the drug steric protection from enzymatic degradation, increased lipophilicity, increased passive membrane diffusion and therefore may improve drug bioavailability [<xref ref-type="bibr" rid="B1-molbank-2008-M566">1</xref>].  A variety of small molecules have been conjugated with LAAs [<xref ref-type="bibr" rid="B2-molbank-2008-M566">2</xref>], and many promising conjugates are peptides [<xref ref-type="bibr" rid="B3-molbank-2008-M566">3</xref>, <xref ref-type="bibr" rid="B4-molbank-2008-M566">4</xref>].  <italic>N</italic>-<italic>tert</italic>-Butoxycarbonyl (<italic>N</italic>-Boc) LAAs are commonly used to introduce the LAA moiety into a peptide [<xref ref-type="bibr" rid="B3-molbank-2008-M566">3</xref>], however, <italic>N</italic>-Boc LAAs are incompatible with the popular 9-fluorenylmethoxycarbonyl (Fmoc) strategy of solid-phase peptide synthesis [<xref ref-type="bibr" rid="B5-molbank-2008-M566">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2008-M566">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2008-M566">7</xref>].  <italic>N</italic>-Fmoc LAAs have been prepared, but these compounds were poorly soluble in most organic solvents and therefore difficult to handle [<xref ref-type="bibr" rid="B8-molbank-2008-M566">8</xref>].  The stability of the <italic>N</italic>-1-(4,4-dimethyl-2,6-dioxocyclohex-1-ylidene)ethyl (<italic>N</italic>-Dde) group to both acidic and some basic conditions [<xref ref-type="bibr" rid="B9-molbank-2008-M566">9</xref>], and its facile removal by hydrazine or hydroxylamine [<xref ref-type="bibr" rid="B9-molbank-2008-M566">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2008-M566">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2008-M566">11</xref>], have led to its successful incorporation into many solid-phase methodologies [<xref ref-type="bibr" rid="B9-molbank-2008-M566">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2008-M566">10</xref>,<xref ref-type="bibr" rid="B12-molbank-2008-M566">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2008-M566">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2008-M566">14</xref>].  Kellam et al. [<xref ref-type="bibr" rid="B15-molbank-2008-M566">15</xref>] used a <italic>N</italic>-Dde LAA (<bold>4c</bold>) in the synthesis of a glycolipopeptide by Fmoc-chemistry, however, <bold>4c</bold> was only partially characterized.  Malkinson et al. [<xref ref-type="bibr" rid="B16-molbank-2008-M566">16</xref>, <xref ref-type="bibr" rid="B17-molbank-2008-M566">17</xref>] used <italic>N</italic>-Dde LAAs in the synthesis of somatostatin analogues, but the preparation of the <italic>N</italic>-Dde LAAs was not described.  Herein we report the spectra of <bold>4c</bold> and the novel homologues <bold>4a</bold> and <bold>4b</bold>, which were prepared by a method similar to that of Kellam et al. [<xref ref-type="bibr" rid="B15-molbank-2008-M566">15</xref>].</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-i001.tif"/></p>
+      <p>2-Acetyldimedone (<bold>2</bold>) was synthesized by acylation of dimedone (<bold>1</bold>) with acetic anhydride.  In a modification to the procedures that require one equivalent of 4-dimethylaminopyridine (DMAP) [<xref ref-type="bibr" rid="B18-molbank-2008-M566">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2008-M566">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2008-M566">20</xref>], it was found that purification was easier and by-product formation less significant when triethylamine was used as the base in the presence of a catalytic quantity of DMAP.  The <italic>N</italic>-Dde LAAs (<bold>4a-c</bold>) were prepared by reaction of the LAAs (<bold>3a-c</bold>) with 2-acetyldimedone (<bold>2</bold>) in the presence of triethylamine in refluxing ethanol.</p>
+    <sec>
+      <title>2-Acetyldimedone (2)</title>
+      <p>Dimedone (<bold>1</bold>, 15.0 g, 107 mmol) was dissolved in CH<sub>2</sub>Cl<sub>2</sub> (100 mL).  DMAP (2.61 g, 21.4 mmol) and triethylamine (29.8 mL, 214 mmol) were added and the mixture was stirred for 10 min.  Acetic anhydride (12.2 mL, 129 mmol) was added and the mixture was stirred under an atmosphere of argon for 48 h.  The solvent was removed by co-evaporation with toluene and the residue was dissolved in ethyl acetate (300 mL) and washed with 5% HCl (3 &#xB4; 300 mL), dried (MgSO<sub>4</sub>), filtered, and evaporated in vacuo to produce an oil.  This oil was filtered through a column of silica (silica gel 60, 230&#x2013;400 mesh, ethyl acetate:<italic>n</italic>-hexane, 2:3) and the solvent was evaporated to afford the title compound (<bold>2</bold>) as pale yellow crystals (11.3 g, 58%).</p>
+      <p>Melting point 35&#x2013;36 &#xB0;C (literature melting point 36-38 &#xB0;C [<xref ref-type="bibr" rid="B21-molbank-2008-M566">21</xref>]).</p>
+      <p>ESI-MS, <italic>m/z</italic>: 183 [M + H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) d 18.02 (1H, s, H-bonded OH), 2.54 (3H, s, CH<sub>3</sub>), 2.48 (2H, s, CH<sub>2</sub>), 2.30 (2H, s, CH<sub>2</sub>), 1.02 [6H, s, C(CH<sub>3</sub>)<sub>2</sub>].</p>
+      <p><sup>13</sup>C NMR (125 MHz, CDCl<sub>3</sub>) d 202.2, 197.7, 194.9, 112.2, 52.3, 46.8, 30.5, 28.3, 28.0.</p>
+    </sec>
+    <sec>
+      <title>2-[(4,4-Dimethyl-2,6-dioxocyclohex-1-ylidene)ethylamino]-<sc>d</sc>,<sc>l</sc>-octanoic Acid (4a)</title>
+      <p>2-Amino-<sc>d</sc>,<sc>l</sc>-octanoic acid [<xref ref-type="bibr" rid="B22-molbank-2008-M566">22</xref>, <xref ref-type="bibr" rid="B23-molbank-2008-M566">23</xref>] (<bold>3a</bold>, 5.67 g, 35.6 mmol) and 2-acetyldimedone (<bold>2</bold>, 7.14 g, 39.2 mmol) were suspended in ethanol (200 mL).  Triethylamine (5.40 g, 7.44 mL, 53.4 mmol) was added and the mixture was refluxed under an atmosphere of argon for 18 h.  The solvent was removed in vacuo and the residue was taken up in ethyl acetate (250 mL) and washed with 5% HCl solution (3 &#xB4; 200 mL).  The organic layer was dried (MgSO<sub>4</sub>), filtered and evaporated in vacuo to give a pale yellow solid which was triturated with diethyl ether to afford the  title compound (<bold>4a</bold>) as a white solid (6.16 g, 54%).</p>
+      <p>Melting point 156-158 &#xB0;C.</p>
+      <p>ESI-MS, <italic>m/z</italic>: 324 [M + H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) d 13.69 (1H, d, <italic>J</italic> 7.3 Hz, H-bonded NH), 11.18 (1H, br s, COOH), 4.37 (1H, m, a-CH), 2.52 (3H, s, C(NH)CH<sub>3</sub>), 2.39 (4H, s, 2CH<sub>2</sub>CO), 2.02-1.87 (2H, m, b-CH<sub>2</sub>), 1.45-1.21 (8H, m, 4CH<sub>2</sub>), 1.01 [6H, s, C(CH<sub>3</sub>)<sub>2</sub>], 0.84 (3H, t, <italic>J</italic> 6.8 Hz, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C NMR (125 MHz, CDCl<sub>3</sub>) d 198.9, 174.0, 172.1, 108.0, 56.5, 52.3, 32.5, 31.3, 30.1, 28.7, 28.1, 25.2, 22.4, 18.7, 13.9.</p>
+      <p>HRMS calcd for [M + H]<sup>+</sup> 324.2174, found 324.2165; calcd for [M + Na]<sup>+</sup> 346.1994, found 346.1999.</p>
+    </sec>
+    <sec>
+      <title>2-[(4,4-Dimethyl-2,6-dioxocyclohex-1-ylidene)ethylamino]-<sc>d</sc>,<sc>l</sc>-dodecanoic Acid (4b)</title>
+      <p>2-Amino-<sc>d</sc>,<sc>l</sc>-dodecanoic acid hydrochloride [<xref ref-type="bibr" rid="B24-molbank-2008-M566">24</xref>] (<bold>3b</bold>, 12.3 g, 48.7 mmol) and 2-acetyldimedone (<bold>2</bold>, 9.76 g, 53.5 mmol) were suspended in ethanol (200 mL).  Triethylamine (12.3 g, 17.0 mL, 122 mmol) was added and the mixture was refluxed under an atmosphere of argon for ~32 h.  The solvent was removed in vacuo and the residue was taken up in ethyl acetate (250 mL) and washed with 5% HCl solution (3 &#xB4; 200 mL).  The organic layer was dried (MgSO<sub>4</sub>), filtered and evaporated in vacuo to give a pale yellow solid which was triturated with diethyl ether to afford the  title compound (<bold>4b</bold>) as a white solid (10.0 g, 54%).</p>
+      <p>Melting point 110-112 &#xB0;C.</p>
+      <p>ESI-MS, <italic>m/z</italic>: 380 [M + H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) d 13.70 (1H, d, <italic>J</italic> 7.2 Hz, H-bonded NH), 11.74 (1H, br s, COOH), 4.37 (1H, m, a-CH), 2.52 [3H, s, C(NH)CH<sub>3</sub>], 2.39 (4H, s, 2CH<sub>2</sub>CO), 2.02-1.87 (2H, m, b-CH<sub>2</sub>), 1.43-1.23 (16H, m, 8CH<sub>2</sub>), 1.01 [6H, s, C(CH<sub>3</sub>)<sub>2</sub>], 0.85 (3H, t, <italic>J</italic> 6.9 Hz, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C NMR (125 MHz, CDCl<sub>3</sub>) d 198.9, 174.0, 172.1, 108.0, 56.5, 52.3, 32.6, 31.8, 30.1, 29.4, 29.2, 29.1, 28.2, 25.3, 22.6, 18.7, 14.0.</p>
+      <p>HRMS calcd for [M + H]<sup>+</sup> 380.2801, found 380.2802.</p>
+    </sec>
+    <sec>
+      <title>2-[(4,4-Dimethyl-2,6-dioxocyclohex-1-ylidene)ethylamino]-<sc>d</sc>,<sc>l</sc>-hexadecanoic Acid (4c)</title>
+      <p>Compound <bold>4c</bold>, a white solid, was prepared from 2-amino-<sc>d</sc>,<sc>l</sc>-hexadecanoic acid hydrochloride [<xref ref-type="bibr" rid="B22-molbank-2008-M566">22</xref>] by following the procedure described for <bold>4b</bold>: scale 38.9 mmol; yield 6.61 g (39%).</p>
+      <p>Melting point 101-105 &#xB0;C (literature melting point 115-117 &#xB0;C [<xref ref-type="bibr" rid="B15-molbank-2008-M566">15</xref>]).</p>
+      <p>ESI-MS, <italic>m/z</italic>: 436 [M + H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H NMR (500 MHz, CDCl<sub>3</sub>) d 13.70 (1H, d, <italic>J</italic> 7.3 Hz, H-bonded NH), 10.7 (1H, br s, COOH), 4.37 (1H, m, a-CH), 2.52 [3H, s, C(NH)CH<sub>3</sub>], 2.39 (4H, s, 2CH<sub>2</sub>CO), 2.01-1.88 (2H, m, b-CH<sub>2</sub>), 1.43-1.23 (24H, m, 12CH<sub>2</sub>), 1.02 [6H, s, C(CH<sub>3</sub>)<sub>2</sub>], 0.85 (3H, t, <italic>J</italic> 6.9 Hz, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C NMR (125 MHz, CDCl<sub>3</sub>) d 199.0, 174.1, 172.3, 108.2, 56.7, 52.5, 52.4, 32.7, 32.0, 30.2, 29.8, 29.7, 29.7, 29.6, 29.4, 29.4, 29.3, 28.3, 28.2, 25.5, 22.7, 18.8, 14.2.</p>
+      <p>HRMS calcd for [M + H]<sup>+</sup> 436.3427, found 436.3426.</p>
+    </sec>
+  </body>
+  <back>
+<app-group>
+    <app id="app1-molbank-2008-M566">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2008-M566-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M566-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M566-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M566-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M566-s005" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s003-mod.mol">
+   <label>Supplementary File 5</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2008-M566-s006" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M566-s003.mol">
+   <label>Supplementary File 6</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We thank Mr Graham MacFarlane (School of Molecular and Microbial Sciences, The University of Queensland) for accurate mass measurements.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2008-M566">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Med. Chem.</source>
+          <year>2001</year>
+          <volume>8</volume>
+          <fpage>1123</fpage>
+          <lpage>1136</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Curr. Med. Chem.</source>
+          <year>2004</year>
+          <volume>11</volume>
+          <fpage>2375</fpage>
+          <lpage>2382</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2008-M566">
+        <label>2.</label>
+        <note><p>Recent examples include: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pignatello</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Jansen</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kathmann</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Puglisi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Pharm. Sci.</source>
+          <year>1998</year>
+          <volume>87</volume>
+          <fpage>367</fpage>
+          <lpage>371</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pignatello</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Vicari</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sorrenti</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Di Giacomo</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Spampinato</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Puglisi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Drug Dev. Res.</source>
+          <year>2001</year>
+          <volume>52</volume>
+          <fpage>454</fpage>
+          <lpage>461</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Gopisetty-Venkatta</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Roberts-Thomson</surname>
+              <given-names>S. J.</given-names>
+            </name>
+            <name>
+              <surname>Monteith</surname>
+              <given-names>G. R.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Med. Chem.</source>
+          <year>2006</year>
+          <volume>2</volume>
+          <fpage>79</fpage>
+          <lpage>87</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pignatello</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Guccione</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Castelli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sarpietro</surname>
+              <given-names>M. G.</given-names>
+            </name>
+            <name>
+              <surname>Giurato</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Lombardo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Puglisi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Pharm.</source>
+          <year>2006</year>
+          <volume>310</volume>
+          <fpage>53</fpage>
+          <lpage>63</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>I.-H.</given-names>
+            </name>
+            <name>
+              <surname>Nishi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>H.-J.</given-names>
+            </name>
+            <name>
+              <surname>Bradford</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Koda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Morisseau</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hammock</surname>
+              <given-names>B. D.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2007</year>
+          <volume>15</volume>
+          <fpage>312</fpage>
+          <lpage>323</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B3-molbank-2008-M566">
+        <label>3.</label>
+        <note><p>Recent examples include: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benson</surname>
+              <given-names>H. A. E.</given-names>
+            </name>
+            <name>
+              <surname>Caccetta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kearns</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Lett. Pept. Sci.</source>
+          <year>2004</year>
+          <volume>10</volume>
+          <fpage>615</fpage>
+          <lpage>620</lpage>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Lew</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A. I.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>1609</fpage>
+          <lpage>1612</lpage>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caccetta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Harrison</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Benson</surname>
+              <given-names>H. A. E.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Pept. Protein Res. Ther.</source>
+          <year>2006</year>
+          <volume>12</volume>
+          <fpage>327</fpage>
+          <lpage>333</lpage>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amon</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>Y.-N.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Manolios</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Biochem. Biophys. Acta</source>
+          <year>2006</year>
+          <volume>1763</volume>
+          <fpage>879</fpage>
+          <lpage>888</lpage>
+        </citation> See also [<xref ref-type="bibr" rid="B15-molbank-2008-M566">15</xref>, <xref ref-type="bibr" rid="B16-molbank-2008-M566">16</xref>, <xref ref-type="bibr" rid="B24-molbank-2008-M566">24</xref>].</p></note>
+      </ref>
+      <ref id="B4-molbank-2008-M566">
+        <label>4.</label>
+        <note><p>Recent examples include: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>B. P.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>Y.-N.</given-names>
+            </name>
+            <name>
+              <surname>Artursson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Lazorova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Eur. J. Pharm. Sci.</source>
+          <year>2002</year>
+          <volume>16</volume>
+          <fpage>113</fpage>
+          <lpage>118</lpage>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dulhunty</surname>
+              <given-names>A. F.</given-names>
+            </name>
+            <name>
+              <surname>Cengia</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pace</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Harvey</surname>
+              <given-names>P. J.</given-names>
+            </name>
+            <name>
+              <surname>Lamb</surname>
+              <given-names>G. D.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>Y.-N.</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Casarotto</surname>
+              <given-names>M. G.</given-names>
+            </name>
+          </person-group>
+          <source>Br. J. Pharm.</source>
+          <year>2005</year>
+          <volume>144</volume>
+          <fpage>743</fpage>
+          <lpage>754</lpage>
+        </citation> <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Koda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Med. Chem.</source>
+          <year>2006</year>
+          <volume>2</volume>
+          <fpage>203</fpage>
+          <lpage>211</lpage>
+        </citation></p></note>
+      </ref>
+      <ref id="B5-molbank-2008-M566">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Atherton</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Harkiss</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Logan</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>Sheppard</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>B. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Chem. Commun.</source>
+          <year>1978</year>
+          <fpage>537</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2008-M566">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chang</surname>
+              <given-names>C.-D.</given-names>
+            </name>
+            <name>
+              <surname>Meienhofer</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Pept. Protein Res.</source>
+          <year>1978</year>
+          <volume>11</volume>
+          <fpage>246</fpage>
+          <pub-id pub-id-type="doi">10.1111/j.1399-3011.1978.tb02845.x</pub-id>
+          <pub-id pub-id-type="pmid">649259</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2008-M566">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wellings</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>Atherton</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Methods in Enzymology</source>
+          <publisher-name>Academic Press</publisher-name>
+          <year>1997</year>
+          <volume>Vol. 289</volume>
+          <fpage>44</fpage>
+          <lpage>67</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2008-M566">
+        <label>8.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <comment>Unpublished results</comment>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2008-M566">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B. W.</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>C. C.</given-names>
+            </name>
+            <name>
+              <surname>Chhabra</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Hone</surname>
+              <given-names>N. D.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc. Chem. Commun.</source>
+          <year>1993</year>
+          <fpage>778</fpage>
+          <lpage>779</lpage>
+          <pub-id pub-id-type="doi">10.1039/c39930000778</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2008-M566">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diaz-Mochon</surname>
+              <given-names>J. J.</given-names>
+            </name>
+            <name>
+              <surname>Bialy</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Lett.</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>1127</fpage>
+          <lpage>1129</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2008-M566">
+        <label>11.</label>
+          <note><p>Typically, 2% v/v hydrazine in <italic>N</italic>,<italic>N</italic>-dimethylformamide [<xref ref-type="bibr" rid="B9-molbank-2008-M566">9</xref>], or a mixture of NH<sub>2</sub>OH.HCl/imidazole in <italic>N</italic>-methyl-2-pyrrolidone/CH<sub>2</sub>Cl<sub>2</sub> which is fully orthogonal to Fmoc [<xref ref-type="bibr" rid="B10-molbank-2008-M566">10</xref>].</p></note>
+      </ref>
+      <ref id="B12-molbank-2008-M566">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kellam</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B. W.</given-names>
+            </name>
+            <name>
+              <surname>Chhabra</surname>
+              <given-names>S. R.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>4849</fpage>
+          <lpage>4852</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2008-M566">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharma</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name>
+              <surname>Chandramouli</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Fotsch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kardash</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bair</surname>
+              <given-names>K. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Pept. Res.</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>501</fpage>
+          <lpage>506</lpage>
+          <pub-id pub-id-type="doi">10.1034/j.1399-3011.1999.00045.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2008-M566">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Connolly</surname>
+              <given-names>P. J.</given-names>
+            </name>
+            <name>
+              <surname>Beers</surname>
+              <given-names>K. N.</given-names>
+            </name>
+            <name>
+              <surname>Wetter</surname>
+              <given-names>S. K.</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>W. V.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>5187</fpage>
+          <lpage>5191</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2008-M566">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kellam</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Drouillat</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Dekany</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Starr</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Int. J. Pharm.</source>
+          <year>1998</year>
+          <volume>161</volume>
+          <fpage>55</fpage>
+          <lpage>64</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2008-M566">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Malkinson</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Flinn</surname>
+              <given-names>N. S.</given-names>
+            </name>
+            <name>
+              <surname>Drouillat</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Horvath</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Erchegyi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Idei</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Venetianer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Artursson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Lazorova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Szende</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Keri</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <fpage>4010</fpage>
+          <lpage>4013</lpage>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2008-M566">
+        <label>17.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malkinson</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Lazorova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Artursson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Gyoergy</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peptides 2000</article-title>
+          <source>Proceedings of the 26<sup>th</sup> European Peptide Symposium</source>
+          <conf-loc>Montpellier, France</conf-loc>
+          <conf-date>September 10&#x2013;15, 2000</conf-date>
+          <publisher-name>Editions EDK</publisher-name>
+          <publisher-loc>Paris, France</publisher-loc>
+          <year>2000</year>
+          <fpage>319</fpage>
+          <lpage>320</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2008-M566">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kellam</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>C. C.</given-names>
+            </name>
+            <name>
+              <surname>Chhabra</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B. W.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>5391</fpage>
+          <lpage>5394</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(97)01180-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2008-M566">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chhabra</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Hothi</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>P. D.</given-names>
+            </name>
+            <name>
+              <surname>Bycroft</surname>
+              <given-names>B. W.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>W. C.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>1603</fpage>
+          <lpage>1606</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2008-M566">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Portal</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Launay</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Merritt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>J. Comb. Chem.</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <fpage>554</fpage>
+          <lpage>560</lpage>
+          <pub-id pub-id-type="doi">10.1021/cc050013e</pub-id>
+          <pub-id pub-id-type="pmid">16004498</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2008-M566">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forsen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nilsson</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Chemica Scandinavica</source>
+          <year>1959</year>
+          <volume>13</volume>
+          <fpage>1383</fpage>
+          <lpage>1394</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2008-M566">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ross</surname>
+              <given-names>B. P.</given-names>
+            </name>
+            <name>
+              <surname>Braddy</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name>
+              <surname>McGeary</surname>
+              <given-names>R. P.</given-names>
+            </name>
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Prokai</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Pharmaceutics</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>233</fpage>
+          <lpage>245</lpage>
+          <pub-id pub-id-type="doi">10.1021/mp049964d</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2008-M566">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gibbons</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Hughes</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Charalambous</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Christodoulou</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Szeto</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Aulabaugh</surname>
+              <given-names>A. E.</given-names>
+            </name>
+            <name>
+              <surname>Mascagni</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1990</year>
+          <fpage>1175</fpage>
+          <lpage>1183</lpage>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2008-M566">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blanchfield</surname>
+              <given-names>J. T.</given-names>
+            </name>
+            <name>
+              <surname>Dutton</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Hogg</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Gallagher</surname>
+              <given-names>O. P.</given-names>
+            </name>
+            <name>
+              <surname>Craik</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Alewood</surname>
+              <given-names>P. F.</given-names>
+            </name>
+            <name>
+              <surname>Toth</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2003</year>
+          <volume>46</volume>
+          <fpage>1266</fpage>
+          <lpage>1272</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm020426j</pub-id>
+          <pub-id pub-id-type="pmid">12646037</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

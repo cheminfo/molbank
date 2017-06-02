@@ -13,6 +13,11 @@
   "dependencies": {
     "chemcalc": "^3.0.6",
     "openchemlib": "^5.2.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
     "xmldom": "^0.1.27"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
   }
 }

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M745</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M745</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl 4,4&#x2033;-Difluoro-5&#x2032;-hydroxy-1,1&#x2032;:3&#x2032;,1&#x2033;-terphenyl-4&#x2032;-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Samshuddin</surname>
+            <given-names>Seranthimata</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M745" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Narayana</surname>
+            <given-names>Badiadka</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M745" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M745" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sarojini</surname>
+            <given-names>Balladka Kunhanna</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M745" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M745"><label>1</label>Department of Studies in Chemistry, Mangalore University, Mangalagangotri-574 199, Karnataka, India</aff>
+      <aff id="af2-molbank-2011-M745"><label>2</label>Research Department of Chemistry, P. A College of Engineering, Nadupadavu, Mangalore 574153, Karnataka, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M745"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>nbadiadka@yahoo.co.uk</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>11</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M745</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A simple and novel route for the synthesis of new terphenyl derivative as well as oxidative aromatization of &#x3B1;,&#x3B2;-unsaturated cyclohexenone to the corresponding phenol derivative is developed. The present work involves the condensation of ethylacetoacetate with 4,4&#x2032;-difluoro chalcone followed by the aromatization using chloramine-T in acetic acid to yield the title compound (<bold>3</bold>). The synthesized compound (<bold>3</bold>) is well characterized by IR, NMR, LCMS and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>4,4&#x2032;-difluoro chalcone</kwd>
+        <kwd>cyclohexenone derivative</kwd>
+        <kwd>aromatization</kwd>
+        <kwd>chloramine-T</kwd>
+        <kwd>terphenyl derivative</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>Phenyl group and polysubstituted aromatics are key structures of great efficacy in synthetic, medicinal and natural product chemistry. In recent years, it has been reported that some terphenyls exhibit considerable biological activities like potent anticoagulant, immunosuppressant, antithrombotic, neuroprotective, specific 5-lipoxygenase inhibitory and cytotoxic activities [<xref ref-type="bibr" rid="B1-molbank-2011-M745">1</xref>]. Because of their promising biological activities and important properties, terphenyls have kindled increasing research interest. Therefore, synthesis of polysubstituted aromatics is a fascinating area in organic field [<xref ref-type="bibr" rid="B2-molbank-2011-M745">2</xref>]. Classical approaches are based on aromatic substitution, which introduces a substituent to the benzene ring. Synthetic methodologies based on this route were developed including electrophilic or nucleophilic substitutions [<xref ref-type="bibr" rid="B3-molbank-2011-M745">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M745">4</xref>], coupling reactions catalyzed by transition metals [<xref ref-type="bibr" rid="B5-molbank-2011-M745">5</xref>] and metallation functionalization reactions [<xref ref-type="bibr" rid="B6-molbank-2011-M745">6</xref>]. However, these approaches have some drawbacks from the view of atom economy or environmental concern [<xref ref-type="bibr" rid="B7-molbank-2011-M745">7</xref>]. The methods that construct the aromatic backbone from acyclic precursors have received increasing interest recently due to their short synthetic steps and selective nature [<xref ref-type="bibr" rid="B8-molbank-2011-M745">8</xref>]. </p>
+      <p>Aromatization of substituted cyclohexenones to the corresponding phenol or phenyl ether derivatives is of great interest. Iodine in methanol is being used as a novel reagent for the conversion of 2-cyclohexen-1-ones into the corresponding anisole derivatives [<xref ref-type="bibr" rid="B9-molbank-2011-M745">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2011-M745">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2011-M745">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2011-M745">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2011-M745">13</xref>]. </p>
+      <p>In view of the pharmacological importance of terphenyls and in continuation of our work on synthesis of various derivatives of 4,4&#x2032;-difluoro chalcone [<xref ref-type="bibr" rid="B14-molbank-2011-M745">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2011-M745">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2011-M745">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2011-M745">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2011-M745">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2011-M745">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2011-M745">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2011-M745">21</xref>], we have developed a simple and novel method for the synthesis of new m-terphenyl derivatives as well as a new method for the oxidative aromatization of substituted &#x3B1;,&#x3B2;-unsaturated cyclohexenones to the corresponding phenol derivatives using chloramine&#x2013;T with a good yield. Also this method is advantageous over the conventional method as far as work up procedure and yield is concerned.</p>
+      <p>The purity of the compound is checked by single-spot TLC, and the compound is characterized on the basis of spectral data (IR, NMR and LCMS) and elemental analysis. Spectral data of the synthesized compound <bold>3</bold> is in full agreement with its proposed structure. In the IR Spectrum, a broad band appeared at 3439 cm<sup>&#x2212;1</sup> is due to phenolic OH group. The absorption bands at 3055, 2989, 2906 cm<sup>&#x2212;1</sup> are due to aliphatic CH groups and an absorption band at 1653 cm<sup>-1</sup> is due to carbonyl group of the ester. In <sup>1</sup>H-NMR spectrum, the signals of the respective protons of the title compound are verified on the basis of their chemical shifts, multiplicities, and coupling constants. A triplet at &#x3B4; 0.96 and quartet at &#x3B4; 4.02 ppm confirms the presence of methyl and methylene protons of the ester chain. The multiplet at &#x3B4; 7.05&#x2013;7.72 is due to ten aromatic protons. The singlet at &#x3B4; 10.23 is due to the phenolic proton. The <sup>13</sup>C-NMR spectrum shows peak at &#x3B4; 167.29 for a carbonyl carbon. Due to the <italic>para</italic>-fluoro substituents in two phenyl rings, eight phenyl carbon signals of these two rings in <sup>13</sup>C-NMR spectrum, the signals are split into doublets due to 2, 3 and 4 bond coupling with <sup>19</sup>F. The mass spectrum shows the presence of a peak at <italic>m/z</italic> 354 (M<sup>+</sup>) in accordance with the molecular formula. Elemental analysis also gives satisfactory results for the title compound.</p>
+    <sec sec-type="methods">
+      <title>Experimental </title>
+      <p>Melting point was taken in open capillary tube and was uncorrected. The purity of the compound was confirmed by thin layer chromatography using Merck silica gel 60 F254 coated aluminium plates. IR spectrum was recorded on Shimadzu-FTIR Infrared spectrometer in KBr (mmax in cm<sup>&#x2212;1</sup>). <sup>1</sup>H (400 MHz) NMR spectrum was recorded on a Bruker AMX 400 spectrometer, with 5 mm PABBO BB -1H TUBES and <sup>13</sup>C (100 MHz) NMR spectrum was recorded for approximately 0.03 M solutions in DMSO-d<sub>6</sub> at 100 MHz with TMS as internal standard. LCMS was obtained using Agilent 1200 series LC and Micromass zQ spectrometer. Elemental analysis was carried out by using VARIO EL-III (Elementar Analysensysteme GmBH).</p>
+      <p>Ethyl 4,6-bis(4-fluorophenyl)-2-oxocyclohex-3-ene-1-carboxylate (<bold>2</bold>) was prepared by the condensation of ethyl acetoacetate with the 4,4&#x2032;-difluoro chalcone (<bold>1</bold>) according to the method described in our previous work [<xref ref-type="bibr" rid="B22-molbank-2011-M745">22</xref>]. In a round-bottomed flask, a mixture of &#x3B1;,&#x3B2;-unsaturated cyclohexenone, <bold>2</bold> (3.56 g, 10 mmol) and chloramine-T (5.62 g, 20 mmol) in 50 mL acetic acid was refluxed with stirring for 12 h. The reaction mixture was cooled to room temperature and quenched into 200 mL ice cold water. The solid thus obtained was filtered, washed with water and recrystallized from absolute ethanol to give the title compound as a white crystalline solid (3.1 g, 88%).</p>
+      <p>Melting point: 100&#x2013;101 &#xB0;C. </p>
+      <p>LCMS: <italic>m/z</italic> = 354 (M<sup>+</sup>). </p>
+      <p>IR (KBr): &#x3BD;max (cm<sup>&#x2212;1</sup>), 3439 (broad, O-H phenolic), 3055, 2989, 2906 (C-H aliphatic), 1653 (C=O ester), 1606 (C=C aromatic), 1276 (C-O), 1215 (C-F). </p>
+      <p><sup>1</sup>H NMR (400 MHz, DMSO-d<sub>6</sub>): &#x3B4;/ppm, 0.96 (t, 3H, <italic>J</italic> = 7.2 Hz, CH<sub>3</sub>), 4.02&#x2013;4.07 (q, 2H, CH<sub>2</sub>), 7.05&#x2013;7.72 (m, 10H, Ar-H), 10.23 (s, 1H, OH). </p>
+      <p><sup>13</sup>C NMR (100 MHz, DMSO-d<sub>6</sub>): &#x3B4;/ppm, 13.59 (CH<sub>3</sub>), 60.42 (CO-CH<sub>2</sub>), 112.94, 114.99 (d), 115.66 (d), 118.68, 119.98, 128.84 (d), 130.04 (d), 135.74 (d), 136.38 (d), 140.16, 141.52, 155.36, 160.57 (d), 163.00 (d), 167.29 (C=O).</p>
+      <p>Elemental analysis: Calculated for C<sub>21</sub>H<sub>16</sub>F<sub>2</sub>O<sub>3</sub>, C, 71.18%, H, 4.55%; Found: C, 71.14%, H, 4.54%.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M745">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M745-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M745-s001-mod.mol">
+   <label>Supplementary File 1</label>
+   </supplementary-material>
+     <supplementary-material id="molbank-2011-M745-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M745-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+<ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank the IISc, Bangalore for spectral analysis and UGC- SAP for the financial assistance for the purchase of chemicals.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M745">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural Terphenyls: Developments since 1877</article-title>
+          <source>Chem. Rev.</source>
+          <year>2006</year>
+          <volume>106</volume>
+          <fpage>2209</fpage>
+          <lpage>2223</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr050248c</pub-id>
+          <pub-id pub-id-type="pmid">16771447</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M745">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Astrue</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Modern Arene Chemistry</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2002</year>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M745">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearson</surname>
+              <given-names>D.E.</given-names>
+            </name>
+            <name>
+              <surname>Buehler</surname>
+              <given-names>C.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Friedel-Crafts Acylations with Little or No Catalyst</article-title>
+          <source>Synthesis</source>
+          <year>1972</year>
+          <fpage>533</fpage>
+          <lpage>542</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1972-21912</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M745">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buncel</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Dust</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Terrier</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rationalizing the Regioselectivity in Polynitroarene Anionic &#x3C3;-Adduct Formation. Relevance to Nucleophilic Aromatic Substitution</article-title>
+          <source>Chem. Rev.</source>
+          <year>1995</year>
+          <volume>95</volume>
+          <fpage>2261</fpage>
+          <lpage>2280</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00039a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M745">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hassan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Se&#xB4;vignon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gozzi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Schulz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lemaire</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aryl&#x2212;Aryl Bond Formation One Century after the Discovery of the Ullmann Reaction</article-title>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>1359</fpage>
+          <lpage>1470</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr000664r</pub-id>
+          <pub-id pub-id-type="pmid">11996540</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M745">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Snieckus</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Directed ortho metalation. Tertiary amide and O-carbamate directors in synthetic strategies for polysubstituted aromatics</article-title>
+          <source>Chem. Rev.</source>
+          <year>1990</year>
+          <volume>90</volume>
+          <fpage>879</fpage>
+          <lpage>933</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00104a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M745">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Trost</surname>
+              <given-names>B.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Atom Economy. A Challenge for Organic Synthesis</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1995</year>
+          <volume>34</volume>
+          <fpage>259</fpage>
+          <lpage>281</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199502591</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M745">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saito</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Advances in the Transition-Metal-Catalyzed Regioselective Approaches to Polysubstituted Benzene Derivatives</article-title>
+          <source>Chem. Rev.</source>
+          <year>2000</year>
+          <volume>100</volume>
+          <fpage>2901</fpage>
+          <lpage>2916</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr990281x</pub-id>
+          <pub-id pub-id-type="pmid">11749309</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M745">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kotnis</surname>
+              <given-names>A.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A rapid entry to highly functionalized p-methoxy benzoates</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1990</year>
+          <volume>31</volume>
+          <fpage>481</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="doi">10.1016/0040-4039(90)87013-P</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M745">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tamura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshimoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>An improved method for the conversion of cyclohexenones into anisoles</article-title>
+          <source>Chem. Ind.</source>
+          <year>1980</year>
+          <fpage>888</fpage>
+          <lpage>889</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M745">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hegde</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Kassim</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Kennedy</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aromatization reactions of 2-cyclohexenones and 1,3-cyclohexadien-1-amines with iodine/sodium alkoxide</article-title>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>1689</fpage>
+          <lpage>1698</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(00)01171-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M745">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yadav</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>B.V.S.</given-names>
+            </name>
+            <name>
+              <surname>Sabitha</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>G.S.K.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aromatization of Hantzsch 1,4-Dihydropyridines with I<sub>2</sub>&#x2014;MeOH</article-title>
+          <source>Synthesis</source>
+          <year>2000</year>
+          <fpage>1532</fpage>
+          <lpage>1534</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2000-7613</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2011-M745">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schoop</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Greiving</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Gohrt</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new analogue of rocaglamide by an oxidative dihydrofuran synthesis</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>1913</fpage>
+          <lpage>1916</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)00021-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2011-M745">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Shetty</surname>
+              <given-names>D.N.</given-names>
+            </name>
+            <name>
+              <surname>Raghavendra</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient synthesis of 2,4,6-triaryl pyridines and their biological evaluation</article-title>
+          <source>Der Pharma Chemica</source>
+          <year>2011</year>
+          <volume>3</volume>
+          <fpage>232</fpage>
+          <lpage>240</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2011-M745">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Butcher</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Akkurt</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Sarojini</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,3-Bis(4-fluorophenyl)-<italic>N</italic>,<italic>N&#x2032;</italic>-(propane-1,3-diylidene)dihydroxylamine</article-title>
+          <source>Acta Cryst.</source>
+          <year>2011</year>
+          <volume>E67</volume>
+          <fpage>o1954</fpage>
+          <lpage>o1955</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536811026547</pub-id>
+          <pub-id pub-id-type="pmid">22090995</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2011-M745">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jasinski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Guild</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,3-Dibromo-1,3-bis(4-fluorophenyl)propan-1-one</article-title>
+          <source>Acta Cryst.</source>
+          <year>2010</year>
+          <volume>E66</volume>
+          <fpage>o2018</fpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536810026905</pub-id>
+          <pub-id pub-id-type="pmid">21588329</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2011-M745">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jasinski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Guild</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>3,5-Bis(4-fluorophenyl)-1-phenyl-4,5-dihydro-1<italic>H</italic>-pyrazole</article-title>
+          <source>Acta Cryst.</source>
+          <year>2010</year>
+          <volume>E66</volume>
+          <fpage>o1948</fpage>
+          <lpage>1949</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536810026036</pub-id>
+          <pub-id pub-id-type="pmid">21588274</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2011-M745">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fun</surname>
+              <given-names>H.-K.</given-names>
+            </name>
+            <name>
+              <surname>Hemamalini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-[3,5-Bis(4-fluorophenyl)-4,5-dihydro-1<italic>H</italic>-pyrazol-1-yl]ethanone</article-title>
+          <source>Acta Cryst.</source>
+          <year>2010</year>
+          <volume>E66</volume>
+          <fpage>o582</fpage>
+          <lpage>o583</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536810004435</pub-id>
+          <pub-id pub-id-type="pmid">21580348</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2011-M745">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fun</surname>
+              <given-names>H.-K.</given-names>
+            </name>
+            <name>
+              <surname>Hemamalini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Methyl 4,6-bis(4-fluorophenyl)-2-oxocyclohex-3-ene-1-carboxylate</article-title>
+          <source>Acta Cryst.</source>
+          <year>2010</year>
+          <volume>E66</volume>
+          <fpage>o864</fpage>
+          <lpage>o865</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536810009414</pub-id>
+          <pub-id pub-id-type="pmid">21580687</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2011-M745">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baktir</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Akkurt</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,4-Bis(4-fluorophenyl)-2,3-dihydro-1<italic>H</italic>-1,5-benzodiazepine</article-title>
+          <source>Acta Cryst.</source>
+          <year>2011</year>
+          <volume>E67</volume>
+          <fpage>o1262</fpage>
+          <lpage>1263</lpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536811015455</pub-id>
+          <pub-id pub-id-type="pmid">21754550</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2011-M745">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baktir</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Akkurt</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Samshuddin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>3,5-Bis(4-fluorophenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole-1-carbaldehyde</article-title>
+          <source>Acta Cryst.</source>
+          <year>2011</year>
+          <volume>E67</volume>
+          <fpage>o1292</fpage>
+          <lpage>1293</lpage>
+          <pub-id pub-id-type="doi">10.1107/S160053681101587X</pub-id>
+          <pub-id pub-id-type="pmid">21754699</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2011-M745">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dutkiewicz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Narayana</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Veena</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Yathirajan</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Kubicki</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>(1<italic>RS</italic>,6<italic>SR</italic>)-Ethyl 4,6-bis(4-fluorophenyl)-2-oxocyclohex-3-ene-1-carboxylate</article-title>
+          <source>Acta Cryst.</source>
+          <year>2011</year>
+          <volume>E67</volume>
+          <fpage>o336</fpage>
+          <pub-id pub-id-type="doi">10.1107/S1600536811000171</pub-id>
+          <pub-id pub-id-type="pmid">21523019</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M745-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M745-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of ethyl 4,4&#x2033;-difluoro-5&#x2032;-hydroxy-1,1&#x2032;:3&#x2032;,1&#x2033;-terphenyl-4&#x2032;-carboxylate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M745-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

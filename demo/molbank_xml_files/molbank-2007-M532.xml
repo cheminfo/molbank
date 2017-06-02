@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M532</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M532</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 2-(4-benzyl-3-methyl-6-oxopyridazin-1(6H)-yl)acetohydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Benchat</surname>
+            <given-names>Nour-Eddine</given-names>
+          </name>
+          <xref rid="c1-molbank-2007-M532" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Anaflous</surname>
+            <given-names>Abderrahmane</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abouricha</surname>
+            <given-names>Said</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Mohammed</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Benalla</surname>
+            <given-names>Abderazak</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M532">Department of Chemistry, University Mohamed I, Sciences Faculty, 60000 Oujda, Morocco</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M532"><label>*</label> Author to whom correspondence should be addressed. E-mail: <email>n_benchat@yahoo.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>2</issue>
+      <elocation-id>M532</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>01</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>06</month>
+          <year>2006</year>
+        </date>
+      </history>
+     <permissions>
+        <copyright-statement>&#xA9; 2007 By MDPI (http://www.mdpi.org/).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>pyridazin-3(2H)-one</kwd>
+		<kwd>N-alkylation</kwd>
+		<kwd>anticonvulsive agents</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Pyridazines are of chemical and biological interest. They have been reported to be anticonvulsive agents [<xref ref-type="bibr" rid="B1-molbank-2007-M532">1</xref>], [<xref ref-type="bibr" rid="B2-molbank-2007-M532">2</xref>]. Furthermore, BELLASIO et al. have described the antihypertensive effects of hydrazinopyridazine compounds [<xref ref-type="bibr" rid="B3-molbank-2007-M532">3</xref>]. In continuation of this line of investigation, we have synthesized compound (I); it will be subjected to further pharmacological investigations, especially tests of its anticancer activity. </p>
+	   <p>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M532-i001.tif"/>
+      </p>
+      <p>To (0.86 g, 3 mmol) of ethyl (4-benzyl-3-methyl-6-oxopyridazin-1(6H)-yl)acetate (I), was added 10 ml of hydrazine hydrate. The mixture was placed in a pyrex tube which was then introduced into a Maxidigest MX 350 Prolabo microwave [<xref ref-type="bibr" rid="B4-molbank-2007-M532">4</xref>] monomode reactor and refluxed for 10 min on 60 w as irradiation power. After cooling, the product precipitates, and then is recrystallised in absolute ethanol, yield: 85 % of (II) solid.  </p>
+      <p>Melting point: 197-200&#xB0;C</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3350 (NH), 1680, 1620 (C = O) </p>
+      <p><sup>1</sup>HNMR (300.14 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 2.50 (s, 3H, CH3). 2.53 (s, 2H, NH2), 3.79 (s, 2H, CH2), 4.84 (d, 2H, CH<sub>2</sub>), 6.54 (s, 1H, H4), 7.31 (m, 5H, H aromatic), 7.73 (s, 2H, NH<sub>2</sub>).</p>
+      <p><sup>13</sup>CNMR (75 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 19.55 (CH<sub>3</sub>), 38.82 (CH<sub>2</sub>), 54.73 (CH<sub>2</sub>), 127.77 (CH aromatic), 128.26 (CH aromatic), 129.48 (2 CH aromatic), 135.77, 146.50, 147.34, 161.09 (C=O), 168.32 (C=O). </p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2007-M532">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M532-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M532-s001-mod.mol">
+         <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2007-M532-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M532-s001.mol">
+         <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+	</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2007-M532">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wermuth</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <name>
+              <surname>Leclerc</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Melounov</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Chim. Ther.</source>
+          <year>1971</year>
+          <volume>2</volume>
+          <fpage>109</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2007-M532">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laborit</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wermuth</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <name>
+              <surname>Delbarre</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Chekler</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Baron</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rosen Garten</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>AGRESSOLOGIE</source>
+          <year>1965</year>
+          <volume>6</volume>
+          <fpage>415</fpage>
+          <pub-id pub-id-type="pmid">5845998</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2007-M532">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bellasio</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Parravicini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Testa</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Il Farmaco Ed Sci.</source>
+          <year>1969</year>
+          <volume>11</volume>
+          <fpage>919</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2007-M532">
+        <label>4.</label>
+        <note>
+		<p>(a)
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>Dallinger</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Nature Reviews Drug Discovery</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>51</fpage>
+        </citation> (b)
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+		     <name>
+              <surname>De la Hoz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Diaz-Ortiz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moreno</surname>
+              <given-names>A.</given-names>
+            </name>
+			</person-group>
+			<source>Chem. Soc. Rev.</source>
+			<year>2005</year>
+          <volume>34</volume>
+          <fpage>164</fpage>
+		  </citation>
+		</p>
+		</note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

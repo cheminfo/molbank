@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M874</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M874</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-(3-Iodopropyl)-4-methylquinolin-1-ium Iodide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deligeorgiev</surname>
+            <given-names>Todor</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kurutos</surname>
+            <given-names>Atanas</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M874" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gadjev</surname>
+            <given-names>Nikolai</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M874">Faculty of Chemistry and Pharmacy, Sofia University &#x201C;St. Kliment Ohridski&#x201D;, 1, blv. J. Bourchier, 1164 Sofia, Bulgaria; E-Mails: <email>toddel@chem.uni-sofia.bg</email> (T.D.); <email>nigadjev@abv.bg</email> (N.G.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M874"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>ohtak@chem.uni-sofia.bg</email>; Tel.: +359-2-816-1269; Fax: +359-2-962-5438.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>11</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M874</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A solvent-free &#x201C;one-pot&#x201D; synthetic approach to 1-(3-iodopropyl)-4-methylquinolin-1-ium iodide is reported in the present work. The title compound is derived from N-alkylation of 4-methylquinoline with 1,3-diiodopropane proceeded at room temperature. The target quinolinium salt is obtained in a highly pure form. It&#x2019;s structure was evaluated by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, and DEPT135 spectra.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>4-methylquinoline</kwd>
+        <kwd>1,3-diiodopropane</kwd>
+        <kwd>N-alkylation</kwd>
+        <kwd>1-(3-iodopropyl)-4-methylquinolin-1-ium iodide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M874" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>1-(3-iodopropyl)-4-methylquinolin-1-ium iodide is known as a key intermediate product for the synthesis of several commercially available dyes such as TOTO-1, YOYO-1, TOPRO-1, YOPRO-1 (Life Technologies), used as non-covalently binding fluorescent probes for nucleic acids [<xref ref-type="bibr" rid="B1-molbank-2015-M874">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M874">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M874">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M874">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M874">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M874">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M874">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M874">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M874">9</xref>]. Classic methods for the synthesis of the quinolinium derivative, involve heating of the starting compounds in equimolar ratios using various solvents. Except from the formation of the title compound, this approach always yields a bis-<italic>N</italic>-quaternary side product [(1,1&#x2032;-(propane-1,3-diyl)bis(4-methylquinoline-1-ium)diiodide)], which is rarely mentioned in the literature. </p>
+      <p>We found that pure 1-(3-iodopropyl)-4-methylquinolin-1-ium iodide <bold>3</bold> can be obtained by reacting the two starting compounds <bold>1</bold> and <bold>2</bold> at room temperature using large excess (5 equiv.) of 1,3-diiodopropane <bold>2</bold> according to <xref ref-type="scheme" rid="molbank-2015-M874-sch001">Scheme 1</xref>. In this case, there is no need of column purification in order to refine the target quinolinium derivative, due to the fact that only mono-N-quaternary product is obtained under the reaction conditions reported herein.</p>
+      <p>In general, residues of the dimer side product <bold>4</bold> can be observed when using lower proportions of 4-methylquinoline and 1,3-diiodopropane. Even by heating, which usually takes up to 18&#x2013;20 hours based on reported methods, the reaction mixture does not necessarily prevent the formation of any by-products [<xref ref-type="bibr" rid="B10-molbank-2015-M874">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2015-M874">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M874">12</xref>]. Furthermore, we found that the total yield can considerably be enhanced by adding extra equimolar amounts of the starting materials to the filtrate. This last operation can be repeated several times, according to the general synthetic procedure illustrated in the experimental section. Performing this procedure with one filtration after 21 days, results in significant decrease of the total yield of the mono <italic>N</italic>-quaternary product, and formation of the bis-<italic>N</italic>-quaternary side product (as seen by TLC). Based on these observations, we decided to use the procedure described in our manuscript as a more efficient way to obtain the target product in higher yield and pure form.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M874">
+      <title>2. Experimental Section</title>
+      <sec id="sec2dot1-molbank-2015-M874">
+        <title>2.1. General</title>
+        <p>All reagents and chemicals were purchased from Sigma-Aldrich and TCI America (Portland, OR, USA), and used without any further purification. The deuterated solvent was purchased from Deutero GmbH. The reactions were monitored using TLC plates (Merck F 254 silica gel, Kenilworth, NJ, USA). <sup>1</sup>H and <sup>13</sup>C-NMR spectra were recorded on a Brucker Avance III 500 MHz (Billerica, MA, USA) using DMSO-<italic>d</italic><sub>6</sub> at room temperature. Chemical shifts (&#x3B4;) are reported in ppm and referenced indirectly to the corresponding shift of the deuterated solvent peak. The melting point temperatures were evaluated on a Kofler bench (DDR, Berlin, Germany) and are uncorrected.</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2015-M874">
+        <title>2.2. Experimental Procedure for the Preparation of 1-(3-Iodopropyl)-4-methylquinolin-1-ium Iodide <italic><bold>3</bold></italic></title>
+        <p>&#x410; 250 mL Erlenmeyer flask is charged with 4-methylquinoline <bold>1</bold> (13.25 mL, 0.1 mol) and 1,3-diiodopropane <bold>2</bold> (148 mL, 0.5 mol), and the reaction mixture was stored in a dark place at room temperature. 48 h later, the precipitated product yielded 18.67 g (42.5%). The filtrate was returned to the flask and stored as described previously. After 168 h from the starting point, the second filtration results in extra 10.74 g (24.5%). On the 11th day, the reaction mixture was filtered off again, and resulted in additional 4.98 g (11.3%). The final filtration (after 21 days) gained 6.35 g (14.5%). The total yield of pure mono <italic>N</italic>-quaternary compound <bold>3</bold> is 40.74 g (93%). (monitored by TLC, chloroform/methanol/acetic acid 86:13:1). In order to remove any 1,3-diiodopropane residues, the product is washed with diethyl ether after each filtration, and finally recrystallized from methanol.</p>
+        <p>m.p. = 170&#x2013;172 &#xB0;C, lit. m.p. = 175&#x2013;177 &#xB0;C [<xref ref-type="bibr" rid="B12-molbank-2015-M874">12</xref>].</p>
+        <p><sup>1</sup>H-NMR (500 MHz, DMSO-<italic>d</italic><sub>6</sub>, &#x3B4;/ppm): 2.50 (quint., <italic>J</italic> = 7.3, 2H, CH<sub>2</sub>-<underline>CH<sub>2</sub></underline>-CH<sub>2</sub>), 2.51 (quint., DMSO-<italic>d</italic><sub>6</sub> solvent peak), 3.01 (s, 3H, <underline>CH<sub>3</sub></underline>), 3.37 (t, <italic>J</italic> = 6.7, 2H, <underline>CH<sub>2</sub></underline>-I), 5.05 (t, <italic>J</italic> = 7.5, 2H, <underline>CH<sub>2</sub></underline>-N), 8.05&#x2013;8.09 (m, 2H, 2 x <underline>ArH</underline>), 8.26-8.29 (m, 1H, <underline>ArH</underline>), 8.54&#x2013;8.57 (m, 1H, <underline>ArH</underline>), 8.60 (d, <italic>J</italic> = 8.9, 1H, <underline>ArH</underline>), 9.40 (d, <italic>J</italic> = 6.1, 1H, <underline>ArH</underline>).</p>
+        <p><sup>13</sup>C-NMR (125 MHz, DMSO-<italic>d</italic><sub>6</sub>, &#x3B4;/ppm): 1.7; 19.8; 33.1; 39.5 (DMSO-<italic>d</italic><sub>6</sub> solvent peak); 57.5; 119.1; 122.8; 127.2; 129.0; 129.6; 135.2; 136.9; 148.7; 158.9;</p>
+        <p><xref ref-type="app" rid="app1-molbank-2015-M874">Figure S1</xref> illustrates <sup>1</sup>H-NMR spectrum of <bold>3</bold>, <xref ref-type="app" rid="app1-molbank-2015-M874">Figure S2</xref> represents the <sup>13</sup>C-NMR spectrum of it, and <xref ref-type="app" rid="app1-molbank-2015-M874">Figure S3</xref> is the DEPT135-NMR Spectrum. All spectra were recorded as supplementary materials at 25 &#xB0;C in DMSO-<italic>d</italic><sub>6</sub>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M874">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2015-M874-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M874-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M874-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M874-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M874-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M874-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The listed authors contributed to this work as following: TD contributed to the synthetic approach and together with NG carried out the described method. AK recorded the all spectra and prepared the manuscript. All authors read and approve the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M874">
+        <label>1.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ying</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nucleic Acid Detections and Methods of Their Use</article-title>
+          <source>U.S. Patent</source>
+          <patent>20130137875</patent>
+          <day>30</day>
+          <month>May</month>
+          <year>2013</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M874">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holzhauser</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Berndl</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Menacher</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Breunig</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Goepferich</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wagenknecht</surname>
+              <given-names>H.-A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Optical Properties of Cyanine Dyes as Fluorescent DNA Base Substitutions for Live Cell Imaging</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>1239</fpage>
+          <lpage>1248</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200901423</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M874">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deligeorgiev</surname>
+              <given-names>T.G.</given-names>
+            </name>
+            <name>
+              <surname>Kaloyanova</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Vaquero</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Intercalating cyanine dyes for nucleic acid detection</article-title>
+          <source>Rec. Pat. Mater. Sci.</source>
+          <year>2009</year>
+          <volume>2</volume>
+          <fpage>1</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.2174/1874465610902010001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M874">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deligeorgiev</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Vasilev</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tsvetkova</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Drexhage</surname>
+              <given-names>K.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel monomeric asymmetric tri- and tetracationic monomethine cyanine dyes as fluorescent noncovalent nucleic acid labels</article-title>
+          <source>Dyes Pigm.</source>
+          <year>2007</year>
+          <volume>75</volume>
+          <fpage>658</fpage>
+          <lpage>663</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dyepig.2006.07.012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M874">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kovalska</surname>
+              <given-names>V.B.</given-names>
+            </name>
+            <name>
+              <surname>Tokar</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Losytskyy</surname>
+              <given-names>M.Y.</given-names>
+            </name>
+            <name>
+              <surname>Deligeorgiev</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Vassilev</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gadjev</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Drexhage</surname>
+              <given-names>K.-H.</given-names>
+            </name>
+            <name>
+              <surname>Yarmoluk</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies of monomeric and homodimeric oxazolo[4,5-<italic>b</italic>]pyridinium cyanine dyes as fluorescent probes for nucleic acids visualization</article-title>
+          <source>J. Biochem. Bioph. Methods</source>
+          <year>2006</year>
+          <volume>68</volume>
+          <fpage>155</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jbbm.2006.04.006</pub-id>
+          <pub-id pub-id-type="pmid">16828165</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M874">
+        <label>6.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yue</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>I.D.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Haugland</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unsymmetrical Cyanine Dyes with a Cationic Side Chain</article-title>
+          <source>U.S. Patent</source>
+          <patent>5321130</patent>
+          <day>14</day>
+          <month>June</month>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M874">
+        <label>7.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yue</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>I.D.</given-names>
+            </name>
+            <name>
+              <surname>Haugland</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dimers of Unsymmetrical Cyanine Dyes</article-title>
+          <source>U.S. Patent</source>
+          <patent>5589977</patent>
+          <day>10</day>
+          <month>December</month>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M874">
+        <label>8.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yue</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Haugland</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dimers of Unsymmetrical Cyanine Dyes Containing Pyridinium Moieties</article-title>
+          <source>U.S. Patent</source>
+          <patent>5410030</patent>
+          <day>25</day>
+          <month>April</month>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M874">
+        <label>9.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Millard</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Yue</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Haugland</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluorescent Viability Assay Using Cyclic-Substituted Unsymmetrical Cyanune Dyes</article-title>
+          <source>U.S. Patent</source>
+          <patent>5534416</patent>
+          <day>9</day>
+          <month>July</month>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M874">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alganzory</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Arief</surname>
+              <given-names>M.M.H.</given-names>
+            </name>
+            <name>
+              <surname>Amine</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Ebeid</surname>
+              <given-names>E.-Z.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-Assisted Solvent-Free Synthesis and Fluorescence Spectral Characteristics of Some Monomethine Cyanine Dyes</article-title>
+          <source>J. Chem. Pharm. Res.</source>
+          <year>2014</year>
+          <volume>6</volume>
+          <fpage>143</fpage>
+          <lpage>161</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M874">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cserep</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Enyedi</surname>
+              <given-names>K.N.</given-names>
+            </name>
+            <name>
+              <surname>Demeter</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mezo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kele</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>NIR Mega-Stokes Fluorophores for Bioorthogonal Labeling and Energy Transfer Systems&#x2014;An Efficient Quencher for Daunomycin</article-title>
+          <source>Chem. Asian J.</source>
+          <year>2013</year>
+          <volume>8</volume>
+          <fpage>494</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="doi">10.1002/asia.201201027</pub-id>
+          <pub-id pub-id-type="pmid">23225500</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M874">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Owens</surname>
+              <given-names>C.V.</given-names>
+            </name>
+            <name>
+              <surname>Davidson</surname>
+              <given-names>Y.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Soper</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>High-Resolution Separation of DNA Restriction Fragments Using Capillary Electrophoresis with Near-IR, Diode-Based, Laser-Induced Fluorescence Detection</article-title>
+          <source>Anal. Chem.</source>
+          <year>1997</year>
+          <volume>69</volume>
+          <fpage>1256</fpage>
+          <lpage>1261</lpage>
+          <pub-id pub-id-type="doi">10.1021/ac960975v</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M874-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M874-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Preparation of 1-(3-iodopropyl)-4-methylquinolin-1-ium iodide <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M874-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

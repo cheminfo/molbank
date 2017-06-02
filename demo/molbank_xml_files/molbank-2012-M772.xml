@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M772</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M772</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-[3-(Aziridin-1-yl)-2-hydroxypropyl]-5,5-dimethyl-2,5-dihydro-4H-benzo[e]isoindol-4-one (Cytotoxic Oxonaphthalene-Pyrroles, Part III)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spreitzer</surname>
+            <given-names>Helmut</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M772" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Puschmann</surname>
+            <given-names>Christiane</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M772">Department of Drug and Natural Product Synthesis, Faculty of Life Sciences, University of Vienna, Althanstra&#xDF;e 14, A- 1090 Vienna, Austria</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M772"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>helmut.spreitzer@univie.ac.at</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>08</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>3</issue>
+      <elocation-id>M772</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>06</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>08</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An hydroxypropyl-aziridine-containing side chain is attached to an oxonaphthalene-annelated pyrrole in expectation of DNA alkylating properties. The cytotoxicity is evaluated against two cell lines, KB-31 and KB-8511, respectively.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyrrole</kwd>
+        <kwd>DNA-alkylation</kwd>
+        <kwd>anticancer</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Chlorambucil and melphalan are chemotherapy drugs belonging to the class of nitrogen mustard alkylating agents. Both compounds are believed to exert their antitumor effects by cross-linking DNA via aziridinium cation intermediates arising from the bis(2-chloroethyl)amine moiety [<xref ref-type="bibr" rid="B1-molbank-2012-M772">1</xref>]. Besides that there are anticancer agents with the aziridine moiety, such as TEPA, thio-TEPA and triethylenemelamine with a 1,3,5-triazine nucleus. In continuation of our department&#x2019;s previous studies in the field of antitumor agents [<xref ref-type="bibr" rid="B2-molbank-2012-M772">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M772">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M772">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M772">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M772">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M772">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2012-M772">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2012-M772">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2012-M772">10</xref>], we are reporting in this paper the synthesis of the oxonaphthalene-annelated pyrrole <bold>2</bold> with an attached side chain containing an aziridine group. The rationale is that the three-membered aziridine ring is struturally analogous to the immonium-intermediate formed from the nitrogen mustards. The aziridine moietiy is not charged and the reactivity results from the strain on the three-member ring structure [<xref ref-type="bibr" rid="B11-molbank-2012-M772">11</xref>]. Recent studies with aziridine substituted quinones showed promising results against breast cancer tumor cells [<xref ref-type="bibr" rid="B12-molbank-2012-M772">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2012-M772">13</xref>]. The cytotoxic activity of <bold>2</bold> was evaluated.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Reaction of <bold>1</bold> [<xref ref-type="bibr" rid="B14-molbank-2012-M772">14</xref>] with 2-(chloromethyl)oxirane with KOH in DMSO [<xref ref-type="bibr" rid="B15-molbank-2012-M772">15</xref>] afforded the <italic>N</italic>-alkylated product. The following reaction with aziridine [<xref ref-type="bibr" rid="B16-molbank-2012-M772">16</xref>] gave the target compound <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2012-M772-sch001">Scheme 1</xref>). The biological activity of <bold>2</bold> was tested against two cancer cell lines, KB-31 and KB-8511, respectively. KB-31 is a drug sensitive human epidermoid cell line, whereas KB-8511 is a multi-drug resistant subline, typically overexpressing P-glycoprotein. The IC<sub>50</sub>[&#x3BC;M] values of <bold>2</bold> are 9.362 (KB-31) and 6.452 (KB-8511), respectively (3 days incubation time; staining with 0.05% methylene blue; optical density measured at 665 nm; for further experimental details, see [<xref ref-type="bibr" rid="B17-molbank-2012-M772">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2012-M772">18</xref>]).</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+	  <sec>
+      <title>2-[3-(Aziridin-1-yl)-2-hydroxypropyl]-5,5-dimethyl-2,5-dihydro-4H-benzo[e]isoindol-4-one <italic>(<bold>2</bold>)</italic></title>
+      <p>(a) To a solution of <bold>1</bold> [<xref ref-type="bibr" rid="B12-molbank-2012-M772">12</xref>] (0.5 g, 2.37 mmol) in 4.7 mL of dry DMSO were added at room temperature dropwise under argon 1.5 mL (18.96 mmol) of 2-(chloromethyl)oxirane. Subsequently 0.265 g (4.74 mmol) of KOH were added and stirring was continued for 2 h at room temperature. The reaction mixture was diluted with 9.5 ml of H<sub>2</sub>O, extracted with CH<sub>2</sub>Cl<sub>2</sub>, dried (Na<sub>2</sub>SO<sub>4</sub>), concentrated <italic>in vacuo</italic> and isolated after column chromatography (silica gel, ethyl acetate/light petroleum 70/30). Yield 284 mg (45%) of a colorless oil.</p>
+      <p>(b) The resulting product (284 mg) was dissolved in 4.6 ml EtOH (1% TEA) and after the addition of 0.37 mL (7.2 mmol) of aziridine under argon the reaction mixture was refluxed for 1 h. After concentration <italic>in vacuo</italic> the resulting crude product was purified by column chromatography (silica gel, ethyl acetate/ethanol 95/5) to afford 104 mg (32%) of colorless crystals of <bold>2</bold>. m.p.: 118&#x2013;119 &#xB0;C (ethyl acetate/ethanol). IR (KBr): 3397, 1650, 1526, 1208, 1159 cm<sup>&#x2212;1</sup>. MS (EI, 70 eV) <italic>m/z</italic>: 310 (M<sup>+</sup>, 5%), 268 (M<sup>+</sup>-42, 0.5), 101 (20), 59 (100), 58 (42), 57 (33), 56 (28), 55 (26), 45 (26). <sup>1</sup>H-NMR (CDCl<sub>3</sub>, 200 MHz) &#x3B4; = 7.56 (m, 1H, 9-H), 7.43 (m, 1H, 6-H), 7.40 (d, <italic>J</italic> = 2.2 Hz, 1H, 3-H), 7.22 (m, 2H, 7-H, 8-H), 7.10 (d, <italic>J</italic> = 2.2 Hz, 1H, 1-H), 4.14&#x2013;3.99 (m, 3H, 1'-H, 2'-H), 3.8 (s<sub>br</sub>, 1H, OH), 2.41 (dd, <italic>J</italic> = 7.5 and 12 Hz, 1H, 3'-H), 2.12 (dd, <italic>J</italic> = 3.8 and 12 Hz, 1H, 3'-H), 1.82&#x2013;1.73 (m, 2H, aziridine-CH<sub>2</sub>), 1.50 (s, 6H, (CH<sub>3</sub>)<sub>2</sub>), 1.29&#x2013;1.16 (m, 2H, aziridine-CH<sub>2</sub>). <sup>13</sup>C-NMR (CDCl<sub>3</sub>, 50 MHz) &#x3B4; = 198.6 (C-4), 144.1 (C-5a), 127.1(C-6), 126.8 (C-9a), 126.6 (C-7), 126.2 (C-8), 125.0 (C-9b), 124.1(C-3), 122.7 (C-9), 118.3 (C-3a), 116.1 (C-1), 70.3 (C-2'), 64.0 (C-3'), 54.3 (C-1'), 47.6 (C-5), 28.2/28.1((CH<sub>3</sub>)<sub>2</sub>), 27.6/27.2 (2&#xD7; aziridine-CH<sub>2</sub>). HRMS calc. for C<sub>19</sub>H<sub>22</sub>N<sub>2</sub>O<sub>2</sub>: 310.94 Calc.: 310.1680. Found: 310.1680.</p>
+    </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M772">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M772-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M772-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M772-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M772-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We are indebted to Novartis AG (Vienna, Austria) for the evaluation of the cytotoxic activity.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M772">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Montgomery</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+		  <article-title>Agents That React with DNA</article-title>
+          <source>Cancer Chemotherapeutic Agents, ACS Professional Reference Book</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Foye</surname>
+              <given-names>W.O.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>American Chemical Society</publisher-name>
+          <publisher-loc>Washington, DC, USA</publisher-loc>
+          <year>1995</year>
+          <fpage>111</fpage>
+          <lpage>121</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M772">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pongprom</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of anticancer compounds, III (Bioorg Med Chem Lett 17, 6091, 2007), carbinol derivatives of azanaphthoquinone annelated pyrroles</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>2009</year>
+          <volume>140</volume>
+          <fpage>309</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00706-008-0024-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M772">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shanab</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pongprom</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Wulz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Aicher</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;nther</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of novel cytotoxic azanaphthoquinone annelated pyrrolo oximes</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>6091</fpage>
+          <lpage>6095</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2007.09.054</pub-id>
+          <pub-id pub-id-type="pmid">17904839</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M772">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Puschmann</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dual function antitumor agents based on bioreduction and DNA-alkylation</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>2007</year>
+          <volume>138</volume>
+          <fpage>517</fpage>
+          <lpage>522</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00706-007-0604-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M772">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haider</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sotelo</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,5-Dimethyl-6H-pyridazino[4,5-b]carbazole, a 3-Aza bioisoster of the antitumor alkaloid olivacine</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2002</year>
+          <volume>50</volume>
+          <fpage>1479</fpage>
+          <lpage>1483</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.50.1479</pub-id>
+          <pub-id pub-id-type="pmid">12419913</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M772">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haider</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kabicher</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>K&#xE4;ferb&#xF6;ck</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Plenk</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and <italic>in-vitro</italic> antitumor activity of 1-[3-(indol-1-yl)prop-1-yn-1-yl]phthalazines and related compounds</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>1900</fpage>
+          <lpage>1909</lpage>
+          <pub-id pub-id-type="doi">10.3390/12081900</pub-id>
+          <pub-id pub-id-type="pmid">17960095</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M772">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haider</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jbara</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>K&#xE4;ferb&#xF6;ck</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Traar</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of tetra- and pentacyclic carbazole-fused imides as potential antitumor agents</article-title>
+          <source>ARKIVOC</source>
+          <year>2009</year>
+          <volume>vi</volume>
+          <fpage>38</fpage>
+          <lpage>47</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M772">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Puschmann</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regioselective alkylation of an oxonaphthalene-annelated pyrrol system</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M619</fpage>
+          <pub-id pub-id-type="doi">10.3390/M619</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M772">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Puschmann</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-[4-[Bis(2-chloroethyl)amino]benzyl]-5,5-dimethyl-2,5-dihydro-4H-benzo[e]isoindol-4-one (Cytotoxic Oxonaphthalene-Pyrroles, Part I)</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M651</fpage>
+          <pub-id pub-id-type="doi">10.3390/M651</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M772">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Puschmann</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pichler</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kogard</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tschetschkowitsch</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Heinze</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Bauer</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shabaz</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and NMR-investigation of annelated pyrrole derivatives</article-title>
+          <source>Heterocycles</source>
+          <year>1997</year>
+          <volume>45</volume>
+          <fpage>1989</fpage>
+          <lpage>1997</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-97-7877</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M772">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spreitzer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>F&#xFC;lep</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Puschmann</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>N</italic>-substituted 5,5-dimethyl-2,5-dihydro-4<italic>H</italic>-isoindol-4-ones: Synthesis and NMR-investigation</article-title>
+          <source>Heterocycles</source>
+          <year>1996</year>
+          <volume>43</volume>
+          <fpage>1911</fpage>
+          <lpage>1922</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-96-7510</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2012-M772">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antitumor Evaluation of Novel Bis-Triaziquone Derivatives</article-title>
+          <source>Molecules</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>2306</fpage>
+          <lpage>2316</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules14072306</pub-id>
+          <pub-id pub-id-type="pmid">19633605</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2012-M772">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>Y.T.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A study on inhibition mechanism of breast cancer cells by bis-type triziquone</article-title>
+          <source>Eur. J. Pharmacol.</source>
+          <year>2010</year>
+          <volume>637</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejphar.2010.03.034</pub-id>
+          <pub-id pub-id-type="pmid">20371239</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2012-M772">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>F.J.</given-names>
+            </name>
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Cronk</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Dosset</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Hebbel</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Maduskuie</surname>
+              <given-names>T.P.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Vacek</surname>
+              <given-names>E.P.</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>Y.K.</given-names>
+            </name>
+            <name>
+              <surname>Willard</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Hydroxyacetophenone-derived antagonists of the peptidoleukotrienes</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1989</year>
+          <volume>32</volume>
+          <fpage>807</fpage>
+          <lpage>826</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00124a014</pub-id>
+          <pub-id pub-id-type="pmid">2704027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2012-M772">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giancaspro</surname>
+              <given-names>G.I.</given-names>
+            </name>
+            <name>
+              <surname>Pizzorno</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Albonico</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Bindstein</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Garofalo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zeichen</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of disubstituted tetrahydrocarbazoles with potential antidepressant activity</article-title>
+          <source>Farmaco</source>
+          <year>1989</year>
+          <volume>44</volume>
+          <fpage>483</fpage>
+          <lpage>493</lpage>
+          <pub-id pub-id-type="pmid">2789627</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2012-M772">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naylor</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Threadgill</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Webb</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Startford</surname>
+              <given-names>I.J.</given-names>
+            </name>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Fielder</surname>
+              <given-names>G.E.</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>G.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-Nitroimidazole dual-function bioreductive drugs: Studies on the effects of regioisomerism and side-chain structural modifications on differential cytotoxicity and radiosensitization by aziridinyl and oxiranyl derivatives</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1992</year>
+          <volume>35</volume>
+          <fpage>3573</fpage>
+          <lpage>3578</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00097a015</pub-id>
+          <pub-id pub-id-type="pmid">1404237</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2012-M772">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meyer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Regenass</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Fabbro</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Alteri</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>R&#xF6;sel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Caravatti</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Matter</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A derivative of staurosporine (CGP 41 251) shows selectivity for protein kinase C inhibition and <italic>in vitro</italic> anti-proliferative as well as <italic>in vivo</italic> anti-tumor activity</article-title>
+          <source>Int. J. Cancer</source>
+          <year>1989</year>
+          <volume>43</volume>
+          <fpage>851</fpage>
+          <lpage>856</lpage>
+          <pub-id pub-id-type="doi">10.1002/ijc.2910430519</pub-id>
+          <pub-id pub-id-type="pmid">2714889</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2012-M772">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nicolaou</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Scarpelli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bollbuck</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Werschkun</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Pereira</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Wartmann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Altmann</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Guscio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Giannakakou</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical synthesis and biological properties of pyridine epothilones</article-title>
+          <source>Chem. Biol.</source>
+          <year>2000</year>
+          <volume>7</volume>
+          <fpage>593</fpage>
+          <lpage>599</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1074-5521(00)00006-5</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2012-M772-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M772-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of target compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M772-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

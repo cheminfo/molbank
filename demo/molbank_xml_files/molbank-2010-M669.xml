@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M669</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M669</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>7-(3-Chlorophenylamino)-1-cyclopropyl-6-fluoro-8-nitro-4-oxo-1,4-dihydroquinoline-3-carboxylic Acid</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Hiari</surname>
+            <given-names>Yusuf Mohammad</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M669" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2010-M669" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Qandil</surname>
+            <given-names>Amjad M.</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M669" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Zoubi</surname>
+            <given-names>Rufaida M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M669" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alzweiri</surname>
+            <given-names>Muhammed H.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M669" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Darwish</surname>
+            <given-names>Rula M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M669" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shattat</surname>
+            <given-names>Ghassan F.</given-names>
+          </name>
+          <xref rid="af3-molbank-2010-M669" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Qirim</surname>
+            <given-names>Tariq M.</given-names>
+          </name>
+          <xref rid="af3-molbank-2010-M669" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M669"><label>1</label>Faculty of Pharmacy, University of Jordan, Amman-11942, Jordan</aff>
+      <aff id="af2-molbank-2010-M669"><label>2</label>Faculty of Pharmacy, Jordan University of Science and Technology, Irbid, Jordan</aff>
+      <aff id="af3-molbank-2010-M669"><label>3</label>Faculty of Pharmacy, Al-Zaytoonah Private University of Jordan, Amman-11733, Jordan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M669"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>hiary@ju.edu.jo</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>2</issue>
+      <elocation-id>M669</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>7-(3-Chlorophenylamino)-1-cyclopropyl-6-fluoro-8-nitro-4-oxo-1,4-dihydro-quinoline-3-carboxylic acid (<bold>2</bold>) was prepared and fully characterized by NMR, IR, and MS. Compound <bold>2</bold> exhibited good antibacterial activity against gram-positive standard and resistant strains.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>7-anilinofluoroquinolone</kwd>
+        <kwd>fluoroquinolone</kwd>
+        <kwd>antibacterial</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M669" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>To date, fluoroquinolones represent successful synthetic antibacterial agents [<xref ref-type="bibr" rid="B1-molbank-2010-M669">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M669">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M669">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M669">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M669">5</xref>]. However, increased prescribing has led to the recent emergence of fluoroquinolone-resistant bacteria which has necessitated the search for newer drugs with efficacy against resistant strains [<xref ref-type="bibr" rid="B6-molbank-2010-M669">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M669">7</xref>]. The present work aims at the synthesis of a new fluoroquinolone derivative (<bold>2</bold>) and screening of its activity.</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M669" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>An earlier study carried out by our team [<xref ref-type="bibr" rid="B4-molbank-2010-M669">4</xref>] revealed that substitution of lipophilic groups such as aniline at C-7 of 8-nitrofluoroquinolone (<bold>1</bold>) produced noticeable increase in gram-positive activity, especially against resistant strains with significant loss of gram-negative activity [<xref ref-type="bibr" rid="B4-molbank-2010-M669">4</xref>]. This research aims at further investigation of halogenated aniline derivatives exemplified by compound <bold>2</bold>. Synthon <bold>1</bold> involved introducing an electron-withdrawing nitro group at C-8 to facilitate coupling of the chloroaniline [<xref ref-type="bibr" rid="B4-molbank-2010-M669">4</xref>]. Although compound <bold>2</bold> was prepared by direct coupling of 7-chloro-6-fluoro-8-nitro-4-oxo-1,4-dihydroquinoline-3-carboxylic acid (<bold>1b</bold>) with a 2 molar excess of 3-chloroaniline in DMF/pyridine (7:3 V/V), the yield was very low after chromatographic separation from many side products. Alternatively, the chloroaniline was reacted with the correspondent ester (<bold>1a</bold>) to produce the target acid <bold>2</bold> in satisfactory yield upon hydrolysis of the ester intermediate (<xref ref-type="scheme" rid="molbank-2010-M669-sch001">Scheme 1</xref>).</p>
+      <p>The <italic>in vitro</italic> antibacterial activity of <bold>2</bold> was evaluated against standard and resistant isolates of gram-positive <italic>Staphylococcus aureus</italic> and gram-negative <italic>Escherichia coli</italic> bacteria, using broth dilution method. Compound <bold>2</bold> revealed excellent antimicrobial activity against standard <italic>S. aureus</italic> strains (ATCC6538) with minimum inhibitory concentrations (MIC) of 0.88 &#xB5;g/mL. Interestingly, it showed good activity against resistant isolates of <italic>S. aureus</italic> gram-positive bacteria with MIC value of 7.0 &#xB5;g/mL. These data are comparable to ciprofloxacin reference which showed MIC values of 2.9 &#xB5;g/mL and 1.4 &#xB5;g/mL, respectively, against both gram-positive strains. </p>
+      <p>These findings are in correlation with literature findings that more lipophilic quinolones can better penetrate the lipophilic cell membrane of gram-positive bacteria [<xref ref-type="bibr" rid="B8-molbank-2010-M669">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M669">9</xref>]. </p>
+    </sec>
+    <sec id="sec3-molbank-2010-M669" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>Two molar equivalents of 3-chloroaniline (0.36 g) were gradually added to a solution of ethyl 7-chloro-1-cyclopropyl-6-fluoro-8-nitro-4-oxo-1,4-dihydroquinoline-3-carboxylate (<bold>1a</bold>) (0.5 g) in 10 mL of DMSO and a few drops of pyridine. The mixture was heated at 70&#x2013;80 &#xB0;C under anhydrous conditions. The reaction mixture was left to crystallize, then filtered and the product was left to dry in a dark place. The resulting solid was recrystallized from methanol/chloroform (3x) to give fairly pure ester intermediate (0.15 g, 24%). The intermediate was then hydrolyzed upon dissolving the solid in ethanol and adding conc. HCl (10 mL). The mixture was heated at 70&#x2013;80 &#xB0;C for 5 h, then compound <bold>2</bold> was collected by filtration and dried to give a yellow solid (0.13 g, 93%). </p>
+      <p>M.p.: 240&#x2013;243 &#xB0;C (decomp).</p>
+      <p>IR (KBr, cm<sup>&#x2212;1</sup>): <italic>&#x3BD;</italic> 3434, 3390, 2942, 1735, 1640, 1535, 1467, 1365, 1210, 1225.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-<italic>d</italic><sub>6</sub>): <italic>&#x3B4;</italic> 0.95, 1.02 (2m, 4H, H<sub>2</sub>-2&#x2032;/H<sub>2</sub>-3&#x2032;), 3.71 (m, 1H, H-1&#x2032;), 7.16 (dd, <italic>J</italic> = 1.0, 7.8 Hz, 1H, Ar-H), 7.39 (dd, <italic>J</italic> = 7.8, 8.1 Hz, 1H, Ar-H), 7.49 (d, <italic>J</italic> = 8.4 Hz, 1H, Ar-H), 7.98 (m, <italic>J<sub>H5-F</sub></italic> = 11.2 Hz, 2H, Ar-H and H-5), 8.50 (br s, 1H, NH, D<sub>2</sub>O exchangeable), 8.76 (s, 1H, H-2), 12.95 (br s, 1H, CO<sub>2</sub>H).</p>
+      <p>MS (CI/ESI-ve): <italic>m/z</italic> (% rel. int.): calcd. for C<sub>19</sub>H<sub>13</sub>ClFN<sub>3</sub>O<sub>5</sub> (417.8): 419 (5), 418 (34), 417 (21), 416 (78), 383 (4), 360 (5), 359 (35), 339 (7), 325 (6), 311 (8), 293 (12), 265 (100), 191 (6), 161 (6).</p>
+      <p>Elemental Analysis: Calcd. for C<sub>19</sub>H<sub>13</sub>ClFN<sub>3</sub>O<sub>5</sub>, C, 54.62; H, 3.14; N, 10.06. Found: C, 54.61; H, 3.20; N, 9.97.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M669">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M669-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M669-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M669-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M669-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We wish to thank the University of Jordan represented by the Deanship of Academic Research and Hamdi Mango Research Center.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M669">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wise</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Andrews</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>L.J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vitro</italic> activity of Bay 09867, a new quinoline derivative, compared with those of other antimicrobial agents</article-title>
+          <source>Antimicrob. Agents Chemother.</source>
+          <year>1983</year>
+          <volume>23</volume>
+          <fpage>559</fpage>
+          <lpage>564</lpage>
+          <pub-id pub-id-type="doi">10.1128/AAC.23.4.559</pub-id>
+          <pub-id pub-id-type="pmid">6222695</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M669">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhanel</surname>
+              <given-names>G.G.</given-names>
+            </name>
+            <name>
+              <surname>Ennis</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Vercaigne</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Walkty</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gin</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Embil</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hoban</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A critical review of the fluoroquinolones: Focus on respiratory tract infections</article-title>
+          <source>Drugs</source>
+          <year>2002</year>
+          <volume>62</volume>
+          <fpage>13</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="doi">10.2165/00003495-200262010-00002</pub-id>
+          <pub-id pub-id-type="pmid">11790155</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M669">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>De Almeida</surname>
+              <given-names>M.V.</given-names>
+            </name>
+            <name>
+              <surname>De Souza</surname>
+              <given-names>M.V.N.</given-names>
+            </name>
+            <name>
+              <surname>Couri</surname>
+              <given-names>M.R.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological activity and synthetic metodologies for the preparation of fluoroquinolones, a class of potent antibacterial agents</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2003</year>
+          <volume>10</volume>
+          <fpage>21</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.2174/0929867033368637</pub-id>
+          <pub-id pub-id-type="pmid">12570719</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M669">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Hiari</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Al-Mazari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shakya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Darwish</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Abu-Dahab</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial properties of new 8-nitrofluoroquinolone derivatives</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>1240</fpage>
+          <lpage>1258</lpage>
+          <pub-id pub-id-type="doi">10.3390/12061240</pub-id>
+          <pub-id pub-id-type="pmid">17876293</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M669">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baker</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dimitroff</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Huh</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Ryckman</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Shang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Shawar</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Therrien</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A prodrug approach towards the development of water soluble fluoroquinolones and structure-activity relationships of quinoline-3-carboxylic acids</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>47</volume>
+          <fpage>4693</fpage>
+          <lpage>4709</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm0497895</pub-id>
+          <pub-id pub-id-type="pmid">15341485</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M669">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ball</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quinolone generations: Natural history or natural selection</article-title>
+          <source>J. Antimicrobial. Chemother.</source>
+          <year>2000</year>
+          <volume>46</volume>
+		  <comment>(Topic T1)</comment>
+          <fpage>17</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.jac.a020889</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M669">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>F.J.</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular mechanisms of fluoroquinolone resistance</article-title>
+          <source>J. Microbiol. Immunol. Infect.</source>
+          <year>2003</year>
+          <volume>36</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">12741725</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M669">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Renau</surname>
+              <given-names>T.E.</given-names>
+            </name>
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Gage</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Dever</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Grackeck</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Domagala</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-activity relationships of the quinolone antibacterials against mycobacteria: Effect of structural changes at N-1 and C-7</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1996</year>
+          <volume>39</volume>
+          <fpage>729</fpage>
+          <lpage>735</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm9507082</pub-id>
+          <pub-id pub-id-type="pmid">8576916</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M669">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khalil</surname>
+              <given-names>O.M.</given-names>
+            </name>
+            <name>
+              <surname>Roshdy</surname>
+              <given-names>S.M.A.</given-names>
+            </name>
+            <name>
+              <surname>Shaaban</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Hasanein</surname>
+              <given-names>M.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New 7-substituted fluoroquinolones</article-title>
+          <source>Bull. Fac. Pharm.</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>89</fpage>
+          <lpage>96</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2010-M669-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M669-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of target compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M669-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M712</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M712</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methyl 4-[(Benzoylamino)methoxy]benzoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Popovski</surname>
+            <given-names>Emil</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M712" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M712" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mladenovska</surname>
+            <given-names>Kristina</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M712" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Panovska</surname>
+            <given-names>Ana Poceva</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M712" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M712"><label>1</label>Institute of Chemistry, Faculty of Natural Sciences &amp; Mathematics, Ss. Cyril and Methodius University, Arhimedova 5, PO Box 162, 1000 Skopje, Macedonia</aff>
+      <aff id="af2-molbank-2011-M712"><label>2</label>Department of Drug Design and Metabolism, Faculty of Pharmacy, Ss. Cyril and Methodious University, Vodnjanska 17, 1000 Skopje, Macedonia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M712"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>popovski.emil@gmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M712</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>12</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Methylparabene <bold>(2)</bold> was simply benzamidomethylated with (benzamidomethyl)-triethylammonium chloride (<bold>1</bold>) in aqueous medium to afford methyl 4-(benzamido-methoxy)benzoate (<bold>3</bold>) in high yield. The title compound was characterized by elemental analysis, FT-IR, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>methylparabene</kwd>
+        <kwd>benzamidomethylation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>This paper aims to present a compound similar to methyl 4-methoxybenzoate in which methyl from the methoxy group is replaced with a benzamidomethyl group. Methyl 4-methoxybenzoate, also known as methyl anisate, has been frequently used as pharmaceutical intermediate and in many organic syntheses [<xref ref-type="bibr" rid="B1-molbank-2011-M712">1</xref>] and in food as flavoring agent [<xref ref-type="bibr" rid="B2-molbank-2011-M712">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M712">3</xref>]. In addition, it can be found as volatile component in many plants and mushrooms [<xref ref-type="bibr" rid="B4-molbank-2011-M712">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M712">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2011-M712">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M712">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M712">8</xref>].</p>
+      <p>Although (benzamidomethyl)triethylammonium chloride (<bold>1</bold>) is an excellent reagent for benzamido-methylation of phenols [<xref ref-type="bibr" rid="B9-molbank-2011-M712">9</xref>], in our previous work [<xref ref-type="bibr" rid="B10-molbank-2011-M712">10</xref>] we demonstrated that the phenol group at 4-hydroxybenzoic acid cannot be benzamidomethylated with <bold>1</bold> in aqueous media. The carboxylic group as a weak nucleophile in aqueous media does not react [<xref ref-type="bibr" rid="B11-molbank-2011-M712">11</xref>], but it deactivates the phenol group in the molecule of 4-hydroxybenzoic acid. Since in methylparabene <bold>(2)</bold> the carboxylic group is protected, the hydroxy group can be easily benzamidomethylated with <bold>1</bold> in aqueous media to give methyl 4-[(benzoylamino)methoxy]benzoate (<bold>3</bold>) (<xref ref-type="scheme" rid="molbank-2011-M712-sch001">Scheme 1</xref>).</p>
+	  <fig id="molbank-2011-M712-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M712-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route to the title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M712-sch001.tif"/>
+      </fig>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Compound <bold>1</bold> is not commercially available and it was synthesised as described previously [<xref ref-type="bibr" rid="B9-molbank-2011-M712">9</xref>].</p>
+      <sec>
+        <title>Methyl 4-[(benzoylamino)methoxy]benzoate (<bold>3</bold>)</title>
+        <p>To a mixture of powdered <bold>1</bold> (1.058 g, 3.9 mmol), <bold>2</bold> (0.501 g, 3.3 mmol), ethanol (20 mL) and triethylamine (0.2 mL), water was continually added, drop by drop, until a clear solution was obtained. The mixture was stirred for 5 h at room temperature. Then, water was added to the mixture until occurrence of a precipitate. The typical yield of crude colorless crystals with mp of 133&#x2013;140 &#xB0;C was 80%. Purification was performed by dissolving the product in acetone followed by precipitation with water and subsequent recrystallization from toluene.</p>
+        <p>Melting point of pure crystals: 142&#x2013;143 &#xB0;C (uncorrected).</p>
+        <p>FT-IR (KBr): 3,290 (&#x3BD;NH), 1,718 (&#x3BD;OC=O), 1,663 (Amide I), 1,555 cm<sup>&#x2212;1</sup> (Amide II)</p>
+        <p><sup>1</sup>H-NMR (250 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;/ppm 9.64 (t, <italic>J</italic> = 6.6 Hz, 1H, NH); 7.93&#x2013;7.15 (9H, Ar); 5.41 (d, <italic>J</italic> = 6.6 Hz, 2H, N-CH<sub>2</sub>-O); 3.81 (s, 3H, CH<sub>3</sub>)</p>
+        <p><sup>13</sup>C-NMR (63 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;/ppm 167.0 (C=O); 165.9 (C=O); 68.7 (CH<sub>2</sub>); 51.9 (CH<sub>3</sub>); <italic>Ar</italic>: 160.8, 133.3, 132.1, 131.2, 128.6, 127.5, 122.3, 115.2.</p>
+        <p>Anal. Calcd. (found) for C<sub>16</sub>H<sub>15</sub>NO<sub>4</sub>: C, 67.36 (67.55); H, 5.30 (5.41); N, 4.91 (5.07).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2011-M712">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M712-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M712-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2011-M712-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M712-s001.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        </app>
+	</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M712">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Pullambhatla</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Guilarte</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Mease</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Pomper</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of [125I]iodoDPA-713: A new probe for imaging inflammation</article-title>
+          <source>Biochem. Biophys. Res Commun.</source>
+          <year>2009</year>
+          <volume>389</volume>
+          <fpage>80</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbrc.2009.08.102</pub-id>
+          <pub-id pub-id-type="pmid">19703411</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M712">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perriot</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Breme</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Meierhenrich</surname>
+              <given-names>U.J.</given-names>
+            </name>
+            <name>
+              <surname>Carenini</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ferrando</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Baldovini</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical composition of French mimosa absolute oil</article-title>
+          <source>J. Agric. Food Chem.</source>
+          <year>2010</year>
+          <volume>58</volume>
+          <fpage>1844</fpage>
+          <lpage>1849</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf903264n</pub-id>
+          <pub-id pub-id-type="pmid">20070087</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M712">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Panda</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Perfumes and Flavours Technology Handbook</source>
+          <publisher-name>Asia Pacific Business Press Inc</publisher-name>
+          <publisher-loc>Delhi, India</publisher-loc>
+          <year>2010</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M712">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rapior</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Breheret</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Talou</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>P&#xE9;lissier</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Bessi&#xE8;re</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The anise-like odor of Clitocybe odora, Lentinellus cochleatus and Agaricus essettei</article-title>
+          <source>Mycologia</source>
+          <year>2002</year>
+          <volume>94</volume>
+          <fpage>373</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="doi">10.2307/3761770</pub-id>
+          <pub-id pub-id-type="pmid">21156507</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M712">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Binder</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Flath</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Volatile components of pineapple guava</article-title>
+          <source>J. Agric. Food Chem.</source>
+          <year>1989</year>
+          <volume>37</volume>
+          <fpage>734</fpage>
+          <lpage>736</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf00087a034</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M712">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hardy</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Michael</surname>
+              <given-names>B.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Volatile components of <italic>feijoa</italic> fruits</article-title>
+          <source>Phytochemistry</source>
+          <year>1970</year>
+          <volume>9</volume>
+          <fpage>1355</fpage>
+          <lpage>1357</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(00)85331-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M712">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shaw</surname>
+              <given-names>J.G.</given-names>
+            </name>
+            <name>
+              <surname>Ellingham</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Birch</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Volatile constituents of feijoa-headspace analysis of intact fruit</article-title>
+          <source>J. Sci. Food Agric.</source>
+          <year>1983</year>
+          <volume>34</volume>
+          <fpage>743</fpage>
+          <lpage>747</lpage>
+          <pub-id pub-id-type="doi">10.1002/jsfa.2740340712</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M712">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ceballos</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pino</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Quijano-Celis</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Dago</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimization of a HS-SPME/GC-MS Method for determination of volatile compounds in some Cuban unifloral honeys</article-title>
+          <source>J. Food Quality</source>
+          <year>2010</year>
+          <volume>33</volume>
+          <fpage>507</fpage>
+          <lpage>528</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1745-4557.2010.00330.x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M712">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Klisarova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vikic-Topic</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simple method for benzamidomethylation of phenols in water solution</article-title>
+          <source>Synth. Commun.</source>
+          <year>1999</year>
+          <volume>29</volume>
+          <fpage>3451</fpage>
+          <lpage>3458</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919908085975</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M712">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Mladenovska</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>(Benzoylamino)methyl 4-hydroxybenzoate</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M658</fpage>
+          <pub-id pub-id-type="doi">10.3390/M658</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M712">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Klisarova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vikic-Topic</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Benzamidomethylation with (benzamidomethyl)-triethylammonium chloride 2. A simple method for benzamidomethylation of thiols, amines and carboxylic acids</article-title>
+          <source>Molecules</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <fpage>927</fpage>
+          <lpage>936</lpage>
+          <pub-id pub-id-type="doi">10.3390/50700927</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

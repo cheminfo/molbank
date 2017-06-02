@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M501</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M501</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-Nitro-3-[(benzylsulfonyl)methyl]benzene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grohmann</surname>
+            <given-names>Daniel G.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hathaway</surname>
+            <given-names>Bruce A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M501" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M501">Department of Chemistry, MS 6400, One University Plaza, Southeast Missouri State University, Cape Girardeau, MO, USA, Tel. 001 573-651-2370, e-mail: <email>bahathaway@semo.edu</email></aff>
+	   <author-notes>
+        <corresp id="c1-molbank-2006-M501"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M501</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>08</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+		</permissions>
+      <kwd-group>
+        <kwd>sulfide</kwd>
+        <kwd>sulfone</kwd>
+        <kwd>oxidation</kwd>
+        <kwd>hydrogen peroxide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>In the course of our work to prepare inhibitors of the enzyme dihydrofolate reductase, we desired to prepare sulfone analogues of some similar sulfides [<xref ref-type="bibr" rid="B1-molbank-2006-M501">1</xref>, <xref ref-type="bibr" rid="B2-molbank-2006-M501">2</xref>]. Therefore, we prepared the nitrosulfide <bold>1</bold>, and oxidized it with hydrogen peroxide in acetic acid [<xref ref-type="bibr" rid="B3-molbank-2006-M501">3</xref>, <xref ref-type="bibr" rid="B4-molbank-2006-M501">4</xref>] to prepare the corresponding nitrosulfone, <bold>2</bold>.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M501-i001.tif"/></p>
+      <p>A mixture of 3-nitrobenzyl bromide (6.482 g, 30.00 mmoles), benzyl mercaptan (3.744 g, 30.14 mmoles), and potassium carbonate (4.247 g, 30.73 mmoles) were added to a round bottom flask containing 60 mL acetone. The reaction mixture was refluxed overnight. The potassium bromide that formed in the reaction was removed by vacuum filtration. The acetone was removed from the filtrate by using the rotavap to yield the crude 1-nitro-3-(benzylthio)methyl]benzene, <bold>1</bold>, as a dark viscous liquid in quantitative yield. This product was used without further purification in the next reaction.</p>
+      <p>A mixture of 1-nitro-3-[(benzylthio)methyl]benzene, <bold>1</bold>, (5.192 g, 20.02 mmoles), 10 mL of 30% hydrogen peroxide, and 40 mL glacial acetic acid were combined in a round bottom flask and refluxed for 24 hours. The reaction mixture was allowed to cool. The solid which had formed was collected via vacuum filtration and allowed to dry, to yield 4.336 g (14.88 mmoles) of 1-nitro-3-[(benzylsulfonyl)methyl]benzene, <bold>2</bold>. The percent yield of this reaction was 74%.</p>
+     <p>Melting Point: 151 <sup>o</sup>C (decomposes)</p>
+      <p>IR (cm<sup>-1</sup>): 1520, 1351, 1319, 1297, 1280, 1112, 809, 730, 712, 695, 680, 671.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 8.25 (1H, doublet, J = 8 Hz), 8.15 ppm (1H, singlet), 7.7 (1H, doublet, J= 8 Hz), 7.55 (1H, triplet, J = 8 Hz), 7.4 (5H, multiplet), 4.3 (2H, singlet), 4.2 (2H, singlet).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 148.3, 137.1, 130.7, 129.9, 129.4, 129.3, 129.2, 127.2, 125.9, 124.0, 59.4, 56.7.</p>
+      <p>GC-MS [E.I., m/z (relative intensity)]: 91 (100), 89 (10), 77 (10), 291 (M<sup>+</sup>, trace).</p>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2006-M501">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M501-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M501-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M501-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M501-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgment</title>
+      <p>The authors thank the Grants and Research Funding Committee of Southeast Missouri State University for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2006-M501">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Selassie</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.-r.</given-names>
+            </name>
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Khwaja</surname>
+              <given-names>T. A.</given-names>
+            </name>
+            <name>
+              <surname>Pentacost</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparison of the Inhibition of Growth of Methotrexate-resistant and &#x2013;Sensitive Leukemia Cells in Culture by Triazines. Evidence of a New Mechanism of Cell resistance to Methotrexate</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1982</year>
+          <volume>25</volume>
+          <fpage>157</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00344a013</pub-id>
+          <pub-id pub-id-type="pmid">7057421</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M501">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hathaway</surname>
+              <given-names>B.A.</given-names>
+            </name>
+			<name>
+              <surname>Guo</surname>
+              <given-names>Z.-r.</given-names>
+            </name>
+			<name>
+              <surname>Selassie</surname>
+              <given-names>C.D.</given-names>
+            </name>
+			<name>
+              <surname>Dietrich</surname>
+              <given-names>S.W.</given-names>
+            </name>
+			<name>
+              <surname>Blaney</surname>
+              <given-names>J.M.</given-names>
+            </name>
+			<name>
+              <surname>Langridge</surname>
+              <given-names>R.</given-names>
+            </name>
+			<name>
+              <surname>Volz</surname>
+              <given-names>K.W.</given-names>
+            </name>
+			<name>
+              <surname>Kaufman</surname>
+              <given-names>B.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystallography, QSAR, and Molecular Graphics in a Comparative Analysis of the Inhibition of Dihydrofolate Reductase from Chicken Liver and <underline>L. casei</underline> by 4,6-Diamino-1,2-dihydro-2,2-dimethyl-1-(x-phenyl)-s-triazines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1984</year>
+          <volume>27</volume>
+          <fpage>129</fpage>
+          <lpage>143</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00368a006</pub-id>
+          <pub-id pub-id-type="pmid">6420569</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M501">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rheinboldt</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Giesbrecht</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Configuration of Sulfoxides. Mixed Crystals of Sulfoxides and Sulfones</article-title>
+          <source>J. Amer. Chem. Soc.</source>
+          <year>1946</year>
+          <volume>68</volume>
+          <fpage>973</fpage>
+          <lpage>978</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01210a019</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M501">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ongley</surname>
+              <given-names>P.S.</given-names>
+            </name>
+          </person-group>
+		  <source>Practical Handbook of Organic Chemistry</source>
+          <publisher-name>Addison-Wesley Publishing Company, Inc</publisher-name>
+          <publisher-loc>Reading, MA</publisher-loc>
+          <year>1973</year>
+          <fpage>637</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

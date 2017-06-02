@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M737</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M737</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-<italic>tert</italic>-Butyl-5,6,7,8,9,10-hexahydrocyclohepta[<italic>b</italic>]indole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Falke</surname>
+            <given-names>Hannes</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bumiller</surname>
+            <given-names>Katharina</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harbig</surname>
+            <given-names>Sabrina</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Masch</surname>
+            <given-names>Andreas</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wobbe</surname>
+            <given-names>Janina</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kunick</surname>
+            <given-names>Conrad</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M737" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M737">Institut f&#xFC;r Medizinische und Pharmazeutische Chemie, Technische Universit&#xE4;t Braunschweig, Beethovenstr. 55, 38106 Braunschweig, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M737"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>c.kunick@tu-braunschweig.de</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>09</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M737</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>09</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>2-<italic>tert</italic>-Butyl-5,6,7,8,9,10-hexahydrocyclohepta[<italic>b</italic>]indole was synthesized by reaction of cycloheptanone and (4-<italic>tert</italic>-butylphenyl)hydrazine hydrochloride in the presence of sodium acetate and sulfuric acid in glacial acetic acid via Fischer indole synthesis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Fischer indole synthesis</kwd>
+        <kwd>paullones</kwd>
+        <kwd>hydrazines</kwd>
+        <kwd>cycloheptanone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Paullones are an established class of protein kinase inhibitors based on the 7,12-dihydroindolo[3,2-<italic>d</italic>][1]benzazepin-6(5<italic>H</italic>)-one molecular scaffold. As commercially available agents paullones are widely used as biochemical tools. Among other biological properties, paullones have demonstrated antiproliferative activity on cancer cell lines on the one hand [<xref ref-type="bibr" rid="B1-molbank-2011-M737">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M737">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M737">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M737">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M737">5</xref>] and protection of insulin producing pancreatic beta cells against apoptosis on the other hand [<xref ref-type="bibr" rid="B6-molbank-2011-M737">6</xref>]. Recently paullone chalcone hybrid structures <bold>1</bold> were reported to inhibit the growth of <italic>Leishmania</italic> amastigotes in vitro [<xref ref-type="bibr" rid="B7-molbank-2011-M737">7</xref>]. In order to study structure-activity relationships regarding this antiparasitic activity congeners related to <bold>1</bold> are currently investigated. In the course of these studies we were interested in 2-<italic>tert</italic>-butyl-5,6,7,8,9,10-hexahydrocyclohepta[<italic>b</italic>]indole (<bold>2</bold>) representing the <italic>tert</italic>-butyl substituted indole fragment reminiscent of the paullone substructure in <bold>1</bold>. A thorough survey of the literature revealed that <bold>2</bold> was hitherto unknown. </p>
+      <p>The synthesis of <bold>2</bold> was accomplished by a straightforward Fischer indole synthesis [<xref ref-type="bibr" rid="B8-molbank-2011-M737">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M737">9</xref>] protocol from cycloheptanone (<bold>3</bold>) and (4-<italic>tert</italic>-butylphenyl)hydrazine hydrochloride (<bold>4</bold>).</p>
+	  <disp-formula>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M737-i001.tif"/>
+		</disp-formula>
+      <p>In order to identify suitable reaction conditions an equimolar amount of the reactants <bold>3</bold>, <bold>4</bold> and sodium acetate in glacial acetic acid were stirred at 70 &#xB0;C in the presence of a catalytic amount of concentrated sulfuric acid yielding 64% of the desired product. Higher reaction temperatures led to a slightly increased yield but produced small amounts of unidentified side products which were cumbersome to remove. Modifications of reaction temperature and ratio of reactants led to an optimized procedure. Eventually, a protocol was established in which a 2.0 mmol: 2.4 mmol mixture of <bold>3</bold> and <bold>4</bold> was stirred for overall 4 h at 70 &#xB0;C with addition of sulfuric acid after 1 h. This method yielded 75% (72&#x2013;79%) as an average of two reruns.</p>
+	  <disp-formula>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M737-i002.tif"/>
+		</disp-formula>
+		<sec>
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>(4-<italic>tert</italic>-Butylphenyl)hydrazine hydrochloride was purchased from Sigma-Aldrich and cycloheptanone from Acros Organics. Melting points were determined in open-glass capillaries on an electric variable heater (Electrothermal IA 9100). FT-IR absorption spectra were recorded on a Thermo Nicolet FT-IR 200 spectrometer using KBr pellets. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on a Bruker Avance DRX-400 (NMR laboratories of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig) using DMSO-<italic>d</italic><sub>6</sub> as solvent. Chemical shifts are reported as parts per million (ppm) downfield from TMS used as an internal standard. The elemental analysis was recorded on a CE Instruments FlashEA<sup>&#xAE;</sup> 1112 Elemental Analyzer. The reaction was monitored by TLC (Macherey-Nagel Polygram SIL G/UV<sub>254</sub>) using toluene/ethyl acetate mixtures as eluent. The mass spectrum was recorded on a ThermoFisher Scientific LTQ-Orbitrap Velos (department of mass spectrometry of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig). HPLC was performed on a Merck Hitachi LaChrom Elite system (pump: L-2130, DAD detector: L-2450; autosampler: L-2200; column: Merck LiChroCART 125-4, LiChrospher 100 RP-18 (5 &#x3BC;m); eluent: acetonitrile/water mixture (70:30), elution rate 1.000 mL/min; detection wavelength: 254 nm and 280 nm; overall run time: 15 min.); <italic>t</italic><sub>ms</sub> = total retention time, <italic>t</italic><sub>s</sub> = dead time.</p>
+      </sec>
+      <sec>
+        <title>2-tert-Butyl-5,6,7,8,9,10-hexahydrocyclohepta[b]indole</title>
+        <p>A mixture of cycloheptanone (<bold>3</bold>) (0.224 g; 2.00 mmol), (4-<italic>tert</italic>-butylphenyl)hydrazine hydrochloride (<bold>4</bold>) (0.482 g; 2.40 mmol) and sodium acetate (0.197g; 2.40 mmol) was stirred in glacial acetic acid (10 mL) for 1 h at 70 &#xB0;C. Subsequently, concentrated sulfuric acid (0.05 mL) was added and stirring was continued at 70 &#xB0;C for 3 h. After cooling to room temperature the mixture was poured into 5% sodium acetate solution (40 mL). A solid precipitated upon standing over night at 8 &#xB0;C which was filtered and dried at 60 &#xB0;C for 2 h. Crystallization from water/ethanol (50:50, v/v) yielded 0.35&#x2013;0.38 g (72&#x2013;79%) of brownish crystals.</p>
+        <p>Mp 129&#x2013;131 &#xB0;C.</p>
+        <p>MS (ESI &#x2013; MeOH, + Mod, rel. intensity): <italic>m/z</italic>: 242.19026 ([M+H]<sup>+</sup>, 100).</p>
+        <p>IR (KBr) cm<sup>&#x2212;1</sup>: 3397 (N-H); 2963 (C-H, aliph.); 2922 (C-H, aliph.).</p>
+        <p><sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): 1.31 (s, 9H, CH<sub>3</sub>), 1.63&#x2013;1.71 (m, 4H, CH<sub>2</sub>), 1.80&#x2013;1.87 (m, 2H, CH<sub>2</sub>), 2.70&#x2013;2.81 (m, 4H, CH<sub>2</sub>), 7.03 (dd, 1H, <italic>J</italic> = 1.86, 8.47, C(3)-H), 7.12 (dd, 1H, <italic>J</italic> = 0.43, 8.38, C(4)-H), 7.30 (d, 1H, <italic>J</italic> = 1.79, C(1)-H), 10.46 (s, 1H, NH).</p>
+        <p><sup>13</sup>C NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 24.22 (CH<sub>2</sub>), 27.27 (CH<sub>2</sub>), 28.55 (CH<sub>2</sub>), 28.65 (CH<sub>2</sub>), 31.55 (CH<sub>2</sub>), 31.91 (CH<sub>3</sub>), 34.15 (CH), 109.81 (CH), 111.77 (C quat), 112.57 (CH), 117.59 (CH), 128.29 (C quat), 132.22 (C quat), 137.94 (C quat), 140.12 (C quat).</p>
+        <p>HPLC (AUC %): 96.6% at 254 nm; 98.3% at 280 nm, <italic>t</italic><sub>ms</sub> = 7.71 min, <italic>t</italic><sub>s</sub> (DMSO) = 1.07 min.</p>
+        <p>Anal. calcd. for C<sub>17</sub>H<sub>23</sub>N: C, 84.59; H, 9.60; N, 5.80. Found: C, 84.36; H, 9.49; N, 5.55.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2011-M737">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M737-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M737-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M737-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M737-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are grateful to U. Papke for recording the ESI mass spectrum. This joint research project was financially supported by the State of Lower Saxony, Hannover, Germany. </p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M737">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Totzke</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xE4;chtele</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kubbutat</surname>
+              <given-names>M.H.G.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-aided optimization of kinase inhibitors derived from alsterpaullone</article-title>
+          <source>ChemBioChem</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>541</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="doi">10.1002/cbic.200400099</pub-id>
+          <pub-id pub-id-type="pmid">15696597</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M737">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lahusen</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>De Siervi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Senderowicz</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alsterpaullone, a novel cyclin-dependent kinase inhibitor, induces apoptosis by activation of caspase 9 due to perturbation in mitochondrial membrane potential</article-title>
+          <source>Mol. Carcinog.</source>
+          <year>2003</year>
+          <volume>36</volume>
+          <fpage>183</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="doi">10.1002/mc.10114</pub-id>
+          <pub-id pub-id-type="pmid">12669310</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M737">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pies</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Schaper</surname>
+              <given-names>K.-J.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>CDK1-inhibitory activity of paullones depends on electronic properties of 9-substituents</article-title>
+          <source>Arch. Pharm. Pharm. Med. Chem.</source>
+          <year>2004</year>
+          <volume>337</volume>
+          <fpage>486</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.200300870</pub-id>
+          <pub-id pub-id-type="pmid">15362121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M737">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wieking</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Knockaert</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of paullones with aminoalkyl side chains</article-title>
+          <source>Arch. Pharm. Pharm. Med. Chem.</source>
+          <year>2002</year>
+          <volume>335</volume>
+          <fpage>311</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-4184(200209)335:7&lt;311::AID-ARDP311&gt;3.0.CO;2-F</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M737">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Epoxide-containing side chains enhance antiproliferative activity of paullones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>40</volume>
+          <fpage>655</fpage>
+          <lpage>661</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2005.02.004</pub-id>
+          <pub-id pub-id-type="pmid">15935900</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M737">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stukenbrock</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mussmann</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Geese</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ferandin</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lozach</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kegel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Lomow</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Burk</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Dohrmann</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Austen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>9-Cyano-1-azapaullone (cazpaullone), a glycogen synthase kinase-3 (GSK-3) inhibitor activating pancreatic beta cell protection and replication</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>51</volume>
+          <fpage>2196</fpage>
+          <lpage>2207</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm701582f</pub-id>
+          <pub-id pub-id-type="pmid">18345612</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M737">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reichwald</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Shimony</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Dunkel</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Sacerdoti-Sierra</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jaffe</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-(3-Aryl-3-oxopropen-1-yl)-9-<italic>tert</italic>-butyl-paullones: A new antileishmanial chemotype</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>51</volume>
+          <fpage>659</fpage>
+          <lpage>665</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm7012166</pub-id>
+          <pub-id pub-id-type="pmid">18186603</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M737">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Humphrey</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Kuethe</surname>
+              <given-names>J.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Practical methodologies for the synthesis of indoles</article-title>
+          <source>Chem. Rev.</source>
+          <year>2006</year>
+          <volume>106</volume>
+          <fpage>2875</fpage>
+          <lpage>2911</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr0505270</pub-id>
+          <pub-id pub-id-type="pmid">16836303</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M737">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughes</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress in the Fischer indole reaction. A review</article-title>
+          <source>Org. Prep. Proced. Int.</source>
+          <year>1993</year>
+          <volume>25</volume>
+          <fpage>607</fpage>
+          <lpage>632</lpage>
+          <pub-id pub-id-type="doi">10.1080/00304949309356257</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

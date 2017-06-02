@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M714</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M714</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>[5-(1,3-Diphenyl-1<italic>H</italic>-pyrazol-4-yl)-3-phenyl-4,5-dihydropyrazol-1-yl](pyridin-4-yl)methanone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaushik</surname>
+            <given-names>Darpan</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M714" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nagpal</surname>
+            <given-names>Upasana</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Verma</surname>
+            <given-names>Tarawanti</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Madan</surname>
+            <given-names>Kapish</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M714">Department of Pharmaceutical Chemistry, RITS, 4th Mile Stone, Hisar Road, Sirsa-125055, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M714"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>darpkaush@yahoomail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>01</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M714</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>12</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>01</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel pyrazoline derivative <bold>2</bold> was synthesized by reaction of an &#x3B1;,&#x3B2;-unsaturated ketone <bold>1</bold> with isonicotinic acid hydrazide (INH) in glacial acetic acid. The structure of the title compound <bold>2</bold> was established on basis of IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>chalcone</kwd>
+        <kwd>pyrazoline</kwd>
+        <kwd>isonicotinic acid hydrazide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2011-M714" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Pyrazoline derivatives are electron-rich nitrogen heterocycles which play an important role due to their diverse biological activities [<xref ref-type="bibr" rid="B1-molbank-2011-M714">1</xref>]. They have been found to possess antimicrobial, antidiabetic, antidepressant, anticancer, hypotensive, antiamoebic, anti-inflammatory and antitubercular activity [<xref ref-type="bibr" rid="B2-molbank-2011-M714">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M714">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M714">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M714">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2011-M714">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M714">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M714">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M714">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2011-M714">10</xref>]. As a part of our research programme on pyrazoline derivatives [<xref ref-type="bibr" rid="B11-molbank-2011-M714">11</xref>], we report herein the synthesis of [5-(1,3-diphenyl-1<italic>H</italic>-pyrazol-4-yl)-3-phenyl-4,5-dihydropyrazol-1-yl](pyridin-4-yl)methanone (<bold>2</bold>).</p>
+    </sec>
+    <sec id="sec2-molbank-2011-M714" sec-type="results">
+      <title>2. Results &amp; Discussion</title>
+      <p>The title compound <bold>2</bold> was prepared by reaction of 3-(1,3-diphenyl-1<italic>H</italic>-pyrazol-4-yl)-1-phenylprop-2-en-1-one (<bold>1</bold>) and isonicotinic acid hydrazide in glacial acetic acid (<xref ref-type="scheme" rid="molbank-2011-M714-sch001">Scheme 1</xref>). The <sup>1</sup>H-NMR spectrum of compound <bold>2</bold> displayed three characteristic signals due to diasterotopic protons (H<sub>A</sub>, H<sub>B</sub> and H<sub>X</sub>). The H<sub>A</sub> proton which is <italic>cis</italic> to H<sub>X</sub> resonates upfield at &#x3B4; 3.21 (center) as doublet of doublets (dd, <italic>J</italic> = 17.55 and 4.50 Hz), while the H<sub>B</sub> proton which is <italic>trans</italic> to H<sub>X</sub> resonates downfield at 3.71 (dd, <italic>J</italic> = 17.40 and 11.70 Hz). The H<sub>X</sub> proton which is vicinal to two methylene protons (H<sub>A</sub> and H<sub>B</sub>) is also observed as double doublet at a &#x3B4; value of 6.08 (dd, <italic>J</italic> = 11.55 and 4.80 Hz). The aromatic protons are observed at the expected chemical shift and integral values. The 5-H proton of pyrazole is observed as a singlet at 8.76 ppm apparently due to deshielding caused by the pyrazoline ring.</p>
+      <p>The cyclization of chalcone <bold>1</bold> into pyrazoline derivative <bold>2</bold> was further supported by <sup>13</sup>C-NMR of prototype compound in which C<sub>4</sub> and C<sub>5</sub> carbon resonate at &#x3B4; 41.49 and 53.62, respectively, while the peaks due to carbonyl carbon (C=O) are observed at 167.82 ppm. These values are in close agreement with reported values of carbon C<sub>4</sub> and C<sub>5</sub> in pyrazolines [<xref ref-type="bibr" rid="B12-molbank-2011-M714">12</xref>]. DEPT-135 is an important tool of <sup>13</sup>C-NMR spectroscopy in which only primary, secondary and tertiary carbons that have an attached proton give signals, but the phase of signals is different, depending on whether the number of attached hydrogens is an odd or even number. Signals arising from CH or CH<sub>3</sub> groups will give positive peaks, while signals arising from CH<sub>2</sub> groups will give negative (inverse) peaks. Here, the DEPT-135 spectrum gives positive peaks at &#x3B4; 53.62 due to CH of pyrazoline (<italic>i.e.</italic>, C<sub>5</sub>) and a negative (inverse) peak at 41.49 due to CH<sub>2</sub> of pyrazoline (C<sub>4</sub>), respectively. The combination of <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and DEPT-135 provides strong evidence in support of the structure assigned to this pyrazoline derivative. The MS (ESI) spectrum of compound <bold>2</bold> exhibits an M+1 peak at <italic>m/z</italic> = 470. The value is in complete agreement with the structure assigned. Starting material 3-(1,3-diphenyl-1<italic>H</italic>-pyrazol-4-yl)-1-phenylprop-2-en-1-one <bold>1</bold> was synthesized based on a literature method [<xref ref-type="bibr" rid="B13-molbank-2011-M714">13</xref>].</p>
+	  <fig id="molbank-2011-M714-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M714-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route to the title compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M714-sch001.tif"/>
+      </fig>
+    </sec>
+    <sec id="sec3-molbank-2011-M714" sec-type="methods">
+      <title>3. Experimental </title>
+      <p>The melting point was determined in an open-end capillary tube on a digital melting point apparatus and is uncorrected. Infrared (IR) and proton nuclear magnetic resonance (<sup>1</sup>H-NMR) spectra were recorded on a Nicolet 380 FT-IR (KBr) and a Bruker DRX-300 instrument, respectively. Chemical shifts are expressed in parts per million (ppm) relative to tetramethylsilane as an internal standard. The elemental analysis (C/N) was performed on a Vario EL III CHNS analyzer using sulphanilic acid as a standard. The ESI-MS spectrum was recorded on a Waters Micromass Q-TOF Micro. The homogeneity of the compounds was monitored by ascending thin-layer chromatography (TLC), visualized by iodine vapour.</p>
+      <sec>
+        <title>Synthesis of [5-(1,3-diphenyl-1H-pyrazol-4-yl)-3-phenyl-4,5-dihydropyrazol-1-yl](pyridin-4-yl)methanone (<bold>2</bold>)</title>
+        <p>A solution of chalcone <bold>1</bold> (0.0025 mol) and INH (0.0031 mol) in glacial acetic acid (6 mL) was refluxed for 38 h. The reaction mixture was poured into crushed ice to give the crude product which was filtered and washed first with ethyl acetate (to remove any traces of chalcone) and then with hot water (to remove excess of hydrazide), followed by recrystallization from ethanol.</p>
+        <p>Yield: 78%; mp: 224&#x2013;226 &#xB0;C; buff cream amorphous solid.</p>
+        <p>IR (KBr) cm<sup>&#x2212;1</sup>: 2,921 (C-H), 2,847 (C-H), 1,638 (C=O), 1,613 (C=N), 1,556 (C=C).</p>
+        <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 8.76 (s, IH, C<sub>5</sub> pyrazole), 7.83&#x2013;7.76 (m, 5H, Ar-H), 7.70&#x2013;7.60 (m, 4H, Ar-H), 7.46&#x2013;7.37 (m, 9H, Ar-H), 6.08 (dd, 1H, H<sub>X</sub>, <italic>J</italic> = 11.55, 4.80 Hz), 3.71 (dd, 1H, H<sub>B</sub>, <italic>J</italic> = 17.40, 11.70 Hz), 3.21 (dd, 1H, H<sub>A</sub>, <italic>J</italic> = 17.55, 4.50 Hz).</p>
+        <p><sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; 41.49 (CH<sub>2</sub>), 53.62 (CH), 118.26, 119.15, 125.79, 126.66, 126.85, 128.31, 128.50, 128.71, 128.82, 129.38, 130.91, 133.17, 134.61, 139.78, 140.93, 149.84, 150.10, 151.8, 167.82.</p>
+        <p>DEPT-135: 41.49 (negative peak, CH<sub>2</sub>), 53.62 (positive peak, CH).</p>
+        <p>Anal. Calcd for C<sub>30</sub>H<sub>23</sub>N<sub>5</sub>O: C, 76.74; H, 4.94; N, 14.92. Found: C, 76.41; H, 4.59; N, 14.31. ESI-MS: <italic>m/z</italic> = 470 (M+1)<sup>+</sup>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2011-M714">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M714-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M714-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2011-M714-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M714-s001.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors express sincere thanks to the management of RITS, Sirsa for providing the necessary facility for the project.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M714">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shamsuzzaman</surname>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Alam</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization and antimicrobial activity of new steroidal cholest-5-en-7-one derivatives fused with substituted pyrazoline ring</article-title>
+          <source>J. Chil. Chem. Soc.</source>
+          <year>2009</year>
+          <volume>54</volume>
+          <fpage>372</fpage>
+          <lpage>374</lpage>
+          <pub-id pub-id-type="doi">10.4067/S0717-97072009000400010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M714">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdel-Wahab</surname>
+              <given-names>B.F.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Aziz</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>E.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial evaluation of 1-(benzofuran-2-yl)-4-nitro-3-arylbutan-1-ones and 3-(benzofuran-2-yl)-4,5-dihydro-5-aryl-1-[4-(aryl)-1,3-thiazol-2-yl]-1<italic>H</italic>-pyrazoles</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>2632</fpage>
+          <lpage>2635</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.09.029</pub-id>
+          <pub-id pub-id-type="pmid">18995932</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M714">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jun</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>W.S.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.R.</given-names>
+            </name>
+            <name>
+              <surname>Rhee</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Bae</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>N.S.</given-names>
+            </name>
+            <name>
+              <surname>Sohn</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.O.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <name>
+              <surname>Cheon</surname>
+              <given-names>H.G.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of pyrazoline analogues with &#x3B2;-amino acyl group as dipeptidyl peptidase IV inhibitors</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>1889</fpage>
+          <lpage>1902</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.11.029</pub-id>
+          <pub-id pub-id-type="pmid">18243422</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M714">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gokhan-Kelekci</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Koyunoglu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yabanoglu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yelekci</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ozgen</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Ucar</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Erol</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kendi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Yesilada</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>New pyrazoline bearing 4(3<italic>H</italic>)-quinqzolinone inhibitors of monoamine oxidase: Synthesis, biological evaluation, and structural determinants of MAO-A and MAO-B selectivity</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>675</fpage>
+          <lpage>689</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2008.11.068</pub-id>
+          <pub-id pub-id-type="pmid">19091581</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M714">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Havrylyuk</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zimenkovsky</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Vasylenko</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Zaprutko</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Gzella</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lesyk</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel thiazolone-based compounds containing pyrazoline moiety and evaluation of their anticancer activity</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>1396</fpage>
+          <lpage>1404</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.09.032</pub-id>
+          <pub-id pub-id-type="pmid">19000643</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M714">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turan-Zitouni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Chevallet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kilic</surname>
+            </name>
+            <name>
+              <surname>Fatma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Erol</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some thiazolyl-pyrazoline derivatives and preliminary investigation of their hypotensive activity</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>635</fpage>
+          <lpage>641</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(00)00152-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M714">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhat</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Athar</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Azam</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bis-pyrazolines; Synthesis, characterization and antiamoebic activity as inhibitors of growth of <italic>Entamoeba histolytica</italic></article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>426</fpage>
+          <lpage>431</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.11.005</pub-id>
+          <pub-id pub-id-type="pmid">18187238</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M714">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rathish</surname>
+              <given-names>I.G.</given-names>
+            </name>
+            <name>
+              <surname>Javed</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bano</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Alam</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Pillai</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bagchi</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and anti-inflammatory activity of some new 1,3,5-trisubstituted pyrazolines bearing benzene sulfonamide</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>255</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2008.10.105</pub-id>
+          <pub-id pub-id-type="pmid">19010670</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M714">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and pharmacological evaluation of pyrazoline derivatives as new anti-inflammatory and analgesic agents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>918</fpage>
+          <lpage>922</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2007.12.043</pub-id>
+          <pub-id pub-id-type="pmid">18182288</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M714">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shaharyar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Dharmarajan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Perumal</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and <italic>in vitro</italic> antimycobacterial activity of N<sup>1</sup>- nicotinoyl-3-(4'-hydroxy-3'-methyl phenyl )-5-[(sub)phenyl]<bold>-</bold>2<bold>-</bold>pyrazoline</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2006</year>
+          <volume>16</volume>
+          <fpage>3947</fpage>
+          <lpage>3949</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2006.05.024</pub-id>
+          <pub-id pub-id-type="pmid">16725324</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M714">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaushik</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>N</italic>'-[(5-chloro-3-methyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)methylene] 2/4-substituted hydrazides: synthesis and anticonvulsant activity</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>45</volume>
+          <fpage>3943</fpage>
+          <lpage>3949</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2010.05.049</pub-id>
+          <pub-id pub-id-type="pmid">20573423</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M714">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aggarwal</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheis of some new 1-(6-fluorobenzothiazol-2-yl)-3-(4-fluoro-phenyl)-5-arylpyrazolines and their iodine (III) mediated oxidation to corresponding pyrazoles</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2007</year>
+          <volume>46B</volume>
+          <fpage>1332</fpage>
+          <lpage>1336</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2011-M714">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Revanasiddappa</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>N.R.</given-names>
+            </name>
+            <name>
+              <surname>Subrahmanyam</surname>
+              <given-names>E.V.S.</given-names>
+            </name>
+            <name>
+              <surname>Satyanarayana</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of some novel 1,3,5-trisubstituted pyrazolines</article-title>
+          <source>E-J. Chem.</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <fpage>295</fpage>
+          <lpage>298</lpage>
+          <pub-id pub-id-type="doi">10.1155/2010/415723</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+   </back>
+</article>

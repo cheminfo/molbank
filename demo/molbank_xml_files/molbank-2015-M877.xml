@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M877</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M877</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>&#x2032;-(1,3-Dithiolan-2-ylidene)-3-(phenylamino)propanehydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tumosien&#x117;</surname>
+            <given-names>Ingrida</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M877" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kantminien&#x117;</surname>
+            <given-names>Kristina</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M877" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2015-M877" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beresnevi&#x10D;ius</surname>
+            <given-names>Zigmuntas J.</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M877" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M877"><label>1</label>Department of Organic Chemistry, Kaunas University of Technology, LT-50254 Kaunas, Lithuania; E-Mails: <email>ingrida.tumosiene@ktu.lt</email> (I.T.); <email>zigmuntas.beresnevicius@ktu.lt</email> (Z.J.B.)</aff>
+      <aff id="af2-molbank-2015-M877"><label>2</label>Department of Physical and Inorganic Chemistry, Kaunas University of Technology, LT-50254 Kaunas, Lithuania</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M877"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>kristina.kantminiene@ktu.lt</email>; Tel.: +370-37-300178; Fax: +370-37-300152.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>11</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M877</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A synthesis of <italic>N</italic>&#x2032;-(1,3-dithiolan-2-ylidene)-3-(phenylamino)propanehydrazide from 3-(phenylamino)propanehydrazide, carbon disulfide and 1,2-dibromoethane is reported. The title compound was characterized by <sup>1</sup>H NMR, <sup>13</sup>C NMR, ESI/MS, and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,3-dithiolane</kwd>
+        <kwd>propanehydrazide</kwd>
+        <kwd>amino acid</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M877" sec-type="intro">
+      <title>1. Introduction</title>
+      <p><italic>N</italic>-Substituted <italic>&#x3B2;</italic>-amino acids and their derivatives are structural units of various natural compounds, such as alkaloids, antibiotics, and co-enzymes. Carboxylic acid hydrazides and hydrazones exhibit a broad spectrum of biological activity [<xref ref-type="bibr" rid="B1-molbank-2015-M877">1</xref>].</p>
+      <p>1,3-Dithiolane is an attractive scaffold for the synthesis of heterocyclic compounds possessing valuable properties. It is embodied by many widely used compounds. Among them, an important place is taken by the compounds containing the 1,3-dithiolan-2-ylidene moiety. Such compounds can be used for selective sorption [<xref ref-type="bibr" rid="B2-molbank-2015-M877">2</xref>]. 2-Alkylidene-1,3-dithiolanes containing the sulfoxide group form dinuclear iron(0) complexes [<xref ref-type="bibr" rid="B3-molbank-2015-M877">3</xref>], whereas 2-salicylichydrazono-1,3-dithiolane derivatives form complexes with cobalt [<xref ref-type="bibr" rid="B4-molbank-2015-M877">4</xref>] and manganese [<xref ref-type="bibr" rid="B5-molbank-2015-M877">5</xref>] ions. A facile method for functionalization of thioamides involves ring fragmentation of 2-acetylmethylene-1,3-dithiolane in the presence of amine [<xref ref-type="bibr" rid="B6-molbank-2015-M877">6</xref>].</p>
+      <p>An interesting method for the synthesis of 2-imino-1,3-dithiolane derivatives by the treatment of allyl dithiocarbamates with iodine in methylene chloride has been reported in [<xref ref-type="bibr" rid="B7-molbank-2015-M877">7</xref>]. A simple synthesis method of <italic>N</italic>&#x2032;-(1,3-dithiolan-2-ylidene)isonicotinehydrazide involves reaction of isonicotinehydrazide with carbon disulfide in alkali solution followed by the treatment with dibromoethane [<xref ref-type="bibr" rid="B8-molbank-2015-M877">8</xref>]. A similar procedure was employed for preparation of 1,3-dithiolane-2-ylidenhydrazidebenzoic acid [<xref ref-type="bibr" rid="B9-molbank-2015-M877">9</xref>].</p>
+      <p>In the search for new potentially biologically active compounds and in light of the data listed above, we report the synthesis of a compound containing both <italic>&#x3B2;</italic>-amino acid and 1,3-dithiolane moieties.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M877" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p><italic>N</italic>&#x2032;-(1,3-Dithiolan-2-ylidene)-3-(phenylamino)propanehydrazide <bold>2</bold> was synthesized according to the synthesis protocol described in [<xref ref-type="bibr" rid="B8-molbank-2015-M877">8</xref>] by stirring 3-(phenylamino)propanehydrazide <bold>1</bold> [<xref ref-type="bibr" rid="B10-molbank-2015-M877">10</xref>] with carbon disulfide in ethanolic KOH solution and subsequent heating at reflux after addition of 1,2-dibromoethane (<xref ref-type="scheme" rid="molbank-2015-M877-sch001">Scheme 1</xref>). The obtained residue was recrystallised from methanol. </p>
+      <p>The formation of the dithiolane moiety has been confirmed by the <sup>1</sup>H NMR resonances in the range of 3.49&#x2013;3.54 ppm and 3.59&#x2013;3.72 ppm attributable to the methylene group protons of <italic>s-E</italic>/<italic>s-Z</italic> isomers. These isomers are formed in the DMSO solution owing to the restricted rotation around the amide bond. Signals attributable to the COCH<sub>2</sub> and NH groups protons are also observed in two line sets in the <sup>1</sup>H NMR spectrum. Usually, the most information about the existing isomers can be obtained from the NH group resonances [<xref ref-type="bibr" rid="B11-molbank-2015-M877">11</xref>]. The NH group singlets are present down-field at 10.13 ppm (<italic>s-Z</italic>) and 10.30 ppm (<italic>s-E</italic>) and the intensity ratio is 0.3:0.7.</p>
+      <p>The presence of the carbon resonance at 162.52 ppm attributable to the C=N group and the spectral line at 35.12 ppm attributable to the CH<sub>2</sub> group in the <sup>13</sup>C NMR spectrum indicate the formation of the target product as well. </p>
+    </sec>
+    <sec id="sec3-molbank-2015-M877">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M877">
+        <title>3.1. General </title>
+        <p>All the reagents and chemicals were obtained from commercial sources and used without further purification. Melting points were measured on a B-540 Melting Point Analyzer and are uncorrected (B&#xFC;chi Corporation, New Castle, DE, USA). <sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded at ambient temperature on a Varian Unity Inova (300 MHz) spectrometer (Palo Alto, CA, USA). Chemical shifts (&#x3B4;) are reported in parts per million (ppm) calibrated from TMS (0 ppm) as an internal standard for <sup>1</sup>H NMR, and DMSO-<italic>d<sub>6</sub></italic> (39.5 ppm) for <sup>13</sup>C NMR. The <italic>J</italic> constants are given in Hz. Mass spectrum was recorded on a Waters Micromass ZQ 2000 instrument (Milford, MA, USA). Elemental analysis was performed on a CE-440 elemental analyzer (Exeter Analytical Inc., North Chelmsford, MA, USA). TLC was performed using Silica gel 60 F254 (Kieselgel 60 F254) (Merck, Darmstadt, Germany) plates.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M877">
+        <title>3.2. Experimental Procedure for the Preparation of N&#x2032;-(1,3-Dithiolan-2-ylidene)-3-(phenylamino)propanehydrazide <italic>(<bold>2</bold>)</italic></title>
+        <p>To a mixture of KOH (1.2 g, 20 mmol) and ethanol (10 mL), hydrazide <bold>1</bold> (1.79 g, 10 mmol) was added with stirring. Afterwards, CS<sub>2</sub> (0.6 mL, 10 mmol) was added dropwise followed by 1,2-dibromoethane (0.86 mL, 10 mmol). The reaction mixture was refluxed for 0.5 h. After cooling it to room temperature, water (50 mL) was added. Precipitate formed was filtered off, washed with water, and recrystallized from methanol. </p>
+        <p>Yield: 0.65 g (80%), white, m.p. 133&#x2013;134 &#xB0;C. </p>
+        <p><sup>1</sup>H NMR (300 MHz, DMSO-<italic>d<sub>6</sub></italic>), &#x3B4;: 2.50 (t, 1.4H, <italic>J</italic> = 7.2 Hz, <italic>s-Z</italic> COCH<sub>2</sub>); 2.69 (t, 0.6H, <italic>J</italic> = 7.2 Hz, <italic>s-E</italic> COCH<sub>2</sub>); 3.22&#x2013;3.33 (m, 2H, NH<italic>CH<sub>2</sub></italic>); 3.49&#x2013;3.54 (m, 2H, <italic>s</italic>-<italic>Z</italic> SCH<sub>2</sub>CH<sub>2</sub>); 3.59&#x2013;3.72 (m, 2H, <italic>s-E</italic> SCH<sub>2</sub>CH<sub>2</sub>); 5.57 (s, 1H, <italic>NH</italic>CH<sub>2</sub>); 6.56 (t, 1H, <italic>J</italic> = 7.5 Hz, H<sub>ar4</sub>); 6.60 (d, 2H, <italic>J</italic> = 7.5 Hz, H<sub>ar2,6</sub>); 7.09 (t, 2H, <italic>J</italic> = 1.2 Hz; <italic>J</italic> = 7.5 Hz, H<sub>ar3,5</sub>); 10.13 (s, 0.3H, <italic>s-Z</italic> NH); 10.30 (s, 0.7H, <italic>s-E</italic> NH).</p>
+        <p><sup>13</sup>C NMR (75 MHz, DMSO-<italic>d<sub>6</sub></italic>), &#x3B4;: 33.41 (C-8); 35.12 (C-11,12); 38.60 (C-7); 112.03 (C-2,6); 115.72 (C-4); 128.82 (C-3,5); 148.44 (C-1); 162.52 (C-10); 166.71 (C-9).</p>
+        <p>MS (ESI, 20 V) <italic>m/z</italic> (%): 282 ([M + H]<sup>+</sup>, 80).</p>
+        <p>Anal. Calcd. (%) for C<sub>12</sub>H<sub>15</sub>N<sub>3</sub>OS<sub>2</sub>: C, 51.22; H, 5.37; N, 14.93., found: C, 51.09; H, 5.37; N, 14.67.</p>
+        <p><sup>1</sup>H NMR (<xref ref-type="app" rid="app1-molbank-2015-M877">Figure S1</xref>) and <sup>13</sup>C NMR (<xref ref-type="app" rid="app1-molbank-2015-M877">Figure S2</xref>) spectra for the title compound <bold>2</bold> are available in the <xref ref-type="app" rid="app1-molbank-2015-M877">Supplementary Information</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M877">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2015-M877-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M877-s001.pdf">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M877-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M877-s002-mod.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M877-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M877-s002.mol">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<notes>
+      <title>Author Contributions</title>
+      <p>Ingrida Tumosien&#x117; performed the synthesis and spectral analysis; Kristina Kantminien&#x117; contributed to the data analysis and prepared the manuscript; Zigmuntas J. Beresnevi&#x10D;ius designed the synthesis and supervised the work. All authors read and approve the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M877">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rollas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kucukguzel</surname>
+              <given-names>S.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological Activities of Hydrazone Derivatives</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>1910</fpage>
+          <lpage>1939</lpage>
+          <pub-id pub-id-type="doi">10.3390/12081910</pub-id>
+          <pub-id pub-id-type="pmid">17960096</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M877">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sato</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Takenaka</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective immobilization of double stranded DNA on a gold surface through threading intercalation of a naphthalene diimide having dithiolane moieties</article-title>
+          <source>Anal. Chim. Acta</source>
+          <year>2010</year>
+          <volume>665</volume>
+          <fpage>91</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.aca.2010.03.008</pub-id>
+          <pub-id pub-id-type="pmid">20381696</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M877">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ortega-Alfaro</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Hernandez</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Cerna</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lopez-Cortes</surname>
+              <given-names>J.G.</given-names>
+            </name>
+            <name>
+              <surname>Gomez</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Toscano</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Alvarez-Toledano</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel dinuclear iron(0) complexes from &#x3B1;,&#x3B2;-unsaturated ketones &#x3B2;-positioned with sulfide and sulfoxide groups</article-title>
+          <source>J. Organomet. Chem.</source>
+          <year>2004</year>
+          <volume>689</volume>
+          <fpage>885</fpage>
+          <lpage>893</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jorganchem.2003.12.015</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M877">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toussaint</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Beghidja</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Welter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cobalt complexes supported by salicylichydrazono derivative ligands and various coordination solvents</article-title>
+          <source>C. R. Chim.</source>
+          <year>2010</year>
+          <volume>13</volume>
+          <fpage>343</fpage>
+          <lpage>352</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.crci.2010.02.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M877">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bouchameni</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Beghidja</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Beghidja</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rabu</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Welter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, structural characterizations, spectroscopic and magnetic properties of MnII and MnIII complexes with an unprecedented bridging coordination mode of 2-salicylichydrazono-1,3-dithiolane ligand</article-title>
+          <source>Polyhedron</source>
+          <year>2011</year>
+          <volume>30</volume>
+          <fpage>1774</fpage>
+          <lpage>1778</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.poly.2011.04.007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M877">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liang</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>A tandem reaction of 2-acetylmethylene-1,3-dithiolanes via fragmentation of the dithiolane ring in the presence of amines: a facile route to functionalized thioamides</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2007</year>
+          <volume>48</volume>
+          <fpage>7938</fpage>
+          <lpage>7941</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2007.09.065</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M877">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Halimehjani</surname>
+              <given-names>A.Z.</given-names>
+            </name>
+            <name>
+              <surname>Maleki</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Saidi</surname>
+              <given-names>M.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regiospecific iodocyclization of S-allyl dithiocarbamates: synthesis of 2-imino-1,3-dithiolane and 2-iminium-1,3-dithiolane derivatives</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2009</year>
+          <volume>50</volume>
+          <fpage>2747</fpage>
+          <lpage>2749</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2009.03.127</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M877">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foks</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mieczkowska</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Janowiec</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zwolska</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Andrzejczyk</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and tuberculostatic activity of methyl 3-isonicotinoyldithiocarbazate and S,S'-dimethyl dithiocarbonate isonicotinoylhydrazone, and their reactions with amines and hydrazines</article-title>
+          <source>Chem. Heterocycl. Compd.</source>
+          <year>2002</year>
+          <volume>38</volume>
+          <fpage>810</fpage>
+          <lpage>816</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1020681604052</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M877">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bouslimani</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Clement</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Rogez</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Turek</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Choua</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dagorne</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Welter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stability, molecular structures and magnetic properties of dinuclear iron complexes supported by benzoic hydrazide derivative ligands</article-title>
+          <source>Inorg. Chim. Acta</source>
+          <year>2009</year>
+          <volume>363</volume>
+          <fpage>213</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ica.2009.08.027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M877">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aelony</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Storage stable epoxy B-stage resins</article-title>
+          <source>J. Appl. Polym. Sci.</source>
+          <year>1969</year>
+          <volume>13</volume>
+          <fpage>227</fpage>
+          <lpage>232</lpage>
+          <pub-id pub-id-type="doi">10.1002/app.1969.070130121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M877">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hesse</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Meier</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zeeh</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Spectroscopic Methods in Organic Chemistry</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>Thieme</publisher-name>
+          <publisher-loc>Stuttgart, Germany</publisher-loc>
+          <year>1997</year>
+          <fpage>468</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M877-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M877-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>N</italic>&#x2032;-(1,3-dithiolan-2-ylidene)-3-(phenylamino)propanehydrazide <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M877-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M835</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M835</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4,5-Dimethylbenzene-1,2-dimethanol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gnanasekaran</surname>
+            <given-names>Krishna Kumar</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bunce</surname>
+            <given-names>Richard A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M835" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berlin</surname>
+            <given-names>K. Darrell</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>External Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M835">Department of Chemistry, Oklahoma State University, 107 Physical Sciences, Stillwater, OK 74078, USA; E-Mails: <email>krishna.gnanasekaran@okstate.edu</email> (K.K.G.); <email>kdb@okstate.edu</email> (K.D.B.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M835"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>rab@okstate.edu</email>; Tel.: +1-405-744-5952; Fax: +1-405-744-6007.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>10</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>4</issue>
+      <elocation-id>M835</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>09</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>10</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An efficient and cost-effective synthesis of 4,5-dimethylbenzene-1,2-dimethanol is reported. The synthesis is accomplished in three steps with an overall yield of 80%.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Diels-Alder reaction</kwd>
+        <kwd>dehydrogenation</kwd>
+        <kwd>reduction</kwd>
+        <kwd>reaction optimization</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Aromatic rings are important scaffolds in organic synthesis. The rigid planarity of the ring system allows close positioning of reactive centers such that additional fused rings can be readily appended. We recently needed multi-gram quantities of the title compound as a building block to prepare 6,7-dimethylphthalazine for use in the synthesis of dihydrophthalazine-based antibiotics [<xref ref-type="bibr" rid="B1-molbank-2014-M835">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M835">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M835">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M835">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2014-M835">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M835">6</xref>]. Though the compound is commercially available, it is quite expensive, and the supplier was unable to meet our requirements. Thus, we have designed and optimized a synthesis of this material that is both efficient and cost-effective.</p>
+      <p>A review of the literature indicates that 4,5-dimethylbenzene-1,2-dimethanol (<bold>1</bold>) has been previously prepared [<xref ref-type="bibr" rid="B7-molbank-2014-M835">7</xref>]. This early route is similar to the one disclosed here, but was only carried out on a one-gram scale and gave a lower yield. The current approach (<xref ref-type="scheme" rid="molbank-2014-M835-sch001">Scheme 1</xref>) can be scaled up to readily produce the target compound in batches of 12-15 grams with an overall yield of 80%.</p>
+      <p>Our synthesis began with the Diels-Alder reaction of 2,3-dimethyl-1,3-butadiene (<bold>2</bold>) with dimethyl acetylenedicarboxylate (<bold>3</bold>). Heating this reaction in toluene for 2 h in a sealed pressure vessel afforded the 1,4-cyclohexadiene-based adduct <bold>4</bold> in 99% yield. Following removal of the solvent, the solid product was purified by triturating in hexanes and filtering. This cycloaddition has been previously performed in benzene under reflux conditions for 12 h with a reported yield of 91% [<xref ref-type="bibr" rid="B8-molbank-2014-M835">8</xref>]. In our hands, this procedure did not proceed beyond 70% conversion, even in a sealed vessel at this temperature.</p>
+      <p>In step 2 of the sequence, we needed to aromatize adduct <bold>4</bold> to dimethyl 4,5-dimethylphthalate (<bold>5</bold>). There are many methods available to accomplish this transformation [<xref ref-type="bibr" rid="B9-molbank-2014-M835">9</xref>], but we found that dehydrogenation of <bold>4</bold> using 10% Pd-C (5 wt %) in refluxing <italic>p</italic>-xylene for 24 h gave <bold>5</bold> in 89% yield. Other methods involving bromine or sulfur (see below) were deemed too hazardous for the large-scale preparation of <bold>5</bold>, while the use of 2 eq of DDQ reported earlier [<xref ref-type="bibr" rid="B8-molbank-2014-M835">8</xref>] would increase the expense of our synthesis and necessitate chromatographic purification of the product. The solvent for the dehydrogenation proved to be important, with <italic>p</italic>-xylene being far superior to mixed xylenes or lower boiling aromatic solvents. It was not surprising that lower boiling solvents gave incomplete conversion, since this reaction normally demands high temperatures. However, the reaction also failed to go to completion in mixed xylenes, even after 48 h at reflux. We believe that the result in mixed xylenes stems from trace amounts of sulfur compounds present in this solvent, which would deactivate the Pd-C catalyst. Since <italic>p</italic>-xylene requires an additional purification to separate the <italic>ortho</italic> and <italic>para</italic> isomers, these sulfur-containing impurities are presumably removed or greatly reduced in this process. In <italic>p</italic>-xylene, the reaction proceeded to give high yields of the aromatized product without the need for an added hydrogen acceptor.</p>
+      <p>The final step of the synthesis involved the reduction of diester <bold>5</bold> to give diol <bold>1</bold>. This process was most easily accomplished using LiAlH<sub>4</sub> in tetrahydrofuran. This reduction proceeded smoothly in 4 h and delivered the target diol in 91% yield. </p>
+      <p>An alternative strategy to generate <bold>1</bold> via the phthalic anhydride derivative <bold>8</bold> was also investigated (<xref ref-type="scheme" rid="molbank-2014-M835-sch002">Scheme 2</xref>). Since maleic anhydride (<bold>6</bold>) is less expensive and more reactive than <bold>3</bold>, we explored the use of this dienophile in the Diels-Alder reaction with <bold>2</bold>. Following the procedure of Kanamitsu and coworkers [<xref ref-type="bibr" rid="B10-molbank-2014-M835">10</xref>], cycloaddition of <bold>6</bold> with <bold>2</bold> in benzene at 25 &#xB0;C for 12 h gave adduct <bold>7</bold> in 96% yield. These authors subsequently aromatized product <bold>7</bold> using Br<sub>2</sub> in refluxing acetic acid, but the yield of anhydride <bold>8</bold> was only 37%. Two other research groups employed sulfur in high-boiling solvents for this same transformation [<xref ref-type="bibr" rid="B11-molbank-2014-M835">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2014-M835">12</xref>], but the production of H<sub>2</sub>S and yields &lt;70% were strong deterrents to the use of this route. We, therefore, attempted to dehydrogenate this product using 10% Pd-C in <italic>p</italic>-xylene, but found that a much larger quantity of 10% Pd-C (30 wt %) with added dimethyl maleate as a hydrogen acceptor was required to aromatize the cyclohexene-based adduct <bold>7</bold> to the phthalic anhydride derivative <bold>8</bold>. Thus, to avoid the expense of using large amounts of catalyst, as well as the need for removing the hydrogen acceptor, we opted to pursue the synthesis using the slightly more expensive dienophile <bold>3</bold>.</p>
+      <p>The entire three-step synthesis proceeded in 80% overall yield, required no chromatography, and gave a product with spectral data and a melting point that matched those in the literature [<xref ref-type="bibr" rid="B7-molbank-2014-M835">7</xref>]. Analysis of our process indicated that the entire sequence to produce 13.6 g of <bold>1</bold> could be carried out in three days at a cost that is significantly less than that of the commercial material. The conversion of this diol to 6,7-dimethylphthalazine has been previously reported [<xref ref-type="bibr" rid="B13-molbank-2014-M835">13</xref>].</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>4,5-Dimethylbenzene-1,2-dimethanol <italic>(<bold>1</bold>)</italic></title>
+        <p>In a 250-mL, heavy-walled, round-bottomed pressure vessel (CHEMGLASS CG-1880-R-03) equipped with a magnetic stirrer was placed 2,3-dimethyl-1,3-butadiene (<bold>2</bold>, 10.0 g, 121.7 mmol), dimethyl acetylenedicarboxylate (<bold>3</bold>, 17.3 g, 121.7 mmol) and toluene (70 mL). The container was sealed, placed in an oil bath, and heated at 110&#x2013;120 &#xB0;C for 2 h. The reaction was cooled and subjected to TLC analysis (9:1 hexanes/ether), which indicated complete consumption of starting materials. The crude reaction mixture was concentrated under vacuum at 50 &#xB0;C to afford a viscous, yellow oil, which crystallized to a waxy, yellow solid. Purification by triturating this solid in hexanes and filtering under vacuum gave <bold>4</bold> (27.1 g, 99%), which was sufficiently pure for the next stage of the synthesis, mp 63&#x2013;66 &#xB0;C. An analytical sample of <bold>3</bold> was obtained by PTLC (9:1 hexanes/ether), which gave a white solid, mp 70&#x2013;71 &#xB0;C [<xref ref-type="bibr" rid="B14-molbank-2014-M835">14</xref>]. </p>
+        <p>In a 1-L, three-necked, round-bottomed flask, equipped with a mechanical stirrer and a condenser, were placed <bold>4</bold> (25.0 g, 111.5 mmol), 10% Pd-C (1.25 g, 5 wt %), and <italic>p</italic>-xylene (250 mL). The reaction mixture was heated at reflux for 24 h at which time TLC indicated complete conversion of the starting materials, see <xref ref-type="table" rid="molbank-2014-M835-t001">Table 1</xref> [<xref ref-type="bibr" rid="B15-molbank-2014-M835">15</xref>]. The reaction was cooled to room temperature and filtered through a pad of Celite<sup>&#xAE;</sup> under N<sub>2</sub> atmosphere. The Celite<sup>&#xAE;</sup> was washed with CH<sub>2</sub>Cl<sub>2</sub> (3 &#xD7; 25 mL), and the combined filtrate was concentrated under vacuum at 60 &#xB0;C to give <bold>5</bold> as a viscous, yellow oil, which crystallized to a yellow solid (22.0 g, 89%) at room temperature, mp 56&#x2013;57 &#xB0;C (lit. [<xref ref-type="bibr" rid="B7-molbank-2014-M835">7</xref>] mp 54&#x2013;55 &#xB0;C) [<xref ref-type="bibr" rid="B16-molbank-2014-M835">16</xref>].</p>
+        <p>In a 1-L, three-necked, round-bottomed flask, equipped with a mechanical stirrer, an addition funnel, and a condenser, were placed <bold>5</bold> (20 g, 90 mmol) and THF (300 mL). The yellow solution was cooled to 0&#x2013;5 &#xB0;C, and LiAlH<sub>4</sub> (7.5 g, 197.8 mmol) was added portion-wise with stirring over a period of 45 min. This suspension was stirred at 0&#x2013;5 &#xB0;C for 30 min, warmed to room temperature for 1 h, and then refluxed for 2 h. TLC analysis (4:1 hexanes/EtOAc) indicated complete conversion of the diester. The reaction was cooled to 0&#x2013;5 &#xB0;C and slowly quenched with of saturated aq. Na<sub>2</sub>SO<sub>4</sub> until a total of 33 mL had been added. The flask was warmed to room temperature, and the suspended salts gradually changed from gray to white. Ice water (20 mL) was then added, and the mixture was filtered through a pad of Celite<sup>&#xAE;</sup>. The collected salts were washed with THF (95 mL). To the combined THF washes was added solid NaHCO<sub>3</sub> until layer separation was observed. The layers were separated, and the organic phase was washed with 30% aq. NaCl (2 &#xD7; 100 mL), dried (MgSO<sub>4</sub>), and concentrated under vacuum at 45 &#xB0;C to give <bold>1</bold> as a white solid (12.7 g). Further saturation of the aqueous layer with NaCl and extraction with THF gave additional white solid (total yield 13.6 g, 91%), mp 95&#x2013;96 &#xB0;C (lit. [<xref ref-type="bibr" rid="B7-molbank-2014-M835">7</xref>] mp 95&#x2013;98 &#xB0;C). IR: 3245 cm<sup>&#x2212;1</sup>; <sup>1</sup>H NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 7.12 (s, 2H), 4.68 (s, 4H), 2.83 (s, 2H), 2.26 (s, 6H); <sup>13</sup>C NMR (CDCl<sub>3</sub>, 100 MHz): &#x3B4; 136.80, 136.76, 131.31, 63.97, 19.32. </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M835">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M835-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M835-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M835-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M835-s001.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We gratefully acknowledge support of this work by the National Institutes of Allergy and Infectious Diseases (R01-AI090685) of the NIH/NIAID. Funding for the 400 MHz NMR spectrometer of the Oklahoma State-wide Shared NMR Facility was provided by NSF (BIR-9512269), the Oklahoma State Regents for Higher Education, the W. M. Keck Foundation, and Conoco, Inc. Finally, the authors also wish to thank the OSU College of Arts and Sciences for funds to upgrade our departmental FT-IR instruments and for a new 400 MHz NMR instrument.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The authors discussed and equally contributed to the design of the synthesis. K.K.G. performed the research and analyzed the data. R.A.B. confirmed the data analysis and wrote the paper. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflicts of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2014-M835">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal structure of <italic>Bacillus anthracis</italic> dihydrofolate reductase with the dihydrophthalazine-based trimethoprim derivative RAB1 provides a structural explanation of potency and selectivity</article-title>
+          <source>Antimicrob. Agents Chemother.</source>
+          <year>2009</year>
+          <volume>53</volume>
+          <fpage>3065</fpage>
+          <lpage>3073</lpage>
+          <pub-id pub-id-type="doi">10.1128/AAC.01666-08</pub-id>
+          <pub-id pub-id-type="pmid">19364848</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M835">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of antibiotic-resistant <italic>Staphylococcus aureus</italic> by the broad-spectrum dihydrofolate reductase inhibitor RAB1</article-title>
+          <source>Antimicrob. Agents Chemother.</source>
+          <year>2010</year>
+          <volume>54</volume>
+          <fpage>3825</fpage>
+          <lpage>3833</lpage>
+          <pub-id pub-id-type="doi">10.1128/AAC.00361-10</pub-id>
+          <pub-id pub-id-type="pmid">20606069</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M835">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nammalwar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological activity of substituted 2,4-diaminopyrimidines that inhibit <italic>Bacillus anthracis</italic></article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>54</volume>
+          <fpage>387</fpage>
+          <lpage>396</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2012.05.018</pub-id>
+          <pub-id pub-id-type="pmid">22703705</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M835">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nammalwar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Wakeham</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Ramnarayan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mylvaganam</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of bacterial dihydrofolate reductase by 6-alkyl-2,4-diaminopyrimidines</article-title>
+          <source>ChemMedChem</source>
+          <year>2012</year>
+          <volume>7</volume>
+          <fpage>1974</fpage>
+          <lpage>1982</lpage>
+          <pub-id pub-id-type="doi">10.1002/cmdc.201200291</pub-id>
+          <pub-id pub-id-type="pmid">22930550</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M835">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Wakeham</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nammalwar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Tseitin</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>E.W.</given-names>
+            </name>
+            <name>
+              <surname>Mylvaganam</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ramnarayan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure-activity relationship for enantiomers of potent inhibitors of <italic>B. anthracis</italic> dihydrofolate reductase</article-title>
+          <source>Biochim. Biophys. Acta Proteins Proteomics</source>
+          <year>2013</year>
+          <volume>1834</volume>
+          <fpage>46</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbapap.2012.09.001</pub-id>
+          <pub-id pub-id-type="pmid">22999981</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M835">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourne</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Wakeham</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Webb</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nammalwar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bunce</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Berlin</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrow</surname>
+              <given-names>W.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>The structure and competitive substrate inhibition of dihydrofolate reductase from <italic>Enterococcus faecalis</italic> reveal restrictions to cofactor docking</article-title>
+          <source>Biochemistry</source>
+          <year>2014</year>
+          <volume>53</volume>
+          <fpage>1228</fpage>
+          <lpage>1238</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi401104t</pub-id>
+          <pub-id pub-id-type="pmid">24495113</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M835">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brickwood</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Ollis</surname>
+              <given-names>W.D.</given-names>
+            </name>
+            <name>
+              <surname>Stephanatou</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Stoddart</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Conformational behaviour of medium-sized rings. Part 6. 5,6,11,12,17,18-Hexahydrotribenzo[<italic>a</italic>,<italic>e</italic>,<italic>i</italic>]cyclododecene and its 2,3,8,9,14,15- and 1,4,7,10,13,16-hexamethyl derivatives. 2,3,8,9- and 1,4,7,10-Tetramethyl-5,6,11,12-tetrahydrodibenzo[<italic>a</italic>,<italic>e</italic>]cyclo-octene</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1978</year>
+          <fpage>1398</fpage>
+          <lpage>1414</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19780001398</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M835">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farooq</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidation of aromatic 1,2-dimethanols by activated dimethyl sulfoxide</article-title>
+          <source>Synthesis</source>
+          <year>1994</year>
+          <fpage>1035</fpage>
+          <lpage>1036</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1994-25632</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M835">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fu</surname>
+              <given-names>P.P.</given-names>
+            </name>
+            <name>
+              <surname>Harvey</surname>
+              <given-names>R.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dehydrogenation of polycyclic hydroaromatic compounds</article-title>
+          <source>Chem. Rev.</source>
+          <year>1978</year>
+          <volume>78</volume>
+          <fpage>317</fpage>
+          <lpage>361</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr60314a001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M835">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanamitsu</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Osaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Itsuji</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yoshimura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tsujimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Soga</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel water-soluble sedative-hypnotic agents: isoindolin-1-one derivatives</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>1682</fpage>
+          <lpage>1688</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.55.1682</pub-id>
+          <pub-id pub-id-type="pmid">18057740</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M835">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hennige</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kreher</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Konrad</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jelitto</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the chemistry of isoindoles and isoindolenines. XXVII. 3-Alkoxy-1<italic>H</italic>-isoindoles: Syntheses and properties</article-title>
+          <source>Chem. Ber.</source>
+          <year>1988</year>
+          <volume>121</volume>
+          <fpage>243</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19881210209</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M835">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stapleton</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of methyl-substituted acridinecarboxylic acids</article-title>
+          <source>J. Am. Pharm. Assoc. (1912&#x2013;1977)</source>
+          <year>1954</year>
+          <volume>43</volume>
+          <fpage>193</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1002/jps.3030430402</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M835">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jagtap</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Mukhopadhyay</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Coropceanu</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Brizius</surname>
+              <given-names>G.L.</given-names>
+            </name>
+            <name>
+              <surname>Bredas</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Collard</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Closely stacked oligo(phenylene ethynylene)s: Effect of &#x3C0;-stacking on the electronic properties of conjugated chromophores</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2012</year>
+          <volume>134</volume>
+          <fpage>7176</fpage>
+          <lpage>7185</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja3019065</pub-id>
+          <pub-id pub-id-type="pmid">22455756</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M835">
+        <label>14.</label>
+        <note><p>IR: 1725 cm<sup>&#x2212;1</sup>; <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; 3.78 (s, 6H), 2.92 (s, 4H), 1.66 (s, 6H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; 168.42, 132.76, 121.53, 52.16, 34.13, 17.96.</p></note>
+      </ref>
+      <ref id="B15-molbank-2014-M835">
+        <label>15.</label>
+        <note><p>The optimization results for the dehydrogenation of <bold>4</bold> to <bold>5</bold> on a 1-g scale are summarized in the table below. Since the <bold>4</bold> and <bold>5</bold> are chromatographically difficult to separate, it is necessary to get complete conversion to <bold>5</bold>. This occurs most efficiently and economically using 5 wt % of 10% Pd-C in refluxing <italic>p</italic>-xylene for 24 h.
+      <table-wrap id="molbank-2014-M835-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M835-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Optimization for the dehydrogenation of <bold>4</bold> to <bold>5</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">wt % of 10% Pd-C</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Time (h)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Yield of 5 (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle">92</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">91</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">16</td>
+              <td align="center" valign="middle">90</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">24</td>
+              <td align="center" valign="middle">89</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2.5</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">48</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">72 <sup>a</sup></td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><sup>a</sup> Some starting material 4 remained after 48 h.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap></p></note>
+      </ref>
+      <ref id="B16-molbank-2014-M835">
+        <label>16.</label>
+        <note><p>IR: 1729 cm<sup>&#x2212;1</sup>; <sup>1</sup>H NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 7.49 (s, 2H), 3.88 (s, 6H), 2.31 (s, 6H); <sup>13</sup>C NMR (CDCl<sub>3</sub>, 100 MHz): &#x3B4; 168.24, 140.22, 130.02, 129.39, 52.43, 19.62.</p></note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2014-M835-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M835-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4,5-dimethylbenzene-1,2-dimethanol (<bold>1</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M835-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2014-M835-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M835-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>A possible alternative approach to 4,5-disubstituted phthalates.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M835-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

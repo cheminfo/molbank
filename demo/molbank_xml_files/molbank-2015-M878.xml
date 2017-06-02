@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M878</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M878</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methyl (6-Ethyldibenzo[<italic>d</italic>,<italic>f</italic>][1,3]dioxepin-6-yl)acetate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fattuoni</surname>
+            <given-names>Claudia</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M878" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Palmas</surname>
+            <given-names>Francesco</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M878">Department of Chemical and Geological Sciences, University of Cagliari, CittadellaUniversitaria di Monserrato, SS 554, Bivio per Sestu, Monserrato, I-09042, Italy; E-Mail: <email>francesco.palmas@unica.it</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M878"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>cfattuon@unica.it</email>; Tel.: +39-070-675-4397.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>11</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M878</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>10</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Starting from 2,2'-dihydroxybiphenyl and an allenic ester, the title dibenzo-condensed dioxepine derivative was synthesized using a one-pot procedure.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>benzodioxepines</kwd>
+        <kwd>allenes</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M878" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Allenes are versatile reagents in organic synthesis [<xref ref-type="bibr" rid="B1-molbank-2015-M878">1</xref>]. The reaction of allenic esters with 1,2-dihydroxy-, 1,2-disulfanyl-, 1-hydroxy-2-sulfanyl-benzenes to yield benzocondensed five-membered heterocycles has been reported [<xref ref-type="bibr" rid="B2-molbank-2015-M878">2</xref>]. In the presence of K<sub>2</sub>CO<sub>3</sub>, one of the nucleophilic group on the aromatic ring reacts with the central carbon atom of the allene. The second nucleophilic group attacks the same carbon in an intramolecular Michael-type reaction leading to ring closure. This simple, one-pot procedure was applied for the synthesis of a seven-membered ring, using the same allenic derivative as starting material.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M878" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Allenic esters have proved to be efficiently attacked by nucleophilic reagents to the central carbon atom. An interesting extension of the above mentioned synthetic strategy is the use of a structure bearing two nucleophilic moieties on two different aromatic rings such as a biphenyl derivative. In this case, 2,2&#x2B9;-dihydroxybiphenyl <bold>1</bold> was treated with an equimolar amount of the allenic ester <bold>2</bold>. In order to enhance the nucleophilicity of hydroxyl groups, the reaction was performed in a basic K<sub>2</sub>CO<sub>3</sub>/acetone medium.</p>
+	  <fig id="molbank-2015-M878-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M878-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of methyl (6-ethyldibenzo[<italic>d</italic>,<italic>f</italic>][1,3]dioxepin-6-yl)acetate <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M878-sch001.tif"/>
+      </fig>
+      <p>The two consecutive attacks of the hydroxyl groups on the allenic central carbon atom led to a ring closure with the formation of a seven-membered heterocyclic ring, namely a 1,3-dioxepine. The product <bold>3</bold> was easily isolated from the reaction mixture and purified by flash-chromatography. Further purification by crystallization from ethanol afforded the product <bold>3</bold> with an overall yield of 12%. As reported in a previous work [<xref ref-type="bibr" rid="B2-molbank-2015-M878">2</xref>], this low value may be explained by the formation of open-chain products derived from the addition of one or two molecules of allene. Although such compounds could be responsible for allene consumption, in this case it was not possible to isolate and characterize any by-product. Recently, Szeto [<xref ref-type="bibr" rid="B3-molbank-2015-M878">3</xref>] reported a similar procedure to prepare benzocondensed five-membered heterocycles obtaining higher yields, but employing less &#x201C;eco-friendly&#x201D; reagents and solvents, and using a more complicated experimental procedure.</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M878">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M878">
+        <title>3.1. General Information</title>
+        <p>Reagent-grade, commercially available reagents and solvents were used. Methyl 2,3-pentadienoate (<bold>2</bold>) was prepared by literature method [<xref ref-type="bibr" rid="B4-molbank-2015-M878">4</xref>]. Flash chromatography was performed on silica gel 60, 0.04&#x2013;0.063 mm (Fluka, Buchs, Switzerland). Melting points were determined with a Kofler hot stage microscope and are uncorrected. <sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded on VarianVXR-400 and VXR-500 spectrometers (Agilent Technologies, Santa Clara, CA, USA). Chemical shifts are given as &#x3B4; values (ppm) from internal TMS. Mass spectra were obtained at 70 eV with a Agilent 5973 mass spectrometer interfaced to the GC 6890N equipped with a DB-5ms column (J&amp;W, Agilent Technologies, Santa Clara, CA, USA). Elemental analysis was performed on a PerkinElmer 2400 Series II Elemental analyser (PerkinElmer, Inc. Waltham, MA, USA).</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M878">
+        <title>3.2. Methyl (6-Ethyldibenzo[d,f][1,3]dioxepin-6-yl)acetate <italic>(<bold>3</bold>)</italic></title>
+        <p>A mixture of <bold>1</bold> (6.64 g, 35.6 mmol), anhydrous potassium carbonate (7 g, 72 mmol), and dry acetone (40 mL) was stirred and refluxed for 2 h at room temperature. A solution of <bold>2</bold> (4 g, 35.6 mmol) in acetone (10 mL) was added dropwise and stirring was continued for 24 hours. The mixture was poured into water and then extracted with diethyl ether. The organic layer was washed with 10% aqueous sodium hydroxide and then dried over anhydrous sodium sulphate. Solvent evaporation <italic>in vacuo</italic> furnished a residue that was purified by flash-chromatography. On elution with hexane&#x2013;ethyl acetate (5:1), methyl (6-ethyldibenzo[<italic>d</italic>,<italic>f</italic>][1,3]dioxepin-6-yl)acetate <bold>3</bold> was obtained as a white solid, that was purified by crystallization from ethanol.</p>
+        <p>Yield 1.27 g (12%), colorless crystals, mp 82&#x2013;84 &#xB0;C. <sup>1</sup>H-NMR (500 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 1.21 (t, <italic>J</italic> = 7.5 Hz, 3H, C<italic>H</italic><sub>3</sub>CH<sub>2</sub>), 2.14 (q, <italic>J</italic> = 7.5 Hz, 2H, CH<sub>3</sub>C<italic>H</italic><sub>2</sub>), 3.00 (s, 2H, CH<sub>2</sub>), 3.78 (s, 3H, OCH<sub>3</sub>), 7.21 (dd, <italic>J</italic> = 7.5, 1.5 Hz, 2H, Ar-H), 7.30 (td, <italic>J</italic> = 7.5, 1.5 Hz, 2H, Ar-H), 7.35 (td, <italic>J</italic> = 7.5, 1.5 Hz, 2H, Ar-H), 7.52 (dd, <italic>J</italic> = 7.5, 1.5 Hz, 2H, Ar-H). <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 8.7 (<italic>C</italic>H<sub>3</sub>CH<sub>2</sub>), 28.4 (CH<sub>3</sub><italic>C</italic>H<sub>2</sub>), 39.3 (CH<sub>2</sub>), 51.8 (OCH<sub>3</sub>), 117.1 (C(6)), 123.4 (2CH), 125.3 (2CH), 128.4 (2CH), 128.7 (2CH), 133.1 (2C), 151.1 (2C), 169.4 (C=O). MS-EI (C<sub>18</sub>H<sub>18</sub>O<sub>4</sub>) <italic>m</italic>/<italic>z</italic>: 298 (52, M<sup>+</sup>), 266 (100), 237 (21), 225 (36), 186 (58), 168 (77), 139 (36%). Anal. Calcd for C<sub>18</sub>H<sub>18</sub>O<sub>4</sub>: C, 72.47; H, 6.08; Found: C, 73.38; H, 6.11% (<xref ref-type="app" rid="app1-molbank-2015-M878">Figure S1&#x2013;S5 in the supplementary materials</xref>).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M878">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2015-M878-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M878-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M878-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M878-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M878-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M878-s002.pdf">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>Francesco Palmas gratefully acknowledges the Sardinia Regional Government for the financial support of his PhD scholarship (P.O.R. Sardegna F.S.E. Operational Programme of the Autonomous Region of Sardinia, European Social Fund 2007&#x2013;2013&#x2014;Axis IV Human Resources, Objective l.3, Line of Activity l.3.1.).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>C.F. performed the synthesis and the instrumental analysis, F.P. wrote the paper.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M878">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patai</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>The Chemistry of Ketenes, Allenes and Related Compounds, Parts 1 and 2</source>
+          <publisher-name>John Wiley and Sons</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1980</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M878">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cabiddu</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Cadoni</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Ciuffarin</surname>
+              <given-names>E.</given-names>
+            </name>
+			<name>
+              <surname>Fattuoni</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Floris</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 1,3-benzodioxoles, 1,3-benzoxathioles and 1,3-benzodithioles from allenic derivatives</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1991</year>
+          <volume>28</volume>
+          <fpage>1573</fpage>
+          <lpage>1580</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570280620</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M878">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szeto</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sriramurthy</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phosphine-initiated general base catalysis: Facile access to benzannulated 1,3-diheteroatom five-membered rings via double-Michael reactions of allenes</article-title>
+          <source>Org. Lett.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>5420</fpage>
+          <lpage>5423</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol201730q</pub-id>
+          <pub-id pub-id-type="pmid">21932819</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M878">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lang</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Eine einfache Allencarbons&#xE4;ureester-Synthese mittels der Wittig-Reaktion</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>1980</year>
+          <volume>63</volume>
+          <fpage>438</fpage>
+          <lpage>455</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.19800630215</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

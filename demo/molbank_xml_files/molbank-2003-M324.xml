@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M324</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M324</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Trimethyl 4-(4-Chlorophenyl)-2-hydroxy-2-(2-methoxy-2-oxoethyl)-6-oxo-1,3,5-cyclohexanetricarboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stoyanov</surname>
+            <given-names>Edmont V.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M324">Faculty of Pharmacy, Medical University of Sofia, Dunav 2, BG-1000 Sofia, Bulgaria Tel.: (+359 2) 988 3142; Fax: (+359 2) 987 9874; E-mail: <email>estoyanov@yahoo.com</email></aff>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>04</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>2</issue>
+      <elocation-id>M324</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>10</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+       <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Michael addition</kwd>
+		<kwd>cyclohexanone</kwd>
+		<kwd>dimethyl acetonedicarboxylate</kwd>
+		<kwd>cyclization</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Aromatic aldehydes react with dimethyl acetonedicarboxylate in molar ratio 1:2 with spontaneous intramolecular Michael addition to give polysubstituted cyclohexanones [<xref ref-type="bibr" rid="B1-molbank-2003-M324">1</xref>]. We report now the synthesis of an analogous product from 4-chlorobenzaldehyde.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M324-i001.tif"/></p>
+      <p>To a solution of 4-chlorobenzaldehyde (1.41 g, 10 mmol) and dimethyl acetonedicarboxylate (3.48 g, 20 mmol) in 25 ml ethanol, 0.3 ml piperidine was added. The reaction mixture was left to stay at room temperature for 3 days. The separated crystals were filtered off, washed with cold ethanol, recrystallized from dioxane and air-dried. Yield: 2.93 g (62 %).</p>
+      <p>Colorless crystals, m. p. 159-160 &#xB0;C (dec.) from dioxane.</p>
+      <p><sup>1</sup>H NMR (300 MHz, d<sub>6</sub>-DMSO): 2.44 (d, 1H, J=17.1 Hz, <underline>H</underline>CH), 2.98 (d, 1H, J=17.1 Hz, HC<underline>H</underline>), 3.34 (s, 3H, OCH<sub>3</sub>), 3.47 (s, 3H, OCH<sub>3</sub>), 3.56 (d, 1H, J=12.2 Hz, H-3), 3.58 (s, 3H, OCH<sub>3</sub>), 3.67 (s, 3H, OCH<sub>3</sub>), 3.98 (t, 1H, J1=J2=12.2 Hz, H-4), 4.44 (d, 1H, J=12.2 Hz, H-5), 4.69 (s, 1H, H-1), 5.51 (s, 1H, OH), 7.20-7.36 (m, 4H arom.).</p>
+      <p><sup>13</sup>C NMR (75 Hz, d<sub>6</sub>-DMSO): 41.3, 42.6, 51.2, 51.5, 51.7 (2xC), 54.1 (2xC), 60.8, 62.8, 74.3, 128.3 (2xC), 130.2 (2xC), 138.6, 167.5, 168.0, 169.4, 169.6.</p>
+      <p>FT IR (KBr, cm<sup>-1</sup>): 3503, 2958, 1732, 1495, 1436, 1350, 1310.</p>
+      <p>ESI MS [FIA in MeOH, CH<sub>3</sub>COONH<sub>4</sub>/CH<sub>3</sub>COOK]: 509.2 [M+K]<sup>+</sup>, 453 [M-H<sub>2</sub>O]<sup>+</sup>.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2003-M324">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M324-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M324-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2003-M324-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M324-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M324">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haensel</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Haller</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Arch. Pharm. (Weinheim Ger.)</source>
+          <year>1970</year>
+          <volume>303</volume>
+          <fpage>334</fpage>
+          <lpage>338</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from the authors and from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M411</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M411</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-Methyl-<italic>N</italic>-(5-methyl-3-oxo-8-oxabicyclo[3.2.1.]oct-6-en-1-ylmethyl)-benzenesulfonamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meining</surname>
+            <given-names>Holger</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name>
+		  <xref rid="c1-molbank-2005-M411" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M411">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany Fax: (+ 49) 711/6854269; e-mail: <underline><email>baldur.foehlisch@oc.uni-stuttgart.de</email></underline></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2005-M411"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>2</issue>
+      <elocation-id>M411</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 <underline>MDPI</underline>.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved. </p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>dehalogenation</kwd>
+		<kwd>ketones</kwd>
+		<kwd>sulfonamides</kwd>
+		<kwd>heterocycles</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M411-i001.tif"/></disp-formula></p>
+      <p>Zinc powder (10.6 g, 160 mmol) was given to an ice-cold solution of methanol (40 mL) saturated with ammonium chloride. With vigorous magnetic stirring in an ice-bath, tetrachloroketone <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2005-M411">1</xref>] (4.59 g, 10 mmol) was added in small portions (exothermic reaction, the mixture should not be allowed to boil!). Then the ice-bath was removed, and the mixture was allowed to come up to room temperature with continuous stirring. Finally, the mixture was refluxed. A TLC showed that after 1 h the starting material <bold>1</bold> had disappeared. Unreacted zinc powder and inorganic salts were removed by suction and washed with methanol (50 mL). To the combined filtrates, 100 mL of a 0.6 molar solution of EDTA disodium salt (110 g in 500 mL water with 10 g NaOH) was added. The mixture was stirred for 1 h, and extracted with <italic>tert</italic>-butylmethyl ether (9 &#xD7; 20 mL). The combined extracts were washed with saturated brine (50 mL) and dried overnight with magnesium sulfate. After filtration the solvent was evaporated. The remaining white solid was recrystallized from a mixture of ethanol and <italic>tert</italic>-butylmethyl ether (2:1 v/v, 30 mL). The slight pink-coloured crystals were filtrated and finally washed with a small amount of n-pentane to yield 2.74 g (85%) product.</p>
+      <p>Melting Point: 126&#x2013;127 &#xB0;C.</p>
+      <p>TLC (silica, hexane/<italic>tert</italic>-butylmethyl ether (1:1 v/v): A lemon-coloured spot emerged after spraying the sheet with vanillin/sulfuric acid reagent followed by heating with a hot-air gun; <italic>R</italic><sub>f</sub> = 0.07. The starting material (<bold>1</bold>) showed a pale yellow spot at <italic>R</italic><sub>f</sub> = 0.27.</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 1.43 (s, 3 H, 5-CH<sub>3</sub>); 2.43 (s, 3 H, C<italic>H</italic><sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); two AB sub-spectra with &#x3B4;<sub>A</sub>= 2.43, &#x3B4;<sub>B</sub>= 2.36, <italic>J</italic><sub>AB</sub>= 16.1 Hz = <italic>J</italic><sub>gem</sub>, and &#x3B4;<sub>A</sub>= 2.45, &#x3B4;<sub>B</sub>= 2.26, <italic>J</italic><sub>AB</sub>= 16.5 Hz= <italic>J</italic><sub>gem</sub> (4 H, H-2 and H-4); ABX sub-spectrum (8 + 4 lines) with &#x3B4;<sub>A</sub>= 3.30, &#x3B4;<sub>B</sub>= 3.14, &#x3B4;<sub>X</sub>= 5.13, <italic>J</italic><sub>AB</sub>= (-)13.0 Hz, <italic>J</italic><sub>AX</sub>= 7.8 Hz, <italic>J</italic><sub>BX</sub>= 4.6 Hz (3 H, diastereotopic C<italic>H</italic><sub>2</sub>-NH); AB sub-spectrum with &#x3B4;<sub>A</sub>= 6.00, &#x3B4;<sub>B</sub>= 5.92, <italic>J</italic><sub>AB</sub>= 5.8 Hz (2 H, H-6 and H-7); AA&#x2019;BB&#x2019; sub-spectrum (4 lines) with &#x3B4;<sub>A</sub>= 7.75, &#x3B4;<sub>B</sub>= 7.32, <italic>J</italic><sub>AB</sub>= 8.2 Hz (4 H, H-2/6 and H-3/5 from CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4; = 21.5 (<italic>C</italic>H<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 22.9 (5-CH<sub>3</sub>); 46.9 (C-2); 47.2 (C-4); 51.1 (CH<sub>2</sub>-N); 84.3 (C-5); 85.5 (C-1); 127.05 ( Tos-C-2/6); 129.8 (Tos-C-3/5); 133.2 (C-6); 136.65 (Tos-C-4); 137.9 (C-7); 143.6 (Tos-C-1); 205.2 (C-3).</p>
+      <p>IR (CDCl<sub>3</sub> film, cm<sup>-1</sup>): 3380, 3280 (N-H); 2980, 2960, 2930, 2900, 2880 (CH); 1712 (C=O); 1600 (C=C); 1495, 1450, 1410, 1382, 1335, 1175.</p>
+      <p>Elemental Analysis: Calculated for C<sub>16</sub>H<sub>19</sub>NO<sub>4</sub>S (321.4): C, 59.79%; H, 5.96%; N, 4.36%; S, 9.98%. Found: C, 59.70%; H, 5.99%; N, 4.19%; S, 9.95%.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M411">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M411-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M411-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M411-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M411-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M411">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meining</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2005</year>
+          <fpage>M410</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M607</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M607</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 2-[4-(4-Chlorophenyl)piperazin-1-yl]-2-methylpropanoic Acid Ethyl Ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pati</surname>
+            <given-names>Hari N.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M607" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M607" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mishra</surname>
+            <given-names>Bijay K.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M607" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Satam</surname>
+            <given-names>Vijay S.</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M607" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M607"><label>1</label>Department of Chemistry, Sambalpur University, JyotiVihar-768019, Orissa, India</aff>
+      <aff id="af2-molbank-2009-M607"><label>2</label>Institute of Chemical Technology (ICT), Matunga, Mumbai-400019, Maharashtra, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M607"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>hnpati@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>07</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M607</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>05</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>06</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was synthesized by N-alkylation of 4-(4-chlorophenyl)piperazine with ethyl 2-bromo-2-methylpropanoate and its IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and Mass spectroscopic data are reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-[4-(4-Chlorophenyl)piperazin-1-yl]-2-methylpropionic acid</kwd>
+        <kwd>N-alkylation</kwd>
+        <kwd>4-(4-Chlorophenyl)piperazine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>One of the principal interests of our research group is to design and synthesize candidate cytotoxins based on the &#x3B1;,&#x3B2;-unsaturated keto scaffolds [<xref ref-type="bibr" rid="B1-molbank-2009-M607">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M607">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M607">3</xref>]. A number of these molecules have been shown to alkylate thiols but not amino or hydroxy substituents. Since thiols, in contrast to amino or hydroxyl groups are not found in nucleic acids, &#x3B1;,&#x3B2;-unsaturated ketones are bereft of the carcinogenic and mutagenic properties displayed by various anticancer drugs [<xref ref-type="bibr" rid="B4-molbank-2009-M607">4</xref>]. A series of compounds, including the title compound 2-[4-(4-chlorophenyl)-piperazin-1-yl]-2-methylpropanoic acid ethyl ester (<bold>3</bold>) were prepared for the construction of somewhat complex molecules containing &#x3B1;,&#x3B2;-unsaturated keto scaffold. The title compound was prepared by the route depicted in the scheme below.</p>
+      <p>To a solution of 4-(4-chlorophenyl)piperazine dihydrochloride <bold>1</bold> (5.0 g, 0.0185 mol) in DMSO (30 ml), anhydrous cesium carbonate (30.0 g, 0.0925 mol), sodium iodide (1.39 g, 0.0093 mol) and ethyl 2-bromo-2-methylpropanoate <bold>2</bold> (3.97 g, 0.02 mol) were added. The resulting mixture was stirred at 25-30<sup>o</sup>C for 12 hours. The reaction mass was diluted with water (200 ml) and extracted with ethyl acetate (2 x 200 ml). The ethyl acetate layer was washed with water (2 x 100 ml), dried over anhydrous sodium sulfate (10.0 g) and concentrated under vacuum. The crude product thus obtained was purified by column chromatography (stationary phase silica gel 60-120 mesh; mobile phase 10% ethyl acetate in hexane). The title compound <bold>3</bold> was obtained as a white solid (4.73 g, 82 %).
+	  <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M607-i001.tif"/>
+        </disp-formula></p>
+      <p>Melting Point: 56<sup>o</sup>C.</p>
+      <p>EI-MS m/z (rel. int. %): 311 (100) [M+1]<sup>+</sup>, 236(40), 197(60), 154(45).</p>
+      <p>IR &#x3BD; <sub>max</sub> (KBr) cm<sup>-1</sup>: 2839-2996 (C-H aliphatic); 1728 (C=O), 1595, 1505 (C=C aromatic), 1205 (C-O bending), 758 (C-Cl bending).</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; ppm 1.27 (t, 3H, <italic>J</italic> = 7.2 Hz, -CH<sub>2</sub>-C<underline>H</underline><sub>3</sub>), 1.35 (s, 6H, 2 x CH<sub>3</sub>), 2.74-2.76 (m, 4H, <italic>J</italic> = 4.8 Hz, -CH<sub>2</sub>-N-CH<sub>2</sub>-), 3.14-3.17 (m, 4H, <italic>J</italic> = 4.8 Hz, -CH<sub>2</sub>-N-CH<sub>2</sub>-), 4.20 (q, 2H, <italic>J</italic> = 7.2 Hz, -C<underline>H<sub>2</sub></underline>-CH<sub>3</sub>), 6.81-6.83 (d, 2H, <italic>J</italic> = 6.8 Hz, phenyl protons), 7.17-7.20 (d, 2H, <italic>J</italic> = 6.8 Hz, phenyl protons).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; ppm 14.3 (CH<sub>3</sub>), 22.7 ((CH<sub>3</sub>)<sub>2</sub>), 46.6 (-CH<sub>2</sub>-N-CH<sub>2</sub>-), 49.7 (-CH<sub>2</sub>-N-CH<sub>2</sub>-), 60.5 (O-CH<sub>2</sub>), 62.4 (N-C-), 117.0, 124.3, 128.8, 149.8 (aromatic carbons), 174.3 (C=O).</p>
+      <p>Elemental analysis: Calculated for C<sub>16</sub>H<sub>23</sub>ClN<sub>2</sub>O<sub>2</sub>: C, 61.83%, H, 7.46%, N, 9.01%; Found: C, 61.90%, H, 7.44%, N, 8.98%. </p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M607">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M607-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M607-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M607-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M607-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We sincerely thank Department of Chemistry, Sambalpur University for providing the facility and support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M607">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pati</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Clercq</surname>
+              <given-names>E.D.</given-names>
+            </name>
+            <name>
+              <surname>Balzarini</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular modifications of 2-arylidene-1-indanones leading to increased cytotoxic potencies</article-title>
+          <source>J. Enz. Inhib. Med. Chem.</source>
+          <year>2007</year>
+          <volume>22</volume>
+          <fpage>37</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1080/14756360600958057</pub-id>
+          <pub-id pub-id-type="pmid">17373545</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M607">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pati</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Ramirez-Erosa</surname>
+              <given-names>I.J.</given-names>
+            </name>
+            <name>
+              <surname>Dunlop</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Hickie</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x3B1;,&#x3B2;-Substituted 1-aryl-3-dimethylaminopropanone hydrochlorides: potent cytotoxins towards human WiDr colon cancer cells</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>511</fpage>
+          <lpage>515</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.55.511</pub-id>
+          <pub-id pub-id-type="pmid">17409538</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M607">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pati</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bandy</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Clercq</surname>
+              <given-names>E.D.</given-names>
+            </name>
+            <name>
+              <surname>Balzarini</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kawase</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sakagami</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Quail</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The cytotoxic properties and preferential toxicity to tumor cells displayed by some 2,4-bis(benzylidene)- 8- methyl-8-azabicyclo[3.2.1]octan-3-ones and 3,5-bis(benzylidene)-1-methyl-4-piperidones</article-title>
+          <source>Euro. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>54</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.03.015</pub-id>
+          <pub-id pub-id-type="pmid">18468733</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M607">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pati</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic thiol alkylators</article-title>
+          <source>Mini-Rev. Med. Chem.</source>
+          <year>2007</year>
+          <volume>7</volume>
+          <fpage>131</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.2174/138955707779802642</pub-id>
+          <pub-id pub-id-type="pmid">17305587</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

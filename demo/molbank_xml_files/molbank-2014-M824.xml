@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M824</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M824</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-(4-Amino-1,2,5-oxadiazol-3-yl)-4-(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pagoria</surname>
+            <given-names>Philip</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M824" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Maoxi</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M824" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Racoveanu</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M824" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>DeHope</surname>
+            <given-names>Alan</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M824" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tsyshevsky</surname>
+            <given-names>Roman</given-names>
+          </name>
+          <xref rid="af2-molbank-2014-M824" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kuklja</surname>
+            <given-names>Maija M.</given-names>
+          </name>
+          <xref rid="af2-molbank-2014-M824" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2014-M824" ref-type="corresp">*</xref>
+        </contrib>
+		</contrib-group>
+      <aff id="af1-molbank-2014-M824"><label>1</label>Energetic Materials Center, Lawrence Livermore National Laboratory, 7000 East Ave., L-282, Livermore, CA 94550, USA</aff>
+      <aff id="af2-molbank-2014-M824"><label>2</label>Materials Science and Engineering Department, University of Maryland College Park, College Park, MD 20742-2115, USA</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2014-M824"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>mkukla@umd.edu</email> or <email>mkukla@nsf.gov</email>; Tel.: +1-703-292-4940; Fax: +1-703-292-9175.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>05</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>2</issue>
+      <elocation-id>M824</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>03</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>05</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound 3-(4-amino-1,2,5-oxadiazol-3-yl)-4-(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole (ANFF-1) was synthesized by: (<bold>1</bold>) by reaction of 3,4-bis(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole (BNFF-1) with gaseous ammonia in toluene and (<bold>2</bold>) by partial oxidation of 3,4-bis(4-amino-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole (BAFF-1) with 35% H<sub>2</sub>O<sub>2</sub> in concentrated H<sub>2</sub>SO<sub>4</sub>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>high explosives</kwd>
+        <kwd>heterocyclic energetic materials</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The relatively high density (1.782 g/mL) together with low melting point (100 &#xB0;C) makes ANFF-1 (<xref ref-type="fig" rid="molbank-2014-M824-f001">Figure 1</xref>a) very attractive as a secondary explosive, oxidizer and melt-castable explosive [<xref ref-type="bibr" rid="B1-molbank-2014-M824">1</xref>]. It is structurally similar to another heterocyclic energetic compound, 3,4-bis(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole-1-oxide (BNFF, <xref ref-type="fig" rid="molbank-2014-M824-f001">Figure 1</xref>b) [<xref ref-type="bibr" rid="B2-molbank-2014-M824">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M824">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M824">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2014-M824">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M824">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M824">7</xref>] and may serve as an alternative to BNFF in some weapon applications. In this short note, we report two synthetic methods that were developed for the synthesis of ANFF-1.</p>
+    </sec>
+    <sec>
+      <title>Experimental (<xref ref-type="fig" rid="molbank-2014-M824-sch001">Scheme 1</xref>)</title>
+      <p>The first method involved allowing BNFF-1 to react with gaseous ammonia in toluene at 0&#x2013;5 &#xB0;C. With stirring, BNFF-1 (5 g) was dissolved in toluene (100 mL) in a 250 mL round-bottomed flask equipped with a stir bar, thermometer and gas bubbler. The mixture was cooled to &lt;5 &#xB0;C and anhydrous ammonia was bubbled in for 10 min to yield a saturated solution. The mixture was stirred 1 h at &lt;5 &#xB0;C, filtered to remove insoluble NaNO<sub>2</sub> and the solvent was removed to yield a light yellow solid. Purification by flash column chromatography (CH<sub>2</sub>Cl<sub>2</sub>, SiO<sub>2</sub>) yielded 1.4 g of ANFF-1 as a white powder. Recrystallization from CHCl<sub>3</sub> yielded white needles; m.p. 100 &#xB0;C; <sup>1</sup>H-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 6.72 (s, 2H); <sup>13</sup>C-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 160.05, 155.2, 144.25, 140.92, 139.23, 135.70 ppm; <sup>14</sup>N-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 1139 (-NH<sub>2</sub>) ppm.</p>
+      <p>The method of choice for the synthesis of ANFF-1 involves the partial oxidation of BAFF-1 with 35% H<sub>2</sub>O<sub>2</sub> in concentrated H<sub>2</sub>SO<sub>4</sub>. Into a 300 mL 3-necked round-bottomed flask equipped with a thermometer, stir bar, and addition funnel was placed concentrated (96% sulfuric acid (200 mL) and 3,4-bis(4-amino-1,2,5-oxadiazol-3-yl)-1,2,5-oxadiazole (BAFF-1, 20 g, 84 mmol). The mixture is stirred until a solution is realized. With stirring, the solution is cooled to &lt;10 &#xB0;C with an ice water bath and 35% hydrogen peroxide (20&#x2013;30 mL, 8 fold molar excess of H<sub>2</sub>O<sub>2</sub>, ~530 mmol) is added dropwise at &lt;20 &#xB0;C. The mixture turns a blue-green color after an hour BNFF-1 forms as a light blue-green precipitate. The mixture is stirred at 18&#x2013;23 &#xB0;C for 3 h. The reaction mixture is filtered through a glass fritted Buchner funnel to remove the insoluble BNFF-1 into 2 liters of ice water, resulting in precipitation of ANFF-1 as a white solid. The precipitate (ANFF-1) is collected by suction filtration, washed with water and allowed to air dry to yield 10.5 g (45%) of a white solid. Recrystallization from CHCl<sub>3</sub> (insoluble BAFF-1 is removed by gravity filtration) yields ANFF-1 as white needles; m.p. 100 &#xB0;C; <sup>1</sup>H-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 6.72 (s, 2H); <sup>13</sup>C-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 160.05, 155.2, 144.25, 140.92, 139.23, 135.70 ppm; <sup>14</sup>N-NMR (DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; 1139 (-NH<sub>2</sub>) ppm. The resulting material with particles sizes of 0.64 &#xD7; 0.57 &#xD7; 0.43 mm<sup>3</sup> exhibited friction sensitivity of 0/10@36 kg (BAM Friction) and impact sensitivity measured with drop hammer tests was larger than 177 cm (2.5 kg weight).  The two samples had the same particle size and sensitivity since both were recrystallized from CHCl<sub>3</sub> prior to performing small-scale safety tests.</p>
+      <p>Thermal stability of ANFF-1was recently explored and analyzed in great detail [<xref ref-type="bibr" rid="B8-molbank-2014-M824">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2014-M824">9</xref>].</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2014-M824">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M824-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M824-s001-mod.mol">
+   <label>Supplementary File 1</label>
+ </supplementary-material>
+        <supplementary-material id="molbank-2014-M824-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M824-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+       </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This research is supported in part by Office of Naval Research (Grant N00014-12-1-0529), DOE, and National Science Foundation (NSF). To perform the most recent calculations, we used NSF XSEDE resources (Grant TG-DMR130077) and Department of Energy NERSC resources (Contract DE-AC02-05CH11231). This work performed in part under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. MMK is grateful to the Office of the Director of NSF for continuous support under the Independent Research and Development program. Any appearance of findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of NSF.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>All authors equally contributed to preparation of this manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M824">
+        <label>1.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stepanov</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Dashko</surname>
+              <given-names>D.V.</given-names>
+            </name>
+            <name>
+              <surname>Astrat&#x2032;ev</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some Chemical Properties of 3,4-Bis(4-nitrofurazan-3-yl)furoxan</article-title>
+          <source>Proceedings of the 15th International Seminar New Trends in Research of Energetic Materials (NTREM)</source>
+          <conf-loc>Pardubice, Czech Republic</conf-loc>
+          <conf-date>April 2012</conf-date>
+          <fpage>301</fpage>
+          <lpage>308</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M824">
+        <label>2.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loebbecke</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schuppler</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Schweikert</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermal Properties of Different Substituted Energetic Furoxans</article-title>
+          <source>Proceedings of the 33rd International Annual Conference of ICT (Energetic Materials)</source>
+          <conf-loc>Karlsruhe, Germany</conf-loc>
+          <conf-date>June 2002</conf-date>
+          <fpage>115/1</fpage>
+          <lpage>115/12</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M824">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>F.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>P.</given-names>
+            </name>
+			<name>
+              <surname>Hu</surname>
+              <given-names>R.-Z.</given-names>
+            </name>
+			<name>
+              <surname>Luo</surname>
+              <given-names>Y.</given-names>
+            </name>
+			<name>
+              <surname>Zhang</surname>
+              <given-names>Z.-Z.</given-names>
+            </name>
+			<name>
+              <surname>Zhou</surname>
+              <given-names>Y.-S.</given-names>
+            </name>
+			<name>
+              <surname>Yang</surname>
+              <given-names>X.-W.</given-names>
+            </name>
+			<name>
+              <surname>Gao</surname>
+              <given-names>Y.</given-names>
+            </name>
+			<name>
+              <surname>Gao</surname>
+              <given-names>S.-L.</given-names>
+            </name>
+			<name>
+              <surname>Shi</surname>
+              <given-names>Q.-Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermochemical Properties and Non-Isothermal Decomposition Reaction Kinetics of 3,4-Dinitrofurazanfuroxan (DNTF)</article-title>
+          <source>J. Hazard. Mater.</source>
+          <year>2004</year>
+          <volume>113</volume>
+          <fpage>67</fpage>
+          <lpage>71</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M824">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zheng</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.-N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review on 3,4-Bisnitrofurazanfuroxan (DNTF)</article-title>
+          <source>Chin. J. Energ. Mater.</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <fpage>463</fpage>
+          <lpage>466</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M824">
+        <label>5.</label>
+        <citation citation-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pagoria</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Hope</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Leonard</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x201C;Green&#x201D; Energetic Materials Synthesis at LLNL</article-title>
+          <source>Proceedings of the 15th International Seminar New Trends in Research of Energetic Materials (NTREM)</source>
+          <conf-loc>Pardubice, Czech Republic</conf-loc>
+          <conf-date>April 2012</conf-date>
+          <fpage>54</fpage>
+          <lpage>64</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M824">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>W.-J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.-R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetics of non-isothermal crystallizations of BNFF, TNT and BNFF-TNT eutectic system crystallization in RDX</article-title>
+          <source>Hanneng Cailiao</source>
+          <year>2008</year>
+          <fpage>267</fpage>
+          <lpage>271</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M824">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinditskii</surname>
+              <given-names>V.P.</given-names>
+            </name>
+            <name>
+              <surname>Burzhava</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Sheremetev</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Aleksandrova</surname>
+              <given-names>N.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermal and Combustion Properties of 3,4-Bis(3-nitrofurazan-4-yl)furoxan (DNTF)</article-title>
+          <source>Propellants Explos. Pyrotech.</source>
+          <year>2010</year>
+          <volume>35</volume>
+          <fpage>1</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1002/prep.201100095</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M824">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsyshesvky</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kuklja</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Decomposition Mechanisms and Kinetics of Novel Energetic Molecules BNFF-1 and ANFF-1: Quantum-Chemical Modeling</article-title>
+          <source>Molecules</source>
+          <year>2013</year>
+          <volume>18</volume>
+          <fpage>8500</fpage>
+          <lpage>8517</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules18078500</pub-id>
+          <pub-id pub-id-type="pmid">23873388</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M824">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuklja</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantum-Chemical Modeling of Energetic Materials: Chemical Reactions Triggered by Defects, Deformations, and Electronic Excitations</article-title>
+          <source>Advances in Quantum Chemistry: Energetic Materials</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Sabin</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Br&#xE4;ndas</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Elsevier Inc.</publisher-name>
+          <publisher-loc>Amsterdam, The Netherlands</publisher-loc>
+          <year>2014</year>
+		  <comment>Chapter 3</comment>
+		  <volume>Volume 68</volume>
+          <fpage>71</fpage>
+          <lpage>146</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2014-M824-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Geometry structures of (<bold>a</bold>) ANFF-1 and (<bold>b</bold>) BNFF molecules were obtained from Density Functional Theory modeling in the B3LYP/6-31+G(2df,p) approximation. The bond distances are shown in &#xC5;.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M824-g001.tif"/>
+      </fig>
+      <fig id="molbank-2014-M824-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M824-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of ANFF-1.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M824-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

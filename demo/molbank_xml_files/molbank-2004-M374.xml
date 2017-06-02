@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+ <front>
+  <journal-meta>
+   <journal-id journal-id-type="publisher-id">molbank</journal-id>
+   <journal-title>Molbank</journal-title>
+   <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+   <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+   <issn pub-type="epub">1422-8599</issn>
+   <publisher>
+    <publisher-name>MDPI</publisher-name>
+   </publisher>
+  </journal-meta>
+  <article-meta>
+   <article-id pub-id-type="doi">10.3390/M374</article-id>
+   <article-id pub-id-type="publisher-id">molbank-2004-M374</article-id>
+   <article-categories>
+    <subj-group>
+     <subject>Short Note</subject>
+    </subj-group>
+   </article-categories>
+   <title-group>
+    <article-title>Synthesis of {3,4-bis-[(2-hydroxy-3-methoxy benzylidene)amino] phenyl}phenyl methanone as a new salen derivative</article-title>
+   </title-group>
+   <contrib-group>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Jarrahpour</surname>
+      <given-names>A. A.</given-names>
+     </name>
+     <xref rid="af1-molbank-2004-M374" ref-type="aff">*</xref>
+    </contrib>
+    <contrib contrib-type="author">
+     <name>
+      <surname>Zarei</surname>
+      <given-names>M.</given-names>
+     </name>
+    </contrib>
+   </contrib-group>
+   <aff id="af1-molbank-2004-M374">Department of Chemistry, College of Sciences, Shiraz University, Shiraz 71454, Iran Tel. 0098 711 2284822, Fax: 0098 711 2280926; E-mail: <email>aliasghar6683@yahoo.com</email>, <email>jarrah@susc.ac.ir</email></aff>
+   <pub-date pub-type="epub">
+    <day>24</day>
+    <month>02</month>
+    <year>2004</year>
+   </pub-date>
+   <pub-date pub-type="collection">
+    <month>02</month>
+    <year>2004</year>
+   </pub-date>
+   <volume>2004</volume>
+   <issue>1</issue>
+   <elocation-id>M374</elocation-id>
+   <history>
+    <date date-type="received">
+     <day>31</day>
+     <month>01</month>
+     <year>2004</year>
+    </date>
+    <date date-type="accepted">
+     <day>18</day>
+     <month>02</month>
+     <year>2004</year>
+    </date>
+   </history>
+   <permissions>
+    <copyright-statement>&#xA9; 2004 MDPI. All rights reserved</copyright-statement>
+    <copyright-year>2004</copyright-year>
+    </permissions>
+   <kwd-group>
+    <kwd>Schiff base</kwd>
+    <kwd>3,4-diamino benzophenone</kwd>
+    <kwd><italic>o</italic>-vanillin</kwd>
+    <kwd>biological activity</kwd>
+    <kwd>salen</kwd>
+   </kwd-group>
+  </article-meta>
+ </front>
+ <body>
+   <p>Benzophenone derivatives are reported to show biological activities such as cytotoxic activities against human oral squarnous carcinoma cells (HSC-2) and normal human gingival fibroblasts (HGF)<xref ref-type="bibr" rid="B1-molbank-2004-M374">1</xref>] ], antibiotic activities against methicillin-resistant <italic>Staphylococcus aureus</italic> and vancomycin-resistant <italic>Enterococcus faecium</italic> [<xref ref-type="bibr" rid="B2-molbank-2004-M374">2</xref>] and protein kinase C inhibitor [<xref ref-type="bibr" rid="B3-molbank-2004-M374">3</xref>]. Boyd and coworkers have reported a benzophenone derivative exhibited activity in the primary anti-HIV screen [<xref ref-type="bibr" rid="B4-molbank-2004-M374">4</xref>]. Schiff bases are widely in use for synthetic purposes both by organic and inorganic chemists [<xref ref-type="bibr" rid="B5-molbank-2004-M374">5</xref>]. In addition, Schiff bases show biological activities including antibacterial [<xref ref-type="bibr" rid="B6-molbank-2004-M374">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2004-M374">7</xref>], antifungal [<xref ref-type="bibr" rid="B8-molbank-2004-M374">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2004-M374">9</xref>], antitumor [<xref ref-type="bibr" rid="B10-molbank-2004-M374">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2004-M374">11</xref>] and herbicidal [<xref ref-type="bibr" rid="B12-molbank-2004-M374">12</xref>] activities. Schiff bases are also used as ligand for complex formation of some metal ions [<xref ref-type="bibr" rid="B13-molbank-2004-M374">13</xref>]. Metal-salen complexes are used as catalysis in epoxidation of alkenes [<xref ref-type="bibr" rid="B14-molbank-2004-M374">14</xref>], asymmetric cyclopropanation [<xref ref-type="bibr" rid="B15-molbank-2004-M374">15</xref>] and highly selective PVC membrane sensors for the sulfate ion [<xref ref-type="bibr" rid="B16-molbank-2004-M374">16</xref>]. The mentioned properties prompted us to synthesize Schiff base <bold>3</bold>. The biological and analytical uses of Schiff base <bold>3</bold> are under study.</p>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M374-i001.tif"/></p>
+   <p>To stirred solution of <italic>o</italic>-vanillin <bold>2</bold> (0.85 g, 5.64 mmol) in dry dichloromethane (40.00 mL) at 0 <sup>o</sup>C were successively added 3,4-diamino benzophenone <bold>1</bold> (0.60 g, 2.82 mmol) and a large excces of anhydrous MgSO<sub>4</sub> (2.00 g, 16.67 mmol). The resulting mixture was stirred for 8 hours at room temperature. The filtered solution was evaporated under reduced pressure to yield the crude Schiff base [<xref ref-type="bibr" rid="B17-molbank-2004-M374">17</xref>] which was recrystalized from ethanol 95% to give the pure Schiff base <bold>3</bold> as an orange solid (1.13 g, 83%).</p> 
+   <p>m.p. 150-152 <sup>o</sup>C</p>
+   <p><bold>IR</bold> (KBr) (cm<sup>-1</sup>): 1612.4 (C=N), 1678.7 (C=O), 3170.8-3656.8 (OH).</p>
+   <p><bold><sup>1</sup>H-NMR</bold> (CDCl<sub>3</sub>) (250 MHz) &#x3B4; (ppm):6) 3.79 H, s,2 OMe), 6.70-7.96 (14H, m, aryl hydrogens), 8.53 (2H, s, 2HC=N), 12.84 (2H, br, 2 OH).</p>
+   <p><bold><sup>13</sup>C-NMR</bold> (CDCl<sub>3</sub> ) (62.90 MHz) &#x3B4; (ppm): 56.43 (OMe), 109.71-152.15 (aromatic carbons), 165.74 (HC=N), 197.04 (C=O).</p>
+   <p><bold>MS </bold> (m/z, %): 480 (M<sup>+</sup>, 9.9), 344 (C<sub>6</sub>H<sub>5</sub>COC<sub>6</sub>H<sub>3</sub>N=CC<sub>6</sub>H<sub>3</sub>OHOMeN, 70.6), 239 (C<sub>6</sub>H<sub>3</sub>N=CC<sub>6</sub>H<sub>3</sub>OH OMeN, 4.6), 221 (C<sub>6</sub>H<sub>5</sub>COC<sub>6</sub>H<sub>3</sub>N=CH<sub>2</sub>N, 5.0), 180 (C<sub>6</sub>H<sub>5</sub>COC<sub>6</sub>H<sub>3</sub>, 3.2), 123 (C<sub>6</sub>H<sub>3</sub>OHOMe, 11.5), 105 (C<sub>6</sub>H<sub>5</sub>CO, 95.0), 77 (C<sub>6</sub>H<sub>5</sub> , 100.0).</p>
+ </body>
+ <back>
+  <app-group>
+    <app id="app1-molbank-2004-M374">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M374-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M374-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2004-M374-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M374-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+   <title>Acknowledgment</title>
+   <p>The authors thank the Shiraz University Research Council for financial support (Grant No. 81-SC-1540-C220).</p>
+  </ack>
+  <ref-list>
+   <title>References</title>
+   <ref id="B1-molbank-2004-M374">
+    <label>1.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hou</surname>
+       <given-names>A.-J.</given-names>
+      </name>
+      <name>
+       <surname>Fukai</surname>
+       <given-names>T.</given-names>
+      </name>
+      <name>
+       <surname>Shimazaki</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Sakagami</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Sun</surname>
+       <given-names>H.-D.</given-names>
+      </name>
+      <name>
+       <surname>Nomura</surname>
+       <given-names>T.</given-names>
+      </name>
+     </person-group>
+     <source>J.Nat.Prod.</source>
+     <year>2001</year>
+     <volume>64</volume>
+     <fpage>65</fpage>
+     <lpage>70</lpage>
+     <pub-id pub-id-type="pmid">11170668</pub-id>
+    </citation>
+   </ref>
+   <ref id="B2-molbank-2004-M374">
+    <label>2.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Cueto</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Jensen</surname>
+       <given-names>P. R.</given-names>
+      </name>
+      <name>
+       <surname>Kauuffman</surname>
+       <given-names>C.</given-names>
+      </name>
+      <name>
+       <surname>Fenical</surname>
+       <given-names>W.</given-names>
+      </name>
+      <name>
+       <surname>Lobkovsky</surname>
+       <given-names>E.</given-names>
+      </name>
+      <name>
+       <surname>Clardy</surname>
+       <given-names>J.</given-names>
+      </name>
+     </person-group>
+     <source>J. Nat. Prod.</source>
+     <year>2001</year>
+     <volume>64</volume>
+     <fpage>1444</fpage>
+     <lpage>1446</lpage>
+     <pub-id pub-id-type="pmid">11720529</pub-id>
+    </citation>
+   </ref>
+   <ref id="B3-molbank-2004-M374">
+    <label>3.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Storm</surname>
+       <given-names>J. P.</given-names>
+      </name>
+      <name>
+       <surname>Andersson</surname>
+       <given-names>C.-M.</given-names>
+      </name>
+     </person-group>
+     <source>Org. Lett.</source>
+     <year>1999</year>
+     <volume>1</volume>
+     <issue>9</issue>
+     <fpage>1451</fpage>
+     <lpage>1453</lpage>
+     <pub-id pub-id-type="pmid">10825993</pub-id>
+    </citation>
+   </ref>
+   <ref id="B4-molbank-2004-M374">
+    <label>4.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Boyd</surname>
+       <given-names>M. R.</given-names>
+      </name>
+      <name>
+       <surname>Fuller</surname>
+       <given-names>R. W.</given-names>
+      </name>
+      <name>
+       <surname>Westergaard</surname>
+       <given-names>C. K.</given-names>
+      </name>
+      <name>
+       <surname>Collines</surname>
+       <given-names>J. W.</given-names>
+      </name>
+      <name>
+       <surname>Cardllina</surname>
+       <given-names>J.H.</given-names>
+	   <suffix>II</suffix>
+      </name>
+     </person-group>
+     <source>J. Nat. Prod.</source>
+     <year>1999</year>
+     <volume>62</volume>
+     <fpage>67</fpage>
+     <lpage>69</lpage>
+    </citation>
+   </ref>
+   <ref id="B5-molbank-2004-M374">
+    <label>5.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Arora</surname>
+       <given-names>K.</given-names>
+      </name>
+      <name>
+       <surname>Gupta</surname>
+       <given-names>A.</given-names>
+      </name>
+      <name>
+       <surname>Agarwal</surname>
+       <given-names>D.D.</given-names>
+      </name>
+     </person-group>
+     <source>Asian J. Chem.</source>
+     <year>2002</year>
+     <volume>14</volume>
+     <fpage>1611</fpage>
+     <lpage>1615</lpage>
+    </citation>
+   </ref>
+   <ref id="B6-molbank-2004-M374">
+    <label>6.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Saravanan</surname>
+       <given-names>J.</given-names>
+      </name>
+      <name>
+       <surname>Mohan</surname>
+       <given-names>S.</given-names>
+      </name>
+     </person-group>
+     <source>Asian J. Chem.</source>
+     <year>2003</year>
+     <volume>15</volume>
+     <fpage>67</fpage>
+     <lpage>70</lpage>
+    </citation>
+   </ref>
+   <ref id="B7-molbank-2004-M374">
+    <label>7.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Pandeya</surname>
+       <given-names>S. N.</given-names>
+      </name>
+      <name>
+       <surname>Sriram</surname>
+       <given-names>D.</given-names>
+      </name>
+      <name>
+       <surname>Nath</surname>
+       <given-names>G.</given-names>
+      </name>
+      <name>
+       <surname>De Clercq</surname>
+       <given-names>E.</given-names>
+      </name>
+     </person-group>
+     <source>IL Farmaco</source>
+     <year>1999</year>
+     <volume>54</volume>
+     <fpage>624</fpage>
+     <lpage>628</lpage>
+     <pub-id pub-id-type="pmid">10555264</pub-id>
+    </citation>
+   </ref>
+   <ref id="B8-molbank-2004-M374">
+    <label>8.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Berad</surname>
+       <given-names>B.N.</given-names>
+      </name>
+      <name>
+       <surname>Deshmukh</surname>
+       <given-names>M.R.S.</given-names>
+      </name>
+      <name>
+       <surname>Bhaskar</surname>
+       <given-names>C.S.</given-names>
+      </name>
+     </person-group>
+     <source>Asian J. Chem.</source>
+     <year>2002</year>
+     <volume>14</volume>
+     <fpage>1241</fpage>
+     <lpage>1245</lpage>
+    </citation>
+   </ref>
+   <ref id="B9-molbank-2004-M374">
+    <label>9.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Krishnaiah</surname>
+       <given-names>Y.S.R.</given-names>
+      </name>
+      <name>
+       <surname>Lakashmi</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Satyanarayana</surname>
+       <given-names>V.</given-names>
+      </name>
+      <name>
+       <surname>Bhashkar</surname>
+       <given-names>P.</given-names>
+      </name>
+     </person-group>
+     <source>Asian J. Chem.</source>
+     <year>2002</year>
+     <volume>14</volume>
+     <fpage>1246</fpage>
+     <lpage>1250</lpage>
+    </citation>
+   </ref>
+   <ref id="B10-molbank-2004-M374">
+    <label>10.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Hodnett</surname>
+       <given-names>E. M.</given-names>
+      </name>
+      <name>
+       <surname>Dunn</surname>
+       <given-names>W. J.</given-names>
+      </name>
+     </person-group>
+     <source>J. Med. Chem.</source>
+     <year>1970</year>
+     <volume>13</volume>
+     <fpage>768</fpage>
+     <lpage>770</lpage>
+     <pub-id pub-id-type="pmid">5452451</pub-id>
+    </citation>
+   </ref>
+   <ref id="B11-molbank-2004-M374">
+    <label>11.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nofal</surname>
+       <given-names>Z. M.</given-names>
+      </name>
+      <name>
+       <surname>El-Zahar</surname>
+       <given-names>M. I.</given-names>
+      </name>
+      <name>
+       <surname>Abd El-Karim</surname>
+       <given-names>S. S.</given-names>
+      </name>
+     </person-group>
+     <source>Molecules</source>
+     <year>2000</year>
+     <volume>5</volume>
+     <fpage>99</fpage>
+     <lpage>113</lpage>
+    </citation>
+   </ref>
+   <ref id="B12-molbank-2004-M374">
+    <label>12.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Samadhiya</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Halve</surname>
+       <given-names>A.</given-names>
+      </name>
+     </person-group>
+     <source>Orient. J. Chem.</source>
+     <year>2001</year>
+     <volume>17</volume>
+	 <issue>1</issue>
+     <fpage>119</fpage>
+     <lpage>122</lpage>
+    </citation>
+   </ref>
+   <ref id="B13-molbank-2004-M374">
+    <label>13.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Tai</surname>
+       <given-names>X.</given-names>
+      </name>
+      <name>
+       <surname>Yin</surname>
+       <given-names>X.</given-names>
+      </name>
+      <name>
+       <surname>Chen</surname>
+       <given-names>Q.</given-names>
+      </name>
+      <name>
+       <surname>Tan</surname>
+       <given-names>M.</given-names>
+      </name>
+     </person-group>
+     <source>Molecules</source>
+     <year>2003</year>
+     <volume>8</volume>
+     <fpage>439</fpage>
+     <lpage>443</lpage>
+    </citation>
+   </ref>
+   <ref id="B14-molbank-2004-M374">
+    <label>14.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Abashkin</surname>
+       <given-names>Y. G.</given-names>
+      </name>
+      <name>
+       <surname>Burt</surname>
+       <given-names>S. K.</given-names>
+      </name>
+     </person-group>
+     <source>Org. Lett.</source>
+     <year>2004</year>
+     <volume>6</volume>
+     <issue>1</issue>
+     <fpage>59</fpage>
+     <lpage>62</lpage>
+     <pub-id pub-id-type="pmid">14703350</pub-id>
+    </citation>
+   </ref>
+   <ref id="B15-molbank-2004-M374">
+    <label>15.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Nguyen</surname>
+       <given-names>S. B. T.</given-names>
+      </name>
+      <name>
+       <surname>Miller</surname>
+       <given-names>J. A.</given-names>
+      </name>
+      <name>
+       <surname>Hennessy</surname>
+       <given-names>E.J.</given-names>
+      </name>
+      <name>
+       <surname>Marshall</surname>
+       <given-names>W. J.</given-names>
+      </name>
+      <name>
+       <surname>Scialdone</surname>
+       <given-names>M.A.</given-names>
+      </name>
+     </person-group>
+     <source>J. Org. Chem.</source>
+     <year>2003</year>
+     <volume>68</volume>
+     <fpage>7884</fpage>
+     <lpage>7886</lpage>
+    </citation>
+   </ref>
+   <ref id="B16-molbank-2004-M374">
+    <label>16.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Shamsipur</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Yousefi</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Hosseini</surname>
+       <given-names>M.</given-names>
+      </name>
+      <name>
+       <surname>Ganjali</surname>
+       <given-names>M. R.</given-names>
+      </name>
+      <name>
+       <surname>Shargi</surname>
+       <given-names>H.</given-names>
+      </name>
+      <name>
+       <surname>Naeimi</surname>
+       <given-names>H.</given-names>
+      </name>
+     </person-group>
+     <source>Anal. Chem.</source>
+     <year>2001</year>
+     <volume>73</volume>
+     <fpage>2869</fpage>
+     <lpage>2874</lpage>
+     <pub-id pub-id-type="pmid">11467529</pub-id>
+    </citation>
+   </ref>
+   <ref id="B17-molbank-2004-M374">
+    <label>17.</label>
+    <citation citation-type="journal">
+     <person-group person-group-type="author">
+      <name>
+       <surname>Matsui</surname>
+       <given-names>S.</given-names>
+      </name>
+      <name>
+       <surname>Hashimoto</surname>
+       <given-names>Y.</given-names>
+      </name>
+      <name>
+       <surname>Saigo</surname>
+       <given-names>K.</given-names>
+      </name>
+     </person-group>
+     <source>Synthesis</source>
+     <year>1998</year>
+     <fpage>1161</fpage>
+     <lpage>1166</lpage>
+    </citation>
+   </ref>
+  </ref-list>
+  <fn-group>
+   <fn>
+    <p><italic>Sample Availability</italic> : Available from MDPI.</p>
+   </fn>
+  </fn-group>
+ </back>
+</article>

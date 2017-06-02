@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M880</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M880</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>9,19-Cyclolanost-24-en-3-one,21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>) from the Leaves of <italic>Lansium domesticum</italic> Corr cv Kokossan</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mayanti</surname>
+            <given-names>Tri</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M880" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sianturi</surname>
+            <given-names>Julinton</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M880" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harneti</surname>
+            <given-names>Desi</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M880" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Darwati</surname>
+          </name>
+          <xref rid="af1-molbank-2015-M880" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Supratman</surname>
+            <given-names>Unang</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M880" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2015-M880" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosli</surname>
+            <given-names>Mohamad Mustaqim</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M880" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fun</surname>
+            <given-names>Hoong-Kun</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M880" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M880"><label>1</label>Department of Chemistry, Faculty of Mathematics and Natural Sciences, Padjadjaran University, Jalan Raya Bandung-Sumedang Km 21, Jatinangor 45363, Sumedang, Indonesia; E-Mails: <email>t.mayanti@yahoo.co.id</email> (T.M.); <email>julintons@gmail.com</email> (J.S.); <email>d_harneti@yahoo.com</email> (D.H.); <email>darwatititi@yahoo.co.id</email> (D.)</aff>
+      <aff id="af2-molbank-2015-M880"><label>2</label>X-ray Crystallography Unit, School of Physics, Universiti Sains Malaysia, 11800 USM Penang, Malaysia; E-Mails: <email>mustaqim@usm.my</email> (M.M.R.); <email>hkfun@usm.my</email> (H.-K.F.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M880"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>u_supratman@unpad.ac.id</email>; Tel./Fax: +62-22-7794391.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M880</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>10</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>12</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new cycloartan-type triterpenoid, 9,19-cyclolanost-24-en-3-one,21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>), was isolated from the leaves of <italic>Lansium domesticum</italic> Corr cv kokossan. The chemical structure of <bold>1</bold> was elucidated on the basis of spectroscopic data, X-ray diffraction and comparison with those related compounds previously reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>cycloartan-type triterpenoid</kwd>
+        <kwd><italic>Lansium domesticum</italic></kwd>
+        <kwd>Meliaceae</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M880" sec-type="intro">
+      <title>1. Introduction</title>
+      <p><italic>Lansium domesticum</italic> Corr cv kokossan is a species of small tree from the Melliaceae family and widely distributed in Thailand and surrounding countries in Southern Asia [<xref ref-type="bibr" rid="B1-molbank-2015-M880">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M880">2</xref>]. Previous phytochemical studies on <italic>L. domesticum</italic> have resulted in the isolation of several types of triterpenoids [<xref ref-type="bibr" rid="B3-molbank-2015-M880">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M880">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M880">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M880">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M880">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M880">8</xref>], which possess interesting biological activities, such as anticancer [<xref ref-type="bibr" rid="B9-molbank-2015-M880">9</xref>], antibacterial [<xref ref-type="bibr" rid="B10-molbank-2015-M880">10</xref>], insecticides [<xref ref-type="bibr" rid="B11-molbank-2015-M880">11</xref>], antimalarial [<xref ref-type="bibr" rid="B12-molbank-2015-M880">12</xref>], cosmetic [<xref ref-type="bibr" rid="B13-molbank-2015-M880">13</xref>] and antifeedant activities [<xref ref-type="bibr" rid="B14-molbank-2015-M880">14</xref>].</p>
+      <p>As a part of our studies on triterpenoids compounds from Indonesian Meliaceae plants, we isolated and described two tetranortriterpenoids, kokosanolide A and C and three onoceranoid-type triterpenoids including, kokosanolide B, 8,14-secogammacera-7,14-diene-3,21-dione and 8,14-secogammacera-7,14(27)-diene-3,21-dione from the seeds and the bark of the species kokossan [<xref ref-type="bibr" rid="B12-molbank-2015-M880">12</xref>]. In further screening for triterpenoid compounds, we found that the ethyl acetate extract from the leaves of <italic>L. domesticum</italic> cv kokossan exhibited the presence of triterpenoid compounds, based on a phytochemical test using the Liebermann-Burchard reagent. We report herein the isolation and structure elucidation of the new cycloartan-type triterpenoid, 9,19-cyclolanost-24-en-3-one,21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>) (<bold>1</bold>) from the leaves of the <italic>L. domesticum</italic> cv kokossan. The chemical structure of compound <bold>1</bold> was established by NMR data and X-ray diffraction, as well as by comparison with those related compounds previously reported.</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M880">
+      <title>2. Result and Discussion</title>
+      <p>The ethyl acetate extract was separated and purified over a chromatography column packed with silica gel 60 by gradient elution. The chromatography column fractions were repeatedly subjected to normal-phase column chromatography and recrystallized in acetone to afford compound <bold>1</bold> (<xref ref-type="fig" rid="molbank-2015-M880-f001">Figure 1</xref>). 9,19-cyclolanost-24-en-3-one,21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>) was obtained as a white needle-like crystals from acetone; m.p. 145&#x2013;147 &#xB0;C, <inline-formula>
+        <mml:math display="block" id="mm1">
+          <mml:semantics>
+            <mml:mrow>
+              <mml:msubsup>
+				<mml:mrow>
+				  <mml:mo>[</mml:mo>
+				  <mml:mi mathvariant="sans-serif">&#x3B1;</mml:mi>
+			      <mml:mo>]</mml:mo>
+				</mml:mrow>
+				<mml:mi>D</mml:mi>
+				<mml:mn>20</mml:mn>
+			  </mml:msubsup>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+	  </inline-formula> &#x2212;5.2&#xB0; (<italic>c</italic>, 0.5 CHCl<sub>3</sub>). The molecular formula of <bold>1</bold> was established to be C<sub>30</sub>H<sub>46</sub>O<sub>4</sub> by HR-ESI-TOFMS spectrum [M + H]<sup>+</sup> <italic>m</italic>/<italic>z</italic> 471.3381 (calcd. 470.3396), together with NMR data (<xref ref-type="table" rid="molbank-2015-M880-t001">Table 1</xref>), thus requiring eight degrees of unsaturation. Its UV spectrum exhibited no conjugated group based on maximum absorption at 200 nm. The IR spectrum of <bold>1</bold> exhibited the presences of O-H stretch (3401 cm<sup>&#x2212;1</sup>), CH <italic>sp<sup>3</sup></italic> stretch (2928 cm<sup>&#x2212;1</sup>), C=O ketone stretch (1699 cm<sup>&#x2212;1</sup>), C=C (1453 cm<sup>&#x2212;1</sup>), and ether group (1078 cm<sup>&#x2212;1</sup>). The <sup>1</sup>H-NMR spectrum exhibited the presences of six methyl groups were resonated at &#x3B4;<sub>H</sub> 0.97, 1.73, 1.66, 1.09, 1.16, and 0.96 for Me-18, Me-26, Me-27, Me-28, Me-29, and Me-30, respectively. The characteristic of C-9 and C-10 cyclopropyl methylene group from a cycloartanone-type triterpenoid resonating at &#x3B4;<sub>H</sub> 0.66 and &#x3B4;<sub>H</sub> 0.70 (<italic>J</italic> = 3.9 Hz), respectively. An olefinic proton (H-24) was observed at &#x3B4;<sub>H</sub> 5,48 (1H, <italic>d</italic>, <italic>J</italic> = 8.4 Hz) together with two geminal vinyl methyls proton were observed at &#x3B4;<sub>H</sub> 1.73 (3H, <italic>s</italic>) and &#x3B4;<sub>H</sub> 1.66 (3H, <italic>s</italic>) which assigned for H-26 and H-27 respectively, thus indicating a &#x394;<sup>24,25</sup> double bond in the side chain. Additional functionalities included the three protons bonded to carbon bearing oxygen were resonated at &#x3B4;<sub>H</sub> 5.17 (1H, <italic>d</italic>, <italic>J</italic> = 5.8 Hz, H-21) as a doublet as well as &#x3B4;<sub>H</sub> 3.96 (1H, <italic>dd</italic>, <italic>J</italic> = 4.5, 6.5 Hz, H-22) and &#x3B4;<sub>H</sub> 4.68 (1H, <italic>dd</italic>, <italic>J</italic> = 6.5, 8.4 Hz, H-23) as double doublet. A total of thirty carbon signals were observed in the <sup>13</sup>C-NMR spectrum. These were assigned by DEPT and HMQC experiments to two <italic>sp<sup>2</sup></italic> carbon signals at &#x3B4;<sub>C</sub> 123.8 and 135.8, one singlet carbon for ketone group at &#x3B4;<sub>C</sub> 215.1, six methyls <italic>sp<sup>3</sup></italic>, eight methylenes, three <italic>sp<sup>3</sup></italic> oxygenated carbons at &#x3B4;<sub>C</sub> 101.6, 76.3 and 97.2, and five <italic>sp<sup>3</sup></italic> quaternary carbons. A downfield signal of methine was observed at &#x3B4;<sub>C</sub> 101.6 (&#x3B4;<sub>H</sub> 5.17, 1H, <italic>d</italic>, <italic>J</italic> = 1.2 Hz) corresponding to a hemiketalic carbon. These functionalities accounted for two out of the total eight degrees of unsaturation. The remaining six degrees of unsaturation were consistent to a cycloartan-type structure with one additional ring [<xref ref-type="bibr" rid="B15-molbank-2015-M880">15</xref>].</p>
+      <p>The gross structure of <bold>1</bold> was deduced from the <sup>1</sup>H-<sup>1</sup>H COSY and HMBC spectra (<xref ref-type="fig" rid="molbank-2015-M880-f002">Figure 2</xref>). The <sup>1</sup>H-<sup>1</sup>H- COSY spectrum showed coupling between H-17/H-20, H-20/H-21, H-20/H-22 and H-22/H-23, supporting the presence of a cycloartane triterepenoid structure. A long-range correlation was exhibited in the HMBC spectrum, between methine <italic>sp<sup>2</sup></italic> proton signal at &#x3B4;<sub>H</sub> 5.48 (H-24) and oxygenated carbon signal at &#x3B4;<sub>C</sub> 97.2 (C-23), as well as a correlation between &#x3B4;<sub>H</sub> 2.19 (H-20) and &#x3B4;<sub>H</sub> 4.82 (H-22) to a downfield signal of methine at &#x3B4;<sub>C</sub> 101.6 (C-21) which suggests that the furan ring was built at C-21, C-20, C-22 and C-23, respectively. The position of olefinic carbon signals &#x3B4;<sub>C</sub> 123.8 (C-24) and &#x3B4;<sub>C</sub> 35.8 (C-25) were confirmed by long-range correlation of <italic>gem</italic>-dimethyl vinyl group (Me-26 and Me-27), whereas the position of the C-3 carbonyl was confirmed by showing correlations of H-2, Me-28 and Me-29 to the C-3 carbonyl group (&#x3B4;<sub>C</sub> 215.1). The NMR data of <bold>1</bold> was similar to those of argenteanone [<xref ref-type="bibr" rid="B16-molbank-2015-M880">16</xref>], the main difference was stereochemistry at C-21, C-22 and C-23. The structure of compound <bold>1</bold> was further confirmed by X-ray diffraction analysis (<xref ref-type="fig" rid="molbank-2015-M880-f003">Figure 3</xref>). The asymmetric unit of compound <bold>1</bold> contain one unit of 3-(2,4-dihydroxy-5-(2-methylprop-1-en-1-yl)tetrahydrofuran-3-yl)-2a,5a,8,8-tetramethyltetradecahydrocyclo-penta[<italic>a</italic>]-cyclopropa[<italic>e</italic>]-phenanthren-9(1<italic>H</italic>)-one plus half unit of water molecule. It was crystallized in P<italic>2<sub>1</sub></italic> space group with <italic>a</italic> = 13.4825(2) &#xC5;, <italic>b</italic> = 6.2433(1) &#xC5;, <italic>c</italic> = 17.0838(3) &#xC5;, <italic>&#x3B2;</italic> = 109.3068(8)&#xB0; and <italic>Z</italic> = 4. The molecular structure contains three six-membered rings of cyclohexane, two five membered rings, a cyclopentane and oxolane, and one cyclopropane. Three six membered rings, cyclopentane and cyclopropane are <italic>trans</italic> fused when the cyclopropane is in axial position relative to the mean plane cyclohexane and cyclopentane, therefore confirming the absolute configuration of <bold>1</bold>. Therefore, compound <bold>1</bold> was determined as a new cycloartan-type triterpenoid and was named 24(<italic>E</italic>)-cyclolanost-24-en-3-one, 21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>) (<bold>1</bold>).</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M880">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M880">
+        <title>3.1. General</title>
+        <p>Melting points were measured on an electrothermal melting point apparatus and are uncorrected. Optical rotations were recorded on an ATAGO AP-300 automatic polarimeter. The UV spectrum spectra were recorded on Shimazu series 1800 spectrophotometer (Kyoto, Japan). The IR spectra were recorded on a Perkin-Elmer spectrum-100 FT-IR (Waltham, MA, USA) in KBr. HR-ESI-TOFMS spectra were obtained with a Waters LCT Premier XE mass spectrometer instruments (Santa Clara, CA, USA). <sup>1</sup>H and <sup>13</sup>C-NMR spectra were obtained with a JEOL JNM A-500 spectrometer using TMS as internal standard (Tokyo, Japan). Chromatographic separations were carried out on silica gel 60 (Merck, Darmstadt, Germany). TLC plates were precoated with silica gel GF<sub>254</sub> (Merck, 0.25 mm) and detection was achieved by spraying with 10% H<sub>2</sub>SO<sub>4</sub> in ethanol, followed by heating. Crystallographic data were collected on a Bruker SMART APEXII CCD area-detector diffractometer with a graphite monochromated Mo-K&#x3B1; radiation (&#x3BB; = 0.71073 &#xC5;) at 100.0 K with the Oxford Cryosystem Cobra low-temperature attachment (Billerica, MA, USA).</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M880">
+        <title>3.2. Plant Material</title>
+        <p>The leaves of <italic>L. domesticum</italic> cv kokossan were collected in Cililin District, Bandung, West Java Province, Indonesia in July 2013. The plant was identified by the staff of the Laboratory of Plant Taxonomy, Department of Biology, Padjadjaran University, Indonesia. A voucher specimen (No. 10188) was deposited at the herbarium of the Padjadjaran University.</p>
+      </sec>
+      <sec id="sec3dot3-molbank-2015-M880">
+        <title>3.3. Extraction and Isolation</title>
+        <p>The dried leaves (2.0 kg) were extracted with methanol exhaustively (5 L) at room temperature for 3 days. After removal of the solvent under reduced pressure, the viscous concentrate of MeOH extract (49.7 g) was first suspended in H<sub>2</sub>O and then partitioned successively with <italic>n</italic>-hexane and EtOAc. A portion of ethyl acetate (16.7 g) was subjected to column chromatography over silica gel using a gradient of <italic>n</italic>-hexane/EtOAc (10:0&#x2013;0:10) to afford 22 fractions (A01&#x2013;A22). Fraction A06 (1.9 g) eluted by <italic>n</italic>-hexane/EtOAc = 6:4 was subjected to silica gel column chromatography, eluted with the mixtures of <italic>n</italic>-hexane/CHCl<sub>3</sub> (10:0&#x2013;8:2) as eluting solvents to afford 17 fractions (B01&#x2013;B17). The Fraction of B06 to B07 were combined and to give the white crystal (30.0 mg) after crystallized using acetone solvent.</p>
+        <p>NMR, IR and HRMS spectra for the title compound are available in the <xref ref-type="app" rid="app1-molbank-2015-M880">Supplementary Information</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2015-M880">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2015-M880-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M880-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2015-M880-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-s001.pdf">
+	   <label>Supplementary File 3</label>
+	   </supplementary-material>
+	  </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>This research was supported by grants from Directorate Generalof Higher Education, Ministry of Education and Culture, Indonesia (2013&#x2013;2014 by TM).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Unang Supratman designed the whole experiment and contributed to the manuscript. Tri Mayanti and Julinton Sianturi researched data and wrote the manuscript, Desi Harneti and Darwati analyzed the NMR and LCMS/MS spectra, Mohamad Mustaqim Rosli and Hoong-Kun Fun analyzed the X-ray diffraction. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M880">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Omar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marcotte</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fields</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>P.E.</given-names>
+            </name>
+            <name>
+              <surname>Poveda</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Matta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Jimenez</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Durst</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kinnon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antifeedant activities of triterpenoids isolated from tropical Rutales</article-title>
+          <source>J. Stored Prod. Res.</source>
+          <year>2007</year>
+          <volume>43</volume>
+          <fpage>92</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jspr.2005.11.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M880">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leaman</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Arnason</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Yusuf</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sangat-Roemantyo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Soedjito</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Angerhofer</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Pezzuto</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Malaria remedies of the Kenyah of the Apo Kayan, East Kalimantan, Indonesian Borneo: A quantitative assessment of local consensus as an indicator of biological efficacy</article-title>
+          <source>J. Ethnopharmacol.</source>
+          <year>1995</year>
+          <volume>49</volume>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/0378-8741(95)01289-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M880">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishizawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nishide</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kosela</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The structure of lansioside A: A novel triterpene glycoside with amino-sugar from <italic>Lansium domesticum</italic></article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1982</year>
+          <volume>23</volume>
+          <fpage>1349</fpage>
+          <lpage>1350</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)87101-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M880">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishizawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nishide</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kosela</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of lansiosides: Biologically active new triterpene glycosides from <italic>Lansium domesticum</italic></article-title>
+          <source>J. Org. Chem.</source>
+          <year>1983</year>
+          <volume>48</volume>
+          <fpage>4462</fpage>
+          <lpage>4466</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00172a004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M880">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ishibashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fujimoto</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Okuyama</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Koyano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kowiyhayakorn</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Komiyama</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New Onoceranoid Constituents from <italic>Lansium domesticum</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2002</year>
+          <volume>65</volume>
+          <fpage>1709</fpage>
+          <lpage>1711</lpage>
+          <pub-id pub-id-type="doi">10.1021/np020239o</pub-id>
+          <pub-id pub-id-type="pmid">12444710</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M880">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Habaguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nakadaira</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nakanishi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kaing</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>F.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>The full structures of lansic acid and its minor congener, an unsymmetric onoceradienedione</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1986</year>
+          <volume>34</volume>
+          <fpage>3731</fpage>
+          <lpage>3734</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)75528-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M880">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayanti</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Supratman</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Mukhtar</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Awang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kokosanolide from the seed of <italic>Lansium domesticum</italic> Corr</article-title>
+          <source>Acta Crystallogr.</source>
+          <year>2009</year>
+          <volume>E65</volume>
+          <fpage>o750</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M880">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Supratman</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Mayanti</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Awang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mukhtar</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>14-Hydroxy-8,14-secogammacera-7-ene-3,21-dione from the bark of <italic>Lansium domesticum</italic> Corr</article-title>
+          <source>Acta Crystallogr.</source>
+          <year>2010</year>
+          <volume>E66</volume>
+          <fpage>o1621</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M880">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manosroi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jantrawut</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Sainakham</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Manosroi</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Manosroi</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anticaner activities oh the extract from longkong (<italic>Lansium domesticum</italic>) young fruits</article-title>
+          <source>Pharm Biol.</source>
+          <year>2012</year>
+          <volume>50</volume>
+          <fpage>1397</fpage>
+          <lpage>1407</lpage>
+          <pub-id pub-id-type="doi">10.3109/13880209.2012.682116</pub-id>
+          <pub-id pub-id-type="pmid">22849519</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M880">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ragasa</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Labrador</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rideout</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimicrobial terpenoid from <italic>Lansium domesticum</italic></article-title>
+          <source>Philipp. Agric. Sci.</source>
+          <year>2006</year>
+          <volume>89</volume>
+          <fpage>101</fpage>
+          <lpage>105</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M880">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leatemia</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Isman</surname>
+              <given-names>M.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insecticidal Activity of Crude Seed Extracts of <italic>Annona.</italic> spp., <italic>Lansium domesticum</italic> and <italic>Sandoricum koetjape</italic> Against Lepidopteran Larvae</article-title>
+          <source>Phytopatasitica</source>
+          <year>2004</year>
+          <volume>32</volume>
+          <fpage>30</fpage>
+          <lpage>37</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02980856</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M880">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saewan</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sutherland</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Chantrapromma</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimalarial tetranortriterpenoids from the seed of <italic>Lansium domesticum</italic> Corr</article-title>
+          <source>Phytrochemistry</source>
+          <year>2006</year>
+          <volume>67</volume>
+          <fpage>2288</fpage>
+          <lpage>2293</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.phytochem.2006.07.005</pub-id>
+          <pub-id pub-id-type="pmid">16930641</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M880">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tilaar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Ranti</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wasitaatmadja</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Junardy</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Review of <italic>Lansium domesticum</italic> Corr&#xEA;a and its use in cosmetics</article-title>
+          <source>Bol. Latinoam. Caribe Plant. Med. Aromat.</source>
+          <year>2008</year>
+          <volume>7</volume>
+          <fpage>183</fpage>
+          <lpage>189</lpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M880">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayanti</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tjokronegoro</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Supratman</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Mukhtar</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Awang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hadi</surname>
+              <given-names>A.H.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifeedant Triterpenoids from the Seeds and Bark of <italic>Lansium domesticum</italic> cv Kokossan (Meliaceae)</article-title>
+          <source>Molecules</source>
+          <year>2011</year>
+          <volume>16</volume>
+          <fpage>2785</fpage>
+          <lpage>2795</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules16042785</pub-id>
+          <pub-id pub-id-type="pmid">21448090</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M880">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Awang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Loong</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Leong</surname>
+              <given-names>M.F.K.</given-names>
+            </name>
+            <name>
+              <surname>Supratman</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Litaudon</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Mukhtar</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Mohamad</surname>
+              <given-names>R.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triterpenes and steroids from the leaves of <italic>Aglaia exima</italic> (Meliaceae)</article-title>
+          <source>Fitoterapia</source>
+          <year>2012</year>
+          <volume>83</volume>
+          <fpage>1391</fpage>
+          <lpage>1395</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fitote.2012.10.004</pub-id>
+          <pub-id pub-id-type="pmid">23098876</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M880">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ombuwajo</surname>
+              <given-names>O.R.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Perromat</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sevenet</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Awang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pais</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic cycloartantes from <italic>Aglaia argentea</italic></article-title>
+          <source>Phytochemistry</source>
+          <year>1996</year>
+          <volume>41</volume>
+          <fpage>1325</fpage>
+          <lpage>1328</lpage>
+          <pub-id pub-id-type="doi">10.1016/0031-9422(95)00745-8</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Table</title>
+      <fig id="molbank-2015-M880-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>9,19-Cyclolanost-24-en-3-one,21,23-epoxy-21,22-dihydroxy (21<italic>R</italic>, 22<italic>S</italic>, 23<italic>S</italic>) (<bold>1</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-g001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M880-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Selected HMBC and <sup>1</sup>H-<sup>1</sup>H-COSY correlations for <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-g002.tif"/>
+      </fig>
+      <fig id="molbank-2015-M880-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>ORTEP drawing for <bold>1</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M880-g003.tif"/>
+      </fig>
+      <table-wrap id="molbank-2015-M880-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M880-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>NMR data (500 MHz for <sup>1</sup>H and 125 MHz for <sup>13</sup>C, in acetone-<italic>d<sub>6</sub></italic>) for <bold>1</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Position</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><sup>13</sup>C-NMR</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><sup>1</sup>H-NMR</th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">&#x3B4;<sub>C</sub> ppm (mult., ppm)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">&#x3B4;<sub>H</sub> ppm (Int, mult., <italic>J</italic> = Hz)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">1</td>
+              <td align="center" valign="middle">33.9 (t)</td>
+              <td align="center" valign="middle">1.86 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.60 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">2</td>
+              <td align="center" valign="middle">37.8 (t)</td>
+              <td align="center" valign="middle">2.21 (1H, <italic>ddd</italic>, 3.9, 6.5, 10.4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">2.73 (1H, <italic>ddd</italic>, 6.0, 6.0, 10.4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">3</td>
+              <td align="center" valign="middle">215.1 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">4</td>
+              <td align="center" valign="middle">50.7 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">5</td>
+              <td align="center" valign="middle">46.7 (d)</td>
+              <td align="center" valign="middle">1.93 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">6</td>
+              <td align="center" valign="middle">22.1 (t)</td>
+              <td align="center" valign="middle">1.59 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.50 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">7</td>
+              <td align="center" valign="middle">28.1 (t)</td>
+              <td align="center" valign="middle">1.20 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.86 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">8</td>
+              <td align="center" valign="middle">48.8 (d)</td>
+              <td align="center" valign="middle">1.64 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">9</td>
+              <td align="center" valign="middle">21.7 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">10</td>
+              <td align="center" valign="middle">26.9 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">11</td>
+              <td align="center" valign="middle">26.7 (t)</td>
+              <td align="center" valign="middle">1.93 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.07 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">12</td>
+              <td align="center" valign="middle">32.8 (t)</td>
+              <td align="center" valign="middle">1.57 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.64 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">13</td>
+              <td align="center" valign="middle">48.7 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">14</td>
+              <td align="center" valign="middle">46.5 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">15</td>
+              <td align="center" valign="middle">36.3 (t)</td>
+              <td align="center" valign="middle">1.05 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">1.34 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">16</td>
+              <td align="center" valign="middle">26.9 (t)</td>
+              <td align="center" valign="middle">1.86 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle">2.00 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">17</td>
+              <td align="center" valign="middle">49.2 (d)</td>
+              <td align="center" valign="middle">1.,57 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">18</td>
+              <td align="center" valign="middle">19.4 (q)</td>
+              <td align="center" valign="middle">0.97 (1H, <italic>s</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">19</td>
+              <td align="center" valign="middle">27.1 (t)</td>
+              <td align="center" valign="middle"> 0.70 (1H, <italic>d</italic>, 3,9)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> 0.66 (1H, <italic>d</italic>, 3,9)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">20</td>
+              <td align="center" valign="middle">59.4 (d)</td>
+              <td align="center" valign="middle"> 2.19 (1H, <italic>m</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">21</td>
+              <td align="center" valign="middle">101.6 (d)</td>
+              <td align="center" valign="middle">5.17 (1H, <italic>d</italic>, 5.8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">22</td>
+              <td align="center" valign="middle">78.2 (d)</td>
+              <td align="center" valign="middle">3.96 (1H, <italic>dd</italic>, 4.5, 6.5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">23</td>
+              <td align="center" valign="middle">79.0 (d)</td>
+              <td align="center" valign="middle">4.68 (1H, <italic>dd</italic>, 6.5, 8.4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">24</td>
+              <td align="center" valign="middle">123.8 (d)</td>
+              <td align="center" valign="middle">5.48 (1H, <italic>d</italic>, 8,4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">25</td>
+              <td align="center" valign="middle">135.8 (s)</td>
+              <td align="center" valign="middle">-</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">26</td>
+              <td align="center" valign="middle">26.1 (q)</td>
+              <td align="center" valign="middle">1.73 (3H, <italic>s</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">27</td>
+              <td align="center" valign="middle">18.4 (q)</td>
+              <td align="center" valign="middle">1.66 (3H, <italic>s</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">28</td>
+              <td align="center" valign="middle">21.1 (q)</td>
+              <td align="center" valign="middle">1.09 (3H, <italic>s</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">29</td>
+              <td align="center" valign="middle">19.7 (q)</td>
+              <td align="center" valign="middle">1.16 (3H, <italic>s</italic>)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">30</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">19.4 (q)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.96 (3H, <italic>s</italic>)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

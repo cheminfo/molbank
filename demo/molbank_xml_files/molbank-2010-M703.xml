@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M703</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M703</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3,5-Di(-O-acetyl)-3&#x2032;,4&#x2032;,7-tri[-O-(2-O-acetylethyl)]quercetin</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Yufa</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M703" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Liwei</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M703">College of Chemistry, Chemical Engineering and Materials Science, Shandong Normal University, Jinan 250014, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M703"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>yufaliu@yahoo.cn</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>10</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>4</issue>
+      <elocation-id>M703</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>09</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new quercetin derivative, 3,5-di(-O-acetyl)-3&#x2032;,4&#x2032;,7-tri[-O-(2-O-acetylethyl)]-quercetin, was synthesized. The structure of the target compound was characterized by IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and MS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>quercetin</kwd>
+        <kwd>acetylation</kwd>
+        <kwd>3&#x2032;,4&#x2032;,7-tri[-O-(2-O-acetylethyl)]quercetin</kwd>
+        <kwd>oxyethylation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M703" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Quercetin (3,3',4',5,7-pentahydroxyflavone) and its derivatives have a wide range of biological activity, such as antioxidant [<xref ref-type="bibr" rid="B1-molbank-2010-M703">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M703">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M703">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M703">4</xref>], anticarcinogenesis [<xref ref-type="bibr" rid="B5-molbank-2010-M703">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M703">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M703">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M703">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M703">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2010-M703">10</xref>], vasodilatation [<xref ref-type="bibr" rid="B11-molbank-2010-M703">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M703">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2010-M703">13</xref>], inhibition of various enzymes [<xref ref-type="bibr" rid="B14-molbank-2010-M703">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2010-M703">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2010-M703">16</xref>], UV-shielding properties [<xref ref-type="bibr" rid="B17-molbank-2010-M703">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2010-M703">18</xref>], <italic>etc</italic>. Troxerutin (trihydroxy-ethylrutoside), which serves as a drug, is known as a radical scavenger with antioxidant effects, so that treatment with it increases the healing of capillary endothelial defects [<xref ref-type="bibr" rid="B19-molbank-2010-M703">19</xref>]. Thus, the synthesis of quercetin derivatives is of considerable importance. For instance, modifications can increase fat-solubility and stability of the molecule. The compound may be useful as an intermediate to synthesize other relevant compounds. Here, we would like to report a convenient procedure for the preparation of 3,5-di(-O-acetyl)- 3&#x2032;,4&#x2032;,7-tri[-O-(2-O-acetylethyl)]quercetin.</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M703">
+      <title>2. Structural Characterization</title>
+      <p><sup>1</sup>H NMR (Bruker 300 MHz, CDCl<sub>3</sub>): &#x3B4;<sub>H</sub> 7.45 (d, <italic>J</italic> = 9.0 Hz, 1 H, 6&#x2032;-H), 7.40 (s, 1 H, 2&#x2032;-H), 7.00 (d, <italic>J</italic> = 9.0 Hz, 1 H, 5&#x2032;-H), 6.87 (s, 1 H, 8-H), 6.65 (s, 1 H, 5-H), 4.46 (s, 6 H, 3 &#xD7; OCH<sub>2</sub>), 4.27 (s, 6 H, 3 &#xD7; OCH<sub>2</sub> ), 2.42 (s, 3 H, COCH<sub>3</sub> ), 2.31 (s, 3 H, COCH<sub>3</sub> ), 2.10 (s, 9 H, 3 &#xD7; COCH<sub>3</sub>) ppm. <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>): 170.85, 170.76, 169.99, 169.44, 167.86, 162.45, 157.96, 154.38, 151.42, 150.82, 148.50, 133.27, 123.12, 122.96, 115.35, 114.17, 111.36, 108.83, 99.52, 67.93, 67.26, 66.75, 62.71, 62.53, 62.08, 21.05, 20.77, 20.58 ppm. IR (Bruker Tensor 27, KBr): 3453, 1760, 1636, 1384 cm<sup>&#x2212;1</sup>. ESI-MS: m/z 645.6 (M<sup>+</sup> +1). Elemental Anal. (Perkin Elmer PE 2400 II CHNS/O): calcd for C<sub>31</sub>H<sub>32</sub>O<sub>15</sub> (644.59): C, 57.76; H, 5.00; O, 37.23. Found: C, 57.8; H, 5.0; O, 37.2. </p>
+    </sec>
+    <sec id="sec3-molbank-2010-M703" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>Ethylene oxide (6.60 g, 150 mmol) was added dropwise over a period of 6 h to a mixture of rutin (12.21 g, 20 mmol) and NaOH (0.28 g, 7 mmol) in 100 mL of H<sub>2</sub>O with continuous stirring at 75 &#xB0;C. The pH value of the mixture was adjusted to 4.0 by concentrated hydrochloric acid, then the yellow solid that was formed was collected by filtration, washed with cold water, and dried under vacuum to give compound <bold>1</bold>. The purity was sufficient for use in the next step.</p>
+      <p>A mixture of compound <bold>1</bold> (7.42 g, 10 mmol) and H<sub>2</sub>SO<sub>4</sub> (1%, 500 mL) was stirred under reflux for 2 h (reaction progress was checked by TLC). After cooling, the pH value of the mixture was adjusted to 4.5 by sodium hydroxide solution, then the yellow solid that was formed was collected by filtration, washed with cold water, and dried under vacuum to give compound <bold>2</bold>.</p>
+      <p>To a mixture of compound <bold>2</bold> (2.17 g, 5 mmol) and acetic anhydride (50 mL, 530 mmol) was added H<sub>2</sub>SO<sub>4</sub> (93%, 5 drops), and the mixture was stirred at room temperature for 24 h (reaction progress was checked by TLC). The precipitate was collected by filtration, washed with cold water, and recrys-tallized from EtOH/H<sub>2</sub>O to give 2.10 g (65.2%) of compound <bold>3</bold> as white powder, m.p. 95.9&#x2013;97.2 &#xB0;C.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2010-M703">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M703-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M703-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M703-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M703-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors are grateful to Zhixian Liu and Lixin Yu for determinations of NMR, IR and elemental analysis.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M703">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ameho</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.Y.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;nchez-Moreno</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Milbury</surname>
+              <given-names>P.E.</given-names>
+            </name>
+            <name>
+              <surname>Blumberg</surname>
+              <given-names>J.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant activity and metabolite profile of quercetin in vitamin-E-depleted rats</article-title>
+          <source>J. Nutr. Biochem.</source>
+          <year>2008</year>
+          <volume>7</volume>
+          <fpage>467</fpage>
+          <lpage>474</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jnutbio.2007.06.004</pub-id>
+          <pub-id pub-id-type="pmid">17904346</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M703">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Taneda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Taya</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin attenuates oxidative damage induced by treatment of embryonic chicken spermatogonial cells with 4-nitro-3-phenylphenol in diesel exhaust particles</article-title>
+          <source>Biosci. Biotechnol. Biochem.</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>934</fpage>
+          <lpage>938</lpage>
+          <pub-id pub-id-type="doi">10.1271/bbb.90740</pub-id>
+          <pub-id pub-id-type="pmid">20460716</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M703">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>P&#xE1;dua Bda</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Rossoni J&#xFA;nior</surname>
+              <given-names>J.V.</given-names>
+            </name>
+            <name>
+              <surname>Humberto</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Chaves</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Pedrosa</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>D.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant properties of Baccharis trimera in the neutrophils of Fisher rats</article-title>
+          <source>J. Ethnopharmacol.</source>
+          <year>2010</year>
+          <volume>3</volume>
+          <fpage>381</fpage>
+          <lpage>386</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jep.2010.04.018</pub-id>
+          <pub-id pub-id-type="pmid">20430095</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M703">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fan</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.F.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Y.L.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Shan</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Troxerutin protects the mouse kidney from d-galactose-caused injury through anti-inflammation and anti-oxidation</article-title>
+          <source>Int. Immunopharmacol.</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>91</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.intimp.2008.10.008</pub-id>
+          <pub-id pub-id-type="pmid">19000936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M703">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dihal</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Tilburgs</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>van Erk</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Rietjens</surname>
+              <given-names>I.M.</given-names>
+            </name>
+            <name>
+              <surname>Woutersen</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Stierum</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathway and single gene analyses of inhibited Caco-2 differentiation by ascorbate-stabilized quercetin suggest enhancement of cellular processes associated with development of colon cancer</article-title>
+          <source>Mol. Nutr. Food Res.</source>
+          <year>2007</year>
+          <volume>8</volume>
+          <fpage>1031</fpage>
+          <lpage>1045</lpage>
+          <pub-id pub-id-type="doi">10.1002/mnfr.200600261</pub-id>
+          <pub-id pub-id-type="pmid">17639512</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M703">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vargas</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Burd</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hormesis and synergy: Pathways and mechanisms of quercetin in cancer prevention and management</article-title>
+          <source>Nutr. Rev.</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <fpage>418</fpage>
+          <lpage>428</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1753-4887.2010.00301.x</pub-id>
+          <pub-id pub-id-type="pmid">20591109</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M703">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suh</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Induction of G(1)/S phase arrest and apoptosis by quercetin in human osteosarcoma cells</article-title>
+          <source>Arch. Pharm. Res.</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>781</fpage>
+          <lpage>785</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12272-010-0519-4</pub-id>
+          <pub-id pub-id-type="pmid">20512478</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M703">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bae</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Son</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>E.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>C.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin enhances susceptibility to NK cell-mediated lysis of tumor cells through induction of NKG2D ligands and suppression of HSP70</article-title>
+          <source>J. Immunother.</source>
+          <year>2010</year>
+          <volume>4</volume>
+          <fpage>391</fpage>
+          <lpage>401</lpage>
+          <pub-id pub-id-type="doi">10.1097/CJI.0b013e3181d32f22</pub-id>
+          <pub-id pub-id-type="pmid">20386467</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M703">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ying</surname>
+              <given-names>B.W.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>X.B.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X.B.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>X.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>Y.Q.</given-names>
+            </name>
+            <name>
+              <surname>Wen</surname>
+              <given-names>F.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin inhibits IL-1 beta-induced ICAM-1 expression in pulmonary epithelial cell line A549 through the MAPK pathways</article-title>
+          <source>Mol. Biol. Rep.</source>
+          <year>2009</year>
+          <volume>36</volume>
+          <fpage>1825</fpage>
+          <lpage>1832</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11033-008-9386-1</pub-id>
+          <pub-id pub-id-type="pmid">18982426</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M703">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borska</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sopel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chmielewska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zabel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dziegiel</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin as a potential modulator of P-glycoprotein expression and function in cells of human pancreatic carcinoma line resistant to daunorubicin</article-title>
+          <source>Molecules</source>
+          <year>2010</year>
+          <volume>2</volume>
+          <fpage>857</fpage>
+          <lpage>870</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules15020857</pub-id>
+          <pub-id pub-id-type="pmid">20335952</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M703">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bobe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Albert</surname>
+              <given-names>P.S.</given-names>
+            </name>
+            <name>
+              <surname>Sansbury</surname>
+              <given-names>L.B.</given-names>
+            </name>
+            <name>
+              <surname>Lanza</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Schatzkin</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Colburn</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Cross</surname>
+              <given-names>A.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-6 as a potential indicator for prevention of high-risk adenoma recurrence by dietary flavonols in the polyp prevention trial</article-title>
+          <source>Cancer Prev. Res. (Phila Pa)</source>
+          <year>2010</year>
+          <volume>6</volume>
+          <fpage>764</fpage>
+          <lpage>775</lpage>
+          <pub-id pub-id-type="doi">10.1158/1940-6207.CAPR-09-0161</pub-id>
+          <pub-id pub-id-type="pmid">20484173</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M703">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ortega</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Saragusti</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Cabrera</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Chiabrando</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin tetraacetyl derivative inhibits LPS-induced nitric oxide synthase (iNOS) expression in J774A.1 cells</article-title>
+          <source>Arch. Biochem. Biophys.</source>
+          <year>2010</year>
+          <volume>2</volume>
+          <fpage>105</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.abb.2010.04.014</pub-id>
+          <pub-id pub-id-type="pmid">20417174</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M703">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khoo</surname>
+              <given-names>N.K.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Pozzo-Miller</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Constance</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Parks</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dietary flavonoid quercetin stimulates vasorelaxation in aortic vessels</article-title>
+          <source>Free Radic. Biol. Med.</source>
+          <year>2010</year>
+          <volume>3</volume>
+          <fpage>339</fpage>
+          <lpage>347</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2010.04.022</pub-id>
+          <pub-id pub-id-type="pmid">20423726</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M703">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chan</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Chien</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C.N.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>W.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibitory effects of quercetin derivatives on phosphodiesterase isozymes and high-affinity [<sup>3</sup>H]-rolipram bind in ginguinea pig tissues</article-title>
+          <source>Invest. New Drugs</source>
+          <year>2008</year>
+          <volume>26</volume>
+          <fpage>417</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10637-008-9114-7</pub-id>
+          <pub-id pub-id-type="pmid">18264679</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M703">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vidhya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Indira</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective effect of Quercetin in the regression of ethanol-induced hepatotoxicity</article-title>
+          <source>Indian J. Pharm. Sci.</source>
+          <year>2009</year>
+          <volume>5</volume>
+          <fpage>527</fpage>
+          <lpage>532</lpage>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M703">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarikaya</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;l&#xE7;in</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Supuran</surname>
+              <given-names>C.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carbonic anhydrase inhibitors: Inhibition of human erythrocyte isozymes I and II with a series of phenolic acids</article-title>
+          <source>Chem. Biol. Drug Des.</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>515</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1747-0285.2010.00965.x</pub-id>
+          <pub-id pub-id-type="pmid">20486938</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2010-M703">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Daimon</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hirayama</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kanai</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ruike</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kosegawa</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tsujimoto</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Katsuma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shimada</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The silkworm Green b locus encodes a quercetin 5-O-glucosyltransferase that produces green cocoons with UV-shielding properties</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2010</year>
+          <volume>25</volume>
+          <fpage>11471</fpage>
+          <lpage>11476</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1000479107</pub-id>
+          <pub-id pub-id-type="pmid">20534444</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2010-M703">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olson</surname>
+              <given-names>E.R.</given-names>
+            </name>
+            <name>
+              <surname>Melton</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Dickinson</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Alberts</surname>
+              <given-names>D.S.</given-names>
+            </name>
+            <name>
+              <surname>Bowden</surname>
+              <given-names>G.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quercetin potentiates UVB-Induced c-Fos expression: Implications for its use as a chemopreventive agent</article-title>
+          <source>Cancer Prev. Res. (Phila Pa).</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <fpage>876</fpage>
+          <lpage>884</lpage>
+          <pub-id pub-id-type="doi">10.1158/1940-6207.CAPR-09-0220</pub-id>
+          <pub-id pub-id-type="pmid">20551291</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2010-M703">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robak</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Gryglewski</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Flavonoids are scavengers of superoxid anions</article-title>
+          <source>Biochem. Pharmacol.</source>
+          <year>1988</year>
+          <volume>37</volume>
+          <fpage>837</fpage>
+          <lpage>841</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-2952(88)90169-4</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2010-M703-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M703-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 3,5-di(-O-acetyl)-3&#x2032;,4&#x2032;,7-tri[-O-(2-O-acetylethyl)]quercetin.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M703-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

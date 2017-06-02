@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M498</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M498</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(4Z)-1-Propargyl(1,3-Dipropargyl)-4-(2-oxopropylidene)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+		  <name>
+            <surname>Said</surname>
+            <given-names>Ould Mohamed Sidya Mohamed</given-names>
+		  </name>
+          <xref rid="af1-molbank-2006-M498" ref-type="aff">1</xref>
+        </contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Rachid</surname>
+            <given-names>Bouhfid</given-names>
+		  </name>
+          <xref rid="af1-molbank-2006-M498" ref-type="aff">1</xref>
+        </contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Joly</surname>
+            <given-names>Nicolas</given-names>
+		  </name>
+          <xref rid="af2-molbank-2006-M498" ref-type="aff">2</xref>
+        </contrib>
+		<contrib contrib-type="author">
+		  <name>
+            <surname>Lequart</surname>
+            <given-names>Vincent</given-names>
+		  </name>
+          <xref rid="af2-molbank-2006-M498" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martin</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M498" ref-type="aff">2</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Massoui</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M498" ref-type="aff">1</xref>
+        </contrib>
+		<contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>El Mokhtar</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M498" ref-type="aff">1</xref>
+		  <xref rid="c1-molbank-2006-M498" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M498"><label>1</label>Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique , Facult&#xE9; des Sciences, Avenue Ibn-Batouta, Rabat, Maroc.</aff>
+      <aff id="af2-molbank-2006-M498"><label>2</label>Blood-Brain Barrier Laboratory (EA 2465), IUT of B&#xE9;thune, University of Artois, BP 819, F-62408 B&#xE9;thune</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M498"><label>*</label> Author to whom correspondence should be addressed; E-mail: <underline><email>emessassi@yahoo.fr</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M498</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>alkylation</kwd>
+		<kwd>benzodiazepinones</kwd>
+		<kwd>propargyl bromid</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>We describe in this work the synthesis of new benzodiazepine derivatives susceptible to possess various pharmacological activities.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i001.tif"/></p>
+      <p>To a solution of (4Z) -2-oxopropylidene-1,5-benzodiazepin-2-one <bold>1</bold>[<xref ref-type="bibr" rid="B1-molbank-2006-M498">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2006-M498">2</xref>] (0,01 mole, 2,16 gm  in tetrahydrofuran 60 mL, was added K<sub>2</sub>CO<sub>3</sub> (0.02mole, 2,76 gm), propargylbromid (0,02 mole, 2,36 gm) and tetra n-butylammonium bromid TBAB (0,001 mole, 0,321 gm). The mixture was stirred at room temperature for 48 hours. The solution was filtered by suction filtration. The solvent was removed under reduced pressure. The residue was chromatographed on silica gel column using hexane and ethyl acetate (80/20) as eluent to afford the products 2a and 2b as white solids.</p>
+      <p><bold>(4Z)-1-Propargyl-4-(2-oxopropylidene)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one, 2a</bold></p>
+      <p>This compound was obtained in 50% yield;</p>
+      <p>Melting Point: 172-174 &#xB0;C</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 2.1 (s,3H,CH<sub>3</sub>),2.3(t,1H,<sup>4</sup>J=2.4 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i002.tif"/>), 3.1(H<sub>A</sub>H<sub>B</sub>, J=11.8 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i003.tif"/>), 4.7(H<sub>A</sub>H<sub>B</sub>, <sup>2</sup>J=17.17 Hz, 4J=2.4 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i004.tif"/> ), 5.3(s,1H, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i005.tif"/>),7.1-7.3(m, 4H, HArom)</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 29.4, 38.5, 41.2, 72.5, 79.0,  96.6,122.6, 123.2, 125.6, 126.7, 132.4,  134.5, 155.0, 166.7, 198.1</p>
+      <p>Elemental analysis: Calculated for C<sub>15</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub>: C, 70.85 %; H, 5.55 %; N, 11.02 %; Found: C, 70.67 %; H, 5.46 %; N, 11.13 %;</p>
+      <p><bold>(4Z)-1,3-Dipropargyl)-4-(2-oxopropylidene)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one, 2b</bold></p>
+      <p>This compound was obtained in 25% yield;</p>
+	  <p>Melting Point: 173-176 &#xB0;C</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 1.9(t, 1H, <sup>4</sup>J=2.6 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i006.tif"/>), 2.1 (s,3H,CH<sub>3</sub>), 2.3 (t,1H, <sup>4</sup>J=2.4 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i007.tif"/>), 3.3 (t, 1H, <sup>4</sup>J=7 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i008.tif"/>), 4.2(H<sub>A</sub>H<sub>B</sub>, <sup>2</sup>J =17.4 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i009.tif"/>),4.7 (d,2H,<sup>2</sup>J=2.5 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i010.tif"/>),5.21(s,1H, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-i011.tif"/>),7.1-7.3(m,4H, H<sub>Arom</sub>), 12.6(s,1H,NH).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 16.0, 29.9,  38.6, 44.7, 93.5 122.7, 123.3, 125.8, 125.8, 127.0,131.9  134.2, 156.2,  166.9, 198.1</p>
+      <p>Elemental analysis: Calculated for C<sub>18</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub>: C, 73.95 %; H, 5.52 %; N, 9.58 %; Found: C, 73.82 %; H, 5.58 %; N, 9.66 %;</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2006-M498">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M498-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M498-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M498-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-s002-mod.mol">
+        <label>Supplementary File 3</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2006-M498-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M498-s002.mol">
+        <label>Supplementary File 4</label>
+        </supplementary-material>
+	  </app>
+    </app-group>
+     <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M498">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Abbassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1987</year>
+          <volume>28</volume>
+          <fpage>1389</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M498">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Djerrari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>El Abbassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1989</year>
+          <volume>30</volume>
+          <fpage>7069</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M922</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2017-M922</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(2<italic>E,2&#x2032;E</italic>)-3-(4-{[4-(4-Hydroxy-3-methoxyphenyl)but-2-en-1-yl]oxy}phenyl)-1-(2-hydroxy-4-methoxyphenyl)prop-2-en-1-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fareza</surname>
+            <given-names>Muhamad S.</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M922" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2017-M922" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mujahidin</surname>
+            <given-names>Didin</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M922" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2017-M922" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Syah</surname>
+            <given-names>Yana M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2017-M922" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2017-M922"><label>1</label>Division of Organic Chemistry, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, Jl. Ganesa 10, Bandung 40132, Indonesia; <email>salman.unsoed@gmail.com</email> (M.S.F.); <email>yana@chem.itb.ac.id</email> (Y.M.S.)</aff>
+      <aff id="af2-molbank-2017-M922"><label>2</label>Department of Pharmacy, Faculty of Medicine and Public Health, Universitas Jenderal Soedirman, Purwokerto 53122, Indonesia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2017-M922"><label>*</label>Correspondence: <email>didin@chem.itb.ac.id</email>; Tel.: +62-22-2502103</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>2017</volume>
+      <issue>1</issue>
+      <elocation-id>M922</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A hybrid of eugenol and a chalcone has been synthesized in good yield via cross olefin metathesis. The title compound (<bold>3</bold>) was characterized by spectroscopic data including NMR, infrared, and ESI-MS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>hybrid molecule</kwd>
+        <kwd>olefin metathesis</kwd>
+        <kwd>eugenol-chalcone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2017-M922" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The assembly of natural product hybrids has been an interesting strategy to gain new leads in drug discovery [<xref ref-type="bibr" rid="B1-molbank-2017-M922">1</xref>]. A convenient method to synthesize hybrid molecules is olefin cross metathesis. The hybrid molecule is formed from two precursors in which each molecule contains a terminal olefin in the presence of olefin metathesis catalysts [<xref ref-type="bibr" rid="B2-molbank-2017-M922">2</xref>]. The olefin metathesis reaction takes place with a wide tolerance to many organic functional groups. This is ideal to make hybrid molecules from natural products without any additional protective group. Eugenol is a major component of the essential oil from cloves, and plays an important role in the antibacterial activity of clove oil against <italic>Salmonella typhi</italic> [<xref ref-type="bibr" rid="B3-molbank-2017-M922">3</xref>]. The allyl group of eugenol is an important functional group in producing hybrid molecules of eugenol and other compounds. In our program to produce a library of compounds for antibacterial screening, we synthesized and modified some natural product compounds [<xref ref-type="bibr" rid="B4-molbank-2017-M922">4</xref>]. In this paper, we report the synthesis of a hybrid molecule between eugenol (<bold>2</bold>) and a chalcone (<bold>1</bold>) in the presence of Grubbs II catalyst (<xref ref-type="scheme" rid="molbank-2017-M922-sch001">Scheme 1</xref>). By using Grubbs II catalyst, we found that the reaction took place at the allyl groups and furnished an <italic>E</italic> olefin as the major product (see <xref ref-type="app" rid="app1-molbank-2017-M922">Figure S2 in the supplementary</xref> for more details) [<xref ref-type="bibr" rid="B5-molbank-2017-M922">5</xref>].</p>
+    </sec>
+    <sec id="sec2-molbank-2017-M922">
+      <title>2. Experimental Section</title>
+      <p>All chemicals and solvents for reactions were purchased from commercial suppliers and were used without purification. All solvents for chromatography were distilled before use. The melting point was determined with a Fisher-Johns Melting Point Apparatus and is uncorrected. Fourier transform infrared (FTIR) spectra were recorded with an FTIR prestige 21 Shimadzu instrument (Shimadzu Corp., Kyoto, Japan). <sup>1</sup>H- and <sup>13</sup>C-NMR (1D and 2D) spectra were recorded on an Agilent DD2 system operating at 500 MHz (<sup>1</sup>H) and 125 MHz (<sup>13</sup>C) (Agilent Technologies Inc., Santa Clara, CA, USA). High-resolution mass spectra was obtained with an ESI-TOF (ElectroSpray Ionisation&#x2014;Time Of Flight) Waters LCT Premier XE mass spectrometer (Waters Corp., Milford, MA, USA).</p>
+      <sec>
+        <title>Preparation of Compound <bold>3</bold></title>
+        <p>A mixture of (<italic>E</italic>)-1-(2,4-dimethoxy)-3-(4&#x2032;-allyloxy)prop-2-en-1-one (<bold>1</bold>) (45 mg, 0.145 mmol, 1 eq), eugenol (<bold>2</bold>) (477 mg, 2.9 mmol, 20 eq) and Grubbs catalyst 2nd Generation (6.2 mg, 7.25 &#xD7; 10<sup>&#x2212;3</sup> &#x3BC;mol, 5.3 mol%) in CH<sub>2</sub>Cl<sub>2</sub> (7.5 mL) was stirred for 2 h at 40 &#xB0;C under N<sub>2</sub> atmosphere. The reaction was monitored by thin layer chromatography (TLC) analysis. After completion of the reaction, the mixture was concentrated in vacuo. Purification of the product was done by radial chromatography with <italic>n</italic>-hexane:acetone (20:2) to give a mixture of compound <bold>3</bold> and an inseparable isomer (2&#x2032;Z) of <bold>3</bold> (9:1) as an orange solid (63 mg, 94%), m.p.: 114&#x2013;115 &#xB0;C. FTIR (KBr): 3448 (stretch OH, H bond), 2920 (stretch CH<sub>3</sub> sp<sup>3</sup>), 1631 (stretch C=O), 1566 and 1446 (stretch C=C aromatic), 1220 and 1012 (stretch C-O-Ar) cm<sup>&#x2212;1</sup>. <sup>1</sup>H-NMR (500 MHz, CDCl<sub>3</sub>) &#x3B4; ppm: 13.55 (<italic>s</italic>, 1H, H<sub>2&#x2032;</sub>); 7.86 (d, <italic>J</italic> = 15.5 Hz, 1H, H<sub>&#x3B2;</sub>); 7.82 (d, <italic>J</italic> = 8.5 Hz, 1H, H<sub>6&#x2032;</sub>); 7.59 (d, <italic>J</italic> = 9.0 Hz, 2H, H<sub>2/6</sub>); 7.45 (d, <italic>J</italic> = 15.5 Hz, 1H, H<sub>&#x3B1;</sub>); 6.94 (d, <italic>J</italic> = 8.5 Hz, 2H, H<sub>3/5</sub>); 6.86 (d, <italic>J</italic> = 8.0 Hz, 1H, H<sub>9&#x2032;&#x2032;</sub>); 6.68 (d, <italic>J</italic> = 10 Hz, 2H, H<sub>5&#x2032;/10&#x2032;&#x2032;</sub>); 6.48 (dd, <italic>J</italic> = 11 and 2.5 Hz, 2H, H<sub>3&#x2032;/6&#x2032;&#x2032;</sub>); 6.01 (dt, <italic>J</italic> = 15.0 and 6.0 Hz, 1H, H<sub>2&#x2032;&#x2032;</sub>); 5.75 (dt, <italic>J</italic> = 15.0 and 6.0 Hz, 1H, H<sub>3&#x2032;&#x2032;</sub>); 4.56 (d, <italic>J</italic> = 6.0 Hz, 2H, H<sub>1&#x2032;&#x2032;</sub>); 3.85 (s, 6H, 4&#x2032;-OCH<sub>3/7&#x2032;&#x2032;</sub>-OCH<sub>3</sub>); 3.37 (d, <italic>J</italic> = 6.5 Hz, 2H, H<sub>4&#x2032;&#x2032;</sub>). <sup>13</sup>C-NMR (125 MHz, CDCl<sub>3</sub>) &#x3B4; ppm: 192.0 (C=O); 166.7 (C<sub>2&#x2032;</sub>); 166.2 (C<sub>4&#x2032;</sub>); 161.0 (C<sub>4</sub>); 146.6 (C<sub>7&#x2032;&#x2032;</sub>); 144.4 (C<sub>8&#x2032;&#x2032;</sub>); 144.2 (C<sub>&#x3B2;</sub>); 134.8 (C<sub>2&#x2032;&#x2032;</sub>); 131.4 (C<sub>5&#x2032;&#x2032;</sub>); 130.4 (C<sub>2/6</sub>); 130.2 (C<sub>6&#x2032;</sub>); 127.7 (C<sub>1</sub>); 125.5 (C<sub>3&#x2032;&#x2032;</sub>); 121.3 (C<sub>10&#x2032;&#x2032;</sub>); 118.0 (C<sub>&#x3B1;</sub>); 115.3 (C<sub>3/5</sub>); 114.5 (C<sub>1&#x2032;</sub>); 114.3 (C<sub>9&#x2032;&#x2032;</sub>); 111.2 (C<sub>5&#x2032;</sub>); 107.7 (C<sub>6&#x2032;&#x2032;</sub>); 101.2 (C<sub>3&#x2032;</sub>); 68.7 (C<sub>1&#x2032;&#x2032;</sub>); 56.0 (4&#x2032;-OCH<sub>3</sub>); 55.7 (7&#x2032;&#x2032;-OCH<sub>3</sub>); 38.5 (C<sub>4&#x2032;&#x2032;</sub>). HR-ESI-TOF MS for C<sub>27</sub>H<sub>26</sub>O<sub>6</sub> ([M + H]<sup>+</sup>) calculated: <italic>m/z</italic> 447.1808, found: <italic>m/z</italic> 447.1801.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2017-M922">
+        <title>Supplementary Materials</title>
+        <p>The <sup>1</sup>H, <sup>13</sup>C, 2D <sup>1</sup>H-<sup>13</sup>C HSQC and 2D <sup>1</sup>H-<sup>13</sup>C HMBC NMR spectra are available online at: <uri>www.mdpi.com/1422-8599/2017/1/M922</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This research was partially supported by Directorate General of Higher Education, Ministry of Education and Culture, Indonesia and the Indonesian Oil Palm Estate Fund.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Didin Mujahidin and Yana M. Syah designed the experiment. Muhamad S. Fareza executed the experiment. All authors interpreted data and prepare the manuscript in the same contribution.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2017-M922">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tietze</surname>
+              <given-names>L.F.</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>H.P.</given-names>
+            </name>
+            <name>
+              <surname>Chandrasekhar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural product hybrids as new leads for drug discovery</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2003</year>
+          <volume>42</volume>
+          <fpage>3996</fpage>
+          <lpage>4028</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200200553</pub-id>
+          <pub-id pub-id-type="pmid">12973759</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2017-M922">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dragutan</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Dragutan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Demonceau</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeted drugs by olefin metathesis: Piperidine-based iminosugars</article-title>
+          <source>RSC Adv.</source>
+          <year>2012</year>
+          <volume>2</volume>
+          <fpage>719</fpage>
+          <lpage>736</lpage>
+          <pub-id pub-id-type="doi">10.1039/C1RA00910A</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2017-M922">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Devi</surname>
+              <given-names>K.P.</given-names>
+            </name>
+            <name>
+              <surname>Nisha</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Sakthivel</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pandian</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Eugenol (an essential oil of clove) acts as an antibacterial agent against Salmonela typhi by disrupting the cellular membrane</article-title>
+          <source>J. Ethnopharmacol.</source>
+          <year>2010</year>
+          <volume>130</volume>
+          <fpage>107</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jep.2010.04.025</pub-id>
+          <pub-id pub-id-type="pmid">20435121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2017-M922">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fareza</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Syah</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+            <name>
+              <surname>Mujahidin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Juliawaty</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Kurniasih</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial Flavanones and Dihydrochalcones from Macaranga trichocarpa</article-title>
+          <source>Z. Naturforsch.</source>
+          <year>2014</year>
+          <volume>69c</volume>
+          <fpage>375</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="doi">10.5560/ZNC.2014-0066</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2017-M922">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chatterjee</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>T.-L.</given-names>
+            </name>
+            <name>
+              <surname>Sanders</surname>
+              <given-names>D.P.</given-names>
+            </name>
+            <name>
+              <surname>Grubbs</surname>
+              <given-names>R.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A General Model for Selectivity in Olefin Cross Metathesis</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2003</year>
+          <volume>125</volume>
+          <fpage>11360</fpage>
+          <lpage>11370</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja0214882</pub-id>
+          <pub-id pub-id-type="pmid">16220959</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2017-M922-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M922-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of chalcone and eugenol hybrid by cross olefin metathesis reaction.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M922-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

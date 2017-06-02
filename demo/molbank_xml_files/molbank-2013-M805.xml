@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M805</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M805</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-Chloro-4-(5-methoxy-1<italic>H</italic>-indol-3-yl)cyclobut-3-ene-1,2-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lande</surname>
+            <given-names>Duc Ho&#xE0;ng</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Messal</surname>
+            <given-names>Marleen</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reimann</surname>
+            <given-names>Vincent</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Renger</surname>
+            <given-names>Caren</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rurka</surname>
+            <given-names>Constanze</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schoemaker</surname>
+            <given-names>Jana</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schr&#xF6;der</surname>
+            <given-names>Nadin K.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gr&#xFC;nefeld</surname>
+            <given-names>Johann</given-names>
+          </name>
+          <xref rid="c1-molbank-2013-M805" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M805">Institut f&#xFC;r Medizinische und Pharmazeutische Chemie, Technische Universit&#xE4;t Braunschweig, Beethovenstra&#xDF;e 55, D-38106 Braunschweig, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M805"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>j.gruenefeld@tu-bs.de</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>07</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>3</issue>
+      <elocation-id>M805</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>04</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>07</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The indole ring system is a prominent partial structure of several protein kinase inhibitor families. The title compound is the first example of a 5-substituted indolyl squaryl chloride with free indole nitrogen. It has been synthesized by reaction of 5-methoxyindole with squaric acid dichloride in diethyl ether and its IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, MS, UV and HPLC data are presented. This compound may prove to be a rather useful building block for the preparation of various derivatives for biological studies.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Friedel-Crafts acylation</kwd>
+        <kwd>indole</kwd>
+        <kwd>squaric acid dichloride</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The indole ring system is a prominent partial structure of several protein kinase inhibitor families, e.g., bisindolylmaleimides (BIMs) [<xref ref-type="bibr" rid="B1-molbank-2013-M805">1</xref>], staurosporine analogues [<xref ref-type="bibr" rid="B2-molbank-2013-M805">2</xref>], and paullones [<xref ref-type="bibr" rid="B3-molbank-2013-M805">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2013-M805">4</xref>]. With the aim to develop protein kinase inhibitors based on novel scaffolds by structure-guided design methods [<xref ref-type="bibr" rid="B5-molbank-2013-M805">5</xref>] we were interested to combine the indole ring system with squaric acid derived structure elements. The latter have recently been highlighted as &#x201C;unusual&#x201D; chemical structures with high potential for drug development [<xref ref-type="bibr" rid="B6-molbank-2013-M805">6</xref>]. A review of the literature revealed that only few squarylated indoles are described [<xref ref-type="bibr" rid="B7-molbank-2013-M805">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2013-M805">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2013-M805">9</xref>]. Only a single study mentioned a 3-chloro-4-(1<italic>H</italic>-indol-3-yl)cyclobut-3-ene-1,2-dione unsubstituted at the indole nitrogen [<xref ref-type="bibr" rid="B10-molbank-2013-M805">10</xref>]. We here report the detailed synthesis procedure of the title compound <bold>3</bold> as first example of a 5-substituted indolylchlorocyclobutenedione with free indole nitrogen. This compound may prove to be a rather useful building block for the preparation of various derivatives for biological studies.</p>
+      <p>According to the high reactivity of the indole ring system for electrophilic attack in 3-position, the synthesis was carried out by means of a Friedel-Crafts acylation reaction from 5-methoxyindole (<bold>2</bold>) and squaric acid dichloride (<bold>1</bold>) in anhydrous diethyl ether in the absence of a Lewis acid catalyst affording the product in moderate to good yields. The reason for using anhydrous diethyl ether was the good solubility of the reactants in this solvent and the fact that the product precipitated readily from the reaction mixture. The electron donating properties of the indole ring diminish the reactivity of the remaining chloride in the product compound, enabling a convenient preparation, isolation and purification of the product. Side-products resulting from a 2+1-reaction of the starting materials or from hydrolysis of the product were not observed.</p>
+	  <fig id="molbank-2013-M805-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M805-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 3-chloro-4-(5-methoxy-1<italic>H</italic>-indol-3-yl)cyclobut-3-ene-1,2-dione.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M805-sch001.tif"/>
+      </fig>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>Melting points were determined in open-glass capillaries on an electric variable heater (Electrothermal IA 9100). FT-IR absorption spectra were recorded on a Thermo Nicolet FT-IR 200 spectrometer using KBr pellets. <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were recorded on a Bruker Avance DRX-400 (NMR laboratories of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig) using DMSO-<italic>d</italic>6 as solvent. Chemical shifts are reported as parts per million (ppm) downfield from TMS used as an internal standard. Elemental analyses were recorded on a CE Instruments FlashEA&#xAE; 1112 Elemental Analyzer. The reactions were monitored by TLC (Macherey-Nagel Polygram SIL G/UV<sub>254</sub>) using a mixture of ethyl acetate and petroleum ether (2:1) as eluent. Mass spectra were recorded on a MAT 95 XL spectrometer (ThermoFinnigan MAT, Bremen, Germany, department of mass spectrometry of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig). HPLC analyses were performed on a Merck Hitachi LaChrom Elite system (pump: L-2130, DAD detector: L-2450; autosampler: L-2200; column: Merck LiChroCART 125-4, LiChrospher 100 RP-18 (5 &#x3BC;m); eluent: acetonitrile/water (50:50), elution rate 1.000 mL/min; detection wavelength: 254 nm and 280 nm; overall run time: 15 min); <italic>t</italic><sub>ms</sub> = total retention time, <italic>t</italic><sub>s</sub> = dead time. UV absorption spectra (200 to 600 nm) were recorded on a PU 8700 UV/VIS Spectrophotometer in DMF.</p>
+      </sec>
+      <sec>
+        <title>3-Chloro-4-(5-methoxy-1H-indol-3-yl)cyclobut-3-ene-1,2-dione (<bold>3</bold>)</title>
+        <p>To squaric acid dichloride (<bold>1</bold>) (151 mg, 1.00 mmol) dissolved in anhydrous diethyl ether (10 mL) was added a solution of 5-methoxyindole (<bold>2</bold>) (147 mg, 1.00 mmol) in the same solvent (5 mL). After stirring for 27 h at room temperature the resulting precipitate was filtered and washed twice with diethyl ether (5 mL). Crystallization from CHCl<sub>3</sub>/DMF yielded 0.222 g (74.4 %) of a green solid.</p>
+        <p><bold>Melting point:</bold> 202&#x2013;207 &#xB0;C (dec.)</p>
+        <p><bold>UV</bold> (DMF): &#x3BB;<sub>max</sub> (log &#x3B5; = 4.26) 365 nm; &#x3BB;<sub>max</sub> (log &#x3B5; = 4.19) 266 nm.</p>
+        <p><bold>MS</bold> (EI) <italic>m/z</italic> (%): 261 [M<sup>+</sup>] (48), 205 (100).</p>
+        <p><bold>IR</bold> (KBr) (cm<sup>&#x2212;1</sup>): 3464 (N-H), 1776/1740 (C=O).</p>
+        <p><bold><sup>1</sup>H-NMR</bold> (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; (ppm): 12.27 (s, 1H, NH), 8.15 (d, 1H, <italic>J</italic> = 3.0 Hz), 7.85 (d, 1H, <italic>J</italic> = 2.5 Hz), 7.44 (d, 1H, <italic>J</italic> = 8.8 Hz), 6.90 (dd, 1H, <italic>J</italic> = 2.5, 8.8 Hz), 3.80 (s, 3H).</p>
+        <p><bold><sup>13</sup>C-NMR</bold> (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; (ppm): 192.8, 192.3, 171.3, 154.9, 131.5, 125.7, 105.8 (C quat., one C not detectable due to signal overlapping), 129.4, 113.2, 112.6, 104.0 (C tert.), 55.3 (CH<sub>3</sub>).</p>
+        <p><bold>HPLC</bold> (AUC %): 99.6% at 254 nm, 99.6% at 280 nm; <italic>t<sub>ms</sub></italic> = 3.26 min; <italic>t<sub>s</sub></italic> = 1.69 min.</p>
+        <p><bold>Elemental analysis</bold> calculated for C<sub>13</sub>H<sub>8</sub>ClNO<sub>3</sub> (261.02): C, 59.67%; H, 3.08%; N, 5.35%; found: C, 59.55%; H, 2.98%; N, 5.29%.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2013-M805">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2013-M805-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M805-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2013-M805-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M805-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>The authors are grateful to B. Babic, S. Meyer and P. Reich for technical assistance.</p>
+    </ack>
+    <notes>
+      <title>Conflict of Interest</title>
+      <p>The authors declare no conflict of interest. </p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M805">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pajak</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Orzechowska</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gajkowska</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Orzechowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bisindolylmaleimides in anti-cancer therapy - more than PKC inhibitors</article-title>
+          <source>Adv. Med. Sci.</source>
+          <year>2008</year>
+          <volume>53</volume>
+          <fpage>21</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.2478/v10039-008-0028-6</pub-id>
+          <pub-id pub-id-type="pmid">18635421</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M805">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gani</surname>
+              <given-names>O.A.B.S.M.</given-names>
+            </name>
+            <name>
+              <surname>Engh</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein kinase inhibition of clinically important staurosporine analogues</article-title>
+          <source>Nat. Prod. Rep.</source>
+          <year>2010</year>
+          <volume>27</volume>
+          <fpage>489</fpage>
+          <lpage>498</lpage>
+          <pub-id pub-id-type="doi">10.1039/b923848b</pub-id>
+          <pub-id pub-id-type="pmid">20336234</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M805">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pies</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Schaper</surname>
+              <given-names>K.-J.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>CDK1-inhibitory activity of paullones depends on electronic properties of 9-substituents</article-title>
+          <source>Arch. Pharm. Pharm. Med. Chem.</source>
+          <year>2004</year>
+          <volume>337</volume>
+          <fpage>486</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.200300870</pub-id>
+          <pub-id pub-id-type="pmid">15362121</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M805">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Leost</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Epoxide-containing side chains enhance antiproliferative activity of paullones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>40</volume>
+          <fpage>655</fpage>
+          <lpage>661</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2005.02.004</pub-id>
+          <pub-id pub-id-type="pmid">15935900</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M805">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGrath</surname>
+              <given-names>C.F.</given-names>
+            </name>
+			<name>
+              <surname>Pattabiraman</surname>
+              <given-names>N.</given-names>
+            </name>
+			<name>
+              <surname>Kellogg</surname>
+              <given-names>G.E.</given-names>
+            </name>
+			<name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+			<name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+			<name>
+              <surname>Sausville</surname>
+              <given-names>E.A.</given-names>
+            </name>
+			<name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+			<name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Homology Model of the CDK1/cyclin B Complex</article-title>
+          <source>J. Biomol. Struct. Dyn.</source>
+          <year>2005</year>
+          <volume>22</volume>
+          <fpage>493</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="doi">10.1080/07391102.2005.10531227</pub-id>
+          <pub-id pub-id-type="pmid">15702922</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M805">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Storer</surname>
+              <given-names>R.I.</given-names>
+            </name>
+            <name>
+              <surname>Aciroa</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>L.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Squaramides: Physical properties, synthesis and applications</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2011</year>
+          <volume>40</volume>
+          <fpage>2330</fpage>
+          <lpage>2346</lpage>
+          <pub-id pub-id-type="doi">10.1039/c0cs00200c</pub-id>
+          <pub-id pub-id-type="pmid">21399835</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M805">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Treibs</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclobutenderivate der Pyrrolreihe, II. &#xDC;ber Vierring-trimethin-Farbstoffe</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1968</year>
+          <volume>712</volume>
+          <fpage>123</fpage>
+          <lpage>137</lpage>
+          <pub-id pub-id-type="doi">10.1002/jlac.19687120116</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M805">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuoka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Soejima</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kitao</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of 3,4-bisaryl-3-cyclobutene-1,2-diones and related heterocycles</article-title>
+          <source>Dyes Pigm.</source>
+          <year>1991</year>
+          <volume>16</volume>
+          <fpage>309</fpage>
+          <lpage>315</lpage>
+          <pub-id pub-id-type="doi">10.1016/0143-7208(91)85020-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M805">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>A.H.</given-names>
+            </name>
+            <name>
+              <surname>Thiel</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Gaschler</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxocarbons and related compounds. Part 24. Chlorosquarylation of indoles</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1996</year>
+          <fpage>495</fpage>
+          <lpage>496</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19960000495</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M805">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maiwald</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Aref</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>B&#xF6;ttcher</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Karwehl</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schniers</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Stanke</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gr&#xFC;nefeld</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-(1<italic>H</italic>-Indol-3-yl)-4-(morpholin-4-yl)cyclobut-3-ene-1,2-dione</article-title>
+          <source>Molbank</source>
+          <year>2012</year>
+          <volume>2012</volume>
+          <fpage>M758</fpage>
+          <pub-id pub-id-type="doi">10.3390/M758</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

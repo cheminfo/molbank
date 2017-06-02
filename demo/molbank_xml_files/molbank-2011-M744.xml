@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M744</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M744</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-(8-Chloro-3-methyl-1<italic>H</italic>-pyrazolo[4,3-<italic>c</italic>]cinnolin-1-yl)-2-(2-chlorophenyl)ethanone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bawa</surname>
+            <given-names>Sandhya</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tonk</surname>
+            <given-names>Rajiv K.</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M744" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chawla</surname>
+            <given-names>Gita</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Suresh</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Afzal</surname>
+            <given-names>Obaid</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M744">Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Jamia Hamdard (Hamdard University), New Delhi-110062, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M744"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>rajiv_tonk@rediffmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>11</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M744</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>09</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>1-(8-Chloro-3-methyl-1<italic>H</italic>-pyrazolo[4,3-<italic>c</italic>]cinnolin-1-yl)-2-(2-chlorophenyl)ethanone <bold>2</bold> has been synthesized through condensation of 3-acetyl-6-chloro-1<italic>H</italic>-cinnolin-4-one <bold>1</bold> with 2-(2-chlorophenyl)acetohydrazide in polar aprotic solvent containing catalytic amount of conc. HCl. The structure of the title compound <bold>2</bold> was established on the basis of IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>cinnoline</kwd>
+        <kwd>pyrazole</kwd>
+        <kwd>2-(2-Chlorophenyl)acetohydrazide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>Cinnoline (or 1,2-diazanaphthalene) has obvious potential as antibacterial agent and along with other heterocyclic moieties showed a wide spectrum of pharmacological activities like antimicrobial, anti-inflammatory, analgesic, anticancer, antihypertensive and neuroleptic properties [<xref ref-type="bibr" rid="B1-molbank-2011-M744">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M744">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M744">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M744">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M744">5</xref>]. In continuation of our previous work on diazines and benzfused heterocyclic compounds [<xref ref-type="bibr" rid="B6-molbank-2011-M744">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M744">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M744">8</xref>], we are reporting herein the synthesis of 1-(8-Chloro-3-methyl-1<italic>H</italic>-pyrazolo[4,3-<italic>c</italic>]cinnolin-1-yl)-2-(2-chlorophenyl)ethanone <bold>2</bold>. </p>
+      <p>In the <sup>1</sup>H-NMR spectrum (CDCl<sub>3</sub> solvent) of compound <bold>2</bold>, the characteristic singlet of cinnoline-NH proton (D<sub>2</sub>O exchangeable) in compound <bold>1</bold> at 13.90 ppm disappeared, and the singlet of methyl group (-COCH<sub>3</sub>) shifted upfield to 2.36 ppm along with a new signal of methylene group (&#x2013;CH<sub>2</sub>-) at 4.39 ppm. Moreover, the cyclic carbonyl carbon signal disappeared in the <sup>13</sup>C-NMR spectrum of compound <bold>2</bold>. The fact was also supported by the mass spectrum of compound <bold>2</bold> which showed molecular ion peak (M<sup>+</sup>) at m/z 370.04 along with two characteristic peaks at 372.04 (M<sup>+</sup>+2) and 374.04 (M<sup>+</sup>+4). The values are in complete agreement with the structure assigned.</p>
+      <p><italic>Synthesis of 1-(8-Chloro-3-methyl-1H-pyrazolo[4,3-c]cinnolin-1-yl)-2-(2-chlorophenyl)ethanone</italic> <bold>2</bold></p>
+      <p>Accurately weighed quantities of <bold>1</bold> (0.5 g, 2 mmol) and 2-(2-Chlorophenyl)acetohydrazide (2.5 mmol) were mixed on a magnetic stirrer for 0.5 h in anhydrous 1,4-dioxane (25 mL) containing 0.2 mL of concentrated hydrochloric acid. The resulting mixture was boiled under reflux for 14 h. After completion of reaction (monitored by TLC) the reaction mixture was allowed to cool, concentrated under reduced pressure and poured in to ice-cold water with constant stirring. The product obtained was filtered, dried and then purified through column chromatography (Hexane/AcOEt 4:1) to afford the titled compound <bold>2</bold>.</p>
+      <p>Yield 56%, m.p. 206&#x2013;208 &#xB0;C, Yellow amorphous solid.</p>
+      <p>IR (KBr) cm<sup>&#x2212;1</sup>: 1664 (C=O), 1593 (C=N), 1569 (C=C), 1263, 1166 (-C-N=N-), 746 (C-Cl). </p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 2.36 (s, 3H, CH<sub>3</sub>), &#x3B4; 4.39 (s, 2H, CH<sub>2</sub>), 7.23&#x2013;7.32 (m, 4H, H<sub>Phenyl</sub>), &#x3B4; 7.39 (br. s, 3H, H<sub>Cinnoline</sub>). </p>
+      <p><sup>1</sup>H NMR (300 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4; (ppm) 2.25 (s, 3H, CH<sub>3</sub>), &#x3B4; 4.35 (s, 2H, CH<sub>2</sub>), &#x3B4; 7.27&#x2013;7.32 (m, 2H, H<sub>Cinnoline</sub>), 7.39&#x2013;7.52 (m, 4H, H<sub>Phenyl</sub>), &#x3B4; 7.66 (br s, 1H, H<sub>Cinnoline</sub>). </p>
+      <p><sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 12.0 (CH<sub>3</sub>), 67.0 (CH<sub>2</sub>), 116.7, 117.2, 126.8, 128.7, 129.4, 129.8, 131.5, 131.8, 134.7, 139.2, 151.2, 159.0, 166.6 (C=O). </p>
+      <p>DART-MS m/z: 370.04 (M<sup>+</sup>), 372.04 (M<sup>+</sup>+2), 374.04 (M<sup>+</sup>+4). </p>
+      <p>Anal. Calcd for C<sub>18</sub>H<sub>12</sub>Cl<sub>2</sub>N<sub>4</sub>O: C, 58.24; H, 3.26; N, 15.09. Found: C, 58.44; H, 3.31; N, 15.04.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M744">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M744-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M744-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M744-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M744-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+<ack>
+      <title>Acknowledgments</title>
+      <p>One of the authors (R.K. Tonk) expresses sincere thanks to the University Grant Commission (UGC), New Delhi, India, for the award of Rajiv Gandhi National Senior Research Fellowship (RGNSRF). The authors are also thankful to Central Drug Research Institute (CDRI), Lucknow, India for recording spectral data.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M744">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nargund</surname>
+              <given-names>L.V.G.</given-names>
+            </name>
+            <name>
+              <surname>Badiger</surname>
+              <given-names>V.V.</given-names>
+            </name>
+            <name>
+              <surname>Yarnal</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial and anti-inflammatory activities of substituted 2-mercapto-3-(<italic>n</italic>-aryl)pyrimido[5,4-<italic>c</italic>]cinnolin-4-(3<italic>H</italic>)-ones</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>1992</year>
+          <volume>81</volume>
+          <fpage>365</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="doi">10.1002/jps.2600810416</pub-id>
+          <pub-id pub-id-type="pmid">1501075</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M744">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kametani</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kigasawa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hiiragi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ishimaru</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wagatsuma</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kohagisawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel Type of Analgesic- Synthesis and Analgesic Activity</article-title>
+          <source>Heterocycles</source>
+          <year>1980</year>
+          <volume>14</volume>
+          <fpage>449</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="doi">10.3987/R-1980-04-0449</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M744">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruchelman</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Ray</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L.F.</given-names>
+            </name>
+            <name>
+              <surname>LaVoie</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>11<italic>H</italic>-Isoquino[4,3-<italic>c</italic>]cinnolin-12-ones: Novel anticancer agents with potent topoisomerase I-targeting activity and cytotoxicity</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2004</year>
+          <volume>12</volume>
+          <fpage>795</fpage>
+          <lpage>806</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2003.10.061</pub-id>
+          <pub-id pub-id-type="pmid">14759740</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M744">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pinna</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Salis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Berta</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gavini</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>D&#x2019;Amico</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and pharmacological evaluaion of 4a-methyl-4,4a,5,6-tetrahydrothieno[2,3-<italic>h</italic>]cinnolin-3(2H)-ones</article-title>
+          <source>Farmaco</source>
+          <year>1997</year>
+          <volume>52</volume>
+          <fpage>29</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">9181678</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M744">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stanczak</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kwapiszewski</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Szadowska</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pakulska</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and action on the central nervous system of some N2-substituted cinnoline derivatives</article-title>
+          <source>Pharmazie</source>
+          <year>1994</year>
+          <volume>49</volume>
+          <fpage>406</fpage>
+          <lpage>412</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.199443181</pub-id>
+          <pub-id pub-id-type="pmid">8047541</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M744">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Drabu</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>N-[(2-chloro-6-mthylquinolin-3-yl)methyl]aniline</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M618</fpage>
+          <pub-id pub-id-type="doi">10.3390/M618</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M744">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>6-Oxo-3-phenyl-5,6-dihydropyridazine-1(4H)-carbohydrazide</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M652</fpage>
+          <pub-id pub-id-type="doi">10.3390/M652</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M744">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chawla</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>(8-Chloro-3-methyl-1<italic>H</italic>-pyrazolo[4,3-<italic>c</italic>]cinnolin-1-yl) (pyridin-4-yl)methanone</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M688</fpage>
+          <pub-id pub-id-type="doi">10.3390/M688</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M744-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M744-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route for the title compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M744-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

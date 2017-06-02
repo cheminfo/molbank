@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M297</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2002-M297</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-[2-[2-Bromo-4-methoxy-5-(1-methylethoxy)phenyl]-1-oxoethyl]-2-[4-(1-methylethoxy)phenylmethyl]propanedioic Acid Dimethyl Ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Treu</surname>
+            <given-names>Matthias</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordis</surname>
+            <given-names>Ulrich</given-names>
+          </name>
+          <xref rid="af1-molbank-2002-M297" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2002-M297">Institute of Applied Synthetic Chemistry, Vienna University of Technology, Getreidemarkt 9/163OC, A-1060 Vienna, Austria Tel. +43 (1) 58801.15460, Fax +43(1)58801.15499, Email: <email>ujordis@pop.tuwien.ac.at</email></aff>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>02</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2002</year>
+      </pub-date>
+      <volume>2002</volume>
+      <issue>1</issue>
+      <elocation-id>M297</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>12</month>
+          <year>2001</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>05</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2002 MDPI.</copyright-statement>
+        <copyright-year>2002</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M297-i001.tif"/></p>
+      <p>To a suspension of NaH (685 mg, 15.7 mmol, 55% in oil, purified by trituration with dry petroleum ether (3 x 30 mL)) in dry THF (30 mL) [[4-(1-methylethoxy)phenyl]methyl]propanedioic acid dimethyl ester [<xref ref-type="bibr" rid="B1-molbank-2002-M297">1</xref>] (4.00 g, 14.3 mmol) in dry THF (10 mL) was added at 0 &#xB0;C and stirred for 1 h at ambient temperature. 2-Bromo-4-methoxy-5-(1-methylethoxy)benzeneacetyl chloride [<xref ref-type="bibr" rid="B2-molbank-2002-M297">2</xref>] (4.59 g, 14.3 mmol) in dry THF (10 mL) was added and stirred for 24 h at ambient temperature. Satd. NH<sub>4</sub>Cl (30 mL) was added, and the mixture was concentrated in vacuo to a volume of 25 mL. The residue was partitioned between water (200 mL) and Et<sub>2</sub>O (200 mL). The aqueous layer was extracted with Et<sub>2</sub>O (3 x 50 mL), and the combined organic layer was washed with water (4 x 150 mL) and brine (1x 200 mL), dried over Na<sub>2</sub>SO<sub>4</sub>, filtered and evaporated in vacuo. The residue was purified by flash chromatography (450 g SiO<sub>2</sub>, petroleum ether : EtOAc = 95 : 5). Yield: colorless, viscous oil (5.56 g, 69%).</p>
+	  <p>TLC: petroleum ether : EtOAc = 80 : 20, R<sub>f</sub> = 0.35.</p>
+	  <p>Anal. Calcd for C<sub>27</sub>H<sub>33</sub>BrO<sub>8</sub>: C, 57.35; H, 5.88. Found: C, 57.08; H, 5.83.</p>
+	  <p><sup>1</sup>H NMR (CDCl<sub>3</sub>): &#x3B4; 7.09 (d, J = 7.9 Hz, 2H), 7.00 (s, 1H), 6.74 (d, J = 7.9 Hz, 2H), 6.62 (s, 1H), 4.62 - 4.32 (m, 2H), 4.08 (s, 2H), 3.81 (s, 3H), 3.70 (s, 6H), 3.49 (s, 2H), 1.32 (d, J = 6.5 Hz, 6H), 1.28 (d, J = 6.5 Hz, 6H).</p>
+	  <p><sup>13</sup>C NMR (CDCl<sub>3</sub>): &#x3B4; 198.3 (s), 167.4 (s), 156.9 (s), 150.1 (s), 146.4 (s), 131.3 (d), 127.0 (s), 125.7 (s), 118.5 (s), 115.9 (d), 115.5 (d), 115.4 (d), 72.3 (d), 71.6 (d), 69.6 (s), 56.0 (q), 52.8 (q), 47.3 (t), 37.6 (t), 21.9 (q), 21.8 (q).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2002-M297">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2002-M297-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M297-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2002-M297-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M297-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2002-M297">
+        <label>1.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordis</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Froehlich</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Treu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hirnschall</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Czollner</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kaelz</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Welzig</surname>
+              <given-names>St.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of galanthamine analogs for pharmaceutical use as acetyl- and butyrylcholinesterase inhibitors</article-title>
+          <patent>WO 0174820</patent>
+          <year>2001</year>
+          <comment>[Chemical Abstracts Nr.: 135:304054]</comment>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2002-M297">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Treu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jordis</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2002</year>
+          <fpage>M296</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Samples Availability:</italic> Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

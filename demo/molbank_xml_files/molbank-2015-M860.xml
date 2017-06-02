@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M860</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M860</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Methylsulfanylbenzo[<italic>f</italic>]isoquinoline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jamshaid</surname>
+            <given-names>Faisal</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khan</surname>
+            <given-names>Musharraf N.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hemming</surname>
+            <given-names>Karl</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M860" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M860">Department of Chemical Sciences, School of Applied Sciences, University of Huddersfield, HD1 3DH, UK</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M860"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>k.hemming@hud.ac.uk</email>; Tel.: +44-1484-472188; Fax: +44-1484-472182.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>05</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>6</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>2</issue>
+      <elocation-id>M860</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>04</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>05</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>S-Methylation of a 4-(naphth-2-yl)-&#x3B2;-thiolactam gives an intermediate 4-(naphth-2-yl) substituted 1-azetine which undergoes a [2+2] ring-opening followed by electrocyclic ring closure of the resulting 2-azadiene to give a benzo[<italic>f</italic>]isoquinoline.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>benzoisoquinoline</kwd>
+        <kwd>1-azetine</kwd>
+        <kwd>naphthalene</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Benzoisoquinolines (<xref ref-type="fig" rid="molbank-2015-M860-f001">Figure 1</xref>) are relatively unexplored heterocycles which have attracted limited interest in the literature [<xref ref-type="bibr" rid="B1-molbank-2015-M860">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M860">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M860">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M860">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M860">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M860">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M860">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M860">8</xref>]. Benzo[<italic>f</italic>]isoquinolines <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2015-M860">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M860">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M860">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M860">4</xref>] are useful in the synthesis of aza-steroids [<xref ref-type="bibr" rid="B3-molbank-2015-M860">3</xref>] and have had their affinity for the 5-HT<sub>3</sub> receptor explored [<xref ref-type="bibr" rid="B4-molbank-2015-M860">4</xref>]. Benzo[<italic>h</italic>]isoquinolines <bold>2</bold> have also been synthesized [<xref ref-type="bibr" rid="B5-molbank-2015-M860">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M860">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M860">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M860">8</xref>] and some of these have been shown to be potent inhibitors of ATP-competitive Chk1 kinase [<xref ref-type="bibr" rid="B8-molbank-2015-M860">8</xref>]. The benzo[<italic>g</italic>]isoquinoline nucleus <bold>3</bold> has also been reported [<xref ref-type="bibr" rid="B8-molbank-2015-M860">8</xref>]. In this short note, we wish to report the synthesis of the previously unreported 2-methylthiobenzo[<italic>f</italic>]isoquinoline <bold>4</bold> which is obtained from an unprecedented rearrangement of 2-methylthio-4-(naphth-2-yl)-1-azetine <bold>5</bold>, shown in <xref ref-type="scheme" rid="molbank-2015-M860-sch001">Scheme 1</xref>. Whilst benzo[<italic>f</italic>]isoquinolines and the isomeric 3-(naphth-1-yl)-1-azetines have been reported as common products obtained from reactions of dehydronaphthylalanines [<xref ref-type="bibr" rid="B1-molbank-2015-M860">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M860">2</xref>], the formation of benzoisoquinolines from 4-(naphth-2-yl)-1-azetines has not been reported. The isomeric 4-methylthiobenzo[<italic>f</italic>]isoquinoline <bold>6</bold>, obtained via an entirely different route, has been reported [<xref ref-type="bibr" rid="B3-molbank-2015-M860">3</xref>].</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>2-Methylthio-4-(naphth-2-yl)-1-azetine <bold>5</bold> (<xref ref-type="scheme" rid="molbank-2015-M860-sch001">Scheme 1</xref>) has been synthesized by us before [<xref ref-type="bibr" rid="B9-molbank-2015-M860">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M860">10</xref>] and used in cycloaddition reactions. Previously, the 1-azetine was obtained by alkylation of the readily available [<xref ref-type="bibr" rid="B9-molbank-2015-M860">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M860">10</xref>] thiolactam <bold>7</bold>, as shown in <xref ref-type="scheme" rid="molbank-2015-M860-sch001">Scheme 1</xref>. When this reaction mixture is worked up and purified immediately, the 1-azetine is the major product, as already reported [<xref ref-type="bibr" rid="B9-molbank-2015-M860">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M860">10</xref>]. However, we have now found that when the crude 1-azetine reaction mixture from the reaction of thiolactam <bold>7</bold> with trimethyloxonium tetrafluoroborate is left overnight rather than used immediately, the 1-azetine is not the isolated product, but rearranges to give 2-methylthiobenzo[<italic>f</italic>]isoquinoline <bold>4</bold> (35% from <bold>7</bold>) instead. A sample of the pure 1-azetine <bold>5</bold> underwent quantitative rearrangement to the isoquinoline <bold>4</bold> after storage in CDCl3 for one week, indicating that alkylation of the thiolactam <bold>7</bold> is the limiting step.</p>
+      <p>As shown in <xref ref-type="scheme" rid="molbank-2015-M860-sch002">Scheme 2</xref>, we propose that the 1-azetine <bold>5</bold> undergoes ring-opening to the 2-azadiene <bold>8</bold>, a thermal ring-opening process known in 1-azetines [<xref ref-type="bibr" rid="B11-molbank-2015-M860">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M860">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M860">13</xref>]. Electrocyclic ring closure then occurs onto the more reactive and favored naphthyl 1-position [<xref ref-type="bibr" rid="B14-molbank-2015-M860">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2015-M860">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2015-M860">16</xref>] as opposed to the alternative, less reactive, dis-favored 3-position. Loss of hydrogen and aromatization then gives the benzo[<italic>f</italic>]isoquinoline <bold>4</bold>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>To 4-naphthylazetidin-2-thione <bold>7</bold> [<xref ref-type="bibr" rid="B9-molbank-2015-M860">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M860">10</xref>] (300 mg, 1.42 mmol) in dry dichloromethane (10 mL) in a 50 mL round-bottomed flask was added Meerwein&#x2019;s salt (312 mg, 2.11 mmol) under an atmosphere of dry nitrogen. The mixture was stirred at room temperature for 1 h and then at reflux for 1 h. The solution was cooled to room temperature and added drop-wise to a 50% aqueous solution of potassium carbonate (10 mL) at &#x2212;10 &#xB0;C and left to warm to room temperature overnight. The resulting mixture was filtered through Celite and the organic layer was separated. The aqueous layer was extracted with dichloromethane (2 &#xD7; 10 mL), and the combined organic extracts were dried (MgSO<sub>4</sub>). After filtration the solvent was removed under reduced pressure using a rotary evaporator to give a dark orange oil which was purified by silica column chromatography (hexane/EtOAc; 3:1) to give the product as a light yellow oil (112 mg, 35%), R<sub>f</sub> = 0.48. The reaction was monitored by TLC, which was carried out on 0.20 mm Macherey-Nagel Alugram<sup>&#xAE;</sup> Sil G/UV<sub>254</sub> silica gel-60 F<sub>254</sub> precoated aluminium plates (Fisher Scientific UK Ltd, Loughborough, UK) and visualisation was achieved using UV  light. Column chromatography was performed on silica gel (0.063&#x2013;0.200 mm, 60 &#xC5;) from the same supplier.</p>
+      <sec>
+        <title>Spectroscopic Data</title>
+        <p>IR &#x3C5;<sub>max</sub>  (neat, cm<sup>&#x2212;1</sup>): 3043 (w), 2955 (m), 1587 (m), 1556 (m), 1493 (m), 1441 (m), 1391 (m), 1144 (m), 1124 (s), 1073 (m), 835 (m), 748 (s).</p>
+        <p><sup>1</sup>H-NMR: &#x3B4; (400 MHz, CDCl<sub>3</sub>): 9.19 (1H, dd, <italic>J</italic> = 7.8, 1.6 Hz, ArH), 7.83 (1H, d, <italic>J =</italic> 8.4 Hz, ArH), 7.80 (1H, dd, <italic>J</italic> = 7.3, 1.8 Hz, ArH), 7.64&#x2013;7.56 (3H, m, ArH), 7.53 (1H, d, <italic>J</italic> = 8.7 Hz, ArH), 7.29 (1H, d, <italic>J</italic> = 8.4 Hz, ArH), 2.77 (3H, s, Me).</p>
+        <p><sup>13</sup>C-NMR &#x3B4; (100 MHz, CDCl<sub>3</sub>): 158.51 (C), 146.18 (C), 134.63 (CH), 133.21 (C), 130.21 (C), 127.34 (CH), 127.04 (CH), 125.99 (CH), 125.41 (CH), 124.50 (CH), 123.72 (CH), 122.53 (C), 120.19 (CH), 13.26 (CH<sub>3</sub>).</p>
+        <p>HRMS (ESI+, <italic>m/z</italic>) [M + H]<sup>+</sup> for C14H12NS calculated 226.0685, measured 226.0692.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M860">
+      <title>Supplementary materials</title>
+   <supplementary-material id="molbank-2015-M860-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M860-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+   <supplementary-material id="molbank-2015-M860-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M860-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+    </app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>We acknowledge Neil McLay for NMR spectroscopy and mass spectrometry.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Hemming designed the project and is the principal and corresponding author and wrote the text. Khan and Jamshaid conducted the practical work associated with this project and contributed equally.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M860">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoshina</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kubo</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Morita</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sakurai</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Formation of Isoquinoline and 1-Azetine Derivatives via Novel Photocyclization of Substituted &#x3B1;-Dehydrophenylalanines</article-title>
+          <source>Tetrahedron</source>
+          <year>2000</year>
+          <volume>56</volume>
+          <fpage>2941</fpage>
+          <lpage>2951</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(00)00188-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M860">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maekawa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Igarashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kubo</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sakurai</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electron transfer-initiated photocyclization of substituted <italic>N</italic>-acetyl-&#x3B1;-dehydro(1-naphthyl)alanines to 1,2-dihydrobenzo[<italic>f</italic>]quinoline derivatives: scope and limitations</article-title>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>5515</fpage>
+          <lpage>5526</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)00477-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M860">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lalezari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Nabahi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyazasteroids. III. 1,2,4-Triazolo[3,4-<italic>a</italic>]benzo[<italic>f</italic>]isoquinoline. Synthesis of the Diazaphenanthrene Alkaloid Perlolidine and its 1,8-Phenanthroline Isomer</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1980</year>
+          <volume>17</volume>
+          <fpage>1761</fpage>
+          <lpage>1763</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570170825</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M860">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cappelli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Anzini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vomero</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Canullo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mennuni</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Makovec</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Doucet</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hamon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Menziani</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>de Benedetti</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Novel Potent and Selective Central 5-HT<sub>3</sub> Receptor Ligands Provided with Different Intrinsic Efficacy</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <fpage>1556</fpage>
+          <lpage>1575</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm981112s</pub-id>
+          <pub-id pub-id-type="pmid">10229626</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M860">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mn(II)/O<sub>2</sub>-promoted oxidative annulation of vinyl isocyanides with boronic acids: Synthesis of multi-substituted isoquinolines</article-title>
+          <source>Chem. Commun.</source>
+          <year>2014</year>
+          <volume>50</volume>
+          <fpage>13485</fpage>
+          <lpage>13488</lpage>
+          <pub-id pub-id-type="doi">10.1039/C4CC06427E</pub-id>
+          <pub-id pub-id-type="pmid">25236810</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M860">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lechel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Dash</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Eidamshaus</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Br&#xFC;dgam</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Lentz</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Reissig</surname>
+              <given-names>H.-U.</given-names>
+            </name>
+          </person-group>
+          <article-title>A three-component synthesis of &#x3B2;-alkoxy-&#x3B2;-keto-enamides&#x2014;flexible precursors for 4-hydroxypyridine derivatives and their palladium-catalysed reactions</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2010</year>
+          <volume>8</volume>
+          <fpage>3007</fpage>
+          <lpage>3014</lpage>
+          <pub-id pub-id-type="doi">10.1039/b925468d</pub-id>
+          <pub-id pub-id-type="pmid">20473437</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M860">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Villuendas</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Urriolabeitia</surname>
+              <given-names>E.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary Amines as Directing Groups in the Ru-Catalyzed Synthesis of Isoquinolines, Benzoisoquinolines and Thienopyridines</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2013</year>
+          <volume>78</volume>
+          <fpage>5254</fpage>
+          <lpage>5263</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo400344m</pub-id>
+          <pub-id pub-id-type="pmid">23650873</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M860">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garbaccio</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tasber</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <name>
+              <surname>Fraley</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Munshi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ikuta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Kreatsoulas</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Stirdivant</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Synthesis and evaluation of substituted benzoisoquinolinones as potent inhibitors of Chk1 kinase</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>6280</fpage>
+          <lpage>6285</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2007.09.007</pub-id>
+          <pub-id pub-id-type="pmid">17900896</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M860">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemming</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Gorman</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Pitard</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2,4-Oxadiazoles from cycloreversions of oxadiazabicyclo[3.2.0]heptenes: 1-Azetines as thiocyanate equivalents</article-title>
+          <source>Tetrahedron</source>
+          <year>2013</year>
+          <volume>69</volume>
+          <fpage>1279</fpage>
+          <lpage>1284</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2012.12.007</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M860">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemming</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Kondakal</surname>
+              <given-names>V.V.R.</given-names>
+            </name>
+            <name>
+              <surname>Pitard</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Qamar</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Rice</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyridines from Azabicyclo[3.2.0]hept-2-en-4-ones through a Proposed Azacyclopentadienone</article-title>
+          <source>Org. Lett.</source>
+          <year>2012</year>
+          <volume>14</volume>
+          <fpage>126</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol202924s</pub-id>
+          <pub-id pub-id-type="pmid">22188404</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M860">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Novikov</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Smetanin</surname>
+              <given-names>I.A.</given-names>
+            </name>
+            <name>
+              <surname>Khlebnikov</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Rostovskii</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Yufit</surname>
+              <given-names>D.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of electron-poor 4-halo-2-azabuta-1,3-dienes by Rh(II)-catalyzed diazo ester-azirine coupling. 2-Azabuta-1,3-diene-2,3-dihydroazete valence isomerism</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2012</year>
+          <volume>53</volume>
+          <fpage>5777</fpage>
+          <lpage>5780</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2012.08.063</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M860">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sugie</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Takeo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Matsumura</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Study of the Thermal Decomposition and Dehydrochlorination of <italic>N-</italic>Chloroazetidine: Microwave Spectra of <italic>N-</italic>Chloromethylenimine, 1-Azetine, and 2-Azabutadiene</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1989</year>
+          <volume>111</volume>
+          <fpage>906</fpage>
+          <lpage>910</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00185a018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M860">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guillemin</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Denis</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Lablache-Combier</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-Azetine: Thermal Ring Opening to 2-Azabutadiene</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1981</year>
+          <volume>103</volume>
+          <fpage>468</fpage>
+          <lpage>469</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00392a041</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M860">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deutsch</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Prescott</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>M&#xFC;ller</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kemnitz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Lieske</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylation of naphthalenes and anthracene on sulfated zirconia</article-title>
+          <source>J. Catal.</source>
+          <year>2005</year>
+          <volume>231</volume>
+          <fpage>269</fpage>
+          <lpage>278</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jcat.2005.01.024</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M860">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>S&#xF6;rgel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Azap</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Reissig</surname>
+              <given-names>H.-U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of Highly Substituted Naphthaldehyde Derivatives&#x2014;A Regioselective Approach to Building Blocks for the Synthesis of Rubromycins</article-title>
+          <source>Eur. J. Org. Chem.</source>
+          <year>2006</year>
+          <volume>2006</volume>
+          <fpage>4405</fpage>
+          <lpage>4418</lpage>
+          <pub-id pub-id-type="doi">10.1002/ejoc.200600353</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M860">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grigg</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kongkathip</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kongkathip</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Luangkamin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dondas</surname>
+              <given-names>H.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium catalysed reaction of allene with phenols. Phenoxymethyl-1,3-dienes and their further  reactions</article-title>
+          <source>Tetrahedron</source>
+          <year>2001</year>
+          <volume>57</volume>
+          <fpage>7965</fpage>
+          <lpage>7978</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)00771-2</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Schemes</title>
+      <fig id="molbank-2015-M860-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Benzoisoquinolines.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M860-g001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M860-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M860-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 2-methylthiobenzo[<italic>f</italic>]isoquinoline <bold>4</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M860-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M860-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M860-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Proposed mechanism.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M860-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

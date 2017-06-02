@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M427</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M427</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-Hydroxymethyl-3-phenyl-5-methylpyrazole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bouabdallah</surname>
+            <given-names>Ibrahim</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M427" ref-type="aff">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zidane</surname>
+            <given-names>Ismail</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M427">Laboratory of Physical Organic Chemistry, Department of Chemistry, Faculty of Sciences, University Mohammed the first, <break/>BP 524, 60 000 Oujda, Morocco.<break/> e-mail: <email>Bouabdallah@sciences.univ-oujda.ac.ma</email>. <email>ra@sciences.univ-oujda.ac.ma</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>3</issue>
+      <elocation-id>M427</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>09</day>
+          <month>07</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>pyrazol</kwd>
+        <kwd>formaldehyde</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body> 
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M427-i001.tif"/></p>
+      <p>To a solution of 3-phenyl-5-methylpyrazole <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2005-M427">1</xref>] (7.11 g, 45 mmol) in ethanol (60 mL) was added formaldehyde <bold>2</bold> (3.85 g, 45 mmol, 35 %) and the mixture was refluxed for 90 minutes [<xref ref-type="bibr" rid="B2-molbank-2005-M427">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2005-M427">3</xref>]. The reaction was continued at room temperature for 12h. The mixture was concentrated at reduced pressure. The residue was purified by recrystallization to afford the product <bold>3</bold> as a white solid.</p>
+      <p>Yield: 4.65 g, 55 %.</p>
+      <p>Melting point: 145-146 &#xB0;C (CH<sub>3</sub>COCH<sub>3</sub>)</p>
+      <p>IR (KBr, cm<sup>&#x2212;1</sup>): 3100 (&#x3BD;<sub>O-H</sub>); 2920 (CH<sub>3</sub>); 1540 (&#x3BD;<sub>C=C</sub>); 1430, 1380, 1350, 1280 (&#x3B4;<sub>O-H</sub>); 1200, 1190, 1065, 1060, 1000, 970, 945, 790, 720.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, CDCl<sub>3</sub>): &#x3B4;= 7.76 (m, 2H, C<underline>H</underline> ph, o-H); 7.23 (m, 3H, C<underline>H</underline> ph, m-H, p-H); 6.41 (s, 1H, C<underline>H</underline> pz); 5.61 (s, 2H, C<underline>H</underline><sub>2</sub>); 2.45 (s, 3H, C<underline>H</underline><sub>3</sub>).</p>
+      <p>MS (EI, 70eV; m/z): 188; 158; 143; 128; 117; 104; 90; 77; 63; 51; 40.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M427">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M427-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M427-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M427-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M427-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes:</title>
+      <ref id="B1-molbank-2005-M427">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ali</surname>
+              <given-names>S. S.</given-names>
+            </name>
+            <name>
+              <surname>Ashraf</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Younas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ehsan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Pak. J. Sci. Ind. Res.</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>502</fpage>
+          <lpage>510</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M427">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Driessen</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>J. R.. Neth. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>101</volume>
+          <fpage>441</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M427">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bouabdallah</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Zidane</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Ramdani</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Rapport de DESA</source>
+          <publisher-name>Faculty of Sciences</publisher-name>
+          <publisher-loc>Oujda, Maroc</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

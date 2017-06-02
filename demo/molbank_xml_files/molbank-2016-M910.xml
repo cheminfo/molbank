@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M910</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M910</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5-[(3-Fluorophenyl)(2-hydroxy-6-oxocyclohex-1-en-1-yl)methyl]-6-hydroxy-1,3-dimethylpyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barakat</surname>
+            <given-names>Assem</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M910" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2016-M910" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2016-M910" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ghabbour</surname>
+            <given-names>Hazem A.</given-names>
+          </name>
+          <xref rid="af3-molbank-2016-M910" ref-type="aff">3</xref>
+          <xref rid="af4-molbank-2016-M910" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Atef</surname>
+            <given-names>Saleh</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M910" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Al-Majid</surname>
+            <given-names>Abdullah Mohammed</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M910" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shahidul Islam</surname>
+            <given-names>Mohammad</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M910" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ali</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M910" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M910"><label>1</label>Department of Chemistry, College of Science, King Saud University, P. O. Box 2455, Riyadh 11451, Saudi Arabia; <email>aboatefs89@gmail.com</email> (S.A.); <email>amajid@ksu.edu.sa</email> (A.M.A.-M.); <email>shahid.10amui@gmail.com</email> (M.S.I.); <email>maly.c@ksu.edu.sa</email> (M.A.)</aff>
+      <aff id="af2-molbank-2016-M910"><label>2</label>Department of Chemistry, Faculty of Science, Alexandria University, P. O. Box 426, Ibrahimia, Alexandria 21321, Egypt</aff>
+      <aff id="af3-molbank-2016-M910"><label>3</label>Department of Pharmaceutical Chemistry, College of Pharmacy, King Saud University, P. O. Box 2457, Riyadh 11451, Saudi Arabia; <email>ghabbourh@yhaoo.com</email></aff>
+      <aff id="af4-molbank-2016-M910"><label>4</label>Department of Medicinal Chemistry, Faculty of Pharmacy, University of Mansoura, Mansoura 35516, Egypt</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M910"><label>*</label>Correspondence: <email>ambarakat@ksu.edu.sa</email>; Tel.: +966-11-467-5884; Fax: +966-11-467-5992</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>09</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M910</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>07</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>09</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>5-[(3-Fluorophenyl)(2-hydroxy-6-oxocyclohex-1-en-1-yl)-methyl]-6-hydroxy-1,3-di-methylpyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione <bold>3</bold> was synthesized via a multicomponent reaction. The Aldol&#x2013;Michael addition reactions of <italic>N</italic>,<italic>N</italic>-dimethylbarbituric acid, cyclohexane-1,3-dione, and 3-fluorobenzaldehyde in aqueous solution gave the product in high yield. The molecular structure of the compound was confirmed by spectroscopic methods and X-ray crystallography. The title compound (C<sub>19</sub>H<sub>19</sub>FN<sub>2</sub>O<sub>5</sub>&#xB7;H<sub>2</sub>O) crystallizes in the Monoclinic form, <italic>P</italic>2<sub>1</sub>/<italic>c</italic>, <italic>a</italic> = 7.8630 (5) &#xC5;, <italic>b</italic> = 20.0308 (13) &#xC5;, <italic>c</italic> = 11.3987 (8) &#xC5;, &#x3B2; = 104.274 (3)&#xB0;, <italic>V</italic> = 1739.9 (2)&#xB0; &#xC5;<sup>3</sup>, <italic>Z</italic> = 4, <italic>R</italic><sub>int</sub> = 0.117, <italic>wR</italic>(<italic>F</italic><sup>2</sup>) = 0.124, T = 100 K.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Barbituric acid</kwd>
+        <kwd>Pyrimidine</kwd>
+        <kwd>Green chemistry</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M910" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The barbituric acid skeleton represents an important structural motif that is embodied in a number of pharmaceutical agents with activities including anti-osteoporosis [<xref ref-type="bibr" rid="B1-molbank-2016-M910">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M910">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M910">3</xref>], anticonvulsant [<xref ref-type="bibr" rid="B4-molbank-2016-M910">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M910">5</xref>], urease inhibition [<xref ref-type="bibr" rid="B6-molbank-2016-M910">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M910">7</xref>], sedation, anesthesia [<xref ref-type="bibr" rid="B8-molbank-2016-M910">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M910">9</xref>], hypnosis [<xref ref-type="bibr" rid="B10-molbank-2016-M910">10</xref>], anti-oxidant [<xref ref-type="bibr" rid="B11-molbank-2016-M910">11</xref>], radio-sensitization, tyrosinase or alpha-glucosidase inhibition [<xref ref-type="bibr" rid="B12-molbank-2016-M910">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M910">13</xref>], anti-bacterial [<xref ref-type="bibr" rid="B14-molbank-2016-M910">14</xref>], anti-fungal [<xref ref-type="bibr" rid="B14-molbank-2016-M910">14</xref>], anti-cancer [<xref ref-type="bibr" rid="B14-molbank-2016-M910">14</xref>], and anxiolytic effects [<xref ref-type="bibr" rid="B3-molbank-2016-M910">3</xref>]. Many of these representatives are in clinical use as hypnotic and anti-inflammatory drugs; for example, sodium pentothal, phenobarbital, veronal, seconal, and bucolome [<xref ref-type="bibr" rid="B8-molbank-2016-M910">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M910">9</xref>]. We have synthesized a new pyrimidine derivative through a tandem Aldol&#x2013;Michael reaction in aqueous medium. The desired compound was characterized by spectroscopic techniques and by X-ray single crystal analysis. </p>
+    </sec>
+    <sec id="sec2-molbank-2016-M910" sec-type="results">
+      <title>2. Results</title>
+      <p>The title compound 5-[(3-fluorophenyl)(2-hydroxy-6-oxocyclohex-1-en-1-yl)-methyl]-6-hydroxy-1,3-dimethylpyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione was synthesized following a reported procedure by Barakat et al. [<xref ref-type="bibr" rid="B15-molbank-2016-M910">15</xref>] (<xref ref-type="scheme" rid="molbank-2016-M910-sch001">Scheme 1</xref>). The chemical reagents and solvents used in this study are commercially available. This reaction proceeds efficiently at room temperature (RT) in water and it is mediated by NHEt<sub>2</sub>. The structure of the synthesized compound was characterized using spectroscopic techniques like IR, <sup>1</sup>H-, and <sup>13</sup>C-NMR, GCMS, and elemental analysis. A suitable single crystal was grown in a mixture of dichloromethane/ethanol/diethyl ether and was used for X-ray diffraction analysis. </p>
+    </sec>
+    <sec id="sec3-molbank-2016-M910" sec-type="discussion">
+      <title>3. Discussion</title>
+      <sec>
+        <title>Single-Crystal X-Ray Diffraction Study</title>
+        <p>The structure of 5-[(3-fluorophenyl)(2-hydroxy-6-oxocyclohex-1-en-1-yl)-methyl]-6-hydroxy-1,3-dimethyl-pyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione was confirmed by X-ray crystal structure analysis. The features of the structure refinements, crystallographic data, and conditions retained for the intensity data collection are given in <xref ref-type="table" rid="molbank-2016-M910-t001">Table 1</xref>. The bond angles and interatomic distances are listed in <xref ref-type="table" rid="molbank-2016-M910-t002">Table 2</xref> [<xref ref-type="bibr" rid="B16-molbank-2016-M910">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2016-M910">17</xref>]. COD ID 3000079 contains the supplementary crystallographic data for this paper.</p>
+        <p>In the unit cell (<xref ref-type="fig" rid="molbank-2016-M910-f001">Figure 1</xref>), the title compound was crystallized with one molecule of water as a solvent, which forms strong hydrogen bonds with O1, O2, and O4. The F atom shows disorder over two positions, with site occupancies of 0.773 (4) and 0.227 (4). The 6-hydroxy-1,3-dimethylpyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dione ring (C1/N1/C3/N2/C5/C6) was found to adopt nearly dihedral angles with the 2,6-dihydroxycyclohex-1-en ring (C8&#x2013;C13) and 3-fluorophenyl ring (C14&#x2013;C19) as 64.56 (5) and 68.38 (3)&#xB0;, respectively. On the other hand, the 2,6-dihydroxycyclohex-1-en ring forms a dihedral angle of 46.90 (5)&#xB0; with the 3-fluorophenyl ring. The title compound having bond lengths of C5=C6 and C8=C9 are 1.369 (4) and 1.373 (4) &#xC5;, respectively, and these are typical carbon carbon double bonds. In the crystal structure, molecules are linked via a network of intermolecular hydrogen bonds (<xref ref-type="table" rid="molbank-2016-M910-t003">Table 3</xref>, <xref ref-type="fig" rid="molbank-2016-M910-f002">Figure 2</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="sec4-molbank-2016-M910">
+      <title>4. Materials and Methods</title>
+      <sec id="sec4dot1-molbank-2016-M910">
+        <title>4.1. General</title>
+        <p>The chemicals were purchased from Aldrich (Riedstra&#xDF;e, Germany) and Fluka (Buchs, Switzerland), and were used without further purification, unless otherwise stated. The IR spectrum was measured for a KBr pellet on a Nicolet 6700 FT-IR spectrophotometer (Thermo Fisher Scientific, Madison, WI, USA).The NMR spectra were recorded on a Jeol-400 NMR spectrometer (Tokyo, Japan). <sup>1</sup>H-NMR (400 MHz) and <sup>13</sup>C-NMR (100 MHz) were recorded in deuterated dimethylsulfoxide (DMSO-<italic>d</italic><sub>6</sub>). Chemical shifts (&#x3B4;) are reported in ppm and <italic>J</italic> -coupling constants are given in Hz. Mass spectrometric analysis was conducted by using ESI mode on an AGILENT Technologies 6410&#x2013;triple quad LC/MS instrument (Santa Clara, CA, USA). Elemental analysis was carried out on a Perkin Elmer 2400 Elemental Analyzer, CHN mode (Waltham, MA, USA). X-ray crystal structure analysis was performed on a Bruker APEX-II D8 Venture area diffractometer (Bruker AXS GmbH, Karlsruhe, Germany).</p>
+      </sec>
+      <sec id="sec4dot2-molbank-2016-M910">
+        <title>4.2. Synthesis of 5-[(3-Fluorophenyl)(2-hydroxy-6-oxocyclohex-1-en-1-yl)-methyl]-6-hydroxy-1,3-di-methyl-pyrimidine-2,4(1H,3H)-dione </title>
+        <p>A mixture of 1,3-dimethylpyrimidine-2,4,6(1<italic>H</italic>,3<italic>H</italic>,5<italic>H</italic>)-trione (1.0 mmol), cyclohexane-1,3-dione (1.0 mmol), and 3-fluorobenzaldehyde (1.0 mmol) in 2.0 mL of H<sub>2</sub>O was charged into a 10 mL round bottom flask mediated by diethylamine (1.0 mmol). The reaction mixture was stirred at room temperature for 24 h, until TLC (Merck Silica Gel 60 F&#x2013;254; eluent: 30% EtOAc/n-hexane) showed that the reactants were completely consumed. After completion of the reaction, the solid product was collected by filtration and dried. The compound was obtained as white crystals by crystallization using a mixture of (CH<sub>2</sub>Cl<sub>2</sub>/EtOH/Et<sub>2</sub>O).</p>
+        <p>White crystalline compound; Yield 92%, m.p.: 113&#x2013;115 &#xB0;C; <sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 7.21 (t, <italic>J</italic> = 7.3 Hz, 1H, Ph), 6.91 (s, 1H, Ph), 6.83 (d, <italic>J</italic> = 7.3 Hz, 2H, Ph), 5.90 (s, 1H, benzyl-H), 3.16 (m, 2H, CH<sub>2</sub>), 2.97 (s, 6H, CH<sub>3</sub>), 2.20 (t, <italic>J</italic> = 7.3 Hz, 2H, CH<sub>2</sub>), 1.75 (t, <italic>J</italic> = 7.3 Hz, 2H, CH<sub>2</sub>); <sup>13</sup>C-NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;: 191.7, 168.1, 167.7, 152.2, 143.8, 129.2, 124.6, 114.9, 112.5, 112.0, 51.9, 42.1, 31.8, 28.0, 20.2; IR (KBr, cm<sup>&#x2212;1</sup>) &#x3BD;<sub>max</sub> = 3155, 2928, 1660, 1550, 1256; Anal. calcd. for C<sub>19</sub>H<sub>19</sub>FN<sub>2</sub>O<sub>5</sub>: C, 60.96; H, 5.12; N, 7.48; Found: C, 60.97; H, 5.11; N, 7.50]; LC/MS (ESI, <italic>m</italic>/<italic>z</italic>): [M + 1], found 375.37, C<sub>19</sub>H<sub>19</sub>FN<sub>2</sub>O<sub>5</sub>: 374.37.</p>
+      </sec>
+    </sec>
+    <sec id="sec5-molbank-2016-M910" sec-type="conclusions">
+      <title>5. Conclusions</title>
+      <p>A new barbituric acid derivative was synthesized via a green protocol. The molecular structure of the synthesized compound was investigated by spectroscopic tools and X-ray single crystal diffraction technique.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The project was supported by King Saud University, College of Science, Department of Chemistry.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>A.B. and A.M.A conceived and designed the experiments; S.A. performed the experiments; M.S.I. and M.A. analyzed the data; H.A.G. carried out the X-ray single crystal; A.B. contributed reagents/materials/analysis tools; A.B. wrote the paper. </p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M910">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bojarski</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Mokrocz</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Paluchowska</surname>
+              <given-names>M.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent progress in barbituric acid chemistry</article-title>
+          <source>Adv. Heterocycl. Chem.</source>
+          <year>1985</year>
+          <volume>38</volume>
+          <fpage>229</fpage>
+          <lpage>297</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M910">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sans</surname>
+              <given-names>S.R.G.</given-names>
+            </name>
+            <name>
+              <surname>Chosaz</surname>
+              <given-names>M.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Historical aspects and applications of barbituric acid derivatives</article-title>
+          <source>Pharmazie</source>
+          <year>1988</year>
+          <volume>43</volume>
+          <fpage>827</fpage>
+          <lpage>829</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M910">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taylor</surname>
+              <given-names>J.B.</given-names>
+            </name>
+          </person-group>
+          <source>Modern Medical Chemistry</source>
+          <publisher-name>Prentice Hall</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M910">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holtkamp</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Meierkord</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anticonvulsant, antiepileptogenic, and antiictogenic pharmacostrategies</article-title>
+          <source>Cell. Mol. Life Sci.</source>
+          <year>2007</year>
+          <volume>64</volume>
+          <fpage>2023</fpage>
+          <lpage>2041</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00018-007-7021-2</pub-id>
+          <pub-id pub-id-type="pmid">17514360</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M910">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Archana</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of newer indolyl/phenothiazinyl substituted 2-oxo/thiobarbituric acid derivatives as potent anticonvulsant agents</article-title>
+          <source>Arzneim. Forsch. Drug Res.</source>
+          <year>2002</year>
+          <volume>52</volume>
+          <fpage>787</fpage>
+          <lpage>791</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200335128</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M910">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Al-Majid</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Lotfy</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Arshad</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Ashraf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ul-Haq</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and dynamics studies of barbituric acid derivatives as urease inhibitors</article-title>
+          <source>Chem. Cent. J.</source>
+          <year>2015</year>
+          <volume>9</volume>
+          <fpage>63</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13065-015-0140-1</pub-id>
+          <pub-id pub-id-type="pmid">26583043</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M910">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ul-Haq</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ashraf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Al-Majid</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>3D-QSAR studies on barbituric acid derivatives as urease inhibitors and the effect of charges on the quality of a model</article-title>
+          <source>Int. J. Mol. Sci.</source>
+          <year>2016</year>
+          <volume>17</volume>
+          <fpage>657</fpage>
+          <pub-id pub-id-type="doi">10.3390/ijms17050657</pub-id>
+          <pub-id pub-id-type="pmid">27144563</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M910">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodman</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Limbird</surname>
+              <given-names>E.L.</given-names>
+            </name>
+            <name>
+              <surname>Milinoff</surname>
+              <given-names>P.B.</given-names>
+            </name>
+            <name>
+              <surname>Ruddon</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Gilman</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <source>Goodman and Gilman&#x2019;s: The Pharmacological Basis of Therapeutics</source>
+          <edition>9th ed.</edition>
+          <publisher-name>McGraw-Hill</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1996</year>
+		  <fpage>471</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M910">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolff</surname>
+              <given-names>M.E.</given-names>
+            </name>
+          </person-group>
+          <source>Burger&#x2019;s Medicinal Chemistry and Drug Discovery</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M910">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chandler</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Leslie</surname>
+              <given-names>S.W.</given-names>
+            </name>
+            <name>
+              <surname>Gonzales</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>5-(2-Cyclohexylideneethyl)-5-ethyl barbituric acid (CHEB): Correlation of hypnotic and convulsant properties with alterations of synaptosomal <sup>45</sup>Ca2+ influx</article-title>
+          <source>Eur. J. Pharm.</source>
+          <year>1986</year>
+          <volume>126</volume>
+          <fpage>117</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="doi">10.1016/0014-2999(86)90746-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M910">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Al Majid</surname>
+              <given-names>A.M.A.</given-names>
+            </name>
+            <name>
+              <surname>Al-Najjar</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Mabkhot</surname>
+              <given-names>Y.N.</given-names>
+            </name>
+            <name>
+              <surname>Javaid</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Zwitterionic pyrimidinium adducts as antioxidants with therapeutic potential for nitric oxide scavenger</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2014</year>
+          <volume>84</volume>
+          <fpage>146</fpage>
+          <lpage>154</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2014.07.026</pub-id>
+          <pub-id pub-id-type="pmid">25016372</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M910">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Soliman</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Al-Majid</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Lotfy</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ghabbour</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Fun</surname>
+              <given-names>H-K.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Wadood</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure investigation of novel pyrimidine-2,4,6-trione derivatives of highly potential biological activity as anti-diabetic agent</article-title>
+          <source>J. Mol. Strut.</source>
+          <year>2015</year>
+          <volume>1098</volume>
+          <fpage>365</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molstruc.2015.06.037</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M910">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Islam</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Al-Majid</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Ghabbour</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Fun</surname>
+              <given-names>H-K.</given-names>
+            </name>
+            <name>
+              <surname>Javed</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Imad</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Wadood</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, in vitro biological activities and in silico study on dihydropyrimidines derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2015</year>
+          <volume>23</volume>
+          <fpage>6740</fpage>
+          <lpage>6748</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2015.09.001</pub-id>
+          <pub-id pub-id-type="pmid">26381063</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M910">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharma</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Narasimhan</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Ramasamy</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mani</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Majeed</surname>
+              <given-names>A.B.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antimicrobial, anticancer evaluation and QSAR studies of 6-methyl-4-[1-(2-substituted-phenylamino-acetyl)-1H-indol-3-yl]-2-oxo/thioxo-1,2,3,4-tetrahydropyrimidine-5-carboxylic acid ethyl esters</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>48</volume>
+          <fpage>16</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2011.11.028</pub-id>
+          <pub-id pub-id-type="pmid">22154835</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M910">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Majid</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Barakat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Al-Najjar</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Mabkhot</surname>
+              <given-names>Y.N.</given-names>
+            </name>
+            <name>
+              <surname>Ghabbour</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Fun</surname>
+              <given-names>H.-K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tandem Aldol-Michael reactions in aqueous diethylamine medium: A greener and efficient approach to bis-pyrimidine derivatives</article-title>
+          <source>Int. J. Mol. Sci.</source>
+          <year>2013</year>
+          <volume>14</volume>
+          <fpage>23762</fpage>
+          <lpage>23773</lpage>
+          <pub-id pub-id-type="doi">10.3390/ijms141223762</pub-id>
+          <pub-id pub-id-type="pmid">24317435</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M910">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A short history of SHELX</article-title>
+          <source>Acta Crystallogr.</source>
+          <year>2008</year>
+          <volume>A64</volume>
+          <fpage>112</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1107/S0108767307043930</pub-id>
+          <pub-id pub-id-type="pmid">18156677</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M910">
+        <label>17.</label>
+        <citation citation-type="other">
+		  <person-group person-group-type="author">
+            <collab>Brucker</collab>
+	      </person-group>		
+          <source>APEX2, SAINT and SADABS</source>
+          <publisher-name>Brucker AXS Inc.</publisher-name>
+          <publisher-loc>Madison, WI, USA</publisher-loc>
+          <year>2009</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures, Scheme and Tables</title>
+      <fig id="molbank-2016-M910-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M910-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the target compound.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M910-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M910-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The molecular structure of the target compound showing 40% probability displacement ellipsoids for non-H atoms.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M910-g001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M910-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>H-bonding network in the crystal structure of the title compound viewed as 3D network; dotted lines indicate intermolecular interactions.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M910-g002.tif"/>
+      </fig>
+      <table-wrap id="molbank-2016-M910-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M910-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Crystal data, data collection, and refinement.</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin"><bold>Crystal Data</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Chemical formula</td>
+              <td align="center" valign="middle">C<sub>19</sub>H<sub>19</sub>FN<sub>2</sub>O<sub>5</sub>&#xB7;H<sub>2</sub>O</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Mr</td>
+              <td align="center" valign="middle">392.38</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Crystal system, space group</td>
+              <td align="center" valign="middle">Monoclinic, <italic>P</italic>2<sub>1</sub>/<italic>c</italic></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Temperature (K)</td>
+              <td align="center" valign="middle">100 K</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><italic>a</italic>, <italic>b</italic>, <italic>c</italic> (&#xC5;)</td>
+              <td align="center" valign="middle">7.8630 (5), 20.0308 (13), 11.3987 (8)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&#x3B2; (&#xB0;)</td>
+              <td align="center" valign="middle">104.274 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><italic>V</italic> (&#xC5;<sup>3</sup>)</td>
+              <td align="center" valign="middle">1739.9 (2)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"><italic>Z</italic></td>
+              <td align="center" valign="middle">4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Radiation type</td>
+              <td align="center" valign="middle">Mo <italic>K</italic>&#x3B1;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">&#xB5; (mm<sup>&#x2212;1</sup>)</td>
+              <td align="center" valign="middle">0.12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Crystal size (mm)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.34 &#xD7; 0.22 &#xD7; 0.09</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin"><bold>Data Collection</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Diffractometer</td>
+              <td align="center" valign="middle">D8 Venture area detector</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">Absorption correction</td>
+              <td align="center" valign="middle">multi-scan, SADABS V2014/3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">No. of measured, independent, and observed [I &gt; 2&#x3C3;(I)] reflections</td>
+              <td align="center" valign="middle">18454, 3070, 1995</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">(sin &#x3B8;/&#x3BB;)<sub>max</sub> (&#xC5;<sup>&#x2212;1</sup>)</td>
+              <td align="center" valign="middle">0.594</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin"><italic>R<sub>int</sub></italic></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.117</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin"><bold>Refinement</bold></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">R[<italic>F<sup>2</sup></italic> &gt; 2&#x3C3;(<italic>F<sup>2</sup></italic>)], <italic>wR</italic>(<italic>F<sup>2</sup></italic>), <italic>S</italic></td>
+              <td align="center" valign="middle">0.055, 0.124, 1.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">No. of reflections</td>
+              <td align="center" valign="middle">3070</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">No. of parameters</td>
+              <td align="center" valign="middle">288</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">No. of restraints</td>
+              <td align="center" valign="middle">2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">H-atom treatment</td>
+              <td align="center" valign="middle">H atoms treated by a mixture of independent and constrained refinement</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">(&#x394;/&#x3C3;)<sub>max</sub></td>
+              <td align="center" valign="middle">1.208</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">&#x394;&#x3C1;<sub>max</sub>, &#x394;&#x3C1;<sub>min</sub> (e &#xC5;<sup>&#x2212;3</sup>)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.28, &#x2212;0.27</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2016-M910-t002" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M910-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>Selected geometric parameters (&#xC5;, &#xB0;).</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-top:solid thin">F1&#x2013;C16</td>
+              <td align="center" valign="middle" style="border-top:solid thin">1.344 (4)</td>
+              <td align="center" valign="middle" style="border-top:solid thin">N1&#x2013;C1</td>
+              <td align="center" valign="middle" style="border-top:solid thin">1.411 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">F1X&#x2013;C18</td>
+              <td align="center" valign="middle">1.268 (16)</td>
+              <td align="center" valign="middle">N1&#x2013;C2</td>
+              <td align="center" valign="middle">1.465 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O1&#x2013;C1</td>
+              <td align="center" valign="middle">1.243 (4)</td>
+              <td align="center" valign="middle">N1&#x2013;C3</td>
+              <td align="center" valign="middle">1.370 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O2&#x2013;C3</td>
+              <td align="center" valign="middle">1.229 (4)</td>
+              <td align="center" valign="middle">N2&#x2013;C4</td>
+              <td align="center" valign="middle">1.470 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O3&#x2013;C5</td>
+              <td align="center" valign="middle">1.306 (4)</td>
+              <td align="center" valign="middle">N2&#x2013;C5</td>
+              <td align="center" valign="middle">1.388 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O4&#x2013;C9</td>
+              <td align="center" valign="middle">1.324 (4)</td>
+              <td align="center" valign="middle">N2&#x2013;C3</td>
+              <td align="center" valign="middle">1.374 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O5&#x2013;C13</td>
+              <td align="center" valign="middle">1.257 (4)</td>
+              <td align="center" valign="middle"> </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C2&#x2013;N1&#x2013;C3</td>
+              <td align="center" valign="middle">116.9 (2)</td>
+              <td align="center" valign="middle">O3&#x2013;C5&#x2013;C6</td>
+              <td align="center" valign="middle">125.3 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C1&#x2013;N1&#x2013;C3</td>
+              <td align="center" valign="middle">124.3 (3)</td>
+              <td align="center" valign="middle">O3&#x2013;C5&#x2013;N2</td>
+              <td align="center" valign="middle">113.0 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C1&#x2013;N1&#x2013;C2</td>
+              <td align="center" valign="middle">118.7 (2)</td>
+              <td align="center" valign="middle">N2&#x2013;C5&#x2013;C6</td>
+              <td align="center" valign="middle">121.7 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C3&#x2013;N2&#x2013;C4</td>
+              <td align="center" valign="middle">118.5 (2)</td>
+              <td align="center" valign="middle">O4&#x2013;C9&#x2013;C10</td>
+              <td align="center" valign="middle">116.9 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C3&#x2013;N2&#x2013;C5</td>
+              <td align="center" valign="middle">121.9 (3)</td>
+              <td align="center" valign="middle">O4&#x2013;C9&#x2013;C8</td>
+              <td align="center" valign="middle">119.6 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C4&#x2013;N2&#x2013;C5</td>
+              <td align="center" valign="middle">119.4 (2)</td>
+              <td align="center" valign="middle">O5&#x2013;C13&#x2013;C12</td>
+              <td align="center" valign="middle">116.2 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O1&#x2013;C1&#x2013;N1</td>
+              <td align="center" valign="middle">117.7 (3)</td>
+              <td align="center" valign="middle">O5&#x2013;C13&#x2013;C8</td>
+              <td align="center" valign="middle">122.7 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O1&#x2013;C1&#x2013;C6</td>
+              <td align="center" valign="middle">125.3 (3)</td>
+              <td align="center" valign="middle">F1&#x2013;C16&#x2013;C15</td>
+              <td align="center" valign="middle">117.8 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">N1&#x2013;C1&#x2013;C6</td>
+              <td align="center" valign="middle">117.0 (3)</td>
+              <td align="center" valign="middle">F1&#x2013;C16&#x2013;C17</td>
+              <td align="center" valign="middle">118.4 (3)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O2&#x2013;C3&#x2013;N2</td>
+              <td align="center" valign="middle">121.3 (3)</td>
+              <td align="center" valign="middle">F1X&#x2013;C18&#x2013;C17</td>
+              <td align="center" valign="middle">114.7 (9)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">N1&#x2013;C3&#x2013;N2</td>
+              <td align="center" valign="middle">116.2 (3)</td>
+              <td align="center" valign="middle">F1X&#x2013;C18&#x2013;C19</td>
+              <td align="center" valign="middle">124.3 (9)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">O2&#x2013;C3&#x2013;N1</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">122.5 (3)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin"> </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="molbank-2016-M910-t003" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M910-t003_Table 3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <p>Hydrogen-bond geometry (&#xC5;, &#xB0;).</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin"><italic>D</italic>&#x2013;H&#xB7;&#xB7;&#xB7;<italic>A</italic></th>
+              <th align="center" valign="middle" style="border-top:solid thin"><italic>D</italic>&#x2013;H</th>
+              <th align="center" valign="middle" style="border-top:solid thin">H&#xB7;&#xB7;&#xB7;<italic>A</italic></th>
+              <th align="center" valign="middle" style="border-top:solid thin"><italic>D</italic>&#xB7;&#xB7;&#xB7;<italic>A</italic></th>
+              <th align="center" valign="middle" style="border-top:solid thin"><italic>D</italic>&#x2013;H&#xB7;&#xB7;&#xB7;<italic>A</italic></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">O1W&#x2013;H2OW&#xB7;&#xB7;&#xB7;O2 <sup>i</sup></td>
+              <td align="center" valign="middle">1.09 (6)</td>
+              <td align="center" valign="middle">1.74 (6)</td>
+              <td align="center" valign="middle">2.815 (3)</td>
+              <td align="center" valign="middle">171 (5)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O3&#x2013;H1O3&#xB7;&#xB7;&#xB7;O5</td>
+              <td align="center" valign="middle">1.02 (4)</td>
+              <td align="center" valign="middle">1.44 (4)</td>
+              <td align="center" valign="middle">2.454 (3)</td>
+              <td align="center" valign="middle">175 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O4&#x2013;H1O4&#xB7;&#xB7;&#xB7;O1W <sup>ii</sup></td>
+              <td align="center" valign="middle">1.01 (4)</td>
+              <td align="center" valign="middle">1.62 (4)</td>
+              <td align="center" valign="middle">2.622 (3)</td>
+              <td align="center" valign="middle">173 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O1W&#x2013;H1OW&#xB7;&#xB7;&#xB7;O1 <sup>iii</sup></td>
+              <td align="center" valign="middle">1.00 (3)</td>
+              <td align="center" valign="middle">1.92 (5)</td>
+              <td align="center" valign="middle">2.754 (3)</td>
+              <td align="center" valign="middle">138 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">O1W&#x2013;H1OW&#xB7;&#xB7;&#xB7;O4 <sup>iii</sup></td>
+              <td align="center" valign="middle">1.00 (3)</td>
+              <td align="center" valign="middle">2.34 (4)</td>
+              <td align="center" valign="middle">3.051 (3)</td>
+              <td align="center" valign="middle">127 (4)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">C2&#x2013;H2A&#xB7;&#xB7;&#xB7;F1 <sup>iv</sup></td>
+              <td align="center" valign="middle">0.9600</td>
+              <td align="center" valign="middle">2.4000</td>
+              <td align="center" valign="middle">3.300 (4)</td>
+              <td align="center" valign="middle">156.00</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">C11&#x2013;H11B&#xB7;&#xB7;&#xB7;O3 <sup>v</sup></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.9700</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2.5400</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3.288 (4)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">133.00</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Symmetry codes: (i) <italic>x, &#x2212;y</italic> + 1/2, <italic>z</italic> + 3/2; (ii) <italic>x, &#x2212;y</italic> + 1/2, <italic>z</italic>&#x2212;1/2; (iii) <italic>&#x2212;x, y</italic>&#x2212;1/2, <italic>&#x2212;z</italic> + 3/2; (iv) <italic>&#x2212;x, y</italic> + 1/2, <italic>&#x2212;z</italic> + 1/2; (v) <italic>x, &#x2212;y</italic> + 1/2, <italic>z</italic> + 1/2.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

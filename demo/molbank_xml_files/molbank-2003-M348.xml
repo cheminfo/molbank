@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M348</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M348</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6-[5-(9<italic>H</italic>-Fluoren-9-ylmethoxycarbonylamino)-isophthalate]-amido-6-deoxy- b-cyclodextrine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Graf</surname>
+            <given-names>Thorsten</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koenig</surname>
+            <given-names>Burkhard</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M348" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M348">Department of Organic Chemistry, Faculty of Science IV, University of Regensburg, Universit&#xE4;tsstrasse 31, 93051 Regensburg, Germany; Fax (+49) 941 943 171; E-mail: <email>burkhard.koenig@chemie.uni-regensburg.de</email></aff>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>07</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>4</issue>
+      <elocation-id>M348</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>31</day>
+          <month>03</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>06</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body> 
+  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M348-i001.tif"/></p>
+      <p>6-Amino-6-deoxy-b-cyclodextrine (<bold>1</bold>) was prepared according to the literature [<xref ref-type="bibr" rid="B1-molbank-2003-M348">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2003-M348">2</xref>] in a three step synthesis. The Fmoc protected 5-aminoisophthalic acid is prepared according to the following procedure. To a solution of 15 ml of dioxane and 40 ml of water containing 5-aminoisophthalic acid (500 mg, 2.76 mmol) and Na<sub>2</sub>CO<sub>3</sub> (878 mg, 8.28mmol) a solution of FmocCl (785 mg, 3.04 mmol) in 10 ml of dioxane was added dropwise at 0&#xB0; within 15 min. The mixture was stirred for 20 h at room temp., 2 M HCl solution was added until a pH of 2 is reached. The crude product was extracted with 250 ml of ethyl acetate. The organic phase was dried over Na<sub>2</sub>SO<sub>4</sub> and evaporated under reduced pressure. The residual was then stirred in 100 ml of methylene chloride for 2 h, filtered, washed with methylene chloride and dried under reduced pressure to yield 1.01 g (91%) of crude <bold>2 </bold>as a light brown powder.</p>
+      <p>To obtain the titled product <bold>3 </bold>a solution of DCC (66 mg, 0.32 mmol) and HOBT (43 mg, 0.32 mmol) in 20 ml of abs. DMF was added dropwise to a solution of <bold>2 </bold>(118 mg, 0.29 mmol) in 20 ml of abs. DMF under nitrogen atmosphere at 0&#xB0;C within 15 min. To this mixture a solution of <bold>1 </bold>(300 mg, 0.26 mmol) in 40 ml of abs. DMF was added dropwise within 15 min. After the mixture was stirred at room temp. for 18 h the solvent was removed at 40&#xB0;C under reduced pressure. The resulting residual was stirred in 75 ml of acetone for 2 h. The crude product was filtered, washed with acetone and dried under reduced pressure to yield 364 mg (92%) of the title compound <bold>3 </bold>as a light brown powder. The crude product was purified by preparative HPLC on a reverse phase column (column: Phenomenex; Luna 10 C18; solvent gradient: water /acetonitril from 0% CH<sub>3</sub>CN to 95%; flow rate: 10.5 ml/min; retention time of product: 9.3 min; detection: UV absorption 214 and 195 nm).</p>
+      <p>MP: thermal decomposition above 225&#xB0;C.</p>
+      <p>MS (-p ESI, DMSO/MeOH + 10 mmol/l NH<sub>4</sub>OAc): 647.4 (75%) [M-H-Fmoc]<sup>2-</sup>, 1295.9 (15%)</p>
+      <p>[M-Fmoc]<sup>-</sup>, 1518.2 (100%) [M-H]<sup>-</sup>.</p>
+      <p>UV/Vis (MeOH/H<sub>2</sub>O 1:1) lmax [nm] (lg e): 254.6 (5.353), 289.0 (4.777), 300.0 (4.847).</p>
+      <p><sup>1</sup>H-NMR (600 MHz): 3.25 - 3.86 (m, 42H, 7xCD-H2, 7xCD-H3, 7xCD-H4, 7xCD-H5, 7xCD-H6, 7xCD-H6'), 4.24 - 4.35 (m, 2H, 1xCD-6OH, H9), 4.42 - 4.51 (m, 7H, 5xCD-6OH, H8, H8'), 4.79 - 4.86 (m, 6H, 6xCD-H1), 4.96 (d, <sup>3</sup>J = 3.4 Hz, 1H, 1xCD-H1), 5.65 - 5.82 (m, 14H, 7xCD-2OH, 7xCD-3OH), 7.36 (dt, <sup>3</sup>J = 7.4 Hz, 4J = 0.9 Hz, 2H, H11, H11'), 7.43 (t, <sup>3</sup>J = 7.4 Hz, 2H, H12, H12'), 7.77 (d, <sup>3</sup>J = 7.4 Hz, 2H, H10, H10'), 7.91 (d, <sup>3</sup>J = 7.4 Hz, 2H, H13, H13'), 8.03 (s, 1H, H2), 8.08 (s, 1H, H4,), 8.30 (s, 1H, H6), 8.34 (s, 1H, CD-NH), 10.01 (s, 1H, NH), 13.10 (br, 2H, COOH). </p>
+      <p><sup>13</sup>C-NMR (150 MHz): 46.5 (+, C9), 59.4 (-, CD-C6), 59.5 (-, CD-C6), 59.7 (-, CD-C6), 59.9 (-, CD-C6), 65.7 (-, C8), 69.5 (+, CD-CH), 71.9 (+, CD-CH), 71.9 (+, CD-CH), 72.0 (+, CD-CH), 72.1 (+, CD-CH), 72.3 (+, CD-CH), 72.4 (+, CD-CH), 72.9 (+, CD-CH), 81.2 (+, CD-CH), 81.2 (+, CD-CH), 81.3 (+, CD-CH), 81.4 (+, CD-CH), 81.6 (+, CD-CH), 81.7 (+, CD-CH), 83.8 (+, CD-CH), 101.6 (+, CD-C1), 101.7 (+, CD-C1), 101.8 (+, CD-C1), 101.9 (+, CD-C1), 102.1 (+, CD-C1), 120.1 (+, C13, C13'), 121.1 (+, C6), 121.5 (+, C4), 121.9 (+, C2), 125.1 (+, C10, C10'), 127.0 (+, C11, C11'), 127.6 (+, C12, C12'), 135.5 (C<sub>quat</sub>, C1), 139.1 (C<sub>quat</sub>, C3), 140.7 (C<sub>quat</sub>, C14, C14'), 143.6 (C<sub>quat</sub>, C15, C15'), 153.3 (C<sub>quat</sub>, C7), 165.9 (C<sub>quat</sub>, C17), 166.8 (C<sub>quat</sub>, C16).</p>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>We thank the Wacker-Chemie GmbH Burghausen, Germany, for their support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M348">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsui</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Okimoto</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Chem. Soc. Jpn.</source>
+          <year>1978</year>
+          <volume>51</volume>
+          <fpage>3030</fpage>
+          <lpage>3034</lpage>
+          <pub-id pub-id-type="doi">10.1246/bcsj.51.3030</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M348">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamasaki</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ikeda</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Ueno</surname>
+              <given-names>A.</given-names>
+            </name>
+			<name>
+              <surname>Toda</surname>
+              <given-names>F.</given-names>
+            </name>
+			<name>
+              <surname>Suzuki</surname>
+              <given-names>I.</given-names>
+            </name>
+			<name>
+              <surname>Osa</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1993</year>
+          <volume>115</volume>
+          <fpage>5035</fpage>
+          <lpage>5040</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

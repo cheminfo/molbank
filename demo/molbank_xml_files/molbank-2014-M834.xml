@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M834</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M834</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>R</italic>)-(&#x2212;)-2-[(5-Oxido-5-phenyl-5&#x3BB;<sup>4</sup>-isoquino[4,3-<italic>c</italic>][2,1]benzothiazin-12-yl)amino]benzonitrile</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Frings</surname>
+            <given-names>Marcus</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Atodiresei</surname>
+            <given-names>Iuliana</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bolm</surname>
+            <given-names>Carsten</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M834" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M834">Institute of Organic Chemistry, RWTH Aachen University, Landoltweg 1, D-52074 Aachen, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M834"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>carsten.bolm@oc.rwth-aachen.de</email>; Fax: +29-241-80-92-391.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>08</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>3</issue>
+      <elocation-id>M834</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>07</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>08</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Copper-catalyzed cross-coupling between (<italic>S</italic>)-<italic>S</italic>-methyl-<italic>S</italic>-phenylsulfoximine (<bold>1</bold>) and 2-iodobenzonitrile (<bold>2</bold>) resulted in the discovery of an unprecedented one-pot triple arylation sequence to give (<italic>R</italic>)-(&#x2212;)-2-[(5-oxido-5-phenyl-5&#x3BB;<sup>4</sup>-isoquino[4,3-<italic>c</italic>][2,1]benzothiazin-12-yl)amino]benzonitrile (<bold>4</bold>). Here, we describe the synthesis of the title compound (<italic>R</italic>)-<bold>4</bold> and the elucidation of its structure by means of various techniques.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>sulfoximines</kwd>
+        <kwd>benzothiazines</kwd>
+        <kwd>arylation</kwd>
+        <kwd>copper catalysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Functionalized sulfoximines derived from (<italic>S</italic>)-<italic>S</italic>-methyl-<italic>S</italic>-phenylsulfoximine (<bold>1</bold>) are efficient chiral ligands in asymmetric metal catalysis [<xref ref-type="bibr" rid="B1-molbank-2014-M834">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M834">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M834">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M834">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2014-M834">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M834">6</xref>]. Key step to access these compounds is the transition-metal catalyzed <italic>N</italic>-arylation reaction of (<italic>S</italic>)-<bold>1</bold> with a suitable aryl halide. For an ongoing project towards novel sulfonimidoyl-based ligands we required (<italic>S</italic>)-<italic>N</italic>-(2-cyanophenyl)-<italic>S</italic>-methyl-<italic>S</italic>-phenylsulfoximine (<bold>3</bold>) in larger quantities. Originally, syntheses of (<italic>S</italic>)- and (<italic>R</italic>)-<bold>3</bold> had only been achieved by palladium-catalyzed cross-couplings of the corresponding enantiopure sulfoximine <bold>1</bold> with 2-bromo- or 2-chlorobenzonitrile, respectively, [<xref ref-type="bibr" rid="B7-molbank-2014-M834">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M834">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2014-M834">9</xref>]. Now it was envisaged to utilize a copper-catalyzed protocol [<xref ref-type="bibr" rid="B10-molbank-2014-M834">10</xref>] for the preparation of (<italic>S</italic>)-<bold>3</bold> starting from 2-iodobenzonitrile (<bold>2</bold>). To our surprise, application of this copper-based system also furnished a novel compound [(<italic>R</italic>)-(&#x2212;)-2-[(5-oxido-5-phenyl-5&#x3BB;<sup>4</sup>-isoquino[4,3-<italic>c</italic>][2,1]benzothiazin-12-yl)amino]benzonitrile (<bold>4</bold>)], which was formed by an unexpected triple arylation cascade with aryl iodide <bold>2</bold> under these conditions.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Following the reported procedure [<xref ref-type="bibr" rid="B10-molbank-2014-M834">10</xref>], the <italic>N</italic>-arylation of sulfoximine (<italic>S</italic>)-<bold>1</bold> was carried out with 2-iodobenzonitrile (<bold>2</bold>), cesium carbonate, and catalytic quantities of copper(I) iodide and <italic>N</italic>,<italic>N</italic>'-dimethylethylenediamine (DMEDA) in toluene (<xref ref-type="scheme" rid="molbank-2014-M834-sch001">Scheme 1</xref>). However, arylation product (<italic>S</italic>)-<bold>3</bold> was only obtained in 61% yield and a considerable amount (23%) of an unknown second compound was isolated. By diligent examination of all analytical data this product was identified as title compound (<italic>R</italic>)-<bold>4</bold>.</p>
+      <p>The unknown second compound was optically active which evidenced the retention of a stereogenic center at sulfur whose full stereochemical integrity could be confirmed by CSP-HPLC analysis. The IR spectrum unambiguously demonstrated the presence of a sulfonimidoyl moiety by displaying classificatory absorption bands at 1241 and 1149 cm<sup>&#x2212;1</sup> for the S=O and S=N vibration, respectively [<xref ref-type="bibr" rid="B11-molbank-2014-M834">11</xref>]. Absorption bands at 3258 and 2221 cm<sup>&#x2212;1</sup> were attributed to an amino and a nitrile group, respectively. Furthermore, three typical absorption bands at 1601, 1572 and 1515 cm<sup>&#x2212;1</sup> showed vibrations of aromatic C=C bonds with diagnostic bands at 754 and 681 cm<sup>&#x2212;1</sup> indicating both mono-substitution and 1,2-disubstitution of aromatic rings. The <sup>1</sup>H NMR spectrum taken in CDCl<sub>3</sub> consisted of 18 largely coupled sharp signals in the region of 7.11&#x2013;8.81 ppm for carbon- and nitrogen-bound protons (the latter resonating at 10.51 ppm in d<sub>6</sub>-DMSO). Importantly, the S-C<italic>H</italic><sub>3</sub> singlet, typically around 3.20&#xA0;ppm, was not present anymore, indicating a full substitution of the corresponding carbon atom. The <sup>13</sup>C NMR spectrum recorded in CDCl<sub>3</sub> showed 11 quaternary carbons (with the nitrile carbon at 117.5 ppm) and 17 aromatic <italic>C</italic>-H groups. Consequently, the NMR data suggested a notably asymmetric molecular structure. All available mass spectrometric techniques provided a molar mass of 458 g mol<sup>&#x2212;1</sup> for the unknown compound. From a combustion analysis an elemental composition of C<sub>28</sub>H<sub>18</sub>N<sub>4</sub>OS was deduced which also supported the result of the MS experiments. Based on all these individual findings, the unknown compound was proposed to be (<italic>R</italic>)-(&#x2212;)-2-[(5-oxido-5-phenyl-5&#x3BB;<sup>4</sup>-isoquino[4,3-<italic>c</italic>][2,1]benzothiazin-12-yl)amino]benzonitrile (<bold>4</bold>). Finally, this assumption was unequivocally confirmed by X-ray crystal structure analysis of (<italic>R</italic>)-<bold>4</bold> after recrystallization from acetonitrile (<xref ref-type="fig" rid="molbank-2014-M834-f001">Figure 1</xref>).</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>A large, flame-dried Schlenk tube under argon was charged with sulfoximine (<italic>S</italic>)-<bold>1</bold> (0.897 g, 5.78 mmol), 2-iodobenzonitrile (<bold>2</bold>, 2.730 g, 11.56 mmol, 2.0 equiv.), Cs<sub>2</sub>CO<sub>3</sub> (4.710 g, 14.45 mmol, 2.5 equiv.), CuI (0.110 g, 0.578 mmol, 10 mol%), dry toluene (12 mL) and DMEDA (126 &#xB5;L, 1.16 mmol, 20 mol%) in the order given. After the Schlenk tube was tightly sealed with a stopper, the reaction mixture was stirred at 110 &#xB0;C for 24 h and then cooled down to room temperature. DCM and aqueous HCl (<italic>c</italic> = 2 mol/L) were added. The organic phase was separated and the product was extracted from the aqueous layer with DCM three times. The combined organic phases were dried with MgSO<sub>4</sub> and filtered. After evaporation of solvents, the oily residue was subjected to column chromatography (SiO<sub>2</sub>, <italic>n</italic>-pentane/EtOAc = 2/1). Product (<italic>R</italic>)-<bold>4</bold> was isolated as a yellow solid. Additionally, sulfoximine (<italic>S</italic>)-<bold>3</bold> was separately obtained as a yellow oil (61% yield, 0.899 g, 3.51 mmol).</p>
+      <p>Yield: 23% (0.616 g, 1.34 mmol); mp = 211&#x2013;212 &#xB0;C (racemate: 263&#x2013;265 &#xB0;C); [<italic>&#x3B1;</italic>] = &#x2212;57.7 (c = 0.6 g, 100 mL<sup>&#x2212;1</sup>, CHCl<sub>3</sub>); <sup>1</sup>H NMR (600 MHz, CDCl<sub>3</sub>): <italic>&#x3B4;</italic> = 7.11 (ddd, <italic>J</italic> = 8.2 Hz, 7.1 Hz, 1.2 Hz, 1H, Ar-H), 7.25 (dd, <italic>J</italic> = 8.0 Hz, 1.1 Hz, 1H, Ar-H), 7.27 (td, <italic>J</italic> = 7.6 Hz, 1.0 Hz, 1H, Ar-H), 7.42&#x2013;7.50 (m, 3H, Ar-H), 7.50&#x2013;7.58 (m, 3H, Ar-H), 7.70 (dd, <italic>J</italic> = 7.8 Hz, 1.5 Hz, 1H, Ar-H), 7.78 (ddd, <italic>J</italic> = 8.8 Hz, 7.5 Hz, 1.6 Hz, 1H, Ar-H), 7.87&#x2013;7.90 (m, 2H, Ar-H), 8.07 (dd, <italic>J</italic> = 7.6 Hz, 1.6 Hz, 1H, Ar-H), 8.19&#x2013;8.24 (m, 2H, Ar-H and NH), 8.50 (dd, <italic>J</italic> = 8.1 Hz, 1.5 Hz, 1H, Ar-H), 8.81 (d, <italic>J</italic> = 8.4 Hz, 1H, Ar-H) ppm; <sup>13</sup>C NMR (150 MHz, CDCl<sub>3</sub>): <italic>&#x3B4;</italic> = 103.4 (C), 105.5 (Ar-C), 116.9 (Ar-C), 117.5 (C), 118.4 (Ar-C), 120.3 (Ar-CH), 121.8 (Ar-CH), 122.3 (Ar-CH), 123.6 (Ar-CH), 123.8 (Ar-CH), 124.8 (Ar-CH), 125.9 (Ar-CH), 127.6 (Ar-CH), 127.7 (2 Ar-CH), 129.0 (2 Ar-CH), 132.0 (2 Ar-CH), 132.4 (Ar-CH), 132.5 (Ar-C), 132.8 (Ar-CH), 133.9 (Ar-CH), 141.7 (Ar-C), 144.0 (Ar-C), 144.2 (Ar-C), 148.0 (C), 153.2 (C) ppm; <sup>1</sup>H NMR [600 MHz, (CD<sub>3</sub>)<sub>2</sub>SO]: <italic>&#x3B4;</italic> = 6.98 (ddd, <italic>J</italic> = 8.2 Hz, 7.2 Hz, 1.1 Hz, 1H, Ar-H), 7.11 (dd, <italic>J</italic> = 8.1 Hz, 0.8 Hz, 1H, Ar-H), 7.40 (ddd, <italic>J</italic> = 8.6 Hz, 7.2 Hz, 1.6 Hz, 1H, Ar-H), 7.53 (td, <italic>J</italic> = 7.7 Hz, 1.0 Hz, 1H, Ar-H), 7.56&#x2013;7.60 (m, 2H, Ar-H), 7.60&#x2013;7.64 (m, 1H, Ar-H), 7.67&#x2013;7.73 (m, 2H, Ar-H), 7.80 (d, <italic>J</italic> = 8.0 Hz, 1H, Ar-H), 7.84&#x2013;7.88 (m, 3H, Ar-H), 8.04 (dd, <italic>J</italic> = 7.8 Hz, 1.4 Hz, 1H, Ar-H), 8.12 (dd, <italic>J</italic> = 7.7 Hz, 1.8 Hz, 1H, Ar-H), 8.18 (dd, <italic>J</italic> = 8.1 Hz, 1.5 Hz, 1H, Ar-H), 8.68 (dd, <italic>J</italic> = 7.5 Hz, 1.7 Hz, 1H, Ar-H), 10.51 (s, 1H, NH) ppm; <sup>13</sup>C NMR [150 MHz, (CD<sub>3</sub>)<sub>2</sub>SO]: <italic>&#x3B4;</italic> = 103.5 (C), 110.2 (Ar-C), 117.0 (Ar-C), 117.4 (C), 118.0 (Ar-C), 119.7 (Ar-CH), 122.6 (Ar-CH), 123.6 (Ar-CH), 124.5 (Ar-CH), 125.6 (Ar-CH), 126.2 (Ar-CH), 127.1 (2 Ar-CH), 127.3 (Ar-CH), 127.4 (Ar-CH), 129.3 (2 Ar-CH), 131.7 (Ar-C), 131.8 (Ar-CH), 132.2 (Ar-CH), 133.0 (Ar-CH), 133.1 (Ar-CH), 133.9 (Ar-CH), 141.9 (Ar-C), 143.7 (Ar-C), 144.0 (Ar-C), 147.4 (C), 155.6 (C) ppm; IR (ATR): <italic>&#x3BD;</italic> = 3640, 3258, 2324, 2221, 2020, 1980, 1936, 1601, 1572, 1546, 1515, 1484, 1459, 1422, 1376, 1333, 1277, 1241, 1206, 1149, 1092, 1038, 1009, 976, 844, 794, 754, 720, 681 cm<sup>&#x2212;1</sup>; EI-MS: <italic>m</italic>/<italic>z</italic> (%) = 458 (100) [M]<sup>+</sup>, 410 (15), 381 (22), 357 (9), 333 (62), 102 (6), 77 (12), 51 (10); CI-MS: <italic>m</italic>/<italic>z</italic> (%) = 499 (3) [M+C<sub>3</sub>H<sub>5</sub>]<sup>+</sup>, 487 (16) [M+C<sub>2</sub>H<sub>5</sub>]<sup>+</sup>, 459 (100) [M+H]<sup>+</sup>, 358 (7); ESI-MS: <italic>m</italic>/<italic>z</italic> (%) = 939 (9) [2M+Na]<sup>+</sup>, 497 (8) [M+K]<sup>+</sup>, 481 (24) [M+Na]<sup>+</sup>, 459 (42) [M+H]<sup>+</sup>, 358 (100); ESI-HRMS: <italic>m</italic>/<italic>z</italic> calcd for C<sub>28</sub>H<sub>19</sub>N<sub>4</sub>OS: 459.12741; found 459.12793 with &#x2206; = 1.14 ppm; anal. calcd for C<sub>28</sub>H<sub>18</sub>N<sub>4</sub>OS (458.54): C, 73.34; H, 3.96; N, 12.22; found C, 73.44; H, 4.09; N, 12.30; HPLC: <italic>t</italic><sub>r</sub> = 16.8 min [major], <italic>t</italic><sub>r</sub> = 25.2 min [minor] (Chiralpak AD-H, 0.6 mL min<sup>&#x2212;1</sup>, <italic>n</italic>-heptane/isopropanol = 60/40, &#x3BB; = 230 nm, 20 &#xB0;C); &gt;99% ee.</p>
+      <p>Crystallographic data were collected with a Bruker Kappa APEX II CCD-diffractometer with monochromatic Mo&#x2013;K<italic>&#x3B1;</italic> radiation (&#x3BB; = 0.71073 &#xC5;) and a CCD detector. The structure was solved by direct methods using SHELXS-97 and refined against F2 on all data by full-matrix least-squares methods using SHELXL-97 [<xref ref-type="bibr" rid="B13-molbank-2014-M834">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2014-M834">14</xref>].</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M834">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M834-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M834-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2014-M834-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M834-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Ingo Schiffers, Wolfgang Bettray and Christoph R&#xE4;uber (all RWTH Aachen University) are kindly acknowledged for stimulating discussions.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>M.F. performed the experimental work and product characterization. I.A. collected the X-ray data and determined the structure. M.F. prepared the manuscript with contributions from all authors. The overall project management was done by C.B.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2014-M834">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Simi&#x107;</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Highly Enantioselective Hetero-Diels-Alder Reactions Catalyzed by a <italic>C</italic><sub>2</sub>-Symmetric Bis(sulfoximine) Copper(II) Complex</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2001</year>
+          <volume>123</volume>
+          <fpage>3830</fpage>
+          <lpage>3831</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja004261k</pub-id>
+          <pub-id pub-id-type="pmid">11457120</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M834">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Langner</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic><sub>1</sub>-Symmetric Sulfoximines as Ligands in Copper-Catalyzed Asymmetric Mukaiyama-Type Aldol Reactions</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2004</year>
+          <volume>43</volume>
+          <fpage>5984</fpage>
+          <lpage>5987</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200460953</pub-id>
+          <pub-id pub-id-type="pmid">15547912</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M834">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moessner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diphenylphosphanylsulfoximines as Ligands in Iridium-Catalyzed Asymmetric Imine Hydrogenations</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2005</year>
+          <volume>44</volume>
+          <fpage>7564</fpage>
+          <lpage>7567</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200502482</pub-id>
+          <pub-id pub-id-type="pmid">16217733</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M834">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sedelmeier</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hammerer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic><sub>1</sub>-Symmetric Oxazolinyl Sulfoximines as Ligands in Copper-Catalyzed Asymmetric Mukaiyama Aldol Reactions</article-title>
+          <source>Org. Lett.</source>
+          <year>2008</year>
+          <volume>10</volume>
+          <fpage>917</fpage>
+          <lpage>920</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol703065x</pub-id>
+          <pub-id pub-id-type="pmid">18225911</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M834">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>S.-M.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Sulfoximine-Derived <italic>P</italic>,<italic>N</italic> Ligands and their Applications in Asymmetric Quinoline Hydrogenations</article-title>
+          <source>Adv. Synth. Catal.</source>
+          <year>2008</year>
+          <volume>350</volume>
+          <fpage>1101</fpage>
+          <lpage>1105</lpage>
+          <pub-id pub-id-type="doi">10.1002/adsc.200800068</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M834">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frings</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Atodiresei</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Runsink</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Raabe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>C</italic><sub>1</sub>-Symmetric Aminosulfoximines in Copper-Catalyzed Asymmetric Vinylogous Mukaiyama Aldol Reactions</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2010</year>
+          <volume>16</volume>
+          <fpage>4577</fpage>
+          <lpage>4587</lpage>
+          <pub-id pub-id-type="doi">10.1002/chem.200903077</pub-id>
+          <pub-id pub-id-type="pmid">20229533</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M834">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hildebrand</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-Catalyzed Carbon-Nitrogen Bond Formation: A Novel, Catalytic Approach towards <italic>N</italic>-Arylated Sulfoximines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>5731</fpage>
+          <lpage>5734</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(98)01199-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M834">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hildebrand</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium-Catalyzed <italic>N</italic>-Arylation of Sulfoximines with Aryl Bromides and Aryl Iodides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2000</year>
+          <volume>65</volume>
+          <fpage>169</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo991342u</pub-id>
+          <pub-id pub-id-type="pmid">10813912</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M834">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harmata</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Ghosh</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-Assisted <italic>N</italic>-Arylation of a Sulfoximine with Aryl Chlorides</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>5233</fpage>
+          <lpage>5236</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2004.05.027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M834">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sedelmeier</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bolm</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient Copper-Catalyzed <italic>N</italic>-Arylation of Sulfoximines with Aryl Iodides and Aryl Bromides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2005</year>
+          <volume>70</volume>
+          <fpage>6904</fpage>
+          <lpage>6906</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo051066l</pub-id>
+          <pub-id pub-id-type="pmid">16095312</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M834">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidbaur</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kammel</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Einfache und ergiebige Darstellungsmethoden f&#xFC;r <italic>N</italic>-alkylierte Sulfoximide (Alkylimino-oxo-dialkyl-sulfurane)</article-title>
+          <source>Chem. Ber.</source>
+          <year>1971</year>
+          <volume>104</volume>
+          <fpage>3234</fpage>
+          <lpage>3240</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19711041029</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M834">
+        <label>12.</label>
+		<note>
+		<p>CCDC 1014340 contains the supplementary crystallographic data for this paper. These data can be obtained free of charge from The Cambridge Crystallographic Data Centre via <uri>http://www.ccdc.cam.ac.uk/data_request/cif</uri>.</p>
+		</note>
+      </ref>
+      <ref id="B13-molbank-2014-M834">
+        <label>13.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <source>SHELXS/L-97, Programs for the Solution and Refinement of Crystal Structures</source>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>G&#xF6;ttingen, Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M834">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A short history of <italic>SHELX</italic></article-title>
+          <source>Acta Cryst.</source>
+          <year>2008</year>
+          <volume>A64</volume>
+          <fpage>112</fpage>
+          <pub-id pub-id-type="doi">10.1107/S0108767307043930</pub-id>
+          <pub-id pub-id-type="pmid">18156677</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2014-M834-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M834-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of (<italic>R</italic>)-(&#x2212;)-2-[(5-oxido-5-phenyl-5&#x3BB;<sup>4</sup>-isoquino[4,3-<italic>c</italic>][2,1]benzothiazin-12-yl)amino]benzonitrile (<bold>4</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M834-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2014-M834-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>ORTEP projection of (<italic>R</italic>)-<bold>4</bold> obtained by single-crystal X-ray diffraction with ellipsoids shown at 50% probability level (one associated molecule of acetonitrile omitted for clarity) [<xref ref-type="bibr" rid="B12-molbank-2014-M834">12</xref>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M834-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

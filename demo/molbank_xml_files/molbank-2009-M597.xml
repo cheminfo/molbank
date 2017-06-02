@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M597</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M597</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 3-[2-(4-Chlorobenzylidene)hydrazino]-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naqvi</surname>
+            <given-names>Arshi</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M597" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M597" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shahnawaaz</surname>
+            <given-names>Mohd</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M597" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rao</surname>
+            <given-names>Arikatla V.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M597" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seth</surname>
+            <given-names>Daya S.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M597" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharma</surname>
+            <given-names>Nawal K.</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M597" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M597"><label>1</label>Department of Chemistry, School of Chemical Sciences, St. John's College, Agra-282002, India.</aff>
+      <aff id="af2-molbank-2009-M597"><label>2</label>Department of Bioengineering, University of Pittsburgh, 260 Kappa Drive, RIDC Park, Pittsburgh, PA 15234 , USA.</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M597"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>arshi_84@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M597</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>03</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>3-Hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide has been used as a synthon for the preparation of 3-[2-(4-chlorobenzylidene)hydrazino]-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>malonamic acid hydrazide</kwd>
+        <kwd>hydrazone formation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The full therapeutic possibilities of hydrazides were realized after the discovery of isonicotinic acid hydrazide (INH). Hydrazides and their derivatives have been described as useful synthons of various heterocyclic rings [<xref ref-type="bibr" rid="B1-molbank-2009-M597">1</xref>]. Hydrazide-hydrazones have been reported to possess a wide variety of pharmacological activities such as anti-bacterial [<xref ref-type="bibr" rid="B2-molbank-2009-M597">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M597">3</xref>], anti-convulsant [<xref ref-type="bibr" rid="B4-molbank-2009-M597">4</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B5-molbank-2009-M597">5</xref>], anti-tubercular [<xref ref-type="bibr" rid="B6-molbank-2009-M597">6</xref>], intestinal antiseptic [<xref ref-type="bibr" rid="B2-molbank-2009-M597">2</xref>], anti-depressant [<xref ref-type="bibr" rid="B7-molbank-2009-M597">7</xref>], or anti-platelet activity [<xref ref-type="bibr" rid="B8-molbank-2009-M597">8</xref>]. The aroyl hydrazone chelator, 2-hydroxy-1-naphthylaldehyde isonicotinoyl hydrazone, showed greater anti-malarial activity than desferrioxamine against chloroquine-resistant and sensitive parasites [<xref ref-type="bibr" rid="B9-molbank-2009-M597">9</xref>]. 3- and 5-methylthiophene-2-carboxaldehyde-&#x3B1;-(<italic>N</italic>)-heterocyclic hydrazone derivatives exhibited tumor growth inhibition activity against various cell lines at GI<sub>50</sub> values between 1.63 and 26.5 &#x3BC;M [<xref ref-type="bibr" rid="B10-molbank-2009-M597">10</xref>]. Hydrazones are often mentioned among the most effective charge transporting low molecular weight materials used in electrophotography, due to their excellent hole-transporting properties and relatively simple synthesis [<xref ref-type="bibr" rid="B11-molbank-2009-M597">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2009-M597">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2009-M597">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M597">14</xref>]. </p>
+      <p>These properties prompted us to synthesize this new malonamic acid hydrazone shown below.</p>
+	  <disp-formula id='molbank-2009-M597-i001'>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M597-i001.tif"/>
+		</disp-formula>
+      <p>A mixture of 3-Hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide (<bold>I</bold>) [<xref ref-type="bibr" rid="B15-molbank-2009-M597">15</xref>] (0.272 g, 0.001 mol) and 4-chlorobenzaldehyde (<bold>II</bold>) (0.140 g, 0.001 mol) in absolute ethanol (10 ml) was gently refluxed for two hours. On cooling, a white crystalline solid was obtained and it was purified by recrystallization from hot ethanol. On analysis, it was found to be 3-[2-(4-Chlorobenzylidene)hydrazino]-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide (<bold>III</bold>). Yield: 81.3%</p>
+      <p>M.p. 162<sup>o</sup>C</p>
+      <p>IR (KBr):  3301, 3022, 2932, 1647, 1537, 1363, 1049, 670 cm<sup>&#x2013;1</sup>.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4; 4.23 (s, 2H, -NH<sub>2</sub>),  3.32 (s, 2H, -CH<sub>2</sub>),  7.49-7.97 (m, 8H, Ar-H),  8.37 (s, 1H, -CONH), 8.71 (s, 1H, -CH), 9.04 (s, 1H, -CONH).</p>
+      <p>MS: Base peak <italic>m/z</italic> 377. </p>
+	  <list list-type="simple">
+	  <list-item>
+		<label>Elemental analysis:</label>
+		<p>Calcd for C<sub>16</sub>H<sub>15</sub>N<sub>4</sub>O<sub>4</sub>SCl (394.5): C, 48.66%; H, 3.80%; N, 14.19%.</p>
+		<p>Found: C, 48.69%; H, 3.76 %; N, 14.21%.</p>
+	  </list-item>
+	</list>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M597">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2009-M597-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M597-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2009-M597-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M597-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>The authors thank the Central Drug Research Institute (CDRI), Lucknow for spectral and elemental analysis.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M597">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polanc</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Application of Hydrazides and Related Compounds for the Synthesis of Heterocycles</article-title>
+          <source>Targets  Heterocycl. Syst.</source>
+          <year>1999</year>
+          <volume>3</volume>
+          <fpage>33</fpage>
+          <lpage>91</lpage>
+		  <comment>[<italic>Chem. Abstr</italic>. 2000, <italic>133,</italic> 237877u]</comment>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M597">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rollas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gulerman</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Erdeniz</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antimicrobial Activity of Some New Hydrazones of 4-Fluorobenzoic Acid Hydrazide and 3-Acetyl-2,5-disubstituted-1,3,4-oxadiazolines</article-title>
+          <source>Farmaco</source>
+          <year>2002</year>
+          <volume>57</volume>
+          <fpage>171</fpage>
+          <lpage>174</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0014-827X(01)01192-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M597">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Habib</surname>
+              <given-names>N. S.</given-names>
+            </name>
+            <name>
+              <surname>Issa</surname>
+              <given-names>A. S.</given-names>
+            </name>
+            <name>
+              <surname>Rida</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name>
+              <surname>Ashour</surname>
+              <given-names>F. A.</given-names>
+            </name>
+            <name>
+              <surname>Tawil</surname>
+              <given-names>G. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Alkyloxybenzamide Derivatives as Potential Antimicrobial Agents</article-title>
+          <source>Pharmazie</source>
+          <year>1986</year>
+          <volume>41</volume>
+          <fpage>761</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="pmid">3562508</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M597">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Vashishtha</surname>
+              <given-names>S. C.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anticonvulsant Properties of Various Acetylhydrazones, Oxamoylhydrazones and Semicarbazones Derived from Aromatic and Unsaturated Carbonyl Compounds</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>241</fpage>
+          <lpage>248</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(00)00123-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M597">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalsi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pande</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bhalla</surname>
+              <given-names>T. N.</given-names>
+            </name>
+            <name>
+              <surname>Barthwal</surname>
+              <given-names>J. P.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>G. P.</given-names>
+            </name>
+            <name>
+              <surname>Parmar</surname>
+              <given-names>S. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antiinflammatory Activity of Quinazolinoformazans</article-title>
+          <source>J. Pharm. Sci.</source>
+          <year>1990</year>
+          <volume>79</volume>
+          <fpage>317</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="doi">10.1002/jps.2600790409</pub-id>
+          <pub-id pub-id-type="pmid">2352142</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M597">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kucukguzel</surname>
+              <given-names>S. G.</given-names>
+            </name>
+            <name>
+              <surname>Mazi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sahin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ozturk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Biological Activities of Diflunisal Hydrazide-hydrazones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2003</year>
+          <volume>38</volume>
+          <fpage>1005</fpage>
+          <lpage>1013</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2003.08.004</pub-id>
+          <pub-id pub-id-type="pmid">14642333</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M597">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ergen&#xE7;</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;nay</surname>
+              <given-names>N. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antidepressant evaluation of new 3-phenyl-5-sulfonamidoindole derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>1998</year>
+          <volume>33</volume>
+          <fpage>143</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(98)80039-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M597">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraga</surname>
+              <given-names>A. G. M.</given-names>
+            </name>
+            <name>
+              <surname>Rodrigues</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>Miranda</surname>
+              <given-names>A. L. P.</given-names>
+            </name>
+            <name>
+              <surname>Barreiro</surname>
+              <given-names>E. J.</given-names>
+            </name>
+            <name>
+              <surname>Fraga</surname>
+              <given-names>C. A. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Pharmacological evaluation of novel heterocyclic acylhydrazone derivatives, designed as PAF Antagonists</article-title>
+          <source>Eur. J. Pharm. Sci.</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>285</fpage>
+          <lpage>290</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0928-0987(00)00102-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M597">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walcourt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Loyevsky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lovejoy</surname>
+              <given-names>D. B.</given-names>
+            </name>
+            <name>
+              <surname>Gordeuk</surname>
+              <given-names>V. R.</given-names>
+            </name>
+            <name>
+              <surname>Richardson</surname>
+              <given-names>D. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel aroylhydrazone and thiosemicarbazone iron chelators with anti-malarial activity against chloroquine-resistant and -sensitive parasites</article-title>
+          <source>Int. J. Biochem. Cell Biol.</source>
+          <year>2004</year>
+          <volume>36</volume>
+          <fpage>401</fpage>
+          <lpage>407</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1357-2725(03)00248-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M597">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Savini</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Chiasserini</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Travagli</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Pellerano</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Novellino</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cosentino</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pisano</surname>
+              <given-names>M. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>New &#x3B1;-heterocyclic hydrazones: evaluation of anticancer, anti-HIV and antimicrobial activity</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>39</volume>
+          <fpage>113</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2003.09.012</pub-id>
+          <pub-id pub-id-type="pmid">14987820</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M597">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mort</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pfister</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Electronic Properties of Polymers</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1982</year>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2009-M597">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#xF6;bler</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Weder</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Neuenschwander</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Suter</surname>
+              <given-names>U.W.</given-names>
+            </name>
+            <name>
+              <surname>Follonier</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bosshard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;nter</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Characterization of New Photorefractive Polymers with High Glass Transition Temperatures</article-title>
+          <source>Macromolecules</source>
+          <year>1998</year>
+          <volume>31</volume>
+          <fpage>6184</fpage>
+          <lpage>6189</lpage>
+          <pub-id pub-id-type="doi">10.1021/ma980080f</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2009-M597">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nam</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>S. Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Hole-Transporting Hydrazone Dendrimers</article-title>
+          <source>Chem. Lett.</source>
+          <year>2000</year>
+          <volume>11</volume>
+          <fpage>1298</fpage>
+          <lpage>1299</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.2000.1298</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2009-M597">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simokaitiene</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Danilevicius</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Grigalevicius</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Grazulevicius</surname>
+              <given-names>J. V.</given-names>
+            </name>
+            <name>
+              <surname>Getautis</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Jankauskas</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phenotiazinyl-based hydrazones as new hole-transporting materials for electrophotographic photoreceptors</article-title>
+          <source>Synthetic Metals</source>
+          <year>2006</year>
+          <volume>156</volume>
+          <fpage>926</fpage>
+          <lpage>931</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.synthmet.2006.05.011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2009-M597">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naqvi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shahnawaaz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>A. V.</given-names>
+            </name>
+            <name>
+              <surname>Seth</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>N. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel Hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)-propanamide</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <elocation-id>M586</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/M586</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

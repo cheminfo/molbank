@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M732</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M732</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-{[(4-Iodophenyl)imino]methyl}phenyl Octadecanoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ha</surname>
+            <given-names>Sie-Tiong</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M732" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M732" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Teck-Leong</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M732" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Win</surname>
+            <given-names>Yip-Foo</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M732" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yeap</surname>
+            <given-names>Guan-Yeow</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M732" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M732"><label>1</label>Department of Chemical Science, Faculty of Science, Universiti Tunku Abdul Rahman, Jln Universiti, Bandar Barat, 31900 Kampar, Perak, Malaysia</aff>
+      <aff id="af2-molbank-2011-M732"><label>2</label>Liquid Crystal Research Laboratory, School of Chemical Sciences, Universiti Sains Malaysia, 11800 Minden, Penang, Malaysia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M732"><label>*</label> Author to whom correspondence should be addressed; E-Mails: <email>hast_utar@yahoo.com</email> or <email>hast@utar.edu.my</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>08</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>3</issue>
+      <elocation-id>M732</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>06</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new Schiff base ester, 4-{[(4-iodophenyl)imino]methyl}phenyl octadecanoate was synthesized and its IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and EI-MS spectroscopic data are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Schiff base</kwd>
+        <kwd>liquid crystal</kwd>
+        <kwd>4-{[(4-iodophenyl)imino]methyl}phenyl octadecanoate</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Liquid crystalline materials have many practical applications in scientific and technological areas, in particular as display devices, organic light emitting diodes, anisotropic networks, photoconductors and semiconductor materials [<xref ref-type="bibr" rid="B1-molbank-2011-M732">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M732">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M732">3</xref>]. High demand of new liquid crystals for applications has led to the preparation and study of numerous mesogens in particular, thermotropic liquid crystals [<xref ref-type="bibr" rid="B4-molbank-2011-M732">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M732">5</xref>]. In our previous studies, the results revealed that azomethine and ester groups are useful connecting units for generating mesomorphism in thermotropic liquid crystals with two and three aromatic rings. Aromatic azomethine ester comprising of different polarity of substituents has been known to either promote or suppress the mesomorphic properties [<xref ref-type="bibr" rid="B6-molbank-2011-M732">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M732">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M732">8</xref>]. As a continuation of our previous work, Schiff base esters and iodo terminal moieties are incorporated to form a new compound, 4-{[(4-iodophenyl)imino]methyl}phenyl octadecanoate.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Analytical data were obtained on Perkin Elmer 2400 LS series CHNS/O analyzers. Electron impact mass spectra (EI-MS) were recorded by Hewlett Packard 5989A Mass Spectrometer operating at 70 eV ionizing energy. FT-IR data were recorded on a Perkin Elmer 2000-FTIR spectrophotometer. NMR spectra were recorded in CDCl<sub>3</sub> on a Bruker 400 MHz Ultrashield Spectrometer.</p>
+	  <fig id="molbank-2011-M732-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M732-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-{[(4-iodophenyl)imino]methyl}phenyl octadecanoate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M732-sch001.tif"/>
+      </fig>
+      <p>In analogy to a recently published procedure [<xref ref-type="bibr" rid="B9-molbank-2011-M732">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2011-M732">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2011-M732">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2011-M732">12</xref>], a solution of 4-hydroxybenzaldehyde (1.22 g, 10 mmol) and 4-iodoaniline (2.19 g, 10 mmol) in absolute ethanol (70 mL) was heated under reflux for 3 h. Schiff base <bold>1</bold> thus obtained was recrystallized from absolute ethanol. Then, Schiff base <bold>1</bold> (0.66 g, 2 mmol) in dimethylformamide (DMF) (2 mL), was added into a solution of octadecanoic acid (0.57 g, 2 mmol) and 4-dimethylaminopyridine (DMAP) (0.12 g, 1 mmol) in dichloromethane (20 mL). The resulting mixture was stirred in an ice bath. To this solution, N,N&#x2019;-dicyclohexylcarbodiimide (DCC) (0.41 g, 2 mmol) dissolved in dichloromethane (5 mL) was added dropwise while stirring in the ice bath for 1 h. The resulting mixture was subsequently stirred at room temperature for another 3 h. Then, the reaction mixture was filtered and the excess solvent was removed from the filtrate by evaporation. Recrystallization from absolute ethanol gave the Schiff base <bold>2</bold> as pale yellow solid (0.814 g, 69%).</p>
+      <p>Melting point: 109&#x2013;110 &#xB0;C.</p>
+      <p>MS (EI): <italic>m/z</italic> (rel. int. %) = 589 (8) (M<sup>+</sup>), 323 (100). </p>
+      <p>IR (KBr): &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>), 2954, 2915, 2849 (C-H aliphatic), 1753 (C=O), 1617 (C=N), 1215, 1101 (C-O).</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 0.90 (t, 3H, <italic>J</italic> = 6.6Hz, C<underline>H</underline><sub>3</sub>-), 1.28 (m, 16H, CH<sub>3</sub>-(C<underline>H</underline><sub>2</sub>)<sub>14</sub>-), 1.78 (qt, 2H, <italic>J</italic> = 7.4 Hz, -C<underline>H</underline><sub>2</sub>-CH<sub>2</sub>-COO-), 2.60 (t, 2H, <italic>J</italic> = 7.5 Hz, -C<underline>H</underline><sub>2</sub>-COO-), 6.98 (d, 2H, <italic>J</italic> = 8.7 Hz, Ar-<underline>H</underline>), 7.22 (d, <italic>J</italic> = 8.4 Hz, 2H, Ar-<underline>H</underline>), 7.72 (d, <italic>J</italic> = 8.7 Hz, 2H, Ar-<underline>H</underline>), 7.93 (d, <italic>J</italic> = 8.4 Hz, 2H, Ar-<underline>H</underline>), 8.67 (s, 1H, -C<underline>H</underline>=N-).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>,): &#x3B4;/ppm 14.10 (<underline>C</underline>H<sub>3</sub>-), 22.68 (CH<sub>3</sub><underline>C</underline>H<sub>2</sub>-), 24.88 (CH<sub>3</sub>CH<sub>2</sub><underline>C</underline>H<sub>2</sub>-), 29.10, 29.24, 29.35, 29.45, 29.59, 29.65, 29.69 for methylene carbons (CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-(<underline>C</underline>H<sub>2</sub>)<sub>12</sub>-), 31.92 (-<underline>C</underline>H<sub>2</sub>CH<sub>2</sub>COO-), 34.43 (-<underline>C</underline>H<sub>2</sub>COO-), 90.32, 122.10, 122.93, 130.07, 133.51, 138.19, 151.57, 153.37 for aromatic carbons, 159.50 (-<underline>C</underline>H=N-), 171.87 (-<underline>C</underline>OO-).</p>
+      <p>Elemental analysis: Calculated for C<sub>31</sub>H<sub>44</sub>INO<sub>2</sub>, 63.15%, H, 7.52%, N, 2.38%; Found: C, 63.21%, H, 7.42%, N, 2.31%.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M732">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2011-M732-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M732-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2011-M732-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M732-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>Authors would like to thank Universiti Tunku Abdul Rahman and Universiti Sains Malaysia for the financial supports via UTAR Research Fund and research facilities.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M732">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petti</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Rippa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fiore</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Manna</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mormile</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Optically induced light modulation in an hybrid nanocomposite system of inorganic CdSe/CdS nanorods and nematic liquid crystals</article-title>
+          <source>Opt. Mater.</source>
+          <year>2010</year>
+          <volume>32</volume>
+          <fpage>1011</fpage>
+          <lpage>1016</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2010.02.022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M732">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shurpo</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Vakshtein</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Kamanina</surname>
+              <given-names>N.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of CdSe/ZnS semiconductor quantum dots on the dynamic properties of nematic liquid-crystalline medium</article-title>
+          <source>Tech. Phys. Lett.</source>
+          <year>2010</year>
+          <volume>36</volume>
+          <fpage>319</fpage>
+          <lpage>321</lpage>
+          <pub-id pub-id-type="doi">10.1134/S1063785010040097</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M732">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoang</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>T.W.</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>J.I.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>D.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Semiconducting 2,3,6,7,10,11-hexakis{4-(5-dodecylthiophen-2-yl)phenyl]ethynyl}triphenylene and its discotic liquid crystalline properties</article-title>
+          <source>Chem. Lett.</source>
+          <year>2010</year>
+          <volume>39</volume>
+          <fpage>396</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.2010.396</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M732">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yuksel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Atilla</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ahsen</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of liquid crystalline unsymmetrically substituted phthalocyanines</article-title>
+          <source>Polyhedron</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <fpage>4551</fpage>
+          <lpage>4556</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.poly.2007.06.017</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M732">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>B.Y.</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>W.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Side-chain liquid-crystalline polysiloxanes containing ionic mesogens and cholesterol ester groups</article-title>
+          <source>React. Funct. Polym.</source>
+          <year>2005</year>
+          <volume>66</volume>
+          <fpage>551</fpage>
+          <lpage>558</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.reactfunctpolym.2005.10.030</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M732">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Sanehisa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Youhei</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, physical and mesomorphic properties of Schiff&#x2019;s base esters containing ortho-, meta- and para-substituents in benzylidene-4&#x2019;-alkanoyloxyanilines</article-title>
+          <source>Liq. Cryst.</source>
+          <year>2006</year>
+          <volume>33</volume>
+          <fpage>205</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1080/02678290500450584</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M732">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J.P.W.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and mesomorphic properties of new Schiff base esters with different alkyl chains</article-title>
+          <source>Chin. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>20</volume>
+          <fpage>767</fpage>
+          <lpage>770</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cclet.2009.01.011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M732">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Sivasothy</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>New mesogenic Schiff base esters with polar chloro substituent: synthesis, thermotropic properties and x-ray diffraction studies</article-title>
+          <source>Am. J. Appl. Sci.</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <fpage>214</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="doi">10.3844/ajassp.2010.214.220</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M732">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of New Schiff Base: 4-[(Pyridin-3-ylmethylene)amino]phenyldodecanoate</article-title>
+          <source>Molbank</source>
+          <year>2008</year>
+          <volume>2008</volume>
+          <fpage>M582</fpage>
+          <pub-id pub-id-type="doi">10.3390/M582</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M732">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-[(Pyridin-3-ylmethylene)amino]phenylhexadecanoate</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M584</fpage>
+          <pub-id pub-id-type="doi">10.3390/M584</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M732">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-[(Pyridin-3-ylmethylene)amino]phenyltetradecanoate</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M585</fpage>
+          <pub-id pub-id-type="doi">10.3390/M585</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M732">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>4-[(Pyridin-3-ylmethylene)amino]phenyloctadecanoate</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>M591</fpage>
+          <pub-id pub-id-type="doi">10.3390/M591</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

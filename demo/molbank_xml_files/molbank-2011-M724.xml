@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M724</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M724</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-(3,5-Dibromo-4-hydroxyphenyl)-3-butoxycarbonyl-5-ethoxycarbonyl-2-methyl-6-phenyl-1,4-dihydropyridine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Zhen</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Qingjian</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M724" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M724">Chemical Engineering and Materials Science, Key Laboratory of Molecular and Nano Probes, Engineering Research Center of Pesticide and Medicine Intermediate Clean Production, Ministry of Education, Shandong Provincial Key Laboratory of Clean Production of Fine Chemicals, College of Chemistry, Shandong Normal University, Jinan 250014, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M724"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>liuqj@sdnu.edu.cn</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>04</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>2</issue>
+      <elocation-id>M724</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>04</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>One-pot two-step Hantzsch synthesis of 4-(3,5-dibromo-4-hydroxyphenyl)-3- butoxycarbonyl-5-ethoxycarbonyl-2-methyl-6-phenyl-1,4-dihydropyridine under solvent- and catalyst-free conditions promoted with microwave irradiation is presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,4-Dihydropyridines</kwd>
+        <kwd>Hantzsch reaction</kwd>
+        <kwd>microwave irradiation</kwd>
+        <kwd>solvent- and catalyst-free conditions</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>1,4-Dihydropyridines (DHPs) have attracted immense attention for synthetic and medicinal chemists due to their biological and pharmacological properties [<xref ref-type="bibr" rid="B1-molbank-2011-M724">1</xref>]. 1,4-DHPs, as a class of calcium modulators, are extensively investigated because of their pharmacological activity as drugs in vasodilatation, hepatoprotection, neuromodulatory, cognition, memory enhancing, neuroprotection, anti-atherosclerosis, anti-diabetes, antioxidant, anti-mutagenic, and anti-tumor [<xref ref-type="bibr" rid="B2-molbank-2011-M724">2</xref>]. The most notable examples are the 1,4-DHP based calcium channel blocker drugs such as nifedipine, felodipine, and nicardipine (<xref ref-type="fig" rid="molbank-2011-M724-f001">Figure 1</xref>), which are widely used for the treatment of hypertension and related cardiovascular diseases [<xref ref-type="bibr" rid="B3-molbank-2011-M724">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M724">4</xref>].</p>
+      <p>In order to model and understand these biological properties and to develop new chemotherapeutic agents based upon the 1,4-DHP motif, considerable effort has been devoted to establish efficient and practical formation methods. The classical synthesis of symmetrical 1,4-DHPs is the three-component one-pot Hantzsch condensation reaction of aldehydes, &#x3B2;-ketoesters, and ammonia or amines [<xref ref-type="bibr" rid="B5-molbank-2011-M724">5</xref>]. Many improvements and modifications have been developed, including the use of ionic liquids [<xref ref-type="bibr" rid="B6-molbank-2011-M724">6</xref>], high temperatures at reflux [<xref ref-type="bibr" rid="B7-molbank-2011-M724">7</xref>] and catalysts such as boronic acids [<xref ref-type="bibr" rid="B8-molbank-2011-M724">8</xref>], metal triflates [<xref ref-type="bibr" rid="B9-molbank-2011-M724">9</xref>], molecular iodine [<xref ref-type="bibr" rid="B10-molbank-2011-M724">10</xref>], TMS iodide [<xref ref-type="bibr" rid="B11-molbank-2011-M724">11</xref>], Bu<sub>4</sub>NHSO<sub>4</sub> [<xref ref-type="bibr" rid="B12-molbank-2011-M724">12</xref>], bakers&#x2019; yeast [<xref ref-type="bibr" rid="B13-molbank-2011-M724">13</xref>], ceric ammonium nitrate [<xref ref-type="bibr" rid="B14-molbank-2011-M724">14</xref>], HCl generated <italic>in situ</italic> [<xref ref-type="bibr" rid="B15-molbank-2011-M724">15</xref>], and silica-supported acids [<xref ref-type="bibr" rid="B16-molbank-2011-M724">16</xref>]. Although most of these processes offer distinct advantages, they suffer from certain drawbacks such as longer reaction times, unsatisfactory yields, high costs, harsh reaction conditions, and the use of a large quantity of volatile organic solvents.</p>
+      <p>The synthesis of bioactive molecules should preferably be facile, fast, and efficient with minimal workup [<xref ref-type="bibr" rid="B17-molbank-2011-M724">17</xref>]. Microwave irradiation is an extremely powerful tool for reducing reaction time and increasing desired product yields [<xref ref-type="bibr" rid="B18-molbank-2011-M724">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2011-M724">19</xref>]. Unsymmetrical 1,4-DHPs represent effective drug moieties (Felodipine 3, for example) and sometimes possess even better pharmacological activities [<xref ref-type="bibr" rid="B20-molbank-2011-M724">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2011-M724">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2011-M724">22</xref>].</p>
+      <p>Herein, we reported a one-pot two-step Hantzsch synthesis of 4-(3,5-dibromo-4-hydroxyphenyl)-3-butoxycarbonyl-5-ethoxycarbonyl-2-methyl-6-phenyl-1,4-dihydropyridine under solvent- and catalyst-free conditions promoted with microwave irradiation, as shown in <xref ref-type="scheme" rid="molbank-2011-M724-sch001">Scheme 1</xref>. The title compound has been fully characterized by NMR (<sup>1</sup>H and <sup>13</sup>C), IR, MS, and elemental analysis. This protocol is proven to be facile, efficient, practical, and environmentally benign.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>A mixture of ethyl benzoylacetate (0.96 g, 5 mmol) and ammonium acetate (0.77 g, 10 mmol) was heated at 75 &#xB0;C for 15 min under microwave irradiation (600 W). Then, butyl acetoacetate (0.79 g, 5 mmol) and 3,5-dibromo-4-hydroxybenzaldehyde (1.40 g, 5 mmol) were added, and the mixture was heated at 75 &#xB0;C for 15 min under microwave irradiation (600 W). After completion of the reaction as monitored by TLC, the crude mixture was purified by flash column chromatography on silica gel (300&#x2013;400 mesh) eluted with ethyl acetate-petroleum ether (1:7, v/v) to afford the pure product <bold>1</bold> as pale yellow crystals, 2.36 g, 80% yield, mp 184&#x2013;185 &#xB0;C.</p>
+    </sec>
+    <sec>
+      <title>Structural Characterization</title>
+      <p><sup>1</sup>H NMR (Bruker 300 MHz, DMSO-d<sub>6</sub>): &#x3B4;<sub>H</sub> 9.74 (br. s, 1 H, NH), 9.18 (s, 1 H, OH), 7.38 (m, 7 H, Ar-H), 4.82 (s, 1 H, CH), 4.05 (q, 2 H, <italic>J</italic> = 6.2 Hz, O<italic>CH<sub>2</sub></italic>CH<sub>3</sub>), 3.70 (q, 2 H, <italic>J</italic> = 7.1 Hz, O<italic>CH<sub>2</sub></italic>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>), 2.31 (s, 3 H, CH<sub>3</sub>), 1.53 (m, 2 H, <italic>J</italic> = 7.6 Hz, OCH<sub>2</sub><italic>CH<sub>2</sub></italic>CH<sub>2</sub>CH<sub>3</sub>), 1.27 (m, 2 H, <italic>J</italic> = 7.5 Hz, OCH<sub>2</sub>CH<sub>2</sub><italic>CH<sub>2</sub></italic>CH<sub>3</sub>), 0.87 (t, 3 H, <italic>J</italic> = 7.3 Hz, OCH<sub>2</sub><italic>CH<sub>3</sub></italic>), 0.71 (t, 3 H, <italic>J</italic> = 7.0 Hz, OCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub><italic>CH<sub>3</sub></italic>) ppm. <sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4;<sub>C</sub> 167.2, 166.6, 147.8, 145.8, 144.6, 142.4, 136.5, 131.6, 129.3, 129.0, 128.4, 128.0, 109.4, 104.1, 103.1, 64.0, 59.8, 39.1, 30.8, 19.6, 19.4, 13.8, 13.6 ppm. IR: &#x3C5;<sub>max</sub> 3290, 1679, 1475, 1213, 789, 697 cm<sup>&#x2212;1</sup>. MS (AGILENT 5973N MSD, EI): m/z 593.2 (M<sup>+</sup>). Elemental anal. (Perkin Elmer PE 2400 II HONS): calcd for C<sub>26</sub>H<sub>27</sub>Br<sub>2</sub>NO<sub>5</sub> (593.30): C, 52.63; H, 4.59; N, 2.36. Found: C, 52.75; H, 4.53; N, 2.30.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M724">
+      <title>Supplementary materials</title>
+    <supplementary-material id="molbank-2011-M724-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M724-s001-mod.mol">
+	<label>Supplementary File 1</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2011-M724-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M724-s001.mol">
+	<label>Supplementary File 2</label>
+	</supplementary-material>
+   </app>
+    </app-group>
+	<ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M724">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biologically active dihydropyrimidones of the Biginelli-type &#x2014; a literature survey</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>1043</fpage>
+          <lpage>1052</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(00)01189-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M724">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nuhrich</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zemb</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Devaux</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Vacher</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Vacher</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Dufy</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and activities of a thienyl dihydropyridine series on intracellular calcium in a rat pituitary cell line</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>1996</year>
+          <volume>31</volume>
+          <fpage>547</fpage>
+          <lpage>556</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M724">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lavilla</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent developments in the chemistry of dihydropyridines</article-title>
+          <source>J. Chem. Soc. Perkin 1</source>
+          <year>2002</year>
+          <volume>9</volume>
+          <fpage>1141</fpage>
+          <lpage>1156</lpage>
+          <pub-id pub-id-type="doi">10.1039/b101371h</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M724">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alker</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>S.F.</given-names>
+            </name>
+            <name>
+              <surname>Cross</surname>
+              <given-names>P.E.</given-names>
+            </name>
+            <name>
+              <surname>Burges</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Carter</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Gardiner</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure-activity relationships for a series of basic and nonbasic derivatives of 2[(2-aminoethoxy)methyl]-1,4-dihydropyridine calcium antagonists</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1990</year>
+          <volume>33</volume>
+          <fpage>585</fpage>
+          <lpage>591</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00164a019</pub-id>
+          <pub-id pub-id-type="pmid">2153819</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M724">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hantzsch</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Condensationprodukte aus Aldehydammoniak und Ketoniartigen Verbindungen</article-title>
+          <source>Chem. Ber.</source>
+          <year>1881</year>
+          <volume>14</volume>
+          <fpage>1637</fpage>
+          <lpage>1638</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.18810140214</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M724">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ji</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Z.Q.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile Ionic Liquids-Promoted One-Pot Synthesis of Polyhydroquinoline Derivatives under Solvent Free Conditions</article-title>
+          <source>Synlett</source>
+          <year>2004</year>
+          <volume>5</volume>
+          <fpage>831</fpage>
+          <lpage>835</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2004-820035</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M724">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Massi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Minghini</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Sabbatini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bertoasi</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Model Studies toward the Synthesis of Dihydropyrimidinyl and Pyridyl &#x3B1;-Amino Acids <italic>via</italic> Three-Component Biginelli and Hantzsch Cyclocondensations</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2003</year>
+          <volume>68</volume>
+          <fpage>6172</fpage>
+          <lpage>6183</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M724">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Debache</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Boulcina</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Belfaitah</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rhouati</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Carboni</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-Pot Synthesis of 1,4-Dihydropyridines <italic>via</italic> a Phenylboronic Acid Catalyzed Hantzsch Three-Component Reaction</article-title>
+          <source>Synlett</source>
+          <year>2008</year>
+          <volume>4</volume>
+          <fpage>509</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2008-1032093</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M724">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Sheng</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>Z.Y.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Qian</surname>
+              <given-names>C.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile Yb(OTf)<sub>3</sub> promoted one-pot synthesis of polyhydroquinoline derivatives through Hantzsch reaction</article-title>
+          <source>Tetrahedron</source>
+          <year>2005</year>
+          <volume>61</volume>
+          <fpage>1539</fpage>
+          <lpage>1543</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2004.11.079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M724">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ko</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sastry</surname>
+              <given-names>M.N.V.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>C.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular iodine-catalyzed one-pot synthesis of 4-substituted-1,4-dihydropyridine derivatives <italic>via</italic> Hantzsch reaction</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>5771</fpage>
+          <lpage>5774</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.05.148</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M724">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabitha</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>G.S.K.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Yadav</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel TMSI-mediated synthesis of Hantzsch 1,4-dihydropyridines at ambient temperature</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>4129</fpage>
+          <lpage>4131</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(03)00813-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M724">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tewari</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Dwivedi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tripathi</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tetrabutylammonium hydrogen sulfate catalyzed eco-friendly and efficient synthesis of glycosyl 1,4-dihydropyridines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2004</year>
+          <volume>45</volume>
+          <fpage>9011</fpage>
+          <lpage>9014</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2004.10.057</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2011-M724">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Hantsch 1,4-dihydropyridines by fermenting bakers&#x2019; yeast</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>7329</fpage>
+          <lpage>7330</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.08.137</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2011-M724">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ko</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>C.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ceric Ammonium Nitrate (CAN) catalyzes the one-pot synthesis of polyhydroquinoline <italic>via</italic> the Hantzsch reaction</article-title>
+          <source>Tetrahedron</source>
+          <year>2006</year>
+          <volume>62</volume>
+          <fpage>7293</fpage>
+          <lpage>7299</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2006.05.037</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2011-M724">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharma</surname>
+              <given-names>G.V.M.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>K.L.</given-names>
+            </name>
+            <name>
+              <surname>Lakshmi</surname>
+              <given-names>P.S.</given-names>
+            </name>
+            <name>
+              <surname>Krishna</surname>
+              <given-names>P.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x2018;In situ&#x2019; Generated &#x2018;HCl&#x2019; - An Efficient Catalyst for Solvent-Free Hantzsch Reaction at Room Temperature: Synthesis of New Dihydropyridine Glycoconjugates</article-title>
+          <source>Synthesis</source>
+          <year>2006</year>
+          <volume>1</volume>
+          <fpage>55</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2005-921744</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2011-M724">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Loupy</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Covalently Anchored Sulfonic Acid on Silica Gel as an Efficient and Reusable Heterogeneous Catalyst for the One-Pot Synthesis of Hantzsch 1,4-Dihydropyridines under Solvent-Free Conditions</article-title>
+          <source>Synthesis</source>
+          <year>2007</year>
+          <fpage>2835</fpage>
+          <lpage>2838</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200807123</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2011-M724">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Edwards</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Allart</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Andrews</surname>
+              <given-names>M.J.I.</given-names>
+            </name>
+            <name>
+              <surname>Clase</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Menet</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Expecting drug discovery: Recent advances in fast medicinal chemistry &#x2013; optimization of hits and leads</article-title>
+          <source>Curr. Opin. Drug Discover. Dev.</source>
+          <year>2006</year>
+          <volume>9</volume>
+          <fpage>425</fpage>
+          <lpage>444</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2011-M724">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de la Hoz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Diaz-Ortiz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moreno</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwaves in organic synthesis. Thermal and non-thermal microwave effects</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2005</year>
+          <volume>34</volume>
+          <fpage>164</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.1039/B411438H</pub-id>
+          <pub-id pub-id-type="pmid">15672180</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2011-M724">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roberts</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Strauss</surname>
+              <given-names>C.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Toward Rapid, &#x201C;Green&#x201D;, Predictable Microwave&#x2013; Assisted Synthesis</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2005</year>
+          <volume>38</volume>
+          <fpage>653</fpage>
+          <lpage>661</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar040278m</pub-id>
+          <pub-id pub-id-type="pmid">16104688</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2011-M724">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Velazquez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Knaus</surname>
+              <given-names>E.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses, Calcium Channel Agonist&#x2212; Antagonist Modulation Activities, and Nitric Oxide Release Studies of Nitrooxyalkyl 1,4-Dihydro-2,6-dimethyl-3-nitro-4-(2,1,3-benzoxadiazol-4-yl pyridine-5-carboxylate Racemates, Enantiomers, and Diastereomers</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>47</volume>
+          <fpage>254</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm030333h</pub-id>
+          <pub-id pub-id-type="pmid">14695839</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2011-M724">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ren</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>W.G.</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>W.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Knoevenagel condensation reaction of acromatic aldehydes with malononitrile by grinding in the absence of solvents and catalysts</article-title>
+          <source>Synth. Commun.</source>
+          <year>2002</year>
+          <volume>32</volume>
+          <fpage>3475</fpage>
+          <lpage>3479</lpage>
+          <pub-id pub-id-type="doi">10.1081/SCC-120014780</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2011-M724">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kapoor</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Hundal</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient, catalyst- and solvent-free, four-component, and one-pot synthesis of polyhydroquinolines on grinding</article-title>
+          <source>Tetrahedron</source>
+          <year>2008</year>
+          <volume>64</volume>
+          <fpage>536</fpage>
+          <lpage>542</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2011-M724-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>1,4-DHP drugs for cardiovascular diseases.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M724-g001.tif"/>
+      </fig>
+      <fig id="molbank-2011-M724-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M724-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound 1.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M724-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

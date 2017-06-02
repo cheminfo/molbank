@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M907</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M907</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>E</italic>)-3-Methyl-6-(3-oxo-3-(3,4,5-trimethoxyphenyl)prop-1-en-1-yl)-2(3<italic>H</italic>)-benzothiazolone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ivanova</surname>
+            <given-names>Yordanka</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M907" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M907" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gerova</surname>
+            <given-names>Mariana</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M907" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chanev</surname>
+            <given-names>Christo</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M907" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petrov</surname>
+            <given-names>Ognyan</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M907" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M907"><label>1</label>Department of Plant Pathology and Chemistry, Faculty of Ecology and Landscape Architecture, University of Forestry, 10 Kliment Ohridsky Blvd., Sofia 1756, Bulgaria</aff>
+      <aff id="af2-molbank-2016-M907"><label>2</label>Department of Pharmaceutical and Applied Organic Chemistry, Faculty of Chemistry and Pharmacy, Sofia University St. Kliment Ohridski, 1 James Bourchier Blvd., Sofia 1164, Bulgaria; <email>mgerova@chem.uni-sofia.bg</email> (M.G.); <email>HChanev@chem.uni-sofia.bg</email> (C.C.); <email>opetrov@chem.uni-sofia.bg</email> (O.P.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M907"><label>*</label>Correspondence: <email>yordanka_b_ivanova@abv.bg</email>; Tel.: +359-291-907-365; Fax: +359-28-622-830</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>09</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>3</issue>
+      <elocation-id>M907</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>06</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>08</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, (<italic>E</italic>)-3-methyl-6-(3-oxo-3-(3,4,5-trimethoxyphenyl)prop-1-en-1-yl)-2(3<italic>H</italic>)-benzothiazolone, was synthesized by both an acid- and base-catalyzed aldol condensation of 3-methyl-6-acetyl-2(3<italic>H</italic>)-benzothiazolone and 3,4,5-trimethoxyacetophenone. The structure of the target compound was confirmed using <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, IR, MS, and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>chalcone</kwd>
+        <kwd>2(3<italic>H</italic>)-benzothiazolone</kwd>
+        <kwd>aldol condensation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M907" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Chalcones, major secondary metabolite precursors of flavonoids, exist abundantly in edible plants and diverse folk medicines and have received considerable attention because of their multiple important activities, including anti-inflammatory, antimicrobial, antifungal, antioxidant, cytotoxic, antitumor and anticancer activities [<xref ref-type="bibr" rid="B1-molbank-2016-M907">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M907">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M907">3</xref>].</p>
+      <p>Chalcones are most commonly synthesized by classic Claisen-Schmidt condensation in the presence of an aqueous alkaline base. The aldol reaction can also be catalyzed by HCl, BF<sub>3</sub>, B<sub>2</sub>O<sub>3</sub>, and <italic>p</italic>-toluenesulfonic acid, etc. [<xref ref-type="bibr" rid="B4-molbank-2016-M907">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M907">5</xref>].</p>
+      <p>We previously reported a simple, high-yield methodology using SOCl<sub>2</sub> in absolute ethanol as a convenient alternative to gaseous HCl [<xref ref-type="bibr" rid="B6-molbank-2016-M907">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M907">7</xref>]. A series of heterocyclic chalcones containing an oxazole or a thiazole cycle were synthesized by this method. The compounds displayed good cytotoxic activity against BV-173, MCF-7 and MDA-MB-231 cells in an MTT-dye reduction assay [<xref ref-type="bibr" rid="B8-molbank-2016-M907">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M907">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M907">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M907">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2016-M907">12</xref>]. Especially promising results were obtained with chalcones that contained a fused azole cycle on ring A and more than one methoxy group on ring B. In a continuation of this work, here we report the synthesis of a new chalcone with a fused thiazole cycle on ring B and three methoxy groups in ring A using both an acid and a base aldol condensation.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M907" sec-type="results">
+      <title>2. Results</title>
+      <p>The (<italic>E</italic>)-3-methyl-6-(3-oxo-3-(3,4,5-trimethoxyphenyl)prop-1-en-1-yl)-2(3<italic>H</italic>)-benzothiazolone, was synthesized both by an acid- and base-catalyzed aldol condensation of 3-methyl-2(3<italic>H</italic>)-benzothiazolone-6-carbaldehyde and 3,4,5-trimethoxyacetophenone, as presented in <xref ref-type="scheme" rid="molbank-2016-M907-sch001">Scheme 1</xref>. The Claisen-Schmidt condensation was carried out in ethanol in the presence of aqueous KOH and the acid-catalyzed condensation was performed using SOCl<sub>2</sub>/EtOH [<xref ref-type="bibr" rid="B11-molbank-2016-M907">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2016-M907">12</xref>]. The reactions were monitored using thin-layer chromatography. Both reactions led to only one product detectable by TLC, in good yield.</p>
+      <p>The acid-catalyzed aldol condensation was shown to be an appropriate method, especially for the synthesis of hydroxy chalcones; however, in this case neither method has an advantage.</p>
+      <p>The structure of compound <bold>3</bold> was confirmed by <sup>1</sup>H- and <sup>13</sup>C-NMR, IR, MS and elemental analysis and all data are in agreement with the assumed structure. The cyclic and ketone C=O stretching bands in the IR spectra were seen at about 1656 cm<sup>&#x2212;1</sup> and 1644 cm<sup>&#x2212;1</sup>, respectively. The <sup>1</sup>H-NMR spectra are consistent with the pure <italic>E</italic> configuration, as judged by the vinyl proton coupling constant <italic>J</italic> = 15.5 Hz (<xref ref-type="app" rid="app1-molbank-2016-M907">Figure S1</xref>).</p>
+    </sec>
+    <sec id="sec3-molbank-2016-M907">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M907">
+        <title>3.1. General Information</title>
+        <p>All chemicals were purchased from Acros Organics (Geel, Belgium). 3-Methyl-2(3<italic>H</italic>)-benzothiazolone-6-carbaldehyde (<bold>1</bold>) was synthesized as described previously [<xref ref-type="bibr" rid="B9-molbank-2016-M907">9</xref>]. Reactions were monitored by thin-layer chromatography (TLC) on silica gel plates (Kieselgel 60 F<sub>254</sub>) using hexane/acetone (2:1 <italic>v</italic>/<italic>v</italic>) as eluent. The purity of the final compound was determined by GC-MS on an Agilent 6890 system with MSD 5973 (single quadrupole, EI at 70 eV ionization), using a capillary column HP-5/MS (30 m &#xD7; 0.250 mm &#xD7; 0.25 &#x3BC;m). Carrier gas He was used at 0.8 mL/min. The temperature programmed mode was used (from 60 &#xB0;C for 2 min, then with 10 &#xB0;C/min to 300 &#xB0;C for 10 min). The sample was introduced in splitless injection mode.</p>
+        <p>Melting point was determined on a Boetius hot-stage microscope (Carl Zeiss Jena, Germany) and was uncorrected. IR spectrum (nujol) was recorded on a Specord 71 spectrometer (Carl Zeiss Jena, Germany). NMR spectra were recorded in DMSO-<italic>d</italic><sub>6</sub> on a Bruker Avance III HD 500 (Bruker BioSpin GmbH, Rheinstetten, Germany), operating at 500 MHz for <sup>1</sup>H and at 125.8 MHz for <sup>13</sup>C. Chemical shifts are given in parts per million (&#x3B4;) relative to the solvent peak. Coupling constants (<italic>J</italic>) were measured in hertz (Hz). The elemental analyses was carried on a VARIO EL III Elemental analyzer (Elementar Analysensysteme GmbH, Hanau, Germany) and the results for C, H, and N were within &#xB1;0.4% of the theoretical values.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M907">
+        <title>3.2. Synthesis of (E)-3-Methyl-6-(3-oxo-3-(3,4,5-trimethoxyphenyl)prop-1-en-1-yl)-2(3H)-benzothiazolone <italic>(<bold>3</bold>)</italic></title>
+        <sec id="sec3dot2dot1-molbank-2016-M907">
+          <title>3.2.1. Base-catalyzed Aldol Condensation:</title>
+          <p>To a suspension of 3-methyl-2(3<italic>H</italic>)-benzothiazolone-6-carbaldehyde (<bold>1</bold>, 193 mg, 1 mmol) and 3,4,5-trimethoxyacetophenone (<bold>2</bold>, 210 mg, 1 mmol) in ethanol (5 mL), 10% aq. KOH (1 mL) was added. The obtained yellow mixture was stirred for 6 h at room temperature to afford a precipitate. Water (5 mL) was added and the crystalline product was filtered, washed with cold ethanol and water to neutrality, and dried. Yield: 67% (258 mg).</p>
+        </sec>
+        <sec id="sec3dot2dot2-molbank-2016-M907">
+          <title>3.2.2. Acid-catalyzed Aldol Condensation:</title>
+          <p>To an ice-cool suspension of 3-methyl-2(3<italic>H</italic>)-benzothiazolone-6-carbaldehyde (<bold>1</bold>, 193 mg, 1 mmol) and 3,4,5-trimethoxyacetophenone (<bold>2</bold>, 210 mg, 1 mmol) in ethanol (5 mL), SOCl<sub>2</sub> (0.3 mL) was added slowly. The obtained dark red mixture was stirred for 12 h at room temperature. Water (10 mL) was added and the suspension was heated to boiling. After being cooled to room temperature, the crystalline product was filtered, washed with water and dried. Yield: 64% (247 mg).</p>
+          <p>Light yellow crystals, m.p.: 205 &#xB0;C&#x2013;207 &#xB0;C (ethanol/toluene 3:2). IR (nujol): 1656, 1644 cm<sup>&#x2212;1</sup> (C=O); 1125 cm<sup>&#x2212;1</sup> (C-O-C). <sup>1</sup>&#x41D;-NMR (500 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) 3.44 (s, 3H, CH<sub>3</sub>), 3.77 (s, 3H, OCH<sub>3</sub>), 3.91 (s, 6H, OCH<sub>3</sub>), 7.39 (d, 1H, arom. H, <italic>J</italic> = 8.4 Hz), 7.42 (s, 2H, arom. H), 7.75 (d, 1H, =CHCO, <italic>J</italic> = 15.5 Hz), 7.91 (m, 2H, ArCH=, <italic>J</italic> = 15.4 Hz, arom. H, <italic>J</italic> = 1.6 Hz, <italic>J</italic> = 8.5 Hz), 8.26 (d, 1H, arom. H, <italic>J</italic> = 1.5 Hz), <sup>13</sup>C-NMR (125.8 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) 29.3, 56.3, 60.2, 106.2, 111.6, 120.7, 122.1, 122.6, 128.5, 130.1, 133.0, 139.4, 142.0, 143.3, 152.9, 168.8, 187.6. Anal. calcd. for C<sub>20</sub>H<sub>19</sub>NO<sub>5</sub>S (385.43): C, 62.32; H, 4.97; N 3.63. Found: C, 62.45; H, 4.79; N, 3.72. MS (EI): [M]<sup>+</sup> <italic>m</italic>/<italic>z</italic> = 385 (100), 370 (46), 354 (28), 342 (19), 228 (12), 218 (32), 195 (16), 190 (21), 160 (21), 134 (16), 109 (15), 66 (24).</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M907">
+        <title>Supplementary Materials</title>
+        <p><sup>1</sup>H-, <sup>13</sup>C-NMR and MS spectra for compound <bold>3</bold> are available online at <uri>http://www.mdpi.com/1422-8599/2016/3/M907</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are thankful to the University of Forestry, Sofia, Bulgaria, for financial support.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>O.P. designed the experiments; Y.I. and M.G. performed the experiments and wrote the manuscript; O.P. and Y.I. analyzed the spectral data and wrote the manuscript; C.C. obtained the mass spectra. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M907">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karthikeyan</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Moorthy</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Ramasamy</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Vanamc</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Manivannan</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Karunagaran</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Trivedi</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in Chalcones with Anticancer Activities</article-title>
+          <source>Recent Pat. Anti-Cancer Drug Discov.</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>97</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="doi">10.2174/1574892809666140819153902</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M907">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sinha</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Medhi</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Sehgal</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chalcones as an Emerging Lead Molecule for Antimalarial Therapy: A Review</article-title>
+          <source>J. Modern Med. Chem.</source>
+          <year>2013</year>
+          <volume>1</volume>
+          <fpage>64</fpage>
+          <lpage>77</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M907">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dimmock</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Elias</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Beazely</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kandepu</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bioactivities of chalcones</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>1999</year>
+          <volume>6</volume>
+          <fpage>1125</fpage>
+          <lpage>1149</lpage>
+          <pub-id pub-id-type="pmid">10519918</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M907">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhar</surname>
+              <given-names>D.N.</given-names>
+            </name>
+          </person-group>
+          <source>The Chemistry of Chalcones and related Compounds</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1981</year>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M907">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miquel</surname>
+              <given-names>J.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isomere <italic>cis</italic>-<italic>trans</italic> des styryl-cetones &#x2013; <italic>para</italic> et <italic>meta</italic>-hydroxy-chalcones</article-title>
+          <source>Bull. Soc. Chim. Fr.</source>
+          <year>1961</year>
+          <fpage>1369</fpage>
+          <lpage>1376</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M907">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Gerova</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>SOCl<sub>2</sub>/EtOH: Catalytic system for synthesis of chalcones</article-title>
+          <source>Catal. Commun.</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>315</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.catcom.2007.06.013</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M907">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kalcheva</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of chalcones condensed with an 1,3-azole ring using SOCl<sub>2</sub>/EtOH catalytic systhem</article-title>
+          <source>C. R. Acad. Bulg. Sci.</source>
+          <year>2008</year>
+          <volume>61</volume>
+          <fpage>41</fpage>
+          <lpage>48</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M907">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>New heterocyclic chalcones. Part 6: Synthesis and cytotoxic activities of 5- or 6-(3-aryl-2-propenoyl)-2(3<italic>H</italic>)-benzoxazolones</article-title>
+          <source>Heterocycl. Commun.</source>
+          <year>2013</year>
+          <volume>19</volume>
+          <fpage>23</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="doi">10.1515/hc-2012-0081</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M907">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Gerova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic chalcones of 2(3<italic>H</italic>)-benzothiazolones with potential cytotoxic activity</article-title>
+          <source>C. R. Acad. Bulg. Sci.</source>
+          <year>2007</year>
+          <volume>60</volume>
+          <fpage>642</fpage>
+          <lpage>650</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M907">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel substituted 1,3-diarylpropenone derivatives and their in vitro cytotoxic activity</article-title>
+          <source>Lett. Drug Des. Discov.</source>
+          <year>2009</year>
+          <volume>6</volume>
+          <fpage>353</fpage>
+          <lpage>357</lpage>
+          <pub-id pub-id-type="doi">10.2174/1570180810906050353</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M907">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kalcheva</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>New synthetic chalcones: Cytotoxic Mannich bases of 6-(4-chlorocinnamoyl)-2(3<italic>H</italic>)-benzoxazolone</article-title>
+          <source>Lett. Drug Des. Discov.</source>
+          <year>2008</year>
+          <volume>5</volume>
+          <fpage>358</fpage>
+          <lpage>362</lpage>
+          <pub-id pub-id-type="doi">10.2174/157018008785777342</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M907">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Momekov</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Petrov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Karaivanova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kalcheva</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytotoxic Mannich bases of 6-(3-aryl-2-propenoyl)-2(3<italic>H</italic>)-benzoxazolones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>1382</fpage>
+          <lpage>1387</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.02.019</pub-id>
+          <pub-id pub-id-type="pmid">17459529</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2016-M907-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M907-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of (<italic>E</italic>)-3-methyl-6-(3-oxo-3-(3,4,5-trimethoxyphenyl)prop-1-en-1-yl) -2(3<italic>H</italic>)-benzothiazolone (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M907-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

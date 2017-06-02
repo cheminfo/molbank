@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M533</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M533</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of N-acetyl-N-(3,5-dioxo-10-oxa-4-aza-tricyclo[5.2.1.0<sup>2,6</sup>]dec-4-yl)-acetamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Struga</surname>
+            <given-names>Marta</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M533" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2007-M533" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kossakowki</surname>
+            <given-names>Jerzy</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M533" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Miros&#x142;aw</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <xref rid="af2-molbank-2007-M533" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kozio&#x142;</surname>
+            <given-names>Anna E.</given-names>
+          </name>
+          <xref rid="af2-molbank-2007-M533" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M533"><label>1</label>The Medical University, Department of Medical Chemistry, 3 Oczki Str., 02-007 Warsaw, Poland; Tel/Fax: (+4822)-628-06-79</aff>
+      <aff id="af2-molbank-2007-M533"><label>2</label>Faculty of Chemistry, Maria Curie-Sk&#x142;odowska University, 20-031 Lublin, Poland</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M533"><label>*</label>Author to whom correspondence should be addressed. E-mail: <email>strugam@wp.pl</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>2</issue>
+      <elocation-id>M533</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>09</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>01</month>
+          <year>2007</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2007 by MDPI (http://www.mdpi.org/).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>4-amino-10-oxa-4-aza-tricyclo[5.2.1.0<sup>2,6</sup>]dec-8-ene-3,5-dione</kwd>
+		<kwd>acylation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>Various imide derivatives of 10-Oxa-4-aza-tricyclo[5.2.1.0<sup>2,6</sup>]decane-3,5-dione have been reported and shown to exhibit a wide spectrum of biological activities including antitumor properties [<xref ref-type="bibr" rid="B1-molbank-2007-M533">1</xref>].
+	<disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M533-i001.tif"/>
+        </disp-formula></p>
+      <p>4-Amino-10-oxa-4-aza-tricyclo[5.2.1.0<sup>2,6</sup>]dec-8-ene-3,5-dione (1) was used as a starting material. This compound was obtained in Diels-Alder reaction of furan and furan-2,5-dione  [<xref ref-type="bibr" rid="B2-molbank-2007-M533">2</xref>] and next treated with hydrazine (80% aqueous solution) [<xref ref-type="bibr" rid="B3-molbank-2007-M533">3</xref>]. Compound 2 was obtained in acylation reaction of compound 1. The reduction of compound 2 occurred during the acylation.</p>
+      <p><italic>N-acetyl-N-(3,5-dioxo-10-oxa-4-aza-tricyclo[5.2.1.0<sup>2,6</sup>]dec-4-yl)-acetamide</italic> (2).</p>
+      <p>0.01 Mole of the compound 1and 10 ml of acetic anhydride were heated while boiling for 6h under reflux condenser. The reaction mixture was filtered off and the solvent was removed under a reduced pressure. The residue was crystallized from ethanol. Next it was purified by column chromatography (silica gel) using chloroform/methanol (19:1) as eluent.</p>
+      <p>White crystals, yield 78 %.</p>
+      <p>Melting point: 128 &#xB0;C.</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 4.96 (s, 2H, CH-O); 3.1 (s, 2H, CH-C=O); 2.59 (s, 3H, CH<sub>3</sub>); 2.11 (s, 3H, CH<sub>3</sub>); 1.93 (m, 2H, CH<sub>2</sub>); 1.68 (m, 2H, CH<sub>2</sub>).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; (ppm): 174.3, 136.1, 79.8, 45.0, 38.8.</p>
+      <p>ESI MS: m/z = 289.2 [M + Na]<sup>+</sup> (100%).</p>
+      <p>Elemental Analysis: Calculated for C12H14N2O5 (266.25) calculated: C, 54.13 %; H, 5.30%; N, 10.52 %. Found: C, 54.18 %; H, 45.32 %; N, 10.72 %.</p>
+      <p>Crystal data for (2): C<sub>12</sub>H<sub>14</sub>N<sub>2</sub>O<sub>5</sub>, <italic>M.W.</italic> = 266.25, crystal system orthorhombic, space group <italic>Pbca</italic> with unit cell dimensions <italic>a</italic> = 6.977(1), <italic>b</italic> = 16.658(3), <italic>c</italic> = 21.361(4) A and <italic>V</italic> = 2482.6(7) A<sup>-3</sup>; Z = 8, <italic>d</italic>(<italic>calc</italic>) = 1.425 g cm<sup>-3</sup>, m= 0.952 mm<sup>-1</sup>, F(000) = 1120.</p>
+      <p><italic>Cis</italic>, <italic>exo</italic> configuration at the ring junction; the N,N-diacetyl fragment is planar with perpendicular orientation to the imid ring plane; the C=O bonds of acetyl groups are <italic>anti</italic>.</p>
+      <p>The diffraction data were collected at 275 K on a KM-4 diffractomater using the crystal of dimensions 0.22 &#x2018; 0.15 &#x2019; 0.11 mm and CuKa radiation. Within the q range of 5.3 to 72.2&#xB0;, 2445 reflections were collected. The structure was solved by direct methods and refined by full-matrix least-squares on <italic>F</italic><sup>2</sup> (programs SHELXS97 and SHELXL97 [<xref ref-type="bibr" rid="B4-molbank-2007-M533">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2007-M533">5</xref>]). The refinement of 175 parameters converged at final <italic>R</italic> indices:</p>
+      <p><italic>R</italic><sub>1</sub> = 0.0311, <italic>wR</italic><sub>2</sub> = 0.0889 (for 1039 observed reflections, <italic>I</italic> &gt; 2s (<italic>I</italic>)) and <italic>R</italic><sub>1</sub> = 0.1377, <italic>wR</italic><sub>2</sub> = 0.1188 (all data), and Goof = 0.996. The extinction coefficient was 0.0032(3), residual electron density Dr (<italic>max</italic>) = 0.20 and Dr (<italic>min</italic>) = -0.18 e A<sup>-3</sup>.</p>
+	  <fig id="molbank-2007-M533-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Perspective view of molecular structure of compound 2</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M533-g001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2007-M533-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2007-M533-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Bond lengths (&#xC5;)</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border:solid thin">N(1)-N(2)</td>
+              <td align="left" valign="middle" style="border:solid thin">1.383(2)</td>
+              <td align="left" valign="middle" style="border:solid thin">C(3)-C(4)</td>
+              <td align="left" valign="middle" style="border:solid thin">1.525(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">N(1)-C(1)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.393(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(3)-C(8)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.542(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">N(1)-C(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.396(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(4)-C(5)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.529(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">N(2)-C(10)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.416(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(5)-C(6)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.537(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">N(2)-C(11)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.420(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(6)-C(7)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.521(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(1)-C(1)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.205(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(7)-C(8)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.542(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(2)-C(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.201(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(10)-C(12)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.490(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(3)-C(4)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.440(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(11)-C(13)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.486(3)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(3)-C(7)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.442(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N(2)-N(1)-C(1)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">122.5(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(4)-C(10)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.198(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N(2)-N(1)-C(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">123.2(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">O(5)-C(11)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.199(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(1)-N(1)-C(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">114.0(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">C(1)-C(8)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.489(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(1)-N(1)-N(2)-C(10)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">93.2(2)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-left:solid thin;border-bottom:solid thin;border-right:solid thin">C(2)-C(3)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">1.508(2)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C(2)-N(1)-N(2)-C(11)</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">90.6(2)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2007-M533">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M533-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M533-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2007-M533-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M533-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+       </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2007-M533">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walter</surname>
+              <given-names>W.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Pharm. Sci.</source>
+          <year>1989</year>
+          <volume>78</volume>
+          <fpage>66</fpage>
+          <pub-id pub-id-type="pmid">2709322</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2007-M533">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kwart</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Burchuk</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1952</year>
+          <volume>74</volume>
+          <fpage>3094</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2007-M533">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Struga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Miros&#x142;aw</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wawrzyca-Gorczyca</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Kossakowski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kozio&#x142;</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <source>Polish J. Chem.</source>
+          <year>2007</year>
+          <volume>81</volume>
+          <fpage>51</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2007-M533">
+        <label>4.</label>
+        <citation citation-type="book">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+             </person-group>
+          <article-title>SHELXS-93: Program for crystal structure solution</article-title>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>Germany</publisher-loc>
+          <year>1993</year>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2007-M533">
+        <label>5.</label>
+        <citation citation-type="book">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Sheldrick</surname>
+              <given-names>G.M.</given-names>
+            </name>
+             </person-group>
+          <article-title>SHELXL-97: Program for the refinement of crystal structures from diffraction data</article-title>
+          <publisher-name>University of G&#xF6;ttingen</publisher-name>
+          <publisher-loc>Germany</publisher-loc>
+          <year>1997</year>
+        </citation>
+      </ref>
+    </ref-list>
+   </back>
+</article>

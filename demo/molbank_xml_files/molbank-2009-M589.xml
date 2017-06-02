@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M589</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M589</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 3-{4-[4-(Benzylideneamino)benzenesulfonyl]-phenyl}-2-phenylquinazolin-4(3<italic>H</italic>)-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thilagavathi</surname>
+            <given-names>R.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M589" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kavitha</surname>
+            <given-names>Helen P.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M589" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M589" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arulmozhi</surname>
+            <given-names>R.</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M589" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Babu</surname>
+            <given-names>Sunil Manohar</given-names>
+          </name>
+          <xref rid="af3-molbank-2009-M589" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M589"><label>1</label>SRM University, Ramapuram Campus, Chennai-600 089, Tamil Nadu, India</aff>
+      <aff id="af2-molbank-2009-M589"><label>2</label>SRM University, Kattankulathur Campus, Kanchipuram-603 203, Tamil Nadu, India</aff>
+      <aff id="af3-molbank-2009-M589"><label>3</label>Nicholas Piramal Research Centre, Nicholas Piramal India Limited, Mumbai 400 063, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M589"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>helenkavithap@yahoo.co.in</email>, Phone: 91 44 43923038/24768001</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>01</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M589</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>11</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The present work describes the synthesis of a Schiff base, 3-{4-[4-(benzylidene-amino)benzenesulfonyl]phenyl}-2-phenylquinazolin-4(3<italic>H</italic>)-one from a novel quinazolin-one, 3-[4-(4-aminobenzenesulfonyl)phenyl]-2-phenylquinazolin-4(3<italic>H</italic>)-one. The quin-azolinone was prepared by reacting 2-phenyl-4<italic>H</italic>-3,1-benzoxazin-4-one with dapsone. The structure of the synthesized Schiff base is confirmed by IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR, MS and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-phenyl-4<italic>H</italic>-3,1-benzoxazin-4-one</kwd>
+        <kwd>3-{4-[4-(benzylideneamino)benzene-sulfonyl]phenyl}-2-phenylquinazolin-4(3<italic>H</italic>)-one</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Fused nitrogen-containing heterocycles are structural fragments of many natural compounds and are important for various vital processes. Quinazolinones have been frequently used in medicine because of their wide spectrum of biological activities [<xref ref-type="bibr" rid="B1-molbank-2009-M589">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M589">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M589">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2009-M589">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2009-M589">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2009-M589">6</xref>].  Different quinazolinone derivatives have been reported for their antibacterial, antifungal, anti-HIV, anthelmintic, CNS depressant and antitubercular activities. Schiff bases have also gained importance in recent days due to their potential biological activities [<xref ref-type="bibr" rid="B7-molbank-2009-M589">7</xref>]. In this paper, we want to report the synthesis of a novel Schiff base from a quinazolinone.</p>
+	  <disp-formula>
+      <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M589-i001.tif"/>
+      </disp-formula>
+    </sec>
+    <sec>
+      <title>Synthesis</title>
+      <sec>
+        <title>Preparation of 3-[4-(4-aminobenzenesulfonyl)phenyl]-2-phenylquinazolin-4(3H)-one 3</title>
+        <p>2-Phenyl-4<italic>H</italic>-3,1-benzoxazine-4-one (<bold>1</bold>) was prepared according to the literature [<xref ref-type="bibr" rid="B8-molbank-2009-M589">8</xref>].  Compound <bold>1</bold> (3.34 g, 0.01 mol) was dissolved in 20 ml of ethanol and then Dapsone <bold>2</bold> (7.44 g, 0.03 mol) was added to it. The mixture was refluxed for 4 h and cooled. The separated solid <bold>3</bold> was recrystallized from ethanol; yield: 61%, m.p.:148<sup>o</sup>C.</p>
+      </sec>
+      <sec>
+        <title>Preparation of Schiff Base 4</title>
+        <p>A mixture of compound <bold>3</bold> (4.55 g, 0.01 mol), benzaldehyde (1.06 g, 0.01 mol) and ethanol (20 ml) was refluxed for 6 h. The resulting mixture was cooled and poured into ice-water. The separated solid was filtered and washed with water. Recrystallization of the crude product from ethanol afforded colorless crystals of <bold>4</bold>. The yield of the product is 68%.</p>
+        <p>Melting point:  sublimation above 190<sup>o</sup>C</p>
+        <p>IR (KBr pellet, cm<sup>-1</sup>): 1631 (C=N), 1764 (N-C=O, quinazolinone)</p>
+        <p><sup>1</sup>H NMR (500 MHz, MeOD): 7.2-7.9 (m, 22H, Ar-H), 8.5 (s, 1H, -N=CH-)</p>
+        <p><sup>13</sup>C NMR: 121.2, 126.4, 126.8, 127.8, 127.9, 128.1, 128.6, 130.3, 132.3, 136.5, 146.9, 152.8, 157.1, 164.0.</p>
+        <p>MS (m/z): 541 (M<sup>+</sup>, 8%), 119 (100%)</p>
+        <p>Elemental Analysis:  Calculated: C, 73.18; H, 4.28; N, 7. 76; S,5.92;</p>
+        <p>&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#xA0;&#xA0;Found: C, 73.08; H, 4.24; N, 7. 72 ; S,5.91.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M589">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M589-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M589-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M589-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M589-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgement</title>
+      <p>The authors wish to thank the management of SRM University for providing financial assistance for carrying out the pilot project.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M589">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spirkova</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Stankovsky</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mrvova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cipak</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Biological Activity of Some 2 Substituted Quinazolin-4-ones</article-title>
+          <source>Chem. Pap.</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>272</fpage>
+          <lpage>275</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M589">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gucati</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shankar</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antiparkinsonian agent from quinazolinyl thiozolidinones and azetidinones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1987</year>
+          <volume>26</volume>
+          <fpage>652</fpage>
+          <lpage>656</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M589">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>D.P.</given-names>
+            </name>
+            <name>
+              <surname>Ahamed</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shankar</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Newer Quinazolinone Derivatives as Antihelmintic Agents</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1988</year>
+          <volume>27</volume>
+          <fpage>1060</fpage>
+          <lpage>1062</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M589">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yale</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Kalkstein</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted 2, 3-dihydro-4(1H)-quinazolinones, a new class of inhibitors of cell multiplication</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1967</year>
+          <volume>10</volume>
+          <fpage>334</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00315a010</pub-id>
+          <pub-id pub-id-type="pmid">22185126</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M589">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joshi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Chaurasia</surname>
+              <given-names>R.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Some New 4-Quinazolinone-2-Carboxylhydrazides and their Tosyl Derivatives having potential Biological Activity</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1987</year>
+          <volume>26</volume>
+          <fpage>602</fpage>
+          <lpage>604</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M589">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nanda</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Ganguli</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial Activity of Some 3-(Arylideneamino)-2-phenylquinazoline-4(3H)-ones: Synthesis and Preliminary QSAR Studies</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>2413</fpage>
+          <lpage>2426</lpage>
+          <pub-id pub-id-type="doi">10.3390/12102413</pub-id>
+          <pub-id pub-id-type="pmid">17978766</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M589">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rajendran</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Karvembu</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antifungal activities of Schiff bases derived from 3-amino-2H-pyrano [2, 3]-quinolin-2-ones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2002</year>
+          <volume>41</volume>
+          <fpage>222</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200219139</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M589">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sain</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Sandhu</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient one-pot synthesis of 1,3,4-oxadiazoles and 4H-3,1-benzoxazin-4- ones</article-title>
+          <source>Indian J. Chem.</source>
+          <year>1992</year>
+          <volume>31</volume>
+          <fpage>768</fpage>
+          <lpage>770</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

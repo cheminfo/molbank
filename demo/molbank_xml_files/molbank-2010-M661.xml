@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M661</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M661</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(2-Chlorophenyl)-3-methylchromeno[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Batezila</surname>
+            <given-names>Giselle</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holzer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M661" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M661">Department of Drug and Natural Product Synthesis, Faculty of Life Sciences, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M661"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>wolfgang.holzer@univie.ac.at</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>1</issue>
+      <elocation-id>M661</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>02</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was prepared by treatment of 1-(2-chlorophenyl)-3-methyl-2-pyrazolin-5-one with 2-chlorobenzoyl chloride / Ca(OH)<sub>2</sub> in 1,4-dioxane and subsequent cyclization of the thus obtained 4-aroyl-5-hydroxypyrazole with sodium hydride in dry DMF. Detailed spectroscopic data (<sup>1</sup>H NMR, <sup>13</sup>C NMR, <sup>15</sup>N NMR, IR, MS) are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2<bold>-</bold>pyrazolin-5-one</kwd>
+        <kwd>chromeno[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one</kwd>
+        <kwd>acylation</kwd>
+        <kwd>cyclization</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The xanthone system is a partial structure of several biologically active compounds (<xref ref-type="fig" rid="molbank-2010-M661-f001">Figure 1</xref>) [<xref ref-type="bibr" rid="B1-molbank-2010-M661">1</xref>]. Also heterocyclic analogues, in which one or both benzene rings of the parent tricyclic system is/are replaced by heteroaromatic moieties, are of considerable interest for medicinal chemists&#x2212;as an example the anti-ulcer drug amlexanox (Aphthasol&#x2122;, <xref ref-type="fig" rid="molbank-2010-M661-f001">Figure 1</xref>) may serve [<xref ref-type="bibr" rid="B2-molbank-2010-M661">2</xref>]. In this respect, we recently presented a simple and generally applicable synthetic approach to various fused pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones of type <bold>D</bold> (<xref ref-type="fig" rid="molbank-2010-M661-f001">Figure 1</xref>), which can be considered as heterocyclic analogues of xanthone (<xref ref-type="fig" rid="molbank-2010-M661-f001">Figure 1</xref>) [<xref ref-type="bibr" rid="B3-molbank-2010-M661">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M661">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M661">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M661">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M661">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M661">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M661">9</xref>]. In these compounds, one benzene ring of the parent xanthone is replaced by a pyrazole ring and the other one by a variable heteroaromatic moiety. However, we also prepared congeners carrying a benzene ring at the &#x2018;east&#x2019; end of the tricyclic system <bold>D</bold> (&#x2018;Het&#x2019; = benzene) [<xref ref-type="bibr" rid="B4-molbank-2010-M661">4</xref>], some related compounds have been previously reported by Russian authors [<xref ref-type="bibr" rid="B10-molbank-2010-M661">10</xref>].</p>
+      <p>The synthesis of type <bold>D</bold> compounds is based on the reaction of 1-substituted or 1,3-disubstituted 2-pyrazolin-5-ones (<bold>A</bold>) with <italic>O</italic>-halo(hetero)arenecarbonyl chlorides <bold>B</bold> under the conditions described by <italic>Jensen</italic> for the C-4 acylation of pyrazolones (calcium hydroxide, dioxane, reflux) [<xref ref-type="bibr" rid="B11-molbank-2010-M661">11</xref>]. The so formed 4-aroylpyrazol-5-ols <bold>C</bold> can be smoothly cyclized into the target systems <bold>D</bold> in alkaline (NaH/DMF) or &#x2013;occasionally &#x2013; acidic (HCl/EtOH) [<xref ref-type="bibr" rid="B9-molbank-2010-M661">9</xref>] medium.</p>
+	  <fig id="molbank-2010-M661-f001" position="float">
+        <label>Figure 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M661-g001.tif"/>
+      </fig>
+      <p>Here, we report the synthesis of the new chromeno[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one <bold>3</bold>, characterized by a 2-chlorophenyl substituent attached to N-1 (<xref ref-type="scheme" rid="molbank-2010-M661-sch001">Scheme 1</xref>). According to the above mentioned synthetic approach, 1-(2-chlorophenyl)-3-methyl-2-pyrazolin-5-one (<bold>1</bold>) was reacted with 2-chlorobenzoyl chloride (<bold>2</bold>) under <italic>Jensen</italic>-conditions. In contrast to the typical cases within the the synthesis of type <bold>C</bold> compounds [<xref ref-type="bibr" rid="B3-molbank-2010-M661">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M661">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M661">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M661">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M661">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M661">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M661">9</xref>], here the aroylation product <bold>2</bold> did not precipitate from the reaction mixture upon addition of water. Instead, a sticky mass was obtained after extraction of the reaction mixture with ethyl acetate, which was coarsly purified by flash chromatography. Treatment of the thus obtained crude <bold>2</bold> with NaH in DMF finally afforded the target product <bold>3</bold>. Although the overall yield (25%) is only moderate, the presented procedure permits a rapid and simple access to the tricycle <bold>3</bold> starting from cheap, commercially available compounds.</p>
+	  <fig id="molbank-2010-M661-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M661-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M661-sch001.tif"/>
+      </fig>
+      <p>A detailed characterization of <bold>3</bold> including IR, MS and NMR (<sup>1</sup>H, <sup>13</sup>C, <sup>15</sup>N) spectral data as well as microanalytical data is given in the Experimental. Full and unambiguous assignment of all <sup>1</sup>H, <sup>13</sup>C and <sup>15</sup>N NMR resonances was achieved by combined application of standard NMR spectroscopic techniques such as <sup>1</sup>H-coupled <sup>13</sup>C-NMR (gated decoupling), APT, COSY, TOCSY, NOESY, gs-HSQC and gs-HMBC [<xref ref-type="bibr" rid="B12-molbank-2010-M661">12</xref>].</p>
+	   </sec>
+	  <sec>
+      <title>Experimental</title>
+      <p>The melting point was determined on a Kofler hot-stage microscope and is uncorrected. Mass spectrum: Shimadzu QP 1000 instrument (EI, 70 eV). IR spectrum: Perkin-Elmer FTIR 1605 spectrophotometer (KBr-disc). The elemental analysis was performed at the Microanalytical Laboratory, University of Vienna. All NMR spectra were recorded from CDCl<sub>3</sub> solutions on a Bruker Avance 500 instrument with a &#x2018;directly&#x2019; detecting broadband observe probe (BBFO) at 298 K (500.13 MHz for <sup>1</sup>H, 125.76 MHz for <sup>13</sup>C, 50.68 MHz for <sup>15</sup>N). The centre of the solvent signal was used as an internal standard which was related to TMS with &#x3B4; = 7.26 ppm (<sup>1</sup>H in CDCl<sub>3</sub>) and &#x3B4; = 77.0 ppm (<sup>13</sup>C in CDCl<sub>3</sub>). The digital resolutions were 0.2 Hz/data point in the <sup>1</sup>H and 0.4 Hz/data point in the <sup>1</sup>H-coupled <sup>13</sup>C-NMR spectra (gated decoupling). The <sup>15</sup>N NMR spectrum (gradient-selected <sup>15</sup>N,<sup>1</sup>H-HMBC) was referenced against external nitromethane. Pyrazolone <bold>1</bold> and acid chloride <bold>2</bold> are commercially available (TCI Europe).</p>
+      <sec>
+        <title>1-(2-Chlorophenyl)-3-methylchromeno[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one <italic>(<bold>3</bold>)</italic></title>
+        <p>Under anhydrous conditions, to a suspension of 1-(4-chlorophenyl)-3-methyl-2-pyrazolin-5-one (<bold>1</bold>) (2.086 g, 10 mmol) and Ca(OH)<sub>2</sub> (1.482 g, 20 mmol) in dry 1,4-dioxane (30 mL) a solution of 2-chlorobenzoyl chloride (1.750 g, 10 mmol) in 20 mL of 1,4-dioxane was added dropwise. Then the reaction mixture was heated at reflux for 2 h under stirring. After cooling to room temperature, the mixture was treated with 40 mL of 2 N HCl, stirred for 15 min, and poured into 200 mL of H<sub>2</sub>O. After 30 min, the aqueous reaction mixture was extracted with ethyl acetate (3 &#xB0; 50 mL), the combined organic layers were subsequently washed with NaHCO<sub>3</sub> solution and water, dried (Na<sub>2</sub>SO<sub>4</sub>) and evaporated under reduced pressure. The sticky residue was purified by flash chromatography (silica gel, eluent: ethyl acetate). The obtained aroylation product <bold>2</bold> (1.70 g, 4.97 mmol) was dissolved in dry DMF (25 mL), 215 mg (5.38 mmol) NaH (60% dispersion in mineral oil) was added portionwise and the mixture was heated to reflux for 12 h. After cooling to room temperature, the solvent was removed under reduced pressure and the residue was taken up in H<sub>2</sub>O. The resulting mixture was stirred for 1 h and then filtered with suction. The residue was washed with H<sub>2</sub>O and light petroleum and recrystallized from ethanol to afford 778 mg (25% overall yield) of a colorless solid with mp 209&#x2013;212 &#xB0;C.</p>
+        <p>IR (KBr) &#x3BD; (cm<sup>-1</sup>): 1667 (C=O).</p>
+        <p>MS (EI, 70 eV): (<italic>m/z</italic>, %) 310/312 (M<sup>+</sup>, 2.5/0.8), 138 (21), 111 (30), 96 (37), 95 (22), 85 (26), 83 (40), 81 (29), 69 (56), 42 (100).</p>
+        <p><sup>1</sup>H NMR (CDCl<sub>3</sub>): &#x3B4; (ppm) 2.71 (s, 3H, 3-Me), 7.41 (m, 1H, H-8), 7.44 (m, 1H, H-6), 7.49 (m, 1H, NPh H-5), 7.50 (m, 1H, NPh H-4), 7.56 (m, 1H, NPh H-6), 7.61 (m, 1H, NPh H-3), 7.66 (m, 1H, H-7), 8.36 (m, 1H, H-5).</p>
+        <p><sup>13</sup>C NMR (CDCl<sub>3</sub>): &#x3B4; (ppm) 14.2 (3-Me, <sup>1</sup><italic>J</italic> = 129.3 Hz), 104.0 (C-3a, <sup>3</sup><italic>J</italic>(C3a,3-Me) = 2.7 Hz), 117.6 (C-8), 123.4 (C-4a), 125.1 (C-6), 126.9 (C-5), 127.8 (NPh C-5), 129.4 (NPh C-6), 130.6 (NPh C-3), 131.0 (NPh C-4), 131.8 (NPh C-2), 133.7 (C-7), 133.8 (NPh C-1), 148.8 (C-3, <sup>2</sup><italic>J</italic>(C3,3-Me) = 7.1 Hz), 154.4 (C-9a), 154.6 (C-8a), 173.7 (C-4).</p>
+        <p><sup>15</sup>N NMR (CDCl<sub>3</sub>): &#x3B4; (ppm) &#x2013;200.1 (N-1), &#x2013;91.6 (N-2).</p>
+        <p>Anal. Calcd for C<sub>17</sub>H<sub>11</sub>ClN<sub>2</sub>O<sub>2</sub> &#x2022; 0.4 H<sub>2</sub>O: C, 64.22%; H, 3.74%; N, 8.81%. Found: C, 64.31%; H, 3.40%; N 8.99%.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2010-M661">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M661-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M661-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M661-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M661-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M661">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pinto</surname>
+              <given-names>M.M.M.</given-names>
+            </name>
+            <name>
+              <surname>Sousa</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Nascimento</surname>
+              <given-names>M.S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Xanthone derivatives: New insights in biological activities</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2005</year>
+          <volume>12</volume>
+          <fpage>2517</fpage>
+          <lpage>2538</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986705774370691</pub-id>
+          <pub-id pub-id-type="pmid">16250875</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M661">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kleemann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Engel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kutscher</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Reichert</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Pharmaceutical Substances: Syntheses, Patents, Applications</source>
+          <edition>4th ed.</edition>
+          <publisher-name>Thieme</publisher-name>
+          <publisher-loc>Stuttgart, Germany</publisher-loc>
+          <year>2001</year>
+          <fpage>99</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M661">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Haring</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient approach to heterocyclic analogues of xanthone: A short synthesis of all possible Pyrido[5,6]pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones</article-title>
+          <source>Synthesis</source>
+          <year>2006</year>
+          <fpage>4219</fpage>
+          <lpage>4229</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2006-950324</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M661">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Haring</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zwettler</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tri- and tetracyclic heteroaromatic systems: Synthesis of novel benzo-, benzothieno- and thieno-fused pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones</article-title>
+          <source>Heterocycles</source>
+          <year>2007</year>
+          <volume>71</volume>
+          <fpage>87</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200724119</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M661">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>A convenient approach to heterocyclic building blocks: Synthesis of novel ring systems containing a [5,6]pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one moiety</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>60</fpage>
+          <lpage>73</lpage>
+          <pub-id pub-id-type="doi">10.3390/12010060</pub-id>
+          <pub-id pub-id-type="pmid">17693953</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M661">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[2,3-<italic>b</italic>]quinoxalin-4(1<italic>H</italic>)-one: Synthesis and characterization of a novel tetracyclic ring system</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2007</year>
+          <volume>44</volume>
+          <fpage>1139</fpage>
+          <lpage>1143</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570440526</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M661">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel polycyclic ring systems containing two pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one moieties</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>2007</year>
+          <volume>43</volume>
+          <fpage>1060</fpage>
+          <lpage>1064</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10593-007-0165-z</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M661">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Habicht</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of a novel pentacycle: 8-methyl-10-phenylpyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[3,2-<italic>c</italic>][1,10]phenanthrolin-7(10<italic>H</italic>)-one</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>2008</year>
+          <volume>44</volume>
+          <fpage>709</fpage>
+          <lpage>714</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10593-008-0106-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M661">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Habicht</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and NMR data of pyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[2,3-<italic>b</italic>]pyrazin-4(1<italic>H</italic>)-ones: Derivatives of a novel tricyclic ring system</article-title>
+          <source>Acta Chim. Slov.</source>
+          <year>2009</year>
+          <volume>56</volume>
+          <fpage>521</fpage>
+          <lpage>526</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M661">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarenko</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Kvitko</surname>
+              <given-names>I.Y.</given-names>
+            </name>
+            <name>
+              <surname>Efros</surname>
+              <given-names>L.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic analogs of xanthones. C-Acylation of 5-pyrazolones and synthesis of chromono[3,2-<italic>d</italic>]pyrazoles</article-title>
+          <source>Chem. Heterocycl. Comp.</source>
+          <year>1972</year>
+          <volume>8</volume>
+          <fpage>722</fpage>
+          <lpage>727</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00487468</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M661">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jensen</surname>
+              <given-names>B.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of 1-phenyl-3-methyl-4-acyl-pyrazolones-5</article-title>
+          <source>Acta Chem. Scand.</source>
+          <year>1959</year>
+          <volume>13</volume>
+          <fpage>1668</fpage>
+          <lpage>1670</lpage>
+          <pub-id pub-id-type="doi">10.3891/acta.chem.scand.13-1668</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M661">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braun</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kalinowski</surname>
+              <given-names>H.-O.</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>150 and more basic NMR experiments: A practical course</article-title>
+          <edition>2nd ed</edition>
+          <publisher-name>Wiley&#x2013;VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>1998</year>
+        </citation>
+      </ref>
+    </ref-list>
+    </back>
+</article>

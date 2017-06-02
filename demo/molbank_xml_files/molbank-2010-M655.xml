@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M655</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M655</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl 2-[(<italic>Z</italic>)-2-(4-Cyanophenyl)-2-hydroxyvinyl]-4-(4-methoxy&#xAD;phenyl)-6-methyl-1,4-dihydropyrimidine-5-carboxylate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Sukhdeep</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M655" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schober</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M655" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gro&#xDF;</surname>
+            <given-names>Gregor Alexander</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M655" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2010-M655" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M655"><label>1</label>MacroNano, Junior Research Group Microfluidics and Biosensors, Institute for Micro and Nanotechnologies, Ilmenau University of Technology, Gustav-Kirchhoff Str. 5, 98693 Ilmenau, Germany</aff>
+      <aff id="af2-molbank-2010-M655"><label>2</label>Department of Physical Chemistry and Microreaction Technology, Institute for Micro and Nanotechnologies, Ilmenau University of Technology, Weimarer Str. 32, 98693 Ilmenau,Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M655"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>alexander.gross@tu-ilmenau.de.</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>01</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>1</issue>
+      <elocation-id>M655</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>12</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>01</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A one-pot, two-step method has been developed for the synthesis of ethyl 2-[(<italic>Z</italic>)-2-(4-cyanophenyl)-2-hydroxyvinyl]-4-(4-methoxyphenyl)-6-methyl-1,4-dihydro-pyrimidine-5-carboxylate, including a sulfide contraction step utilizing solution and solid phase synthesis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>DHPM</kwd>
+        <kwd>Biginelli</kwd>
+        <kwd>Eschenmoser sulfide contraction</kwd>
+        <kwd>Eschenmoser coupling</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Nonplanar 3,4-dihydropyrimidin-2(1<italic>H</italic>)-one derivatives (DHPMs) are attractive molecules for drug research because of their known multifaceted pharmacological profiles. Introduction of DHPMs resulted in the discovery of new kinds of calcium channel modulators [<xref ref-type="bibr" rid="B1-molbank-2010-M655">1</xref>], hepatitis B virus replication inhibitors [<xref ref-type="bibr" rid="B2-molbank-2010-M655">2</xref>], mitotic kinesin inhibitors [<xref ref-type="bibr" rid="B3-molbank-2010-M655">3</xref>] and &#x3B1;<sub>1a</sub>-adrenergic receptor antagonists [<xref ref-type="bibr" rid="B4-molbank-2010-M655">4</xref>]. It seems to be reasonable that DHPMs are privileged structures for drug research and modifications around this motif are of considerable importance. </p>
+      <p>Due to our continuous efforts in search of new methods for modifying privileged hetreocycles, we report herein the synthesis of ethyl 2-[(<italic>Z</italic>)-2-(4-cyanophenyl)-2-hydroxyvinyl]-4-(4-methoxyphenyl)-6-methyl-1,4-dihydropyrimidine-5-carboxylate (<bold>3</bold>) from ethyl 4-(4-methoxyphenyl)-6-methyl-2-thioxo-1,2,3,4-tetrahydropyrimidine-5-carboxylate (<bold>1</bold>) in a one-pot, two-step synthesis (<xref ref-type="scheme" rid="molbank-2010-M655-sch001">Scheme 1</xref>). The reaction sequence includes the S-alkylation of DHPM <bold>1</bold> by the &#x3B1;-bromoketone <bold>2</bold>. The resulting intermediate undergoes in the presence of triphenylphosphine an Eschenmoser sulfide contraction to yield the desired product <bold>3</bold> [<xref ref-type="bibr" rid="B5-molbank-2010-M655">5</xref>]. Separation of the arising triphenylphosphine sulfide from the reaction mixture can be done by column chromatography, but is not an easy task. To prevent this costly separation procedure, we chose the application of polymer-bound triphenylphosphine. The reaction selectivity and yields of both phosphine agents are comparable. The presented synthetic method is well suited for a diversity-oriented synthesis strategy, using differently substituted Biginelli compounds and various &#x3B1;-bromoketones.</p>
+      <p>The title compound <bold>3</bold> has been fully characterized by <sup>1</sup>H- and <sup>13</sup>C-NMR, IR, Raman and ESI-TOF MS analysis. It was observed that the <sup>1</sup>H NMR spectra of <bold>3</bold> show a duplicate set of some signals (approximately 3:1 ratio) due to different conformers of <bold>3</bold> in solution. No tautomeric form of <bold>3</bold> was observed in the NMR experiments. The <sup>1</sup>H NMR as well as the <sup>13</sup>C NMR did not show appropriate signals for the expected aliphatic CH<sub>2</sub> group of a keto tautomer. </p>
+    <sec>
+      <title>Experimental Procedure</title>
+      <p>To a suspension of ethyl 4-(4-methoxyphenyl)-6-methyl-2-thioxo-1,2,3,4-tetrahydropyrimidine-5-carboxylate <bold>1</bold> (110 mg, 0.36 mmol, 1 equiv) in acetone (2 mL), powdered K<sub>2</sub>CO<sub>3</sub> (75 mg, 0.54 mmol, 1.5 equiv) and 2-bromo-4`-cyanoacetophenone <bold>2</bold> (96 mg, 0.43 mmol, 1.2 equiv) were added subsequently. The reaction mixture was vigorously shaken at ambient temperature in a 4 mL capped glass vial, using an automatic shaker. A colour change of the solution from light yellow to dark brown took place. After shaking at ambient temperature under TLC monitoring (ethyl acatate/hexane 1:1, R<sub>f</sub>: 0.3), complete conversion of <bold>1</bold> into the S-alkylated intermediate was observed after 30 min. Polymer-bound triphenylphosphine (0.54 mmol) (polystyrene, 2% DVB, 3 mmol/g, Fluka) was added in one portion, and the reaction temperature was raised to 80 <sup>o</sup>C. Shaking of the suspension was continued for additional 10 h to complete the sulfide contraction reaction. For work-up, the polymer was filtered off and washed with approx. 5 mL of ethyl acetate. The collected filtrates were concentrated under reduced pressure and subjected to flash chromatography (Silica-60, 0.06&#x2013;0.20 mm, ethyl acetat/hexane 20% vol./vol.) to obtain pure viscous yellow product as an approx. 3:1 inseparable mixture of isomers in 65% (97 mg) yield.</p>
+      <p>HR-MS (ESI-Q-TOF) calcd. for C<sub>24</sub>H<sub>24</sub>N<sub>3</sub>O<sub>4</sub> [MH]<sup>+</sup>: 418.1761 found [MH]<sup>+</sup>: 418.1769.</p>
+      <p>UV-Vis (CH<sub>3</sub>CN), &#x3BB; (nm): 374, 282, 244, 193.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 2977 (C-H aromatic), 2227 (-C&#x2261;N), 1700 (C=O), 1630 (C=C), 1573, 1532, 1509, 1476, 1368, 1328, 1244, 1203, 1172, 1092, 1058, 1031.</p>
+      <p>Raman (powder, ATR, cm<sup>-1</sup>): 2229, 1649, 1605, 1502, 1382, 1300, 1222, 1177, 1111, 872, 763.</p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>), &#x3B4; (ppm): 1.13, 1.12 (t, 3H, <italic>J</italic> = 6.0 Hz, -OCH<sub>2</sub>C<underline>H</underline><sub>3</sub>), 2.41, 2.33 (s, 3H, CH<sub>3</sub>), 3.71, 3.68 (s, 3H, OCH<sub>3</sub>), 4.03, 4.05 (q, 2H, <italic>J</italic> = 6.0 Hz, -OC<underline>H</underline><sub>2</sub>CH<sub>3</sub>), 5.22 (s, 1H, CH), 5.28 (s, 1H, CH), 5.63, 5.38 (1H, D<sub>2</sub>O exchangeable, OH), 6.77, 6.74 (d, 2H, <italic>J =</italic> 9.0 Hz, ArH), 7.17, 7.13 (d, 2H, <italic>J</italic> = 9.0 Hz, ArH), 7.58, 7.54 (d, 2H, <italic>J</italic> = 9.0 Hz, ArH), 7.76, 7.72 (d, 2H, <italic>J</italic> = 9.0 Hz, ArH), 12.72, 11.41 (br, 1H, D<sub>2</sub>O exchangeable, N1-H). The second set of <sup>1</sup>H NMR signals (observed for the minor isomeric form) is <italic>italicized</italic>.</p>
+      <p><sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>), &#x3B4; (ppm): 14.2, 19.3, 52.8, 55.3, 60.3, 79.0, 103.7, 114.2, 118.6, 127.1, 128.0, 132.1, 135.8, 143.2, 144.3, 155.0, 159.5, 165.3, 183.9.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2010-M655">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M655-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M655-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M655-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M655-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M655-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M655-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Financial support by the Federal Ministry of Education and Research, Germany (BMBF) (FKZ 16SV3701) and by the Thuringian Ministry of Culture (FKZ 03ZIK062, FZK 03ZIK465) is gratefully acknowledged. The support from S. G&#xFC;nther and K. Risch for spectroscopic measurements is gratefully acknowledged.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M655">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biologically active dihydripyrimidones of the Biginelli-Type. A literature survey</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>35</volume>
+          <fpage>1043</fpage>
+          <lpage>1052</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(00)01189-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M655">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deres</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Schroeder</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Paessens</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Goldmann</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hacker</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kramer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Niewoehner</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Pleiss</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Stoltefuss</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Graef</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Koletzki</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Masantschek</surname>
+              <given-names>R.N.A.</given-names>
+            </name>
+            <name>
+              <surname>Reimann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jaeger</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Grob</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Beckermann</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Schlemmer</surname>
+              <given-names>K.H.</given-names>
+            </name>
+            <name>
+              <surname>Haebich</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Ruebsamen-Waigmann</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of hepatitis B virus replication by drug-induced depletion of nucleocapsids</article-title>
+          <source>Science</source>
+          <year>2003</year>
+          <volume>299</volume>
+          <fpage>893</fpage>
+          <lpage>896</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1077215</pub-id>
+          <pub-id pub-id-type="pmid">12574631</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M655">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayer</surname>
+              <given-names>T.U.</given-names>
+            </name>
+            <name>
+              <surname>Kapoor</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Haggarty</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Schreiber</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Mitchison</surname>
+              <given-names>T.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Small molecule inhibitor of mitotic spindle bipolarity identified in a phenotype-based screen</article-title>
+          <source>Science</source>
+          <year>1999</year>
+          <volume>286</volume>
+          <fpage>971</fpage>
+          <lpage>974</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.286.5441.971</pub-id>
+          <pub-id pub-id-type="pmid">10542155</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M655">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barrow</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Nantermet</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Selnick</surname>
+              <given-names>H.G.</given-names>
+            </name>
+            <name>
+              <surname>Glass</surname>
+              <given-names>K.L.</given-names>
+            </name>
+            <name>
+              <surname>Rittle</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>K.F.</given-names>
+            </name>
+            <name>
+              <surname>Steele</surname>
+              <given-names>T.G.</given-names>
+            </name>
+            <name>
+              <surname>Homnick</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Freidinger</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Ransom</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>Kling</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Reiss</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Broten</surname>
+              <given-names>T.P.</given-names>
+            </name>
+            <name>
+              <surname>Schorn</surname>
+              <given-names>T.W.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>R.S.L.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Malley</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Olah</surname>
+              <given-names>T.V.</given-names>
+            </name>
+            <name>
+              <surname>Ellis</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Barrish</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kassahun</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Leppert</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Nagarathnam</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Forray</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vitro</italic> and <italic>in vivo</italic> evaluation of dihydropyrimidinone C-5 amides as potent and selective &#x3B1;<sub>1A</sub> receptor antagonists for the treatment of benign prostatic hyperplasia</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2000</year>
+          <volume>43</volume>
+          <fpage>2703</fpage>
+          <lpage>2718</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm990612y</pub-id>
+          <pub-id pub-id-type="pmid">10893308</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M655">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schober</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gebinoga</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gro&#xDF;</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile conversion of Biginelli 3,4-dihydro&#xAD;pyrimidin-2(1<italic>H</italic>)-thiones to 2-(2-hydroxy-2-arylvinyl)dihydropyrimidines <italic>via</italic> Eschenmoser coupling</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2009</year>
+          <volume>50</volume>
+          <fpage>1838</fpage>
+          <lpage>1843</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2009.02.027</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2010-M655-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M655-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>DHMP <bold>1</bold> alkylation/sulfide contraction sequence yielding product <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M655-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

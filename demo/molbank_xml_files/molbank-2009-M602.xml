@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M602</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M602</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Preparation of 5-Bromo-2-naphthol: The Use of a Sulfonic Acid as a Protecting and Activating Group</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Everett</surname>
+            <given-names>Renata</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hamilton</surname>
+            <given-names>Jillian</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abelt</surname>
+            <given-names>Christopher</given-names>
+          </name>
+          <xref rid="c1-molbank-2009-M602" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M602">Department of Chemistry, College of William and Mary, Williamsburg, VA 23187, USA</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M602"><label>*</label>Author to whom correspondence should be addressed; E-mail: <email>cjabel@wm.edu</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>06</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M602</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>06</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>06</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The preparation of 5-bromo-2-naphthol (<bold>4</bold>) in three steps from 5-amino-2-naphthol (<bold>1</bold>) is described. A sulfonic acid group is introduced at the 1-position as an activating and protecting group for the Sandmeyer reaction. The sulfonate group allows for the use of only water and sulfuric acid as solvents. The sulfonic acid is introduced with three equivalents of sulfuric acid, and it is removed in 20% aq. sulfuric acid.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Sandmeyer reaction</kwd>
+        <kwd>protecting group</kwd>
+        <kwd>sulfonation</kwd>
+        <kwd>desulfonation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2009-M602" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Regioselective synthesis of disubstituted naphthalenes can be challenging especially when the substituents are on different rings. We needed 5-bromo-2-naphthol (<bold>4)</bold> as a starting material for a multistep synthesis. This simple derivative is virtually unknown [<xref ref-type="bibr" rid="B1-molbank-2009-M602">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M602">2</xref>]. The most direct route to <bold>4</bold> is from 5-amino-2-naphthol (<bold>1</bold>) using the Sandmeyer reaction. Unfortunately, the Sandmeyer reaction fails with <bold>1</bold> because the hydroxyl group is too activating. Even when the hydroxyl group is protected as a methyl ether, the normal solution-phase Sandmeyer reaction employing cuprous salts is still problematic. In their preparation of 5-bromo-2-methoxynaphthalene, Dauben and co-workers resorted to pyrolysis of the diazonium ion double salt with HgBr<sub>2</sub>, but this procedure gives just a 30% yield of the bromide [<xref ref-type="bibr" rid="B3-molbank-2009-M602">3</xref>].</p>
+      <p>The cuprous salt method is poor because the methoxy group makes the diazonium ion too electron-rich. As a result, the electron transfer from Cu(I), the first step in the mechanism, is slow. Making the naphthalene less electron-rich should make the normal Sandmeyer reaction viable. Bueno and co-workers protected the hydroxyl group of <bold>1</bold> as a triflate [<xref ref-type="bibr" rid="B4-molbank-2009-M602">4</xref>]. This derivative deactivates the naphthalene sufficiently to allow for iodination and chlorination but not for bromination. They prepared the triflates using <italic>N</italic>-phenyl-bis(trifluoromethanesulfonamide). The high cost of this reagent would be a serious issue with large scale preparations.</p>
+      <p>In this paper we describe the use of sulfonation as a way to both activate the Sandmeyer reaction while protecting the naphthalene nucleus from further substitution. Both the sulfonation and desulfonation procedures are simple, inexpensive, and avoid the use of organic solvents and exotic reagents. The three step procedure gives access to <bold>4</bold> on a scale sufficient for a multistep synthesis.</p>
+    </sec>
+    <sec id="sec2-molbank-2009-M602" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>The preparation of <bold>4</bold> is shown in <xref ref-type="scheme" rid="molbank-2009-M602-sch001">Scheme 1</xref>. Sulfonation of <bold>1</bold> is carried out with neat sulfuric acid using slightly less than four equivalents. This amount is just enough to completely dissolve the substrate. When sulfonic acid <bold>2</bold> forms, it precipitates out of solution. Within 15 min the reaction mixture has turned completely solid. Using excess sulfuric acid leads to further sulfonation and diminished yields. Chlorosulfonic acid also works, but yields are smaller. It is also necessary to quench the reaction after just a few minutes to avoid over-sulfonation.</p>
+      <p>The product <bold>2</bold> is an inner salt and, as such, is not soluble in either water or acetone. It is easily isolated by rinsing with these solvents. The water rinse removes unreacted <bold>1</bold> as the hydrogen sulfate salt, while the acetone rinse removes any <bold>1</bold> that remains. Neutralization of the aqueous filtrate affords unreacted <bold>1</bold>. The sulfonation goes in nearly 90% yield based on recovered starting material.</p>
+      <p>The success of the sulfonation reaction is due to both the amino and hydroxyl groups. The amino group protonates under these conditions rendering it unreactive. Sulfonation of naphthols and other phenolic compounds is known to proceed via a sulfate ester which subsequently decomposes [<xref ref-type="bibr" rid="B5-molbank-2009-M602">5</xref>]. Support for this mechanism in this case comes from the observation that the methyl ether derivative of <bold>1</bold> does not sulfonate under similar conditions.</p>
+      <p>The Sandmeyer reaction on <bold>2</bold> is straightforward and efficient. Sulfuric acid is used to generate nitrous acid instead of HCl to avoid incorporation of chloride in the final product <bold>4</bold>. The diazonium sulfonate zwitterion precipitates as it forms. It is isolated by filtration, and excess nitrous acid is removed by washing with water. The zwitterion is reacted with an aqueous 1:1:1 mixture of CuBr, CuBr<sub>2</sub> and HBr. Typically, excess CuBr is used in the Sandmeyer reaction; however, more recent studies have found that an equimolar ratio of CuBr and CuBr<sub>2</sub> is more efficacious [<xref ref-type="bibr" rid="B6-molbank-2009-M602">6</xref>]. We found that the Cu(II) salt also inhibits the formation of the H-atom abstraction byproduct, which gives 2-naphthol after subsequent desulfonation. The product <bold>3</bold> is isolated by salting out the aqueous solution. The filtrate still contains some <bold>3</bold>; however, it is very impure, and desulfonation of this material gives as much 2,5-dibromonaphthalene as <bold>4</bold>. The formation of the dibromonaphthalene byproduct is pronounced if the Sandmeyer reaction is heated above 75 &#xB0;C.</p>
+      <p>The sulfonic acid group affects the Sandmeyer reaction in three ways. Most importantly, it enhances the reaction yield, an effect that has long been noted [<xref ref-type="bibr" rid="B7-molbank-2009-M602">7</xref>]. In fact, a sulfonic acid group is used for the large scale preparation of 2-bromonaphthalene [<xref ref-type="bibr" rid="B8-molbank-2009-M602">8</xref>]. In the present case, in contrast to the latter example, we introduce the sulfonate group deliberately. The sulfonic acid group facilitates the electron transfer reaction between CuBr and the diazonium intermediate by making the diazonium compound a better electron acceptor [<xref ref-type="bibr" rid="B9-molbank-2009-M602">9</xref>]. The sulfonic acid group also serves to block the 1-position from azo coupling, a ubiquitous reaction of 2-naphthols [<xref ref-type="bibr" rid="B10-molbank-2009-M602">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2009-M602">11</xref>]. Finally, the use of the sulfonic acid results in the formation of an insoluble diazonium sulfonate zwitterion [<xref ref-type="bibr" rid="B12-molbank-2009-M602">12</xref>]. Isolation of this salt is a purification step.</p>
+      <p>The sulfonic acid group is easily removed under relatively mild conditions. By comparison, removing the sulfonic acid in 2-bromonaphthalene-1-sulfonic acid requires refluxing with 50% aq. sulfuric acid solution for 12-16 hrs. With <bold>3</bold> several minutes of refluxing with a 20% solution is sufficient. The reaction is carried out for 20 min only to ensure completion. Other methods of desulfonation work nearly as well. They include vacuum sublimation from a 1:1 mixture of <bold>3</bold> and KHSO<sub>4</sub>, and refluxing in toluene with Amberlyst-15. The former is useful on small scales because it avoids the use of all solvents, while the latter avoids a solvent extraction. Desulfonation is simply the mechanistic reverse of sulfonation. The hydroxyl group activates electrophilic aromatic substitution, and hence also accelerates desulfonation.</p>
+      <p>In conclusion, through the use of a sulfonic acid as an activating and protecting group, we have devised a route into 5-bromo-2-naphthol amenable to large scale preparation. </p>
+    </sec>
+    <sec id="sec3-molbank-2009-M602" sec-type="methods">
+      <title>3. Experimental</title>
+      <sec id="sec3dot1-molbank-2009-M602">
+        <title>3.1. General Methods</title>
+        <p>NMR spectra were recorded on a Varian Mercury 400-Vx system. High resolution ESI-MS were acquired with a Bruker Apex-Qe instrument.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2009-M602">
+        <title>3.2. 5-Amino-2-hydroxynaphthalene-1-sulfonic acid</title>
+        <p><italic>Sulfonation.</italic> 5-Amino-2-naphthol (<bold>1</bold>, 16.7 g, 104 mmol) is ground to a fine powder and heated to 55&#xB0;C under a stream of N<sub>2</sub>. Sulfuric acid (21.6 mL, 389 mmol) is added in one portion and mixed rapidly with the solid. Stirring is continued until the mixture becomes too viscous. The heat is removed, the reaction is covered and allowed to stand overnight. The solid is taken up in water (ca. 500 mL) and collected by suction filtration. The solid is then taken up in acetone (ca. 300 mL) and collected by suction filtration. It is washed with more acetone and air-dried giving 5-amino-2-hydroxynaphthalene-1-sulfonic acid (20.90 g, 84%) as a white solid. Unreacted <bold>1</bold> (0.84 g, 5.3 mmol) is recovered from the first aqueous filtrate after neutralization and suction filtration (88% based on 100% conversion).</p>
+        <p>M.p. 288-290&#xB0;C (dec). <sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 12.17 (s, 1H), 8.63 (d, <italic>J=</italic>8.8 Hz, 1H), 7.86 (d, <italic>J=</italic>9.2 Hz, 1H), 7.47 (dd, <italic>J=</italic>8.8, 7.4 Hz, 1H), 7.28 (d, <italic>J=</italic>7.4 Hz, 1H), 7.22 (d, <italic>J=</italic>9.2 Hz, 1H). <sup>13</sup>C NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 152.95. 131.65, 128.07, 126.05, 126.00, 124.75, 121.91, 121.06, 120.55, 117.21.</p>
+        <p>Found [M+Na]<sup>+</sup> 262.01430. C<sub>10</sub>H<sub>9</sub>NO<sub>4</sub>SNa requires 262.01454.</p>
+      </sec>
+      <sec id="sec3dot3-molbank-2009-M602">
+        <title>3.3. 5-Bromo-2-naphthol</title>
+        <p><italic>Sandmeyer Reaction.</italic> Sulfonic acid <bold>2</bold> (11.11 g, 46.5 mmol), NaOH (1.90 g, 48.0 mmol) and NaNO<sub>2</sub> (3.20 g, 46.4 mmol) are dissolved in water (80 mL). This solution is added dropwise to a solution of H<sub>2</sub>SO<sub>4</sub> (8.2 mL) in H<sub>2</sub>O (20 mL) at such a rate that the internal temperature never exceeds 5 &#xB0;C. The yellow diazonium sulfate precipitate is collected by suction filtration and washed several times with ice-water. The moist filter cake is transferred to a mixture of CuBr (6.70 g, 46.7 mmol), CuBr<sub>2</sub> (10.40 g, 46.6 mmol), HBr (5.2 mL) and H<sub>2</sub>O (ca. 200 mL). The mixture is warmed to 70&#xB0;C for 1 hr then filtered by gravity. The filtrate is saturated with NaCl (90 g), and the solution is stirred overnight. The precipitate is collected by suction filtration. The solid is air-dried, giving crude 5-bromo-2-hydroxynaphthalene-1-sulfonic acid (<bold>3</bold>, 11.11 g, 36.7 mmol, 79%), which is used without further purification. </p>
+        <p><italic>Desulfonation.</italic> Crude <bold>3</bold> (11.11 g, 36.7 mmol) is mixed with 20% aq. H<sub>2</sub>SO<sub>4</sub> (250 mL). The slurry is heated to reflux for 20 min. After the reaction cools, it is extracted with Et<sub>2</sub>O (3 &#xD7; 200 mL). The ether layers are combined, washed with H<sub>2</sub>O (2 &#xD7; 50 mL), dried over Na<sub>2</sub>SO<sub>4</sub> and conc. <italic>in vacuo</italic>. The residue is sublimed under vacuum (180 &#xB0;C, 0.5 torr) giving 5-bromo-2-naphthol (<bold>4</bold>, 4.59 g, 20.6 mmol, 56%) as a white solid.</p>
+        <p>M.p. 110-111&#xB0;C. <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 8.16 (d, <italic>J=</italic>8.1 Hz, 1H), 7.64 (d, <italic>J=</italic>9.2 Hz, 1H), 7.61 (d, <italic>J=</italic>7.6 Hz, 1H), 7.26 (dd, <italic>J=</italic>8.1, 7.6 Hz, 1H), 7.20 (dd, <italic>J=</italic>9.2, 2.4 Hz, 1H), 7.15 (d, <italic>J=</italic>2.4 Hz, 1H), 5.05 (s, 1H). <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; = 154.13, 136.05, 129.62, 127.98, 127.73, 127.23, 126.68, 123.01, 119.24, 110.18. IR (Nujol, cm<sup>-1</sup>): 3200, 1503, 1464, 1378, 861, 812, 771, 740. </p>
+        <p>Found [M-H]<sup>-</sup> 220.96077. C<sub>10</sub>H<sub>6</sub>BrO requires 220.96020.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M602">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M602-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M602-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M602-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M602-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>This research was supported by Grant 1R15 089925-01 from the NIH/NHLBI.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M602">
+        <label>1.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodman</surname>
+              <given-names>R.H.</given-names>
+            </name>
+            <name>
+              <surname>Fjeld</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,1&#x2032;-Binaphthyl-based inhibitors of NAD<sup>+</sup>-dependent deacetylase activity and SIR2-family members</article-title>
+          <source>PCT Int. Appl.</source>
+          <patent>WO 2007124383</patent>
+          <year>2007</year>
+          </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M602">
+        <label>2.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pearlman</surname>
+              <given-names>M.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phenols from certain carboxylic acids</article-title>
+          <source>US</source>
+          <patent>2764587</patent>
+          <year>1956</year>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M602">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dauben</surname>
+              <given-names>W.G.</given-names>
+            </name>
+            <name>
+              <surname>Saegebarth</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of &#x3B2;-(6-methoxy-1-naphthoyl)propionic acid</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1951</year>
+          <volume>73</volume>
+          <fpage>1853</fpage>
+          <lpage>1854</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01148a515</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M602">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bueno</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Flynn</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Gilmore</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Marcos</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Montero</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Porter</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>A.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A versatile protocol for the preparation of substituted 1- and 2-naphthyl piperazines from aminonaphthols</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>7769</fpage>
+          <lpage>7771</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.09.052</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M602">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ansink</surname>
+              <given-names>H.R.W.</given-names>
+            </name>
+            <name>
+              <surname>Zelvelder</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Cerfontain</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sulfonation of 1- and 2-Naphthol and their Methanesulfonate Esters with Sulfur Trioxide. The influence of initial sulfation on the sulfo-product composition</article-title>
+          <source>Recl. Trav. Chim. Pay. B.</source>
+          <year>1993</year>
+          <volume>112</volume>
+          <fpage>210</fpage>
+          <lpage>215</lpage>
+          <pub-id pub-id-type="doi">10.1002/recl.19931120302</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M602">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galli</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Radical reactions of arenediazonium ions: An easy entry into the chemistry of the aryl radical</article-title>
+          <source>Chem. Rev.</source>
+          <year>1988</year>
+          <volume>88</volume>
+          <fpage>765</fpage>
+          <lpage>792</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00087a004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M602">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahl</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Basilios</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of 2-naphthoic acid and 2-halonaphthalenes</article-title>
+          <source>Bull. Soc. Chim. Fr.</source>
+          <year>1947</year>
+          <fpage>482</fpage>
+          <lpage>484</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M602">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolfe</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Doukas</surname>
+              <given-names>H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-Bromonaphthalene</article-title>
+          <source>J. Chem. Ed.</source>
+          <year>1951</year>
+          <volume>28</volume>
+          <fpage>472</fpage>
+          <lpage>473</lpage>
+          <pub-id pub-id-type="doi">10.1021/ed028p472</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M602">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Walton</surname>
+              <given-names>P.H.</given-names>
+            </name>
+            <name>
+              <surname>Timms</surname>
+              <given-names>A.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sandmeyer reactions. Part 7. An investigation into the reduction steps of Sandmeyer hydroxylation and chlorination reactions</article-title>
+          <source>J. Chem. Soc., Perkin Trans. 2</source>
+          <year>2002</year>
+          <fpage>1135</fpage>
+          <lpage>1150</lpage>
+          <pub-id pub-id-type="doi">10.1039/b200748g</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M602">
+        <label>10.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zollinger</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Diazo Chemistry I: Aromatic and Heteroaromatic Compounds</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>Weinheim</publisher-loc>
+          <year>1994</year>
+          <fpage>210</fpage>
+          <lpage>265</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M602">
+        <label>11.</label>
+		<note>
+		<p><citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanusek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mach&#xE1;&#x10D;ek</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Ly&#x10D;ka</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of 2-naphthol with substituted benzenediazonium salts in [bmim][BF4]</article-title>
+          <source>Dyes Pigments</source>
+          <year>2007</year>
+          <volume>73</volume>
+          <fpage>326</fpage>
+          <lpage>331</lpage>
+        </citation>, and ref therein.</p>
+		</note>
+      </ref>
+      <ref id="B12-molbank-2009-M602">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fieser</surname>
+              <given-names>L.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2-Aminonaphthol hydrochloride</article-title>
+          <source>Org. Synth.</source>
+          <year>1943</year>
+          <volume>2</volume>
+          <fpage>33</fpage>
+          <lpage>38</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2009-M602-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M602-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Preparation of 5-bromo-2-naphthol</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M602-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

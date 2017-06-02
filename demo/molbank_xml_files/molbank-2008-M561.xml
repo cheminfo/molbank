@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M561</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2008-M561</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Microwave Synthesis of (4-hydroxy Phenyl) 3-oxo butanoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Mohammed</given-names>
+          </name>
+          <xref rid="c1-molbank-2008-M561" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Benchat</surname>
+            <given-names>Nour-Eddine</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Anaflous</surname>
+            <given-names>Abderrahmane</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>El Kalai</surname>
+            <given-names>Fouad</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2008-M561">Applied Chemistry and Environement Laboratory, Faculty of Sciences, Univerity Mohamed 1st, Oujda, Morooco</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2008-M561"><label>*</label>Author to whom correspondence should be addressed. Fax : +212 36 50 06 03; E-Mail: <email>moharamdani2000@yahoo.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>03</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>2008</volume>
+      <issue>1</issue>
+      <elocation-id>M561</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>05</month>
+          <year>2007</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>20</day>
+          <month>11</month>
+          <year>2007</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>01</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2008 by MDPI (http://www.mdpi.org/).</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <disp-formula id='molbank-2008-M561-i001'>
+	  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M561-i001.tif"/>
+	  </disp-formula>
+      <p>The product <bold>3</bold> was previously prepared [<xref ref-type="bibr" rid="B1-molbank-2008-M561">1</xref>] using C<sub>6</sub>H<sub>6</sub> in the presence of pyridine.  A mixture of hydroquinone <bold>1</bold> (0.66 g, 6 mmol), ethyl acetoacetate <bold>2</bold> (0.78 g, 6 mmol) and monmorillonite K10 (0.43 g, 30 % by weight of the total reactants) [<xref ref-type="bibr" rid="B2-molbank-2008-M561">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2008-M561">3</xref>] was placed in a pyrex tube which was then introduced into a Maxidigest MX 350 Prolabo microwave monomode reactor fitted with a rotational system [<xref ref-type="bibr" rid="B4-molbank-2008-M561">4</xref>]. An approximate final temperature (120 &#xB0;C) was measured by introducing a digital thermometer at the end of the irradiation time (20 min on 180 W as irradiation power). The mixture was cooled to ambient temperature. After elution with ethyl acetate (30 mL) and subsequent filtration through florisil, the organic product was purified by chromatography on silicagel (dichloromethane : ethyl acetate, 90 :10), yield : 65 % of <bold>3</bold> white solid.</p>
+      <p>Melting point: 96-98 &#xB0;C.</p>
+      <p><sup>1</sup>H NMR d (CDCl<sub>3</sub>, 200 MHz): 7-6.7 (2d, 4H, Ph); 5,65 (s, OH) ; 3.7 (s, CH<sub>2</sub>); 2.38 (s, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C NMR d (CDCl<sub>3</sub>, 100 MHz): 30 (CH<sub>3</sub>); 50 (CH<sub>2</sub>); 116 and 123 (C=C arom.); 155 (CO<sub>2</sub>); 202 (C=O acyl).</p>
+      <p>MS (IC-NH<sub>3</sub>, m / z): 212(M<sup>+</sup> + 18) / 100 %.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2008-M561">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2008-M561-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M561-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2008-M561-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2008-M561-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2008-M561">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rall</surname>
+              <given-names>K.B.</given-names>
+            </name>
+            <name>
+              <surname>Perekalin</surname>
+              <given-names>V.V.</given-names>
+            </name>
+          </person-group>
+          <source>Zhurnal Obshchei Khimii</source>
+          <year>1955</year>
+          <volume>25</volume>
+          <fpage>259</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2008-M561">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.H.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>C.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Research (S)</source>
+          <year>1998</year>
+          <fpage>38</fpage>
+          <lpage>39</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2008-M561">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kaur</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nayyar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kad</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Research (S)</source>
+          <year>1998</year>
+          <fpage>280</fpage>
+          <lpage>281</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2008-M561">
+        <label>4.</label>
+        <note><p><citation citation-type="journal">
+		<label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappe</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>Dallinger</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <source>Nature Reviews Drug Discovery</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>51</fpage>
+          <pub-id pub-id-type="pmid">16374514</pub-id>
+        </citation>; 
+        <citation citation-type="journal">
+		<label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>De la Hoz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Diaz-Ortiz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Moreno</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Soc. Rev.</source>
+          <year>2005</year>
+          <volume>34</volume>
+          <fpage>164</fpage>
+          <pub-id pub-id-type="pmid">15672180</pub-id>
+        </citation></p></note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

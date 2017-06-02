@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M305</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M305</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-<italic>p</italic>-Tolylazo-5-trifluoromethyl-2,4-dihydropyrazol-3-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zohdi</surname>
+            <given-names>Hussein F.</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M305" ref-type="aff">a</xref>
+          <xref rid="c1-molbank-2003-M305" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rateb</surname>
+            <given-names>Nora M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M305" ref-type="aff">b</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M305"><label>a</label>Department of Chemistry, Faculty of Science, United Arab Emirates University, P.O.Box 17551 Al-Ain, UAE</aff>
+      <aff id="af2-molbank-2003-M305"><label>b</label>Department of Chemistry, Faculty of Science, Cairo University, Giza, Egypt</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M305"><label>*</label><email>hussein.zohdi@uaeu.ac.ae</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>1</issue>
+      <elocation-id>M305</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Trifluoromethyl</kwd>
+		<kwd>Dihydropyrazol-3-one</kwd>
+		<kwd>Tolyldiazonium chloride</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M305-i001.tif"/></p>
+      <p>To a cold solution of 5-trifluoromethyl-2,4-dihydropyrazol-3-one [<xref ref-type="bibr" rid="B1-molbank-2003-M305">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2003-M305">2</xref>] (0.76 g, 5 mmol) in ethanol (25 ml) containing sodium acetate (0.82 g, 10 mol), p-tolyldiazonium chloride [ca. 5 mmol; prepared by adding a solution of sodium nitrite (5 mmol / 2 ml H<sub>2</sub>O) to an ice cold solution of p-toluidine in 2 ml conc. HCl]  was added dropwise with stirring at 0-5&#xB0;C. The reaction mixture was stirred at room temperature for three hours and the precipitated crude product was filtered, washed with water, dried and crystallized from ethanol to give 1.0 g (74%) of <bold>2</bold> as orange crystals.</p>
+      <p>M.p. 180-181&#xB0;C</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3210 (NH), 1670 (CO pyrazolone).</p>
+	  <p>MS (m/z): 270.</p>
+      <p><sup>1</sup>H-NMR (250 MHz, DMSO-d<sub>6</sub>): 2.31 (s, 3H, CH<sub>3</sub>); 2.45 (s, 1H, CH); 7.21 (dd, 4H, aromatic CH); 12.58 (s, 1H, NH).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>): 24.2 (CH<sub>3</sub>); 51.5 (CH); 122.2 (2 aromatic carbons); 129.7 (2 aromatic carbons); 134.3, 143.7 (quaternary aromatic carbons); 135.7 (q, CF<sub>3</sub>); 153.6 (C=N); 173.1 (CO).</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2003-M305">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M305-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M305-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2003-M305-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M305-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2003-M305">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zohdi</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Elghandour</surname>
+              <given-names>A. H. H.</given-names>
+            </name>
+            <name>
+              <surname>Rateb</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name>
+              <surname>Sallam</surname>
+              <given-names>M. M. M. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Res.</source>
+          <year>1992</year>
+          <comment><italic>(S)</italic> 396, <italic>(M)</italic> 3015</comment>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M305">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zohdi</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Rateb</surname>
+              <given-names>N. M.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2001</year>
+          <volume>6</volume>
+          <elocation-id>M261</elocation-id>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	  <fn>
+        <p>Sample Availability: Available from the authors and from MDPI.</p>
+	  </fn>
+	</fn-group>
+  </back>
+</article>

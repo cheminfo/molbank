@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M879</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M879</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-[3-(Pyridin-3-yl)prop-2-enoyl]phenyl 4-dodecyloxybenzoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ha</surname>
+            <given-names>Sie-Tiong</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M879" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lau</surname>
+            <given-names>Yi-Jun</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M879">Department of Chemical Science, Universiti Tunku Abdul Rahman, Jalan Universiti, Bandar Barat, 31900 Kampar, Malaysia; E-Mail: <email>lau.yijun@1utar.my</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M879"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>hast_utar@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M879</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>10</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Steglich esterification between 1-(4-hydroxyphenyl)-3-(pyridin-3-yl)prop-2-en-1-one and 4-dodecyloxybenzoic acid has produced a new compound, 4-[3-(pyridin-3-yl)prop-2-enoyl]phenyl 4-dodecyloxybenzoate. The title compound was characterized by IR and NMR analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyridine</kwd>
+        <kwd>ester</kwd>
+        <kwd>liquid crystals</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>During the past decade, heterocyclic liquid crystals have received overwhelming attention due to their unique properties including a reduced packing ability (generally giving rise to lower melting points than their phenyl counterparts), a medium to strong lateral dipole, high anisotropy of the polarizability, low viscosity, <italic>etc.</italic> [<xref ref-type="bibr" rid="B1-molbank-2015-M879">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M879">2</xref>]. Our previous works paid attention on the synthesis of smectic liquid crystals containing benzothiazole moiety [<xref ref-type="bibr" rid="B3-molbank-2015-M879">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M879">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M879">5</xref>]. Heterocyclic pyridine is another type of core system that liquid crystal researchers have been focused on [<xref ref-type="bibr" rid="B6-molbank-2015-M879">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M879">7</xref>]. In this paper, we report a new pyridine derivative, 4-[3-(pyridin-3-yl)prop-2-enoyl]phenyl 4-dodecyloxybenzoate. The title compound was prepared according to the reaction steps outlined in <xref ref-type="scheme" rid="molbank-2015-M879-sch001">Scheme 1</xref>.</p>
+      <p>As described in a recently published procedure [<xref ref-type="bibr" rid="B7-molbank-2015-M879">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M879">8</xref>], 1-(4-hydroxyphenyl)-3-(pyridin-3-yl)prop-2-en-1-one (0.45 g, 2 mmol) in dimethylformamide (DMF) (10 mL), was added to a solution of 4-dodecyloxybenzoic acid (0.61 g, 2 mmol) and 4-dimethylaminopyridine (DMAP) (0.12 g, 1 mmol) in dichloromethane (7 mL). The resulting mixture was stirred in an ice bath at 0 &#xB0;C and this is followed by the addition of <italic>N</italic>,<italic>N</italic>&#x2032;-dicyclohexylcarbodiimide (DCC) (0.41 g, 2 mmol) which previously dissolved in dichloromethane (10 mL). DCC was added in a dropwise manner into the mixture over a period of one hour under the cooling bath system. The resulting mixture was subsequently stirred at room temperature for another 12 hours. Then, the reaction mixture was filtered and the excess solvent was removed from the filtrate by evaporation. Recrystallization from chloroform gave the product a white solid consistency (0.28 g, 27%). Main byproducts such as <italic>O</italic>-acylisourea and dicyclohexylurea were formed during the Steglich esterification. </p>
+      <p>Infrared spectrum, <sup>1</sup>H- and <sup>13</sup>C-NMR spectra and elemental data were collected using the following models, Perkin-Elmer 2000 FTIR spectrophotometer (Perkin Elmer Sdn Bhd, Malaysia), JEOL LA-400 MHz NMR spectrometer (JEOL Sdn Bhd, Malaysia) and Perkin Elmer 2400 LS Series CHNS/O analyzer (Perkin Elmer Sdn Bhd, Malaysia).</p>
+      <p>Melting point: 129.8 &#xB0;C</p>
+      <p>IR (KBr, cm<sup>&#x2212;1</sup>): 3057 (C&#x2013;H aromatic); 2921, 2852 (C&#x2013;H aliphatic); 1729 (C=O ester); 1658 (C=O keto), 1277 (C&#x2013;O, aromatic ether).</p>
+      <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 0.9 (t, 3H, <italic>J</italic> = 6.6 Hz, CH<sub>3</sub>-), 1.3-1.5 (m, 18H, CH<sub>3</sub>-(C<underline>H</underline><sub>2</sub>)<sub>9</sub>-(CH<sub>2</sub>)<sub>2</sub>-O-), 1.8 (m, 2H, <italic>J</italic> = 7.8 Hz, -C<underline>H</underline><sub>2</sub>-CH<sub>2</sub>-O-), 4.0 (t, 2H, <italic>J</italic> = 6.4 Hz, -C<underline>H</underline><sub>2</sub>-O-), 7.0 (d, 2H, <italic>J</italic> = 8.7 Hz, Ar-H), 7.4 (m, 3H, Ar-H and pyridine-H), 7.6 (d, 1H, <italic>J</italic> = 16 Hz, olefinic-H), 7.8 (d, 1H, <italic>J</italic> = 16 Hz, olefinic), 7.9 (d, 1H, <italic>J</italic> = 8.7 Hz, pyridine-H), 8.1-8.2 (m, 4H, Ar-H), 8.6 (t, 1H, <italic>J</italic> = 5 Hz, pyridine-H), 8.9 (s, 1H, pyridine-H).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 14.23 (<underline>C</underline>H<sub>3</sub>-), 22.79, 26.06, 29.44, 29.68, 29.73, 32.01 for methylene carbons (CH<sub>3</sub>-(<underline>C</underline>H<sub>2</sub>)<sub>10</sub>-), 64.48 (-<underline>C</underline>H<sub>2</sub>O-), 114.50, 120.97, 122.32, 123.70, 123.92 130.30, 130.72, 132.51, 134.73, 135.20, 141.17, 150.09, 151.23, 155.03, 163.92, 164.48 for olefinic, aromatic and ester carbons, 188.74 (C=O keto).</p>
+      <p>Anal. calculated for C<sub>33</sub>H<sub>39</sub>NO<sub>4</sub>: C, 77.16; H, 7.65; N, 2.73. Found: C, 77.26; H, 7.84; N, 2.61.</p>
+      <p>IR, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra for the title compound are available in the <xref ref-type="app" rid="app1-molbank-2015-M879">Supplementary Information</xref>.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M879">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2015-M879-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M879-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M879-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M879-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2015-M879-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M879-s001.pdf">
+	  <label>Supplementary File 3</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank Universiti Tunku Abdul Rahman for the research facilities, and financial support through UTAR Research Fund (Project No. IPSR/RMC/UTARRF/2014-C1/H01 with the Vote No. 6200/H21).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Sie-Tiong Ha and Yi-Jun Lau contributed equally to this work.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M879">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seed</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of self-organizing mesogenic materials containing a sulfur-based five-membered heterocyclic core</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2007</year>
+          <volume>36</volume>
+          <fpage>2046</fpage>
+          <lpage>2069</lpage>
+          <pub-id pub-id-type="doi">10.1039/b612666a</pub-id>
+          <pub-id pub-id-type="pmid">17982521</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M879">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parra</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Saavedra</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <name>
+              <surname>Hildago</surname>
+              <given-names>P.I.</given-names>
+            </name>
+            <name>
+              <surname>Elgueta</surname>
+              <given-names>E.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel chiral liquid crystals based on amides and azo compounds derived from 2-amino-1,3,4-thiadiazoles: synthesis and mesomorphic properties</article-title>
+          <source>Liq. Cryst.</source>
+          <year>2008</year>
+          <volume>35</volume>
+          <fpage>55</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1080/02678290701751434</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M879">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Sivasothy</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic benzothiazole-based liquid crystals: synthesis and mesomorphic</article-title>
+          <source>Liq. Cryst.</source>
+          <year>2009</year>
+          <volume>36</volume>
+          <fpage>917</fpage>
+          <lpage>925</lpage>
+          <pub-id pub-id-type="doi">10.1080/02678290903131278</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M879">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+			<name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+			<name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+			<name>
+              <surname>Lee</surname>
+              <given-names>S.L.</given-names>
+            </name>
+			<name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+			<name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mesogenic Schiff base esters with benzothiazole core: synthesis and phase transition studies</article-title>
+          <source>Phase Trans.</source>
+          <year>2010</year>
+          <volume>83</volume>
+          <fpage>195</fpage>
+          <lpage>204</lpage>
+          <pub-id pub-id-type="doi">10.1080/01411591003600375</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M879">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>New mesomorphic benzothiazoyl derivatives: synthesis and characterization</article-title>
+          <source>Chin. Chem. Lett.</source>
+          <year>2013</year>
+          <volume>24</volume>
+          <fpage>926</fpage>
+          <lpage>828</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cclet.2013.06.006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M879">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Supramolecular liquid crystals induced by intermolecular hydrogen bonding between benzoic acid and 4-(alkoxyphenylazo) pyridines</article-title>
+          <source>Liq. Cryst.</source>
+          <year>2003</year>
+          <volume>30</volume>
+          <fpage>331</fpage>
+          <lpage>335</lpage>
+          <pub-id pub-id-type="doi">10.1080/0267829031000071284</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M879">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and phase transition behaviors of a homologous series of pyridine symmetrical dimmers</article-title>
+          <source>Asian J. Chem.</source>
+          <year>2013</year>
+          <volume>25</volume>
+          <fpage>6151</fpage>
+          <lpage>6155</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M879">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Low</surname>
+              <given-names>Y.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and phase transition behaviors of new chalcone derivatives</article-title>
+          <source>J. Chem.</source>
+          <year>2013</year>
+          <volume>2013</volume>
+          <pub-id pub-id-type="doi">10.1155/2013/943723</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M879-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M879-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-[3-(pyridin-3-yl)prop-2-enoyl]phenyl 4-dodecyloxybenzoate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M879-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

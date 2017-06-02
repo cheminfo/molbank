@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M586</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M586</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of novel 3-Hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)-propanamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naqvi</surname>
+            <given-names>Arshi</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M586" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M586" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shahnawaaz</surname>
+            <given-names>Mohd.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M586" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rao</surname>
+            <given-names>Arikatla V.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M586" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seth</surname>
+            <given-names>Daya S.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M586" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharma</surname>
+            <given-names>Nawal K</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M586" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M586"><label>1</label>Department of Chemistry, School of Chemical Sciences, St. John's College, Agra-282002, India.</aff>
+      <aff id="af2-molbank-2009-M586"><label>2</label>Department of Bioengineering, University of Pittsburgh, 260 Kappa Drive, RIDC Park, Pittsburgh, PA 15234 , USA.</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M586"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>arshi_84@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>01</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M586</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>11</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>12</month>
+          <year>2008</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Novel 3-hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide has been efficiently synthesized from DEM and hydrazine hydrate. The synthesized hydrazide was screened for anti-tubercular activity.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Synthesis</kwd>
+		<kwd>malonamic acid hydrazide</kwd>
+		<kwd>anti-tubercular activity.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The full therapeutic possibilities of hydrazides were realized after the discovery of isonicotinic acid hydrazide (INH). Hydrazides and their derivatives have been described as useful synthons of various heterocyclic rings [<xref ref-type="bibr" rid="B1-molbank-2009-M586">1</xref>]. A large number of hydrazides and their derivatives are reported to possess a broad spectrum of biological activities [<xref ref-type="bibr" rid="B2-molbank-2009-M586">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M586">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2009-M586">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2009-M586">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2009-M586">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2009-M586">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2009-M586">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2009-M586">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2009-M586">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2009-M586">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2009-M586">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2009-M586">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M586">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2009-M586">15</xref>]. Thus, these were found to be useful especially in the treatment of inflammatory and autoimmune diseases, osteoarthritis, respiratory diseases, tumors, cachexia, cardiovascular diseases, fever, hemorrhage and sepsis [<xref ref-type="bibr" rid="B11-molbank-2009-M586">11</xref>]. Hydrazides and derivatives exhibited antifungal [<xref ref-type="bibr" rid="B2-molbank-2009-M586">2</xref>], psychotropic [<xref ref-type="bibr" rid="B2-molbank-2009-M586">2</xref>], antituberculous [<xref ref-type="bibr" rid="B3-molbank-2009-M586">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2009-M586">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2009-M586">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2009-M586">6</xref>], antiparasite [<xref ref-type="bibr" rid="B2-molbank-2009-M586">2</xref>,<xref ref-type="bibr" rid="B10-molbank-2009-M586">10</xref>], bacteriostatic [<xref ref-type="bibr" rid="B2-molbank-2009-M586">2</xref>,<xref ref-type="bibr" rid="B7-molbank-2009-M586">7</xref>,<xref ref-type="bibr" rid="B9-molbank-2009-M586">9</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M586">14</xref>], antiviral [<xref ref-type="bibr" rid="B14-molbank-2009-M586">14</xref>], insecticidal [<xref ref-type="bibr" rid="B15-molbank-2009-M586">15</xref>] and anti-cancer [<xref ref-type="bibr" rid="B16-molbank-2009-M586">16</xref>] activities.</p>
+      <p>These properties prompted us to synthesize this novel malonamic acid hydrazide. The synthesized hydrazide was screened for anti-tubercular activity against H<sub>37</sub>Rv employing REMA (Resazurin microtitre assay) method. </p>
+	  <disp-formula>
+	  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M586-i001.tif"/>
+	  </disp-formula>
+      <p>Sulphanilamide (8.6 g, 0.05 mol.) and freshly distilled diethyl malonate (16 ml, 0.1 mol) was gently refluxed in a round bottom flask using an upright air condenser for one hour and twenty minutes. After cooling, it was filtered. The filtrate was gently refluxed in 20 ml ethanol with 6 ml hydrazine hydrate (98%) in a round bottom flask on a boiling water bath for 45 minutes. On cooling, a white crystalline solid was obtained and it was purified by recrystallization from hot ethanol. On analysis, it was found to be 3-hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide (yield = 86.96%).</p>
+      <p>M.P. 144<sup>o</sup>C</p>
+      <p>IR (KBr): 3285, 3020, 1604, 1522, 1476, 1336, 1215, 928 cm<sup>-1</sup>.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-d<sub>6</sub>): &#x3B4; 2.41 (s, 2H, -NH<sub>2</sub>), 2.91 (s, 2H, -NH<sub>2</sub>), 3.53 (s, 2H, -CH<sub>2</sub>), 4.43 (s, 1H, -NH), 7.18-7.84 (m, Ar-H), 8.39 (s, 1H, -NH).</p>
+      <p>Anti-tubercular screening: 3-Hydrazino-3-oxo-<italic>N</italic>-(4-sulfamoylphenyl)propanamide was tested at concentrations of 1.25, 2.5, 3.75, 5.0, 6.25, 7.5, 8.75 and 10.0 &#xB5;g/ml. The title compound was not active at any of these concentrations.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M586">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M586-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M586-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M586-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M586-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank the Central Drug Research Institute (CDRI), Lucknow for spectral analysis and Dr. V. M. Katoch, Director and Pushpinder Singh, Jalma Institute of Leprosy and Other Micobacterial diseases, Agra for anti-tubercular screening. </p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M586">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polanc</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent Application of Hydrazides and Related Compounds for The Synthesis Of Heterocycles</article-title>
+          <source>Targets Heterocycl. Syst.</source>
+          <year>1999</year>
+          <volume>3</volume>
+          <fpage>33</fpage>
+          <lpage>91</lpage>
+          <comment>[ <italic>Chem Abstr.</italic> <bold>2000</bold>, <italic>133</italic>, 237877u]</comment>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M586">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dutta</surname>
+              <given-names>M. M.</given-names>
+            </name>
+            <name>
+              <surname>Goswami</surname>
+              <given-names>B. N.</given-names>
+            </name>
+            <name>
+              <surname>Kataky</surname>
+              <given-names>J. C. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on Biologically Active Heterocycles. Part I. Synthesis and Antifungal Activity of Some New Aroyl Hydrazones and 2,5-Disubstituted-1,3,4-oxadiazoles</article-title>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1986</year>
+          <volume>23</volume>
+          <fpage>793</fpage>
+          <lpage>795</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570230328</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M586">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yale</surname>
+              <given-names>H. L.</given-names>
+            </name>
+            <name>
+              <surname>Losee</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Martins</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Holsing</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Perry</surname>
+              <given-names>F. M.</given-names>
+            </name>
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemotherapy of Experimental Tuberculosis. VIII. The Synthesis of Acid Hydrazides, Their Derivatives and Related Compounds</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1953</year>
+          <volume>75</volume>
+          <fpage>1933</fpage>
+          <lpage>1942</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja01104a046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M586">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lott</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Steinberg</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Yale</surname>
+              <given-names>H. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemotherapy of Experimental Tuberculosis. V. Isonicotinic Acid Hydrazide (Nydrazid) and Related Compounds</article-title>
+          <source>Am. Rev. Tuberc.</source>
+          <year>1952</year>
+          <volume>65</volume>
+          <fpage>357</fpage>
+          <lpage>364</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1953</bold>, <italic>47</italic>, 12623c]</comment>
+          <pub-id pub-id-type="pmid">14903503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M586">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jambor</surname>
+              <given-names>W. P.</given-names>
+            </name>
+            <name>
+              <surname>Lott</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Pansy</surname>
+              <given-names>F. E.</given-names>
+            </name>
+            <name>
+              <surname>Steinberg</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Yale</surname>
+              <given-names>H. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemotherapy of Experimental Tuberculosis. VI. Derivatives of Isoniazid</article-title>
+          <source>Am. Rev. Tuberc.</source>
+          <year>1953</year>
+          <volume>67</volume>
+          <fpage>354</fpage>
+          <lpage>365</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1954</bold>, <italic>48</italic>, 3551f]</comment>
+          <pub-id pub-id-type="pmid">13031054</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M586">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernstein</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jambor</surname>
+              <given-names>W. P.</given-names>
+            </name>
+            <name>
+              <surname>Lott</surname>
+              <given-names>W. A.</given-names>
+            </name>
+            <name>
+              <surname>Pansy</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Steinberg</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Yale</surname>
+              <given-names>H. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemotherapy of Experimental Tuberculosis. VII. Heterocyclic Acid Hydrazides and Derivatives</article-title>
+          <source>Am. Rev. Tuberc.</source>
+          <year>1953</year>
+          <volume>67</volume>
+          <fpage>366</fpage>
+          <lpage>375</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1954</bold>, <italic>48</italic>, 3551g]</comment>
+          <pub-id pub-id-type="pmid">13031055</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M586">
+        <label>7.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erman</surname>
+              <given-names>P. H.</given-names>
+            </name>
+            <name>
+              <surname>Straub</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic Hydrazide Derivatives of Monocyclic &#x3B3;-Lactam Antibiotics</article-title>
+          <source>U.S. Pat.</source>
+          <patent>US 5,318,963</patent>
+          <month>Jun</month>
+          <day>7</day>
+          <year>1994</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1995,</bold> <italic>122</italic>, 55819s]</comment>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M586">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>E. S. C.</given-names>
+            </name>
+            <name>
+              <surname>Kover</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Loch</surname>
+              <given-names>J. T.</given-names>
+              <suffix>III</suffix>
+            </name>
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>L. P.</given-names>
+            </name>
+            <name>
+              <surname>Semus</surname>
+              <given-names>S. F.</given-names>
+            </name>
+            <name>
+              <surname>Verhoest</surname>
+              <given-names>P. R.</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Machulskis</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name>
+              <surname>Mc Creedy</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name>
+              <surname>Zongrone</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylhydrazones as M<sub>1</sub>/M<sub>3</sub> Selective Muscarinic Agonists</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1996</year>
+          <volume>6</volume>
+          <fpage>2525</fpage>
+          <lpage>2530</lpage>
+          <comment>[<italic>Chem. Abstr</italic>. <bold>1997</bold>, <italic>126</italic>, 69739k]</comment>
+          <pub-id pub-id-type="doi">10.1016/0960-894X(96)00471-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M586">
+        <label>9.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markham</surname>
+              <given-names>P. N.</given-names>
+            </name>
+            <name>
+              <surname>Klyachko</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name>
+              <surname>Crich</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jaber</surname>
+              <given-names>M. R.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name>
+              <surname>Mulhearn</surname>
+              <given-names>D. C.</given-names>
+            </name>
+            <name>
+              <surname>Neyfakh</surname>
+              <given-names>A. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bactericidal Antimicrobial Methods and Compositions Using Acyl Hydrazides, Oxyamides, and 8- Hydroxyquinolines as Antibiotic Potentiators for Treatment of Gram-Postive Infections</article-title>
+          <source>PCT Int. Appl.</source>
+          <patent>WO 01 70, 213</patent>
+          <month>Sep</month>
+          <day>27</day>
+          <year>2001</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2001</bold>, <italic>135</italic>, 251941h]</comment>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M586">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Troeberg</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Flaherty</surname>
+              <given-names>T. M.</given-names>
+            </name>
+            <name>
+              <surname>Morty</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hua</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Springer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Mc Kerrow</surname>
+              <given-names>J. H.</given-names>
+            </name>
+            <name>
+              <surname>Kenyon</surname>
+              <given-names>G. L.</given-names>
+            </name>
+            <name>
+              <surname>Lonsdale-Eccles</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name>
+              <surname>Coetzer</surname>
+              <given-names>T. H. T.</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>F. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chalcone, Acyl Hydrazide, and Related Amides Kill Cultured Trypanosoma Brucei Brucei</article-title>
+          <source>Mol. Med. (N.Y.)</source>
+          <year>2000</year>
+          <volume>6</volume>
+          <fpage>660</fpage>
+          <lpage>669</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2001</bold>, <italic>134</italic>, 246896x]</comment>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M586">
+        <label>11.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Broadhurst</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>W. H.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>D. S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of Hydroxycarbamoylalkylcarbo-xylic Acid Azacyclic Hydrazides as TNF-&#x3B1; Inhibitors</article-title>
+          <source>PTC Int. Appl.</source>
+          <patent>WO 00 35,885</patent>
+          <month>Jun</month>
+          <day>22</day>
+          <year>2000</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2000</bold>, <italic>133</italic>, 58802u]</comment>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2009-M586">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Milyutin</surname>
+              <given-names>A. V.</given-names>
+            </name>
+            <name>
+              <surname>Safonva</surname>
+              <given-names>N. V.</given-names>
+            </name>
+            <name>
+              <surname>Chesnokov</surname>
+              <given-names>V. P.</given-names>
+            </name>
+            <name>
+              <surname>Nazmetdinov</surname>
+              <given-names>F. Y.</given-names>
+            </name>
+            <name>
+              <surname>Voronina</surname>
+              <given-names>E. V.</given-names>
+            </name>
+            <name>
+              <surname>Krylora</surname>
+              <given-names>I. V.</given-names>
+            </name>
+            <name>
+              <surname>Andreichikov</surname>
+              <given-names>Y. S.</given-names>
+            </name>
+            <name>
+              <surname>Kolla</surname>
+              <given-names>V. E.</given-names>
+            </name>
+            <name>
+              <surname>Kozhevnikov</surname>
+              <given-names>Y. V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Properties, and Biological Activity of &#x3B2;-Aroylpyruvylhydrazides of N-Methyl and N-Phenylanthranilic Acids</article-title>
+          <source>Khim.-Farm. Zh.</source>
+          <year>1996</year>
+          <volume>30</volume>
+          <fpage>26</fpage>
+          <lpage>28</lpage>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>1996</bold>, <italic>125</italic>, 185294q]</comment>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2009-M586">
+        <label>13.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silvestrini</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>C. Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of 3-Substituted-1-Benzyl-1H-Indoles as Antifertility Agents</article-title>
+          <source>U.S. Pat.</source>
+          <patent>US 6,001,865</patent>
+          <month>Dec.</month>
+          <day>14</day>
+          <year>1999</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2000</bold>, <italic>132</italic>, 22964p]</comment>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2009-M586">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sengupta</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Bhatnagar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antimicrobial Screening of [[1-(4-Methyl/chlorophenyl)-1H-tetrazolo-5-yl]thio]acetic Acid [N-Substituted-phenyl)methylene]-hydrazides]</article-title>
+          <source>J. Indian Chem. Soc.</source>
+          <year>1987</year>
+          <volume>LXIV</volume>
+          <fpage>616</fpage>
+          <lpage>619</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2009-M586">
+        <label>15.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Opie</surname>
+              <given-names>T. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of Benzodioxincarboxylic Acid Hydrazides as insecticides</article-title>
+          <source>Eur. Pat.Appl.</source>
+          <patent>EP 984,009</patent>
+          <month>Mar</month>
+          <day>8</day>
+          <year>2000</year>
+          <comment>[<italic>Chem. Abstr.</italic> <bold>2000</bold>, <italic>132</italic>, 194382p]</comment>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2009-M586">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mansour</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name>
+              <surname>Eid</surname>
+              <given-names>M. M.</given-names>
+            </name>
+            <name>
+              <surname>Khalil</surname>
+              <given-names>N.S.A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Reactions of Some New Heterocyclic Carbohydrazides and Related Compounds as Potential Anticancer Agents</article-title>
+          <source>Molecules</source>
+          <year>2003</year>
+          <volume>8</volume>
+          <fpage>744</fpage>
+          <lpage>755</lpage>
+          <pub-id pub-id-type="doi">10.3390/81000744</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

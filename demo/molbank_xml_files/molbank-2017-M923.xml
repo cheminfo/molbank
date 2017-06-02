@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M923</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2017-M923</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-Chloro-6-ethoxy-2-(methylthio)pyrimidine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kalogirou</surname>
+            <given-names>Andreas S.</given-names>
+          </name>
+		  <xref rid="c1-molbank-2017-M923" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koutentis</surname>
+            <given-names>Panayiotis A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2017-M923">Department of Chemistry, University of Cyprus, P. O. Box 20537, Nicosia 1678, Cyprus; <email>koutenti@ucy.ac.cy</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2017-M923"><label>*</label>Correspondence: <email>akalog@ucy.ac.cy</email>; Tel.: +357-22892804</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>2017</volume>
+      <issue>1</issue>
+      <elocation-id>M923</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>4,6-Dichloro-2-(methylthio)pyrimidine (<bold>3</bold>) reacts with EtONa in EtOH, at ca. 20 &#xB0;C, for 2 h, to give exclusively 4-chloro-6-ethoxy-2-(methylthio)pyrimidine (<bold>5</bold>) in 89% yield. The latter is presented as a useful multifunctionalised pyrimidine scaffold.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>heterocycle</kwd>
+        <kwd>pyrimidine</kwd>
+        <kwd>multifunctionalised</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2017-M923" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Pyrimidines are well known owing to their presence in biological systems as components of the nucleic acid bases cytosine, thymine, and uracil, as well as the vitamin thiamine, which illustrates their importance. The presence of pyrimidines has been reported for over a century and their chemistry has been reviewed [<xref ref-type="bibr" rid="B1-molbank-2017-M923">1</xref>]. Pyrimidines also find a plethora of uses as pharmaceuticals, as anti-inflammatory [<xref ref-type="bibr" rid="B2-molbank-2017-M923">2</xref>], anti-microbial [<xref ref-type="bibr" rid="B3-molbank-2017-M923">3</xref>], anti-HIV [<xref ref-type="bibr" rid="B4-molbank-2017-M923">4</xref>], anti-malarial [<xref ref-type="bibr" rid="B5-molbank-2017-M923">5</xref>] and anti-tumour [<xref ref-type="bibr" rid="B6-molbank-2017-M923">6</xref>] agents.</p>
+      <p>As part of our ongoing work in the chemistry of 1,2,6-thiadiazines [<xref ref-type="bibr" rid="B7-molbank-2017-M923">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2017-M923">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2017-M923">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2017-M923">10</xref>] we identified 4,5,6-trichloropyrimidine-2-carbonitrile (<bold>1</bold>) as a product of the degradation of 3,4,4,5-tetrachloro-4<italic>H</italic>-1,2,6-thiadiazine (<bold>2</bold>) (<xref ref-type="scheme" rid="molbank-2017-M923-sch001">Scheme 1</xref>) [<xref ref-type="bibr" rid="B8-molbank-2017-M923">8</xref>]. The former was also previously identified as a minor side product from the reaction of tetracyanoethene (TCNE) with SCl<sub>2</sub> [<xref ref-type="bibr" rid="B11-molbank-2017-M923">11</xref>].</p>
+      <p>Polyhalogenated pyrimidines are useful scaffolds as they can be modified either by nucleophilic aromatic substitution or by palladium coupling reactions. However, these reactions often suffer from regioselectivity issues. For example, the Suzuki-Miyaura coupling of 2,3,4,5-tetrachloropyrimidine with arylboronic acids gives either the 2- [<xref ref-type="bibr" rid="B12-molbank-2017-M923">12</xref>] or the 4-arylpyrimidine [<xref ref-type="bibr" rid="B13-molbank-2017-M923">13</xref>]. Moreover, on the same scaffold, while nucleophilic substitution by alkoxide occurs at C2 [<xref ref-type="bibr" rid="B14-molbank-2017-M923">14</xref>], hydroxide attacks the C4 position [<xref ref-type="bibr" rid="B15-molbank-2017-M923">15</xref>]. On the other hand, nucleophilic substitution by amine nucleophiles often gives mixtures of products [<xref ref-type="bibr" rid="B16-molbank-2017-M923">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2017-M923">17</xref>]. The complexity of the chemistry of pyrimidines means that it is often difficult to access specific pyrimidine targets from a simple and symmetrical pyrimidine scaffold, indicating the necessity for asymmetrical and sometimes multi-functionalized scaffolds.</p>
+    </sec>
+    <sec id="sec2-molbank-2017-M923" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>In our efforts to develop an independent synthesis for the trichloropyrimidine <bold>1</bold> we prepared the known 4,6-dichloro-2-(methylthio)pyrimidine (<bold>3</bold>) as an early and readily available [<xref ref-type="bibr" rid="B18-molbank-2017-M923">18</xref>] intermediate towards the preparation of 3,4,5-trichloro-2-(methylthio)pyrimidine (<bold>4</bold>). Nevertheless, attempts to chlorinate the C5 position, using either NCS or PCl<sub>5</sub> to obtain 3,4,5-trichloro-2-(methylthio)pyrimidine (<bold>4</bold>) all failed. As such, we attempted to increase the electron density at C5 to facilitate the desired chlorination. To do this, we introduced an ethoxy group via simple nucleophilic aromatic substitution of chlorine. Interestingly, treating the dichloropyrimidine <bold>3</bold> with EtONa (1.1 equiv.) in EtOH proceeded smoothly at ca. 20 &#xB0;C to give exclusively the mono-displaced 4-chloro-6-ethoxy-2-(methylthio)pyrimidine (<bold>5</bold>), but this disappointingly also failed to undergo C5 chlorination to give the expected 5,6-dichloro-4-ethoxy-2-methylthiopyrimidine (<bold>6</bold>) (<xref ref-type="scheme" rid="molbank-2017-M923-sch002">Scheme 2</xref>).</p>
+      <p>Despite this setback, we note that ethoxypyrimidine <bold>5</bold> is potentially a useful pyrimidine scaffold. Pyrimidine <bold>5</bold> has been previously prepared by treatment of dichloropyrimidine <bold>3</bold> with NaOEt in dry dimethylformamide, at 70 &#xB0;C overnight [<xref ref-type="bibr" rid="B19-molbank-2017-M923">19</xref>], however, the synthesis described herein uses a non-toxic solvent (EtOH) and milder conditions (20 &#xB0;C) that are more suitable for a regioselective reaction. A very similar analogue 4-chloro-6-methoxy-2-(methylthio)pyrimidine [<xref ref-type="bibr" rid="B20-molbank-2017-M923">20</xref>] is a versatile scaffold and can undergo Suzuki-Miyaura coupling to afford 4-aryl-6-methoxy-2-(methylthio)pyrimidines [<xref ref-type="bibr" rid="B21-molbank-2017-M923">21</xref>], as well as, amine [<xref ref-type="bibr" rid="B20-molbank-2017-M923">20</xref>] or alcohol displacement of the chloride [<xref ref-type="bibr" rid="B22-molbank-2017-M923">22</xref>], oxidation to sulfone [<xref ref-type="bibr" rid="B23-molbank-2017-M923">23</xref>], and condensation reactions to give polycyclic systems [<xref ref-type="bibr" rid="B24-molbank-2017-M923">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2017-M923">25</xref>].</p>
+    </sec>
+    <sec id="sec3-molbank-2017-M923">
+      <title>3. Materials and Methods</title>
+      <p>The reaction mixture was monitored by chromatography (TLC) using commercial glass backed TLC plates (Merck Kieselgel 60 F<sub>254</sub>, Darmstadt, Germany). The plates were observed under UV light at 254 and 365 nm. The melting point was determined using a PolyTherm-A, Wagner and Munz, Kofler hot-stage microscope apparatus (Wagner and Munz, Munich, Germany). The solvent used for recrystallization is indicated after the melting point. The UV-VIS spectrum was obtained using a Perkin-Elmer Lambda-25 UV-VIS spectrophotometer (Perkin-Elmer, Waltham, MA, USA) and inflections are identified by the abbreviation &#x201C;inf&#x201D;. The IR spectrum was recorded on a Shimadzu FTIR-NIR Prestige-21 spectrometer (Shimadzu, Kyoto, Japan) with Pike Miracle Ge ATR accessory (Pike Miracle, Madison, WI, USA) and strong, medium, and weak peaks are represented by s, m, and w, respectively. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on a Bruker Avance 500 machine (at 500 and 125 MHz, respectively (Bruker, Billerica, MA, USA)). Deuterated solvents were used for homonuclear lock and the signals are referenced to the deuterated solvent peaks. APT (Advance Proton Test) NMR studies identified carbon multiplicities, which are indicated by (s), (d), (t) and (q) notations. The MALDI-TOF (Matrix Assisted Laser Desorption/Ionization-Time of Flight) mass spectrum (+ve mode) was recorded on a Bruker Autoflex III Smartbeam instrument (Bruker). The elemental analysis was run by the London Metropolitan University Elemental Analysis Service. 4,6-Dichloro-2-(methylthio)pyrimidine (<bold>3</bold>) was prepared according to the literature procedure [<xref ref-type="bibr" rid="B18-molbank-2017-M923">18</xref>].</p>
+      <sec>
+        <title>4-Chloro-6-ethoxy-2-(methylthio)pyrimidine (<italic><bold>5</bold></italic>)</title>
+        <p>To a stirred mixture of 4,6-dichloro-2-(methylthio)pyrimidine (<bold>3</bold>) (50 mg, 0.256 mmol) in EtOH (1 mL) at ca. 20 &#xB0;C was added dropwise to a freshly prepared solution of EtONa (0.28 mL, 0.28 mmol, 1 M in EtOH). The mixture was protected with a CaCl<sub>2</sub> drying tube and stirred at this temperature until complete consumption of the starting material (TLC, 2 h). DCM (10 mL) was then added, followed by a saturated aqueous solution of NaHCO<sub>3</sub> (10 mL) and the mixture extracted. The aqueous phase was then extracted with a further 10 mL of DCM. The combined organic phases were dried (Na<sub>2</sub>SO<sub>4</sub>), filtered and evaporated under vacuum to yield 4-Chloro-6-ethoxy-2-(methylthio)pyrimidine <bold>5</bold> (46.6 mg, 89%) as colourless needles, m.p. 59&#x2013;60 &#xB0;C (from <italic>n</italic>-pentane, &#x2212;60 &#xB0;C); <italic>R</italic><sub>f</sub> 0.16 (<italic>n</italic>-hexane/DCM, 90:10); (found: C, 41.13; H, 4.36; N, 13.60. C<sub>7</sub>H<sub>9</sub>ClN<sub>2</sub>OS requires C, 41.08; H, 4.43; N, 13.69%); <italic>&#x3BB;</italic><sub>max</sub> (DCM)/nm 276 inf (log <italic>&#x3B5;</italic> 3.78), 255 (4.06); <italic>v</italic><sub>max</sub>/cm<sup>&#x2212;1</sup> 3007w (aryl C-H), 2982w, 2934w, 2888w and 2849w (alkyl C-H), 1562s, 1557m, 1541s, 1537s, 1429m, 1420w, 1379m, 1352m, 1333m, 1323m, 1317m, 1273s, 1221w, 1038s, 989w, 833w, 870m, 814s; <italic>&#x3B4;</italic><sub>H</sub> (500 MHz; CDCl<sub>3</sub>) 6.37 (1H, s, Ar <italic>H</italic>), 4.41 (2H, q, <italic>J</italic> 7.1, OC<italic>H</italic><sub>2</sub>), 2.52 (3H, s, SC<italic>H</italic><sub>3</sub>), 1.37 (3H, t, <italic>J</italic> 7.1, CH<sub>2</sub>C<italic>H</italic><sub>3</sub>); <italic>&#x3B4;</italic><sub>C</sub> (125 MHz; CDCl<sub>3</sub>) 172.7 (s), 169.4 (s), 160.2 (s), 102.4 (d), 63.3 (t), 14.2 (q), 14.1 (q); <italic>m/z</italic> (MALDI-TOF) 206 (M<sup>+</sup> + 2, 53%), 204 (M<sup>+</sup>, 100), 176 (52), 160 (59).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2017-M923">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>www.mdpi.com/1422-8599/2017/1/M923</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The University of Cyprus Grant &#x201C;Post-doctoral Researchers&#x201D; supporting Andreas Kalogirou is greatly acknowledged. The authors thank the Cyprus Research Promotion Foundation (Grant: NEKYP/0308/02) and the following organizations and companies in Cyprus for generous donations of chemicals and glassware: the State General Laboratory, the Agricultural Research Institute, the Ministry of Agriculture, MedoChemie Ltd, Medisell Ltd and Biotronics Ltd. Furthermore, we thank the A. G. Leventis Foundation for helping to establish the NMR facility at the University of Cyprus.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>P.A. Koutentis conceived the experiments; A.S. Kalogirou designed and performed the experiments, analyzed the data and wrote the paper.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest. The founding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2017-M923">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rewcastle</surname>
+              <given-names>G.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrimidines and their Benzo Derivatives</article-title>
+          <source>Comprehensive Heterocyclic Chemistry III</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Ramsden</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Scriven</surname>
+              <given-names>E.F.V.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>R.J.K.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>2008</year>
+          <volume>Volume 8</volume>
+          <fpage>120</fpage>
+          <lpage>252</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2017-M923">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amr</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Nermien</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Abdulla</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, reactions, and anti-inflammatory activity of heterocyclic systems fused to a thiophene moiety using citrazinic acid as synthon</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>2007</year>
+          <volume>138</volume>
+          <fpage>699</fpage>
+          <lpage>707</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00706-007-0651-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2017-M923">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Desai</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chikhalia</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of pyrimidine based thiazolidinones and azetidinones: Antimicrobial and antitubercular agents</article-title>
+          <source>Ind. J. Chem.</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>773</fpage>
+          <lpage>778</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2017-M923">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ueda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kawakami</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel piperidinylpyrimidine derivatives as inhibitors of HIV-1 LTR activation</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2008</year>
+          <volume>16</volume>
+          <fpage>9804</fpage>
+          <lpage>9816</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2008.09.059</pub-id>
+          <pub-id pub-id-type="pmid">18926711</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2017-M923">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gorlitzer</surname>
+              <given-names>K.</given-names>
+            </name>
+			<name>
+              <surname>Herbig</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Walter</surname>
+              <given-names>R.D.</given-names>
+            </name>			
+          </person-group>
+          <article-title>Indeno[1,2-<italic>d</italic>]pyrimidin-4-yl-amines</article-title>
+          <source>Pharmazie</source>
+          <year>1997</year>
+          <volume>52</volume>
+          <fpage>670</fpage>
+          <lpage>672</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2017-M923">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wagner</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Al-Kadasi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Zimecki</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Sawka-Dobrowolska</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and pharmacological screening of derivatives of isoxazolo[4,5-<italic>d</italic>]pyrimidine</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>2498</fpage>
+          <lpage>2504</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.01.035</pub-id>
+          <pub-id pub-id-type="pmid">18358570</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2017-M923">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Manoli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of <italic>N</italic>-aryl-3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-imines from 3,4,4,5-tetrachloro-4<italic>H</italic>-1,2,6-thiadiazine</article-title>
+          <source>Org. Lett.</source>
+          <year>2015</year>
+          <volume>17</volume>
+          <fpage>4118</fpage>
+          <lpage>4121</lpage>
+          <pub-id pub-id-type="doi">10.1021/acs.orglett.5b02237</pub-id>
+          <pub-id pub-id-type="pmid">26261875</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2017-M923">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A qualitative comparison of the reactivities of 3,4,4,5-tetrachloro-4<italic>H</italic>-1,2,6-thiadiazine and 4,5-dichloro-1,2,3-dithiazolium chloride</article-title>
+          <source>Molecules</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>14576</fpage>
+          <lpage>14594</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules200814576</pub-id>
+          <pub-id pub-id-type="pmid">26274946</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2017-M923">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regioselective geminal dichloride reactivity of 3,4,4,5-tetrachloro-4<italic>H</italic>-1,2,6-thiadiazine: access to 4,4-dioxo- and dithio-ketals</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2016</year>
+          <volume>57</volume>
+          <fpage>203</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2015.11.100</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2017-M923">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substitution chemistry of 3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazine 4,4-ketals</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2016</year>
+          <volume>57</volume>
+          <fpage>3307</fpage>
+          <lpage>3310</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2016.06.055</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2017-M923">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of tetracyanoethylene with SCl<sub>2</sub>; new molecular rearrangements</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>2000</year>
+          <fpage>1089</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="doi">10.1039/b000209g</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2017-M923">
+        <label>12.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hyun</surname>
+              <given-names>S.Y.</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S.O.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>R.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Electroluminescent Compound and an Electroluminescent Device Comprising the Same</article-title>
+          <patent>KR2015/124637 A</patent>
+          <day>25</day>
+          <month>November</month>
+          <year>2015</year>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2017-M923">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mani</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile assembly of fused benzo[4,5]furo Heterocycles</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2008</year>
+          <volume>73</volume>
+          <fpage>2951</fpage>
+          <lpage>2954</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo8000595</pub-id>
+          <pub-id pub-id-type="pmid">18331061</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2017-M923">
+        <label>14.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mabuko</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Triallylisocyanurate, Triallylcyanurate, and Process for Production of Triallylisocyanurate</article-title>
+          <patent>EP2436677 A1</patent>
+          <day>4</day>
+          <month>April</month>
+          <year>2012</year>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2017-M923">
+        <label>15.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kanouni</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kaldor</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Stafford</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Veal</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibitors of Lysine Specific Demethylase-1</article-title>
+          <patent>WO2015/168466 A1</patent>
+          <day>5</day>
+          <month>November</month>
+          <year>2015</year>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2017-M923">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ladd</surname>
+              <given-names>D.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of some substituted guanidinopyrimidines and their structural assignment by <sup>13</sup>C and <sup>1</sup>H-NMR</article-title>
+          <source>J. Het. Chem.</source>
+          <year>1982</year>
+          <volume>19</volume>
+          <fpage>917</fpage>
+          <lpage>921</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570190441</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2017-M923">
+        <label>17.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kukla</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Ludovici</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Kavash</surname>
+              <given-names>R.W.</given-names>
+            </name>
+            <name>
+              <surname>de Corte</surname>
+              <given-names>B.L.D.</given-names>
+            </name>
+            <name>
+              <surname>Heeres</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Janssen</surname>
+              <given-names>P.A.J.</given-names>
+            </name>
+            <name>
+              <surname>Koymans</surname>
+              <given-names>L.M.H.</given-names>
+            </name>
+            <name>
+              <surname>de Jonge</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>van Aken</surname>
+              <given-names>K.J.A.</given-names>
+            </name>
+            <name>
+              <surname>Krief</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prodrugs of HIV Replication Inhibiting Pyrimidines</article-title>
+          <patent>EP1282607 B1</patent>
+          <day>12</day>
+          <month>February</month>
+          <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2017-M923">
+        <label>18.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raboisson</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Belfrage</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Classon</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lindquist</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nilsson</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Rosenquist</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Samuelson</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Wahling</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrimidine Substituted Macrocyclic HCV Inhibitors</article-title>
+          <patent>WO2008/095999A1</patent>
+          <day>14</day>
+          <month>August</month>
+          <year>2008</year>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2017-M923">
+        <label>19.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bayne</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>S.-P.</given-names>
+            </name>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Nyman</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Schweiger</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulators of LXR</article-title>
+          <patent>US20050080111 A1</patent>
+          <day>14</day>
+          <month>April</month>
+          <year>2005</year>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2017-M923">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seganish</surname>
+              <given-names>W.M.</given-names>
+            </name>
+            <name>
+              <surname>Fischmann</surname>
+              <given-names>T.O.</given-names>
+            </name>
+            <name>
+              <surname>Sherborne</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Matasi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lavey</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>McElroy</surname>
+              <given-names>W.T.</given-names>
+            </name>
+            <name>
+              <surname>Tulshian</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Tata</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sondey</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Garlisi</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Discovery and Structure Enabled Synthesis of 2,6-Diaminopyrimidin-4-one IRAK4 Inhibitors</article-title>
+          <source>ACS Med. Chem. Lett.</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>942</fpage>
+          <lpage>947</lpage>
+          <pub-id pub-id-type="doi">10.1021/acsmedchemlett.5b00279</pub-id>
+          <pub-id pub-id-type="pmid">26288698</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2017-M923">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Woods</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Miyashiro</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Florjancic</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>E.K.</given-names>
+            </name>
+            <name>
+              <surname>Soni</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lasko</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Leverson</surname>
+              <given-names>J.D.</given-names>
+            </name>
+			<etal/>
+          </person-group>
+          <article-title>Aminopyrimidinone Cdc7 Kinase Inhibitors</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>1940</fpage>
+          <lpage>1943</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2012.01.041</pub-id>
+          <pub-id pub-id-type="pmid">22326396</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2017-M923">
+        <label>22.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tohyama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sanemitsu</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Uracil Compounds and Use Thereof</article-title>
+          <patent>US6537948 B1</patent>
+          <day>25</day>
+          <month>March</month>
+          <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2017-M923">
+        <label>23.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanno</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kubota</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Arahira</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-Benzyloxy-4-phenoxypyrimidine Derivative, Processes for Producing the Derivative and Herbicidal Composition Containing the Derivative</article-title>
+          <patent>US5723412 A1</patent>
+          <day>3</day>
+          <month>March</month>
+          <year>1998</year>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2017-M923">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ono</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Yuba</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hiyoshi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Umezu</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-step synthesis of 5-hydroxy-5,7-dihydro-6<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidin-6-one derivatives from 4-chloro-6-methoxy-2-(methylsulfanyl)pyrimidine</article-title>
+          <source>Heterocycles</source>
+          <year>2015</year>
+          <volume>91</volume>
+          <fpage>1177</fpage>
+          <lpage>1185</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-15-13202</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2017-M923">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kuroda</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Yokoi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hiyoshi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Umezu</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple method for the preparation of pyrimido[4,5-<italic>d</italic>]pyrimidine-2,4(1<italic>H</italic>,3<italic>H</italic>)-dithione derivatives</article-title>
+          <source>Heterocycles</source>
+          <year>2014</year>
+          <volume>89</volume>
+          <fpage>1933</fpage>
+          <lpage>1939</lpage>
+          <pub-id pub-id-type="doi">10.3987/COM-14-13038</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2017-M923-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M923-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Isolation of trichloropyrimidine <bold>1</bold> from 3,4,4,5-tetrachloro-4<italic>H</italic>-1,2,6-thiadiazine (<bold>2</bold>) [<xref ref-type="bibr" rid="B11-molbank-2017-M923">11</xref>].</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M923-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2017-M923-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2017-M923-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of 4-chloro-6-ethoxy-2-(methylthio)pyrimidine (<bold>5</bold>) and attempted synthesis of 5-chlorinated pyrimidines <bold>4</bold> and <bold>6</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2017-M923-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

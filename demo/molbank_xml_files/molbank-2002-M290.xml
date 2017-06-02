@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M290</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2002-M290</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(2-Bromophenyl)-1-(4-methoxyphenyl)ethanone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Treu</surname>
+            <given-names>Matthias</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordis</surname>
+            <given-names>Ulrich</given-names>
+          </name>
+          <xref rid="af1-molbank-2002-M290" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2002-M290">Institute of Applied Synthetic Chemistry, Vienna University of Technology, Getreidemarkt 9/163OC, A-1060 Vienna, Austria; Tel. +43 (1) 58801.15460, Fax +43(1)58801.15499, Email: <email>ujordis@pop.tuwien.ac.at</email></aff>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>02</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2002</year>
+      </pub-date>
+      <volume>2002</volume>
+      <issue>1</issue>
+      <elocation-id>M290</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>12</month>
+          <year>2001</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>05</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2002 MDPI.</copyright-statement>
+        <copyright-year>2002</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M290-i001.tif"/>
+       </disp-formula>
+	  <p>To anhydrous AlCl<sub>3</sub> (27.35 g, 205 mmol) and anisole (24.11 g, 223 mmol) in dry chloroform (300 mL) 2-bromobenzeneacetyl chloride [<xref ref-type="bibr" rid="B1-molbank-2002-M290">1</xref>] (43.4 g, 186 mmol) in dry chloroform (100 mL) was added over 30 min at 0 &#xB0;C and stirred at ambient temperature for 15 h. 2 N HCl (100 mL) was added, and the mixture was extracted with CH<sub>2</sub>Cl<sub>2</sub> (2 x 100 mL). The combined organic layer was washed with 2 N HCl (2 x 250 mL), water (2 x 250 mL), satd. NaHCO<sub>3</sub> (2 x 200 mL) and brine (200 mL), dried over Na<sub>2</sub>SO<sub>4</sub>, filtered and concentrated in vacuo. The residue was recrystallized from MeOH (50 mL). Yield: colorless crystals (51.3 g, 90%), mp. 87.5 - 88.5 &#xB0;C.</p>
+      <p>TLC: petroleum ether : EtOAc = 80 : 20, R<sub>f</sub> = 0.3.</p>
+      <p>Anal. Calcd for C<sub>15</sub>H<sub>31</sub>BrO: C, 59.04; H, 4.29. Found: C, 58.98; H, 4.33.</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>): d 8.04 (d, J = 9.5 Hz, 2H), 7.60 (d, J = 9.5 Hz, 1H), 7.32 - 7.10 (m, 5H), 6.97 (d, J = 9.5 Hz, 2H), 4.40 (s, 2H), 3.88 (s, 3H).</p>
+      <p><sup>13</sup>C NMR (CDCl<sub>3</sub>): d 194.8 (s), 163.6 (s), 135.2 (s), 132.6 (d), 131.6 (d), 130.6 (d), 129.6 (s), 128.5 (d), 127.4 (d), 125.0 (s), 113.8 (d), 55.4 (q), 45.3 (t).</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2002-M290">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2002-M290-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M290-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2002-M290-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2002-M290-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2002-M290">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Frescas</surname>
+              <given-names>S. P.</given-names>
+            </name>
+            <name>
+              <surname>Nichols</surname>
+              <given-names>D. E.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new, simple procedure for the preparation of 8-methoxy- 2-tetralone</article-title>
+          <source>Synth. Commun.</source>
+          <year>1995</year>
+          <volume>25</volume>
+          <fpage>2775</fpage>
+          <lpage>2780</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919508011824</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Samples Availability: </italic>Available from the authors.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M314</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M314</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-Phenyl-5-[1-(phenylsulphonyl)-pent-4-yn]-1,2,4-triazine and 3-Phenyl-5-[1-(phenylsulphonyl)-hex-5-yn]-1,2,4-triazine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Branowska</surname>
+            <given-names>Danuta</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ostrowski</surname>
+            <given-names>Stanislaw</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rykowski</surname>
+            <given-names>Andrzej</given-names>
+          </name>
+		  <xref rid="af1-molbank-2003-M314" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M314">Institute of Chemistry, University of Podlasie, ul. 3 Maja 54, PL-08-110 Siedlce, Poland E-mail: <email>Rykowski@ap.siedlce.pl</email></aff>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>2</issue>
+      <elocation-id>M314</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>11</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>1,2,4-triazines</kwd>
+		<kwd>carbanions</kwd>
+		<kwd>sulphones</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>As part of ongoing research programme we synthesised the title compounds as valuable intermediates for intramolecular cycloaddition reactions, leading to biologically active heterocycles.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M314-i001.tif"/></p>
+      <p>In a three-necked round-bottom flask (50 mL), equipped with a thermometer, a solution of 4-pentyn phenyl sulphone (<bold>2a</bold>) or 5-hexyn phenyl sulphone (<bold>2b</bold>) (1.0 mmole) [<xref ref-type="bibr" rid="B1-molbank-2003-M314">1</xref>] in dry THF (6 mL) is cooled to -78&#xB0;C. To the stirred solution, BuLi (1.5 mmole, 0.94 mL of 1.6 N solution in hexane) was added  gradually <italic>via</italic> syringe in such a rate to keep the temperature below -35&#xB0;C. The mixture was cooled again to -78&#xB0;C and a solution of 3-phenyl-1,2,4-triazine-5-carbonitrile [<xref ref-type="bibr" rid="B2-molbank-2003-M314">2</xref>] (<bold>1</bold>, 182 mg, 1.0 mmole) in dry THF (10 mL) was added dropwise <italic>via</italic> syringe during a period <italic>ca</italic> 10 min. It was stirred for <italic>ca</italic> 2 h and then allowed to warm to room temperature. To this mixture saturated aqueous NH<sub>4</sub>Cl solution (20 mL) was added and it was extracted with CH<sub>2</sub>Cl<sub>2</sub> (2 x 20 mL), dried over MgSO<sub>4</sub>, and evaporated to dryness. Column chromatography purification (silica gel 200-300 mesh, eluent: CHCl<sub>3</sub>) yielded 190 mg (52.5%) of pure 3-phenyl-5-[1-(phenylsulphonyl)-pent-4-yn]-1,2,4-triazine (<bold>3a</bold>) as a yellow solid (or 140 mg of 3-phenyl- 5-[1-(phenylsulphonyl)-hex-5-yn]-1,2,4-triazine (<bold>3b</bold>), 37%). </p>
+	  <p><bold>3-Phenyl-5-[1-(phenylsulphonyl)-pent-4-yn]-1,2,4-triazine (3a):</bold>&#xA0;</p>
+      <p>M.p. 86-87&#xB0;C.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3280 (C&#x2261;<underline>C-H</underline>), 1325 &amp; 1165 (SO<sub>2</sub>).</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>, 200 MHz): 1.97 (t, J = 2.6 Hz, 1 H, C&#x2261;CH), 2.00-2.20 (m, 1 H), 2.34-2.52 (m, 1 H), and 2.55-2.68 (m, 2 H) [2 x CH<sub>2</sub>], 4.65 (dd, J<sub>1</sub> = 9.0 Hz, J<sub>2</sub> = 5.5 Hz, 1 H, CH(SO<sub>2</sub>Ph)), 7.41-7.67 (m, 8 H, H-Ar), 8.21-8.27 (m, 2 H, H-Ar), 9.23 (s, 1 H, H-triazine).</p>
+      <p>MS (EI), m/z (% rel. int.): 363 (2, M<sup>+.</sup> , 362 (2), 311 (28), 222 (28), 194 (48), 184 (23), 169 (11), 167 (13), 141 (12), 125 (11), 104 (35), 91 (100), 77 (45), 65 (35), 51 (13).</p>
+      <p>HR-MS (EI) Calcd for C<sub>20</sub>H<sub>17</sub>N<sub>3</sub>SO<sub>2</sub>: 363.1042; Found: 363.1044.</p>
+	  <p><bold>3-Phenyl-5-[1-(phenylsulphonyl)-hex-5-yn]-1,2,4-triazine (3b):</bold>&#xA0;</p>
+      <p>M.p. 102-103&#xB0;C.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3295 (C&#x2261;<underline>C-H</underline>), 1370 &amp; 1170 (SO<sub>2</sub>).</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>, 200 MHz) 1.40-1.62 (m, 2 H, CH<sub>2</sub>), 1.95 (t, J = 2.6 Hz, 1 H, C&#x2261;CH), 2.23 (td, J<sub>1</sub> = 6.8 Hz, J<sub>2</sub> = 2.6 Hz, 2 H, CH<sub>2</sub>), 2.47-2.61 (m, 2 H, CH<sub>2</sub>), 4.43 (dd, J<sub>1</sub> = 9.9 Hz, J<sub>2</sub> = 5.3 Hz, 1 H, CH(SO<sub>2</sub>Ph)), 7.40-7.66 (m, 8 H, H-Ar), 8.20-8.28 (m, 2 H, H-Ar), 9.26 (s, 1 H, H-triazine).</p>
+      <p>MS (EI), m/z (% rel. int.): 377 (2, M<sup>+.</sup> , 376 (4), 311 (11), 208 (40), 105 (100), 104 (34), 103 (29), 79 (33), 77 (48), 65 (11), 51 (9).</p>
+      <p>HR-MS (EI) Calcd for C<sub>21</sub>H<sub>19</sub>N<sub>3</sub>SO<sub>2</sub>: 377.1198; Found: 377.1192.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2003-M314">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M314-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M314-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2003-M314-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M314-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2003-M314-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M314-s002-mod.mol">
+		<label>Supplementary File 3</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2003-M314-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M314-s002.mol">
+		<label>Supplementary File 4</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M314">
+        <label>1.</label>
+        <note><p>Prepared from methyl phenyl sulphone and corresponding 4-iodo-1-butyne or 5-iodo-1-pentyne, under argon in dry THF at -78&#xB0;C to r.t., in presence of BuLi (modified procedure of: <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taylor</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Macor</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>French</surname>
+              <given-names>L.G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1991</year>
+          <volume>56</volume>
+          <fpage>1807</fpage>
+        </citation>).</p></note>
+      </ref>
+      <ref id="B2-molbank-2003-M314">
+        <label>2.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1996</year>
+          <volume>22</volume>
+          <fpage>1329</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Branowska</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Makosza</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>van Ly</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1996</year>
+          <volume>33</volume>
+          <fpage>1567</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

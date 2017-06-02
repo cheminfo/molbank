@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M402</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M402</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5-Ferrocnylidene(1,3-diethylthiobarbituric acid)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Asiri</surname>
+            <given-names>Abdullah Mohamed</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M402">Chemistry Department, Faculty of Science, King Abdul-Aziz University, Jeddah 21413, P.O. Box 9028, Saudi Arabia. Tel. (+966)-2-6952293, Fax (+966)-2-6952293, e-mail: <email>aasiri2@kaau.edu.sa</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>1</issue>
+      <elocation-id>M402</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+		<license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>ferrocen</kwd>
+		<kwd>knovenagel condensation</kwd>
+		<kwd>dyes</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>There is considerable interest in the synthesis of new materials with large second-order optical non-linearity because of their potential applications in optical data storage, telecommunications and optical signals processing <sup>1-4</sup>. First and second hyperpolarizability can be observed with molecules which possess an electron donor and acceptor groups connected by a conjugated &#x3A0;-electron bridge which allow the possibility of intramolecular charge transfer <sup>5-6</sup>.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M402-i001.tif"/></p>
+      <p>To a refluxed solution of ferrocenecarboxaldehyde <bold>1</bold> (2.0g, 9.34 mmol) and N,N-diethylthiobarbituric acid <bold>2</bold> (1.87g, 9.34 mmol) in ethanol (50 ml), Piperidine (1 ml) was added. After the addition, the solution became darker and the reflux was continued for six hours, then the solution was left to cool to room temperature and the product <bold>3</bold> was precipitated. The precipitates were filter and washed with cold water and finally with ethanol, dried and recrystallized from ethanol. Deep blue crystal (3g, 81.01%).</p>
+      <p>Melting point: 164-166 <sup>&#x43E;</sup>C (uncorrected).</p>
+      <p>UV (EtOH; &#x3BB;<sub>max</sub>  nm; &#x3B5; (dm<sup>3</sup>.mol<sup>-1</sup>.cm<sup>-1</sup>): 374 (16521); 575 (3700).</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 1680, 1660 (C=O); 1620 (C=C); 1115 (C=S); 1101, 992, 809.</p>
+      <p><sup>1</sup>H-NMR (400 MHz; CDCl<sub>3</sub>): &#x3B4;= 8.46 (1H, s, -CH=C); 5.36 (2H, broad s, H-2, H4, H-5); 4.97 (2H, broad s, H-2, H3, H-4); 4.31 (5H, s, C<sub>5</sub>H<sub>5</sub>); 4.31 (4H, q, CH<sub>2</sub>N); 1.32 (6H, t, <underline>CH<sub>3</sub></underline>CH<sub>2</sub>N).</p>
+      <p>Elemental Analysis: Calculated for C<sub>19</sub>H<sub>20</sub>N<sub>2</sub>O<sub>2</sub>SFe (396.19): C, 57.57%; H, 5.05%; N, 7.07%: Found; C, 57.36%; H, 4.88%; N, 7.14%</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M402">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M402-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M402-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M402-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M402-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M402">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyd</surname>
+              <given-names>R. W.</given-names>
+            </name>
+          </person-group>
+          <source>Nonlinear Optics</source>
+          <publisher-name>academic Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1992</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M402">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marder</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name>
+              <surname>Beratan</surname>
+              <given-names>D. N.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>L. T.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1991</year>
+          <volume>103</volume>
+		  <fpage>252</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M402">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eaton</surname>
+              <given-names>D. F.</given-names>
+            </name>
+          </person-group>
+          <source>Science</source>
+          <year>1991</year>
+          <volume>281</volume>
+		  <fpage>253</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M402">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Staring</surname>
+              <given-names>E. G.</given-names>
+            </name>
+          </person-group>
+          <source>Recl. Trav. Chim. Pas-Bas.</source>
+          <year>1991</year>
+          <volume>492</volume>
+		  <fpage>110</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2005-M402">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Derik</surname>
+              <given-names>C. W.</given-names>
+            </name>
+            <name>
+              <surname>Wagniere</surname>
+              <given-names>R. J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1986</year>
+          <volume>108</volume>
+		  <fpage>5387</fpage>
+          <pub-id pub-id-type="pmid">20349986</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

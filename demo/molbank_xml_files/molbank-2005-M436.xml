@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M436</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M436</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of N-(2-hydroxy-3-methoxybenzylidene) - 2, 3, 4, 6-tetra-O-acetyl -&#x3B2;-D galactopyranosylamine as a new chiral Schiff base for asymmetric [2+2] cycloadditions</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jarrahpour</surname>
+            <given-names>A. A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2005-M436" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alvand</surname>
+            <given-names>P.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arab</surname>
+            <given-names>R.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beheshti</surname>
+            <given-names>A.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M436">Chemistry Department, College of Sciences, Shiraz University, Shiraz 71454, Iran. Tel: + 98 711 2284822, Fax: +98 711 2280926, e-mail: <email>aliasghar6683@yahoo.com</email> and <email>jarrah@susc.ac.ir</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2005-M436"><label>*</label>Author to whom correspondence should be addressed.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>4</issue>
+      <elocation-id>M436</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <p>The importance of carbohydrates for asymmetric synthesis is well recognized [<xref ref-type="bibr" rid="B1-molbank-2005-M436">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M436">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2005-M436">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2005-M436">4</xref>].The reason that carbohydrates contain too many chiral centers and functional groups has limited their research about stereodifferentiating selection processes in asymmetric synthesis for a long time. During the past decades few carbohydrates have received increasing attention as stereodifferentiating auxiliaries in stereoselective syntheses [<xref ref-type="bibr" rid="B5-molbank-2005-M436">5</xref>]. Carbohydrates have been applied for stereo- and regioselective chemical reactions for last two decades. They could be used for biological recognition on membrane, and they play a prominent role in numerous biological processes such as tumor-cell growth [<xref ref-type="bibr" rid="B6-molbank-2005-M436">6</xref>], bacterial and viral infection or inhibition of glycosidases [<xref ref-type="bibr" rid="B2-molbank-2005-M436">2</xref>,<xref ref-type="bibr" rid="B7-molbank-2005-M436">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2005-M436">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2005-M436">9</xref>]. Glycosylamines are valuable intermediates in the preparation of nucleosides and drugs [<xref ref-type="bibr" rid="B10-molbank-2005-M436">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2005-M436">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2005-M436">12</xref>]. It has been proposed that when the Schiff base is derived from an optically active amine and an achiral aldehyde, the degree of distereoselectivity in the [2+2] cycloaddition varies [<xref ref-type="bibr" rid="B13-molbank-2005-M436">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2005-M436">14</xref>]. The asymmetric Staudinger reaction utilizing 2,3,4,6-tetra-O-acetyl-&#x3B2;-D-galactopyranosylamine and 2,3,4,6-tetra-O-pivaloyl-&#x3B2;-D-galactopyranosylamine as the chiral auxiliary in the synthesis of 2-azetidinones has been reported by us and others [<xref ref-type="bibr" rid="B15-molbank-2005-M436">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2005-M436">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2005-M436">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2005-M436">18</xref>]. We now report compound <bold>6</bold> as a new chiral auxiliary Schiff base for &#x3B2;-lactam syntheses.</p>
+	  <disp-formula>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M436-i001.tif"/>
+  </disp-formula>
+      <p>D-(+)-Glucose <bold>1</bold> was converted to 2, 3, 4, 6-tetra-O-acetyl-&#x3B2;-D-galactopyranosylbromide <bold>2</bold> by a reported method [<xref ref-type="bibr" rid="B18-molbank-2005-M436">18</xref>]. Treatment of <bold>2</bold> with NaN<sub>3</sub> in 9:1 aceton-water afforded galactosylazide <bold>3</bold> in 95% yield. Reduction of <bold>3</bold> by hydrogenation in the presence of Raney Ni gave 2, 3, 4, 6-tetra-O-acetyl-&#x3B2;-D-galactopyranosylamine as a white solid which was recrystallized from ethanol. o-Vanillin <bold>5</bold> (0.87 g, 5.71 mmol) was added to a solution of 2,3,4,6-tetra-O-acetyl-&#x3B2;-D-galactosylamine <bold>4</bold> (2.00 g, 5.76 mmol) in ethanol (35 ml). The mixture was refluxed for 5 h. The resulting yellow solid N-(2-hydroxy-3-methoxybenzylidene) - 2,3,4,6-tetra-O-acetyl -&#x3B2;-D galactopyranosylamine <bold>6</bold> was collected in 90% yield by filtration.</p>
+      <p><inline-formula>
+        <mml:math id="mm1" display="block">
+          <mml:semantics>
+            <mml:mrow>
+			<mml:msubsup>
+			<mml:mrow>
+              <mml:mo>[</mml:mo>
+			  <mml:mi mathvariant="sans-serif">&#x3B1;</mml:mi>
+			  <mml:mo>]</mml:mo>
+			  </mml:mrow>
+			  <mml:mi>D</mml:mi>
+			  <mml:mn>22</mml:mn>
+			  </mml:msubsup>
+            </mml:mrow>
+          </mml:semantics>
+        </mml:math>
+      </inline-formula> = + 24.5 (c = 0.02, CHCl<sub>3</sub>)</p>
+      <p>Melting point: 180-182 &#xB0;C.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3357.8-3620.1 (OH); 1743.5 (C=O); 1633.6 (C=N) cm<sup>-1</sup>.</p>
+      <p><sup>1</sup>H-NMR (250MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 12.44 (OH, br, 1H); 8.53 (NCH, s, 1H); 7.30-6.82 (Ar-H, m, 4H); 3.84 (OCH3, s, 3H); 1.91-2.10 (4CH<sub>3</sub>CO, s, 12H),</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, DMSO-<italic>d<sub>6</sub></italic>): &#x3B4;= 170.82-165.03 (C=O); 124.90-115.21 (Ar); 21.10-20.97(OCH<sub>3</sub>).</p>
+      <p>MS (m&#x2044;z, %): 481 (2.00); 331 (2.10); 169 (21.60); 109 (18.10); 43 (100.00).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M436">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M436-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M436-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M436-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M436-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>The authors thank the Shiraz University Research Council for financial support (Grant No. 83-GR-SC-31 and 84-GR-SC-23).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M436">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Pfrengle</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1988</year>
+          <volume>110</volume>
+          <fpage>651</fpage>
+          <pub-id pub-id-type="doi">10.1021/ja00210a084</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M436">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Pfrengle</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1988</year>
+          <volume>44</volume>
+          <fpage>5487</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)86054-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M436">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharma</surname>
+              <given-names>G V M</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Radha Krishna</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1999</year>
+          <volume>40</volume>
+		  <fpage>1783</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M436">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Totani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Takao</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tadano</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett</source>
+          <year>2004</year>
+          <volume>12</volume>
+          <fpage>2066</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2005-M436">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunz</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Modern Amination Methods</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ricci</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>WILEY-VCH</publisher-name>
+          <publisher-loc>einheim</publisher-loc>
+          <year>2000</year>
+          <fpage>103</fpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2005-M436">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Danishefsky</surname>
+              <given-names>S. J.</given-names>
+            </name>
+            <name>
+              <surname>A&#x650;&#x650;&#x650;&#x650;&#x650;&#x650;&#x650;llen</surname>
+              <given-names>J. R.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>2000</year>
+          <volume>39</volume>
+		  <fpage>836</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2005-M436">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pili</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Patris</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name>
+              <surname>Chrest</surname>
+              <given-names>F. J.</given-names>
+            </name>
+            <name>
+              <surname>Passaniti</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Cancer Res.</source>
+          <year>1995</year>
+          <volume>55</volume>
+		  <fpage>2920</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2005-M436">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wonge</surname>
+              <given-names>C. H.</given-names>
+            </name>
+            <name>
+              <surname>Sears</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1999</year>
+          <volume>38</volume>
+		  <fpage>2300</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2005-M436">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dotz</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Jakel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hasse</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Organomet. Chem.</source>
+          <year>2001</year>
+          <volume>617-618</volume>
+          <fpage>119</fpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2005-M436">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babiano</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Fuentes Mota</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Carbohydr. Res.</source>
+          <year>1986</year>
+          <volume>154</volume>
+          <fpage>280</fpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2005-M436">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cusack</surname>
+              <given-names>N. J.</given-names>
+            </name>
+            <name>
+              <surname>Hildick</surname>
+              <given-names>B. J.</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Rugg</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem.Soc.</source>
+          <year>1973</year>
+          <fpage>1720</fpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2005-M436">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cusack</surname>
+              <given-names>N. J.</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>D. H.</given-names>
+            </name>
+            <name>
+              <surname>Rugg</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Lofthouse</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc.</source>
+          <year>1974</year>
+          <fpage>73</fpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2005-M436">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barton</surname>
+              <given-names>D. H. R.</given-names>
+            </name>
+            <name>
+              <surname>Getau-Olesker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Anaya-Mateos</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cleophax</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Gero</surname>
+              <given-names>S. D.</given-names>
+            </name>
+            <name>
+              <surname>Chiaroni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Riche</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans.1</source>
+          <year>1990</year>
+          <fpage>3211</fpage>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2005-M436">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrahpour</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Shekarriz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taslimi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>939</fpage>
+          <pub-id pub-id-type="doi">10.3390/91100939</pub-id>
+          <pub-id pub-id-type="pmid">18007494</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2005-M436">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarrahpour</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Shekarriz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taslimi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>29</fpage>
+          <pub-id pub-id-type="doi">10.3390/90100029</pub-id>
+          <pub-id pub-id-type="pmid">18007409</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2005-M436">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krank</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hebrault</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kunz</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett</source>
+          <year>2003</year>
+          <volume>4</volume>
+		  <fpage>671</fpage>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2005-M436">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Sager</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Schanzenbach</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Decker</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>liebigs Ann. Chem.</source>
+          <year>1991</year>
+		  <volume>7</volume>
+		  <fpage>649</fpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2005-M436">
+        <label>18.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furniss</surname>
+              <given-names>B. S.</given-names>
+            </name>
+            <name>
+              <surname>Hannaford</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>P. W. G.</given-names>
+            </name>
+            <name>
+              <surname>Tartchel</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <source>Textbook of Practical Organic Chemistry (Vogel&#x2019;s)</source>
+          <edition>5th ed.</edition>
+          <publisher-name>John Wiley &amp; Sons, Inc.</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1991</year>
+          <fpage>648</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+  <fn>
+  <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+  </fn>
+ </fn-group>
+  </back>
+</article>

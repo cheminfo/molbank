@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M470</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M470</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5,6,7,8-Tetrahydro-3-(1-methoxyiminobutyl)-1-methylsulfonylisoquinoline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lipi&#x144;ska</surname>
+            <given-names>Teodozja</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M470" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Olender</surname>
+            <given-names>Ewa</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M470">Department of Chemistry, University of Podlasie, <break/>ul 3 Maja 54,&#xA0; PL-08 110 Siedlce, Poland<break/>e-mail: <email>tlip@ap.siedlce.pl</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M470"><label>*</label> Author to whom correspondence should be addressed.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>2</issue>
+      <elocation-id>M470</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>09</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>09</day>
+          <month>10</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>5,6,7,8-tetrahydroisoquinoline</kwd>
+        <kwd>1-heteroarylbutanone oxime methylether</kwd>
+        <kwd>methysulfone</kwd>
+        <kwd>PTC-oxidation</kwd>
+        <kwd>aza-Diels-Alder reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>As part of research programme directed to the synthesis of novel heterocyclic compounds pharmacologically interesting [<xref ref-type="bibr" rid="B1-molbank-2006-M470">1</xref>] via ring transformation of 1,2,4-triazine derivatives, we synthesized the title compounds <bold>3</bold> via two step  process. Starting compounds, 5-(methoxyiminobutyl)-3-(methylsulfanyl)-1,2,4-triazine (<bold>1</bold>) [<xref ref-type="bibr" rid="B2-molbank-2006-M470">2</xref>] was easily oxidized under PTC-conditions into the corresponding sulfone <bold>2</bold>. The latter compound, as reactive azadiene [<xref ref-type="bibr" rid="B3-molbank-2006-M470">3</xref>], was subjected in crude form to [4+2]cycloaddition-retro cycloaddition with 1-pyrrolidino-1-cyclohexane as dienophile to give 5,6,7,8-Tetrahydro-3-(1-methoxyiminoethyl)-1-methylsulfonylisoquinoline (<bold>3)</bold> in 70% yield.</p>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M470-i001.tif"/></p>
+    </sec>
+	<sec>
+      <title>Preparation of 2:</title>
+      <p>A solution of KMnO<sub>4</sub> (474 mg, 3 mmol) in water 20 ml)  was added to a solution of <bold>1</bold> (226 mg, 1 mmol) and Bu<sub>4</sub>N<sup>+</sup>Br<sup>-</sup> (48 mg,  1.5 mmol) in a mixture of AcOH (1.8 ml, 30 mmol) and benzene (15 ml) during stirring and cooling to 5-10<sup>o</sup>C.  The reaction was continued at 10<sup>o</sup>C for 1-1.5 h, until complete oxidation process was observed with monitoring by TLC (CHCl<sub>3</sub>/acetone -50:1). A saturated solution of Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub> for decoloring, then saturated solution of K<sub>2</sub>CO<sub>3</sub>  for neutralization were added. The organic layer was separated and water phase was extracted with benzene (3 x 20 ml).</p> 
+	  <p>The combined organic layers were washed with water (2 x 20 ml) and dried over MgSO<sub>4</sub>. After evaporation of the solvents under reduced pressure to volume of 5 ml, the solution was contained of pure product <bold>2</bold> (TLC monitoring) and was used for next step.</p>
+      <p>IR (KBr, &#x3BD;, cm<sup>-1</sup>): 3030 (CH<sub>aromat.</sub>); 2975, 2850 (CH<sub>3</sub>); 1665 (C=N); 1565, 1460, 1395 (aromat. ring); 1335, 1155 (SO<sub>2</sub>); 1075 (C-O); </p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 200 MHz); &#x3B4;= 9.64  (s, 1 H, CH<sub>aromat.</sub>); 4.20 (s, 3 H, CH<sub>3</sub>O); 3.45 (s, 3H, CH<sub>3</sub>SO<sub>2</sub>);  2.90 (t,  <italic>J</italic>= 7.7 Hz, 2 H, H<sub>2</sub>CC=N); 1.60 (m, 2 H, <underline>H<sub>2</sub>C</underline>CH<sub>2</sub>C=); 1.05 (t, <italic>J</italic>=7.4 Hz, 3 H, <underline>H<sub>3</sub>C</underline>CH<sub>2</sub>).</p>
+    </sec>
+    <sec>
+      <title>Preparation of 5,6,7,8-Tetrahydro-3-(1-methoxyiminobutyl)-1-methylsulfonylisoquinoline (3):</title>
+      <p>To the freshly obtained solution of <bold>2</bold> (1 mmol), was added 1-(N-pyrrolidine)cyclohexene (302 mg, 2 mmol). The reaction mixture was refluxed for 1h until the substrate <bold>2</bold> was disappeared (TLC monitoring: CHCl<sub>3</sub>/acetone-50:1). Removal of solvents under reduced pressure and purification of the residue by column chromatography on silica gel (230-400 mesh, Merck type 60) using chloroform/hexane - 3:1 as eluent gave 218 mg (70 %) of  5,6,7,8-tetrahydro-3-(1-methyoxyiminobutyl)-1-methylsulfonylisoquinoline (<bold>3</bold>) as a white solid after recrystalization from mixture chloroforme/hexane 1:2.</p>
+      <p>Melting point: 84-85<sup>o</sup>C</p>
+      <p>IR (KBr, &#x3BD;, cm<sup>-1</sup>): 3030 (CH<sub>aromat.</sub>); 2975, 2875, 2855 (CH<sub>3</sub>, CH<sub>2</sub>); 1660 (C=N); 1550, 1460 (aromat. ring); 1340, 1170 (SO<sub>2</sub>);  1070 (CH<sub>3</sub>O).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 200 MHz): &#x3B4;= 7.71 (s, 1 H, CH<sub>aromat.</sub>); 3.95 (s, 3 H, CH<sub>3</sub>O); 3.70 (s, 3 H, CH<sub>3</sub>SO<sub>2</sub>); 3.16 (t, <italic>J</italic>=5.5Hz, 2 H, C<sup>8</sup>H<sub>2</sub>); 2.83 (t, <italic>J</italic>=5.7 Hz, 2 H, C<sup>5</sup>H<sub>2</sub>); 2.64 (t, <italic>J</italic>=7.6 Hz, 2 H, CH<sub>2</sub>C=N); 1.94-1.76 (m, 4 H, C<sup>6</sup>H<sub>2</sub>C<sup>7</sup>H<sub>2</sub>); 1.61 (m, 2 H, <underline>H<sub>2</sub>C</underline>CH<sub>3</sub>); 0.97 (t, <italic>J</italic>=7.5 Hz, 3H, <underline>H<sub>3</sub>C</underline>CH<sub>2</sub>).</p>
+      <p>MS (EI), m/z (% rel. int.): 310 (100) [M<sup>+</sup>]; 295 (13); 279 (35); 267 (13); 250 (15); 212 (25); 181 (33).</p>
+      <p>Elemental Analysis: Calculated for C<sub>15</sub>H<sub>22</sub>N<sub>2</sub>O<sub>3</sub>S: C, 58.04%; H, 7.14%; N, 9.03%. Found: C, 57.88%; H, 7.20%; N, 8.90%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M470">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2006-M470-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M470-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M470-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M470-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+<supplementary-material id="molbank-2006-M470-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M470-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M470-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M470-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and notes:</title>
+      <ref id="B1-molbank-2006-M470">
+        <label>1.</label>
+		<note>
+		<p>For previous paper in this series, see:
+        <citation citation-type="journal">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Lipi&#x144;ska</surname>
+              <given-names>T.</given-names>
+            </name>
+			</person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>2002</year>
+		  <volume>43</volume>
+          <fpage>9565</fpage>
+          <lpage>9567</lpage>
+        </citation></p>
+		</note>
+      </ref>
+      <ref id="B2-molbank-2006-M470">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lipi&#x144;ska</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Branowska</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Rykowski</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Khim. Geterosikl. Soedin.</source>
+          <year>1999</year>
+          <fpage>381</fpage>
+          <lpage>389</lpage>
+        </citation>
+		<citation citation-type="journal">
+          <source>Chem. Heterocycl. Compd (Engl. Transl.)</source>
+          <year>2001</year>
+          <volume>37</volume>
+          <fpage>231</fpage>
+          <lpage>236</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M470">
+        <label>3.</label>
+		<note>
+		<p>For a review on aza-DA-rDA reactions with extrusinon of small molecules see:<citation citation-type="other">
+		<person-group person-group-type="author">
+            <name>
+              <surname>Rickborn</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Reactions</source>
+		  <volume>Vol. 53</volume>
+          <fpage>224</fpage>
+          <lpage>627</lpage>
+		  <person-group person-group-type="editor">
+            <name>
+              <surname>Paguette</surname>
+              <given-names>Leo A.</given-names>
+            </name>
+			<etal/>
+          </person-group>
+          <publisher-name>J. Wiley &amp; Sons Inc.</publisher-name>
+          <year>1998</year>
+        </citation></p>
+		</note>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Sample Availability</italic>: Available from MDPI.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

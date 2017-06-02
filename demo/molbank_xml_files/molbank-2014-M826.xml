@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M826</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M826</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-[5-(2-Methoxyphenyl)-1,3,4-oxadiazol-2-yl]benzohydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Taha</surname>
+            <given-names>Muhammad</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M826" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2014-M826" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2014-M826" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ismail</surname>
+            <given-names>Nor Hadiani</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M826" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2014-M826" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Imran</surname>
+            <given-names>Syahrul</given-names>
+          </name>
+          <xref rid="af1-molbank-2014-M826" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2014-M826" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khan</surname>
+            <given-names>Khalid M.</given-names>
+          </name>
+          <xref rid="af3-molbank-2014-M826" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M826"><label>1</label>Atta-ur-Rahman Institute for Natural Product Discovery, Universiti Teknologi MARA, Puncak Alam Campus, Puncak Alam 42300, Malaysia</aff>
+      <aff id="af2-molbank-2014-M826"><label>2</label>Faculty of Applied Science, Universiti Teknologi MARA, Shah Alam 40450, Selangor D. E. Malaysia</aff>
+      <aff id="af3-molbank-2014-M826"><label>3</label>H.E.J. Research Institute of Chemistry, International Center for Chemical and Biological Sciences, University of Karachi, Karachi 75270, Pakistan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M826"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>taha_hej@yahoo.com</email> or <email>muhamm9000@puncakalam.uitm.edu.my</email>; Tel.: +60-332-584-761; Fax: +60-332-584-770.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>05</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>2</issue>
+      <elocation-id>M826</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>04</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>05</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>4-(5-(2-Methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide (<bold>5</bold>) was synthesized by three steps. The synthesis started with 2-methoxybenzohydrazide to form hydrazone (<bold>3</bold>) which was then cyclized to oxadiazole (<bold>4</bold>) and finally, treatment of oxadiazole (<bold>4</bold>) with hydrazine hydrate afforded the final product (<bold>5</bold>).</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-methoxybenzohydrazide</kwd>
+        <kwd>oxadiazole</kwd>
+        <kwd>hydrazone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Benzohydrazides have been reported to possess various biological activities such as antileishmanial [<xref ref-type="bibr" rid="B1-molbank-2014-M826">1</xref>], antioxidant [<xref ref-type="bibr" rid="B2-molbank-2014-M826">2</xref>] or antibacterial effects [<xref ref-type="bibr" rid="B3-molbank-2014-M826">3</xref>]. Benzohydrazides are easily converted into hydrazones by treating with aldehyde or ketone [<xref ref-type="bibr" rid="B4-molbank-2014-M826">4</xref>]. Benzohydrazones are applicable in mass spectrometry as alternate UV-LDI matrices for the analysis of peptides with significantly low background signals [<xref ref-type="bibr" rid="B5-molbank-2014-M826">5</xref>]. Recent studies on benzohydrazones also showed that they are potent antileishmanial [<xref ref-type="bibr" rid="B6-molbank-2014-M826">6</xref>] antioxidant [<xref ref-type="bibr" rid="B7-molbank-2014-M826">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M826">8</xref>] antidiabetic [<xref ref-type="bibr" rid="B9-molbank-2014-M826">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2014-M826">10</xref>] antibacterial [<xref ref-type="bibr" rid="B3-molbank-2014-M826">3</xref>] and antifungal [<xref ref-type="bibr" rid="B11-molbank-2014-M826">11</xref>] agents. Benzohydrazones can be converted into oxadiazole by using cerium ammonium nitrate (CAN) [<xref ref-type="bibr" rid="B12-molbank-2014-M826">12</xref>], bis(trifluoroacetoxy)iodobenzene [<xref ref-type="bibr" rid="B13-molbank-2014-M826">13</xref>] or Dess&#x2013;Martin reagent (DMP) [<xref ref-type="bibr" rid="B14-molbank-2014-M826">14</xref>]. Literature search showed that oxadiazole carrying a benzoyl hydrazine moiety has not been reported. Therefore, 4-(5-(2-methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide (<bold>5</bold>), a new oxadiazole containing a benzoyl hydrazine unit, was obtained as shown in <xref ref-type="scheme" rid="molbank-2014-M826-sch001">Scheme 1</xref>. The product was prepared with satisfactory yield and fully characterized by spectroscopy.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>We have synthesized (<italic>E</italic>)-methyl 4-((2-(2-methoxybenzoyl)hydrazinylidene)methyl)benzoate (<bold>3</bold>) by condensing 2-methoxybenzohydrazide (<bold>1</bold>) with methyl 4-formylbenzoate (<bold>2</bold>) [<xref ref-type="bibr" rid="B6-molbank-2014-M826">6</xref>]. Compound <bold>3</bold> was then cyclized to form methyl 4-(5-(2-methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzoate (<bold>4</bold>) by using DMP [<xref ref-type="bibr" rid="B13-molbank-2014-M826">13</xref>]. Finally oxadiazole <bold>4</bold> was refluxed with hydrazine hydrate for 6 hours to give 4-(5-(2-methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide (<bold>5</bold>) in high yield (<xref ref-type="scheme" rid="molbank-2014-M826-sch001">Scheme 1</xref>).</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec id="sec4-molbank-2014-M826">
+        <title>4-(5-(2-Methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide</title>
+        <p>4-(5-(2-Methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide (<bold>5</bold>) was synthesized by mixing compound <bold>4</bold> (0.620 g, 2 mmol) with 2 mL hydrazine hydrate and 10 mL methanol. The mixture was refluxed for 6 h. Excess hydrazine hydrate and solvent were evaporated to afford pure product <bold>5</bold> (94%, yield 0.58 g). M.p. above 250 &#xB0;C; <sup>1</sup>H-NMR (500 MHz, DMSO-<italic>d<sub>6</sub></italic>): 10.01 (s, 1H, NH), <italic>&#x3B4;</italic> 8.14 (d, 2H, <italic>J</italic><sub>2&#x2019;,3&#x2019;</sub> = <italic>J</italic><sub>6&#x2019;,5&#x2019;</sub> = 8.5 Hz, H-2&#x2019;/H-6&#x2019;), 8.02 (d, 2H, <italic>J</italic><sub>3&#x2019;,2&#x2019;</sub> = <italic>J</italic><sub>5&#x2019;,6&#x2019;</sub> = 8.5 Hz, H-3&#x2019;/H-5&#x2019;), 7.97 (dd, 1H, <italic>J</italic><sub>3,4</sub> = 6.0, <italic>J</italic><sub>3,5</sub> = 2.0 Hz, H-3), 7.64 (ddd, 1H, <italic>J</italic><sub>4,3</sub> = 7.5, <italic>J</italic><sub>4,5</sub> = 6.5, <italic>J</italic><sub>4,6</sub> = 2.0 Hz, H-4), 7.29 (d, 1H, <italic>J</italic><sub>6,5</sub> = 8.5, H-6), 7.16 (t, 1H, <italic>J</italic><sub>5(6,4)</sub> = 8.5, H-5), 4.58 (s, 2H, NH<sub>2</sub>), 3.93 (s, 3H, O-CH<sub>3</sub>); <sup>13</sup>C-NMR (125 MHz, DMSO-<italic>d<sub>6</sub></italic>): <italic>&#x3B4;</italic> 165.41, 163.79, 163.59, 158.02, 136.50, 134.22, 130.70, 130.70, 128.48, 128.48, 127.05, 125.98, 121.28, 113.22, 112.45, 56.55; Anal. Calcd for C<sub>16</sub>H<sub>14</sub>N<sub>4</sub>O<sub>3</sub>, C, 61.93; H, 4.55; N, 18.06; Found C, 61.95; H, 4.56; N, 18.04; EI MS <italic>m/z</italic> 310.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2014-M826">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M826-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M826-s001.pdf">
+   <label>Supplementary File 1</label>
+ </supplementary-material>
+        <supplementary-material id="molbank-2014-M826-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M826-s002.mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+<supplementary-material id="molbank-2014-M826-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M826-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+       </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Authors would like to acknowledge Research Management Institute of UiTM for the financial support under CIFI Scheme 600-RMI/DANA 5/3/CIFI (141/2013).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Muhammad Taha designed the experiment and synthesized the compound. Syahrul Imran analyzed the compound using NMR. Nor Hadiani Ismail and Khalid Muhammad Khan write the manuscript. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2014-M826">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alptuzun</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Cakiroglu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Limoncu</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Erac</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hosgor-Limoncu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Erciyas</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antileishmanial activity of novel pyridinium-hydrazone derivatives</article-title>
+          <source>J. Enzyme Inhib. Med. Chem.</source>
+          <year>2013</year>
+          <volume>28</volume>
+          <fpage>960</fpage>
+          <lpage>967</lpage>
+          <pub-id pub-id-type="doi">10.3109/14756366.2012.697058</pub-id>
+          <pub-id pub-id-type="pmid">22803671</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M826">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>B.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization and antioxidant activity of naringenin Schiff base and its Cu(II), Ni(II), Zn(II) complexes</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>26</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.55.26</pub-id>
+          <pub-id pub-id-type="pmid">17202696</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M826">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khattab</surname>
+              <given-names>S.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Biological Activity of Novel Amino Acid-(N'-Benzoyl) Hydrazide and Amino Acid-(N'-Nicotinoyl) Hydrazide Derivatives</article-title>
+          <source>Molecules</source>
+          <year>2005</year>
+          <volume>10</volume>
+          <fpage>1218</fpage>
+          <lpage>1228</lpage>
+          <pub-id pub-id-type="doi">10.3390/10091218</pub-id>
+          <pub-id pub-id-type="pmid">18007388</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M826">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Jamil</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Ambreen</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Perveen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Morales</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Expeditious Synthetic Approach towards the Synthesis of Bis-Schiff Bases (Aldazines) Using Ultrasound</article-title>
+          <source>Ultrason. Sonochem.</source>
+          <year>2014</year>
+          <volume>21</volume>
+          <fpage>1200</fpage>
+          <lpage>1205</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ultsonch.2013.12.011</pub-id>
+          <pub-id pub-id-type="pmid">24398059</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M826">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Musharraf</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Bibi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shahid</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Najam-ul-Haq</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mughal</surname>
+              <given-names>U.R.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylhydrazide and Isatin Schiff Bases as Alternate UV-Laser Desorption Ionization (LDI) Matrices for Low Molecular Weight (LMW) Peptides Analysis</article-title>
+          <source>Am. J. Anal. Chem.</source>
+          <year>2012</year>
+          <volume>3</volume>
+          <fpage>779</fpage>
+          <lpage>789</lpage>
+          <pub-id pub-id-type="doi">10.4236/ajac.2012.312104</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M826">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baharudin</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Ismail</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Jaafar</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Samreen</surname>
+            </name>
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 2-methoxybenzoylhydrazone and evaluation of their antileishmanial activity</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2013</year>
+          <volume>23</volume>
+          <fpage>3463</fpage>
+          <lpage>3466</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2013.03.051</pub-id>
+          <pub-id pub-id-type="pmid">23608761</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M826">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ismail</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Jamil</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Jaafar</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Kashif</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, Evaluation of Antioxidant Activity and Crystal Structure of 2,4-Dimethylbenzoylhydrazones</article-title>
+          <source>Molecules</source>
+          <year>2013</year>
+          <volume>18</volume>
+          <fpage>10912</fpage>
+          <lpage>10929</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules180910912</pub-id>
+          <pub-id pub-id-type="pmid">24013406</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M826">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>V.U.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Perveen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Voelter</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,4,6-Trichlorophenylhydrazine Schiff Bases as DPPH Radical and Super Oxide Anion Scavengers</article-title>
+          <source>Med. Chem.</source>
+          <year>2012</year>
+          <volume>8</volume>
+          <fpage>452</fpage>
+          <lpage>461</lpage>
+          <pub-id pub-id-type="doi">10.2174/1573406411208030452</pub-id>
+          <pub-id pub-id-type="pmid">22530900</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M826">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Naz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ismail</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Rahman</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 4-Methoxybenzoylhydrazones and Evaluation of Their Antiglycation Activity</article-title>
+          <source>Molecules</source>
+          <year>2014</year>
+          <volume>19</volume>
+          <fpage>1286</fpage>
+          <lpage>1301</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules19011286</pub-id>
+          <pub-id pub-id-type="pmid">24451249</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M826">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Taha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rahim</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fakhri</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Jamil</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Karim</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Perveen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Choudhary</surname>
+              <given-names>M.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylhydrazide Schiff Bases: Synthesis and Antiglycation Activity</article-title>
+          <source>J. Chem. Soc. Pak.</source>
+          <year>2013</year>
+          <volume>35</volume>
+          <fpage>929</fpage>
+          <lpage>937</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M826">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sundriyal</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>R.K.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Current advances in antifungal targets and drug development</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2006</year>
+          <volume>13</volume>
+          <fpage>1321</fpage>
+          <lpage>1335</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986706776873023</pub-id>
+          <pub-id pub-id-type="pmid">16712473</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M826">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dabiri</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Salehi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Baghbanzadeha</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bahramnejada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A facile procedure for the one-pot synthesis of unsymmetrical 2,5-disubstituted 1,3,4-oxadiazoles</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2006</year>
+          <volume>47</volume>
+          <fpage>6983</fpage>
+          <lpage>6986</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2006.07.127</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M826">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Reiner</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidative cyclization of aldazines with bis(trifluoroacetoxy)iodobenzene</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2005</year>
+          <volume>46</volume>
+          <fpage>2701</fpage>
+          <lpage>2704</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2005.02.067</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M826">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cristian</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Paraschivescu</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Dumitru</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Matache</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baciu</surname>
+              <given-names>I.</given-names>
+            </name>
+			<name>
+              <surname>Rut&#x103;</surname>
+              <given-names>L.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient preparation of unsymmetrical 2,5-disubstituted 1,3,4-oxadiazoles promoted by Dess&#x2013;Martin reagent</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2009</year>
+          <volume>50</volume>
+          <fpage>1886</fpage>
+          <lpage>1888</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M826-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M826-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-(5-(2-methoxyphenyl)-1,3,4-oxadiazol-2-yl)benzohydrazide.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M826-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

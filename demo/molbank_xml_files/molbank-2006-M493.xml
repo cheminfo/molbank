@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M493</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M493</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-{[Benzyl-(2-cyano-ethyl)-amino]-methyl}-5-methyl-1H-pyrazole-3-carboxylic acid methyl ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Herrag</surname>
+            <given-names>Leila</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M493" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2006-M493" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2006-M493" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M493" ref-type="aff">1</xref>
+          <xref rid="af3-molbank-2006-M493" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M493" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hammouti</surname>
+            <given-names>Belkheir</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M493" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M493"><label>1</label>Laboratoire de Chimie Organique Physique, D&#xE9;partement de Chimie , Facult&#xE9; des Sciences , Universit&#xE9; Mohammed Premier , B.P. 524, 60000 Oujda , Maroc.</aff>
+      <aff id="af2-molbank-2006-M493"><label>2</label>Laboratoire de Chimie des Eaux et Corrosion, D&#xE9;partement de Chimie, Facult&#xE9; des&#xA0; Sciences,&#xA0; B.P. 717, Oujda, Maroc.</aff>
+      <aff id="af3-molbank-2006-M493"><label>3</label>Universit&#xE9; Mohammed Premier, Facult&#xE9; Pluridisciplinaire de Nador B.P. 300, 62700 Selouane, Nador, Maroc</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2006-M493"><label>*</label>Author to whom correspondence should be addressed. E-mail: <email>herragleila@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M493</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>pyrazole</kwd>
+        <kwd>propionitrile and tridentate nitrogen donor ligand</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The products of aza-type <italic>Michael</italic> addition, <italic>i.e.</italic>, &#x3B2;-amino carbonyl compounds and their derivatives, are often used as peptide analogs or precursors of optically active amino acids, amino alcohols, diamines, and lactams [<xref ref-type="bibr" rid="B1-molbank-2006-M493">1</xref>]. Moreover, &#x3B2;-amino carbonyl functionalities are ubiquitous motifs in natural products such as alkaloids and polyketides [<xref ref-type="bibr" rid="B2-molbank-2006-M493">2</xref>]. Herein, we report the synthesis of new product using aza-type <italic>Michael</italic> reactions under mild conditions.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M493-i001.tif"/></p>
+      <p>A mixture of 3-(benzylamino)propionitrile <bold>1</bold> [<xref ref-type="bibr" rid="B3-molbank-2006-M493">3</xref>] (1g; 6.25mmol) and  1-Hydroxymethyl-5-methyl-<italic>1H</italic>-pyrazole-3-carboxylic acid methyl ester <bold>2</bold> [<xref ref-type="bibr" rid="B4-molbank-2006-M493">4</xref>] (1.062g ; 6.25 mmol) in 20 ml of acetonitrile was stirred at room temperature for four days, then the mixture was dried with Na<sub>2</sub>SO<sub>4</sub> and filtered.  The solvent was evaporated under reduced pressure. The product <bold>3</bold> has been obtained with a 99% yield as yellow oil.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4;= 7.31 (<underline>CH</underline>arom, 5H, s) ; 6.56 ( <underline>CH</underline>pyr,1H, s) ; 4.94 (O<underline>CH</underline><sub>3</sub>, 3H, s) ; 3.89 ( N-<underline>CH</underline><sub>2</sub>-N, 2H, s) ; 3.75 (C<sub>6</sub>H<sub>5</sub>-<underline>CH</underline><sub>2</sub> ,2H, s) ; 3.01-3.06 (CH<sub>2</sub>-<underline>CH</underline><sub>2</sub>-CN, 2H,  t, J = 7.33 Hz) ; 2.33-2.37 ( N-<underline>CH</underline><sub>2</sub> , t, J = 7 Hz) and 2.18 ( <underline>CH</underline><sub>3</sub>, 3H, s).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 75 MHz): &#x3B4;= 163.32 (l); 142.91 (i); 141.56 (g); 137.46 (m); 129.154 (n); 129.03; 129.08 (f); 128.26 (o); 118.97 (a); 109.30 (h); 67.82 (e); 56.79 (d); 52.37 (k); 48.36 (c); 17.46 (b); 11.55 (j).</p>
+      <p>EI-MS (70 eV, m/z): 173 (16); 171; 119 (22); 91 (100).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M493">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M493-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M493-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M493-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M493-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M493-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M493-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+<supplementary-material id="molbank-2006-M493-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M493-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M493">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fustero</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pina</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Salavert</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Navarro</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ramirez de Arellano</surname>
+              <given-names>M. C.</given-names>
+            </name>
+            <name>
+              <surname>Fuentes</surname>
+              <given-names>A. S.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>2002</year>
+          <volume>67</volume>
+          <fpage>4667</fpage>
+          <pub-id pub-id-type="pmid">12098274</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M493">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arend</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Westermann</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Risch</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem., Int. Ed</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>1045</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M493">
+        <label>3.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.W.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>C.-G.</given-names>
+            </name>
+          </person-group>
+          <source>Helvetica Chimica Acta</source>
+          <year>2004</year>
+          <volume>87</volume>
+          <fpage>1522</fpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Azizi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Saidi</surname>
+              <given-names>M. R.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>383</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M493">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Touzani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ramdani</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Kadiri</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gourand</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>1999</year>
+          <volume>4</volume>
+          <fpage>M116</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

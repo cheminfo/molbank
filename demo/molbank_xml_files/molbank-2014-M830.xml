@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M830</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M830</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6-Chloro-2-hydroxy-2-trifluoromethyl-2<italic>H</italic>-chromene-3-carboxylic acid (5-allylsulfanyl-[1,3,4]thiadiazol-2-yl)-amide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Caixia</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Cuilian</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M830" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Guoyu</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fan</surname>
+            <given-names>Sufang</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xin</surname>
+            <given-names>Li</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Tingting</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M830">School of Science, Henan Agricultural University, Zhengzhou 450002, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2014-M830"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>xucuilian666@126.com</email>; Tel.: +86-371-6355-8138; Fax: +86-371-6355-8139.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>07</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>3</issue>
+      <elocation-id>M830</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>03</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>06</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new chromene containing 1,3,4-thiadiazole and trifluoromethyl(CF<sub>3</sub>), 6-chloro-2-hydroxy-2-trifluoromethyl-2<italic>H</italic>-chromene-3-carboxylic acid (5-allylsulfanyl-[1,3,4]thiadiazol-2-yl)-amide was synthesized and its structure was characterized by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, <sup>19</sup>F-NMR and HRMS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>chromene</kwd>
+        <kwd>6-chloro-2-hydroxy-2-trifluoromethyl-2<italic>H</italic>-chromene-3-carboxylic acid (5-allylsulfanyl-[1,3,4]thiadiazol-2-yl)-amide</kwd>
+        <kwd>synthesis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2014-M830" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Many compounds containing chromene ring moiety display broad spectrum of biological activity [<xref ref-type="bibr" rid="B1-molbank-2014-M830">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2014-M830">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2014-M830">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2014-M830">4</xref>]. 2<italic>H</italic>-Chromenes have gained much attention because of various biological activities such as antiviral, anti-tumor, anti-bacterial, fungicidal, antiflamatory, antioxidative and activator of potassium channels effects [<xref ref-type="bibr" rid="B5-molbank-2014-M830">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M830">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M830">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2014-M830">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2014-M830">9</xref>]. Recently, introduction of fluorine atoms into organic compounds has been regarded as one of the best ways for the enhancement or modification of their original biological activities [<xref ref-type="bibr" rid="B10-molbank-2014-M830">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2014-M830">11</xref>]. It was found and verified that the trifluoromethyl(CF<sub>3</sub>) group, regarded as a pseudo-halogen, imparted unique biological activity [<xref ref-type="bibr" rid="B12-molbank-2014-M830">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2014-M830">13</xref>]. </p>
+      <p>On the other hand, thiadiazoles are organic heterocyclic compounds having been reported to have a wide application in pharmaceuticals and pesticides due to their good and extensive biological activities [<xref ref-type="bibr" rid="B14-molbank-2014-M830">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2014-M830">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2014-M830">16</xref>]. Introduction of a thiadiazole ring into the chromene may improve the biological activities. As a continuation of our previous work for synthesis of heterocyclic compounds with chromene skeleton [<xref ref-type="bibr" rid="B17-molbank-2014-M830">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2014-M830">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2014-M830">19</xref>], we report here another new 2<italic>H</italic>-chromene, 6-chloro-2-hydroxy-2-trifluoromethyl-2<italic>H</italic>-chromene-3-carboxylic acid (5-allylsulfanyl-[1,3,4]thiadiazol-2-yl)-amide, and it was fully characterized. </p>
+    </sec>
+    <sec>
+      <title>Synthesis</title>
+      <p>The title compound <bold>3</bold> was prepared from dehydration of 6-chloro-2-hydroxy-2-(trifluoromethyl)-2<italic>H</italic>-chromene-3-carboxylic acid <bold>2</bold>, obtained by hydrolysis of ethyl 6-chloro-2-hydroxy-2-(trifluoromethyl)-2<italic>H</italic>-chromene-3-carboxylate <bold>4</bold> [<xref ref-type="bibr" rid="B19-molbank-2014-M830">19</xref>], with an equimolar amount of 5-allylsulfanyl-[1,3,4]thiadiazol-2-ylamine <bold>1</bold> in acetonitrile for 24 h in the presence of <italic>N,N,N&#x2032;,N</italic>&#x2032;-tetramethyluranium-<italic>O</italic>-(benzotriazol-1-yl)tetrafluoroborate (TBTU) and triethyl amine. This new chromene was fully characterized by IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and HRMS data. As shown in <xref ref-type="scheme" rid="molbank-2014-M830-sch001">Scheme 1</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>All reagents were purchased from commercial sources and used without further purification. Infrared spectra were recorded with a Nicolet IS10 Fourier Transform Infrared Spectrophotometer (4000&#x2013;400 cm<sup>&#x2212;1</sup>) (KBr pellets). <sup>1</sup>H and <sup>13</sup>C-NMR spectra of CDCl<sub>3</sub> solutions were obtained by a Bruker DPX-400 Spectrometer, respectively. <sup>19</sup>F-NMR spectra were recorded in CDCl<sub>3</sub> by instrument calibration. High resolution mass spectrometry data were measured on a Waters Q-Tof micro&#x2122; instrument with an electrospray ionization source (ESIMS). Melting points were determined on an X-5 digital microscopic melting-point apparatus (Beijing Tech Instruments Co., Beijing, China) and are uncorrected. </p>
+      <p>To a solution of 6-chloro-2-hydroxy-2-(trifluoromethyl)-2<italic>H</italic>-chromene-3-carboxylic acid (<bold>2</bold>) (2.20 g, 7.5 mmol) and 5-allylsulfanyl-[1,3,4]thiadiazol-2-ylamine (<bold>1</bold>) (1.30 g, 7.5 mmol), in dry acetonitrile (100 mL), TBTU (4.81 g, 15 mmol) and Et<sub>3</sub>N (3.1 mL, 22.5 mmol) were added. The mixture was stirred for 24 h at 40 &#xB0;C with TLC monitoring using ethyl acetate: ethylene dichloride (1:1) as eluent. After completion of the reaction, the solvent was removed by reduced pressure distillation. The residue was chromatographed on silica gel using ethyl acetate:ethylene dichloride (1:3~1:1) as the eluent, to make the title compound <bold>3</bold> a white solid.</p>
+      <p>Yield: 56%; m.p.: 205.2~206.1 &#xB0;C.</p>
+      <p>IR, (&#x3BD;, cm<sup>&#x2212;1</sup>): 3457 (-OH), 3128 (N-H), 1654 (C=O), 1611, 1563, 1488 (Ar), 1281 (C-N), 1186 (C-O-C). </p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 4.00 (d, <italic>J</italic> = 6.4 Hz, 2H, CH<sub>2</sub>S), 5.36 (d, <italic>J</italic> = 10 Hz, 1H, -CH=), 5.53 (d, <italic>J</italic> = 16.8 Hz, 1H, Allyl-H), 5.97&#x2013;6.08 (m, 2H, Allyl-H, Ar-H), 7.11 (d, <italic>J</italic> = 8.8 Hz, 1H, Ar-H), 7.45 (d, <italic>J</italic> = 7.6 Hz, Ar-H), 8.64 (s, 1H, H-4).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>, 100 MHz): &#x3B4; 36.00, 69.95(q, <sup>2</sup><italic>J</italic><sub>C, F</sub> = 33.5 Hz, <italic>C</italic>CF<sub>3</sub>), 105.14, 114.50, 119.03, 120.96, 123.45(q, <sup>1</sup><italic>J</italic><sub>C, F</sub> = 286.6 Hz, CF<sub>3</sub>), 127.57, 128.28, 130.14, 133.95, 138.64, 153.85, 158.25, 163.33, 164.73.</p>
+      <p><sup>19</sup>F-NMR (CDCl<sub>3</sub>, 376.5 MHz): &#x2212;76.68 (-CF<sub>3</sub>).</p>
+      <p>HRMS: calcd for <italic>m/z</italic> (C<sub>1</sub><sub>6</sub>H<sub>1</sub><sub>1</sub>ClF<sub>3</sub>N<sub>3</sub>O<sub>3</sub>S<sub>2</sub>-OH)<sup>+</sup>: 431.9855; found: 431.9854.</p>
+    </sec>
+  </body>
+  <back>
+<app-group>
+    <app id="app1-molbank-2014-M830">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2014-M830-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M830-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2014-M830-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M830-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2014-M830-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M830-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We are grateful for the financial support of this work from Key Science and Technique Foundation of Henan Province (112101110200).</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M830">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Starks</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <name>
+              <surname>Norman</surname>
+              <given-names>V.L.</given-names>
+            </name>
+            <name>
+              <surname>Rice</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Neil-Johnson</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Eldridge</surname>
+              <given-names>G.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial chromene and chromane stilbenoids from hymenocardia acida</article-title>
+          <source>Phytochemistry</source>
+          <year>2014</year>
+          <volume>98</volume>
+          <fpage>216</fpage>
+          <lpage>222</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.phytochem.2013.11.012</pub-id>
+          <pub-id pub-id-type="pmid">24361290</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M830">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filipe</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Marta</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Marian</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Jos&#xE9;</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Ellisabet</surname>
+              <given-names>G.P.</given-names>
+            </name>
+            <name>
+              <surname>Fernanda</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jordi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Maria</surname>
+              <given-names>I.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>New chromene scaffolds for adenosine A<sub>2A</sub> receptors: Synthesis, pharmacology and structure-activity relationship</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>54</volume>
+          <fpage>303</fpage>
+          <lpage>310</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M830">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J.F.</given-names>
+            </name>
+            <name>
+              <surname>Akora</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Yoshinori</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alex</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel chromene derivatives as TNF-&#x3B1; inhibitors</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2003</year>
+          <volume>13</volume>
+          <fpage>3647</fpage>
+          <lpage>3650</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2003.08.025</pub-id>
+          <pub-id pub-id-type="pmid">14552749</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M830">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nermien</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Hany</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Essam Shawky</surname>
+              <given-names>A.E.H.K.</given-names>
+            </name>
+            <name>
+              <surname>Shymaa</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>M.E.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 4<italic>H</italic>-chromene, coumarin, 12<italic>H</italic>-chromeno[2,3-d]pyrimidine derivatives and some of their antimicrobial and cytotoxicity activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>765</fpage>
+          <lpage>772</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M830">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cinzia</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Nicolata</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antirhinovirus activity of new 3-benzyl chromene and chroman derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>3720</fpage>
+          <lpage>3727</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M830">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monga</surname>
+              <given-names>P.K.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Dubey</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative study of microwave and conventional synthesis and pharmacological activity of coumarins: A review</article-title>
+          <source>J. Chem. Pharm. Res.</source>
+          <year>2012</year>
+          <volume>4</volume>
+          <fpage>822</fpage>
+          <lpage>850</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M830">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohammad</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mehdi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Saeed</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Abdolhossein</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Omidreza</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ramin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abbas</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>2<italic>H</italic>-chromene derivatives bearing thiazolidine-2,4-dione rhodanine or hydantoin moieties as potential anti-cancer agents</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>59</volume>
+          <fpage>15</fpage>
+          <lpage>22</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M830">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>S.Q.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>T.T.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>B.Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.B.</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>X.L.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>L.Q.</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>X.L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Preparation of S14161 and its analogues and the discoveryof 6-bromo-8- ethoxy-3-nitro-2<italic>H</italic>-chromene as a more potent antitumor agent <italic>in vitro</italic></article-title>
+          <source>Bioorg. Med. Lett.</source>
+          <year>2013</year>
+          <volume>23</volume>
+          <fpage>3314</fpage>
+          <lpage>3319</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2013.03.097</pub-id>
+          <pub-id pub-id-type="pmid">23601711</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2014-M830">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thompson</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Doggrell</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hoberg</surname>
+              <given-names>J.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potassium channel activators based on the benzopyran substructure: Synthesis and activity of the C-8 substituent</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <fpage>1663</fpage>
+          <lpage>1668</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(03)00058-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2014-M830">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tatsuya</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kazuya</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Osamu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kazunori</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Noritada</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic studies of fluorine-containing compounds for household inseticides</article-title>
+          <source>J. Fluor. Chem.</source>
+          <year>2007</year>
+          <volume>128</volume>
+          <fpage>1174</fpage>
+          <lpage>1181</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2014-M830">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uneyama</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Organofluorine Chemistry</source>
+          <publisher-name>Blackwell Publishing Ltd.</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2014-M830">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filler</surname>
+              <given-names>Y.K.</given-names>
+            </name>
+          </person-group>
+          <source>Biomedical Aspects of Fluorine Chemistry</source>
+          <publisher-name>Elservier Biomedical Press</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1986</year>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2014-M830">
+        <label>13.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hudlicky</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Chemistry of Organic Fluorine Compounds II</source>
+          <publisher-name>American Chemical Society</publisher-name>
+          <publisher-loc>Washington, DC, USA</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2014-M830">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pramilla</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pratibha</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Manu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chandr</surname>
+              <given-names>P.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of formazans from mannich base of 5-(4-chlorophenyl amino)-2-mercapto-1,3,4-thiadiazole as antimicrobial agents</article-title>
+          <source>Arab. J. Chem.</source>
+          <year>2014</year>
+          <volume>7</volume>
+          <fpage>181</fpage>
+          <lpage>187</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2014-M830">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>G.D.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antifungal activity of thiadiazole-functionalized chitosan derivatives</article-title>
+          <source>Carbohydr. Res.</source>
+          <year>2013</year>
+          <volume>373</volume>
+          <fpage>103</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.carres.2013.03.001</pub-id>
+          <pub-id pub-id-type="pmid">23624516</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2014-M830">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>Q.F.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>H.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobical evalution of a novel class of 1,3,4-thiadiazole: Derivatives bearing 1,2,4-triazolo[1,5-&#x3B1;]pyrimidine moiety</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>64</volume>
+          <fpage>54</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2013.04.014</pub-id>
+          <pub-id pub-id-type="pmid">23644188</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2014-M830">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.X.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>S.F.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Study on the cyclization methods of 3-[1-(phenylhydrazono)ethyl]-chromen-2-ones</article-title>
+          <source>Synth. Commun.</source>
+          <year>2013</year>
+          <volume>43</volume>
+          <fpage>1263</fpage>
+          <lpage>1269</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397911.2011.630772</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2014-M830">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.X.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>S.F.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>P.H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-assisted synthesis of 3-methyl-1-phenylchromeno[4,3-c]pyrazol-4(1<italic>H</italic>)-ones under solvent-free conditions</article-title>
+          <source>Heterocycles</source>
+          <year>2013</year>
+          <volume>87</volume>
+          <fpage>1327</fpage>
+          <lpage>1336</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.201341159</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2014-M830">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.X.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>S.F.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>L.X.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>An efficient solvent-free synthesis of 2-hydroxy-2-(trifluoromethyl)-2<italic>H</italic>-chromenes using silica-immobilized <italic>L</italic>-proline</article-title>
+          <source>Molecules</source>
+          <year>2013</year>
+          <volume>18</volume>
+          <fpage>11964</fpage>
+          <lpage>11977</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules181011964</pub-id>
+          <pub-id pub-id-type="pmid">24077175</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M830-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M830-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>The synthesis of 6-chloro-2-hydroxy-2-trifluoromethyl-2<italic>H</italic>-chromene-3-carboxylic acid (5-allylsulfanyl-[1,3,4]thiadiazol-2-yl)-amide, <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M830-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

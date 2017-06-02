@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M641</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M641</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>[1-(4-Chlorophenyl)cyclopropyl](piperazin-1-yl)methanone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Padmashali</surname>
+            <given-names>Basavaraj</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M641" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M641" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mallikarjuna</surname>
+            <given-names>Siddapura M.</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M641" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chidananda</surname>
+            <given-names>Ballekere N.</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M641" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M641"><label>1</label>Department of Chemistry, Sahyadri Science College (Autonomous), Shimoga-577 203, Karnataka, India</aff>
+      <aff id="af2-molbank-2009-M641"><label>2</label>Syngene International Ltd., Bangalore, Karnataka, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M641"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>basavarajpadmashali@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>11</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>4</issue>
+      <elocation-id>M641</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>09</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>10</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, [1-(4-chlorophenyl)cyclopropyl](piperazin-1-yl)methanone, was synthesized and characterized by elemental analysis, IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Boc-piperazine</kwd>
+        <kwd>1-hydroxybenzotriazole</kwd>
+        <kwd>cyclopropane</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The synthesis of esters of phorbol and epoxy derivatives has been carried out and the compounds were tested <italic>in vivo</italic> against P388 murine lymphocytic leukaemia; they were found to have considerable activity [<xref ref-type="bibr" rid="B1-molbank-2009-M641">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M641">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M641">3</xref>]. It was concluded that opening of the cyclopropane ring in such agents may be important in enhancing this activity [<xref ref-type="bibr" rid="B4-molbank-2009-M641">4</xref>]. In addition, piperazine derivatives have been extensively investigated by organic chemists due to their wide clinical applications in the therapy of functional diseases, for instance due to their anthelmintic, antibacterial and insecticidal activities [<xref ref-type="bibr" rid="B5-molbank-2009-M641">5</xref>]. With an intention to couple these two bioactive molecules, in this research paper, we report the linking of piperazine with 1-(4-chlorophenyl)cyclopropanecarboxylic acid through an amide bond. The formation of the amide bond was achieved efficiently by conventional acid-amine coupling [<xref ref-type="bibr" rid="B6-molbank-2009-M641">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2009-M641">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2009-M641">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2009-M641">9</xref>].</p>
+	  <disp-formula>
+	    <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M641-i001.tif"/>
+	  </disp-formula>
+	  <p>1-(4-Chlorophenyl)cyclopropanecarboxylic acid (2.00 g, 0.0102 mol, 1.0 eq) was dissolved in dry tetrahydrofuran (20 mL). The solution was stirred for 10 min at ambient temperature. 1-Ethyl-3-(3-dimethyllaminopropyl)carbodiimide hydrochloride (2.15 g, 0.01122 mol, 1.1 eq) was added, followed by 1-hydroxybenzotriazole (1.718 g, 0.01122 mol, 1.1 eq) and <italic>N</italic>,<italic>N</italic>-diisopropylethylamine (3.955 g, 0.0305 mol, 3.0 eq). The reaction mixture was stirred for 20 min at ambient temperature, then it was cooled to 0 &#xB0;C. Boc-piperazine (<italic>tert</italic>-butyl piperazine-1-carboxylate) (1.894 g, 0.0102 mol, 1.0 eq) was added portionwise to the mixture and stirring was continued for 6 h at ambient temperature. The completion of the reaction was monitored by TLC. The reaction mass was diluted with ethyl acetate (25 mL) and washed with sodium bicarbonate solution (10%, 25 mL) followed by water (15 mL) and brine (15 mL). It was finally dried over sodium sulphate (5.0 g) and concentrated under reduced pressure. The crude mass was purified by column chromatography using silica gel and 10% ethyl acetate in hexane to get 3.4 g of <italic>tert</italic>-butyl 4-{[1-(4-chlorophenyl)cyclopropyl]carbonyl}piperazine-1-carboxylate (<bold>1</bold>) in 91% yield.</p>
+      <p>Compound <bold>1</bold> (3.4 g, 0.00934 mol, 1.0 eq) was dissolved in dry methylene dichloride (20.4 mL) and the mixture was cooled to room temperature. Trifluoroacetic acid (3.19 g, 0.028 mol, 3.0 eq) was added slowly to the cooled mixture and stirred for 6 h at ambient temperature. The completion of the reaction was confirmed by checking the TLC. The reaction mixture was concentrated under reduced pressure and it was dissolved in methylene dichloride (30 mL). It was washed with water (15 mL), brine (15 mL) and dried over sodium sulphate (6 g). The crude mass obtained was purified by column chromatography using silica gel and methanol (3%) in methylene dichloride to get 1.8 g of purified [1-(4-chlorophenyl)cyclopropyl](piperazin-1-yl)methanone (<bold>2</bold>).</p>
+      <p>Yield. 75%.</p>
+      <p>M.p. 88&#x2013;90 &#xB0;C.</p>
+      <p><sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 9.32 (s, 1H, NH), 7.40 (d, <italic>J</italic> = 2.0 Hz, 2H), 7.17 (d, <italic>J</italic> = 3.0 Hz, 2H), 3.63 (m, unresolved, 2CH<sub>2</sub>NH), 2.96 (m, unresolved, 2CH<sub>2</sub>CONH), 1.37 (q, <italic>J</italic> = 6.0 Hz, 2H), 1.18 (q, <italic>J</italic> = 5.0 Hz, 2H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>): 169.9, 139.9, 131.3, 129.1 (3C), 127.5 (3C), 42.6, 28.89 (2C), 15.7 (2C).</p>
+      <p>IR (KBr) &#x3BD; (cm<sup>-1</sup>): 2970 (N-H), 1646 (C=O).</p>
+      <p>MS:m/z(ES) 265.2 [(M+1)<sup>+</sup>].</p>
+      <p>Elemental anaysis: Calculated for C<sub>14</sub>H<sub>17</sub>ClN<sub>2</sub>O: C, 63.51%; H, 6.47%; N, 10.58%. Calculated for C<sub>14</sub>H<sub>17</sub>ClN<sub>2</sub>O 0.3 H<sub>2</sub>O: C, 62.24%; H, 6.57%; N, 10.37%. Found: C, 62.26%; H, 6.46%; N, 10.05%.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2009-M641">
+      <title>Supplementary Materials</title>
+	  <supplementary-material id="molbank-2009-M641-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M641-s001-mod.mol">
+	  <label>Supplementary File 1</label>
+	  </supplementary-material>
+	  <supplementary-material id="molbank-2009-M641-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M641-s001.mol">
+	  <label>Supplementary File 2</label>
+	  </supplementary-material>
+	</app>
+    </app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>The authors are thankful to Syngene Intl. Ltd. Bangalore, India, for providing the laboratory facility to carry out the research work and one of the authors (S.M. Mallikarjuna) is thankful to Kuvempu University for providing all facilities.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M641">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Geetanjali</surname>
+            </name>
+            <name>
+              <surname>Chauhan</surname>
+              <given-names>S.M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>9,10-Anthraquinones and other biologically active compounds from the genus rubia</article-title>
+          <source>Chem Biodivers.</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>1241</fpage>
+          <lpage>1264</lpage>
+          <pub-id pub-id-type="doi">10.1002/cbdv.200490088</pub-id>
+          <pub-id pub-id-type="pmid">17191903</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M641">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blumberg</surname>
+              <given-names>P.M.</given-names>
+            </name>
+            <name>
+              <surname>Boutwell</surname>
+              <given-names>R.K.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vitro</italic> studies on the mode of action of the phorbol esters, potent tumor promoters, Part 2</article-title>
+          <source>Crit. Rev. Toxicol.</source>
+          <year>1981</year>
+          <volume>8</volume>
+          <fpage>199</fpage>
+          <lpage>234</lpage>
+          <pub-id pub-id-type="doi">10.3109/10408448109109658</pub-id>
+          <pub-id pub-id-type="pmid">7018838</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M641">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Middleton</surname>
+              <given-names>E.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Kandaswami</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Theoharides</surname>
+              <given-names>T.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>The effects of plant flavonoids on mammalian cells: Implications for inflammation, heart disease, and cancer</article-title>
+          <source>Pharmacol. Rev.</source>
+          <year>2000</year>
+          <volume>52</volume>
+          <fpage>673</fpage>
+          <lpage>751</lpage>
+          <pub-id pub-id-type="pmid">11121513</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M641">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyler</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Howden</surname>
+              <given-names>M.E.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structure-activity studies of potential antitumor agents derived from esters of phorbol</article-title>
+          <source>Aust. J. Chem.</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>193</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1071/CH9870193</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M641">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>H.S.</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>H.D.</given-names>
+            </name>
+            <name>
+              <surname>Mistry</surname>
+              <given-names>H.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimicrobial activity of some new piperazine derivaties containing aryl sulfonyloxy group</article-title>
+          <source>E-J. Chem.</source>
+          <year>2004</year>
+          <volume>1</volume>
+          <fpage>93</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.1155/2004/732420</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M641">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Hobbs</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Wengaten</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Titanium tetrachloride promoted condensations of amines with carboxamides and similar species</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1970</year>
+          <volume>35</volume>
+          <fpage>1542</fpage>
+          <lpage>1547</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00830a060</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M641">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burnell-Gurty</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Roskamp</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The conversion of carboxylic acids to amides via tin(II) reagents</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1993</year>
+          <volume>34</volume>
+          <fpage>5193</fpage>
+          <lpage>5196</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)73950-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M641">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Froyen</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The conversion of carboxylic acids into amides via NCS/triphenylphosphine</article-title>
+          <source>Synth. Commun.</source>
+          <year>1995</year>
+          <volume>25</volume>
+          <fpage>959</fpage>
+          <lpage>962</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919508012657</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M641">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balalaie</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mahdidoust</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Eshaghi-Najafabadi</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-(1<italic>H</italic>-Benzotriazole-1-yl)-1,1,3,3-tetramethyluronium tetrafluoroborate as an efficient coupling reagent for the amidation and phenylhydrazation of carboxylic acids at room temperature</article-title>
+          <source>J. Iran. Chem. Soc.</source>
+          <year>2007</year>
+          <volume>4</volume>
+          <fpage>364</fpage>
+          <lpage>369</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF03245987</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

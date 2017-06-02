@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M680</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M680</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(&#x2212;)-5-[(4<italic>R</italic>,5<italic>R</italic>)-5-(Benzyloxymethyl)-2,2-dimethyl-1,3-dioxolan-4-yl]-2,2-dimethyl-4,7-dihydro-1,3-dioxepine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Carreras</surname>
+            <given-names>Carlos R.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M680" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garc&#xED;a</surname>
+            <given-names>Celina E.</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M680" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mart&#xED;n</surname>
+            <given-names>V&#xED;ctor S.</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M680" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tonn</surname>
+            <given-names>Carlos E.</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M680" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D&#xED;az</surname>
+            <given-names>David D&#xED;az</given-names>
+          </name>
+          <xref rid="af3-molbank-2010-M680" ref-type="aff">3</xref>
+          <xref rid="af4-molbank-2010-M680" ref-type="aff">4</xref>
+          <xref rid="c1-molbank-2010-M680" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ce&#xF1;al</surname>
+            <given-names>Juan Pedro</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M680" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2010-M680" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M680"><label>1</label>INTEQUI-CONICET-Facultad de Qu&#xED;mica, Bioqu&#xED;mica y Farmacia, Universidad Nacional de San Luis, Chacabuco y Pedernera, 5700 San Luis, Argentina</aff>
+      <aff id="af2-molbank-2010-M680"><label>2</label>Instituto Universitario de Bio-Org&#xE1;nica &#x201C;Antonio Gonz&#xE1;lez&#x201D;, Universidad de La Laguna, Avda. Astrof&#xED;sico Francisco S&#xE1;nchez, 2, 38206 La Laguna, Tenerife, Spain</aff>
+      <aff id="af3-molbank-2010-M680"><label>3</label>Institut f&#xFC;r Organische Chemie, Universit&#xE4;t Regensburg, Universit&#xE4;tsstr. 31, 93040 Regensburg, Germany</aff>
+      <aff id="af4-molbank-2010-M680"><label>4</label>ICMA, CSIC-Universidad de Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M680"><label>*</label> Authors to whom correspondence should be addressed; E-Mails: <email>jcenal@unsl.edu.ar</email> (J.P.C.); <email>David.Diaz@chemie.uni-regensburg.de</email> (D.D.D.).</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>04</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>2</issue>
+      <elocation-id>M680</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>04</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The synthesis of (&#x2212;)-5-[(4<italic>R</italic>,5<italic>R</italic>)-5-(benzyloxymethyl)-2,2-dimethyl-1,3-dioxolan-4-yl]-2,2-dimethyl-4,7-dihydro-1,3-dioxepine is reported. Product character-ization was carried out by IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR, MS, elemental analysis and optical rotation.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>polyoxygenated compounds</kwd>
+        <kwd>acetonide</kwd>
+        <kwd>allylic diol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Acetals are frequently used as protecting groups for carbonyl groups in organic synthesis mainly due to their stability towards hydrolysis by bases [<xref ref-type="bibr" rid="B1-molbank-2010-M680">1</xref>]. As well as being remarkable synthetic building blocks, cyclic acetals are also important in nature. For instance, the most stable form of glucose in solution is its cyclic hemiacetal, maltose is an acetal made from two glucose units, and acetaldehyde diethyl acetal is an important flavouring compound in distilled beverages [<xref ref-type="bibr" rid="B2-molbank-2010-M680">2</xref>]. Pharmaceutical industry has also commercialized a number of bioactive acetonide-containing bioactive products such as fluocinolone acetonide or triamcinolone acetonide, which are potent corticosteroids primarily used in dermatology to reduce skin inflammation [<xref ref-type="bibr" rid="B3-molbank-2010-M680">3</xref>].</p>
+      <p>Herein, we report the synthesis of (&#x2212;)-5-[(4<italic>R</italic>,5<italic>R</italic>)-5-(benzyloxymethyl)-2,2-dimethyl-1,3-dioxolan-4-yl]-2,2-dimethyl-4,7-dihydro-1,3-dioxepine (<bold>2</bold>) by refluxing the corresponding allylic diol <bold>1</bold> in acetone for 24 h (<xref ref-type="scheme" rid="molbank-2010-M680-sch001">Scheme 1</xref>). Chiral precursor <bold>1</bold> was prepared by reduction of the appropriate butenolide as reported previously [<xref ref-type="bibr" rid="B4-molbank-2010-M680">4</xref>]. </p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H and <sup>13</sup>C NMR spectra were recorded at 25 &#xB0;C on a Bruker Avance 500 spectrometer in CDCl<sub>3</sub> as solvent, and chemical shifts are reported relative to Me<sub>4</sub>Si (<italic>&#x3B4;</italic> <italic>=</italic> 0). Low- and high-resolution mass spectra were obtained by using a Micromass VG Autospec spectrometer. Elemental analysis was performed on a Fisons Instrument EA 1108 CHNS-O analyzer. Infrared spectra were recorded on a Bruker IFS 55 spectrophotometer on compounds dispersed on a NaCl disc. Optical rotations were determined for solutions in chloroform with a Perkin Elmer 343 polarimeter using a sodium lamp (589 nm). Thin-layer chromatography was carried out on Merck aluminium sheets coated with silica gel 60 F<sub>254</sub>. Compounds were visualized by use of 254 nm UV light and/or phosphomolybdic acid 20 wt.% solution in ethanol with heating. All solvents were purified by standard techniques [<xref ref-type="bibr" rid="B5-molbank-2010-M680">5</xref>]. Flash chromatography was performed on Merck silica gel 60 (0.040&#x2212;0.063 mm, 230&#x2212;400 mesh ASTM).  Anhydrous magnesium sulfate was used for drying solutions. </p>
+        <p><italic>Synthesis of (&#x2212;)-5-[(4R,5R)-5-(benzyloxymethyl)-2,2-dimethyl-1,3-dioxolan-4-yl]-2,2-dimethyl-4,7-dihydro-1,3-dioxepine</italic> (<bold>2</bold>): To a stirred solution of allylic diol <bold>1</bold> (308 mg, 1.0 mmol) in acetone (25 mL), <italic>p</italic>-toluenesulfonic acid (<italic>p</italic>-TsOH) (3 mg, 0.017 mmol) was added at room temperature. The reaction mixture was refluxed for 24 h, until the TLC analysis showed that no starting material was present. The solvent was concentrated and the residue diluted with Et<sub>2</sub>O (30 mL) and washed with a 5% solution of NaHCO<sub>3</sub>. The combined organic phases were dried (MgSO<sub>4</sub>), filtered, concentrated, and the residue purified by silica gel column chromatography, eluting with AcOEt:<italic>n</italic>-hexane 10:90. Product <bold>2</bold> (303 mg, 87% yield) was obtained as a colourless oil: [&#x3B1;]<sup>25</sup><sub>D</sub> = &#x2212;12.3 (<italic>c</italic> 0.70, CHCl<sub>3</sub>); <sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 1.43 (s, 12H), 3.56 (dd, <italic>J</italic> = 5.2, 10.6 Hz, 1H), 3.63 (dd, <italic>J</italic> = 3.1, 10.6 Hz, 1H), 3.95 (ddd, <italic>J</italic> = 3.1, 5.2, 8.6 Hz, 1H), 4.22&#x2212;4.30 (m, 4H), 4.36&#x2212;4.40 (m, 1H), 4.57 (d, <italic>J</italic> = 12.0 Hz, 1H), 4.63 (d, <italic>J</italic> = 12.0 Hz, 1H), 5.61 (m, 1H), 7.28&#x2212;7.37 (m, 5H); <sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 23.8 (q), 26.9 (q), 60.0 (t), 60.8 (t), 69.4 (t), 73.5 (t), 78.4 (d), 80.1 (d), 102.1 (s), 109.2 (s), 127.6 (d), 127.7 (d), 128.3 (d), 128.5 (d), 137.3 (s), 137.9 (s); FT-IR (thin film) &#x3BD;<sub>max</sub> (cm<sup>-1</sup>) 2987, 2933, 2862, 1373, 1218, 1088, 870, 738; MS (EI+) <italic>m/z</italic> (relative intensity %) 348 (M<sup>+</sup>, 1.3), 333 ([M&#x2013;CH<sub>3</sub>]<sup>+</sup>, 1.2), 290 (4.7), 2.75 (2.4), 260 (4.2), 91 (100); HRMS (EI+) exact mass calculated for C<sub>20</sub>H<sub>28</sub>O<sub>5</sub> (M<sup>+</sup>) <italic>m/z</italic> 348.1931, found <italic>m/z</italic> 348.1937. Elemental analysis calculated for C<sub>20</sub>H<sub>28</sub>O<sub>5</sub>: C, 68.94; H, 8.10; found: C, 68.74; H, 7.68.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M680">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M680-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M680-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2010-M680-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M680-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2010-M680-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M680-s002.doc">
+        <label>Supplementary File 3</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This research was supported by the Spanish MICINN co-financed by the European Regional Development Fund (CTQ2008-06806-C02-01/BQU) and the Canary Islands Government, and projects PROIPRO 2/0006 and 7301 of San Luis University (UNSL), PIP 628 CONICET, and PIT 352-ANPCyT. D.D.D. is an Experienced Research Fellow of the Alexander von Humboldt Foundation. C.G. thanks the Spanish MICINN-FSE for a Ram&#xF3;n y Cajal contract.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M680">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Philip</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kocienski</surname>
+              <given-names>P.J.</given-names>
+            </name>
+          </person-group>
+          <source>Protective Groups</source>
+          <edition>3rd ed.</edition>
+          <publisher-name>Georg Thieme Verlag</publisher-name>
+          <publisher-loc>Stuttgart, Germany</publisher-loc>
+          <year>2005</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M680">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maarse</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Volatile Compounds in Foods and Beverages</source>
+          <publisher-name>Marcel Dekker</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1991</year>
+          <fpage>554</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M680">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stuart</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Garrie</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Wolf-J&#xFC;rgensen</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of fluocinolone acetonide cream on the skin window record of inflammatory exudates</article-title>
+          <source>J. Invest. Dermatol.</source>
+          <year>1971</year>
+          <volume>57</volume>
+          <fpage>343</fpage>
+          <lpage>346</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M680">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carreras</surname>
+              <given-names>C.R.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Mart&#xED;n</surname>
+              <given-names>V.S.</given-names>
+            </name>
+            <name>
+              <surname>Tonn</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>D&#xED;az</surname>
+              <given-names>D.D.</given-names>
+            </name>
+            <name>
+              <surname>Ce&#xF1;al</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>(<italic>E</italic>)-2-((4<italic>R</italic>,5<italic>R</italic>)-5-((Benzyloxy)methyl)-2,2-dimethyl-1,3-dioxolan-4-yl)but-2-ene-1,4-diol</article-title>
+          <source>Molbank</source>
+          <year>2010</year>
+          <volume>2010</volume>
+          <fpage>M676</fpage>
+          <pub-id pub-id-type="doi">10.3390/M676</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M680">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W.L.F.</given-names>
+            </name>
+            <name>
+              <surname>Perrin</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <source>Purification of Laboratory Chemicals</source>
+          <edition>4th ed.</edition>
+          <publisher-name>Butterworth-Heinemann</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2010-M680-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M680-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M680-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

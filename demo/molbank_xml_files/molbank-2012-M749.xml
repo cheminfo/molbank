@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M749</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M749</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl 3-{2-[(3-Methyl-1<italic>H</italic>-indol-2-yl)carbonyl]hydrazinylidene}&#xAD;butanoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Farghaly</surname>
+            <given-names>Thoraya A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gomha</surname>
+            <given-names>Sobhi M.</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M749" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M749">Department of Chemistry, Faculty of Science, University of Cairo, Giza 12613, Egypt</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M749"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>s.m.gomha@hotmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>07</day>
+        <month>02</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>1</issue>
+      <elocation-id>M749</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>01</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>02</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, ethyl 3-{2-[(3-methyl-1H-indol-2-yl)carbonyl]hydrazinylidene}butanoate (<bold>3</bold>), was prepared <italic>via</italic> reaction of 3-methyl-1<italic>H</italic>-indole-2-carbohydrazide (<bold>1</bold>) and ethyl 3-oxo¬butanoate (<bold>2</bold>) under reflux. The structure of the synthesized compound was assigned on the basis of elemental analysis, IR, <sup>1</sup>H-NMR, mass spectral and X-ray data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>3-methyl-1<italic>H</italic>-indole-2-carbohydrazide</kwd>
+        <kwd>X-ray</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Indoles are among the most important nitrogen-containing heterocyclic molecules, found extensively in biological systems which play a vital role in biochemical processes. The indole ring system is found in many natural products, pharmaceutical agents and polymer materials [<xref ref-type="bibr" rid="B1-molbank-2012-M749">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M749">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M749">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M749">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M749">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M749">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M749">7</xref>]. The interesting chemical properties of indole have inspired chemists to design and synthesize a variety of indole derivatives [<xref ref-type="bibr" rid="B8-molbank-2012-M749">8</xref>]. In view of this finding, in the present paper we describe the synthesis of a new indole derivative with expected biological activity.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>3-Methyl-1<italic>H</italic>-indole-2-carbohydrazide (<bold>1</bold>) [<xref ref-type="bibr" rid="B9-molbank-2012-M749">9</xref>] was allowed to react with ethyl 3-oxobutanoate (<bold>2</bold>) in ethanolic solution under reflux. The expected product of this reaction was assumed to be one of the seven structures <bold>3</bold>&#x2013;<bold>9</bold> shown in <xref ref-type="scheme" rid="molbank-2012-M749-sch001">Scheme 1</xref>. IR, <sup>1</sup>H-NMR, mass spectral data and single-crystal X-ray diffraction studies (<xref ref-type="fig" rid="molbank-2012-M749-f001">Figure 1</xref> and <xref ref-type="table" rid="molbank-2012-M749-t001">Table 1</xref>) of the isolated product were in full agreement with the structure <bold>3</bold>, but not with the other structures <bold>4</bold>&#x2013;<bold>9</bold>. </p>
+    </sec>
+    <sec>
+      <title>Crystallographic Analysis</title>
+      <p>The crystals were mounted on a glass fiber. All measurements were performed on an ENRAF NONIUS FR 590. The data were collected at a temperature of 25 &#xB0;C using the &#x3C9; scanning technique to a maximum of a 20 of 22.986&#xB0;. The structure was solved by direct method using SIR 92 and refined by full-matrix least squares. Non-hydrogen atoms were refined anisotropically. Hydrogen atoms were located geometrically and were refined isotropically [<xref ref-type="bibr" rid="B10-molbank-2012-M749">10</xref>].</p>
+    </sec>
+    <sec>
+      <title>Crystal Data for Compound 3</title>
+      <p>C<sub>16</sub>H<sub>19</sub>N<sub>3</sub>O<sub>3</sub>, M = 301.346, monoclinic, a = 19.3108 (8), b = 7.7168 (4), c = 21.0944 (10) A<sup>o</sup>, v = 3131.2 (3), &#x3B1; = &#x3B3; = 90.00&#xB0;, &#x3B2; = 95.065 (3)&#xB0;, space group: P2<sub>1</sub>/c, Z=8, D<sub>x</sub> = 1.279 Mg m<sup>&#x2212;3</sup> reflection 937 measured, &#x3B8;<sub>max</sub> = 27.50&#xB0;. <xref ref-type="fig" rid="molbank-2012-M749-f001">Figure 1</xref> illustrates the structure as determined [<xref ref-type="bibr" rid="B10-molbank-2012-M749">10</xref>].</p>
+    </sec>
+    <sec>
+      <title>Synthesis of Ethyl 3-{2-[(3-Methyl-1<italic>H</italic>-indol-2-yl)carbonyl]hydrazinylidene}butanoate (3)</title>
+      <p>A mixture of the hydrazide <bold>1</bold> (1.89 g, 10 mmol) and ethyl 3-oxobutanoate <bold>2</bold> (10 mmol) in absolute ethanol (20 mL) was heated at reflux temperature for 2 h. The reaction mixture was then cooled and the formed precipitate was filtered off, washed with ethanol to afford the title compound <bold>3</bold>. Yield: 84%; yellow microcrystals (from ethanol); mp: 238&#x2013;240 &#xB0;C. IR (KBr): v 1706, 1668 (2 C=O), 3409, 3234 (2 NH) cm<sup>&#x2212;1</sup>. <sup>1</sup>H NMR (DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; 1.24 (t, <italic>J</italic> = 7.0 Hz, 3H, CH<sub>3</sub>), 2.03 (s, 3H, CH<sub>3</sub>), 2.53 (s, 3H, CH<sub>3</sub>), 3.43 (s, 2H, CH<sub>2</sub>), 4.23 (q, <italic>J</italic> = 7.0 Hz, 2H, CH<sub>2</sub>), 6.87&#x2013;7.98 (m, 4H, ArH ), 10.38 (s, 1H, D<sub>2</sub>O exchangeable, NH), 11.21 (s, 1H, D<sub>2</sub>O exchangeable, NH). MS <italic>m/z</italic> (%): 301 (M<sup>+</sup>, 42), 189 (100), 155 (318), 117 (46), 77 (21).</p>
+      <p>Anal. Calcd for C<sub>16</sub>H<sub>19</sub>N<sub>3</sub>O<sub>3</sub> (301.34): C, 63.77; H, 6.36; N, 13.94. Found C, 63.39; H, 6.46; N, 13.65.</p>
+    </sec>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2012-M749">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M749-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M749-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M749-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M749-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M749">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ismail</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Shmeiss</surname>
+              <given-names>N.A.M.M.</given-names>
+            </name>
+            <name>
+              <surname>El-Diwani</surname>
+              <given-names>H.I.</given-names>
+            </name>
+            <name>
+              <surname>Arbid</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and pharmacological activity of some 2,3-diphenylindole derivative</article-title>
+          <source>Indian J. Chem. Sect. B</source>
+          <year>1997</year>
+          <volume>36B</volume>
+          <fpage>288</fpage>
+          <lpage>292</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M749">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>von Angerer</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Knebel</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kager</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ganss</surname>
+              <given-names>B.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-(Aminoalkyl)-2-phenylindoles as novel pure Estrogen Antagonists</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1900</year>
+          <volume>33</volume>
+          <fpage>2635</fpage>
+          <lpage>2640</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00171a045</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M749">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Biberger</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Von Angerer</surname>
+              <given-names>E.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-benzyl-2-phenylindole- and 1,2-diphenylindole-based antiestrogens. Estimation of agonist and anatagonist activities in transfection assays</article-title>
+          <source>J. Steroid Biochem. Mol. Bio.</source>
+          <year>1998</year>
+          <volume>64</volume>
+          <fpage>277</fpage>
+          <lpage>281</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-0760(97)00197-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M749">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevenson</surname>
+              <given-names>G.I.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Michie</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Neduvelil</surname>
+              <given-names>J.G.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marwood</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Castro</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-Aryl tryptamines: Selective high-affinity antagonists for the h5-HT<sub>2A</sub> receptor</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>2697</fpage>
+          <lpage>2699</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(00)00557-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M749">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Stevenson</surname>
+              <given-names>G.I.</given-names>
+            </name>
+            <name>
+              <surname>Swain</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>Castro</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tracelless solid phase synthesis of 2,3- disubstituted indoles</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <fpage>8317</fpage>
+          <lpage>8320</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(98)01824-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M749">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casapullo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bifulco</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bruno</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Riccio</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>New bisindole alkaloids of the Topsentin and Hamacanthin classes from the mediterranean marine sponge <italic>Rhaphisia lacazei</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2000</year>
+          <volume>63</volume>
+          <fpage>447</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="doi">10.1021/np9903292</pub-id>
+          <pub-id pub-id-type="pmid">10785411</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M749">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaniwa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Arai</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Ishibashi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, determination of stereochemistry, and evaluation of new bisindole alkaloids from the myxomycete <italic>Arcyria ferruginea</italic>: An approach for Wnt signal inhibitor</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>4254</fpage>
+          <lpage>4257</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2007.05.033</pub-id>
+          <pub-id pub-id-type="pmid">17531487</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M749">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gribble</surname>
+              <given-names>G.W.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent developments in indole ring synthesis-methodology and applications</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>2000</year>
+          <fpage>1045</fpage>
+          <lpage>1075</lpage>
+          <pub-id pub-id-type="doi">10.1039/a909834h</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M749">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Acheson</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Prince</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Proctor</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Two novel indole rearrangements</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1979</year>
+          <fpage>595</fpage>
+          <lpage>598</lpage>
+          <pub-id pub-id-type="doi">10.1039/p19790000595</pub-id>
+        </citation>
+      </ref>
+	  <ref id="B10-molbank-2012-M749">
+        <label>10.</label>
+		  <note>
+		  <p>Crystal data for compound <bold>3</bold> ref. CCDC 846358 can be obtained on request from the director, Cambridge Crystallographic Data Center, 12 Union Road, Cambridge CB2 1EW, UK.</p>
+		    </note>
+		</ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure, Scheme and Table</title>
+      <fig id="molbank-2012-M749-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M749-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M749-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2012-M749-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>The X-ray crystal structure of compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M749-g001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2012-M749-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M749-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Selected bond lengths and bond angles in the ORTEP representation of compound <bold>3</bold> in the crystal. The crystallographic numbering does not reflect systematic numbering.</p>
+        </caption>
+        <table>
+		  <tbody>
+            <tr>
+              <td align="left" valign="middle" style="border-top:solid thin;;border-left:solid thin;border-right:solid thin;border-bottom:solid thin"><bold>Bond length, &#xC5;</bold></td>
+              <td align="left" valign="middle" style="border-top:solid thin;border-right:solid thin;border-bottom:solid thin"><bold>Bond length, &#xC5;</bold></td>
+              <td align="left" valign="middle" style="border-top:solid thin;border-right:solid thin;border-bottom:solid thin"><bold>Bond length, &#xC5;</bold></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">C7&#x2014;C15, 1.472</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N6&#x2014;C14, 1.286</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C12&#x2014;C17, 1.517</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">N5&#x2014;C7, 1.359</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C14&#x2014;C21, 1.487</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">O1&#x2014;C17, 1.337</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">N5&#x2014;N6. 1.380</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C12&#x2014;C14, 1.493</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">O1&#x2014;C20, 1.450</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">
+                <bold>Angle (&#x3C9;)</bold>              </td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">
+                <bold>Angle (&#x3C9;)</bold>              </td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">
+                <bold>Angle (&#x3C9;)</bold>              </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">C17&#x2014;O1&#x2014;C20, 115.7</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">O2&#x2014;C7&#x2014;N5, 117.4</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N23&#x2014;C10&#x2014;C8, 108.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-right:solid thin;border-left:solid thin;border-bottom:solid thin">C10&#x2014;N23&#x2014;C15, 108.5</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">O2&#x2014;C7&#x2014;C15, 120.3</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N23&#x2014;C10&#x2014;C13, 129.4</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin;border-left:solid thin">N6&#x2014;N5&#x2014;C7, 121.0</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">N5&#x2014;C7&#x2014;C15, 122.3</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin;border-right:solid thin">C8&#x2014;C10&#x2014;C13, 122.2</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

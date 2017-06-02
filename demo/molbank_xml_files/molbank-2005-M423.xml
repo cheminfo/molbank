@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M423</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M423</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3,8-Bis-trimethylsilanylethynyl-[1,10]-phenanthroline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Habibi</surname>
+            <given-names>Davood</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M423">Department of Chemistry, Faculty of Sciences, Bu Ali Sina University, Hamedan, Iran. Code: 6517838683. <break/>e-mail: <email>dhabibi@basu.ac.ir</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>3</issue>
+      <elocation-id>M423</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>trimethylsilanylethyne</kwd>
+        <kwd>Sonogashira procedure</kwd>
+        <kwd>phenanthroline</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M423-i001.tif"/></p>
+      <p>The experimental procedure follows a protocol developed by Sonogashira [<xref ref-type="bibr" rid="B1-molbank-2005-M423">1</xref>] and recently used for the preparation of macrocyclic phenanthrolines [<xref ref-type="bibr" rid="B2-molbank-2005-M423">2</xref>]. All reactions were carried out under the atmosphere of dry argon by using standard Schlenk tube techniques.</p>
+      <p>At first, a solution of 3,8-dibromo-[1,10]phenanthroline [<xref ref-type="bibr" rid="B3-molbank-2005-M423">3</xref>] (6.085 g, 18.0 mmol) and trimethylsilanylethyne (7.055 g, 72.0 mmol) in benzene (30 mL) and dry triethylamine (15 mL) was prepared. After addition of PdCl<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub> (703 mg, 1.8 mmol) and CuI (686 mg, 3.6 mmol), the resulting mixture was kept at reflux for three days. After removal of the solvent, the black residue was dissolved in dichloromethane (150 mL), and washed with aqueous potassium cyanide (2%, 100 mL) and water (100 mL). The organic layer was dried over MgSO<sub>4</sub> and then purified by column chromatography (SiO<sub>2</sub>, 1. CH<sub>2</sub>Cl<sub>2</sub>, 2. diethylether) to furnish 6.04 g (90%) of the title compound as colorless crystals.</p>
+      <p>Melting Point: ~150 &#xB0;C.</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3056, 2956, 2154, 1589, 1494, 1420, 1248, 1100, 863, 838, 731, 656.</p>
+      <p><sup>1</sup>H-NMR (200 MHz, CDCl<sub>3</sub>): &#x3B4;= 0.1 (18H, 6CH<sub>3</sub>); 7.5 (2H, 5-H &amp; 6-H); 8.2 (2H, 4-H &amp; 7-H); 9.0 (2H, 2-H &amp; 9-H).</p>
+      <p>Elemental Analysis: Calculated for C<sub>22</sub>H<sub>24</sub>N<sub>2</sub>Si<sub>2</sub>: C, 70.91%; H, 6.49%; N, 7.52%. Found: C, 70.7%; H, 6.4%; N, 7.8%.</p>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2005-M423">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M423-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M423-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M423-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M423-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author gratefully acknowledges financial support from the Bu Ali Sina University, Hamedan, Iran.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M423">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sonogashira</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tohda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Hagihara</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1975</year>
+          <fpage>4467</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M423">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmittel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ammon</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Synlett.</source>
+          <year>1999</year>
+          <fpage>750</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M423">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tzalis</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Tor</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Failla</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Siegel</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>3489</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

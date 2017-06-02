@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M615</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M615</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4,6-Diamino-5-[4-(dimethylamino)benzylidene]pyrimidin-2(5<italic>H</italic>)-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lobo</surname>
+            <given-names>Gricela</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M615" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M615" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Charris</surname>
+            <given-names>Jaime</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M615" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Valderrama</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M615" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Taddei</surname>
+            <given-names>Antonieta</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M615" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M615"><label>1</label>Laboratorio de S&#xED;ntesis Org&#xE1;nica, Facultad de Farmacia, Universidad Central de Venezuela, Caracas 1051, Venezuela</aff>
+      <aff id="af2-molbank-2009-M615"><label>2</label>Departamento de Biolog&#xED;a Celular, Universidad Sim&#xF3;n Bol&#xED;var, Caracas 1080, Venezuela</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M615"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>gricela.lobo@ucv.ve</email> or <email>gricelalobo@gmail.com</email>; Fax: (005-021228) 6052707.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>08</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M615</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>08</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>08</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new compound, 4,6-diamino-5-[4-(dimethylamino)benzylidene]pyrimidin-2(5<italic>H</italic>)-one, was synthesized and its IR, <sup>1</sup>H NMR and <sup>13</sup>C NMR and MS spectroscopic data are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>4,6-diamino-5-[4-benzylidene]pyrimidin-2(5<italic>H</italic>)-one</kwd>
+        <kwd>urea</kwd>
+        <kwd>antimicrobial activity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <disp-formula>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M615-i001.tif"/>
+  </disp-formula>
+      <p>A mixture of (4-dimethylaminobenzylidene)malononitrile <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2009-M615">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M615">2</xref>] (0.17 g, 1.00 mmol), urea (0.07 g, 1.00 mmol) and K<sub>2</sub>CO<sub>3</sub> (0.20 g, 1.17 mmol) in methanol was refluxed for 24 h. The precipitated solid was filtered off, washed with water and dried. After recrystallization from water-DMF, 4,6-diamino-5-[4-(dimethylamino)benzylidene]pyrimidin-2(5<italic>H</italic>)-one <bold>2</bold> was obtained as a green crystalline solid (0.21 g, 80%). Synthesis of such pyrimidine derivatives and study of their biological activity are under investigation, especially tests of antimicrobial activity as part of research programmes directed to the synthesis of novel heterocyclic compounds of pharmacological interest.</p>
+      <p>Melting point: 210-212 &#xB0;C</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3270 (NH<sub>2</sub>), 1780 (C=O), 1651 (C=N)</p>
+      <p><sup>1</sup>H NMR (DMSO-<italic>d<sub>6</sub></italic><sub>,</sub> 270 MHz): &#x3B4; = 7.54 (2H, dd, <italic>J</italic> = 8.9, 2.0 Hz, Ar-H); 7.51 (1H, s, olefinic-H); 6.99 (2H, dd, <italic>J</italic> = 8.9, 2.0 Hz, Ar&#xAD;H); 5.61 (4H, sa, NH<sub>2</sub>), 4H, NH<sub>2</sub>); 3.06 (6H, s, (C<underline>H</underline><sub>3</sub>)<sub>2</sub>N).</p>
+      <p><sup>13</sup>C NMR (DMSO-<italic>d<sub>6</sub></italic><sub>,</sub> 270 MHz): &#x3B4; = 167.07; 161.11; 142.08; 130.20; 116.47; 112.68; 112.63; 112.59; 40.79.</p>
+      <p>MS (m/z, %): 257 (M<sup>+</sup>, 5%); 242 (M<sup>+</sup> - CH<sub>3</sub>, 7.5%); 197 (M<sup>+</sup> - CO&#x2013;N<sub>2</sub>H<sub>4</sub>, 100%).</p>
+      <p><bold>Biological Activity</bold>: Compound <bold>2</bold> showed antimicrobial activity against <italic>Escherichia coli</italic> (gram negative).</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M615">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M615-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M615-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M615-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M615-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful to &#x201C;Consejo de Desarrollo Cient&#xED;fico y Human&#xED;stico de la Universidad Central de Venezuela (CDCH-UCV)&#x201D; for financing the project: <bold>PI 06-00-6759-2007</bold>.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M615">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tietze</surname>
+              <given-names>I.F.</given-names>
+            </name>
+            <name>
+              <surname>Beifus</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Trost</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Fleming</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Heathcock</surname>
+              <given-names>C.H.</given-names>
+            </name>
+          </person-group>
+          <source>Comprehensive Organic Synthesis</source>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1991</year>
+		  <volume>Vol. 2</volume>
+		  <comment>Chapter 1.11</comment>
+          <fpage>341</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M615">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Reaction</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1967</year>
+		  <volume>Vol. 15</volume>
+		  <fpage>204</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

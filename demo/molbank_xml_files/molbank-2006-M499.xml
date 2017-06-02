@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M499</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M499</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(4Z)-1-Benzyl (1,3-Dibenzyl)-4-(2-oxopropylidene)-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Said</surname>
+            <given-names>Ould Mohamed Sidya Mohamed</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M499" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rachid</surname>
+            <given-names>Bouhfid</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M499" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Joly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M499" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lequart</surname>
+            <given-names>Vincent</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M499" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martin</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M499" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Massoui</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M499" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>El Mokhtar</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M499" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2006-M499" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M499"><label>1</label>Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique , Facult&#xE9; des Sciences, Avenue Ibn-Batouta, Rabat, Maroc.</aff>
+      <aff id="af2-molbank-2006-M499"><label>2</label>Blood-Brain Barrier Laboratory (EA 2465), IUT of B&#xE9;thune, University of Artois, BP 819, F-62408 B&#xE9;thune E-mail: <email>emessassi@yahoo.fr</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2006-M499"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M499</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>alkylation</kwd>
+        <kwd>benzodiazepinones</kwd>
+        <kwd>benzylchlorid</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>We describe in this work the synthesis of new benzodiazepine derivatives susceptible to possess various pharmacological activities.
+	  <disp-formula id="molbank-2006-M499-i001">
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-i001.tif"/>
+        </disp-formula></p>
+      <p>To a solution of 4Z-2-oxopropylidene)-1,3,4,5-tetrahdro-2H-1,5-benzodiazepin&#x2013;2-one <bold>1</bold>[<xref ref-type="bibr" rid="B1-molbank-2006-M499">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2006-M499">2</xref>] in tetrahydrofuran (60mL), was added K<sub>2</sub>CO<sub>3</sub> (0,02 mole, 2,76 gm), benzylchlorid (0,02 mole, 2,52 gm) and n-tetrabutylammonium bromid (0.001 mole, 0,321 gm). The mixture was stirred at room temperature for 48 hours. The soultion was filtered by suction filtration. The solvent was removed under reduced pressure. The residu was chromatographed on silica gel column using hexane and ethyl acetate (80/20) as eluent to afford the products 2a and 2b as white solids.</p>
+    <sec>
+      <title>(4Z)-1-benzyl-4-oxopropylidene)-1,3,4,5-tetrahdro-2H-1,5-benzodiazepin&#x2013;2-one, 2a</title>
+      <p>This compound was obtained in 55% yield;</p>
+      <p>Melting Point: 165-167 &#xB0;C</p>
+      <p>MS(IE):M<sup>.+</sup> m/z=306</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 2.1 (s,3H,CH<sub>3</sub>), 3.13(H<sub>A</sub>H<sub>B</sub>,, <sup>2</sup>J=15.47 Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-i002.tif"/>), 5.0 (s,2H, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-i003.tif"/>), 5.3 (s,1H, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-i004.tif"/>),7.1 -7.3(m, 4H, HArm), 12.2(s,1H,NH).</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 29,.5, 41.4, 52.2 , 96.5, 123.2, 123.4, 125.5, 126.6, 126.7, 127.3, 128.7, 132.9, 134.7, 155.6, 167.2, 198.2.</p>
+      <p>Elemental analysis : Calculated for C<sub>19</sub>H<sub>18</sub>N<sub>2</sub>O<sub>2</sub>: C, 74.49 %; H, 5.92 %; N, 9.14 %; Found: C, 74.52 %; H, 5.85 %; N, 9.22 %;</p>
+    </sec>
+    <sec>
+      <title>(4Z)-1,3-dibenzyl-4-oxopropylidene)-1,3,4,5-tetrahdro-2H-1,5-benzodiazepin&#x2013;2-one, 2b</title>
+      <p>This compound was obtained in 20% yield;</p>
+      <p>Melting Point: 145-147 &#xB0;C</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 2.2 (s,3H,CH<sub>3</sub>), 2.9(m,3H ,CH-CH<sub>2</sub> ),  4.8(H<sub>A</sub>H<sub>B</sub>,, <sup>2</sup>J=15.9Hz, <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-i005.tif"/>), 5,4(s,1H, =CH), 7.1-7.3(m, 4H, HArom), 12.6(s, 1H, NH)</p>
+      <p><sup>13</sup>C-NMR (62.9 MHz, CDCl<sub>3</sub>): &#x3B4;= 29.9, 31.8, 47.4, 52.7, 93 122.8, 123.2, 125.6, 126.2, 126.5, 126.6, 127.1, 128.4, 128.6, 129.3, 132.0, 135.0, 136.8, 138.7, 158.5, 167.3, 198.0. </p>
+      <p>Elemental analysis: Calculated for C<sub>26</sub>H<sub>24</sub>N<sub>2</sub>O<sub>2</sub>: C, 78.76 %; H, 6.10 %; N, 7.07 %; Found: C, 78.80 %; H, 6.04 %; N, 7.10 %;</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2006-M499">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M499-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M499-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M499-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M499-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M499-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M499">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Abbassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett</source>
+          <year>1987</year>
+          <volume>28</volume>
+          <fpage>1389</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M499">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Djerrari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>El Abbassi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Essassi</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Fifani</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett</source>
+          <year>1989</year>
+          <volume>30</volume>
+          <fpage>7069</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

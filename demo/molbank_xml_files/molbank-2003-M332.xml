@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M332</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M332</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1,2-Bis(p-phenylcarbamoyl-oxy-amino-cyclohexylidene)ethane</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scortanu</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <xref rid="c1-molbank-2003-M332" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caraculacu</surname>
+            <given-names>Adrian A.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M332">Romanian Academy, Institute of Macromolecular Chemistry "Petru Poni", Aleea Grigore Ghica Voda, Nr. 41 A, Iasi 6600, Romania</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M332">Phone: 0232-260332, Fax: 0232-211299, E-mail: <email>nutiscor@icmpp.tuiasi.ro</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>3</issue>
+      <elocation-id>M332</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>02</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>06</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M332-i001.tif"/></p>
+      <p>The experimental procedure follows the general synthesis of blocked isocyanates [<xref ref-type="bibr" rid="B1-molbank-2003-M332">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2003-M332">2</xref>]. Thus, a mixture of 1,2-bis(p-isocyanato-phenyl)ethane (4,4'-dibenzyl diisocyanate) [<xref ref-type="bibr" rid="B3-molbank-2003-M332">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2003-M332">4</xref>] (66 g, 0.25 mol) and cyclohexanone oxime (65 g, 0.57 mol) was dissolved in 450 mL 1,2-dichloroethane and refluxed while stirring for 2-4 h. The product of reaction precipitated with the reaction progressed. The progress of the reaction was followed by IR spectroscopy. After cooling, the solid was isolated by filtration, washed several times with acetone and dried at 100&#xB0;C. The product has a white crystalline aspect (117 g, 95.51% yield).</p>
+      <p>M.p.: Between 241-250&#xB0;C a mesophase was observed followed by a decomposition process (thermo-optical method). </p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3350 ms (NH), 2920 ms, 2850 m (CH<sub>2</sub>), 1730 s (CONH), 1700-1680 m (sh, C=N oxime), 1580 m (NHCO, <italic>p</italic>-Ar), 1500-1490 s (<italic>p</italic>-Ar), 1410 s (Ar, CH<sub>2</sub>-N), 1320-1310 mw (CH<sub>2</sub>), 1170 s (CH<sub>2</sub>), 1130 m (C-O, C-N), 1000 s (C-O), 910 ms (C-C, skeletal), 880 m, 860 m (C-N), 830 s (<italic>p</italic>-Ar), 740 m, 700 m (C-N).</p>
+      <p><sup>1</sup>H NMR (60 MHz &#x3B4;, DMSO-d<sub>6</sub>, 70&#xB0;C): 8.97 (s, NH, 2H), 7.32, 7.22, 7.08, 6.9 (m, Ar, 8H), 2.86, 2.72 (d, CH<sub>2</sub>-Ar, 4H), 2.35, 1.7, 1.25 (m, CH<sub>2</sub>, 20H).</p>
+      <p>Elemental analysis: Calculated for: C<sub>28</sub>H<sub>34</sub>N<sub>4</sub>O<sub>4</sub>: C%= 68.55; H%= 6.99; N%= 11.42. Found: C%= 68.04; H%= 7.05; N%= 11.53.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2003-M332">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M332-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M332-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2003-M332-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M332-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M332">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Savostianoff</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>Inf. Chem.</source>
+          <year>1981</year>
+          <volume>119-126, 216-217</volume>
+          <fpage>1312</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M332">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kovalenko</surname>
+              <given-names>L. G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <source>Plast. Massy</source>
+          <year>1986</year>
+          <volume>11</volume>
+          <fpage>34</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2003-M332">
+        <label>3.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caraculacu</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <source>Rom. Pat.</source>
+		  <patent>81,947</patent>
+          <year>1983</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2003-M332">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caraculacu</surname>
+              <given-names>A. A.</given-names>
+            </name>
+            <name>
+              <surname>Caraculacu</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Macromol. Sci. Chem.</source>
+          <year>1985</year>
+          <comment><bold>A<sub>22</sub></bold></comment>
+          <fpage>631</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

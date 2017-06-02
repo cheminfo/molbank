@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M535</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2007-M535</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-benzyl-3-(2-(pyridin-2-yl)hydrazono)indolin-2-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rachid</surname>
+            <given-names>Bouhfid</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M535" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Joly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <xref rid="af2-molbank-2007-M535" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lequart</surname>
+            <given-names>Vincent</given-names>
+          </name>
+          <xref rid="af2-molbank-2007-M535" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martin</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref rid="af2-molbank-2007-M535" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Massoui</surname>
+            <given-names>Mohamed</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M535" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>El Mokhtar</given-names>
+          </name>
+          <xref rid="af1-molbank-2007-M535" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2007-M535" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2007-M535"><label>1</label>Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique, P&#xF4;le de comp&#xE9;tences Pharmacochimie Universit&#xE9; Mohammed V-Agdal, BP: 1014 Avenue Ibn Batouta, Rabat, Morroco</aff>
+      <aff id="af2-molbank-2007-M535"><label>2</label>Blood-Brain Barrier Laboratory (EA 2465), IUT of B&#xE9;thune, University of Artois, BP 819, F-62408 B&#xE9;thune</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2007-M535"><label>*</label> Author to whom correspondence should be addressed. E-mail: <email>emessassi@yahoo.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>2007</volume>
+      <issue>2</issue>
+      <elocation-id>M535</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>11</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>04</day>
+          <month>12</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2007 by MDPI (http://www.mdpi.org/).</copyright-statement>
+        <copyright-year>2007</copyright-year>
+        <license>
+          <p>Reproduction is permitted for noncommercial purposes.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>isatin</kwd>
+        <kwd>hydrazinopyridine</kwd>
+        <kwd>indoline</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Indole derivatives fall into an important class of organic compounds. These compounds are found in various natural products as fundamental nuclei and are well recognized for their wide spectrum of pharmacological and biochemical behavior. They have received the attention of biochemists because of their therapeutic and biochemical activities [<xref ref-type="bibr" rid="B1-molbank-2007-M535">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2007-M535">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2007-M535">3</xref>].</p>
+	  <p>We report in this work the synthesis of new indoline derivatives.
+	   <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M535-i001.tif"/>
+       </disp-formula></p>
+      <p>To a solution of <bold><underline>1</underline></bold> (1 g, 4.2 mmol) in 10 mL of ethanol, was added 2-hydrazinopyridine hydrochloride <bold><underline>2</underline></bold> (0.62 g, 4.2 mmol). The mixture was refluxed for 10 h. The precipitate was filtered and washed with ethanol to give compound <bold><underline>3</underline></bold>, which was recrystallized from methanol.</p>
+      <p>Yield:  (83%). </p>
+      <p>Melting Point: 155 &#xB0;C.</p>
+      <p>MS (EI): M<sup>+</sup> (m/z) = 328.</p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>): 5.05 (s, 2H, NCH<sub>2</sub>); 6.55-8.30 (m, 3H, H<sub>Ar</sub>); 12.91 (s, 1H, NH).</p>
+      <p><sup>13</sup>C NMR (300 MHz, CDCl<sub>3</sub>): 43.3 (NCH<sub>2</sub>); 108.1, 109.5, 118.3, 119.4, 122.7, 127.3, 127.7, 128.8, 138.1, 148.2 (CH<sub>Ar</sub>); 121.0, 128.7, 135.6, 141.0 (Cq); 155.3 (C=N<sub>imine</sub>); 161.7 (C=O<sub>amide</sub>).</p>
+      <p>Elemental analysis: Calculated for C<sub>20</sub>H<sub>16</sub>N<sub>4</sub>O: C, 73.15%; H, 4.91%; N, 17.06%; Found: C, 73.01%; H, 5.05%; N, 16.89%.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2007-M535">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2007-M535-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M535-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2007-M535-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2007-M535-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+	<ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2007-M535">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verma</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pandeya</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>K.N.</given-names>
+            </name>
+            <name>
+              <surname>Stables</surname>
+              <given-names>J.P.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Pharm.</source>
+          <year>2004</year>
+          <volume>54</volume>
+          <fpage>49</fpage>
+          <pub-id pub-id-type="pmid">15050044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2007-M535">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guengerich</surname>
+              <given-names>F.P.</given-names>
+            </name>
+            <name>
+              <surname>Sorrells</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Schmitt</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Krauser</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Aryal</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>47</volume>
+          <fpage>3236</fpage>
+          <pub-id pub-id-type="pmid">15163202</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2007-M535">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pirrung</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Pansare</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Sarma</surname>
+              <given-names>K.D.</given-names>
+            </name>
+            <name>
+              <surname>Keith</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Kern</surname>
+              <given-names>E.R.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>48</volume>
+          <fpage>3045</fpage>
+          <pub-id pub-id-type="pmid">15828843</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

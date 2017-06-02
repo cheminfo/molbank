@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M799</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M799</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3,3'-(1,4-Phenylenebis(phenylazanediyl))bis(7-ethoxy-4-methyl-2<italic>H</italic>-chromen-2-one)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Narayanan</surname>
+            <given-names>Divia</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haridas</surname>
+            <given-names>Karickal Raman</given-names>
+          </name>
+          <xref rid="c1-molbank-2013-M799" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M799">School of Chemical Science, Kannur University, Payyanur campus, (p.o) Edat, Kannur, Kerala, 670327, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M799"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>krharidas2001@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>05</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>2</issue>
+      <elocation-id>M799</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>02</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>04</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>3,3'-(1,4-Phenylenebis(phenylazanediyl))bis(7-ethoxy-4-methyl-2<italic>H</italic>-chromen-2-one) was synthesized from <italic>N,N'</italic>-diphenylbenzene-1,4-diamine and bromo-7-ethoxy-4-methylcoumarin based on Ullmann coupling reaction. The synthesized compound was characterized by UV-Visible, NMR, FT-IR, MS, elemental analysis and Fluorescence Spectrum.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>coumarin</kwd>
+        <kwd>phenylenediamine</kwd>
+        <kwd>Ullmann coupling reaction</kwd>
+        <kwd>hole transporting material</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The title compound 3,3'-(1,4-phenylenebis(phenylazanediyl))bis(7-ethoxy-4-methyl-2<italic>H</italic>-chromen-2-one) is used as an efficient hole and electron transporting materials in optoelectronic devices. Coumarin and its derivatives occur widely in nature, and have been extensively exploited in biological, chemical and physical fields [<xref ref-type="bibr" rid="B1-molbank-2013-M799">1</xref>]. Coumarins have outstanding optical properties, including an extended spectral range, high quantum yields, superior photostability and good solubility in common solvents. Many natural and synthetic coumarin derivatives are widely used as electroluminescent (EL) materials [<xref ref-type="bibr" rid="B2-molbank-2013-M799">2</xref>]. Coumarin derivatives have attracted much interest owing to their potential applications in organic light-emitting diodes (OLEDs) [<xref ref-type="bibr" rid="B3-molbank-2013-M799">3</xref>]. The arylamine moiety fulfills the requirement of easy and reversible oxidation and therefore constitutes the building block of many of the hole-transporting materials [<xref ref-type="bibr" rid="B4-molbank-2013-M799">4</xref>].</p>
+      <p><italic>N,N'</italic>-diphenylbenzene-1,4-diamine was synthesized from p-phenylenediamine and bromobenzene by known procedure [<xref ref-type="bibr" rid="B5-molbank-2013-M799">5</xref>]. A yellow solid with melting point 135 &#xB0;C was obtained. 3-bromo-7-ethoxy-4-methyl coumarin was synthesized from 3-bromo-7-hydroxy-4-methylcoumarin and ethyl bromide [<xref ref-type="bibr" rid="B6-molbank-2013-M799">6</xref>]. A brown solid was obtained which has a melting point of 72 &#xB0;C. <italic>N,N'</italic>-diphenylbenzene-1,4-diamine (0.05 mol), 3-bromo-7-ethoxy-4-methylcoumarin (0.1 mol), CuCl (0.02 g, 0.0002 mol), 1 g of 1,10 phenanthroline, 5.1 g of potassium carbonate (dried at 110 &#xB0;C) were refluxed together with 25 mL dichlorobenzene for 18 h at 170 &#xB0;C in oil bath under nitrogen atmosphere. Completion of the reaction was checked by TLC. After removal of the solvent in vacuo, ammonia solution (50 mL) was added and the mixture was left to stand for 2.0 h. Ethyl acetate (150 mL) and water (100 mL) were added. The organic phase was separated, washed with water (100 mL &#xD7; 2) and brine solution (100 mL), dried over anhydrous sodium sulphate, filtered and the solvent was removed in vacuum. The product was purified with column chromatography using ethyl acetate&#x2013;hexane as eluent to obtain brown solid which was recrystallized from hexane [<xref ref-type="bibr" rid="B7-molbank-2013-M799">7</xref>].</p>
+      <p>Yield: 40.15%.</p>
+      <p>M.p.: 109 &#xB0;C.</p>
+      <p>IR (KBr) cm<sup>&#x2212;1</sup>: 3074, 2995, 2891, 2880, 1720, 1578, 1433, 1390, 1265, 1217, 1145, 821.</p>
+      <p><sup>1</sup>H-NMR (500 MHz, CDCl3) &#x3B4; ppm: 1.33 (6H, methyl protons, t, <italic>J</italic> = 7 Hz), 1.71 (6H, methyl protons, s), 3.98 (4H, methylene protons, q, <italic>J</italic> = 7.2 Hz), 6.21&#x2013;7.52 (18H, Ar, m), 6.71 (2H, Ar, s).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>): 14.3, 16.1, 65.1, 107.0, 110.9, 117.9, 118.0, 118.8, 119.4, 125.0, 125.9, 127.2, 129.4, 132.7, 143.2, 151.4, 158.4, 162.0. </p>
+      <p>UV-Vis. (ethanol, nm): 400, 359, 324, 259. &#x3BB;emission: 485 nm. (&#x3BB;excitation = 405 nm).</p>
+      <p>MS: <italic>m/z</italic> (ESI-MS), 665.2 [(M+1)<sup>+</sup>].</p>
+      <p>Elemental analysis calculated for C<sub>42</sub>H<sub>36</sub>N<sub>2</sub>O<sub>6</sub> (664.26): C, 75.89%; H, 5.46%; N, 4.21%; O, 14.44%. Found: C, 75.25%; H, 5.67%; N, 4.32%; O, 14.76%.</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2013-M799">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2013-M799-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M799-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2013-M799-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M799-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are thankful to NIIST, Thiruvanathapuram for recording NMR spectra.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M799">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.T.</given-names>
+            </name>
+            <name>
+              <surname>Chiang</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>Z.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and photoluminescent properties of 7-<italic>N</italic>,<italic>N</italic>-diphenylamino-3-benzoheterocyclic coumarin derivatives</article-title>
+          <source>Org. Lett.</source>
+          <year>2003</year>
+          <volume>5</volume>
+          <fpage>1261</fpage>
+          <lpage>1268</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol034268h</pub-id>
+          <pub-id pub-id-type="pmid">12688734</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M799">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>VanSlyke</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electroluminescence of doped organic thin films</article-title>
+          <source>J. Appl. Phys.</source>
+          <year>1989</year>
+          <volume>65</volume>
+          <fpage>3610</fpage>
+          <lpage>3616</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.343409</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M799">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Yen</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>W.P.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>Liao</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient Green Coumarin Dopants for Organic Light-Emitting Devices</article-title>
+          <source>Org. Lett.</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>1241</fpage>
+          <lpage>1246</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol049903d</pub-id>
+          <pub-id pub-id-type="pmid">15070307</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M799">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thelakkat</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmitz</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hohle</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Strohriegl</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>H.-W.</given-names>
+            </name>
+            <name>
+              <surname>Hofmann</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Schloter</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Haarer</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel functional materials based on triarylamines-synthesis and application in electroluminescent devices and photorefractive systems</article-title>
+          <source>Phys. Chem. Chem. Phys.</source>
+          <year>1999</year>
+          <volume>1</volume>
+          <fpage>1693</fpage>
+          <lpage>1698</lpage>
+          <pub-id pub-id-type="doi">10.1039/a808618d</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M799">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Getautis</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Paliulis</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Gaidelis</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Jankauskas</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Sidaravi&#x10D;ius</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hole-drift mobility in phenylenediamine derivatives possessing methyl substituents</article-title>
+          <source>J. Photochem. Photobiol. A Chem.</source>
+          <year>2002</year>
+          <volume>151</volume>
+          <fpage>39</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1010-6030(02)00013-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M799">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nofal</surname>
+              <given-names>Z.M.</given-names>
+            </name>
+            <name>
+              <surname>El-Zahar</surname>
+              <given-names>M.I.</given-names>
+            </name>
+            <name>
+              <surname>Abd El-Karim</surname>
+              <given-names>S.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel coumarin derivatives with expected biological activity</article-title>
+          <source>Molecules</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <fpage>99</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="doi">10.3390/50200099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M799">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Liebeskind</surname>
+              <given-names>L.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ambient temperature, Ullmann-like reductive coupling of aryl, heteroaryl, and alkenyl halides</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>2312</fpage>
+          <lpage>2313</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo9700078</pub-id>
+          <pub-id pub-id-type="pmid">11671553</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2013-M799-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M799-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 3,3'-(1,4-phenylenebis(phenylazanediyl))bis(7-ethoxy-4-methyl-2<italic>H</italic>-chromen-2-one).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M799-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

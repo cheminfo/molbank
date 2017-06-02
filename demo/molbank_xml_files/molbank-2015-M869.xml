@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M869</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M869</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>7-Iodo-1<italic>H</italic>-indole-3-carbonitrile</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meine</surname>
+            <given-names>Rosanna</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M869" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2015-M869" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Falke</surname>
+            <given-names>Hannes</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M869" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xF6;tz</surname>
+            <given-names>Jana</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M869" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schweda</surname>
+            <given-names>Sandra I.</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M869" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kunick</surname>
+            <given-names>Conrad</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M869" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2015-M869" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2015-M869" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M869"><label>1</label>Institut f&#xFC;r Medizinische und Pharmazeutische Chemie, Technische Universit&#xE4;t Braunschweig, Beethovenstra&#xDF;e 55, 38106 Braunschweig, Germany</aff>
+      <aff id="af2-molbank-2015-M869"><label>2</label>Center of Pharmaceutical Engeneering (PVZ), Technische Universit&#xE4;t Braunschweig, Franz-Liszt-Stra&#xDF;e 35A, 38106 Braunschweig, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M869"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>c.kunick@tu-bs.de</email>; Tel.: +49-531-391-2754; Fax: +49-531-391-2799.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>10</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M869</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>10</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound was prepared by a Friedel&#x2013;Crafts acylation-oxime synthesis-decarboxylation/dehydration sequence starting from commercially available 7-iodoindole with 2-(7-iodo-1<italic>H</italic>-indol-3-yl)-2-oxoacetic acid as isolated intermediate. The structural identity of the title compound was proven by elemental analysis and spectroscopic methods (IR, NMR, EI-MS), and purity was assessed by two independent HPLC methods.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>decarboxylation</kwd>
+        <kwd>dehydration</kwd>
+        <kwd>indole</kwd>
+        <kwd>nitrile</kwd>
+        <kwd>oxime</kwd>
+        <kwd>protein kinase inhibitor</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M869" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Protein kinases transfer phosphate groups to the hydroxyl functions of serine, threonine or tyrosine residues of their substrates. Because hyperactivity of protein kinases is involved in many human tumor diseases, more than two dozen small molecular protein kinase inhibitors have been approved by the FDA in recent years as anticancer drugs [<xref ref-type="bibr" rid="B1-molbank-2015-M869">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M869">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M869">3</xref>]. However, manifold other diseases are also related to protein kinase activity, and therefore current drug development studies in this area are directed towards non-oncologic indications [<xref ref-type="bibr" rid="B4-molbank-2015-M869">4</xref>], e.g. inflammatory diseases [<xref ref-type="bibr" rid="B5-molbank-2015-M869">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M869">6</xref>] and neurodegenerative disorders [<xref ref-type="bibr" rid="B7-molbank-2015-M869">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2015-M869">8</xref>]. In our recent research we have focused on the synthesis and discovery of protein kinase inhibitors containing indole partial structures, either as part of annulated ring systems [<xref ref-type="bibr" rid="B9-molbank-2015-M869">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M869">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2015-M869">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M869">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M869">13</xref>] or as non-fused structures [<xref ref-type="bibr" rid="B14-molbank-2015-M869">14</xref>]. With regard to the molecular pharmacology of these inhibitors, the indole core is frequently an important part of the pharmacophore, displaying interactions with amino acids of the ATP binding pocket of the targeted protein kinase. Recently, it was postulated that protein kinase inhibitors may interact with their targets by halogen bonds [<xref ref-type="bibr" rid="B15-molbank-2015-M869">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2015-M869">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2015-M869">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2015-M869">18</xref>] in addition to other interaction types. Along these lines, we were interested in the title compound <bold>3</bold> as a small core fragment for the development of new protein kinase inhibitors. A literature survey revealed that this compound has not yet been reported. We therefore developed a synthesis procedure starting from commercially available 7-iodoindole (<bold>1</bold>). </p>
+    </sec>
+    <sec id="sec2-molbank-2015-M869" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Recently, an elegant method for the Lewis acid catalyzed direct cyanation of indoles in 3-position was published [<xref ref-type="bibr" rid="B19-molbank-2015-M869">19</xref>]. However, for the preparation of <bold>3</bold> we employed an alternative two-step synthesis sequence which is easy to carry out and also generates a high degree of regioselectivity (<xref ref-type="scheme" rid="molbank-2015-M869-sch001">Scheme 1</xref>). For the first step, commercially available 7-iodoindole (<bold>1</bold>) was reacted with oxalyl dichloride in diethyl ether, furnishing 2-(7-iodo-1<italic>H</italic>-indol-3-yl)-2-oxoacetic acid (<bold>2</bold>) by means of a Friedel&#x2013;Crafts acylation. Due to the high reactivity of both the aromatic component and the electrophile, addition of a Lewis acid to the reaction mixture was not necessary. To avoid the formation of 1,2-bis(7-iodo-1<italic>H</italic>-indol-3-yl)ethane-1,2-dione as side product, a high excess of oxalyl dichloride was employed in the reaction. The second synthesis step was accomplished by reaction of <bold>2</bold> with hydroxylamine in refluxing ethanol. The initially resulting 2-hydroxyimino derivative was not isolated because the conditions used directly led to the desired nitrile <bold>3</bold> by successive decarboxylation and dehydration. Although a similar decarboxylation/dehydration process of 2-hydroxyimino carboxylic acids was reported more than a century ago [<xref ref-type="bibr" rid="B20-molbank-2015-M869">20</xref>], it has only rarely been used for the directed preparation of aromatic nitriles. After chromatographic work-up, an analytically pure sample of <bold>3</bold> was prepared by crystallization from ethanol/hexane. Two independent HPLC methods (isocratic and gradient) indicated a degree of purity of the crystalline material sufficient for biological studies (&gt;95%). The IR spectrum displayed the expected absorption maxima for the N&#x2013;H (3233 cm<sup>&#x2212;1</sup>) and C&#x2261;N (2229 cm<sup>&#x2212;1</sup>) stretching vibrations. </p>
+    </sec>
+    <sec id="sec3-molbank-2015-M869" sec-type="methods">
+      <title>3. Experimental</title>
+      <sec id="sec3dot1-molbank-2015-M869">
+        <title>3.1. General</title>
+        <p>7-Iodo-1<italic>H</italic>-indole (<bold>1</bold>) was purchased from Sigma Aldrich (Steinheim, Germany). The solvent diethyl ether was purified and dried by heating at reflux over calcium hydride for 4 h and following distillation. The melting points were detected in open-glass capillaries on an electric variable heater (Electrothermal IA 9100, Bibby Scientific, Stone, UK). The infrared spectra were recorded on a Thermo Nicolet FT-IR 200 spectrometer (Thermo Nicolet, Madison, WI, USA) using KBr pellets. The <sup>13</sup>C-NMR and the <sup>1</sup>H-NMR spectra were recorded on a Bruker Avance AV III-400 spectrometer (Bruker Corporation, Billerica, MA, USA) (at the NMR Laboratories of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig) in DMSO-<italic>d</italic><sub>6</sub>. Chemical shifts are presented in relation to TMS (&#x3B4; = 0 ppm). C nuclei were assigned based on results of <sup>13</sup>C-DEPT135 experiments. HPLC was performed on a Merck Hitachi LaChrom Elite system (Hitachi High Technologies Inc., San Jose, CA, USA) (DAD detector: L-2450 (isocratic), UV detector: L-2400 (gradient); pump: L-2130; autosampler: L-2200; column: Merck LiChroCART 125-4, LiChrospher 100 RP-18 (5 &#x3BC;m) (Merck, Darmstadt, Germany); isocratic eluent: acetonitrile/phosphate buffer pH 6 20:80 (compound <bold>2</bold>); acetonitrile/water mixture 50:50 (compound <bold>3</bold>); gradient elution: concentration acetonitrile 0&#x2013;2 min: 10%; 2&#x2013;12 min: 10% &#x2192; 90% (linear) 12&#x2013;20 min: 90%; elution rate: 1.000 mL/min; detection wavelength: 254 nm and 280 nm (isocratic), 254 nm (gradient); overall run time: 15 min (isocratic), 20 min (gradient); t<sub>s</sub> = dead time; t<sub>ms</sub> = total retention time). Preparation of the phosphate buffer pH 6: 3.5 g K<sub>2</sub>HPO<sub>4</sub> were dissolved in water (1 L) and the pH value was adjusted to 6 with phosphoric acid. For mass spectrometry a MAT95XL spectrometer was used (Thermofinnigan MAT, Bremen, Germany, Department of Mass Spectrometry of the Chemical Institutes of the Technische Universit&#xE4;t Braunschweig). The elemental analysis was performed on a CE Instruments Flash EA<sup>&#xAE;</sup> 1112 Elemental Analyzer (Thermo Quest, San Jose, CA, USA). TLC: Polygram SIL G/UV254, 0.2 mm thickness (Macherey-Nagel, D&#xFC;ren, Germany).</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M869">
+        <title>3.2. 7-Iodo-1H-indole-3-carbonitrile <italic>(<bold>3</bold>)</italic></title>
+        <p>To a 100 mL round-bottomed flask containing 7-iodoindole (<bold>1</bold>) (125 mg, 0.514 mmol) in anhydrous diethyl ether (20 mL) was added oxalyl dichloride (1.0 mL, 12 mmol) under exclusion of moisture. The resulting solution was stirred at room temperature for 6 h. After addition of aqueous saturated sodium hydrogen carbonate solution (10 mL) in several small portions stirring was continued at room temperature for 30 min.</p>
+        <p>After extraction of the organic layer with aqueous saturated sodium hydrogen carbonate solution (2 &#xD7; 10 mL) the water layer was acidified with concentrated hydrochloric acid (5 mL). After collecting the solid material, it was crystallized successively from <italic>n</italic>-hexane/ethyl acetate (1:1) and petroleum ether/ethanol (20:1) to furnish 81 mg (50%) yellow crystals of 2-(7-iodo-1<italic>H</italic>-indol-3-yl)-2-oxoacetic acid (<bold>2</bold>) [<xref ref-type="bibr" rid="B21-molbank-2015-M869">21</xref>].</p>
+        <p>To a 100 mL round-bottomed flask containing hydroxylammonium chloride (79 mg, 1.1 mmol) and sodium acetate (94 mg, 1.1 mmol) in a mixture of ethanol (15 mL) and water (3 mL) was added 2-(7-iodo-1<italic>H</italic>-indol-3-yl)-2-oxoacetic acid (<bold>2</bold>) (181 mg, 0.575 mmol). The mixture was heated at reflux for 7 h. After evaporation of the solvent the crude product was purified by column chromatography (toluene/ethyl acetate 9:1; silica gel) (90 mg, 59%) and crystallized from <italic>n</italic>-hexane/ethanol (10:1) to furnish 58 mg (38%) reddish crystals.</p>
+        <p>M.p.: 161&#x2013;163 &#xB0;C (dec.);</p>
+        <p>MS (EI. rel. intensity) <italic>m</italic>/<italic>z</italic> (%): 268 ([M]<sup>+</sup><sup>&#x2022;</sup>, 100), 141 ([M &#x2212; I]<sup>+</sup>, 34); </p>
+        <p>IR (KBr) (cm<sup>&#x2212;1</sup>): 3233 (NH), 2229 (C&#x2261;N), 1556, 1518, 1488, 1422, 1241, 1203, 1058, 775, 610;</p>
+        <p><sup>1</sup>H-NMR (400.4 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) = 7.05 (t, 1H, <italic>J</italic> = 7.7 Hz, C(5)H), 7.66 (dd, 1H, <italic>J</italic> = 8.0/1.0 Hz, C(4)H, C(6)H), 7.70 (dd, 1H, <italic>J</italic> = 7.5/0.9 Hz, C(4)H, C(6)H), 8.30 (s, 1H, C(2)H), 12.21 (s, 1H, NH-indole);</p>
+        <p><sup>13</sup>C-NMR (100.7 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) = 118.5, 123.5, 132.5, 135.3 (CH), 78.2 (C(7)), 85.9 (C&#x2261;N), 115.9, 127.1, 137.2 (C);</p>
+        <p>HPLC (AUC%): 99.35% at 254 nm, 99.96% at 280 nm, t<sub>ms</sub> = 4.07 min, t<sub>s</sub> (DMSO) = 1.09 min, (isocratic); 100.00% at 254 nm, t<sub>ms</sub> = 11.08 min, t<sub>s</sub> (DMSO) = 1.26 min (gradient);</p>
+        <p>TLC (toluene/ethyl acetate 9:1): R<sub>f</sub> = 0.36;</p>
+        <p>Anal. calculated for C<sub>9</sub>H<sub>5</sub>IN<sub>2</sub> (267.95): C, 40.33; H, 1.88; N, 10.45. Found: C, 40.45; H, 1.65; N, 10.11.</p>
+        <p><sup>1</sup>H- and <sup>13</sup>C-NMR spectra are reported in the <xref ref-type="app" rid="app1-molbank-2015-M869">supplementary materials</xref> as <xref ref-type="app" rid="app1-molbank-2015-M869">Figures S1 and S2</xref> together with EI-MS spectrum as <xref ref-type="app" rid="app1-molbank-2015-M869">Figure S3</xref>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M869">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M869-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M869-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M869-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M869-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M869-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M869-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the state of Lower Saxony, Germany, by a Georg-Christoph-Lichtenberg-Stipend in the doctorate program &#x201C;Processing of Poorly Soluble Drugs at Small Scale&#x201D; (to R. M.).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Jana K&#xF6;tz, Sandra I. Schweda: Experimental synthetic work, HPLC, IR and NMR interpretation, writing of manuscript; Rosanna Meine: Experimental synthetic work, literature search, HPLC, NMR and MS interpretation; Hannes Falke: Design of synthesis; Conrad Kunick: Synthesis planning, literature search, writing of manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <glossary>
+	<gloss-group>
+      <title>Abbreviations</title>
+      <p>Anal., elemental analysis; EI-MS, electron impact mass spectrometry; HPLC, high performance liquid chromatography; IR, infrared spectrometry; NMR, nuclear magnetic resonance; TMS, tetramethylsilane.</p>
+	</gloss-group>
+    </glossary>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M869">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fabbro</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>25 years of small molecular weight kinase inhibitors: potentials and limitations</article-title>
+          <source>Mol. Pharmacol.</source>
+          <year>2015</year>
+          <volume>87</volume>
+          <fpage>766</fpage>
+          <lpage>775</lpage>
+          <pub-id pub-id-type="doi">10.1124/mol.114.095489</pub-id>
+          <pub-id pub-id-type="pmid">25549667</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M869">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Egert-Schmidt</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Die kurze Geschichte der Proteinkinase-Inhibitoren. Jung, kompetitiv, erfolgreich</article-title>
+          <source>Pharmazie in Unserer Zeit</source>
+          <year>2008</year>
+          <volume>37</volume>
+          <fpage>360</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1002/pauz.200800277</pub-id>
+          <pub-id pub-id-type="pmid">18729261</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M869">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roskoski</surname>
+              <given-names>R.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title>A historical overview of protein kinases and their targeted small molecule inhibitors</article-title>
+          <source>Pharmacol. Res.</source>
+          <year>2015</year>
+          <volume>100</volume>
+          <fpage>1</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.phrs.2015.07.010</pub-id>
+          <pub-id pub-id-type="pmid">26207888</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M869">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rask-Andersen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fabbro</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Schioth</surname>
+              <given-names>H.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in kinase targeting: Current clinical use and clinical trials</article-title>
+          <source>Trends Pharmacol. Sci.</source>
+          <year>2014</year>
+          <volume>35</volume>
+          <fpage>604</fpage>
+          <lpage>620</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tips.2014.09.007</pub-id>
+          <pub-id pub-id-type="pmid">25312588</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M869">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacFarlane</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Todd</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinase inhibitors: The next generation of therapies in the treatment of rheumatoid arthritis</article-title>
+          <source>Int. J. Rheum. Dis.</source>
+          <year>2014</year>
+          <volume>17</volume>
+          <fpage>359</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1111/1756-185X.12293</pub-id>
+          <pub-id pub-id-type="pmid">24460872</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M869">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gadina</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in kinase inhibition: Treating rheumatic diseases and beyond</article-title>
+          <source>Curr. Opin. Rheumatol.</source>
+          <year>2014</year>
+          <volume>26</volume>
+          <fpage>237</fpage>
+          <lpage>243</lpage>
+          <pub-id pub-id-type="doi">10.1097/BOR.0000000000000023</pub-id>
+          <pub-id pub-id-type="pmid">24419749</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M869">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abbassi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Johns</surname>
+              <given-names>T.G.</given-names>
+            </name>
+            <name>
+              <surname>Kassiou</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>DYRK1A in neurodegeneration and cancer: Molecular basis and clinical implications</article-title>
+          <source>Pharmacol. Ther.</source>
+          <year>2015</year>
+          <volume>151</volume>
+          <fpage>87</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pharmthera.2015.03.004</pub-id>
+          <pub-id pub-id-type="pmid">25795597</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M869">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jain</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Karthikeyan</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Moorthy</surname>
+              <given-names>N.S.</given-names>
+            </name>
+            <name>
+              <surname>Waiker</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Trivedi</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human CDC2-like kinase 1 (CLK1): A novel target for Alzheimer's disease</article-title>
+          <source>Curr. Drug Targets</source>
+          <year>2014</year>
+          <volume>15</volume>
+          <fpage>539</fpage>
+          <lpage>550</lpage>
+          <pub-id pub-id-type="doi">10.2174/1389450115666140226112321</pub-id>
+          <pub-id pub-id-type="pmid">24568585</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M869">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Egert-Schmidt</surname>
+              <given-names>A.-M.</given-names>
+            </name>
+            <name>
+              <surname>Dreher</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Dunkel</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Kohfeld</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Preu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ehlert</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Mutschler</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Totzke</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xE4;chtele</surname>
+              <given-names>C.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of 2-anilino-9-methoxy-5,7-dihydro-6<italic>H</italic>-pyrimido[5,4-<italic>d</italic>][1]benzazepin-6-ones as dual PLK1/VEGF-R2 kinase inhibitor chemotypes by structure-based lead generation</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>53</volume>
+          <fpage>2433</fpage>
+          <lpage>2442</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm901388c</pub-id>
+          <pub-id pub-id-type="pmid">20170163</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M869">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Falke</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Bumiller</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Harbig</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Masch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wobbe</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>2-<italic>tert</italic>-Butyl-5,6,7,8,9,10-hexahydrocyclohepta[<italic>b</italic>]indole</article-title>
+          <source>Molbank</source>
+          <year>2011</year>
+          <volume>2011</volume>
+          <fpage>M737</fpage>
+          <pub-id pub-id-type="doi">10.3390/M737</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M869">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGrath</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Pattabiraman</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kellogg</surname>
+              <given-names>G.E.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sausville</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Zaharevitz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Gussio</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Homology model of the CDK1/cyclin B complex</article-title>
+          <source>J. Biomol. Struct. Dyn.</source>
+          <year>2005</year>
+          <volume>22</volume>
+          <fpage>493</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="doi">10.1080/07391102.2005.10531227</pub-id>
+          <pub-id pub-id-type="pmid">15702922</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M869">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Orban</surname>
+              <given-names>O.C.F.</given-names>
+            </name>
+            <name>
+              <surname>Korn</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Unger</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Yildiz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Chlorokenpaullone</article-title>
+          <source>Molbank</source>
+          <year>2015</year>
+          <volume>2015</volume>
+          <fpage>M856</fpage>
+          <pub-id pub-id-type="doi">10.3390/M856</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M869">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tolle</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Paullones as inhibitors of protein kinases</article-title>
+          <source>Curr. Top. Med. Chem.</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>1320</fpage>
+          <lpage>1332</lpage>
+          <pub-id pub-id-type="doi">10.2174/156802611795589601</pub-id>
+          <pub-id pub-id-type="pmid">21513499</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M869">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Preu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Lemcke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Totzke</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xE4;chtele</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kubbutat</surname>
+              <given-names>M.H.G.</given-names>
+            </name>
+            <name>
+              <surname>Kunick</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dual IGF-1R/SRC inhibitors based on a <italic>N</italic>&#x2032;-aroyl-2-(1H-indol-3-yl)-2-oxoacetohydrazide structure</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>2759</fpage>
+          <lpage>2769</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2011.03.065</pub-id>
+          <pub-id pub-id-type="pmid">21524503</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M869">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fedorov</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Huber</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Eisenreich</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Filippakopoulos</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Bullock</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>Szklarczyk</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Fabbro</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Trappe</surname>
+              <given-names>J.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Specific CLK inhibitors from a novel chemotype for regulation of alternative splicing</article-title>
+          <source>Chem. Biol.</source>
+          <year>2011</year>
+          <volume>18</volume>
+          <fpage>67</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.chembiol.2010.11.009</pub-id>
+          <pub-id pub-id-type="pmid">21276940</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M869">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pozna&#x144;ski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shugar</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Halogen bonding at the ATP binding site of protein kinases: Preferred geometry and topology of ligand binding</article-title>
+          <source>Biochim. Biophys. Acta</source>
+          <year>2013</year>
+          <volume>1834</volume>
+          <fpage>1381</fpage>
+          <lpage>1386</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbapap.2013.01.026</pub-id>
+          <pub-id pub-id-type="pmid">23376187</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2015-M869">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wasik</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Winska</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Poznanski</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shugar</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and physico-chemical properties in aqueous medium of all possible isomeric bromo analogues of benzo-1H-triazole, potential inhibitors of protein kinases</article-title>
+          <source>J. Phys. Chem. B</source>
+          <year>2012</year>
+          <volume>116</volume>
+          <fpage>7259</fpage>
+          <lpage>7268</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp301561x</pub-id>
+          <pub-id pub-id-type="pmid">22632480</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2015-M869">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilcken</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zimmermann</surname>
+              <given-names>M.O.</given-names>
+            </name>
+            <name>
+              <surname>Lange</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Joerger</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Boeckler</surname>
+              <given-names>F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Principles and applications of halogen bonding in medicinal chemistry and chemical biology</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2013</year>
+          <volume>56</volume>
+          <fpage>1363</fpage>
+          <lpage>1388</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm3012068</pub-id>
+          <pub-id pub-id-type="pmid">23145854</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2015-M869">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lewis acid catalyzed direct cyanation of indoles and pyrroles with <italic>N</italic>-cyano-<italic>N</italic>-phenyl-p-toluenesulfonamide (NCTS)</article-title>
+          <source>Org. Lett.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>5608</fpage>
+          <lpage>5611</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol202335p</pub-id>
+          <pub-id pub-id-type="pmid">21916460</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2015-M869">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Borsche</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Zur Kenntnis der Benzisoxazole</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1912</year>
+          <volume>390</volume>
+          <fpage>1</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1002/jlac.19123900102</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2015-M869">
+        <label>21.</label>
+        <note>
+          <p>Characterization of <bold>2</bold>: M.p.: 222&#x2013;223 &#xB0;C (dec.); MS (EI, rel intensity) <italic>m</italic>/<italic>z</italic> (%): 315 ([M]<sup>+&#x2022;</sup>, 27), 270 (100), 242 (5); IR (KBr) (cm<sup>&#x2212;1</sup>): 3241 (NH/OH), 1745, 1617 (C=O); <sup>1</sup>H-NMR (400.4 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) = 7.08 (t, 1H, <italic>J</italic> = 7.8 Hz, C(5)H), 7.7 (dd, 1H, <italic>J</italic> = 7.5/1.0 Hz, C(6)H), 8.20 (dt, 1H, <italic>J</italic> = 7.6/0.6 Hz, C(4)H), 8.37 (d, 1H, <italic>J</italic> = 3.4 Hz, C(2)H), 12.30 (d, 1H, <italic>J</italic> = 3.5 Hz, NH-indole), 14.00 (s, 1H, COOH); <sup>13</sup>C-NMR (100.7 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; (ppm) = 121.1, 124.5, 132.7, 138.1 (CH), 77.96 (C(7)), 113.2, 126.2, 138.6 (C), 164.7 (COOH), 180.8 (C=O); HPLC (AUC%): 99.42% at 254 nm; 99.66% at 280 nm; t<sub>ms</sub> = 2.97 min, t<sub>s</sub> (DMSO) = 1.16 min (isocratic); TLC (toluene/ethyl acetate/formic acid 10:1:1): R<sub>f</sub> = 0.26; Anal. calculated for C<sub>10</sub>H<sub>6</sub>INO<sub>3</sub> (315.07): C, 38.12; H, 1.92; N, 4.45. Found: C, 37.93; H, 1.80; N, 4.42.</p>
+        </note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2015-M869-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M869-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 7-iodo-1<italic>H</italic>-indole-3-carbonitrile (<bold>3</bold>). <italic>Reagents and conditions</italic>: (i) oxalyl dichloride, diethyl ether, ambient temperature, 6 h, 50%; (ii) H<sub>2</sub>NOH&#xB7;HCl, NaOAc, EtOH, H<sub>2</sub>O, reflux, 7 h, 59%.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M869-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

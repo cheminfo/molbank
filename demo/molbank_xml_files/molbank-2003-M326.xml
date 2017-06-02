@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M326</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M326</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>5-(1-Acetamido)benzyl-5-methyl Imidazolidin-2,4-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thennarasu</surname>
+            <given-names>S.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Perumal</surname>
+            <given-names>P. T.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M326">Organic Chemistry Laboratory, Central Leather Research Institute, Adyar, Chennai-600020, Tamil Nadu, India; Phone: (091) 44 - 4913289 ; Fax: (091) 44 - 4911589. E-mail: <email>sthennarasu@lycos.com</email></aff>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>05</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>3</issue>
+      <elocation-id>M326</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>10</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Hydantoin</kwd>
+        <kwd>Acetamido ketone</kwd>
+        <kwd>Phenylglycine</kwd>
+        <kwd>Bucherer-Bergs reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M326-i001.tif"/></p>
+	  <p>A general two-step method for the synthesis of 5,5-disubstituted imidazolidin-2,4-diones has been reported elsewhere [<xref ref-type="bibr" rid="B1-molbank-2003-M326">1</xref>].A one-pot preparation of the title compound <bold>3</bold> was achieved by treating L-phenylglycine (<bold>1</bold>) with a mixture of acetic anhydride and pyridine, followed by conversion of the acetamido ketone derivative <bold>2</bold> to the hydantoin <bold>3</bold>. Compound <bold>1</bold> (3.2 g, 20 mmol) was dissolved in a solution of acetic anhydride (15 mL) and pyridine (10 mL), and subjected to pulsed microwave irradiation for a total period of 2 min., using a household microwave oven (BPL-SANYO BMO-700T) with an operating power level of 700W/250V/50Hz. After removing the solvent under reduced pressure, potassium cyanide (1.95 g, 30 mmol), commercial ammonium carbonate (4.78 g, 60 mmol) and water (100 mL) were added. The reaction mixture was heated under reflux for 9 hrs and concentrated under reduced pressure. The colorless solid obtained was crystallized from 3 N HCl - ethanol (3:1) mixture to afford <bold>3</bold>. Yield: 72%, mp.: 232-235&#xB0;C.</p>
+      <p>IR &#x3BD; (KBr pellet): 3346, 3066, 1713, 1720, 1661, 1526, 1400, 1371,1130 cm<sup>-1</sup>.</p>
+      <p><sup>1</sup>HNMR &#x3B4; (200 MHz; DMSO-d6): 1.17 (s, 3H), 1.84 (s, 3H), 5.10 (d, 1H, 9.78 Hz), 7.29-7.35 (m, 5H), 7.86 (s, 1H), 8.41 (d, 1H, 9.79 Hz), 10.58 (s, 1H). </p>
+      <p><sup>13</sup>CNMR &#x3B4; (50 MHz; DMSO-d6): 21.39, 22.39, 55.91, 64.89, 127.31, 127.74 (2C), 128.27 (2C), 137.93, 156.60, 168.67, 176.96.</p>
+      <p>MS (m/z): 262 (M+1), 261 (M+), 218 (0.01), 203 (0.03), 191 (0.01), 174 (0.18), 158 (0.06), 148 (34.34), 130 (0.49), 113 (4.05), 106 (100), 89 (1.32), 79 (18.71), 77 (14.82), 65 (1.04), 42 (70.55).</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2003-M326">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M326-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M326-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2003-M326-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M326-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2003-M326">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thennarasu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Perumal</surname>
+              <given-names>P.T.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem. Sec. B</source>
+          <year>2001</year>
+          <volume>40B</volume>
+          <fpage>1174</fpage>
+          <lpage>1176</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability:</italic> Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

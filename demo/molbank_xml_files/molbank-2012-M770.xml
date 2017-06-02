@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M770</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M770</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic><sup>1</sup>-((1<italic>H</italic>-Indazol-5-yl)methylene)-<italic>N</italic><sup>2</sup>-(2-((2-((2-(((1<italic>H</italic>-indazol-6-yl)methylene)amino)ethyl)amino)ethyl)amino)ethyl)ethane-1,2-diamine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>N&#xFA;&#xF1;ez</surname>
+            <given-names>Cristina</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M770" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2012-M770" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fern&#xE1;ndez-Lodeiro</surname>
+            <given-names>Javier</given-names>
+          </name>
+          <xref rid="af2-molbank-2012-M770" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fern&#xE1;ndez-Lodeiro</surname>
+            <given-names>Adri&#xE1;n</given-names>
+          </name>
+          <xref rid="af2-molbank-2012-M770" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>B&#xE9;rtolo</surname>
+            <given-names>Em&#xED;lia</given-names>
+          </name>
+          <xref rid="af3-molbank-2012-M770" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Capelo</surname>
+            <given-names>Jos&#xE9; Luis</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M770" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2012-M770" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lodeiro</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref rid="af1-molbank-2012-M770" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2012-M770" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2012-M770" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M770"><label>1</label>REQUIMTE, Chemistry Department, Faculty of Science and Technology, University Nova of Lisbon, 2829-516, Monte de Caparica, Portugal</aff>
+      <aff id="af2-molbank-2012-M770"><label>2</label>BIOSCOPE Group, Faculty of Science, Physical-Chemistry Department, Ourense Campus, University of Vigo, 32004, Ourense, Spain</aff>
+      <aff id="af3-molbank-2012-M770"><label>3</label>Ecology Research Group, Department of Geographical and Life Sciences, Canterbury Christ Church University. Canterbury, Kent. CT1 1QU, UK</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M770"><label>*</label>Authors to whom correspondence should be addressed; E-Mails: <email>cristina.nunez@fct.unl.pt</email> (C.N.); <email>cle@fct.unl.pt</email> (C.L.).</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>08</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>3</issue>
+      <elocation-id>M770</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>07</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>One novel molecular emissive probe <bold>L</bold> has been synthesized by classical Schiff-base reaction between 1H-indazole-6-carboxaldehyde and tetraethylenepentamine. The structure of compound <bold>L</bold> was confirmed by melting point, elemental analysis, ESI-MS spectrometry and by IR and <sup>13</sup>C-NMR and <sup>1</sup>H-NMR spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>imine compounds</kwd>
+        <kwd>amine compounds</kwd>
+        <kwd>indazol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Indazole ring systems have an interesting chemistry, which has been used in biology, catalysis, and medicinal chemistry [<xref ref-type="bibr" rid="B1-molbank-2012-M770">1</xref>]. Although rare in nature [<xref ref-type="bibr" rid="B2-molbank-2012-M770">2</xref>], indazoles exhibit a variety of biological activities such as HIV protease inhibition [<xref ref-type="bibr" rid="B3-molbank-2012-M770">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M770">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M770">5</xref>], antiarrhythmic and analgesic activities [<xref ref-type="bibr" rid="B6-molbank-2012-M770">6</xref>], antitumor activity [<xref ref-type="bibr" rid="B7-molbank-2012-M770">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2012-M770">8</xref>], and antihypertensive properties [<xref ref-type="bibr" rid="B9-molbank-2012-M770">9</xref>]. Furthermore, antimicrobial and antineoplastic activities have also been shown to be associated with certain indazole derivatives [<xref ref-type="bibr" rid="B10-molbank-2012-M770">10</xref>].</p>
+      <p>As a part of our ongoing research into the design and synthesis of novel organic molecular probes, luminescent materials and MALDI-TOF-MS matrices [<xref ref-type="bibr" rid="B11-molbank-2012-M770">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2012-M770">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2012-M770">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2012-M770">14</xref>], here we report the synthesis and characterization of a new Schiff-base compound <bold>L</bold> containing two indazole units linked by a flexible polyethylene bridged (See <xref ref-type="scheme" rid="molbank-2012-M770-sch001">scheme 1</xref>).</p>
+    <sec>
+      <title>Experimental</title>
+      <p>A solution of 1H-indazole-6-carboxaldehyde (0.254 g, 1.718 mmol) in absolute ethanol (10 mL) was added dropwise to a refluxing solution of tetraethylenepentamine (0.162 g, 0.859 mmol) in the same solvent (30 mL) (See <xref ref-type="scheme" rid="molbank-2012-M770-sch001">scheme 1</xref>). The resulting solution was gently refluxed with magnetic stirring for ca. 4 h. The colour changed from yellow to brown. After that time, the mixture was allowed to cool to room temperature and a brown powder precipitate was formed; this was then filtered off, washed with cold absolute ethanol and cold diethyl ether and dried under vacuum. The resulting compound was characterized as <bold>L</bold> follow purification by column chromatography.</p>
+      <p>Melting point: 163&#x2013;165 &#xB0;C.</p>
+      <p>Yield: 382 mg (<bold>L</bold>) (93%).</p>
+      <p>ESI-MS: <italic>m/z</italic> (rel. int%): 446.27 (100) ([<bold>L</bold>+H]<sup>+</sup>.</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>) (<bold>L</bold>): &#x3B4; = 12.1 (s, 2H, N&#x2013;H); 8.4 (s, 2H, N=C&#x2013;H); 8.2&#x2013;7.0 (m, 6H, C-H<sub>ar</sub>); 3.9&#x2013;2.1 (m, 16H, CH<sub>2</sub>); 1.5 (s, 3H, NH) ppm.</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>) (<bold>L</bold>): &#x3B4; = 160.5; 150.3; 147.2; 133.6; 131.2; 127.9; 126.1; 125.0; 124.2; 119.7; 112.3; 110.4; 56.2; 50.6; 49.8.</p>
+      <p>IR (cm<sup>&#x2212;1</sup>) (<bold>L</bold>): 3051 (C&#x2013;H, Ar), 1638 (C=N, Imine), 1618, 1593, 1562 and 1509 (C=C, Ar).</p>
+      <p>Elemental analysis: Calcd for C<sub>24</sub>H<sub>37</sub>N<sub>9</sub>O<sub>3</sub>: C, 57.70; H, 7.45; N, 25.25. Found (<bold>L</bold>): C, 58.00; H, 7.15; N, 25.00.</p>
+      <p>Uv-vis (CHCl<sub>3</sub>), [<bold>L</bold>] = 1.00 &#xD7; 10<sup>&#x2212;5</sup> M, &#x3BB;<sub>max</sub> 275 and 324 nm.</p>
+      <p>Fluorescence Emission (CHCl<sub>3</sub>); [<bold>L</bold>] = 1.00 &#xD7; 10<sup>&#x2212;5</sup>): &#x3BB;<sub>max</sub> 427 nm.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M770">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M770-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M770-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M770-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M770-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful to Xunta de Galicia (Spain) for projects 09CSA043383PR and 10CSA383009PR (Biomedicine) and to the Scientific Association ProteoMass for financial support. C.N. thanks the Funda&#xE7;&#xE3;o para a Ci&#xEA;ncia e a Tecnologia/FEDER (Portugal/EU) programme postdoctoral contract SFRH/BPD/65367/2009. J.F.L. thanks Xunta de Galicia (Spain) for a research contract by project 09CSA043383PR in Biomedicine. J.L.C. and C.L. thank Xunta de Galicia for the Isidro Parga Pondal Research program.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M770">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sather</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Berryman</surname>
+              <given-names>O.B.</given-names>
+            </name>
+            <name>
+              <surname>Rebek</surname>
+              <given-names>J.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Fused Indazole Ring Systems and Application to Nigeglanine Hydrobromide</article-title>
+          <source>Org. Lett.</source>
+          <year>2012</year>
+          <volume>14</volume>
+          <fpage>1600</fpage>
+          <lpage>1603</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol300303s</pub-id>
+          <pub-id pub-id-type="pmid">22385299</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M770">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ali</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Avery</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>I.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nigellidine-4-<italic>O</italic>-sulfite, the First Sulfated Indazole-Type Alkaloid from the Seeds of <italic>Nigella sativa</italic></article-title>
+          <source>J. Nat. Prod.</source>
+          <year>2008</year>
+          <volume>71</volume>
+          <fpage>1111</fpage>
+          <lpage>1112</lpage>
+          <pub-id pub-id-type="doi">10.1021/np800172x</pub-id>
+          <pub-id pub-id-type="pmid">18471018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M770">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Pelletier</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Hodge</surname>
+              <given-names>C.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tricyclic ureas: A new class of HIV-1 protease inhibitor</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1998</year>
+          <volume>8</volume>
+          <fpage>3615</fpage>
+          <lpage>3620</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(98)00659-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M770">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rodgers</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>McHugh</surname>
+              <given-names>R.J.</given-names>
+              <suffix>Jr.</suffix>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Cordova</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Klaba</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Bacheler</surname>
+              <given-names>L.T.</given-names>
+            </name>
+            <name>
+              <surname>Erickson-Viitanen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>S.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unsymmetrical cyclic ureas as HIV-1 protease inhibitors: Novel biaryl indazoles as P2/P2&#x2032; substituents</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1999</year>
+          <volume>9</volume>
+          <fpage>3217</fpage>
+          <lpage>3220</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(99)00564-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M770">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>J.-H.</given-names>
+            </name>
+            <name>
+              <surname>Teleha</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>J.-S.</given-names>
+            </name>
+            <name>
+              <surname>Rodgers</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Nugiel</surname>
+              <given-names>D.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient Synthesis of 5-(Bromomethyl)- and 5-(Aminomethyl)-1-THP-Indazole</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>5627</fpage>
+          <lpage>5629</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo970375b</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M770">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mosti</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Menozzi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Fossa</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Filippelli</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Gessi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rinaldi</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Falcone</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and preliminary biological evaluation of novel N-substituted 1-amino-3-[1-methyl(phenyl)-1H-indazol-4-yloxy]-propan-2-ols interesting as potential antiarrhythmic, local anaesthetic and analgesic agents</article-title>
+          <source>Arzneimittelforschung</source>
+          <year>2000</year>
+          <volume>50</volume>
+          <fpage>963</fpage>
+          <lpage>972</lpage>
+          <pub-id pub-id-type="pmid">11148862</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M770">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jakupec</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Reisner</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Eichinger</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pongratz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Arion</surname>
+              <given-names>V.B.</given-names>
+            </name>
+            <name>
+              <surname>Galanski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hartinger</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <name>
+              <surname>Keppler</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Redox-Active Antineoplastic Ruthenium Complexes with Indazole: Correlation of in Vitro Potency and Reduction Potential</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2005</year>
+          <volume>48</volume>
+          <fpage>2831</fpage>
+          <lpage>2837</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm0490742</pub-id>
+          <pub-id pub-id-type="pmid">15828821</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M770">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Showalter</surname>
+              <given-names>H.D.H.</given-names>
+            </name>
+            <name>
+              <surname>Angelo</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Berman</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Kanter</surname>
+              <given-names>G.D.</given-names>
+            </name>
+            <name>
+              <surname>Ortwine</surname>
+              <given-names>D.F.</given-names>
+            </name>
+            <name>
+              <surname>Ross-Kesten</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Sercel</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Werbel</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Worth</surname>
+              <given-names>D.F.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Benzothiopyranoindazoles, a New Class of Chromophore Modified Anthracenedione Anticancer Agents. Synthesis and Activity against Murine Leukemias</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1988</year>
+          <volume>31</volume>
+          <fpage>1527</fpage>
+          <lpage>1539</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00403a009</pub-id>
+          <pub-id pub-id-type="pmid">3397990</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M770">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodman</surname>
+              <given-names>K.B.</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Dowdell</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Gaitanopoulos</surname>
+              <given-names>D.E.</given-names>
+            </name>
+            <name>
+              <surname>Ivy</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Sehon</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>Stavenger</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>G.Z.</given-names>
+            </name>
+            <name>
+              <surname>Viet</surname>
+              <given-names>A.Q.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>W.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Development of Dihydropyridone Indazole Amides as Selective Rho-Kinase Inhibitors</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>50</volume>
+          <fpage>6</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm0609014</pub-id>
+          <pub-id pub-id-type="pmid">17201405</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M770">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raffa</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Daidone</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Maggio</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Schillaci</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Plescia</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antiproliferative Activity of Novel 3-(Indazol-3-yl)-quinazolin-4(3<italic>H</italic>)-one and 3-(Indazol-3-yl)-benzotriazin-4(3<italic>H</italic>)-one Derivatives</article-title>
+          <source>Arch. Pharm. Pharm. Med. Chem.</source>
+          <year>1999</year>
+          <volume>332</volume>
+          <fpage>317</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1521-4184(19999)332:9&lt;317::AID-ARDP317&gt;3.0.CO;2-R</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M770">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pina</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Luminescent and chromogenic molecular probes based on polyamines and related compounds</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2009</year>
+          <volume>253</volume>
+          <fpage>1353</fpage>
+          <lpage>1385</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ccr.2008.09.008</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2012-M770">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Mejuto</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Pedras</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Nu&#xF1;ez</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Light and colour as analytical detection tools: A journey into the periodic table using polyamines to bio-inspired systems as chemosensors</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2010</year>
+          <volume>39</volume>
+          <fpage>2948</fpage>
+          <lpage>2976</lpage>
+          <pub-id pub-id-type="doi">10.1039/b819787n</pub-id>
+          <pub-id pub-id-type="pmid">20548989</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2012-M770">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bastista</surname>
+              <given-names>R.M.F.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>S.P.G.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Raposo</surname>
+              <given-names>M.M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Imidazo-benzo-15-crwon-5 ethers bearing arylthienyl and bithienyl moieitis as novel fluorescent chemosensor for Pd(II) and Cu(II)</article-title>
+          <source>Tetrahedron</source>
+          <year>2011</year>
+          <volume>67</volume>
+          <fpage>7106</fpage>
+          <lpage>7113</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2011.06.106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2012-M770">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fern&#xE1;ndez-Lodeiro</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Nu&#xF1;ez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Carreira</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF3;pez</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Mejuto</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Capelo</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Lodeiro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel versatile imine-enamine chemosensor based on 6-nitro-4-oxo-4H-chromene for ion detection in solution, solid and gas phase: Synthesis, emission, computational and MALDI-TOF-MS studies</article-title>
+          <source>Tetrahedron</source>
+          <year>2011</year>
+          <volume>67</volume>
+          <fpage>326</fpage>
+          <lpage>333</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2010.11.040</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2012-M770-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M770-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Schematic representation of compound <bold>L</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M770-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

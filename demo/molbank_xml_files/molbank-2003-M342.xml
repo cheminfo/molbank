@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M342</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M342</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(4,5-Dimethoxy-2-nitrophenyl)-(5-methylfuran-2-yl)methanone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mel'chin</surname>
+            <given-names>Vladimir V.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M342">Research Laboratory of Furan Chemistry, Kuban State University of Technology, Moskovskaya st. 2, Krasnodar 350072, Russian Federation; E-mail: <email>medvedhem@mail.ru</email></aff>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>4</issue>
+      <elocation-id>M342</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>31</day>
+          <month>03</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>06</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+		 <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+     </article-meta>
+  </front>
+  <body>
+     <p>To continue our investigation into the chemistry of furan derivatives [<xref ref-type="bibr" rid="B1-molbank-2003-M342">1</xref>, <xref ref-type="bibr" rid="B2-molbank-2003-M342">2</xref>], we have synthesized furylphenylketone bearing nitro-group in the ortho-position of benzene ring. We developed reaction conditions for preparation of this compound smoothly and in rather high yield.</p>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M342-i001.tif"/></p>
+	  <p>To an ice-cooled solution of ketone 1 (1.00 g, 4 mmol) in glacial acetic acid (10 mL) red fuming nitric acid (1 mL) was added dropwise. The reaction mixture was kept at 0 &#xB0;C for 10-15 min (TLC monitoring) and then poured into water. The precipitate obtained was filtered off and air-dried. Recrystallization from ethanol with charcoal afforded nitroketone <bold>2</bold> as yellow crystals (0.76 g, 65 %).</p>
+      <p>Mp: 147-148 &#xB0;C (ethanol).</p>
+	  <p>IR (KBr): 1695, 1640 cm<sup>-1</sup>.</p>
+      <p><sup>1</sup>H NMR (CDCl<sub>3</sub>, 60 MHz, ppm): 2.35 (s, 3H, CH<sub>3</sub>), 3.97 (s, 3H, OCH<sub>3</sub>), 4.03 (s, 3H, OCH<sub>3</sub>), 6.14 (d, 1H, J = 3.2, 3-H<sub>Fur</sub>), 6.95 (d, J = 3.2, 4-H<sub>Fur</sub>), 6.98 (s, 1H, H<sub>Ar</sub>), 7.68 (s, 1H, H<sub>Ar</sub>). </p>
+      <p>Anal. calc. for C<sub>14</sub>H<sub>13</sub>NO<sub>6</sub>: C 57.73, H 4.50, N 4.81; Found: C 57.79, H 4.42, N 4.77.</p>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2003-M342">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M342-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M342-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2003-M342-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M342-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2003-M342">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Butin</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Stroganova</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Lodina</surname>
+              <given-names>I.V.</given-names>
+            </name>
+            <name>
+              <surname>Krapivin</surname>
+              <given-names>G.D.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Letters</source>
+          <year>2001</year>
+          <volume>42</volume>
+          <fpage>2031</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M342">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Butin</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Abaev</surname>
+              <given-names>V.T.</given-names>
+            </name>
+            <name>
+              <surname>Stroganova</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Gutnov</surname>
+              <given-names>A.V.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>1997</year>
+          <volume>2</volume>
+          <fpage>62</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

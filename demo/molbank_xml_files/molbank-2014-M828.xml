@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M828</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2014-M828</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Benzyl {2-[(2-(1H-Benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl} carbamate <xref rid="fn1-molbank-2014-M828" ref-type="fn">&#x2020;</xref></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>K&#xFC;&#xE7;&#xFC;kbay</surname>
+            <given-names>Hasan</given-names>
+          </name>
+          <xref rid="c1-molbank-2014-M828" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bu&#x11F;day</surname>
+            <given-names>Nesrin</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2014-M828">Department of Chemistry, Faculty of Science, &#x130;n&#xF6;n&#xFC; University, 44280 Malatya, Turkey</aff>
+      <author-notes>
+        <fn id="fn1-molbank-2014-M828">
+          <label>&#x2020;</label>
+          <p>In memory of Prof. Dr. Alan Roy Katritzky.</p>
+        </fn>
+        <corresp id="c1-molbank-2014-M828"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>hkucukbay@inonu.edu.tr</email>; Tel.: +90-422-377-3881; Fax: +90-422-341-0037.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>2014</volume>
+      <issue>3</issue>
+      <elocation-id>M828</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>03</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>06</month>
+          <year>2014</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>N-(Protected &#x3B1;-aminoacyl)benzotriazoles are powerful acylating agents, and they are used frequently for preparing peptides and their mimetics and conjugates. The present paper describes the synthesis and characterization of a new benzyl {2-[(2-(1H-benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl} carbamate.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>peptide synthesis</kwd>
+        <kwd>amino acids</kwd>
+        <kwd>peptide-benzotriazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>N-(protected &#x3B1;-aminoacyl)benzotriazoles are powerful acylating agents, and they are used frequently for preparing peptides and their mimetics and conjugates [<xref ref-type="bibr" rid="B1-molbank-2014-M828">1</xref>]. Peptide-protein interactions are central to cell biology. It is also known that low molecular weight peptides can easily cross biological barriers and are less susceptible to protease attacks [<xref ref-type="bibr" rid="B2-molbank-2014-M828">2</xref>]. The synthesis of peptides and proteins is of great importance to the understanding of biological functions [<xref ref-type="bibr" rid="B3-molbank-2014-M828">3</xref>]. Although peptides and proteins mediate numerous biological processes, their use as therapeutic agents is often accompanied by several drawbacks, including poor bioavailability, low biostability and limited receptor subtype selectivity. Many of these drawbacks can be improved by the derivatization of the biomolecules [<xref ref-type="bibr" rid="B4-molbank-2014-M828">4</xref>]. Therefore, much effort has been expended on the design and synthesis of selective, high-affinity ligands by replacing portions of peptides with nonpeptide structures to obtain peptide derivatives. Due to the absence of a synthesis method of the title compound in the literature, we wish to report on the synthesis method and properties of benzyl {2-[(2-(1H-benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl} carbamate.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Benzyl {2-[(2-(1H-Benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl}carbamate was synthesized from the reaction of 2-{2-[((benzyloxy)carbonyl)amino]acetamido}acetic acid and benzotriazole using the Katritzky method (<xref ref-type="scheme" rid="molbank-2014-M828-sch001">Scheme 1</xref>).</p>
+      <p>N-(protected &#x3B1;-aminoacyl)benzotriazoles are efficient intermediates for N- and O-aminoacylation. These intermediates are very useful for synthesizing biologically relevant peptides and peptide conjugates in high yields and purity [<xref ref-type="bibr" rid="B5-molbank-2014-M828">5</xref>]. Contrary to many dipeptides and their benzotriazole derivatives found in the literature, the dipeptide-benzotriazole derivative synthesized in this work has not been reported in the literature according to the SciFinder and Web of Science databases. In order to fill the gap in the literature, the title compound was successfully synthesized in high yield, and its full characterization was made. The new compound is isolable at room temperature and can be handled without special procedures to exclude air and moisture. Since benzotriazoles offers an extremely useful alternative to synthesize peptides and their conjugates, the title compound may be used to obtain biologically relevant new dipeptide-heterocyclic conjugates.</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>General Chemical Procedure</title>
+        <p>All of the chemicals used were supplied commercially by Merck, Fluka or Aldrich Chemical Co. Both <sup>1</sup>H-NMR (300.13 MHz) and <sup>13</sup>C-NMR (75.47 MHz) spectra were determined using a Bruker DPX-300 high-performance digital FT-NMR spectrometer. FT-IR spectra were recorded on a Perkin-Elmer spectrophotometer in the range 4,000&#x2013;400 cm<sup>&#x2212;1</sup>. Elemental analysis was performed by a LECO CHNS-932 elemental analyzer. The melting point was recorded using an electrothermal 9200 melting point apparatus, and it was uncorrected.</p>
+        <p>2-{2-[((Benzyloxy)carbonyl)amino]acetamido}acetic acid [<xref ref-type="bibr" rid="B5-molbank-2014-M828">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2014-M828">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2014-M828">7</xref>] was synthesized from N-Cbz-Gly-Bt [<xref ref-type="bibr" rid="B8-molbank-2014-M828">8</xref>] and Gly-OH using literature methods.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of the Benzyl {2-[(2-(1H-Benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl}carbamate</title>
+        <p>To the solution of benzotriazole (3.58 g, 30.0 mmol, 4 equiv.) in CH<sub>2</sub>Cl<sub>2</sub> (25 mL), thionyl chloride (9.65 mmol, 0.7 mL, 1.3 equiv.) was added, and the reaction mixture was stirred for 30 min at room temperature. The temperature of the reaction mixture was then lowered to 258 K, and Cbz-Gly-Gly-OH (2.00 g, 7.50 mmol, 1 equiv.) was added and stirred for 5 h at 258 K. Subsequently, all volatiles were removed by vacuum and the obtained crude product was first washed with aqueous saturated sodium carbonate solution three times (3 &#xD7; 30 mL) for the complete removal of benzotriazole, then washed with diethyl ether and dried to give the title compound as a white clear solid. (2.04 g, 74%). Mp: 438&#x2013;439 K. &#x3C5;<sub>(C=O, ester)</sub>: 1,766 cm<sup>&#x2212;1</sup><sub>,</sub> &#x3C5;<sub>(C=O, amides)</sub>: 1,698 and 1,655 cm<sup>&#x2212;1</sup>, &#x3C5;<sub>(C-N, amides</sub>): 1,518 and 1,573 cm<sup>&#x2212;1</sup>. Analysis found: C, 58.32; H, 4.83; N, 18.92%. Calcd. for C<sub>18</sub>H<sub>17</sub>N<sub>5</sub>O<sub>4</sub>: C, 58.85; H, 4.66; N, 19.06%. <sup>1</sup>H-NMR (300 MHz, DMSO-<italic>d</italic><sub>6</sub>, 298 K): &#x3B4; (ppm) 8.64 (t, 1H, N<italic>H</italic>, <italic>J</italic> = 5.7 Hz), 8.28 (d, 1H, Ar-<italic>H</italic>, <italic>J</italic> = 8.1 Hz), 8.21 (d, 1H, Ar-<italic>H</italic>, <italic>J</italic> = 8.1 Hz), 7.81 (t, 1H, Ar-<italic>H</italic>, <italic>J</italic> = 7.8 Hz), 7.66-7.58 (m, 2H, Ar-<italic>H</italic> + N<italic>H</italic>), 7.38&#x2013;7.31 (m, 5H, Ar-<italic>H</italic>), 5.06 (s, 2H, C<italic>H</italic><sub>2</sub>-O), 4.99 (d, 2H, C<italic>H</italic><sub>2</sub>-N, <italic>J</italic> = 5.7 Hz), 3.80 (d, 2H, CH<sub>2</sub>-N, <italic>J</italic> = 6 Hz). <sup>13</sup>C-NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>, 298 K): &#x3B4; (ppm) 170.7 (<italic>C</italic>=O), 169.0 (<italic>C</italic>=O), 157.0 (<italic>C</italic>=O, ester), 145.7, 137.5, 131.5, 131.0, 128.8, 128.3, 127.6, 127.1, 120.6, 114.2, 66.0 (<italic>C</italic>H<sub>2</sub>-O), 43.8 (<italic>C</italic>H<sub>2</sub>), 43.0 (<italic>C</italic>H<sub>2</sub>). </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2014-M828">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2014-M828-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M828-s001.pdf">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M828-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M828-s002-mod.mol">
+		<label>Supplementary File 2</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M828-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M828-s002.mol">
+		<label>Supplementary File 3</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2014-M828-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M828-s003.pdf">
+		<label>Supplementary File 4</label>
+		</supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was financially supported by The Scientific and Technological Research Council of Turkey (T&#xDC;B&#x130;TAK), Grant No. 2013/113Z441. </p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Hasan K&#xFC;&#xE7;&#xFC;kbay designed research, analyzed the data and wrote the paper. Nesrin Bu&#x11F;day performed the laboratory synthesis. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2014-M828">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Panda</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Scriven</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aminoacyl benzotriazoles: versatile reagents for the preparation of peptides and their mimetics and conjugates</article-title>
+          <source>Aldrichim. Acta</source>
+          <year>2013</year>
+          <volume>46</volume>
+          <fpage>43</fpage>
+          <lpage>55</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2014-M828">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lucchese</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Stufano</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Trost</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kusalik</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kanduc</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peptidology: short amino acid modules in cell biology and immunology</article-title>
+          <source>Amino Acids</source>
+          <year>2007</year>
+          <volume>33</volume>
+          <fpage>703</fpage>
+          <lpage>707</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00726-006-0458-z</pub-id>
+          <pub-id pub-id-type="pmid">17077961</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2014-M828">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Khatib</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jauregui</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Tala</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Khelashvili</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solution-phase synthesis of chiral O-acyl isodipeptides</article-title>
+          <source>Med. Chem. Commun.</source>
+          <year>2011</year>
+          <volume>2</volume>
+          <fpage>1087</fpage>
+          <lpage>1092</lpage>
+          <pub-id pub-id-type="doi">10.1039/c1md00130b</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2014-M828">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Glunz</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>Hintermann</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>L.J.</given-names>
+            </name>
+            <name>
+              <surname>Schwarz</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Kuduk</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Kudryashov</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>K.O.</given-names>
+            </name>
+            <name>
+              <surname>Danishefsky</surname>
+              <given-names>S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design and synthesis of Le(y)-bearing glycopeptides that mimic cell surface Le(y) mucin glycoprotein architecture</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>2000</year>
+          <volume>122</volume>
+          <fpage>7273</fpage>
+          <lpage>7279</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja0011820</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2014-M828">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Angrish</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Todadze</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral acylation with N-(protected &#x3B1;-aminoacyl)benzotriazoles for advantageous syntheses of peptides and peptide conjugates</article-title>
+          <source>Synlett</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <fpage>2392</fpage>
+          <lpage>2411</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0029-1217827</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2014-M828">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Panda</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;&#xE7;&#xFC;kbay</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Meyers</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Sverdrup</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>El-Feky</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antimalarial bioassay of quinine peptide conjugates</article-title>
+          <source>Chem. Biol. Drug Res.</source>
+          <year>2013</year>
+          <volume>82</volume>
+          <fpage>361</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="doi">10.1111/cbdd.12134</pub-id>
+          <pub-id pub-id-type="pmid">23497252</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2014-M828">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salam</surname>
+              <given-names>S.M.A.</given-names>
+            </name>
+            <name>
+              <surname>Kagawa</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Matsubara</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kawashiro</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protease-catalyzed dipeptide synthesis from N-protected amino acid carbamoylmethyl esters and free amino acids in frozen aqueus solutions</article-title>
+          <source>Enzyme Microb. Technol.</source>
+          <year>2008</year>
+          <volume>43</volume>
+          <fpage>537</fpage>
+          <lpage>543</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.enzmictec.2008.09.003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2014-M828">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katritzky</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Vincek</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave-assisted synthesis of peptidyl phosphorus ylides</article-title>
+          <source>ARKIVOC</source>
+          <year>2005</year>
+          <volume>5</volume>
+          <fpage>116</fpage>
+          <lpage>126</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2014-M828-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2014-M828-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis equations of benzyl {2-[(2-(1H-benzo[d][1,2,3]triazol-1-yl)-2-oxoethyl)amino]-2-oxoethyl} carbamate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2014-M828-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M511</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M511</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4,4'-Diethylaminoethoxyhexestrol dihydrochloride</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yousefi</surname>
+            <given-names>Behrooz H.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordis</surname>
+            <given-names>Ulrich</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M511" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M511">Institute of Applied Synthetic Chemistry, Vienna University of Technology, Getreidemarkt 9/163, A-1060 Vienna, Austria <break/>E-mail: <email>ujordis@ioc.tuwien.ac.at</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M511"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>6</issue>
+      <elocation-id>M511</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>11</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+  <disp-formula>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M511-i001.tif"/>
+  </disp-formula>
+      <p>The bis-diethylaminoethylether of hexestrol has been shown to be hypocholesteremic by inhibiting the reduction of desmosterol to cholesterol.<sup>1</sup> The hypocholesteremic activity of the title compound in man has been reported<sup>2</sup> and its mode of action confirmed.<sup>3</sup> The histopatological features of non-alcoholic steatohepatitis were described in patients taking 4,4&#x2019;-diethylaminoethoxyhexestrol.<sup>4,5</sup> In the context of a joint collaboration in a genomics project, we aimed to prepare the title compound in multi-grams scale. We report here new preparation with significant yield improvement of title compound. For this purpose the preparation of 4,4'-diethylaminoethoxyhexestrol dihydrochloride under different reported and analogue conditions have been tried. According to the Hughes <italic>et al.</italic> method,<sup>1</sup> the reaction using sodium ethoxide  in toluene gave 46% yield, and there is no yield improvement using sodium methoxide in ethanol and toluene.<sup>6</sup> The preparation with K<sub>2</sub>CO<sub>3</sub> in acetone<sup>7</sup> or DMF<sup>8</sup> gave similar results. We prepared the title compound by treating hexestrol with NaH in DMF to afford the sodium phenolate which was reacted with diethylaminoethylchloride hydrochloride followed by treatment with ethereal HCl in 85% overall yield, which is similar to the Ezquerra <italic>et al.</italic> method in preparation of [2-(3-Benzyl-3<italic>H</italic>-benzoimidazol-5-yloxy)-ethyl]-dimethyl-amine.<sup>9</sup></p>
+      <p><italic>Experimental</italic>: To a suspension of NaH (9 g, ~50% in mineral oil, ~190 mmol) in dry DMF (250 mL), hexestrol (13.6 g, 50 mmol) was added and the mixture heated up to 90&#xBA;C for 30 min. under argon. Then a solution of diethylaminoethylchloride hydrochloride (20 g, 116 mmol) in dry DMF (100 mL) was added drop wise and the reaction followed by TLC. After 2 hours no starting material was detectable. Water (20 mL) was added to the reaction mixture and all volatiles evaporated <italic>in vacuo</italic>. The residue was extracted using diethyl ether (3&#xD7;200 mL) and the combined organic phase washed with water and brine, dried over MgSO<sub>4</sub>, filtered and the solvent evaporated in vacuo.<sup>2</sup> The resulting oil was dissolved in dry ethanol and the solution added drop wise to cold dry diethyl ether saturated with HCl (500 mL) and kept in the refrigerator overnight to get crude crystalline 4,4'-diethylaminoethoxyhexestrol dihydrochloride (21.8 g). The product was re-crystallized from ethyl acetate and ethanol to yield a first fraction of 19.6 g (72%, &gt;99% HPLC purity). Further workup of the mother liquor resulted in a total product of 85%. </p>
+      <p>Melting Point: 225.5&#xB0;C (Lit. 223-226&#xB0;C), </p>
+      <p>Elemental Analysis: Calculated for C<sub>30</sub>H<sub>48</sub>N<sub>2</sub>O<sub>2</sub> .2 HCl: C, 66.53%, H, 9.30%, N, 5.17%, Cl, 13.09%; Found: C, 65.55, H, 9.64, N, 5.07, Cl, 12.61. </p>
+      <p><sup>1</sup>H NMR (DMSO-d<sub>6</sub>) &#x3B4; 0.38 (t, 6H), 1.24 (t, 16H), 2.54 (b, 2H), 3.21 (q, 8H), 3.45 (b, 4H), 4.28 (b, 4H), 7.09 (dd, 8H). </p>
+      <p><sup>13</sup>C NMR (DMSO-d<sub>6</sub>) &#x3B4; 8.2, 11.8, 26.8, 47.4, 50.1, 52.3, 61.8, 65.0, 114.3, 129.1, 137.2, 155.4.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M511">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M511-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M511-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M511-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M511-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2006-M511">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughes</surname>
+              <given-names>G. M. K.</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>P. F.</given-names>
+            </name>
+            <name>
+              <surname>Stebbins</surname>
+              <given-names>R. B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med. Chem.</source>
+          <year>1964</year>
+          <volume>7</volume>
+          <fpage>511</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="pmid">14221137</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M511">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zimmerman</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Drugs</source>
+          <year>1978</year>
+          <volume>16</volume>
+          <fpage>25</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="pmid">352664</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M511">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Annoni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Longaretti</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Med. Welt</source>
+          <year>1961</year>
+          <fpage>1945</fpage>
+          <lpage>1947</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M511">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phillips</surname>
+              <given-names>Wm. A.</given-names>
+            </name>
+            <name>
+              <surname>Avigan</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Proceedings of the Society for Experimental Biology and Medicine</source>
+          <year>1963</year>
+          <volume>112</volume>
+          <fpage>233</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">13943170</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2006-M511">
+        <label>5.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stremmel</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Blechacz</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Herrmann</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rost</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Der Internist</source>
+          <year>2001</year>
+          <volume>42</volume>
+          <fpage>1641</fpage>
+          <lpage>1650</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oneta</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Dufour</surname>
+              <given-names>J. F.</given-names>
+            </name>
+          </person-group>
+          <source>Swiss Med. Wkly.</source>
+          <year>2002</year>
+          <volume>132</volume>
+          <fpage>493</fpage>
+          <lpage>505</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2006-M511">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El-Wakil</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Seitz</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name>
+              <surname>Mansour</surname>
+              <given-names>E. S. M. E.</given-names>
+            </name>
+          </person-group>
+          <source>Heteroatom Chem.</source>
+          <year>1991</year>
+          <volume>2</volume>
+          <fpage>583</fpage>
+          <lpage>586</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2006-M511">
+        <label>7.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mehta</surname>
+              <given-names>L. K.</given-names>
+            </name>
+            <name>
+              <surname>Parrick</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1995</year>
+          <volume>32</volume>
+          <fpage>391</fpage>
+          <lpage>394</lpage>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reddy</surname>
+              <given-names>Y. T.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>P. N.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>M. K.</given-names>
+            </name>
+            <name>
+              <surname>Rajitha</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>S. M.</given-names>
+            </name>
+          </person-group>
+          <source>Indian J. Chem. Sect. B Org. Chem. Inc.l Med. Chem.</source>
+          <year>2001</year>
+          <volume>40</volume>
+          <fpage>479</fpage>
+          <lpage>483</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2006-M511">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olier-Reuchet</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Aitken</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name>
+              <surname>Bucourt</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Husson</surname>
+              <given-names>H. P.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1995</year>
+          <volume>36</volume>
+          <fpage>8221</fpage>
+          <lpage>8224</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2006-M511">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ezquerra</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lamas</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pastor</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Navio</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Vaquero</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron</source>
+          <year>1997</year>
+          <volume>53</volume>
+          <fpage>12755</fpage>
+          <lpage>12764</lpage>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2006-M511">
+        <label>10.</label>
+        <note>
+          <p>An analytical sample of the free base was obtained by flash chromatography on silica (1:1, petrol /ethyl acetate). Mp: 47&#xB0;C and the structure confirmed by NMR: <sup>1</sup>H NMR (CDCl<sub>3</sub>) &#x3B4; 0.45 (t, 6H), 1.072 (t, 12H), 1.24 (m, 4H), 2.42 (m, 2H), 2.59 (q, 8H), 2.85 (t, 4H), 3.97 (t, 4H), 6.89 (dd, 8H).</p>
+        </note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

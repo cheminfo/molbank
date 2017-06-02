@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M590</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M590</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 3-(4-Chloro-2-methoxy-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]-pyrimidin-7-yl)propanoic acid &#x2013; An N(9)-Functionalized 7-Deazapurine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rosemeyer</surname>
+            <given-names>Helmut</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M590">Organic Materials Chemistry &#x2013; Bioorganic Chemistry, Institute of Chemistry, Fachbereich Biologie/Chemie, University of Osnabr&#xFC;ck, Barbarastr. 7, D-49069 Osnabr&#xFC;ck, Germany</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M590"><label>*</label> Author to whom correspondence should be addressed. E-mail: <email>Helmut.Rosemeyer@uos.de</email>; Fax: +495419692370</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>02</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M590</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Regioselective N-alkylation of 4-chloro-2-methoxy-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidine (<bold>6</bold>) with ethyl 3-bromopropionate under liquid-liquid phase-transfer reaction conditions gave the ester <bold>7a</bold>. Its saponification yielded the acid <bold>7b</bold>. The log<italic>P</italic> values of a series of N(9)-functionalized purines and purine isosteres were calculated.</p>
+      </abstract>
+      <kwd-group>
+	  <kwd>7-Deazapurines</kwd>
+	  <kwd>pyrrolo[2,3-<italic>d</italic>]pyrimidines</kwd>
+	  <kwd>functionalization</kwd>
+	  <kwd>phase-transfer alkylation</kwd>
+        <kwd>log<italic>P</italic> values</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2009-M590" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>7-Deazapurines (= pyrrolo[2,3-<italic>d</italic>]pyrimidines) are of considerable importance because in a series of nucleoside antibiotics comprising tubercidin, toyocamycin and sangivamycin the adenine moiety is replaced by a 7-deazaadenine heterocycle. The pyrrolo[2,3-<italic>d</italic>]pyrimidine system is also found in tRNAs of eukaryotes and prokaryotes, namely in form of the hypermodified nucleoside &#x201C;Q&#x201D; {2-amino-5-(4,5-cis-dihydroxy-1-cyclopenten-3-yl-trans-aminomethyl-(7-<italic>&#xDF;</italic>-D-ribofuranosyl)-3,7-dihydro-4<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidin-4-one, Queuosine}. The series of 7-deazaguanosine nucleosides comprises also the nucleosides preQ<sub>0</sub>, preQ<sub>1</sub>, cadeguomycin and archaeosine [<xref ref-type="bibr" rid="B1-molbank-2009-M590">1</xref>]. Until now 22 natural products have been isolated which contain a 7-deazapurine moiety. The synthesis and study of synthetic 7-deazapurine nucleosides is closely related to the names <italic>R. K. Robins</italic>, <italic>L. B. Townsend</italic> [<xref ref-type="bibr" rid="B2-molbank-2009-M590">2</xref>], and <italic>F. Seela</italic> [<xref ref-type="bibr" rid="B3-molbank-2009-M590">3</xref>]. 7-Deazapurines have also been synthesized as analogues of potent A1- and A2-adenosine receptor antagonists [<xref ref-type="bibr" rid="B4-molbank-2009-M590">4</xref>]. Moreover, 7-deazapurines have been shown to induce neurogenesis in murine embryonic stem cells [<xref ref-type="bibr" rid="B5-molbank-2009-M590">5</xref>].</p>
+      <p>Carboxyalkyl-functionalized derivatives of  7-deazapurines are of interest because they can be easily coupled to polymers or surfaces carrying amino functions lending them the functionality of a particular modified nucleobase [<xref ref-type="bibr" rid="B6-molbank-2009-M590">6</xref>]. Coupling of such compounds to amino-functionalized lipids or phospholipids [<xref ref-type="bibr" rid="B7-molbank-2009-M590">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2009-M590">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2009-M590">9</xref>] such as kephalines may lead to potential organo- or hydrogelators. It has been shown that for the successful preparation of a gelator, a control of the balance between the hydrophilicity and hydrophobicity of the heterocyclic head group and the lipid tail is of decisive importance [<xref ref-type="bibr" rid="B10-molbank-2009-M590">10</xref>]. This balance can be modified <italic>inter alia</italic> by variation of the substituent pattern of a given head group. For this reason we have synthesized in the past various carboxyethyl-functionalized purine isosteric compounds [<xref ref-type="bibr" rid="B6-molbank-2009-M590">6</xref>,<xref ref-type="bibr" rid="B11-molbank-2009-M590">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2009-M590">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2009-M590">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M590">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2009-M590">15</xref>]. Now, we report about a further compound of this series and calculate the hydrophobicities of the functionalized head groups in form of their log<italic>P</italic> values (<xref ref-type="table" rid="molbank-2009-M590-t001">Table</xref>) [<xref ref-type="bibr" rid="B16-molbank-2009-M590">16</xref>], both described in this manuscript as well as of others described in preceeding publications.</p>
+      <p>As it had been reported before, the synthesis of compound <bold>2b</bold> started from 2,4-dimethoxy-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidine (<bold>1</bold>) &#x2013; synthesized in 4 steps according to the literature [<xref ref-type="bibr" rid="B15-molbank-2009-M590">15</xref>,<xref ref-type="bibr" rid="B17-molbank-2009-M590">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2009-M590">18</xref>] &#x2013; which was alkylated with 3-bromopropionate under liquid-liquid phase-transfer catalysis conditions with tetrabutylammonium hydrogen sulphate as catalyst yielding the ester <bold>2a</bold>. Subsequent saponification of the ester gave the acid <bold>2b</bold>. Later, it was found that - if instead of benzene/ethyleneglycol dimethylether dichloromethane is used as solvent for the alkylation reaction &#x2013; a methylene-bridged bis-heterocycle is formed; its 3D-optimized structure is shown in the figure; the heterocyclic planes of the molecule are almost orthogonal to each other. Such methylene-bridged heterocycles have been found also in other cases [<xref ref-type="bibr" rid="B19-molbank-2009-M590">19</xref>].</p>
+      <p>Starting from compounds <bold>2a</bold>, <bold>b</bold> the functionalized derivatives <bold>4</bold> and <bold>5a</bold>,<bold>b</bold> have been prepared. Using now the 7-deazapurine <bold>6</bold> [<xref ref-type="bibr" rid="B17-molbank-2009-M590">17</xref>] liquid-liquid phase-transfer alkylation with ethyl 3-bromopropionate afforded the ester <bold>7a</bold> which was saponificated giving the acid <bold>7b</bold>. The structures of the novel compounds were proved by <sup>1</sup>H-, <sup>13</sup>C-NMR, and UV-spectroscopy as well as by elemental analyses. Studies toward the coupling of the acid <bold>7b</bold> described here as well of others described before to various carrier molecules are underway. The table displays the structures and log<italic>P</italic> values of the various functionalized purines and purine-isosteric heterocycles in form of their N-propanamides omitting ionisable groups in the side chain. As one can see, the systematic variation of the nitrogen pattern as well as of the substituents of the heterocycles renders the molecules more or less hydrophobic thereby bestriding more than four orders of magnitude.</p>
+	  <disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i001.tif"/></disp-formula>
+    </sec>
+    <sec id="sec2-molbank-2009-M590" sec-type="methods">
+      <title>2. Experimental</title>
+      <sec>
+        <title>General</title>
+        <p>The synthesis of the compounds displayed in the Table is described in [<xref ref-type="bibr" rid="B6-molbank-2009-M590">6</xref>,<xref ref-type="bibr" rid="B11-molbank-2009-M590">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2009-M590">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2009-M590">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2009-M590">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2009-M590">15</xref>] as well as in this manuscript. Thin-layer chromatography (TLC): Silica gel 60 F<sub>254</sub> plates (VWR, Darmstadt, Germany). UV-Spectroscopy: U-3200 spectrophotometer (<italic>Hitachi</italic>, Japan); &#x3BB;<sub>max</sub> in nm; &#x3B5; in dm<sup>3</sup>/mol. NMR Spectra were recorded on AC-250 and AMX-500 spectrometers (<italic>Bruker</italic>, Rheinstetten, Germany). Operational frequencies: <sup>1</sup>H-NMR: 250.13, 500.14 MHz; <sup>13</sup>C-NMR: 62.896, 125.700 MHz. Chemical shifts (&#x3B4; values) are in parts per million relative to tetramethylsilane as internal standard. Microanalyses were performed by <italic>Mikroanalytisches Labor Beller</italic> (G&#xF6;ttingen, Germany). Melting points were measured on a B&#xFC;chi SMP 20 apparatus and are not corrected.</p>
+      </sec>
+      <sec>
+        <title>7,7&#x2019;-Methanediylbis(2,4-dimethoxy-7H-pyrrolo[2,3-d]pyrimidine) (<bold>3</bold>)</title>
+        <p>The chromophore <bold>1</bold> (1 g, 5.6 mmol) was agitated with a vibromixer (50 Hz) with tetrabutylammonium hydrogensulfate (1.4 g, 5 mmol) in a mixture of 50 % aq. NaOH (20 ml) and dichloromethane (20 ml) at ambient temperature for 2 h. After separation of the phases, the aqueous layer was extracted twice with CH<sub>2</sub>Cl<sub>2</sub>. The combined organic layers were filtered and evaporated to dryness; the residue was dissolved in EtOH (250 ml), charcoaled, filtered and evaporated to a total volume of 100 ml whereby the title compound <bold>3</bold> crystallized. Yield: 780 mg (78 %) of colourless crystals; mp. 235-237 &#xB0;C. TLC (CH<sub>2</sub>Cl<sub>2</sub>): R<sub>f</sub>, 0.3. UV (EtOH): &#x3BB;<sub>max</sub> 257, 273 nm (&#x3B5;, 15.900, 16.200). Anal. calcd. for C<sub>17</sub>H<sub>18</sub>N<sub>6</sub>O<sub>4</sub> (370.363): C, 55.13; H, 4.90; N, 22.69. Found: C, 55.12; H, 4.87; N, 22.70. <sup>1</sup>H-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 4.08 (s, 3 H, 4-OCH<sub>3</sub>); 4.10 (s, 3 H, 2-OCH<sub>3</sub>); 6.37 (d, 1 H, H-C(5), J = 2 Hz); 6.41 (s, 2 H, CH<sub>2</sub>, 7.17 (d, 1 H, H-C(6), J = 2 Hz). <sup>13</sup>C-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 51.39 (-CH<sub>2</sub>-); 53.87 (4-OCH<sub>3</sub>); 54.78 (2-OCH<sub>3</sub>); 100.18 (C-5); 101.10 (C-4a); 124.21 (C-6); 154.10 (C-7a); 162.57 (C-2); 164.99 (C-4).</p>
+      </sec>
+      <sec>
+        <title>3-(4-Chloro-2-methoxy-7H-pyrrolo[2,3-d]pyrimidin-7-yl)propanoic acid (<bold>7b</bold>)</title>
+        <p>The chromophore <bold>6</bold> (500 mg, 2.7 mmol) and tetrabutylammonium hydrogensulfate (92 mg, 0.27 mmol) were agitated (50 Hz) with a vibromixer for 5 min in a mixture of 50 % aq. NaOH (20 ml), benzene (10 ml) and dimethoxyethane (10 ml) at ambient temperature. Subsequently ethyl 3-bromopropionate (3.35 ml, 27 mmol) were added and agitation was continued for 1 h. After separation of the phases the aqueous layer was extracted threefold with benzene. The combined organic layers were washed with water and evaporated to dryness. The residue was dissolved in MeOH, charcoaled, filtered, and evaporated to dryness. Ethyl 3-(4-chloro-2-methoxy-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidin-7-yl)propanoate (<bold>7a</bold>) was crystallized from water as colorless needles; m.p. 71-72 &#xB0;C. TLC (CHCl<sub>3</sub>): R<sub>f</sub>, 0.4. UV (MeOH): &#x3BB;<sub>max</sub>, 278, 295 nm (&#x3B5;, 4.300, 5.200). Anal. calcd. for C<sub>12</sub>H<sub>14</sub>ClN<sub>3</sub>O<sub>3</sub> (283.711): C, 50.80; H, 4.97; N, 14.81. Found: C, 50.94; H, 4.92; N, 14.92. <sup>1</sup>H-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 1.09 (t, 3 H, CH<sub>3</sub>-ester, J = 7 Hz); 2.90 (t, 2 H, CH<sub>2</sub>-N, J = 7 Hz); 3.94 (s, 3 H, OCH<sub>3</sub>); 4.01 (q, 2 H, CH<sub>2</sub>-ester, J = 7 Hz); 4.38 (t, 2 H, CH<sub>2</sub>-C=O, J = 7 Hz); 6.48 (d, 1 H, H-C(5), J = 4 Hz); 7.48 (d, 1 H, H-C(6), J = 4 Hz). <sup>13</sup>C-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 13.85 (CH<sub>3</sub>-ester); 33.88 (<underline>C</underline>H<sub>2</sub>-C=O); 39.80 (CH<sub>2</sub>-ester); 54.83 (OCH<sub>3</sub>); 60.19 (CH<sub>2</sub>-N); 98.70 (C-5); 112.33 (C-4a); 129.41 (C-6); 151.60 (C-7a); 152.76 (C-2); 160.59 (C-4); 170.67 (C=O).</p>
+        <p>The ester <bold>7a</bold> (500 mg, 1.76 mmol) was dissolved in a mixture of EtOH (20 ml) and 1 M aq. NaOH (20 ml) and stirred for 30 min at ambient temperature. After dilution with water (50 ml) the reaction mixture was neutralized at a glass electrode by addition of Amberlite IR-120 (H<sup>+</sup>-form). After filtration the resin was washed with EtOH/H<sub>2</sub>O (1:1, v/v), and the filtrate was evaporated to dryness. The residue was taken up in a small amount of H<sub>2</sub>O, and the title compound <bold>7b</bold> was crystallized by adding a few drops of glacial acetic acid. Yield: 368 mg (82 %) of colourless <bold>7b</bold>. TLC (0.25 M aq. LiCl): R<sub>f</sub>, 0.5. UV (MeOH): &#x3BB;<sub>max</sub>, 227, 278, 297 nm (&#x3B5;, 29.700, 4.500, 4.900). Anal. calcd. for C<sub>10</sub>H<sub>10</sub>ClN<sub>3</sub>O<sub>3</sub> (255.658): C, 46.98; H, 3.94; N, 16.44. Found: C, 46.87; H, 3.97; N, 16.34. <sup>1</sup>H-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 2.82 (t, 2 H, CH<sub>2</sub>-N, J = 7 Hz); 3.96 (s, 3 H, OCH<sub>3</sub>); 4.37 (t, 2 H, CH<sub>2</sub>-C=O, J = 7 Hz); 6.50 (d, 1 H, H-C(%), J = 4 Hz); 7.50 (d, 1 H, H-C(6), J = 4 Hz). <sup>13</sup>C-NMR (d<sub>6</sub>-DMSO): &#x3B4;, 33.60 (<underline>C</underline>H<sub>2</sub>-C=O); 54.83 (OCH<sub>3</sub>); 51.35 (CH<sub>2</sub>-N); 98.65 (C-5); 112.25 (C-4a); 129.30 (C-6); 151.48 (C-7a); 152.60 (C-2); 160.55 (C-4); 170.90 (C=O).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M590">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2009-M590-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M590-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M590">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suhadolnik</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <source>Nucleosides As Biological Probes</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1979</year>
+          <fpage>158</fpage>
+          <lpage>166</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M590">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Revankar</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Robins</surname>
+              <given-names>R.K.</given-names>
+            </name>
+          </person-group>
+          <source>Chemistry of Nucleosides and Nucleotides</source>
+		  <person-group person-group-type="editor">
+            <name>
+              <surname>Townsend</surname>
+              <given-names>L.B.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Plenum Press</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <year>1991</year>
+		  <fpage>200</fpage>
+          <lpage>247</lpage>
+		  <comment>and literature cited therein</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M590">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Budow</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in the synthesis of 7-deazapurine &#x2013; pyrrolo[2,3-<italic>d</italic>]pyrimidine &#x2013; 2&#x2019;-deoxyribonucleosides including D- and L-enantiomers, fluoro derivatives and 2&#x2019;,3&#x2019;-dideoxyribonucleosides</article-title>
+          <source>Curr. Org. Chem.</source>
+          <year>2007</year>
+          <volume>11</volume>
+          <fpage>427</fpage>
+          <lpage>462</lpage>
+		  <comment>and literature cited therein</comment>
+          <pub-id pub-id-type="doi">10.2174/138527207780059286</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M590">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mueller</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Geis</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Grahner</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lanzner</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Eger</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral pyrrolo[2,3-<italic>d</italic>]pyrimidine and pyrimido[4,5-b]indole derivatives: structure-activity relationships of potent, highly stereoselective A-adenosine receptor antagonists</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1996</year>
+          <volume>39</volume>
+          <fpage>2482</fpage>
+          <lpage>2491</lpage>
+		  <comment>and literature cited therein</comment>
+          <pub-id pub-id-type="doi">10.1021/jm960011w</pub-id>
+          <pub-id pub-id-type="pmid">8691445</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M590">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ding</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>T.Y.H.</given-names>
+            </name>
+            <name>
+              <surname>Brinker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>E.C.</given-names>
+            </name>
+            <name>
+              <surname>Hur</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>N.S.</given-names>
+            </name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>P.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthetic small molecules that control stem cell fate</article-title>
+          <source>Proc. Natl. Acad. Sci.</source>
+          <year>2003</year>
+          <volume>100</volume>
+          <fpage>7632</fpage>
+          <lpage>7637</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0732087100</pub-id>
+          <pub-id pub-id-type="pmid">12794184</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M590">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dextran-linked 7-deazaguanine &#x2013; a polymer-bound inhibitor of xanthine oxidase</article-title>
+          <source>Int. J. Biol. Macromol.</source>
+          <year>1987</year>
+          <volume>9</volume>
+          <fpage>205</fpage>
+          <lpage>210</lpage>
+          <pub-id pub-id-type="doi">10.1016/0141-8130(87)90054-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M590">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahlers</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ringsdorf</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Orientation, recognition, and photoreaction of nucleolipids in model membranes</article-title>
+          <source>Colloid. Polym. Sci.</source>
+          <year>1990</year>
+          <volume>268</volume>
+          <fpage>132</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01513191</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M590">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ahlers</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A nucleolipid with antiviral acycloguanosine as head group &#x2013; synthesis and liposome formation</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>1985</year>
+          <volume>24</volume>
+          <fpage>501</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.198505011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M590">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>St&#xFC;renberg</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Herdewijn</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nucleolipids as potential organogelators</article-title>
+          <source>Nucleos. Nucleot. Nucleic. Acids</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <fpage>995</fpage>
+          <lpage>999</lpage>
+          <pub-id pub-id-type="doi">10.1080/15257770701508521</pub-id>
+          <pub-id pub-id-type="pmid">18058524</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M590">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>B.H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>2003</year>
+          <fpage>2912</fpage>
+          <lpage>2913</lpage>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M590">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3-amino(4-amino-7<italic>H</italic>-pyrrolo[2,3-<italic>d</italic>]pyrimidin-7-yl)propanoic acid &#x2013; a functionalized base derivative of the nucleoside antibiotic Tubercidin</article-title>
+          <source>Molbank</source>
+          <year>2007</year>
+          <elocation-id>M555</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/M555</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2009-M590">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spontaneous hydroxylation of a cyclization intermediate of allopurinol</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1985</year>
+          <volume>50</volume>
+          <fpage>1847</fpage>
+          <lpage>1852</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00211a012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2009-M590">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Zabel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Saenger</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spontane &#xD6;ffnung des Pyrimidin&#xAD;ringes in Pyrrolo[2,3-<italic>d</italic>]pyrimidinen nach intramolekularer Acylierung</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>1985</year>
+          <volume>68</volume>
+          <fpage>534</fpage>
+          <lpage>544</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.19850680226</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2009-M590">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrolytic cleavage of 6-oxopurines after intramolecular acylation at N-3</article-title>
+          <source>Heterocycles</source>
+          <year>1985</year>
+          <volume>23</volume>
+          <fpage>2669</fpage>
+          <lpage>2676</lpage>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2009-M590">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kretschmer</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclization of 7-deazaxanthine-9-propionic acid to an active-site-directed, irreversibly acting inhibitor of xanthine oxidase</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>1985</year>
+          <volume>68</volume>
+          <fpage>2165</fpage>
+          <lpage>2172</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.19850680811</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2009-M590">
+        <label>16.</label>
+		<note>
+		<p>logP Values were calculated using the program suite ChemSketch (version 11.0, provided by Advanced Chemistry Developments Inc. Toronto, Canada; <uri>http://www.acdlabs.com</uri>).</p>
+		</note>
+      </ref>
+      <ref id="B17-molbank-2009-M590">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Liman</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>ara-7-Deazaxanthosin &#x2013; ein Xanthin-Nucleosid mit stabiler N-glycosylischer Bindung</article-title>
+          <source>Liebigs. Ann. Chem.</source>
+          <year>1984</year>
+          <fpage>273</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="doi">10.1002/jlac.198419840210</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2009-M590">
+        <label>18.</label>
+		<note>
+		<p>For commercial sources of compounds <bold>1</bold> and <bold>6</bold> see: <uri>http://www.cas.org/expertise/cascontent/chemcats.html</uri>.</p>
+		</note>
+      </ref>
+      <ref id="B19-molbank-2009-M590">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosemeyer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Anders</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Seela</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Symmetrically and unsymmetrically bridged methylenebis (allopurinols): synthesis of dimeric potential anti-gout drugs</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>563</fpage>
+          <lpage>575</lpage>
+          <pub-id pub-id-type="doi">10.3390/12030563</pub-id>
+          <pub-id pub-id-type="pmid">17851411</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Table</title>
+      <fig id="molbank-2009-M590-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>3<italic>D</italic>-Optimized structure of compound <bold>3</bold> using <italic>ChemSketch,</italic> 3D viewer, version 11.0. (Advanced Chemistry Developments, Inc. Toronto, Canada; <uri>http://www.acdlabs.com</uri>)</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-g001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2009-M590-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2009-M590-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>log<italic>P</italic> values of N(9)-functionalized purines and purine isosteres.</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr style="border-top:hidden">
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i002.tif"/><break/>log<italic>P</italic> = +1.45 +/- 0.86</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i003.tif"/><break/>log<italic>P</italic> = +1.43 +/- 0.47</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i004.tif"/><break/>log<italic>P</italic> = +0.41 +/- 0.89</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i005.tif"/><break/>log<italic>P</italic> = +0.11 +/- 0.81</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i006.tif"/><break/>log<italic>P</italic> = -0.02 +/- 0.83</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i007.tif"/><break/>log<italic>P</italic> = -0.42 +/- 0.36</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i008.tif"/><break/>log<italic>P</italic> = -0.56 +/- 0.93</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i009.tif"/><break/>log<italic>P</italic> = -0.61 +/- 0.43</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i010.tif"/><break/>log<italic>P</italic> = -0.70 +/- 1.28</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i011.tif"/><break/>log<italic>P</italic> = -0.85 +/- 1.15</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i012.tif"/><break/>log<italic>P</italic> = -1.09 +/- 0.42</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i013.tif"/><break/>log<italic>P</italic> = -1.14 +/- 0.92</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i014.tif"/><break/>log<italic>P</italic> = -1.54 +/- 0.81</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i015.tif"/><break/>log<italic>P</italic> = -1.71 +/- 0.81</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i016.tif"/><break/>log<italic>P</italic> = -1.78 +/- 1.07</td>
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i017.tif"/><break/>log<italic>P</italic> = -1.77 +/- 0.54</td>
+            </tr>
+            <tr style="border-bottom:hidden">
+              <td align="center" valign="top"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M590-i018.tif"/><break/>log<italic>P</italic> = -2.27 +/- 0.44</td>
+              <td align="center" valign="top"> </td>
+              <td align="center" valign="top">  </td>
+              <td align="center" valign="top"> </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

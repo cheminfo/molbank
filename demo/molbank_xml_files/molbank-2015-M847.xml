@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M847</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M847</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>,<italic>N</italic>-Bis(3&#x3B2;-acetoxypregn-5(6)-en-20-on-16&#x3B1;-yl)hydroxylamine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Skoda-F&#xF6;ldes</surname>
+            <given-names>Rita</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M847">Department of Organic Chemistry, University of Pannonia, Egyetem u. 10, 8200 Veszpr&#xE9;m, Hungary; E-Mail: <email>skodane@almos.uni-pannon.hu</email>; Tel.: +36-88-624719; Fax: +36-88-624469</aff>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>1</issue>
+      <elocation-id>M847</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>01</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>03</day>
+          <month>03</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A steroid with the dimeric structure, <italic>N</italic>,<italic>N</italic>-bis(3&#x3B2;-acetoxypregn-5(6)-en-20-on-16&#x3B1;-yl)hydroxylamine was synthesized in the base catalyzed reaction of 3&#x3B2;-acetoxypregn-5,16-dien-20-one with <italic>O</italic>-(trimethylsilyl)hydroxylamine. The structure of the product was determined by NMR (including 2D techniques), FAB MS, IR spectroscopy and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>steroid dimer</kwd>
+        <kwd>pregnenolone</kwd>
+        <kwd>nucleophilic addition</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>In nature steroid dimers are synthesized by some marine organisms, but, due to their interesting pharmacological properties, various routes to synthetic derivatives have also been developed [<xref ref-type="bibr" rid="B1-molbank-2015-M847">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M847">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M847">3</xref>].</p>
+      <p>Among natural steroid dimers, cephalostatines and ritterazines have significant antitumor activity [<xref ref-type="bibr" rid="B4-molbank-2015-M847">4</xref>]. Synthetic steroid dimers may have micellar [<xref ref-type="bibr" rid="B5-molbank-2015-M847">5</xref>], detergent or liquid crystal properties or can be used as catalysts in some organic reactions [<xref ref-type="bibr" rid="B6-molbank-2015-M847">6</xref>]. They can also be applied in drug delivery [<xref ref-type="bibr" rid="B3-molbank-2015-M847">3</xref>] or in supramolecular chemistry [<xref ref-type="bibr" rid="B7-molbank-2015-M847">7</xref>]. The biological activity of some dimeric steroid esters showed considerable prolongation of hormonal effects compared to the respective monomer [<xref ref-type="bibr" rid="B8-molbank-2015-M847">8</xref>]. Other derivatives were found to show appreciable cytotoxicity [<xref ref-type="bibr" rid="B9-molbank-2015-M847">9</xref>].</p>
+      <p>Pregnenolone (3&#x3B2;-hydroxypregn-5-en-20-one) is involved in several pathophysiological events, such as response to stress, depression, anxiety, sleep, epilepsy, and memory formation [<xref ref-type="bibr" rid="B10-molbank-2015-M847">10</xref>]. Its metabolite, pregnenolone sulfate modulates a variety of ion channels, transporters, and enzymes [<xref ref-type="bibr" rid="B11-molbank-2015-M847">11</xref>].</p>
+      <p>Consequently, among new steroid dimers, a number of pregnenolone derivatives were synthesized for pharmacological screening [<xref ref-type="bibr" rid="B12-molbank-2015-M847">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M847">13</xref>].</p>
+      <p>During our research concerning the synthesis of new steroid derivatives, we have found that the dimeric derivative <italic>N</italic>,<italic>N</italic>-bis(3&#x3B2;-acetoxypregn-5(6)-en-20-on-16&#x3B1;-yl)hydroxylamine (<bold>3</bold>, <xref ref-type="scheme" rid="molbank-2015-M847-sch001">Scheme 1</xref>) could be obtained in the base catalyzed reaction of 3&#x3B2;-acetoxypregn-5,16-dien-20-one (<bold>1</bold>) with <italic>O</italic>-(trimethylsilyl)hydroxylamine (<bold>2</bold>).</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Upon reacting 3&#x3B2;-acetoxypregn-5,16-dien-20-one (<bold>1</bold>, <xref ref-type="scheme" rid="molbank-2015-M847-sch001">Scheme 1</xref>) with <italic>O</italic>-(trimethylsilyl)hydroxylamine (<bold>2</bold>) in the presence of sodium acetate in refluxing methanol, a white precipitate was formed. Spectroscopic analysis of this material did not support the formation of the expected oxime derivative (<bold>4</bold>), so a detailed study including <sup>1</sup>H and <sup>13</sup>C-NMR measurements together with 2D experiments (COSY, HSQC, HMBC, ROESY), as well as IR spectroscopy, FAB MS and elemental analysis, was carried out to elucidate the structure of the product.</p>
+      <p>The FAB MS with an [M+H]<sup>+</sup> signal of <italic>m/z</italic> = 746 strongly supported the formation of a dimeric derivative. The presence of only two singlets of angular methyl groups in the <sup>1</sup>H-NMR at 0.99 ppm and 0.63 ppm suggested a symmetric structure.</p>
+      <p>In the <sup>1</sup>H-NMR spectrum, beside the peaks at 5.35 ppm (6-H) and 4.58 ppm (3-H) that correspond well to the chemical shifts of the same protons of the starting material, the appearance of a multiplet at 3.96 ppm and a doublet at 2.77 ppm could be observed. These peaks, that were proved to be coupled nuclei based on the COSY experiment (<xref ref-type="fig" rid="molbank-2015-M847-f001">Figure 1</xref>), together with the lack of the signal of an olefinic proton around 6 ppm, support an addition reaction on the &#x394;<sup>16</sup> double bond of the steroidal substrate <bold>1</bold>.</p>
+      <p>The COSY experiment showed that in accordance with the splitting pattern of the peak at 2.77 ppm, this proton had only one coupling partner at 3.96 ppm, while the latter signal gave crosspeaks with methylene protons with chemical shifts of 1.32 ppm and 1.85 ppm. These observations helped to assign the four protons as follows: 17-H at 2.77 ppm, 16-H at 3.96 ppm, 15-H<sub>2</sub> at 1.32 ppm and 1.85 ppm. From the HSQC experiment, the signals of the corresponding carbon atoms could also be deduced (C17: 68.0 ppm, C16: 65.8 ppm, C15: 36.7 ppm).</p>
+      <p>In the HMBC spectrum, the olefinic carbon C5 (at 139.3 ppm) gave a crosspeak with the methyl singlet at 0.99 ppm (<xref ref-type="fig" rid="molbank-2015-M847-f002">Figure 2</xref>), so the latter could be assigned as 19-H<sub>3</sub>. From this information, chemical shifts of C19 (19.0 ppm), 1-CH<sub>2</sub> (1-H<sub>2</sub>: 1.10 ppm and 1.80 ppm, C1:36.4 ppm) and 9-CH (9-H: 1.00 ppm, C9: 49.5 ppm) could be determined with the help of HSQC and HMBC experiments.</p>
+      <p>According to the HSQC spectrum, the proton giving the multiplet at 5.35 ppm is bonded to the carbon with the signal of 122.1 ppm, so these peaks could be attributed to 6-CH. Based on the COSY results, 6-H is coupled to two methylene groups with chemical shifts of 1.62 ppm, 2.00 ppm and 2.30 ppm (the latter with two protons of identical chemical shift). The latter signal could be assigned to 4-H<sub>2</sub> based on its crosspeak with 3-H at 4.58 ppm. As a consequence, the former two peaks belonged to 7-H<sub>2</sub>. Other coupling partners of 3-H were found at 1.50 and 1.85 ppm, so these could be defined as 2-H<sub>2</sub>. The corresponding carbon signals are as follows: C7 at 31.4 ppm, C4 at 37.8 ppm, C3 at 73.6 ppm and C2 at 22.5 ppm.</p>
+      <p>Starting from the other methyl singlet at 0.63 ppm (18-H<sub>3</sub>), chemical shifts of C18 (14.1 ppm), C14 (55.0 ppm), C13 (44.0 ppm), C12 (38.4 ppm), 14-H (1.32 ppm) and 12-H<sub>2</sub> (1.50 ppm and 1.90 ppm) could be determined using the HSQC and HMBC spectra.</p>
+      <p>The two methyl singlets at 2.12 ppm and 2.01 ppm are the signals of 21-H<sub>3</sub> and protons of the acetoxy group on C3. These assignments were based on their crosspeaks with carbon signals at 208.1 ppm (carbonyl carbon) and 170.3 ppm (ester CO), respectively, in the HMBC spectrum.</p>
+      <p>The stereochemistry of C17 and C16 was determined with the help of a ROESY experiment showing the proximity of 18-H<sub>3</sub> and 16-H. This observation proved the &#x3B2; disposition of 16-H, while the lack of a signal between either 16-H and 17-H or 18-H<sub>3</sub> and 17-H supported the &#x3B1; disposition of 17-H.</p>
+      <p>The lack of a signal corresponding to SiMe<sub>3</sub> in the <sup>1</sup>H-NMR and the appearance of the broad band of OH stretching around 3500 cm<sup>&#x2212;1</sup> in the IR spectrum supported the hydrolysis of the trimethylsilyl group. </p>
+      <p>It should be mentioned however, that the reactions of steroid <bold>1</bold> with hydroxylamine or O-methylhydroxylamine led to the corresponding oximes under the same conditions. The first observation supports the assumption that cleavage of the trimethylsilyl group takes place after the nucleophilic addition of the amino group on the &#x394;<sup>16</sup> double bond of the steroidal substrate. It is probable that the great electron donating ability of SiMe<sub>3</sub> makes the nitrogen of compound <bold>2</bold> nucleophilic enough to attack the electron deficient &#x394;<sup>16</sup> bond of steroid <bold>1</bold>.</p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <p><italic>General</italic> &#x2013; <sup>1</sup>H and <sup>13</sup>C-NMR spectra were recorded in CDCl<sub>3</sub> on a Varian Inova 400 spectrometer at 400 MHz and 100.5 MHz, respectively (Palo Alto, CA, USA). Chemical shifts are reported in ppm relative to CHCl<sub>3</sub> (7.26 and 77.00 ppm for <sup>1</sup>H and <sup>13</sup>C, respectively). FAB-MS analysis was carried out on a Finnigan MAT 95SQ spectrometer in 3-nitrobenzyl-alcohol matrix (Bremen, Germany). IR spectrum was made using a Thermo Nicolet Avatar 330 FT-IR instrument (Madison, WI, USA). The sample was prepared as a KBr pellet. Elemental analysis was performed on a Carlo Erba EA 1008 instrument (Milan, Italy). </p>
+      <p><italic>Synthesis of dimer <bold>3</bold></italic> &#x2013; 1 mmol steroid <bold>1</bold> (356 mg) and 1.5 mmol <italic>O</italic>-(trimethylsilyl)hydroxylamine (<bold>2</bold>) (157.5 mg) was reacted in the presence of 2 mmol NaOAc (164 mg) in 10 mL refluxing methanol for 2 h. During the reaction a white precipitate was formed. After cooling the reaction mixture to room temperature, the precipitate was filtered, washed with 2 &#xD7; 2 mL methanol and dried in vacuum to produce dimer <bold>3</bold> in 47% yield.</p>
+      <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 5.35 (m, 2H, 6-H, 6&#x2019;-H), 4.58 (m, 2H, 3-H, 3&#x2019;-H), 3.96 (m, 2H, 16-H, 16&#x2019;-H), 2.77 (d, <italic>J</italic> = 8 Hz, 2H, 17-H, 17&#x2019;-H), 2.30 (m, 4H, 4-H<sub>2</sub>, 4&#x2019;-H<sub>2</sub>); 2.12 (s, 6H, 21-H<sub>3</sub>, 21&#x2019;-H<sub>3</sub>); 2.01 (s, 6H, CH<sub>3</sub>COO-); 1.00&#x2013;2.00 (m, 31 H, ring protons, OH), 0.99 (s, 6H, 19-H<sub>3</sub>, 19&#x2019;-H<sub>3</sub>), 0.63 (s, 6H, 18-H<sub>3</sub>, 18&#x2019;-H<sub>3</sub>) ppm. <sup>13</sup>C-NMR (100.5 MHz, CDCl<sub>3</sub>): &#x3B4; = 208.1 (C20, C20&#x2019;), 170.3 (CH<sub>3</sub><underline>C</underline>OO-C3, CH<sub>3</sub><underline>C</underline>OO-C3&#x2019;), 139.3 (C5, C5&#x2019;), 122.1 (C6, C6&#x2019;), 73.6 (C3, C3&#x2019;), 68.0 (C17, C17&#x2019;), 65.8 (C16, C16&#x2019;), 55.0 (C14, C14&#x2019;), 49.5 (C9, C9&#x2019;), 44.0 (C13, C13&#x2019;), 38.4 (C12, C12&#x2019;), 37.8 (C4, C4&#x2019;), 36.7 (C15, C15&#x2019;), 36.5 (C10, C10&#x2019;), 36.4 (C1, C1&#x2019;), 31.8 (C21, C21&#x2019;), 31.5 (C8, C8&#x2019;), 31.4 (C7, C7&#x2019;), 27.5 (C2, C2&#x2019;), 21.2 (<underline>C</underline>H<sub>3</sub>COO-C3, <underline>C</underline>H<sub>3</sub>COO-C3&#x2019;), 20.5 (C11, C11&#x2019;), 19.0 (C19, C19&#x2019;), 14.1 (C18, C18&#x2019;) ppm. IR (KBr): <italic>&#x3BD;</italic> = 3480, 1730, 1705, 1440, 1380, 1250, 1040 cm<sup>&#x2212;</sup><sup>1</sup>. FAB-MS <italic>m/z</italic>: 746 (M+H)<sup>+</sup>. Anal. calcd. for C<sub>46</sub>H<sub>67</sub>NO<sub>7</sub>: C, 74.06; H, 9.05; N, 1.88; found C, 73.88; H, 9.09; N, 1.91.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M847">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M847-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M847-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M847-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The author thanks for the support of the Hungarian National Science Foundation (OTKA K105632). The help of G&#xE1;bor Czira in FAB MS measurements is kindly acknowledged.</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The author declares no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M847">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Dias</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dimeric and oligomeric steroids</article-title>
+          <source>Chem. Rev.</source>
+          <year>1997</year>
+          <volume>97</volume>
+          <fpage>283</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr9600565</pub-id>
+          <pub-id pub-id-type="pmid">11848870</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M847">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nahar</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sarker</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>A.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>A review on synthetic and natural steroid dimers: 1997&#x2013;2006</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2007</year>
+          <volume>14</volume>
+          <fpage>1349</fpage>
+          <lpage>1370</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986707780597880</pub-id>
+          <pub-id pub-id-type="pmid">17504217</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M847">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nahar</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sarker</surname>
+              <given-names>S.D.</given-names>
+            </name>
+          </person-group>
+          <source>Steroid Dimers: Chemistry and Applications in Drug Delivery</source>
+          <publisher-name>John Wiley&amp;Sons</publisher-name>
+          <publisher-loc>Chichester, UK</publisher-loc>
+          <year>2012</year>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M847">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ganesan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The dimeric steroid&#x2013;pyrazine marine alkaloids: challenges for isolation, synthesis, and biological studies</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1996</year>
+          <volume>35</volume>
+          <fpage>611</fpage>
+          <lpage>615</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199606111</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M847">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ju</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 1,2,3-triazole-containing bile acid dimers and properties of inverse micellar mimic</article-title>
+          <source>Chem. Lett.</source>
+          <year>2007</year>
+          <volume>36</volume>
+          <fpage>1450</fpage>
+          <lpage>1451</lpage>
+          <pub-id pub-id-type="doi">10.1246/cl.2007.1450</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M847">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guthrie</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Cossar</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Darson</surname>
+              <given-names>B.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A water soluble dimeric steroid with catalytic properties. Rate enhancements from hydrophobic binding</article-title>
+          <source>Can. J. Chem.</source>
+          <year>1986</year>
+          <volume>64</volume>
+          <fpage>2456</fpage>
+          <lpage>2469</lpage>
+          <pub-id pub-id-type="doi">10.1139/v86-406</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M847">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davis</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bile acid scaffolds in supramolecular chemistry: The interplay of design and synthesis</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>2106</fpage>
+          <lpage>2122</lpage>
+          <pub-id pub-id-type="doi">10.3390/12082106</pub-id>
+          <pub-id pub-id-type="pmid">17962729</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M847">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuhl</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Taubert</surname>
+              <given-names>H.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new class of long-acting hormonal steroid preparation: Synthesis of dimeric ethynodiol and nortestosterone, of dimeric and trimeric androgens and of some dimeric combinations of steroids</article-title>
+          <source>Steroids</source>
+          <year>1974</year>
+          <volume>24</volume>
+          <fpage>613</fpage>
+          <lpage>626</lpage>
+          <pub-id pub-id-type="doi">10.1016/0039-128X(74)90015-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M847">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krsti&#x107;</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Mati&#x107;</surname>
+              <given-names>I.Z.</given-names>
+            </name>
+            <name>
+              <surname>Jurani&#x107;</surname>
+              <given-names>Z.D.</given-names>
+            </name>
+            <name>
+              <surname>Novakovi&#x107;</surname>
+              <given-names>I.T.</given-names>
+            </name>
+            <name>
+              <surname>Sladi&#x107;</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Steroid dimers&#x2014;<italic>In vitro</italic> cytotoxic and antimicrobial activities</article-title>
+          <source>J. Ster. Biochem. Mol. Biol.</source>
+          <year>2014</year>
+          <volume>143</volume>
+          <fpage>365</fpage>
+          <lpage>375</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jsbmb.2014.06.005</pub-id>
+          <pub-id pub-id-type="pmid">24923733</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M847">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rupprecht</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Holsboer</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Neuroactive steroids: Mechanisms of action and neuropsychopharmacological perspectives</article-title>
+          <source>Trends. Neurosci.</source>
+          <year>1999</year>
+          <volume>22</volume>
+          <fpage>410</fpage>
+          <lpage>416</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0166-2236(99)01399-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M847">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harteneck</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pregnenolone sulfate: From steroid metabolite to Trp channel ligand</article-title>
+          <source>Molecules</source>
+          <year>2013</year>
+          <volume>18</volume>
+          <fpage>12012</fpage>
+          <lpage>12028</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules181012012</pub-id>
+          <pub-id pub-id-type="pmid">24084011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M847">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Figueroa Valverde</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>D&#xED;az Cedillo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tolosa</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Maldonado</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ceballos Reyes</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of pregnenolone-pregnenolone dimer via ring A-ring A connection</article-title>
+          <source>J. Mex. Chem. Soc.</source>
+          <year>2006</year>
+          <volume>50</volume>
+          <fpage>42</fpage>
+          <lpage>45</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M847">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nahar</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sarker</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>A.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient synthesis of new pregnenolone oximinyl oxalate dimers</article-title>
+          <source>Chem. Nat. Comp.</source>
+          <year>2008</year>
+          <volume>44</volume>
+          <fpage>315</fpage>
+          <lpage>318</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10600-008-9051-x</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Scheme</title>
+      <fig id="molbank-2015-M847-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M847-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>N,N</italic>-<italic>bis</italic>(3&#x3B2;-acetoxypregn-5(6)-en-20-on-16&#x3B1;-yl)hydroxylamine (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M847-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Coupled <sup>1</sup>H nuclei of <bold>3</bold> observed in the COSY experiment.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-g001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M847-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Some HMBC correlations of dimer <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M847-g002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

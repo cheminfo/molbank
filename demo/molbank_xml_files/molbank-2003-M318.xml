@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M318</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M318</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(&#xB1;)-1-(4-Hydroxy-3-methoxyphenyl)-4-methyl-3-pentanol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Plourde</surname>
+            <given-names>Guy L.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M318">University of Northern British Columbia, Department of Chemistry, 3333 University Way, Prince George, British Columbia, Canada, V2N 4Z9; Tel: 250-960-6694, Fax: 250-960-5545, E-mail: <underline><email>plourde@unbc.ca</email></underline></aff>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>04</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>05</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>2</issue>
+      <elocation-id>M318</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>07</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>10</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+     </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M318-i001.tif"/></p>
+      <p>The discussion and purpose for the synthesis of this compound has been reported elsewhere [<xref ref-type="bibr" rid="B1-molbank-2003-M318">1</xref>]. To a cold (0&#xB0;C) solution of 1-(4-hydroxy-3-methoxyphenyl)-4-methyl-3-pentanone (190 mg, 0.86 mmol) in EtOH (15 mL) was added sodium borohydride (40 mg, 1.1 mmol, 1.3 eq). The solution was stirred at 0&#xB0;C for 30 min., then at room temperature for 1 h. 10% HCl (10 mL) was added and the solution was stirred at room temperature for 2 h. The solution was concentrated in vacuo and the aqueous residue was extracted with dichloromethane (3 x 10 mL). The organic fractions were combined, dried (MgSO<sub>4</sub>) and the solvent was evaporated in vacuo. Chromatography on silica gel (40% EtOAc / hexanes) afforded a white solid (172 mg, 90%).</p>
+      <p>mp: 55-56&#xB0;C.</p>
+      <p>IR (KBr) cm<sup>-1</sup>: 3397 (OH).</p>
+      <p><sup>1</sup>H-NMR (CDCl<sub>3</sub>) d: 0.92 (d, 6H, J=7.8 Hz, CH<sub>3</sub>), 1.69 (m, 3H, H-2 and H-4), 2.59 (m, 1H, H-1a), 2.78 (m, 1H, H-1b), 3.40 (broad m, 1H, H-3), 3.88 (s, 3H, OCH<sub>3</sub>), 5.47 (s, 1H, exchangeable with D<sub>2</sub>O, OH), 6.72 (m, 2H, ArH-2 and ArH-6), 6.84 (d, 1H, J=8.7 Hz, ArH-5).</p>
+      <p><sup>13</sup>C-NMR (CDCl<sub>3</sub>) d: 17.4 (C-5a), 19.0 (C-5b), 32.4 (C-1), 33.9 (C-4), 36.4 (C-2), 56.1 (OCH<sub>3</sub>), 76.4 (C-3), 111.2 (ArC-2), 114.5 (ArC-5), 121.1 (ArC-6), 134.5 (ArC-1), 143.8 (ArC-4), 146.6 (ArC-3).</p>
+      <p>MS m/e (rel %): 224 [M+] (83), 163 (44), 138 (62), 137 (100), 134 (44).</p>
+      <p>Anal. calc. for C<sub>13</sub>H<sub>20</sub>O<sub>3</sub>: C 69.60, H 8.99; found: C 69.55, H 8.78.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2003-M318">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M318-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M318-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2003-M318-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M318-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+	</app-group>
+	<ack>
+      <title>Acknowlegment</title>
+      <p>The author is thankful for the financial support provided by the University of Northern British Columbia.</p>
+    </ack> 
+	<ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2003-M318">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plourde</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Letters</source>
+          <year>2002</year>
+          <volume>43</volume>
+          <fpage>3597</fpage>
+          <lpage>3599</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

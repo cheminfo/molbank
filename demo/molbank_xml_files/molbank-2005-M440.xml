@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M440</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M440</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6,10,14,18-Tetramethyl-1,5,10,14,19,20-hexaaza-tricyclo[14.2.1.1<sup>5,8</sup>]eicosa-6,8(20),16(19),17-tetraene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touzani</surname>
+            <given-names>Rachid</given-names>
+          </name>
+          <xref rid="af1-molbank-2005-M440" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramdani</surname>
+            <given-names>Abdelkrim</given-names>
+          </name>
+          <xref rid="af1-molbank-2005-M440" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>El Kadiri</surname>
+            <given-names>et Sghir</given-names>
+          </name>
+          <xref rid="af2-molbank-2005-M440" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2005-M440" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M440"><label>1)</label>Laboratoire de Chimie Organique-Physique,</aff>
+      <aff id="af2-molbank-2005-M440"><label>2)</label>Laboratoire de Chimie de l`Environnement et des Mat&#xE9;riaux,</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2005-M440"><label>*</label>D&#xE9;partement de Chimie, Facult&#xE9; Des Sciences, Universit&#xE9; Mohamed Premier, 60000 Oujda, Maroc, e-mail: <email>elkadiri@sciences.univ-oujda.ac.ma</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>4</issue>
+      <elocation-id>M440</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>06</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>07</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>macrocyclic compounds</kwd>
+        <kwd>macrocyclic cavity</kwd>
+		<kwd>pyrazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Macrocyclic chemistry is one of the fastest growing fields in chemistry. Studies of molecular recognition, transport biological aspets, selective catalysis the macrocycle containing the mixed sites of coordination, complexing with Ru (II) gives catalytic properties of SOD type and catalase [<xref ref-type="bibr" rid="B1-molbank-2005-M440">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M440">2</xref>], inclusion phenomena, organic synthesis and industrial applications of macrocyclic compounds are all burgeoning in many directions. In this work we describe the synthesis of new macrocyclic ligand containing pyrazol and aminic coordination sites.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M440-i001.tif"/></p>
+      <p>A suspension of sodium carbonate (12 g, 120 mmol) in acetonitrile (250 mL) was refluxed under magnetic stirring, then a solution of 1,3-bis (3-chloromethyl-5-methylpyrazolyl)propane <bold>1</bold> (2.1 g, 7 mmol) [<xref ref-type="bibr" rid="B1-molbank-2005-M440">1</xref>, <xref ref-type="bibr" rid="B2-molbank-2005-M440">2</xref>] and <italic>N,N'</italic>-dimethyl-propane-1,3-diamine <bold>2</bold> (0.71 g , 7 mmol) in acetonitrile (50 mL) was added dropwise. The solution was refluxed under stirring for two hours, filtered and the solvent was removed in vacuum, the residue was purified on alumina column with (CH<sub>2</sub>Cl<sub>2</sub>/MeOH: 95/5) as eluant to give 1.62 g (yield 70 %) macrocycle <bold>3</bold> as an oily substance.</p>
+      <p><sup>1</sup>H-NMR (250MHz, CDCl<sub>3</sub>): &#x3B4;= 5.90 (s, 2H, H-4); 4.00 (t, 4H, H-6); 3.59 (s, 4H, H-3); 2.52 (t, 4H, H-2); 2.39 (s, 6H, H-1'); 2.26 (d, 6H, H-5); 2.26 (t, 2H, H-7); 1.70 (m, 2H, H-1).</p>
+      <p>MS-FAB (m/z): 331 [M+H]<sup>+</sup>.</p>
+	  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2005-M440">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M440-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M440-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M440-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M440-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+       </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M440">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tarrago</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>El Kadiri</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marzin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Coquelet</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <source>New .J. Chem.</source>
+          <year>1991</year>
+          <volume>15</volume>
+          <fpage>677</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M440">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bienvenue</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Choua</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Lobo-Recio</surname>
+              <given-names>M-HAS.</given-names>
+            </name>
+            <name>
+              <surname>Marzin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pacheco</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Seta</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tarrago</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Inorg. Biochem.</source>
+          <year>1995</year>
+          <volume>57</volume>
+          <fpage>157</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group> 
+  </back>
+</article>

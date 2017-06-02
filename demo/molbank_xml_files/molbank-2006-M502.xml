@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M502</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M502</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-[(Phenylsulfonyl)methyl]aniline hydrochloride</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grohmann</surname>
+            <given-names>Daniel G.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hathaway</surname>
+            <given-names>Bruce A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M502" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M502">Department of Chemistry, MS 6400, One University Plaza, Southeast Missouri State University, Cape Girardeau, MO, USA, Tel. 001 573-651-2370, e-mail: <email>bahathaway@semo.edu</email></aff>
+	   <author-notes>
+        <corresp id="c1-molbank-2006-M502"><label>*</label>Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>5</issue>
+      <elocation-id>M502</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>07</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>08</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+      </permissions>
+      <kwd-group>
+        <kwd>nitro</kwd>
+		<kwd>amine</kwd>
+		<kwd>reduction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+     <p>In the course of our work to prepare inhibitors of the enzyme dihydrofolate reductase, we desired to prepare sulfone analogues of some previously reported sulfides [<xref ref-type="bibr" rid="B1-molbank-2006-M502">1</xref>, <xref ref-type="bibr" rid="B2-molbank-2006-M502">2</xref>]. The previously reported  nitrosulfone [<xref ref-type="bibr" rid="B3-molbank-2006-M502">3</xref>] was not able to be reduced to the amine by using catalytic hydrogenation with a palladium on carbon catalyst, with tin and hydrochloric acid [<xref ref-type="bibr" rid="B4-molbank-2006-M502">4</xref>], or with iron and acetic acid in ethanol [<xref ref-type="bibr" rid="B5-molbank-2006-M502">5</xref>]. Therefore, the nitrosulfone, <bold>1</bold>, was converted into the acetamide, <bold>2</bold>, using iron in acetic acid [<xref ref-type="bibr" rid="B5-molbank-2006-M502">5</xref>]. The acetamide, <bold>2</bold>, was hydrolyzed to the desired aniline, <bold>3</bold>, using concentrated hydrochloric acid and ethanol. Unfortunately for us, the aniline was not able to be converted into the desired triazine by the reported procedure [<xref ref-type="bibr" rid="B2-molbank-2006-M502">2</xref>].</p>
+	   <p><disp-formula>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M502-i001.tif"/>
+</disp-formula></p>
+      <p>In round bottom flask 1-nitro-3-[(phenylsulfonyl)methyl]benzene, <bold>1</bold> (2.453 g, 8.85 mmoles), iron filings (2.019 g, 36.2 mmoles), and 25 mL of concentrated acetic acid were combined and refluxed overnight. After allowing the flask to cool, 200 mL of water and 100 mL of dichloromethane were added to the mixture. The unreacted iron was then removed by vacuum filtration. The aqueous and organic layers were separated, and the aqueous layer was extracted two more times with 45 mL portions of dichloromethane. The organic extracts were combined and dried with anhydrous magnesium sulfate. The dichloromethane was removed by using the rotavap. A yellow, viscous liquid was collected. After this liquid was allowed to stand for a couple of days, it solidified forming a tan solid, to yield 2.438 g (8.43 mmoles) of 3-[(phenylsulfonyl)methyl]acetanilide, <bold>2</bold>. The percent yield for the reaction was 96%.</p>
+      <p>Melting Point: 121-123<sup>o</sup>C</p>
+      <p>IR (cm<sup>-1</sup>): 3280, 1661, 1593, 1300, 1161, 1152, 1083, 798, 777, 765, 698, 687.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 10.0 (1H, singlet), 7.7 (3H, multiplet), 7.6 (3H, multiplet), 7.5 (1H, singlet), 7.2 (1H, triplet, J = 7.7 Hz), 6.7 (1H, doublet, J = 7.7 Hz), 4.6 (2H, singlet), 2.0 (3H, singlet).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 168.3, 139.3, 138.4, 133.7, 129.1, 128.9, 128.4, 127.9, 125.6, 121.3, 118.9, 60.7, 23.9.</p>
+      <p>GC-MS [E.I., m/z (relative intensity)]: 148 (100), 106 (60), 77 (20), 77(16), 289 (M<sup>+</sup>, 14).</p>
+      <p>In a round bottom flask 3-[(phenylsulfonyl)methyl)acetanilide, <bold>2</bold> (1.003 g, 3.47 mmoles), 5 mL of 95% ethanol, and 6 mL of concentrated hydrochloric acid were combined and refluxed for 24 hours. The amide dissolved in the hot ethanol forming a yellow solution. After about 1 hour, a precipitate began to form. The reaction mixture was allowed to cool, and the precipitate was collected by vacuum filtration. The precipitate was washed with three portions of cold 95% ethanol to yield 0.893 g (3.15 mmoles) of 3-[(phenylsulfonyl)methyl]aniline hydrochloride, <bold>3</bold>, was collected. The percent yield of the reaction was 91%.</p>
+      <p>Melting Point: 260 <sup>o</sup>C (decomposed)</p>
+      <p>IR (cm<sup>-1</sup>): 2879 (br), 1536, 1311, 1294, 1134, 1083, 765, 751, 720, 682.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 10.2 (3H, broad singlet), 7.7 (3H, multiplet), 7.6 (2H, multiplet), 7.3 (2H, multiplet), 7.2 (1H, singlet), 7.0 (1H, doublet, J = 7.1 Hz), 4.8 (2H, singlet).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-d<sub>6</sub>): &#x3B4;= 138.3, 133.9, 132.9, 130.3, 129.9, 129.5, 129.2, 127.9, 124.8, 122.7, 59.9.</p>
+      <p>GC-MS [E.I., m/z (relative intensity), free base]: 106 (100), 77 (26), 247 (M<sup>+</sup>, 18), 79 (16), 183 (12).</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2006-M502">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2006-M502-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M502-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M502-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M502-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgment</title>
+      <p>The authors thank the Grants and Research Funding Committee of Southeast Missouri State University for financial support.</p>
+    </ack>
+    <ref-list>
+      <title>References:</title>
+      <ref id="B1-molbank-2006-M502">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Selassie</surname>
+              <given-names>C. D.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.-r.</given-names>
+            </name>
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Khwaja</surname>
+              <given-names>T. A.</given-names>
+            </name>
+            <name>
+              <surname>Pentacost</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Comparison of the Inhibition of Growth of Methotrexate-Resistant and -Sensitive Leukemia Cells in Culture by Triazines. Evidence of a New Mechanism of Cell Resistance to Methotrexate</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1982</year>
+          <volume>25</volume>
+          <fpage>157</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00344a013</pub-id>
+          <pub-id pub-id-type="pmid">7057421</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M502">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hansch</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hathaway</surname>
+              <given-names>B. A.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.-r.</given-names>
+            </name>
+            <name>
+              <surname>Selassie</surname>
+              <given-names>C. D.</given-names>
+            </name>
+            <name>
+              <surname>Dietrich</surname>
+              <given-names>S. W.</given-names>
+            </name>
+            <name>
+              <surname>Blaney</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Langridge</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Volz</surname>
+              <given-names>K. W.</given-names>
+            </name>
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>B. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystallography, QSAR, and Molecular Graphics in a Comparative Analysis of the Inhibition of Dihydrofolate Reductase from Chicken Liver and <underline>L. casei</underline> by 4,6-Diamino-1,2-dihydro-2,2-dimethyl-1-(x-phenyl)-s-triazines</article-title>
+          <source>J. Med. Chem.</source>
+          <year>1984</year>
+          <volume>27</volume>
+          <fpage>129</fpage>
+          <lpage>143</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm00368a006</pub-id>
+          <pub-id pub-id-type="pmid">6420569</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M502">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grohmann</surname>
+              <given-names>D. G</given-names>
+            </name>
+            <name>
+              <surname>Hathaway</surname>
+              <given-names>B. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>1-Nitro-3-[(phenylsulfonyl)methyl]benzene</article-title>
+          <source>Molecules</source>
+          <year>2006</year>
+          <volume>Mxxx</volume>
+          <pub-id pub-id-type="doi">10.3390/M500</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2006-M502">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Selective Reduction of Meta-(and Para-) Nitroacetophenone</article-title>
+          <source>J. Chem. Ed.</source>
+          <year>1975</year>
+          <volume>10</volume>
+          <fpage>668</fpage>
+          <lpage>669</lpage>
+          <pub-id pub-id-type="doi">10.1021/ed052p668</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2006-M502">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Owsley</surname>
+              <given-names>D. C.</given-names>
+            </name>
+            <name>
+              <surname>Bloomfield</surname>
+              <given-names>J. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Reduction of Nitroarenes with Iron/Acetic Acid</article-title>
+          <source>Synthesis.</source>
+          <year>1977</year>
+          <fpage>118</fpage>
+          <lpage>120</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1977-24290</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

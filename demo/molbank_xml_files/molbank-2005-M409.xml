@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M409</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M409</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-Methyl-<italic>N</italic>-(2,2,4,4-tetrachloro-5-methyl-3-oxo-8-oxabicyclo[3.2.1.]oct-6-en-1-ylmethyl)-benzenesulfonamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meining</surname>
+            <given-names>Holger</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name>
+		  <xref rid="c1-molbank-2005-M409" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M409">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany Fax: (+ 49) 711/6854269; e-mail: <underline><email>baldur.foehlisch@oc.uni-stuttgart.de</email></underline></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2005-M409"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>2</issue>
+      <elocation-id>M409</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 <underline>MDPI</underline>.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>cycloaddition</kwd>
+		<kwd>ketones</kwd>
+		<kwd>sulfonamides</kwd>
+		<kwd>heterocycles</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <p><disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M409-i001.tif"/></disp-formula></p>
+      <p>A mixture of <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2005-M409">1</xref>] (2.65 g, 10 mmol) and pentachloroacetone [<xref ref-type="bibr" rid="B2-molbank-2005-M409">2</xref>] (3.23 g, 14 mmol) was cooled in an ice bath. With magnetic stirring, a 2-molar solution of sodium 2,2,2-trifluoroethoxide in 2,2,2-trifluoroethanol [<xref ref-type="bibr" rid="B3-molbank-2005-M409">3</xref>] (7 mL, 14 mmol) was added dropwise, over 15 min. Stirring was continued for 15 min at 0 &#xB0;C and then at room temperature for 2&#x2013;3 hours[<xref ref-type="bibr" rid="B4-molbank-2005-M409">4</xref>]. The mixture was allowed to stir for a further 2 hours.</p>
+      <p>The heterogeneous mixture was poured on saturated brine (20 mL). The precipitate was dissolved by adding a little of dichloromethane and water, and the organic layer was separated. The aqueous layer was acidified with hydrochlorid acid to pH 4&#x2013;5 and then extracted with dichloromethane (4 &#xD7; 20 mL). The combined dichloromethane solutions were washed with satured brine (20 mL) and dried overnight with magnesium sulfate. After filtration, the solution was concentrated in a rotary evaporator. The remaining yellow mass was recrystallized from dry ethanol (60 mL) to yield 4.01 g (87%) of <bold>2</bold> as a colourless crystalline solid.</p>
+      <p>Melting Point: 177&#x2013;178 &#xB0;C.</p>
+      <p>TLC (silica, hexane/<italic>tert</italic>-butylmethyl ether (1:1 v/v): A light-blue spot emerged after spraying the sheet with vanillin/sulfuric acid reagent followed by heating with a hot-air gun; <italic>R</italic><sub>f</sub> = 0.31. The starting material (<bold>1</bold>) showed a red-brown spot at <italic>R</italic><sub>f</sub> = 0.38.</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl<sub>3</sub>): &#x3B4;= 1.75 (s, 3 H, 5-CH<sub>3</sub>); 2.45 (s, 3 H, C<italic>H</italic><sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); ABX sub-spectrum (8 AB-lines, X part as a broad m) with &#x3B4; <sub>A</sub> = 3.89, &#x3B4; <sub>B</sub> = 3.58, &#x3B4; <sub>X</sub> = 4.88, <italic>J</italic><sub>AB</sub> = (-) 13.9 Hz, J<sub>AX</sub> =10.1 Hz, <italic>J</italic><sub>BX</sub> = 3.3 Hz, 3 H, diastereotopic CH<sub>2</sub>-NH); 6.34 (s, 2 H, H-7 + H-6); AA&#x2019;BB&#x2019; sub-spectrum with &#x3B4; <sub>A</sub> = 7.76, &#x3B4; <sub>B</sub> = 7.35, <italic>J</italic><sub>AB</sub> = 8.2 Hz (H-2/6 and H-3/5 from CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>).</p>
+      <p><sup>1</sup>H-NMR (250 MHz, DMSO-d6): &#x3B4;= 1.65 (s, 3 H, 5-CH<sub>3</sub>); 2.39 (s, 3 H, C<italic>H</italic><sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); ABX sub-spectrum (8 AB-lines, 4 lines of the X part) with &#x3B4; <sub>A</sub> = 3.63, &#x3B4; <sub>B</sub> = 3.44, &#x3B4; <sub>X</sub> = 8.06, <italic>J</italic><sub>AB</sub> = (-)14.4 Hz, <italic>J</italic><sub>AX</sub> = 7.5 Hz, <italic>J</italic><sub>BX</sub> = 5.7 Hz, 3 H, diastereotopic CH<sub>2</sub>-NH); 6.46 (d, <italic>J</italic> = 5.8 Hz, 1 H, H-7); 6.66 (d, <italic>J</italic> = 5.8 Hz, 1 H, H-6); AA&#x2019;BB&#x2019; sub-spectrum with &#x3B4; <sub>A</sub> = 7.76, &#x3B4; <sub>B</sub> = 7.36, <italic>J</italic><sub>AB</sub> = 8.0 Hz (H-2/6 and H-3/5 from CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>).</p>
+      <p><sup>13</sup>C-NMR/DEPT (62.9 MHz, DMSO-d6): &#x3B4;=16.2 (+, 5-CH<sub>3</sub>); 20.9 (+, <italic>C</italic>H<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 41.9 (-, CH<sub>2</sub>-N); 84.7 (C<sub>q</sub>, C-4); 87.1 (C<sub>q</sub>, C-2); 91.2 (C<sub>q</sub>, C-5); 92.7 (C<sub>q</sub>, C-1); 126.35 (+, C-2/6 from CH<sub>3</sub><italic>C</italic><sub>6</sub>H<sub>4</sub>SO<sub>2</sub>-); 129.65 (+, C-3/5 from CH<sub>3</sub><italic>C</italic><sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 134.6 (+, C-6); 137.6 (C<sub>q</sub>, C-4 from CH<sub>3</sub><italic>C</italic><sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 138.0 (+, C-7); 142.85 (C<sub>q</sub>, C-1 from CH<sub>3</sub><italic>C</italic><sub>6</sub>H<sub>4</sub>SO<sub>2</sub>); 185.3 (C<sub>q</sub>, C-3).</p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3400 (N-H); 3110, 2960 (C-H); 1773, 1745 (C=O); 1600 (C=C); 1495 (NH); 1340, 1165 cm<sup>-1</sup> (SO<sub>2</sub>).</p>
+      <p>Elemental Analysis: Calculated for C<sub>16</sub>H<sub>15</sub>C<sub>l4</sub>NO<sub>4</sub>S (459.2): C, 41.85%; H, 3.29%; Cl, 30.88%; N, 3.05%; S, 6.98%. Found: C, 41.59%; H, 3.23%; Cl, 30.75%; N, 2.91%; S: 7.03%.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M409">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M409-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M409-s002-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M409-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M409-s002.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M409">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meining</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2005</year>
+          <fpage>M408</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M409">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bugrova</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Rudnev</surname>
+              <given-names>G.K.</given-names>
+            </name>
+            <name>
+              <surname>Kristich</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Radchenko</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Mishchenko</surname>
+              <given-names>L.F. </given-names>
+            </name>
+          </person-group>
+          <source>Zh. Prikl. Khim. (Leningrad)</source>
+          <year>1973</year>
+          <volume>46</volume>
+          <fpage>1529</fpage>
+          <lpage>1533</lpage>
+		  <comment><italic>J. Appl. Chem. USSR</italic> <bold>1973</bold>, <italic>2</italic>, 1627&#x2013;1631</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M409">
+        <label>3.</label>
+        <citation citation-type="journal">
+		<label>a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gehrlach</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Herter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem.</source>
+          <year>1982</year>
+          <volume>94</volume>
+          <fpage>144</fpage>
+		  <comment><italic>Angew. Chem. Suppl.</italic> <bold>1982</bold>, <italic>94</italic>, 241; <italic>Angew. Chem., Int. Ed. Engl.</italic> <bold>1982</bold>, <italic>21</italic>, 137</comment>
+        </citation>
+		<citation citation-type="journal">
+		<label>b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sendelbach</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schwetzler-Raschke</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Radl</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Henle</surname>
+              <given-names>G.H.</given-names>
+            </name>
+            <name>
+              <surname>Korfant</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Reiner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1999</year>
+          <volume>64</volume>
+          <fpage>3398</fpage>
+          <lpage>3408</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo972037g</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M409">
+        <label>4.</label>
+        <note>
+		<p>If <bold>1</bold> has not disappeared after that time (check by TLC), more pentachloroacetone (0.7&#x2013;1.2 g, 3&#x2013;5 mmol) was added, and the base solution in such amount that a test with wet pH indicator paper showed an alkaline reaction</p>
+		</note>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

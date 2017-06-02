@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M872</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M872</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>Z</italic>)-3-Amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hirsova</surname>
+            <given-names>Petra</given-names>
+          </name>
+          <xref rid="af1-molbank-2015-M872" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dolezel</surname>
+            <given-names>Jan</given-names>
+          </name>
+          <xref rid="af2-molbank-2015-M872" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kucerova-Chlupacova</surname>
+            <given-names>Marta</given-names>
+          </name>
+          <xref rid="af3-molbank-2015-M872" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kunes</surname>
+            <given-names>Jiri</given-names>
+          </name>
+          <xref rid="af4-molbank-2015-M872" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pilarova</surname>
+            <given-names>Veronika</given-names>
+          </name>
+          <xref rid="af5-molbank-2015-M872" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Novakova</surname>
+            <given-names>Lucie</given-names>
+          </name>
+          <xref rid="af5-molbank-2015-M872" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Opletalova</surname>
+            <given-names>Veronika</given-names>
+          </name>
+          <xref rid="af3-molbank-2015-M872" ref-type="aff">3</xref>
+          <xref rid="c1-molbank-2015-M872" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M872"><label>1</label>Division of Gastroenterology and Hepatology, Mayo Clinic, 200 First St. SW, Rochester, MN 55905, USA; E-Mail: <email>Hirsova.Petra@mayo.edu</email></aff>
+      <aff id="af2-molbank-2015-M872"><label>2</label>GlaxoSmithKline, Hvezdova 1734/2c, Prague 140 00, Czech Republic; E-Mail: <email>jan.j.dolezel@gsk.com</email></aff>
+      <aff id="af3-molbank-2015-M872"><label>3</label>Department of Pharmaceutical Chemistry and Pharmaceutical Analysis, Faculty of Pharmacy in Hradec Kralove, Charles University in Prague, Heyrovskeho 1203, Hradec Kralove 500 05, Czech Republic; E-Mail: <email>kucerom@faf.cuni.cz</email></aff>
+      <aff id="af4-molbank-2015-M872"><label>4</label>Department of Inorganic and Organic Chemistry, Faculty of Pharmacy in Hradec Kralove, Charles University in Prague, Heyrovskeho 1203, Hradec Kralove 500 05, Czech Republic; E-Mail: <email>kunes@faf.cuni.cz</email></aff>
+      <aff id="af5-molbank-2015-M872"><label>5</label>Department of Analytical Chemistry, Faculty of Pharmacy in Hradec Kralove, Charles University in Prague, Heyrovskeho 1203, Hradec Kralove 500 05, Czech Republic; E-Mails: <email>pilarovv@faf.cuni.cz</email> (V.P.); <email>novakoval@faf.cuni.cz</email> (L.N.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M872"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>opletalova@faf.cuni.cz</email>; Tel.: +420-495-067-373.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>11</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>4</issue>
+      <elocation-id>M872</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>09</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>3-Aminorhodanine reacts with aldehydes to form either 5-[(aryl)alkylidene]-substituted products or Schiff bases or derivatives substituted at both the 3-amino group and the 5-methylene group, depending on the reaction conditions. In this note, synthesis and characterization of 3-amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one is reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>3-aminorhodanine</kwd>
+        <kwd>aldehydes</kwd>
+        <kwd>condensation products</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2015-M872" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Rhodanine is one of the privileged scaffolds in drug discovery. Biological effects of various rhodanine derivatives have been reviewed by Tomasic and Masic [<xref ref-type="bibr" rid="B1-molbank-2015-M872">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2015-M872">2</xref>]. Our research group has studied derivatives of rhodanine as potential antifungal and antimycobacterial agents [<xref ref-type="bibr" rid="B3-molbank-2015-M872">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M872">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2015-M872">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M872">6</xref>]. Their influence on some photosynthetic processes was studied as well [<xref ref-type="bibr" rid="B7-molbank-2015-M872">7</xref>]. Some derivatives of 3-aminorhodanine were also prepared within these studies.</p>
+      <p>Initially, 3-aminorhodanine <bold>1</bold> was prepared for the first time by Andreasch [<xref ref-type="bibr" rid="B8-molbank-2015-M872">8</xref>]. With aldehydes it can form either 5-[(aryl)alkylidene]-substituted products <bold>2</bold> or Schiff bases <bold>3</bold> or derivatives substituted at both the 3-amino group and C<sub>(5)</sub> <bold>4</bold> (<xref ref-type="fig" rid="molbank-2015-M872-f001">Figure 1</xref>), depending on the reaction conditions [<xref ref-type="bibr" rid="B9-molbank-2015-M872">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M872">10</xref>].</p>
+      <p>Stainier and Lapiere [<xref ref-type="bibr" rid="B9-molbank-2015-M872">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M872">10</xref>] used three different methods. When they performed condensation of equivalent amounts of 3-aminorhodanine <bold>1</bold> and an aldehyde in the presence of glacial acetic acid (method A) or in alcohol (method B), the derivative of the general formula <bold>3</bold> was obtained (<xref ref-type="scheme" rid="molbank-2015-M872-sch001">Scheme 1</xref>).</p>
+      <p>However, condensation of 3-aminorhodanine with 4-dimethylaminobenzaldehyde in glacial acetic acid (method A) gave disubstituted product <bold>4</bold> (<xref ref-type="scheme" rid="molbank-2015-M872-sch002">Scheme 2</xref>).</p>
+      <p>Condensation in alcoholic solution in the presence of NH<sub>4</sub>OH/NH<sub>4</sub>Cl (method C, so-called Girard&#x2019;s method) always resulted in 5-[(aryl)alkylidene]-3-aminorhodanine <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2015-M872-sch003">Scheme 3</xref>).</p>
+      <p>Similar results were also reported by Petlichnaya and co-workers [<xref ref-type="bibr" rid="B11-molbank-2015-M872">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2015-M872">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2015-M872">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2015-M872">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2015-M872">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2015-M872">16</xref>]. These authors found that 3-aminorhodanine exists in two tautomeric forms (<xref ref-type="fig" rid="molbank-2015-M872-f002">Figure 2</xref>).</p>
+      <p>In an alcohol, 3-aminorhodanine <bold>1</bold> reacts in the &#x201C;hydrazine&#x201D; form <bold>I</bold> to give Schiff bases <bold>3</bold>. In ammonia solution, 5-substituted derivatives <bold>2</bold> arise. Disubstituted derivatives <bold>4</bold> can be obtained by reacting <bold>1</bold> with an excess of aldehyde in glacial acetic acid. Nonetheless, in some cases, a two-step reaction must be used. It is possible to condense an aldehyde with a Schiff base <bold>3</bold> in ammonia solution or with a 5-substituted derivative <bold>2</bold> in an alcohol. Unsymmetrically substituted products can be prepared by these two-step reactions.</p>
+      <p>Several modified methods [<xref ref-type="bibr" rid="B17-molbank-2015-M872">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2015-M872">18</xref>,<xref ref-type="bibr" rid="B19-molbank-2015-M872">19</xref>,<xref ref-type="bibr" rid="B20-molbank-2015-M872">20</xref>,<xref ref-type="bibr" rid="B21-molbank-2015-M872">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2015-M872">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2015-M872">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2015-M872">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2015-M872">25</xref>,<xref ref-type="bibr" rid="B26-molbank-2015-M872">26</xref>] for the condensation of 3-aminorhodanine with aldehydes have been reported. They clearly show that in basic medium the components react to yield 3-amino-5-[(aryl)alkylidene]-2-thioxo-1,3-thiazolidin-4-ones <bold>2</bold>. Heating in alcohols gives 3-[(aryl)alkylidene]amino-2-thioxo-1,3-thiazolidin-4-one <bold>3</bold>, while acidic catalysis results in <bold>3</bold> and/or disubstituted products <bold>4</bold>.</p>
+      <p>In this note we wish to report on the synthesis (method C) and characterization of 3-amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one <bold>5</bold> (<xref ref-type="fig" rid="molbank-2015-M872-f001">Figure 1</xref>).</p>
+    </sec>
+    <sec id="sec2-molbank-2015-M872" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Originally, 3-amino-5-(pyridin-3-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one (CAS Registry Number 101714-49-2) and 3-amino-5-(pyridin-4-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one (CAS Registry Number 101714-18-5) were reported by Lapiere in 1959 [<xref ref-type="bibr" rid="B10-molbank-2015-M872">10</xref>]. The compound 3-amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one (<bold>5</bold>) has been registered with CAS Number 1082891-88-0. However, there are no references and no experimental data. Therefore, we tried to prepare and characterize the compound within our studies. Its structure (<xref ref-type="app" rid="app1-molbank-2015-M872">Figure S1</xref>) was corroborated by <sup>1</sup>H-NMR spectrum (<xref ref-type="app" rid="app1-molbank-2015-M872">Figure S2</xref>), <sup>13</sup>C-NMR spectrum (<xref ref-type="app" rid="app1-molbank-2015-M872">Figure S3</xref>) and HRMS (<xref ref-type="app" rid="app1-molbank-2015-M872">Figure S4</xref>), and the purity confirmed by elemental analysis.</p>
+      <p>Arylmethylidenerhodanines can form two isomers. According to references [<xref ref-type="bibr" rid="B27-molbank-2015-M872">27</xref>,<xref ref-type="bibr" rid="B28-molbank-2015-M872">28</xref>,<xref ref-type="bibr" rid="B29-molbank-2015-M872">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2015-M872">30</xref>,<xref ref-type="bibr" rid="B31-molbank-2015-M872">31</xref>], syntheses of these compounds result in (<italic>Z</italic>)-izomers. The same has recently been proved for 3-aminorhodanine derivatives [<xref ref-type="bibr" rid="B25-molbank-2015-M872">25</xref>]. Configuration on the exocyclic double-bond can be determined on the basis of NMR spectra where <sup>1</sup>H-NMR signals of the methine-group hydrogen for (<italic>Z</italic>)-isomers are more downfield compared to those expected for (<italic>E</italic>)-isomers. In our previous papers [<xref ref-type="bibr" rid="B5-molbank-2015-M872">5</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M872">7</xref>], the experimental signals of the &#x2013;CH= group of various rhodanine derivatives were compared with the values reported previously in literature and the values predicted <italic>in silico</italic>. The (<italic>Z</italic>)&#x2013;Isomers of arylmethylidenerhodanines exhibited experimental methine group shifts between 7.39&#x2013;7.94 ppm, while (<italic>E</italic>)-isomers had methine group shifts in the range 6.78&#x2013;7.01 ppm [<xref ref-type="bibr" rid="B5-molbank-2015-M872">5</xref>].</p>
+      <p>In the <sup>1</sup>H-NMR spectrum of the 3-amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one (<bold>5</bold>) reported in this note, only one set of signals was observed and the shift of &#x2013;CH= is 7.85 ppm. The shifts predicted <italic>in silico</italic> (ChemDraw Professional 15.0, PerkinElmer Informatics, Waltham, MA, USA) were 7.63 ppm for (<italic>Z</italic>)-isomer and 7.01 ppm for (<italic>E</italic>)-isomer. Hence, it can be concluded that the prepared compound is (<italic>Z</italic>)-isomer.</p>
+    </sec>
+    <sec id="sec3-molbank-2015-M872">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2015-M872">
+        <title>3.1. General Information</title>
+        <p>First, 3-aminorhodanine, 99% (Sigma-Aldrich, Steinheim, Germany) and pyridin-2-carbaldehyde, 99% (Sigma-Aldrich, Steinheim, Germany) were used as starting compounds. TLC was performed on TLC aluminium sheets, silica gel 60 F<sub>254</sub> (Merck, Darmstadt, Germany). Mixtures light petroleum + ethyl acetate (4:6) and toluene + acetone (1:1) were used as mobile phases. Analytical sample was dried over anhydrous phosphorus pentoxide under reduced pressure at room temperature. Melting point was determined on a Bo&#xEB;tius apparatus PHMK 05 (VEB Kombinat Nagema, Radebeul, Germany) and is uncorrected. Elemental analysis was performed on an EA 1110 CHNS instrument (CE Instruments, Milano, Italy). <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded at ambient temperature on a Varian Mercury-Vx BB 300 spectrometer (Varian Corp., Palo Alto, CA, USA) operating at 300 MHz for <sup>1</sup>H and 75 MHz for <sup>13</sup>C. Chemical shifts were recorded as &#x3B4; values in ppm, and were indirectly referenced to tetramethylsilane (TMS) via the solvent signal (2.49 for <sup>1</sup>H, 39.7 for <sup>13</sup>C in DMSO-<italic>d</italic><sub>6</sub>). UHPLC system Acquity UPLC I-class (Waters, Millford, CT, USA) coupled to high resolution mass spectrometer (HRMS,) Synapt G2Si (Waters, Manchester, UK) based on Q-TOF were used for HRMS spectra measurement. Chromatography was performed using Acquity UPLC BEH C18 (2.1 mm &#xD7; 50 mm, 1.7 &#xB5;m) column using gradient elution with acetonitrile and 0.1% formic acid at flow rate 0.4 mL/min. Electrospray ionization was operated in positive mode. The ESI spectra were recorded in the range 50&#x2013;1200 <italic>m</italic>/<italic>z</italic> using leucine-enkephalin as a lock mass reference and sodium formate for calibration.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2015-M872">
+        <title>3.2. Experimental Procedure for the Preparation of 3-Amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one <italic>(<bold>5</bold>)</italic></title>
+        <p>Mixture of pyridin-2-carbaldehyde (1.0 g, 0.009 mol), 3-aminorhodanine (1.7 g, 0.009 mol) and concentrated ammonia (0.7 mL) in 15 mL of ethanol was heated to boiling. Ammonium chloride (0.7 g) dissolved in 2 mL of water heated to 80 &#xB0;C was added to a clear solution, and the mixture refluxed for 2 h. After cooling, separated crystals were filtered off, washed with 50 mL of water and then 50 mL of ethanol diluted with water (1:1, <italic>v</italic>/<italic>v</italic>). The product was crystallized from acetone.</p>
+        <p><italic>3-Amino-5-(pyridin-2-ylmethylidene)-2-thioxo-1,3-thiazolidin-4-one</italic> (<bold>5</bold>). Yellow solid; yield 73%; m.p. 228&#x2013;231 &#xB0;C (decomp.) <sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>, 300 MHz, &#x3B4; ppm) 8.79&#x2013;8.77 (m, 1H, Ar), 7.93&#x2013;7.90 (m, 2H, Ar), 7.85 (s, 1H, CH), 7.45&#x2013;7.42 (m, 1H, Ar), 5.89 (bs, 2H, NH<sub>2</sub>); <sup>13</sup>C-NMR (DMSO-<italic>d</italic><sub>6</sub>, 75 MHz, &#x3B4; ppm) 194.4, 164.0, 151.5, 149.7, 137.9, 129.0, 128.5, 125.0, 124.4; EA for C<sub>9</sub>H<sub>7</sub>N<sub>3</sub>OS<sub>2</sub> (237.30) calculated 45.55%C, 2.97%H, 17.71%N, 27.02%S, found 45.35%C, 3.23%H, 17.67%N, 27.44%S; HRMS (ESI): Calculated for C<sub>9</sub>H<sub>8</sub>N<sub>3</sub>OS<sub>2</sub> [M + H]<sup>+</sup> <italic>m</italic>/<italic>z</italic> 238.0109, found <italic>m</italic>/<italic>z</italic> 238.0109.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M872">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2015-M872-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M872-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M872-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-s002.pdf">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The study was supported by Ministry of Education, Youth and Sports of the Czech Republic, project SVV 260 183 and SVV 260 184.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Petra Hirsova prepared the compound within her diploma work under supervision of Jan Dolezel. Marta Kucerova-Chlupacova checked the physicochemical data and wrote the experimental part; Jiri Kunes recorded and interpreted NMR data; Veronika Pilarova performed UHPLC, recorded and interpreted HRMS under supervision of Lucie Novakova. Veronika Opletalova proposed the subject, designed the study, and wrote the introduction and discussion. All the authors read and approved the final manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M872">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomasic</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Masic</surname>
+              <given-names>L.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rhodanine as a privileged scaffold in drug discovery</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2009</year>
+          <volume>16</volume>
+          <fpage>1596</fpage>
+          <lpage>1629</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986709788186200</pub-id>
+          <pub-id pub-id-type="pmid">19442136</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M872">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomasic</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Peterlin Masic</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rhodanine as a scaffold in drug discovery: A critical review of its biological activities and mechanisms of target modulation</article-title>
+          <source>Expert Opin. Drug Discov.</source>
+          <year>2012</year>
+          <volume>7</volume>
+          <fpage>549</fpage>
+          <lpage>560</lpage>
+          <pub-id pub-id-type="doi">10.1517/17460441.2012.688743</pub-id>
+          <pub-id pub-id-type="pmid">22607309</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M872">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dolezel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Opletalova</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Vejsova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hirsova</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological Evaluation of Thiazolidine Derivatives. Abstracts of the 5th International Postgraduate Research Symposium on Pharmaceutics (IPORSIP-2007), Istanbul, Turkey, 13&#x2013;15 September 2007</article-title>
+          <source>Acta Pharm. Sci.</source>
+          <year>2007</year>
+          <volume>49</volume>
+          <supplement>(Suppl.)</supplement>
+		  <fpage>31</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M872">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petrik</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Kunes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vejsova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jampilek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Spaningerova</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kesetovicova</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Vlckova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Majd</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kalafutova</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Opletalova</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifungal and antimycobacterial properties of 5-arylmethylidenerhodanines and their <italic>N</italic><sup>3</sup>-substituted analogues. Abstracts of the 5th International Postgraduate Research Symposium on Pharmaceutics (IPORSIP-2007), Istanbul, Turkey, 13&#x2013;15 September 2007</article-title>
+          <source>Acta Pharm. Sci.</source>
+          <year>2007</year>
+          <volume>49</volume>
+          <supplement>(Suppl.)</supplement>
+		  <fpage>77</fpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M872">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dolezel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hirsova</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Opletalova</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dohnal</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vejsova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kunes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jampilek</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rhodanineacetic acid derivatives as potential drugs: Preparation, hydrophobic properties and antifungal activity of (5-arylalkylidene-4-oxo-2-thioxo-1,3-thiazolidin-3-yl)acetic acids</article-title>
+          <source>Molecules</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>4197</fpage>
+          <lpage>4212</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules14104197</pub-id>
+          <pub-id pub-id-type="pmid">19924058</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M872">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Opletalova</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dolezel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Buchta</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Vejsova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Paterova</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antifungal effects of (5<italic>Z</italic>)-5-arylmethylidenerhodanines with a special view to members of Mucorales</article-title>
+          <source>Folia Pharm. Univ. Carol.</source>
+          <year>2014</year>
+          <volume>42</volume>
+          <fpage>7</fpage>
+          <lpage>13</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M872">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Opletalova</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Dolezel</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kralova</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pesko</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kunes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jampilek</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of (<italic>Z</italic>)-5-arylmethylidenerhodanines with photosynthesis-inhibiting properties</article-title>
+          <source>Molecules</source>
+          <year>2011</year>
+          <volume>16</volume>
+          <fpage>5207</fpage>
+          <lpage>5227</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules16065207</pub-id>
+          <pub-id pub-id-type="pmid">21697777</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M872">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andreasch</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Substituted rhodaninic acids and their aldehyde condensation products (VII)</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>1908</year>
+          <volume>29</volume>
+          <fpage>399</fpage>
+          <lpage>419</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01558890</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M872">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stainier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Lapiere</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some derivatives of rhodanine with <italic>in vitro</italic> tuberculostatic action</article-title>
+          <source>Bull. Acad. R. Med. Belg.</source>
+          <year>1958</year>
+          <volume>23</volume>
+          <fpage>335</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="pmid">13596692</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M872">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lapiere</surname>
+              <given-names>C.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Aminorhodanine derivatives: Syntheses and tuberculostatic action</article-title>
+          <source>J. Pharm. Belg.</source>
+          <year>1959</year>
+          <volume>14</volume>
+          <fpage>126</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="pmid">14414103</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M872">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petlichnaya</surname>
+              <given-names>L.I.</given-names>
+            </name>
+            <name>
+              <surname>Turkevich</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some properties of 3-aminorhodanine</article-title>
+          <source>Dopov. Akad. Nauk Ukr. RSR</source>
+          <year>1965</year>
+          <fpage>1601</fpage>
+		   <lpage>1603</lpage>
+		   <comment><italic>Chem. Abstr.</italic> <bold>1966</bold>, <italic>64</italic>, 59854</comment>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2015-M872">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petlichnaya</surname>
+              <given-names>L.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Double reactivity of 3-aminorhodanines</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1967</year>
+          <volume>3</volume>
+          <fpage>649</fpage>
+		  <lpage>652</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1968</bold>, <italic>68</italic>, 78182</comment>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2015-M872">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petlichnaya</surname>
+              <given-names>L.I.</given-names>
+            </name>
+            <name>
+              <surname>Turkevich</surname>
+              <given-names>N.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of the new arylidene derivatives of 3-aminorhodanine</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1968</year>
+          <volume>4</volume>
+          <fpage>73</fpage>
+		  <lpage>75</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1968</bold>, <italic>69</italic>, 77148</comment>
+          <pub-id pub-id-type="doi">10.1007/BF00478079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2015-M872">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turkevich</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Kontsevich</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Petlichnaya</surname>
+              <given-names>L.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Aminorhodanine and its derivatives</article-title>
+          <source>Zb. Nauk Prats. L&#x2019;vivsk. Med. Inst.</source>
+          <year>1963</year>
+          <volume>24</volume>
+          <fpage>22</fpage>
+		  <lpage>28</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1965</bold>, <italic>62</italic>, 51596</comment>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2015-M872">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turkevich</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Tarasevicius</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 5-arylidene derivatives of 3-(5-nitrofurfurylidene)aminorhodanine</article-title>
+          <source>Farm. Zh. (Kiev)</source>
+          <year>1968</year>
+          <volume>23</volume>
+          <fpage>44</fpage>
+		  <lpage>47</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1968</bold>, <italic>69</italic>, 77154</comment>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2015-M872">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turkevich</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Petlichnaya</surname>
+              <given-names>L.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ultraviolet absorption spectra of 3-aminorhodanine derivatives</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>1971</year>
+          <volume>7</volume>
+          <fpage>1182</fpage>
+		  <lpage>1185</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1972</bold>, <italic>76</italic>, 58466</comment>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2015-M872">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sandstrom</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carboxydithiocarbohydrazides and <italic>N</italic>-aminorhodanines</article-title>
+          <source>Ark. Kemi</source>
+          <year>1955</year>
+          <volume>8</volume>
+          <fpage>487</fpage>
+		  <lpage>521</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1956</bold>, <italic>50</italic>, 64634</comment>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2015-M872">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sugihara</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrofuran derivatives. II. Condensation of nitrofuryl aldehydes with amines or 2-methyl-1,3,4-oxadiazoles</article-title>
+          <source>Yakugaku Zasshi</source>
+          <year>1965</year>
+          <volume>85</volume>
+          <fpage>424</fpage>
+		  <lpage>429</lpage>
+		  <comment><italic>Chem. Abstr.</italic> <bold>1965</bold>, <italic>63</italic>, 31685</comment>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2015-M872">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanefeld</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Schlitzer</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regioselective condensations and <italic>N</italic>-acylations of 3-aminorhodanines</article-title>
+          <source>Arch. Pharm.</source>
+          <year>1993</year>
+          <volume>326</volume>
+          <fpage>887</fpage>
+          <lpage>891</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.19933261109</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2015-M872">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stankovic</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Elecko</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Toma</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Knoevenagel condensation of ferrocenecarbaldehyde with some methylene active reagents on inorganic supports</article-title>
+          <source>Chem. Pap.</source>
+          <year>1996</year>
+          <volume>50</volume>
+          <fpage>68</fpage>
+          <lpage>71</lpage>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2015-M872">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krutosikova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lacova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dandarova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Chovancova</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of microwave irradiation on reaction of furo[3,2-<italic>b</italic>]pyrrole- and furo[2,3-<italic>b</italic>]pyrrole-2-carbaldehydes with some active methylene compounds</article-title>
+          <source>ARKIVOC</source>
+          <year>2000</year>
+          <volume>iii</volume>
+          <fpage>409</fpage>
+          <lpage>420</lpage>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2015-M872">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Afkhami</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Madrakian</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ahmadi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bagheri</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tabatabaee</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemically modified alumina nanoparticles for selective solid phase extraction and preconcentration of trace amounts of Cd(II)</article-title>
+          <source>Microchim. Acta</source>
+          <year>2011</year>
+          <volume>175</volume>
+          <fpage>69</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00604-011-0660-x</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2015-M872">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tabatabaee</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Heravi</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Sharif</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Esfandiyari</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fast and efficient method for imination of <italic>N</italic>-aminorhodanine using inorganic solid support under microwave irradiation and classical heating</article-title>
+          <source>E-J. Chem.</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <fpage>535</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="doi">10.1155/2011/351203</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2015-M872">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shivhare</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gharia</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Gautam</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, characterization and antimicrobial studies of Cu(II), Co(II) and Ni(II) complexes with Schiff base derived from <italic>N</italic>-aminorhodanine and salicylaldehyde</article-title>
+          <source>Int. J. Pharm. Pharm. Sci.</source>
+          <year>2012</year>
+          <volume>4</volume>
+          <supplement>(Suppl. 1)</supplement>
+          <fpage>394</fpage>
+          <lpage>397</lpage>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2015-M872">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guiheneuf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Paquin</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Carreaux</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Durieu</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Roisnel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Meijer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bazureau</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>New 5-ylidene rhodanine derivatives based on the dispacamide a model</article-title>
+          <source>Mol. Divers.</source>
+          <year>2014</year>
+          <volume>18</volume>
+          <fpage>375</fpage>
+          <lpage>388</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11030-014-9509-7</pub-id>
+          <pub-id pub-id-type="pmid">24584455</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2015-M872">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoang</surname>
+              <given-names>L.T.A.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Tai</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Pham</surname>
+              <given-names>H.Y.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>X.N.</given-names>
+            </name>
+            <name>
+              <surname>Thao</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>H.N.</given-names>
+            </name>
+            <name>
+              <surname>Minh</surname>
+              <given-names>C.V.</given-names>
+            </name>
+            <name>
+              <surname>Kiem</surname>
+              <given-names>P.V.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of chromonylthiazolidines and their cytotoxicity to human cancer cell lines</article-title>
+          <source>Molecules</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>1151</fpage>
+          <lpage>1160</lpage>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2015-M872">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khodair</surname>
+              <given-names>A.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>A convenient synthesis of 2-arylidene-5<italic>H</italic>-thiazolo[2,3-<italic>b</italic>]quinazoline-3,5[2<italic>H</italic>]-diones and their benzoquinazoline derivatives</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2002</year>
+          <volume>39</volume>
+          <fpage>1153</fpage>
+          <lpage>1160</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570390607</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2015-M872">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohishi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Mukai</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nagahara</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yajima</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kajikawa</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Miyahara</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Takano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparations of 5-alkylmethylidene-3-carboxymethylrhodanine derivatives and their aldose reductase inhibitory activity</article-title>
+          <source>Chem. Pharm. Bull.</source>
+          <year>1990</year>
+          <volume>38</volume>
+          <fpage>1911</fpage>
+          <lpage>1919</lpage>
+          <pub-id pub-id-type="doi">10.1248/cpb.38.1911</pub-id>
+          <pub-id pub-id-type="pmid">2125247</pub-id>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2015-M872">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zidar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tomasic</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sink</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Rupnik</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Kovac</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Turk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Patin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Blanot</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Contreras Martel</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Dessen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Discovery of novel 5-benzylidenerhodanine and 5-benzylidenethiazolidine-2,4-dione inhibitors of MurD ligase</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>53</volume>
+          <fpage>6584</fpage>
+          <lpage>6594</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm100285g</pub-id>
+          <pub-id pub-id-type="pmid">20804196</pub-id>
+        </citation>
+      </ref>
+      <ref id="B30-molbank-2015-M872">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomasic</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Zidar</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Mueller-Premru</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kikelj</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Masic</surname>
+              <given-names>L.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial activity of 5-ylidenethiazolidin-4-ones and 5-benzylidene-4,6-pyrimidinediones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>45</volume>
+          <fpage>1667</fpage>
+          <lpage>1672</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2009.12.030</pub-id>
+          <pub-id pub-id-type="pmid">20060624</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molbank-2015-M872">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tomasic</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kovac</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Simcic</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Blanot</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Golic Grdadolnik</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gobec</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kikelj</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Peterlin Masic</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel 2-thioxothiazolidin-4-one inhibitors of bacterial MurD ligase targeting <sc>d</sc>-Glu- and diphosphate-binding sites</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>3964</fpage>
+          <lpage>3975</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2011.05.070</pub-id>
+          <pub-id pub-id-type="pmid">21703731</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Schemes</title>
+      <fig id="molbank-2015-M872-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Graphic representation of 3-aminorhodanine and its condensation products with aldehydes.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-g001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M872-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M872-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Condensation of 3-aminorhodanine with an aldehyde in glacial acetic acid (method A) or alcohol (method B).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M872-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M872-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Condensation of 3-aminohodanine with 4-dimethylaminobenzaldehyde in glacial acetic acid (method A).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-sch002.tif"/>
+      </fig>
+      <fig id="molbank-2015-M872-sch003" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M872-sch003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Condensation of 3-aminorhodanine with an aldehyde in alcoholic solution in the presence of NH<sub>4</sub>OH/NH<sub>4</sub>Cl (method C).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-sch003.tif"/>
+      </fig>
+      <fig id="molbank-2015-M872-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Tautomeric forms of 3-aminorhodanine.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M872-g002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

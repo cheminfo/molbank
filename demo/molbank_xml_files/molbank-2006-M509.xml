@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M509</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M509</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of N, N-Dimethyl-3-phenoxyquinoxalin-2-amine</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Obafemi</surname>
+            <given-names>Craig A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M509" ref-type="corresp">*</xref>
+          <xref rid="af1-molbank-2006-M509" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pfleiderer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M509" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M509"><label>1</label>Department of Chemistry, Obafemi Awolowo University, Ile-Ife, Nigeria</aff>
+      <aff id="af2-molbank-2006-M509"><label>2</label>Fachbereich Chemie, Konstanz University D-78457 Konstanz/ Germany E-mail: <email>adeyemi01@yahoo.com</email> (<email>craigoba@oauife.edu.ng</email>)</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M509"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>6</issue>
+      <elocation-id>M509</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>02</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Substitution reaction</kwd>
+        <kwd>2,3-dichloroquinoxaline</kwd>
+        <kwd>phenol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The two chloro groups in 2,3-dichloroquinoxaline <bold>1</bold> can be displaced by nucleophiles, a process that may take place in a stepwise manner [<xref ref-type="bibr" rid="B1-molbank-2006-M509">1</xref>]. <bold>1</bold> was reacted with phenol <bold>2</bold> in dimethylformamide (DMF) to give N,N-dimethyl-3-phenoxyquinoxalin-2-amine <bold>3</bold>.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M509-i001.tif"/></p>
+      <p>A mixture of 2,3-dichloroquinoxaline <bold>1</bold> (5.0 g, 25 mmol), phenol (1.2 g, 13 mmol) and Na<sub>2</sub>CO<sub>3</sub> (0.7 g, 7 mmol) in DMF (40 mL) was heated to reflux for 10 h. with magnetic stirring.  The reaction mixture was cooled and poured into water (200 mL) to give a solid product.  Flash vacuum column chromatography (silica gel, petroleum ether (b.p. 100&#xB0;)/EtOH 100:1) gave pure N,N-dimethyl-3-phenoxyquinoxalin-2-amine <bold>3</bold> (2.1 g, 62%, based on phenol).</p>
+      <p>Melting point: 85 &#x2013; 86&#xB0;C.</p>
+      <p>IR (n<sub>max</sub>, KBr, cm<sup>-1</sup>): 2940, 2880 (C-H), 1578 (C=C), 1516, 1196.</p>
+      <p><sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>, d (ppm): 7.72 (d, 1H, J = 8.47 Hz, Ar-H), 7.52 (d, 1H, J = 9.25 Hz, Ar-H), 7.47 &#x2013; 7.34 (m, 3H, Ar-H), 7.31 &#x2013; 7.21 (m, 4H, Ar-H), 3.31 (s, 6H, 2 x CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (100 MHz, CDCl, d (ppm): 152.9, 149.6, 147.7, 139.5, 135.4, 129.5, 127.3, 126.6, 125.7, 125.0, 124.9, 121.6, 40.6.</p>
+  </body>
+  <back>
+      <app-group>
+  <app id="app1-molbank-2006-M509">
+        <title>Supplementary materials</title>
+      <supplementary-material id="molbank-2006-M509-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M509-s001-mod.mol">
+    <label>Supplementary File 1</label>
+      </supplementary-material>
+      <supplementary-material id="molbank-2006-M509-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M509-s001.mol">
+    <label>Supplementary File 2</label>
+       </supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>We thank the Alexander von Humboldt Foundation for a post-doctoral fellowship (CAO).</p>
+    </ack>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2006-M509">
+        <label>1.</label>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Obafemi</surname>
+              <given-names>C.A.</given-names>
+            </name>
+			 <name>
+              <surname>Pfleiderer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2004</year>
+          <volume>9</volume>
+		  <fpage>229</fpage>
+          <lpage>237</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

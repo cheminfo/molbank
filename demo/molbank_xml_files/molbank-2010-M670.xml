@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M670</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M670</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-Methyl-7-(phenylsulfanylmethyl)naphthalene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bogdanov</surname>
+            <given-names>Jane</given-names>
+          </name>
+          <xref rid="fn1-molbank-2010-M670" ref-type="fn">&#x2020;</xref>
+          <xref rid="c1-molbank-2010-M670" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Maslak</surname>
+            <given-names>Przemyslaw</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M670">Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania 16802, USA; E-Mail: <email>nyl@psu.edu</email></aff>
+      <author-notes>
+        <fn id="fn1-molbank-2010-M670">
+          <label>&#x2020;</label>
+          <p>Present address: Institute of Chemistry, Faculty of Natural Sciences &amp; Mathematics, Sts. Cyril and Methodius University, PO Box 162, 1000 Skopje, Macedonia.</p>
+        </fn>
+        <corresp id="c1-molbank-2010-M670"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>j_b_bogdanov@yahoo.com</email>; Tel.: +389 2 324 9918; Fax: +389 2 3226865.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>2</issue>
+      <elocation-id>M670</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new sulfide, 2-methyl-7-(phenylsulfanylmethyl)naphthalene was synthesized and its MS, IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and DEPT-135 data are reported.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>phase-transfer catalysis</kwd>
+        <kwd>2-methyl-7-(phenylsulfanylmethyl)naphthalene</kwd>
+        <kwd>naphthylmethyl phenyl sulfide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M670" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>In connection with our investigation of competitive mesolytic cleavages [<xref ref-type="bibr" rid="B1-molbank-2010-M670">1</xref>] of radical anions, we needed 2-methyl-7-(phenylsulfanylmethyl)naphthalene (<bold>3</bold>) as gas chromatography standard. The synthetic method of choice for this naphthylmethyl phenyl sulfide is reaction between naphthylmethyl halide and a corresponding thiophenoxide. From the various developed procedures [<xref ref-type="bibr" rid="B2-molbank-2010-M670">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M670">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M670">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M670">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M670">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M670">7</xref>] we have decided to utilize the phase-transfer variant used by Guthrie and Maslak [<xref ref-type="bibr" rid="B7-molbank-2010-M670">7</xref>] for preparation of the analogous ethers. The starting material for these derivatives was 2-bromomethyl-7-methylnaphthalene (<bold>1</bold>), which could be conveniently obtained by benzylic bromination of the commercially available 2,7-dimethylnaphthalene, using the procedure described by Buuhoi and co-workers [<xref ref-type="bibr" rid="B8-molbank-2010-M670">8</xref>]. We would like to report a convenient procedure for preparation of 2-methyl-7-(phenylsulfanylmethyl)naphthalene.</p>
+	  <fig id="molbank-2010-M670-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M670-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 2-methyl-7-(phenylsulfanylmethyl)naphthalene.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M670-sch001.tif"/>
+      </fig>
+    </sec>
+    <sec id="sec2-molbank-2010-M670" sec-type="methods">
+      <title>2. Experimental</title>
+      <sec id="sec2dot1-molbank-2010-M670">
+        <title>2.1. General</title>
+        <p>All chemicals were obtained from commercial sources and were used without further purification. Melting points were determined using a Mel-Temp apparatus and are uncorrected. NMR spectra were recorded on a Bruker 400 MHz instrument, using deuteriochloroform as solvent and tetramethylsilane as internal standard. The IR spectra were recorded on a Perkin Elmer Model 1600 instrument between sodium chloride plates in carbon tetrachloride. The number of hydrogens on each carbon was determined from <sup>13</sup>C NMR and DEPT-135 spectra. The mass spectra were recorded on a Kratos MS-25 RFA double-focusing mass spectrometer in electron impact (EI) mode. Gas chromatography was performed on a Varian 3700 instrument with packed column. The column was 1/8&#x201D; in diameter and 50 cm in length packed with 5% OV-101 on supelcoport, purchased from Supelco. The carrier gas was helium (30 mL/min flow), the detection was accomplished with flame ionization and monitored with HP-3390A reporting integrator. TLC was carried out using Merck pre-coated plates (60 F<sub>254</sub>, 250 &#x3BC;m).</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2010-M670">
+        <title>2.2. 2-Methyl-7-(phenylsulfanylmethyl)naphthalene <italic>(<bold>3</bold>)</italic></title>
+        <p>A mixture of 2-bromomethyl-7-methylnaphthalene (<bold>1</bold>) (0.200 g, 0.861 mmol), 2:1 (v/v) dichloromethane/acetonitrile (5 mL), 1M NaOH (5 mL), freshly distilled thiophenol (0.188 g, 1.71 mmol) and a drop of methyltricaprylammonium chloride (MTCAC) was vigorously stirred at 60 &#xB0;C for 3 h under argon. The mixture was cooled to room temperature, the layers were separated and the organic layer was washed with 1M sodium hydroxide (2 &#xD7; 10 mL), water (2 &#xD7; 10 mL) and brine (1 &#xD7; 10 mL). Drying over sodium sulfate and removal of the solvent <italic>in vacuo</italic> afforded a yellow solid. Recrystallization from ethanol yielded 0.121 g (54%) of <bold>3</bold> as white plates.</p>
+        <p>M.p. 89&#x2013;91 &#xB0;C.</p>
+        <p>R<sub>f</sub> (20% dichloromethane in hexanes) = 0.26.</p>
+        <p>GC: R<sub>t</sub> = 15.80 min (100 &#xB0;C, 3 min, 8 &#xB0;C/min to 280 &#xB0;C).</p>
+        <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4; = 7.72 (d, <italic>J</italic> = 8.4 Hz, 1 H), 7.69 (d, <italic>J</italic> = 8.4 Hz, 1 H), 7.58 (s, 1 H), 7.50 (s, 1 H), 7.38 (dd, <italic>J</italic> = 8.4 Hz, 1.7 Hz, 1 H), 7.34&#x2013;7.29 (m, 2 H), 7.27 (dd, <italic>J</italic> = 8.4 Hz, 1.7 Hz, 1 H), 7.24&#x2013;7.12 (m, 3 H), 4.24 (s, 2 H, Ar-C<underline>H</underline><sub>2</sub>-SPh), 2.48 (s, 3 H, Ar-C<underline>H</underline><sub>3</sub>).</p>
+        <p><sup>13</sup>C NMR (100 MHz): &#x3B4; = 136.35 (C), 135.78 (C), 134.87 (C), 133.52 (C), 130.82 (C), 129.90 (CH), 128.83 (CH), 128.08 (CH), 127.99 (CH), 127.43 (CH), 126.78 (CH), 126.68 (CH), 126.35 (CH), 126.08 (CH) (<italic>Ar</italic>), 39.41 (Ar-<underline>C</underline>H<sub>2</sub>-SPh), 21.70 (Ar-<underline>C</underline>H<sub>3</sub>).</p>
+        <p>DEPT-135 NMR: &#x3B4; = 129.90 (&#x2191;, CH), 128.83 (&#x2191;, CH), 128.08 (&#x2191;, CH), 127.99 (&#x2191;, CH), 127.43 (&#x2191;, CH), 126.78 (&#x2191;, CH), 126.68 (&#x2191;, CH), 126.35 (&#x2191;, CH), 126.08 (&#x2191;, CH) (<italic>Ar</italic>), 39.41 (&#x2193;, Ar-<underline>C</underline>H<sub>2</sub>-SPh), 21.70 (&#x2191;, Ar-<underline>C</underline>H<sub>3</sub>).</p>
+        <p>IR (CCl<sub>4</sub>, cm<sup>-1</sup>): 3055, 3022, 2924, 2861, 1638, 1610, 1585, 1515, 1480, 1439, 1383, 1336, 1230, 1078, 1025, 1012, 959, 902.</p>
+        <p>EI-MS (<italic>m/z</italic>, rel. intensity): 265 (M<sup>+</sup> + 1, 3%), 264 (M<sup>+</sup>, 7%), 197 (3%), 157 (9%), 156 (9%), 155 (M<sup>+</sup> &#x2013; SPh, 100%), 111 (14%).</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2010-M670">
+      <title>3. Conclusion</title>
+      <p>The reaction of 2-bromomethyl-7-methylnaphthalene with thiophenol under phase-transfer catalytic conditions, in the presence of methyltricaprylammonium chloride (MTCAC) gave the desired product <bold>3</bold> in moderate yield. The structure of <bold>3</bold> was unambiguously determined by spectroscopic means (<sup>1</sup>H NMR, <sup>13</sup>C NMR, DEPT-135 NMR, IR and MS). The reaction can be conveniently monitored by GC and/or TLC (20% dichloromethane in hexanes). The reaction was performed in degassed solution under argon atmosphere to avoid the oxidation of the thiophenol into diphenyl disulfide [<xref ref-type="bibr" rid="B9-molbank-2010-M670">9</xref>]. Diphenyl disulfide can pose a separation problem and can interfere with the mesolytic cleavage studies.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M670">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M670-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M670-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M670-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M670-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M670">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maslak</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Narvaez</surname>
+              <given-names>J.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mesolytic ceavage of C-C bonds. Comparison with homolytic and heterolytic processes in the same substrate</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>1990</year>
+          <volume>29</volume>
+          <fpage>283</fpage>
+          <lpage>285</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.199002831</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M670">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frankel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gertner</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zilkha</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of Poly-<italic>S</italic>-Alkyl-L-Cysteines</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1960</year>
+          <fpage>1390</fpage>
+          <lpage>1393</lpage>
+          <pub-id pub-id-type="doi">10.1039/jr9600001390</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M670">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dymicky</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Byler</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of ethyl <italic>n</italic>-carbobenzoxytyrosyl-<italic>s</italic>-benzylcysteinylglycinate</article-title>
+          <source>Org. Prep. Proced. Int.</source>
+          <year>1991</year>
+          <volume>23</volume>
+          <fpage>93</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="doi">10.1080/00304949109458288</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M670">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>V&#xF6;gtle</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Klieser</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cesium-ion assisted synthesis of strained compounds</article-title>
+          <source>Synthesis</source>
+          <year>1982</year>
+          <fpage>294</fpage>
+          <lpage>296</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1982-29785</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M670">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Pidgeon</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple and efficient method for preparation of unsymmetrical sulfides</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1997</year>
+          <volume>38</volume>
+          <fpage>5953</fpage>
+          <lpage>5954</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(97)01352-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M670">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herriott</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Picker</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase-transfer synthesis of sulfides and dithioacetals</article-title>
+          <source>Synthesis</source>
+          <year>1975</year>
+          <fpage>447</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1975-23797</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M670">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maslak</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Guthrie</surname>
+              <given-names>R.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electron apportionment in cleavage of radical-anions. 2. naphthylmethyl phenyl ethers <italic>vs.</italic> naphthyl benzyl ethers</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1986</year>
+          <volume>108</volume>
+          <fpage>2637</fpage>
+          <lpage>2640</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00270a022</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M670">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buuhoi</surname>
+              <given-names>N.P.</given-names>
+            </name>
+            <name>
+              <surname>Lecocq</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Side-chain bromination of some alkylnaphthalenes with <italic>n</italic>-bromosuccinimide</article-title>
+          <source>J. Chem. Soc.</source>
+          <year>1946</year>
+          <fpage>830</fpage>
+          <lpage>832</lpage>
+          <pub-id pub-id-type="doi">10.1039/JR9460000830</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M670">
+        <label>9.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McMurry</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Chemistry</source>
+          <edition>5th ed.</edition>
+          <publisher-name>Brooks/Cole</publisher-name>
+          <publisher-loc>Pacific Grove, CA, USA</publisher-loc>
+          <year>2000</year>
+          <fpage>729</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

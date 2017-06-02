@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M428</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M428</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bis-(1-phenyl-5-nitro-6-methylthio-1,2,3,4-tetrahydropyrimidinyl)benzene and Bis-(1-phenyl-5-nitro-6-methylthio-1,2,3,4-tetrahydropyrimidinyl)diphenyl</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dutta</surname>
+            <given-names>Milan C.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chanda</surname>
+            <given-names>Kaushik</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kishore</surname>
+            <given-names>Kaushal</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vishwakarma</surname>
+            <given-names>J.N.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M428" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M428">Organic Research Lab, Department of Chemistry, St. Anthony&#x2019;s College, Shillong-793 001 (India) <break/>Phone: 0364.2229928, Fax: 0364.2229558, e-mail: <email>jnvishwakarma@rediffmail.com</email></aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>08</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>3</issue>
+      <elocation-id>M428</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>06</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>nitroketene S</kwd>
+        <kwd>N-acetal</kwd>
+        <kwd>cyclocondensation</kwd>
+        <kwd>1,2,3,4-tetrahydropyrimidine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+     <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M428-i001.tif"/></p>
+      <p>In continuation with our on going program on the synthesis of tetrahydropyrimidines [<xref ref-type="bibr" rid="B1-molbank-2005-M428">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2005-M428">2</xref>], we have recently reported the synthesis of Bis-tetrahydropyrimidines [<xref ref-type="bibr" rid="B3-molbank-2005-M428">3</xref>] in which the rings are linked through flexible aliphatic chains. We now report the synthesis of the title compounds in which the rings are bonded through rigid aromatic systems. A mixture of p-phenylenediamine (54 mg, 0.5 mmol) and formaldehyde (60 mg, 2 mmol, 40% solution) was stirred in methanol (3 mL) for ten minutes and to this a solution of 1-nitro-2-anilino-2-methylthioethene <bold>1</bold> [<xref ref-type="bibr" rid="B4-molbank-2005-M428">4</xref>] (210 mg, 1 mmol) in 6 mL methanol was added and the mixture was stirred at room temperature for 5 hours, when a yellow solid precipitated out. After the completion of the reaction (monitored by tlc) the reaction mixture was cooled in ice water and the solid filtered, washed with methanol (2X2 mL) to give pure <bold>2a</bold> (220 mg, 76%), which was recrystallized from methanol. The reaction of <bold>1</bold> with benzidine was carried out in refluxing methanol to give <bold>2b</bold> in 63 % yield, which was recrystallized from benzene.</p>
+    <sec>
+      <title>1,4-Bis-(1-phenyl-5-nitro-6-methylthio-1,2,3,4-tetrahydropyrimidinyl)benzene (2a)</title>
+      <p>Melting point: 168-169 &#xB0;C (methanol, uncorrected).</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 1456; 1503; 1544; 1611.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4;= 1.94 (s, 6H, SCH<sub>3</sub>); 4.49(s, 4H, N-CH<sub>2</sub>C=); 4.87 (s, 4H, N-CH<sub>2</sub>-N); 6.70-6.73 (m, 4H); 7.06-7.33 (m, 10H).</p>
+      <p><sup>13</sup>C-NMR(75 MHz, CDCl<sub>3</sub>): &#x3B4;= 16.5; 48.8; 72.1; 116.5; 124.8; 126.4; 127.3; 129.8; 133.2; 145.5; 146.0; 160.2.</p>
+      <p>MS (m/z): 577 (M<sup>+</sup>).</p>
+    </sec>
+    <sec>
+      <title>4,4&#x2032;-Bis-(1-phenyl-5-nitro-6-methylthio-1,2,3,4-tetrahydropyrimidinyl)diphenyl (2b)</title>
+      <p>Melting point: 167-169 &#xB0;C (benzene, uncorrected).</p>
+      <p>IR (KBr, cm<sup>&#x2212;1</sup>): 1430; 1514; 1540; 1591.</p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4;= 1.94 (s, 6H, SCH<sub>3</sub>); 4.49 (s, 4H, N-CH<sub>2</sub>C=); 4.87 (s, 4H, N-CH<sub>2</sub>-N); 6.70-6.73 (m, 4H); 7.14-7.36 (m, 14H).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4;= 16.5; 48.8; 72.1; 116.5; 124.8; 126.4; 127.3; 128.3; 129.8; 133.2; 145.5; 146.0; 160.2.</p>
+      <p>MS (m/z): 653 (M<sup>+</sup>).</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2005-M428">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M428-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M428-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M428-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M428-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M428-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M428-s002-mod.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M428-s004" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M428-s002.mol">
+   <label>Supplementary File 4</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to thank Fr. I. Warpakma for facilities and Fr. Stephan Mavely &amp; Fr. J. Nellanatt for encouragement. Financial assistance from ICAR-NATP is gratefully acknowledged. The authors also wish to express their gratitude to Dr. Anubrata Das of ICAR for his keen interest in this investigation.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M428">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vishwakarma</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Mofizuddin</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ila</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Junjappa</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>1988</year>
+          <volume>25</volume>
+          <fpage>1387</fpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M428">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karim</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kishore</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Vishwakarma</surname>
+              <given-names>J.N.</given-names>
+            </name>
+          </person-group>
+          <source>J. Heterocyclic Chem.</source>
+          <year>2003</year>
+          <volume>40</volume>
+          <fpage>901-03</fpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M428">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chanda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dutta</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Kishore</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Vishwakarma</surname>
+              <given-names>J.N.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2004</year>
+          <fpage>M367</fpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2005-M428">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gompper</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schaefer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Ber.</source>
+          <year>1967</year>
+          <volume>100</volume>
+          <fpage>591</fpage>
+          <lpage>604</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Available from MDPI.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

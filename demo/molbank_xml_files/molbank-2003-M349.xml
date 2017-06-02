@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M349</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M349</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-(<italic>o</italic>-Hydroxyphenyl)-3-phenylpropenone <italic>N</italic>-Benzoylhydrazone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kotali*</surname>
+            <given-names>Antigoni</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lafazanis</surname>
+            <given-names>Ioannis S.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M349">Laboratory of Organic Chemistry, Department of Chemical Engineering, College of Engineering, University of Thessaloniki, Thessaloniki 54006, Greece<break/>E-mail: <email>kotali@eng.auth.gr</email></aff>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>4</issue>
+      <elocation-id>M349</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>03</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>06</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+       <copyright-statement>&#xA9; 2003 <underline><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.mdpi.net/" ext-link-type="uri">MDPI</ext-link></underline>.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+		</license>
+      </permissions>
+      <kwd-group>
+        <kwd><italic>o</italic>-Hydroxyaryl ketones</kwd> 
+		<kwd>carbonylhydrazones</kwd> 
+		<kwd>1-(<italic>o</italic>-hydroxyphenyl)-3-phenylpropenone</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>As part of a research programme targeting novel molecules derived from o-hydroxyaryl ketone hydrazones[<xref ref-type="bibr" rid="B1-molbank-2003-M349">1</xref>], we synthesised 1-(o-hydroxyphenyl)-3-phenylpropenone <italic>N</italic>-benzoylhydrazone.</p>
+	  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M349-i001.tif"/></p>
+      <p>1-(<italic>o</italic>-Hydroxyphenyl)-3-phenylpropenone was prepared according to the literature method [<xref ref-type="bibr" rid="B2-molbank-2003-M349">2</xref>]. Benzoic hydrazide is commercially available and was supplied by Aldrich. Benzoic hydrazide (0.63 g, 4.5 mmol) was added to a solution of 1-(<italic>o</italic>-hydroxyphenyl)-3-phenylpropenone (1 g, 4.5 mmol) in propanol-1 (10 mL). The reaction mixture was refluxed for 24 hours. It was then allowed to cool at room temperature. Subsequently, it was stored in the refrigerator overnight. Filtration of the precipitate, which was formed, afforded (1.38 g, 90 %) of the desired 1-(<italic>o</italic>-hydroxyphenyl)-3-phenylpropenone <italic>N</italic>-benzoylhydrazone as white crystals. The product was identified by <sup>1</sup>H NMR, <sup>13</sup>C NMR and MS and it was subjected to elemental analysis without further purification.</p>
+      <p>M.p. 201-202 &#xB0;C.</p>
+      <p>1H NMR (400 MHz, DMSO-d<sub>6</sub>): 6.94-7.03 (m, 3H), 7.33-7.59 (m, 10H), 7.8-8.15 (m, 3H), 10.18 (s, 1H), 10.91 (s, 1H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, DMSO-d<sub>6</sub>): 116.9, 118.1, 120.0, 120.6, 121.9, 125.3, 126.1, 127.0, 127.8, 128.4, 128.7, 128.9, 129.2, 131.3, 132.0, 132.4, 140.2, 157.2.</p> 
+	  <p>MS m/z (ES+): 707 [2M+Na]<sup>+</sup>, 365 [M + Na]<sup>+</sup>.</p>
+      <p>Anal. Calc. for C<sub>22</sub>H<sub>18</sub>N<sub>2</sub>O<sub>2</sub>: C 77.17, H 5.29, N 8.18; found: C 77.20, H 5.27, N, 8.19.</p>
+  </body>
+  <back>
+   <app-group>
+    <app id="app1-molbank-2006-M459">
+      <title>Supplementary materials</title>
+    <supplementary-material id="molbank-2003-M349-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M349-s001-mod.mol">
+	<label>Supplementary File 1</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2003-M349-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M349-s001.mol">
+	<label>Supplementary File 2</label>
+	</supplementary-material>
+   </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2003-M349">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kotali</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+          <source>Org. Prep. Proc. Int.</source>
+          <year>1994</year>
+          <volume>26</volume>
+          <fpage>159</fpage>
+          <lpage>192</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M349">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thakkar</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Cushman</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Tetrahedron Lett.</source>
+          <year>1994</year>
+          <volume>35</volume>
+          <fpage>6441</fpage>
+          <lpage>6444</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group><fn><p><italic>Sample availability</italic>: available from the authors and MDPI.</p></fn></fn-group>
+  </back>
+</article>

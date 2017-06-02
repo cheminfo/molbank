@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M743</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M743</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ethyl (1,3-diphenyl-1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidin-5-yl)acetate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Farghaly</surname>
+            <given-names>Thoraya A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gomha</surname>
+            <given-names>Sobhi M.</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M743" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M743">Department of Chemistry, Faculty of Science, University of Cairo, Giza, 12613, Egypt</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M743"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>s.m.gomha@hotmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>11</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M743</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>10</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Novel ethyl (1,3-diphenyl-1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidin-5-yl)acetate (<bold>5</bold>), was prepared <italic>via</italic> heating of 5-amino-1,3-diphenyl-4,5-dihydro-4-imino-1<italic>H</italic>-pyrazolo[3,4-<italic>d</italic>] pyrimidine (<bold>1</bold>) and diethyl malonate (<bold>2</bold>) under reflux. The structure of the synthesized compound was assigned on the basis of its elemental analysis, IR, <sup>1</sup>H-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyrazolo[3,4-<italic>d</italic>]pyrimidine</kwd>
+        <kwd>pyrazolo-triazolo-pyrimidine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidine exhibits interesting pharmacological activities such as glycogen synthase kinase-3 inhibitors [<xref ref-type="bibr" rid="B1-molbank-2011-M743">1</xref>], xanthine oxidase (XO) inhibitors [<xref ref-type="bibr" rid="B1-molbank-2011-M743">1</xref>] and adenosine receptor antagonists [<xref ref-type="bibr" rid="B2-molbank-2011-M743">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M743">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M743">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M743">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2011-M743">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M743">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M743">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M743">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2011-M743">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2011-M743">11</xref>]. These observations led us to synthesize a new pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidine from 5-amino-1,3-diphenyl-4,5-dihydro-4-imino-1<italic>H</italic>-pyrazolo[3,4-<italic>d</italic>]pyrimidine and diethyl malonate.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>5-Amino-1,3-diphenyl-4,5-dihydro-4-imino-1<italic>H</italic>-pyrazolo[3,4-<italic>d</italic>]pyrimidine (<bold>1</bold>) [12] was allowed to react with diethyl malonate (<bold>2</bold>) under reflux. The expected product of this reaction was structure 9,11-diphenylpyrazolo[3',4':4,5]pyrimido[1,6-<italic>b</italic>][1,2,4]triazepin-2,4-dione (<bold>3</bold>) or 4-ethoxy-9,11-diphenylpyrazolo[3',4':4,5]pyrimido[1,6-<italic>b</italic>][1,2,4]triazepin-2-one (<bold>4</bold>) or its isomeric ethyl (1,3-diphenyl-1<italic>H</italic>-pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidin-5-yl)acetate (<bold>5</bold>) (<xref ref-type="scheme" rid="molbank-2011-M743-sch001">Scheme 1</xref>). MS, <sup>1</sup>H NMR, IR and elemental analyses data of the isolated product were in full agreement with the structure <bold>5</bold> not the isomeric structures <bold>3</bold> or <bold>4</bold>. The IR spectrum of the isolated product showed bands at 1735 cm<sup>&#x2212;1</sup> characteristic for ester carbonyl group. Its <sup>1</sup>H NMR spectrum showed a singlet signal at &#x3B4; 4.12 for the acyclic CH<sub>2</sub> protons, in addition to triplet and quartet signals at &#x3B4; 1.25 and 4.22 due to the protons of ethyl group. </p>
+      <p><italic>Synthesis of</italic> <italic>ethyl (1,3-diphenyl-1H-pyrazolo[4,3-e][1,2,4]triazolo[1,5-c]pyrimidin-5-yl)acetate</italic> <bold>(5</bold>). A mixture of 5-amino-1,3-diphenyl-4-iminopyrazolo[3,4-<italic>b</italic>]pyrimidine (<bold>1</bold>) [<xref ref-type="bibr" rid="B12-molbank-2011-M743">12</xref>] (3.02 g, 10 mmol) and diethyl malonate (<bold>2</bold>) (2.4 g, 15 mmol) was heated under reflux for 2 h. After cooling, the solid precipitated was collected and crystallized from ethanol/dioxane mixture (1:1). </p>
+      <p>Yield: 96%; Yellow crystals; m.p. 200&#x2013;202 &#xB0;C. </p>
+      <p>GC-MS <italic>m/z</italic> (%): 399 (M<sup>+</sup>+ 1, 12), 398 (M<sup>+</sup>, 50), 326 (43), 256 (4), 127 (8),77 (100), 51 (65).</p>
+      <p>IR (KBr) <italic>v</italic><sub>max</sub> cm<sup>&#x2212;1</sup>: 1735 (C=O). </p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>): <italic>&#x3B4;</italic>(ppm) = 1.25 (t, <italic>J</italic> = 7 Hz, 3H, CH<sub>3</sub>), 4.12 (s, 2H, CH<sub>2</sub>), 4.22 (q, <italic>J</italic> = 7 Hz, 2H, CH<sub>2</sub>), 7.47-8.70 (m, 10H, Ar-H), 9.69 (s, 1H, pyrimidine-H).</p>
+      <p><sup>13</sup>C NMR (75 MHz, DMSO-d<sub>6</sub>): 13.99, 34.64, 60.83, 100.62, 122.0, 127.04, 127.31, 128.43, 129.01, 137.73, 138.71, 140.00, 143.83, 145.10, 146.58, 148.14, 161.19, 168.41. </p>
+      <p>Anal. Calcd. for C<sub>22</sub>H<sub>18</sub>N<sub>6</sub>O<sub>2</sub>(398.15): C, 66.32; H, 4.55; N, 21.09. Found: C, 66.18; H, 4.42; N, 20.89%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2011-M743">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M743-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M743-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M743-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M743-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M743">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagamatsu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Facile and general syntheses of 3- and/or 5-substituted 7<italic>H</italic>-pyrazolo[4,3- <italic>e</italic>]-1,2,4-triazolo[4,3-<italic>c</italic>]pyrimidines as a new class of potential xanthine oxidase inhibitors</article-title>
+          <source>Chem. Commun.</source>
+          <year>1999</year>
+          <fpage>1461</fpage>
+          <lpage>1462</lpage>
+          <pub-id pub-id-type="doi">10.1039/a903676h</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M743">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ongini</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Monopoli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cacciari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective adenosine A<sub>2A</sub> receptor antagonists</article-title>
+          <source>Il Farmaco</source>
+          <year>2001</year>
+          <volume>56</volume>
+          <fpage>87</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0014-827X(01)01024-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M743">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kishore</surname>
+              <given-names>D.P.</given-names>
+            </name>
+            <name>
+              <surname>Balakumar</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>P.P.</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>QSAR of adenosine receptor antagonists: Exploring physicochemical requirements for binding of pyrazolo[4,3-e]-1,2,4-triazolo[1,5-c]pyrimidine derivatives with human adenosine A3 receptor subtype</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2011</year>
+          <volume>21</volume>
+          <fpage>818</fpage>
+          <lpage>823</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2010.11.094</pub-id>
+          <pub-id pub-id-type="pmid">21163647</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M743">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Manfredini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Simoni</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zappaterra</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zocchi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Dionisotti</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ongini</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new pyrazolo[4,3-<italic>e</italic>]1,2,4-triazolo[1,5-<italic>c</italic>]pyrimidine and 1,2,3-triazolo[4,5-<italic>e</italic>]1,2,4-triazolo[1,5-<italic>c</italic>]pyrimidine displaying potent and selective activity as A<sub>2a</sub> adenosine receptor antagonists</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1994</year>
+          <volume>4</volume>
+          <fpage>2539</fpage>
+          <lpage>2544</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(01)80279-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M743">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>T.S.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Deflorian</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Yoo</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Phan</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kecsk&#xE9;s</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Szabo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shinkre</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Z.-G.</given-names>
+            </name>
+            <name>
+              <surname>Trenkle</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular probes for the A<sub>2A</sub> adenosine receptor based on a pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidin-5-amine scaffold</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2011</year>
+          <volume>21</volume>
+          <fpage>2740</fpage>
+          <lpage>2745</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2010.11.082</pub-id>
+          <pub-id pub-id-type="pmid">21185184</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M743">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dolzhenko</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Pastorin</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dolzhenko</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Chui</surname>
+              <given-names>W.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new synthesis of 2,8-disubstituted pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-c]pyrimidines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2009</year>
+          <volume>50</volume>
+          <fpage>5617</fpage>
+          <lpage>5621</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2009.07.113</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M743">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>El-Kashef</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Farghaly</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Vanelle</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Fruttarolo</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>A new synthesis of 2,8-disubstituted pyrazolo[4,3-<italic>e</italic>][1,2,4]triazolo[1,5-<italic>c</italic>]pyrimidines and related heterocycles</article-title>
+          <source>Tetrahedron</source>
+          <year>2004</year>
+          <volume>60</volume>
+          <fpage>5093</fpage>
+          <lpage>5104</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2004.04.010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M743">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harris</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Neustadt</surname>
+              <given-names>B.R.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lachowicz</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cohen-Williams</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Varty</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Stamford</surname>
+              <given-names>A.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potent and selective adenosine A<sub>2A</sub> receptor antagonists: [1,2,4]Triazolo[4,3-<italic>c</italic>]pyrimidin-3-ones</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2011</year>
+          <volume>21</volume>
+          <fpage>2497</fpage>
+          <lpage>2501</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2011.02.045</pub-id>
+          <pub-id pub-id-type="pmid">21398125</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M743">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Bovero</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fruttarolo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Romagnoli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Tabrizi</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Preti</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Varani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Borea</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Moorman</surname>
+              <given-names>A.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>New strategies for the synthesis of A<sub>3</sub> adenosine receptor antagonists</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <fpage>4161</fpage>
+          <lpage>4169</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(03)00484-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M743">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michielan</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bolcato</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Federico</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cacciari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Bacilieri</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Klotz</surname>
+              <given-names>K.-N.</given-names>
+            </name>
+            <name>
+              <surname>Kachler</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pastorin</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cardin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sperduti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Spalluto</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Moro</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Combining selectivity and affinity predictions using an integrated Support Vector Machine (SVM) approach: An alternative tool to discriminate between the human adenosine A<sub>2A</sub> and A<sub>3</sub> receptor pyrazolo-triazolo-pyrimidine antagonists binding sites</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>5259</fpage>
+          <lpage>5274</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2009.05.038</pub-id>
+          <pub-id pub-id-type="pmid">19501513</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M743">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paeshuyse</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Letellier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Froeyen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dutartre</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Vrancken</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Canard</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>De Clercq</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gueiffier</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Teulade</surname>
+              <given-names>J.-C.</given-names>
+            </name>
+            <name>
+              <surname>Herdewijn</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Puerstinger</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Koenen</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kerkhofs</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Neyts</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A pyrazolotriazolopyrimidinamine inhibitor of bovine viral diarrhea virus replication that targets the viral RNA-dependent RNA polymerase</article-title>
+          <source>Antiviral Res.</source>
+          <year>2009</year>
+          <volume>82</volume>
+          <fpage>141</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.antiviral.2009.02.192</pub-id>
+          <pub-id pub-id-type="pmid">19428605</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2011-M743">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shawali</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Fahmi</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Albar</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Hassaneen</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Abdelhamid</surname>
+              <given-names>H.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>A facile synthesis of some pyrazolo analogues of tricyclic purine derivatives <italic>via</italic> hydrazonoyl halides</article-title>
+          <source>J. Chem. Res. (S)</source>
+          <year>1994</year>
+          <volume>6</volume>
+          <fpage>1040</fpage>
+          <lpage>1049</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M743-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M743-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound (<bold>5</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M743-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

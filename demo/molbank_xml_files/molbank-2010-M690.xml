@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M690</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M690</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>Z</italic>)-2-(4-Chloro-5<italic>H</italic>-1,2,3-dithiazol-5-ylideneamino)-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koutentis</surname>
+            <given-names>Panayiotis A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M690" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Michaelidou</surname>
+            <given-names>Sophia S.</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M690">Department of Chemistry, University  of Cyprus, P.O. Box 20537, 1678 Nicosia, Cyprus</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M690"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>koutenti@ucy.ac.cy</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>08</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>3</issue>
+      <elocation-id>M690</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>07</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>07</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an Open Access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>2-Amino-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile <bold>1</bold> reacts with 4,5-dichloro-1,2,3-dithiazolium chloride <bold>2</bold> in the presence of pyridine (2 equiv.) to afford (<italic>Z</italic>)-2-(4-chloro-5<italic>H</italic>-1,2,3-dithiazol-5-ylideneamino)-6-ethoxy-4-phenylpyridine-3,5- dicarbonitrile <bold>3</bold> in 88% yield.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyridine</kwd>
+        <kwd>dithiazolium</kwd>
+        <kwd>dithiazolimine</kwd>
+        <kwd>Appel salt</kwd>
+        <kwd>condensation</kwd>
+        <kwd>heterocycle</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p><italic>N</italic>-Aryl-1,2,3-dithiazolimines show interesting antitumour [<xref ref-type="bibr" rid="B1-molbank-2010-M690">1</xref>], antifungal [<xref ref-type="bibr" rid="B2-molbank-2010-M690">2</xref>], antibacterial [<xref ref-type="bibr" rid="B3-molbank-2010-M690">3</xref>], and herbicidal activities [<xref ref-type="bibr" rid="B4-molbank-2010-M690">4</xref>]. Furthermore, these compounds are useful precursors for difficult to access cyano substituted heteroarenes [<xref ref-type="bibr" rid="B3-molbank-2010-M690">3</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M690">5</xref>]. <italic>N</italic>-Aryl-1,2,3-dithiazolimines are readily prepared from the condensation of anilines and 4,5-dichloro-1,2,3-dithiazolium chloride <bold>2</bold> commonly known as Appel&#x2019;s salt [<xref ref-type="bibr" rid="B6-molbank-2010-M690">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M690">7</xref>].</p>
+      <p>Surprisingly, there are only a few examples, of <italic>N</italic>-heteroazine substituted 1,2,3-dithiazolimines [<xref ref-type="bibr" rid="B7-molbank-2010-M690">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M690">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2010-M690">9</xref>]. During ongoing studies of the chemistry of 4,5-dichloro-1,2,3-dithiazolium chloride <bold>2</bold> [<xref ref-type="bibr" rid="B10-molbank-2010-M690">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2010-M690">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M690">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2010-M690">13</xref>], we needed access to a highly substituted <italic>N</italic>-pyridyl-1,2,3-dithiazolimine. Fully substituted 2-amino-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile <bold>1</bold> can be prepared from benzaldehyde and malononitrile in ethanol in the presence of base [<xref ref-type="bibr" rid="B14-molbank-2010-M690">14</xref>] and is a maxi-K channel opening agent [<xref ref-type="bibr" rid="B15-molbank-2010-M690">15</xref>].</p>
+      <p>Condensation of 2-amino-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile <bold>1</bold> with Appel salt <bold>2</bold> in the presence of a tertiary amine base gave as expected the highly crystalline dithiazolimine <bold>3</bold>. Of the various amine bases screened (pyridine, 2,6-lutidine, DABCO, triethylamine, H&#xFC;nig&#x2019;s base, DBU and DBN), the use of pyridine (2 equiv.) led to the highest yield (88%).
+       <disp-formula><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M690-i001.tif"/></disp-formula></p>
+      <p>Some of the chemistry of the dithiazolimine <bold>3</bold> has been previously reported, but no experimental procedure for its preparation nor spectroscopic/physical data, were given [<xref ref-type="bibr" rid="B16-molbank-2010-M690">16</xref>]. These details for the preparation and full characterization of dithiazolimine <bold>3</bold> are now reported.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Anhydrous Na<sub>2</sub>SO<sub>4</sub> was used for drying organic extracts and volatiles were removed under reduced pressure. The reaction mixture and column eluents were monitored by TLC, using commercial glass backed thin layer chromatography (TLC) plates (Merck Kieselgel 60 F<sub>254</sub>). The plates were observed under UV light at 254 and 365 nm. The technique of dry flash chromatography was used, using Merck Silica Gel 60 (less than 0.063 mm). Melting point was determined using a PolyTherm-A, Wagner &amp; Munz, Kofler-Hotstage Microscope apparatus. IR spectrum was recorded on a Shimadzu FTIR-NIR Prestige-21 spectrometer with Pike Miracle Ge ATR accessory and strong, medium and weak peaks are represented by s, m and w, respectively. <sup>1</sup>H NMR spectrum was recorded on a Bruker Avance 300 machine (at 300 MHz). Deuterated chloroform was used for deuterium lock and the signals are referenced to the residual undeuterated solvent peak. Low resolution (EI) mass spectrum was recorded on a Shimadzu Q2010 GCMS with a direct inlet probe. Microanalysis was performed at London Metropolitan University.</p>
+      <sec>
+        <title>(<italic>Z</italic>)-2-(4-Chloro-5<italic>H</italic>-1,2,3-dithiazol-5-ylideneamino)-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile <italic><bold>(3)</bold></italic></title>
+        <p>To a stirred suspension of 4,5-dichloro-1,2,3-dithiazolium chloride <bold>2</bold> (79 mg, 0.38 mmol) in DCM (4 mL) at <italic>ca</italic>. 20 &#xB0;C and protected with a CaCl<sub>2</sub> drying tube, was added 2-amino-6-ethoxy-4-phenylpyridine-3,5-dicarbonitrile <bold>1</bold> (100 mg, 0.38 mmol). After 1 h, to the reaction mixture was added dropwise pyridine (61.5 &#x3BC;L, 0.76 mmol) and the mixture was then left to stir at <italic>ca</italic>. 20 &#xB0;C for an additional 2 h. The reaction mixture was then adsorbed onto silica and chromatography (hexane) gave S<sub>8</sub> (traces). Further elution (hexane/DCM, 8:2) gave 4-chloro-5<italic>H</italic>-1,2,3-dithiazole-5-thione (8.3 mg, 8%) and further elution (hexane/DCM 7:3) gave the <italic>title compound</italic> (133.4 mg, 88%) as yellow-orange cotton-like fibers, mp 264&#x2013;265 &#xB0;C (from toluene); (Found C, 51.2; H, 2.4; N, 17.5 C<sub>17</sub>H<sub>10</sub>ClN<sub>5</sub>OS<sub>2</sub> requires C, 51.1; H, 2.5; N, 17.5%); <italic>&#x3BB;</italic><sub>max</sub> (DCM) 229 (log <italic>&#x3B5;</italic> 4.53), 264 (4.50), 279 inf (4.39), 301 inf (4.19), 329 inf (3.98), 403 inf (4.21), 424 (4.45), 447 (4.51), 472 (4.24); <italic>v</italic><sub>max</sub>/cm<sup>-1</sup> 3061w, 2976w, 2224m (C&#x2261;N), 1553s, 1518m, 1508s, 1468s, 1443m, 1429m, 1412m, 1373s, 1339s, 1237w, 1186m, 1165m, 1078w, 1022w, 883m, 804m, 745m, 710s; <italic>&#x3B4;</italic><sub>H</sub> (300 MHz; DMSO-<italic>d</italic><sub>6</sub>) 7.64 (5H, s, Ph <italic>H</italic>), 4.71 (2H, q, <italic>J</italic> 6.8, OC<italic>H</italic><sub>2</sub>), 1.48 (3H, t, <italic>J</italic> 6.9, OCH<sub>2</sub>C<italic>H</italic><sub>3</sub>); <italic>&#x3B4;</italic><sub>C</sub> (75 MHz; DMSO-<italic>d</italic><sub>6</sub>) 164.9, 164.7, 160.5, 158.7, 149.3, 133.1, 130.8 (Ph <italic>C</italic>H), 128.8 (Ph <italic>C</italic>H), 128.7 (Ph <italic>C</italic>H), 114.4 (<italic>C</italic>&#x2261;N), 113.9 (<italic>C</italic>&#x2261;N), 98.6, 92.1, 67.0 (<italic>C</italic>H<sub>2</sub>), 14.3 (<italic>C</italic>H<sub>3</sub>); <italic>m/z</italic> (EI); 401 (M<sup>+</sup>+2, 40%), 400 (M<sup>+</sup> + 1, 55), 399 (M<sup>+</sup>, 100), 398 (88), 372 (25), 364 (9), 336 (80), 305 (11), 278 (11), 272 (16), 246 (41), 218 (37), 191 (21), 165 (58), 138 (22), 127 (12), 125 (12), 102 (9), 91 (12), 77 (20), 70 (10), 64 (91), 51 (19).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M690">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M690-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M690-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M690-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M690-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to thank the Cyprus Research Promotion Foundation [Grant No. &#x3A4;&#x395;&#x3A7;&#x39D;&#x39F;&#x39B;&#x39F;&#x393;&#x399;&#x391;/&#x398;&#x395;&#x3A0;&#x399;&#x3A3;/0308(&#x392;&#x395;)/08] and the following organisations in Cyprus for generous donations of chemicals and glassware: the State General Laboratory, the Agricultural Research Institute and the Ministry of Agriculture. Furthermore we thank the A.G. Leventis Foundation for helping to establish the NMR facility in the University of Cyprus.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M690">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Konstantinova</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Bol&#x2019;shakov</surname>
+              <given-names>O.I.</given-names>
+            </name>
+            <name>
+              <surname>Obruchnikova</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Laborie</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Tanga</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sop&#xE9;na</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Lanneluc</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Picot</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sabl&#xE9;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Thi&#xE9;ry</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-pot synthesis of 5-phenylimino, 5-thieno or 5-oxo-1,2,3-dithiazoles and evaluation of their antimicrobial and antitumor activity</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>136</fpage>
+          <lpage>141</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2008.11.010</pub-id>
+          <pub-id pub-id-type="pmid">19036587</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M690">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thiery</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Besson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Cottenceau</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Pons</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimicrobial activity of novel <italic>N</italic>-quinolinyl and <italic>N</italic>-naphthylimino-1,2,3-dithiazoles</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>1998</year>
+          <volume>33</volume>
+          <fpage>149</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0223-5234(98)80040-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M690">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Besson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Cottenceau</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Pons</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimicrobial evaluation of 3,1-benzoxazin-4-ones, 3,1-benzothiazin-4-ones, 4-alkoxyquinazolin-2-carbonitriles and <italic>N</italic>-arylimino-1,2,3-dithiazoles</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>1996</year>
+          <volume>6</volume>
+          <fpage>2343</fpage>
+          <lpage>2348</lpage>
+          <pub-id pub-id-type="doi">10.1016/0960-894X(96)00423-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M690">
+        <label>4.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayer</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Foerster</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Verfahren zur Herstellung von aromatisch oder heteroaromatisch substituierten Cyanthioformamiden</article-title>
+          <source>DD Pat.</source>
+		  <patent>212387</patent>
+          <year>1984</year>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M690">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christoforou</surname>
+              <given-names>I.C.</given-names>
+            </name>
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The preparation of dicyano-1,3,4-thiadiazole and tricyanothiazole via 1,2,3-dithiazole chemistry</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>9967</fpage>
+          <lpage>9972</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2009.10.003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M690">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Appel</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Janssen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Siray</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Knoch</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthese und Reaktionen des 4,5-Dichlor-1,2,3-dithiazolium-chlorids</article-title>
+          <source>Chem. Ber.</source>
+          <year>1985</year>
+          <volume>118</volume>
+          <fpage>1632</fpage>
+          <lpage>1643</lpage>
+          <pub-id pub-id-type="doi">10.1002/cber.19851180430</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M690">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>English</surname>
+              <given-names>R.F.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>&#x39F;.&#x391;.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Vlasova</surname>
+              <given-names>O.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Conversion of imino-1,2,3-dithiazoles into 2-cyanobenzothiazoles, cyanoimidoyl chlorides and diatomic sulfur</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>1997</year>
+          <fpage>201</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="doi">10.1039/a605815i</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M690">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Konstantinova</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Rakitin</surname>
+              <given-names>O.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Sivadasan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Torroba</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>New route to 2-cyanobenzimidazoles</article-title>
+          <source>Tetrahedron</source>
+          <year>1998</year>
+          <volume>54</volume>
+          <fpage>9639</fpage>
+          <lpage>9650</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(98)00521-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M690">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Besson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Thiery</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient Synthesis of Dithiooxamides from <italic>N</italic>-Arylimino-1,2,3-dithiazoles</article-title>
+          <source>Synthesis</source>
+          <year>1999</year>
+          <fpage>1345</fpage>
+          <lpage>1348</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-1999-3555</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M690">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michaelidou</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The conversion of 2-(4-chloro-5<italic>H</italic>-1,2,3-dithiazolylidene-amino)benzonitriles into 3-aminoindole-2-carbonitriles using triphenylphosphine</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>8428</fpage>
+          <lpage>8433</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2009.07.064</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M690">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The reaction of 4,5-dichloro-1,2,3-dithiazolium chloride with dimethylsulfonium dicyanomethylide: an improved synthesis of (4-chloro-1,2,3-dithiazolylidene)-malononitrile</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>6850</fpage>
+          <lpage>6854</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2009.06.076</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M690">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The reaction of 4,5-dichloro-1,2,3-dithiazolium chloride with DMSO: An improved synthesis of 4-chloro-1,2,3-dithiazol-5<italic>H</italic>-one</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>6855</fpage>
+          <lpage>6858</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2009.06.075</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M690">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The degradation of 4,5-dichloro-1,2,3-dithiazolium chloride in wet solvents</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>6859</fpage>
+          <lpage>6862</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2009.06.086</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M690">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Ins&#xFA;a</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Lora-Tamayo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Soto</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of heterocyclic compounds. II. A simple one-step synthesis of pyridines from aldehydes and malononitrile</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1970</year>
+          <volume>7</volume>
+          <fpage>1305</fpage>
+          <lpage>1309</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570070612</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M690">
+        <label>15.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Watanuki</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Takuwa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kawaguchi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Okazaki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hirano</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Saitoh</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Medicine comprising dicyanopyridine derivative</article-title>
+          <source>Eur. Pat.</source>
+		  <patent>1302463A1</patent>
+		  <year>2003</year>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M690">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christoforou</surname>
+              <given-names>I.C.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Michaelidou</surname>
+              <given-names>S.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>1,2,3-Dithiazole chemistry in heterocyclic synthesis</article-title>
+          <source>Arkivoc</source>
+          <year>2006</year>
+          <volume>7</volume>
+          <fpage>207</fpage>
+          <lpage>223</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200721257</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

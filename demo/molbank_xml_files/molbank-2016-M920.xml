@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M920</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M920</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-(2-Hydroxyethyl)-2-methylbenzothiazolium Bromide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Minkovska</surname>
+            <given-names>Stela</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M920" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M920" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gadjev</surname>
+            <given-names>Nikolay</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M920" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Burdzhiev</surname>
+            <given-names>Nikola</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M920" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alexiev</surname>
+            <given-names>Alexi</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M920" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deligeorgiev</surname>
+            <given-names>Todor</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M920" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M920"><label>1</label>Institute of Catalysis, Bulgarian Academy of Sciences, Acad. G. Bonchev St, Bldg 11, 1113 Sofia, Bulgaria</aff>
+      <aff id="af2-molbank-2016-M920"><label>2</label>Faculty of Chemistry and Pharmacy, Sofia University &#x201C;St. Kliment Ohridski&#x201D;, 1, blv. J. Bourchier, 1164 Sofia, Bulgaria; <email>nigadjev@abv.bg</email> (N.G.); <email>ohnb@chem.uni-sofia.bg</email> (N.B.); <email>ohaa@chem.uni-sofia.bg</email> (A.A.); <email>toddel@chem.uni-sofia.bg</email> (T.D.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M920"><label>*</label>Correspondence: <email>stelamin@ic.bas.bg</email>; Tel.: +359-2-979-35-76</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M920</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel method for the preparation of 3-(2-hydroxyethyl)-2-methylbenzothiazolium bromide was developed. It consists of heating of 2-methylbenzothiazole, 2-bromoethanol and ethoxyethanol for 2 h. On the next day the precipitate was filtered and air dried.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-methylbenzothiazole</kwd>
+        <kwd>2-bromoethanol</kwd>
+        <kwd>3-(2-hydroxyethyl)-2-methylbenzo-thiazoli-um bromide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M920" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Very few papers in English were found in the literature that deal with the synthesis of 3-(2-hydroxyethyl)-2-methylbenzothiazolium bromide <bold>3</bold> or iodide [<xref ref-type="bibr" rid="B1-molbank-2016-M920">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M920">2</xref>]. The rest of the references found were in Chinese or Japanese [<xref ref-type="bibr" rid="B3-molbank-2016-M920">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M920">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M920">5</xref>] or related to the patent literature [<xref ref-type="bibr" rid="B6-molbank-2016-M920">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M920">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M920">8</xref>] and thus were relatively inaccessible. The preparation of <bold>3</bold> with a reaction time of less than 2 h has only been reported once, but in that reference the proposed method required special conditions and MW system [<xref ref-type="bibr" rid="B1-molbank-2016-M920">1</xref>]. 3-(2-Hydroxyeth-yl)-2-methylbenzothiazolium bromide is a useful compound. It has been shown that this derivative, which incorporates a benzothiazole subunit, exhibits very high static first hyperpolarizability values in the acido-generated form [<xref ref-type="bibr" rid="B2-molbank-2016-M920">2</xref>]. This compound is a typical intermediate for the preparation of cyanine dyes [<xref ref-type="bibr" rid="B1-molbank-2016-M920">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M920">2</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M920">8</xref>] which have different applications in the preparation of, for example, styryl dyes [<xref ref-type="bibr" rid="B2-molbank-2016-M920">2</xref>], or squaraine dyes [<xref ref-type="bibr" rid="B5-molbank-2016-M920">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M920">6</xref>]. The usual synthetic method requires heating for up to 18 h [<xref ref-type="bibr" rid="B8-molbank-2016-M920">8</xref>]. However, we have found that <bold>3</bold> can be obtained in a shorter time by heating for only 2 h (<xref ref-type="scheme" rid="molbank-2016-M920-sch001">Scheme 1</xref>).</p>
+      <p>The structure of 3-(2-hydroxyethyl)-2-methylbenzothiazolium bromide was confirmed by NMR spectra (See <xref ref-type="app" rid="app1-molbank-2016-M920">Supplementary Materials</xref>).</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M920">
+      <title>2. Experimental Section</title>
+      <sec id="sec2dot1-molbank-2016-M920">
+        <title>2.1. Materials</title>
+        <p>Unless otherwise stated, all reagents and solvents used in the synthesis and analysis were obtained from Sigma-Aldrich (St. Louis, MO, USA), Alfa-Aesar (Haverhill, MA, USA), as commercial products of analytical grade, and used without further purification.</p>
+      </sec>
+      <sec id="sec2dot2-molbank-2016-M920">
+        <title>2.2. Instrumentation</title>
+        <p><sup>1</sup>H-NMR spectrum were recorded on a Bruker Avance III 500 MHz (Rheinstetten, Germany) using DMSO-<italic>d</italic><sub>6</sub> at room temperature. Chemical shifts (&#x3B4;) are reported in ppm and referenced indirectly to the corresponding shift of the deuterated solvent peak. The melting point temperatures were determined on a Kofler bench apparatus (DDR, Berlin, Germany) and are uncorrected.</p>
+      </sec>
+      <sec id="sec2dot3-molbank-2016-M920">
+        <title>2.3. Experimental Procedure for the Preparation of 3-(2-hydroxyethyl)-2-methylbenzothiazolium Bromid</title>
+        <p>&#x410; 250 mL Erlenmeyer flask was charged with 2-methylbenzothiazole <bold>1</bold> (12.70 mL, 0.1 mol), 2-bromoethanol <bold>2</bold> (10.00 mL, 0.14 mol), and 15 mL ethoxyethanol. The reaction mixture was heated under reflux and stirred for 120 min. The reaction mixture was cooled down to room temperature and left at room temperature for 24 h. On the next day the precipitate of <bold>3</bold> was filtered off and air dried. The compound was recrystallized from methanol/ethylacetate with charcoal. The crude yield of <bold>3</bold> was 80%. The pure product for 3-(2-hydroxy-ethyl)-2-methylbenzothiazolium bromide had a melting point 166&#x2013;168 &#xB0;C (methanol/ethyl acetate)&#x2014; lit. m.p.178 &#xB0;C [<xref ref-type="bibr" rid="B2-molbank-2016-M920">2</xref>].</p>
+        <p><italic>3-(2-Hydroxyethyl)-2-methylbenzothiazolium Bromide</italic> <bold>5</bold> <sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; (ppm): 3.24 (s, 3H, C<bold>H</bold><sub>3</sub>); 3.89 (t, 2H, C<bold>H</bold><sub>2</sub>OH, <italic>J</italic> = 5.0 Hz); 4.87 (t, 2H, C<bold>H</bold><sub>2</sub>N, <italic>J</italic> = 5.0 Hz); 5.23 (br.s, 1H, O<bold>H</bold>); 7.80 (t, 1H, <bold>H</bold>-Ph, <italic>J</italic> = 7.6 Hz); 7.87 (t, 1H, <bold>H</bold>-Ph, <italic>J</italic> = 7.6 Hz); 8.34 (d, 1H, <bold>H</bold>-Ph, <italic>J</italic> = 8.3 Hz); 8.47 (d, 1H, <bold>H</bold>-Ph, <italic>J</italic> = 8.3 Hz); <sup>13</sup>C-NMR (DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; (ppm): 17.41 (1C, <bold>C</bold>H<sub>3</sub>); 51.99 (1C, <bold>C</bold>H<sub>2</sub>N); 58.53 (1C, <bold>C</bold>H<sub>2</sub>OH); 117.13 (1C, Ph); 124.61 (1C, Ph); 128.03 (1C, Ph); 129.01 (1C, Ph); 129.22 (1C, Ph); 141.11 (1C, Ph); 178.03 (1C, N<bold>C</bold>S).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M920">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>www.mdpi.com/1422-8599/2016/4/M920</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>All sources of funding of the study should be disclosed. Please clearly indicate grants that you have received in support of your research work. Clearly state if you received funds for covering the costs to publish in open access.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>The listed authors contributed to this work as follows: T.D. contributed to the synthetic approach and together with N.G. carried out the described method. N.G. recrystallized the compounds, S.M. and A.A. prepared the manuscript. N.B. acquired and assigned the <sup>1</sup>H- and <sup>13</sup>C-NMR spectra. All authors read and approve the final manuscript.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M920">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Winstead</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>Fleming</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Toney</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave Synthesis of Quaternary Ammonium Salts</article-title>
+          <source>Molecules</source>
+          <year>2008</year>
+          <volume>13</volume>
+          <fpage>2107</fpage>
+          <lpage>2113</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules13092107</pub-id>
+          <pub-id pub-id-type="pmid">18830143</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M920">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Man&#xE7;ois</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sanguinet</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pozzo</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Guillaume</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Champagne</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Rodriguez</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Adamietz</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ducasse</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Castet</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acido-triggered nonlinear optical switches: Benzazolo-oxazolidines</article-title>
+          <source>J. Phys. Chem. B</source>
+          <year>2007</year>
+          <volume>111</volume>
+          <fpage>9795</fpage>
+          <lpage>9802</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp073386+</pub-id>
+          <pub-id pub-id-type="pmid">17665943</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M920">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.-M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Confirmation of structure of 2-substituted benzothiazole derivatives</article-title>
+          <source>Huaxue Yu Nianhe</source>
+          <year>2007</year>
+          <volume>29</volume>
+          <fpage>296</fpage>
+          <lpage>301</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M920">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ye</surname>
+              <given-names>C.-P.</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>J.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>H.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>X.-H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 2-substituted benzothiazoline derivatives</article-title>
+          <source>Hecheng Huaxue</source>
+          <year>2005</year>
+          <volume>13</volume>
+          <fpage>206</fpage>
+          <lpage>207</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M920">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hyodo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yagi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kitayama</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nakazumi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of polymer liquid crystals containing squarylium dyes</article-title>
+          <source>Shikizai Kyokaishi</source>
+          <year>2003</year>
+          <volume>76</volume>
+          <fpage>3</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.4011/shikizai1937.76.3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M920">
+        <label>6.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.G.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of squaraine chemical sensor for colorimetric identification of Fe and Cu ions</article-title>
+          <source>CN Patent</source>
+          <patent>103172590</patent>
+          <day>26</day>
+          <month>June</month>
+          <year>2013</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M920">
+        <label>7.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inagaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Methine compounds and manufacture thereof</article-title>
+          <source>JP Patent</source>
+          <patent>08043979</patent>
+          <day>16</day>
+          <month>February</month>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M920">
+        <label>8.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.Y.</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>G.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Szydlo</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Deka</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dyes and methods of detection of nucleic acid in immature red blood cells</article-title>
+          <source>U.S. Patent</source>
+          <patent>20020037589</patent>
+          <day>28</day>
+          <month>March</month>
+          <year>2002</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2016-M920-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M920-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Preparation of 3-(2-hydroxyethyl)-2-methylbenzothiazolium bromide <bold>3</bold> by quaternization with 2-bromoethanol <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M920-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

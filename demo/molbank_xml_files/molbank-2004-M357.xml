@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M357</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2004-M357</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(s)-2,2&#x2019;-Bis[5-(p-phenyloxyl)-10,15,20-triphenylporphyrin-methyl]-1,1&#x2019;-binaphthyl</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Hai-Yang</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M357" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2004-M357" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Yao-Wei</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M357" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lai</surname>
+            <given-names>Tat-Shing</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M357" ref-type="aff">1</xref>
+          <xref rid="af3-molbank-2004-M357" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ying</surname>
+            <given-names>Xiao</given-names>
+          </name>
+          <xref rid="af2-molbank-2004-M357" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Jun-Chun</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M357" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gu</surname>
+            <given-names>Guo-bang</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M357" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2004-M357" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2004-M357"><label>1</label>Department of Applied Chemistry, South China University of Technology, Guangzhou 510641, China.</aff>
+      <aff id="af2-molbank-2004-M357"><label>2</label>Department of Applied Physics, South China University of Technology, Guangzhou 510641, China. (E-mail: <underline><email>chhyliu@scut.edu.cn</email></underline>)</aff>
+      <aff id="af3-molbank-2004-M357"><label>3</label>Department of Chemistry, Hong Kong University of Science and Technology, Hong Kong, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2004-M357"><label>*</label>Authors to whom correspondence should be addressed.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>2004</volume>
+      <issue>1</issue>
+      <elocation-id>M357</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>09</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>09</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 MDPI.</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M357-i001.tif"/></p>
+      <p>(s)-2,2&#x2019;-Bis[Bromomethyl]-1,1&#x2019;-binaphthyl was prepared <italic>via</italic> the bromination of (s)-2,2&#x2019;-dimethyl-1,1&#x2019;-binaphthyl[<xref ref-type="bibr" rid="B1-molbank-2004-M357">1</xref>] by N-bromosuccinimide (NBS) in CCl<sub>4</sub> with benzoyl peroxide as initiator (yield: 45.0%). The mixture of 2,2&#x2019;-Bis[bromomethyl]-1,1&#x2019;-binaphthyl (0.10g, 0.23 mmol), 5-(<italic>p</italic>-hydroxy)phenyl-10,15,20-triphenylporphyrin (0.73g, 1.16 mmol) and anhydrous potassium carbonate (1g) was stirred in dry DMF (30 mL) for 24 hours at room temperature. Reaction mixture was then poured into saturated NaCl aqueous solution (100 mL). The precipitate was filtered and washed with water, dried in vacuum. The product was purified by chromatography on silica gel with dichloromethane as an eluent. (s)-2,2&#x2019;-Bis[5-(<italic>p</italic>-phenoxyl)-10,15,20-triphenylporphyrin-methyl]- 1,1&#x2019;-binaphthyl was obtained as a purple solid (0.29 g, yield: 81.9%).</p>
+      <p><sup>1</sup>H-NMR (300 MHz, in CDCl<sub>3</sub>) d(ppm): -2.85 (s, 4H, pyrrole NH), 5.15-5.31 (m, 4H, CH<sub>2</sub>), 7.16-8.23 (several m, 50 H, Ar-H), 8.70-8.81 (m, 16 H, pyrrole b-H).</p>
+      <p>IR(KBr) <italic>&#x3BD;</italic><sub>max</sub> (cm<sup>-1</sup>): 3312.9 (w), 3052.6 (w), 1597.8 (m), 1557.8 (w), 1505.5 (m), 1471.5 (m), 1440.4 (w), 1400.2 (w), 1349.6 (m), 1287.7 (m), 1223.0 (s), 1174.2 (m), 1108.1 (w), 1072.3 (w), 1001.3 (m), 980.6 (m), 965.8 (s), 845.1 (w), 799.6 (s), 729.6 (s), 700.9 (s), 520.5 (w).</p>
+      <p>UV-Vis (in CH<sub>2</sub>Cl<sub>2</sub>) l<sub>max</sub> (nm): 418.1, 515.0, 552.0, 591.1, 647.0.</p>
+      <p>CD (in CH<sub>2</sub>Cl<sub>2</sub>) De (l, nm): -5.0 (285.2 ), -5.0 (395.3 ), +7.1 (418.2).</p>
+      <p>FAB-MS <italic>m/z</italic>: 1539.9 [M+H]<sup>+</sup>.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2004-M357">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M357-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M357-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2004-M357-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M357-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgment</title>
+      <p>This work was supported by the Natural Science Foundation of China (No.29971011) and Natural Science Foundation of Guangdong Province(No.000489).</p>
+    </ack>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B1-molbank-2004-M357">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maigrot</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Maigrot</surname>
+              <given-names>J. P.</given-names>
+            </name>
+          </person-group>
+          <source>Synthesis</source>
+          <year>1985</year>
+          <fpage>317</fpage>
+          <lpage>320</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M716</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M716</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Copper 5,10,15,20-Tetra(<italic>N</italic>-ethyl-3-carbazolyl) Porphyrin</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tidwell</surname>
+            <given-names>Cynthia P.</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M716" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M716" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fondren</surname>
+            <given-names>L. Dalila</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M716" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nikles</surname>
+            <given-names>David E.</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M716" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M716"><label>1</label>Department of Biology, Chemistry, and Mathematics, University of Montevallo, UM Station 6480, Montevallo, Alabama, 35115, USA</aff>
+      <aff id="af2-molbank-2011-M716"><label>2</label>Department of Chemistry, The University of Alabama, UA Box 870336, Tuscaloosa, Alabama, 35487, USA</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M716"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>tidwellc@montevallo.edu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>01</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M716</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>12</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>01</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The copper complex of 5,10,15,20-Tetra(<italic>N</italic>-ethyl-3-carbazolyl) porphyrin was synthesized and characterized by electronic absorption spectrophotometry and cyclic voltammetry. The spectral data were in agreement with the proposed structure. The copper complex exhibited a shift in the Soret band in comparison to the non-metallated porphyrin and the extinction coefficient for the Soret band was on the order of 10<sup>5</sup> cm<sup>&#x2212;1</sup>M<sup>&#x2212;1</sup>. Trends observed in the oxidation and reduction potentials were consistent with the nature of the porphyrin. That is, the electron donating group in 5,10,15,20-tetra(<italic>N</italic>-ethyl-3-carbazolyl) porphyrin enhances oxidation and inhibits reduction.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>porphyrin</kwd>
+        <kwd>chromophore</kwd>
+        <kwd>metal complex</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction </title>
+      <p>Porphyrins are of interest in many areas of study including photodynamic cancer therapy, optical data storage, sensors, and solar energy [<xref ref-type="bibr" rid="B1-molbank-2011-M716">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2011-M716">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M716">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M716">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M716">5</xref>]. The focus of this paper is to report the synthesis, electronic absorption spectroscopy, and cyclic voltammetry of the copper complex of 5,10,15,20-tetra(<italic>N</italic>-ethyl-3-carbazolyl) porphyrin, TECP. </p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M716-i001.tif"/>
+      </p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>Chemicals and Reagents</title>
+        <p>Reagents and solvents used in the synthesis and metallation of TECP, NMR measurements, and UV-vis were purchased from Aldrich Chemical Company and used as received. Methylene chloride used in cyclic voltammetry experiments was distilled over calcium hydride before use. Tetrabutylammonium tetrafluoroborate was purchased from Fisher Scientific Company and used as received.</p>
+      </sec>
+      <sec>
+        <title>Instrumentation</title>
+        <p>Ultraviolet-visible (UV-vis) absorption spectra were recorded on a Hewlett Packard 8451A spectrophotometer. Cyclic voltammograms (CV) were recorded using a computer linked EG&amp;G Princeton Applied Research Potentiostat/Galvanostat Model 273 equipped with an IR compensator and model 270 Electrochemical software. The CVs were obtained in a four-necked cell with a platinum working electrode, a platinum wire counter electrode, and a saturated calomel electrode (SCE) as the reference electrode. A capacitor (0.1 &#x3BC;F), was connected between the counter electrode and the reference electrode to reduce background noise. The porphyrin solutions were 1 &#xD7; 10<sup>&#x2212;3</sup> M in 0.1 M methylene chloride solutions of tetrabutylammonium tetrafluoroborate. Potentials were reported versus a S.C.E. and not corrected for liquid junction potentials. Deaeration of the solution was achieved by passing a stream of nitrogen through the solution. The platinum working electrode was cleaned with solvent, using a lint free wipe, between each run and polished periodically.</p>
+      </sec>
+      <sec>
+        <title>Synthesis </title>
+        <p><italic>5,10,15,20-Tetra(N-ethyl-3-carbazolyl) Porphyrin:</italic> TECP was synthesized as reported previously [<xref ref-type="bibr" rid="B6-molbank-2011-M716">6</xref>]. The structure was confirmed using <sup>1</sup>H NMR, <sup>13</sup>C NMR, UV-Vis and high resolution mass spectrometry. UV (CHCl<sub>3</sub>) [&#x3BB;,nm (&#x3B5;, cm<sup>&#x2212;1</sup>M<sup>&#x2212;1</sup>)]: 433(2.8 &#xD7; 10<sup>5</sup>), 523(1.3 &#xD7; 10<sup>4</sup>), 562.5(1.1 &#xD7; 10<sup>4</sup>), 654.5(5.6 &#xD7; 10<sup>3</sup>). <sup>1</sup>H NMR (360 MHz, CDCl<sub>3</sub>), &#x3B4; (ppm): 8.97 (s, 4H), 8.89 (s, 8H), 8.37(d, 4H, <italic>J</italic> = 8.1 Hz), 8.19 (d, 4H, <italic>J</italic> = 7.8 Hz), 7.75 (d, 4H, <italic>J</italic> = 8.2 Hz), 7.58 (m, 8H), 7.28 (t, <italic>J</italic> = 7.8 Hz)), 4.63 (q, <italic>J</italic> = 7.1), 1.68 (t, <italic>J</italic> = 7.0), &#x2013;2.4 (s). <sup>1</sup>H NMR (360 MHz, Acetone-d6), &#x3B4; (ppm): 9.03 (s), 8.93 (s), 8.40 (d, <italic>J</italic> = 8.4 Hz), 8.32(d, <italic>J</italic> = 7.6 Hz), 7.99 (d, <italic>J</italic> = 8.4 Hz), 7.76 (d, <italic>J</italic> = 8.3 Hz), 7.58 (t, <italic>J</italic> = 7.7 Hz), 7.27 (t, <italic>J</italic> = 7.5 Hz), 4.76 (q, <italic>J</italic> = 7.1), 1.65 (t, <italic>J</italic> = 7.0), &#x2013;2.4 (s). HRMS-FAB (m/z): calcd for C<sub>76</sub>H<sub>59</sub>N<sub>8</sub>: 1083.486 a.m.u.; observed: 1083.487 a.m.u.</p>
+        <p><italic>Copper 5,10,15,20-Tetra(N-ethyl-3-carbazolyl) Porphyrin.</italic> The copper 5,10,15,20-Tetra(<italic>N</italic>-ethyl-3-carbazolyl) porphyrin was prepared using chromatographed TECP (0.2002 g, 1.848 &#xD7; 10<sup>&#x2212;4</sup> mol), in approximately 50 mL of boiling chloroform. To this solution a saturated solution of copper (II) acetate hydrate in 3 mL of methanol was added. After 1 minute of refluxing the reaction mixture was found to have a &#x3BB;max of 429 nm. This shift in the electronic absorption spectrum indicated the completion of the reaction. The reaction mixture was rotavaped to dryness, rinsed with methanol, and filtered giving 0.2189 g (1.912 &#xD7; 10<sup>&#x2212;4</sup> moles) of crude Cu(II)TECP. The Cu(II)TECP was purified using a silica gel column with CHCl<sub>3</sub> as the eluent coming off as a brilliant red band. For 0.1093 g crude compound chromatographed, 0.0253 g of pure compound was obtained. Thus, for the overall reaction 0.0507 g, 4.43 &#xD7; 10<sup>&#x2212;5</sup> moles, of pure CuTECP was obtained, giving a yield of 23.9%. UV-vis Data [&#x3BB;,nm (&#x3B5;, cm<sup>&#x2212;1</sup>M<sup>&#x2212;1</sup>)], CHCl<sub>3</sub> 429(2.4 &#xD7; 10<sup>5</sup>), 545(1.2 &#xD7; 10<sup>4</sup>), 583(3.4 &#xD7; 10<sup>3</sup>). </p>
+      </sec>
+    </sec>
+      <sec sec-type="results">
+        <title>Results and Discussion</title>
+        <p>In the electronic absorption spectra of the metallated porphyrin a shift in the Soret band and the disappearance of at least one of the Q bands is expected and observed. This disappearance is due to the increased symmetry acquired by the porphyrin with introduction of a metal ion to the ring. The extinction coefficient for the Soret band are on the order of 10<sup>5</sup> cm<sup>&#x2212;1</sup>M<sup>&#x2212;1</sup>. </p>
+        <p>CuTECP undergoes two successive one-electron oxidations at 0.875 V and 1.248 V vs. S.C.E. A single electron reduction of CuTECP is observed at &#x2212;1.29 V <italic>vs</italic>. S.C.E. These values for the electro-oxidation and reduction of CuTECP correspond extremely well with what is reported in the literature for CuTPP. It is reported that CuTPP in benzonitrile with 0.1 M nBu<sub>4</sub>NClO<sub>4</sub> undergoes two, one electron oxidations at 0.99 V and 1.33 V <italic>vs</italic>. S.C.E. [<xref ref-type="bibr" rid="B7-molbank-2011-M716">7</xref>]. A reduction of CuTECP was observed at &#x2212;1.20 V <italic>vs</italic>. S.C.E. This corresponds to a reduction of CuTPP in THF-DMF solvent reported to occur in at &#x2212;1.20 V <italic>vs</italic>. S.C.E. [<xref ref-type="bibr" rid="B8-molbank-2011-M716">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2011-M716">9</xref>].</p>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>Conclusions</title>
+        <p>All data observed for the copper complex of TECP follow trends expected when compared to the TPP complexes.</p>
+      </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2011-M716">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M716-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M716-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2011-M716-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M716-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgements </title>
+      <p>This work was financially supported by the Research and Special Projects Committee of the University of Montevallo and a graduate fellowship at the University of Alabama funded in part by the Sponsors of the Materials for Information Technology Center. We would like to thank Ken Belmore, the Nuclear Magnetic Resonance specialist at the University of Alabama, for running the NMR of our base porphyrin.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M716">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>L.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Upendra Khurana Porphyrins as carrier in PVC based membrane potentiometric sensors for Nickel (II)</article-title>
+          <source>Anal. Chim. Acta</source>
+          <year>1997</year>
+          <volume>355</volume>
+          <fpage>33</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-2670(97)81609-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M716">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>L.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Upendra Khurana, Pankaj Kumar Molybdate Sensor based on 5,10,15,20-tetraphenylporphyrinatocobalt Complex in PVC matrix</article-title>
+          <source>Anal. Chim. Acta</source>
+          <year>1999</year>
+          <volume>379</volume>
+          <fpage>201</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-2670(98)00629-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M716">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mangla</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Protoporphyrin IX dimethyl ester as active material in PVC matrix.membranes for the fabrication of Zinc (II) selective sensor</article-title>
+          <source>Sens. Actuators B</source>
+          <year>2001</year>
+          <volume>76</volume>
+          <fpage>617</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0925-4005(01)00656-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M716">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prasad</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Metallo-tetraazaporphyrin based anion sensors: Regulation of sensor characteristics through central metal ion coordination</article-title>
+          <source>Anal. Chim. Acta</source>
+          <year>2004</year>
+          <volume>508</volume>
+          <fpage>61</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.aca.2003.11.056</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M716">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Prasad</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Magnessium-tetrazaporphyrin incorporated PVC matrix as a new material for fabrication of Mg<sup>2+</sup> selective potentiometric sensor</article-title>
+          <source>Talanta</source>
+          <year>2004</year>
+          <volume>63</volume>
+          <fpage>1027</fpage>
+          <lpage>1033</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.talanta.2004.01.012</pub-id>
+          <pub-id pub-id-type="pmid">18969530</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M716">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tidwell</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Alexander</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Fondren</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Belmore</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nikles</surname>
+              <given-names>D.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of 5,10,15,20-tetra(<italic>N</italic>-ethyl-3-carbazolyl) porphyrin</article-title>
+          <source>Indian J. Chem. Sect. B</source>
+          <year>2007</year>
+          <volume>46B</volume>
+          <fpage>1658</fpage>
+          <lpage>1665</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M716">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolberg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Manassen</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Electrochemical and electron paramagnetic resonance studies of metalloporphyrins and their electrochemical oxidation products</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1970</year>
+          <volume>92</volume>
+          <fpage>2982</fpage>
+          <lpage>2991</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00713a010</pub-id>
+          <pub-id pub-id-type="pmid">4315772</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M716">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kadish</surname>
+              <given-names>K.M.</given-names>
+            </name>
+          </person-group>
+          <source>The Electrochemistry of Metalloporphyrins in Nonaqueous Media in Progress in Inorganic Chemistry</source>
+          <publisher-name>John Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1986</year>
+          <fpage>435</fpage>
+          <lpage>605</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M716">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Felton</surname>
+              <given-names>R.H.</given-names>
+            </name>
+            <name>
+              <surname>Lintschitz</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Polarographic Reduction of Porphyrins and Electron Spin Resonance of Porphyrin Anions</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1966</year>
+          <volume>88</volume>
+          <fpage>1113</fpage>
+          <lpage>1116</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00958a004</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

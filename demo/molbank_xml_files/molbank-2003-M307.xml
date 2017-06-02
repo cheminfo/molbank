@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M307</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M307</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(<italic>b-D</italic>-Ribofuranosyl)-4-(<italic>p</italic>-tolylazo)-5-trifluoromethyl-2,4-dihydropyrazol-3-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haikal</surname>
+            <given-names>Abdelfattah</given-names>
+          </name>
+          <xref rid="c1-molbank-2003-M307" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zohdi</surname>
+            <given-names>Hussein F.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Badi</surname>
+            <given-names>Zahra</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M307">Department of Chemistry, Faculty of Science, United Arab Emirates University, P.O.Box 17551 Al-Ain, UAE</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2003-M307">E-mail: <underline><email>a.haikal@uaeu.ac.ae</email></underline> and <underline><email>hussein.zohdi@uaeu.ac.ae</email></underline></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>1</issue>
+      <elocation-id>M307</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>09</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Ribofuranose</kwd>
+        <kwd>Nucleosides</kwd>
+        <kwd>Dihydropyrazol-3-one</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+	  <p><disp-formula>
+		<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M307-i001.tif"/>
+      </disp-formula></p>
+      <p>The desired compound <bold>2</bold> was obtained by complete deprotection of the acetylated nucleoside <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2003-M307">1</xref>] using triethylamine [<xref ref-type="bibr" rid="B2-molbank-2003-M307">2</xref>]. To a solution of <bold>1</bold> (0.8g, 1.5 mmol) in methanol (25 ml) was added triethylamine (2 ml). The mixture was stirred at room temperature and the reaction was followed by tlc. After complete deprotection (24 hours), the reaction mixture was evaporated and coevaporated with methanol (3 x 30 ml), then chromatographed over silica gel using CH<sub>2</sub>Cl<sub>2</sub>/MeOH (95:5 v/v) to give 0.55 g (90%) of <bold>2</bold> as yellow powder.</p>
+      <p>R<sub>f</sub>: 0.30 (CH<sub>2</sub>Cl<sub>2</sub>/MeOH, 95/5 v/v).</p>
+      <p>UV (lmax , 95% ethanol): 384nm</p>
+      <p>IR (KBr, cm<sup>-1</sup>): 3414 (OH), 1662 (CO pyrazolone).</p>
+      <p>MS (m/z): 402.</p>
+      <p><sup>1</sup>H-NMR (250 MHz, DMSO-d<sub>6</sub>): 2.38(s, 3H, CH<sub>3</sub>); 2.40(s, 1H, CH); 3.73(dd, 1H, H-5` J5`,4`=2.4 Hz) 3.91-3.96(dd, 1H, H-5`` J5``,4`=2.4 Hz); 4.23-4.24(m, 1H, H-4`); 4.53(t, 1H, H-3` J3`,2`=3.66 Hz); 4.75(t, 1H, H-2` J2`,3`=5.13 Hz); 5.94(d, 1H, H-1`, J1`,2`=4.92 Hz); 7.21-7.37(m, 4H, aromatic CH).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-d<sub>6</sub>):  22.0(CH3); 48.9(CH); 63.08(C-5`), 71.71(C-3`); 73.90(C-2`); 85.63(C-4`); 88.08(C-1`); 116.9 (2 aromatic carbons), 121.0, 122.0 (2 aromatic carbons), 130.4, 144.0  (2 quaternary aromatic carbons); 137.7(q, CF<sub>3</sub>); 148.5(C=N); 173.5(CO).</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2003-M307">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M307-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M307-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2003-M307-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M307-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2003-M307">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haikal</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zohdi</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Badi</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2003</year>
+          <elocation-id>M0306</elocation-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M307">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zohdi</surname>
+              <given-names>H. F.</given-names>
+            </name>
+            <name>
+              <surname>Haikal</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <year>2001</year>
+          <volume>6</volume>
+          <fpage>M263</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

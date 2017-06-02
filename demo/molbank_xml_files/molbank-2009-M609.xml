@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M609</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M609</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 2-(4-Propyloxyphenyl)benzothiazole</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ha</surname>
+            <given-names>Sie-Tiong</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M609" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2009-M609" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koh</surname>
+            <given-names>Teck-Ming</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M609" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ong</surname>
+            <given-names>Siew-Teng</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M609" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Teck-Leong</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M609" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sivasothy</surname>
+            <given-names>Yasodha</given-names>
+          </name>
+          <xref rid="af3-molbank-2009-M609" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M609"><label>1</label>Department of Chemical Science, Faculty of Science, Engineering &amp; Technology, Universiti Tunku Abdul Rahman, Jln Universiti Bandar Barat, 31900 Kampar, Perak, Malaysia</aff>
+      <aff id="af2-molbank-2009-M609"><label>2</label>Department of Science, Faculty of Engineering &amp; Science, Universiti Tunku Abdul Rahman, Jln Genting Kelang, Setapak 53300 Kuala Lumpur, Malaysia</aff>
+      <aff id="af3-molbank-2009-M609"><label>3</label>School of Chemical Sciences, Universiti Sains Malaysia, 11800 Minden, Pulau Pinang, Malaysia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M609"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>hast@utar.edu.my</email>; <email>hast_utar@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>3</issue>
+      <elocation-id>M609</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>06</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>07</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new 2-(4-propyloxyphenyl)benzothiazole was synthesized and its IR, <sup>1</sup>H and <sup>13</sup>C NMR and MS spectroscopic data are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-(4-propyloxyphenyl)benzothiazole</kwd>
+        <kwd>heterocyclic fused-ring</kwd>
+        <kwd>alkyl chain</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Heterocyclic molecules have received overwhelming responses owing to their diversified molecular design and remarkable optical [<xref ref-type="bibr" rid="B1-molbank-2009-M609">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M609">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M609">3</xref>], liquid crystalline [<xref ref-type="bibr" rid="B4-molbank-2009-M609">4</xref>] and electronic properties [<xref ref-type="bibr" rid="B5-molbank-2009-M609">5</xref>]. 2-Substitued benzothiazole has emerged in its usage as a core structure in calamitic liquid crystals. It has been reported that liquid crystalline compounds incorporating a benzothiazole ring exhibit good hole-transporting properties with a low ionization potential, making them of potential interest as hole-transporting materials in organic light-emitting devices (OLEDs) [<xref ref-type="bibr" rid="B6-molbank-2009-M609">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2009-M609">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2009-M609">8</xref>]. In view of the potential applications of these compounds, we are prompted to generate the derivatives by introducing different substituents into the existing skeleton of the molecule [<xref ref-type="bibr" rid="B9-molbank-2009-M609">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2009-M609">10</xref>]. </p>
+        <p><italic>Preparation of Benzothiazole 1</italic></p>
+        <p>2-Aminothiophenol (5.01 g, 40 mmol) and 4-hydroxybenzaldehyde (4.88 g, 40 mmol) in absolute ethanol (40 mL) was heated under reflux for 6 hours. The reaction mixture was subsequently cooled to room temperature, then distilled water (60 mL) was added slowly until the mixture turned cloudy. It was kept overnight at about 20 &#xB0;C and the solid formed was filtered and washed with cold ethanol:water (1:1.5) and dichloromethane.</p>
+		<disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M609-i001.tif"/>
+        </disp-formula>
+        <p><italic>Preparation of Benzothiazole 2</italic></p>
+        <p>In analogy to a recently published procedure [<xref ref-type="bibr" rid="B11-molbank-2009-M609">11</xref>], benzothiazole <bold>1</bold> (4.55 g, 20 mmol) in acetone (40 ml), was added to a solution of potassium hydroxide (1.12 g, 20 mmol) in distilled water (5 ml). This was followed by addition of a small amount of potassium iodide into the mixture. The reaction mixture was heated under reflux for an hour with stirring. 1-Bromopropane (3.07 g, 25 mmol) was then added to the flask and reflux was continued for 20 hours. The solid obtained was repeatedly recrystallized from absolute ethanol whereupon the pure compound was isolated as a white solid (2.53 g, 47%).</p>
+        <p>Melting point: 113.3 &#xB0;C. </p>
+        <p>EI-MS m/z (rel. int. %): 269 (42) [M<sup>+</sup>], 227 (100), 198 (12), 108 (10), 69 (6).</p>
+        <p>IR (KBr, cm<sup>-1</sup>): 2958, 2935 (C-H aliphatic); 1600 (C=N); 1259, 1064 (C-O ether).</p>
+        <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 1.0 (t, <italic>J</italic> = 7.4 Hz, 3H, C<underline>H</underline><sub>3</sub>-), 1.8 (qt, <italic>J</italic> = 7.0, 7.4 Hz, 2H, CH<sub>3</sub>-C<underline>H</underline><sub>2</sub>-CH<sub>2</sub>-O-), 4.0 (t, <italic>J</italic> = 6.6 Hz, 2H, -C<underline>H</underline><sub>2</sub>-O-), 7.0 (d, <italic>J</italic> = 8.8 Hz, 2H, Ar-H), 7.3 (dd, <italic>J</italic> = 1.9, 7.8 Hz, 1H, Ar-H), 7.4 (dd, <italic>J</italic> = 2.0, 8.0 Hz, 1H, Ar-H), 7.8 (d, <italic>J</italic> = 8.0 Hz, 1H, Ar-H), 8.0 (m, 3H, Ar-H).</p>
+        <p><sup>13</sup>C NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 167.9 (C=N), 161.5, 154.2, 134.8, 129.1, 126.2, 126.1, 124.7, 122.8, 121.5, 114.8 for aromatic carbons, 69.7 (-O-<underline>C</underline>H<sub>2</sub>-), 30.9 [-(<underline>C</underline>H<sub>2</sub>)-CH<sub>2</sub>O-], 22.5 (-<underline>C</underline>H<sub>3</sub>).</p>
+        <p>Elemental analysis: Calculated for C<sub>16</sub>H<sub>15</sub>NOS: C, 71.34%, H, 5.61%, N, 5.20%; Found: C, 71.41%, H, 5.50%, N, 5.13%.</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M609">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M609-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M609-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M609-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M609-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>  
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author (S.T. Ha) would like to thank Universiti Tunku Abdul Rahman (UTAR) for the financial support through UTAR Research Fund (Vote No. 6200/H02), and the Malaysia Toray Science Foundation (UTAR Vote No. 4359/000) for funding this project. T.M. Koh would like to acknowledge UTAR for the award of the research and teaching assistantships. </p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2009-M609">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.L.</given-names>
+            </name>
+            <name>
+              <surname>Jenekhe</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Macromolecules</source>
+          <year>1996</year>
+          <volume>29</volume>
+          <fpage>6189</fpage>
+          <lpage>6192</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M609">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chou</surname>
+              <given-names>S.S.P.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>P.K.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>1996</year>
+          <fpage>1045</fpage>
+          <lpage>1046</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M609">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raimundo</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Blanchard</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ledoux-Rax</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hierle</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Michaux</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Roncali</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Chem. Commun.</source>
+          <year>2000</year>
+          <fpage>1597</fpage>
+          <lpage>1598</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M609">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Cryst. Liq. Cryst.</source>
+          <year>2001</year>
+          <volume>363</volume>
+          <fpage>77</fpage>
+          <lpage>84</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2009-M609">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maruyama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Suganuma</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <source>Synthetic Metals</source>
+          <year>1995</year>
+          <volume>74</volume>
+          <fpage>183</fpage>
+          <lpage>185</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2009-M609">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Funahashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hanna</surname>
+              <given-names>J.I.</given-names>
+            </name>
+          </person-group>
+          <source>Jpn J. Appl. Phys.</source>
+          <year>1996</year>
+          <volume>35</volume>
+          <fpage>L703</fpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2009-M609">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Funahashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hanna</surname>
+              <given-names>J.I.</given-names>
+            </name>
+          </person-group>
+          <source>Phys. Rev. Lett.</source>
+          <year>1997</year>
+          <volume>78</volume>
+          <fpage>2184</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2009-M609">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Funahashi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hanna</surname>
+              <given-names>J.I.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Cryst. Liq. Cryst.</source>
+          <year>1997</year>
+          <volume>304</volume>
+          <fpage>429</fpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2009-M609">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Yip</surname>
+              <given-names>F.W.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+          </person-group>
+          <source>Mol. Cryst. Liq. Cryst.</source>
+          <year>2009</year>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2009-M609">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Beh</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+          </person-group>
+          <source>Chin. Chem. Lett.</source>
+          <year>2009</year>
+          <comment>in press</comment>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2009-M609">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J.P.W.</given-names>
+            </name>
+            <name>
+              <surname>Win</surname>
+              <given-names>Y.F.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+          </person-group>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>1</volume>
+          <fpage>M598</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

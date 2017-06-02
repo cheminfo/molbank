@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M390</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2004-M390</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-Benzyloxymethyl-2,2,4,4-tetrachloro-8-oxabicyclo[3.2.1]oct-6-en-3-one</article-title>
+      </title-group>
+      <contrib-group>
+	     <contrib contrib-type="author">
+          <name>
+            <surname>Kreiselmeier</surname>
+            <given-names>G&#xFC;nter</given-names>
+          </name>      
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name> 
+		   <xref rid="af1-molbank-2004-M390" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2004-M390">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany Fax: (+ 49) 711/6854269; E-mail: <email>baldur.foehlisch@po.uni-stuttgart.de</email></aff>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>03</month>
+        <year>2004</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>2004</volume>
+      <issue>1</issue>
+      <elocation-id>M390</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 MDPI.</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+	 <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M390-i001.tif"/></p>
+      <p>A mixture of 2-benzyloxymethylfuran[<xref ref-type="bibr" rid="B1-molbank-2004-M390">1</xref>] (1.88 g, 10 mmol) and pentachloroacetone[<xref ref-type="bibr" rid="B2-molbank-2004-M390">2</xref>] (2.30 g, 10 mmol) was cooled in an ice bath. With magnetic stirring, a 1-molar solution of sodium 2,2,2-trifluoroethoxide in 2,2,2-trifluoroethanol[<xref ref-type="bibr" rid="B3-molbank-2004-M390">3</xref>] (14 mL, 14 mmol) was added dropwise, within 2.5 hours. Sodium chloride precipitated. The ice bath was removed, and stirring was continued for 3 h at room temperature. Then, 25 mL of water was added dropwise; the sodium chloride dissolved, and crystals of the title compound were forming. To complete the crystallization, the mixture was stirred at 0&#xB0; C for 1 hour. The solid was filtered and washed with water to the point of neutrality[<xref ref-type="bibr" rid="B4-molbank-2004-M390">4</xref>]. After a final wash with a few mL of ice-cold 50% aqueous ethanol the colourless crystals were dried over P<sub>4</sub>O<sub>10</sub> to yield 2.52 g (66%) with m.p. 99&#x2013;99.5 &#xB0;C.</p>
+      <p>TLC (silica, petroleum ether/ethyl acetate, 10:1 v/v): A greenish-brown spot emerged after spraying the sheet with vanillin/sulfuric acid reagent followed by heating with a hot-air gun; <italic>R</italic><sub>f</sub> = 0.42.</p>
+      <p><sup>1</sup>H-NMR (250 MHz, CDCl3): d= 4.19 (center of an AB sub-spectrum with d<sub>A</sub> = 4.27, d<sub>B</sub> = 4.11, <italic>J</italic><sub>AB</sub> = 11.5 Hz, diastereotopic BnOCH<sub>2</sub>), 4.65 (center of an AB sub-spectrum with d<sub>A</sub> = 4.70, d<sub>B</sub> = 4.59, <italic>J</italic><sub>AB</sub> = 12.1 Hz, diastereotopic PhCH<sub>2</sub>), 5.26 (appearing as a &#x2018;d&#x2019;, line distance 1.6 Hz, 1H, X part of an ABX sub-spectrum that could not be fully analysed, H-5), 6.48&#x2013;6.54 (6 lines of the AB part of the ABX sub-spectrum, <italic>J</italic><sub>AB</sub> = 6.0 Hz, 2 H, H-6 and H-7), 7.24&#x2013;7.40 (m, 5 H, C<sub>6</sub>H<sub>5</sub>).</p>
+      <p><sup>13</sup>C-NMR/DEPT (62.9 MHz, CDCl<sub>3</sub>): d= 67.6 (+, BnO<italic>C</italic>H<sub>2</sub>), 74.05 (+, Ph<italic>C</italic>H<sub>2</sub>), 82.2 (C<sub>q</sub>, C-4 or C-2), 85.1(C<sub>q</sub>, C-2 or C-4], 87.6 (-, C-5), 94.3 (C<sub>q</sub>, C-1), 127.7 (-), 128.0 (-), 128.5 (-), [C-2&#x2013;C-6 of the phenyl group], 133.2 (-, C-6 or C-7), 136.0 (-, C-7 or C-6), 137.25 (C<sub>q</sub>, C-1 of the phenyl group), 184.6 (C<sub>q</sub>, C-3).</p>
+      <p>IR (KBr): 3090, 3075, 3040, 3010 (=C-H), 2960, 2935, 2910 (sh), 2900, 2855 (C-H), 1760, 1740 (C=O), 1595 cm<sup>-1</sup> (C=C).</p>
+      <p>Anal. Calcd. for C<sub>15</sub>H<sub>12</sub>C<sub>l4</sub>O<sub>3</sub> (382.1): C, 47.16; H, 3.17; Cl, 37.12. Found: C, 47.35; H, 3.30; Cl, 36.98.</p>
+      </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2004-M390">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M390-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M390-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2004-M390-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M390-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>  
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2004-M390">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Achmatowicz</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Burzynska</surname>
+              <given-names>M. H.</given-names>
+            </name>
+          </person-group>
+           <source>Tetrahedron</source>   
+          <year>1982</year>
+		  <volume>38</volume>
+          <fpage>3507</fpage>
+          <lpage>3513</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2004-M390">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bugrova</surname>
+              <given-names>L. V.</given-names>
+            </name>
+            <name>
+              <surname>Rudnev</surname>
+              <given-names>G. K.</given-names>
+            </name>
+            <name>
+              <surname>Kristich</surname>
+              <given-names>A. I.</given-names>
+            </name>
+            <name>
+              <surname>Radchenko</surname>
+              <given-names>V. I.</given-names>
+            </name>
+            <name>
+              <surname>Mishchenko</surname>
+              <given-names>L. F.</given-names>
+            </name>
+          </person-group>          
+          <source>Zh. Prikl. Khim. (Leningrad)</source> 
+		<year>1973</year>
+          <volume>46</volume>
+          <fpage>1529</fpage>
+          <lpage>1533</lpage>
+		 <comment><italic>J. Appl. Chem. USSR</italic> <bold>1973</bold>, <italic>2</italic>, 1627&#x2013;1631</comment>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2004-M390">
+	  <label>3.</label>
+	    <citation citation-type="journal">
+         <label>(a)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xF6;hlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gehrlach</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Herter</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Angew. Chem.</source>
+          <year>1982</year>
+          <volume>94</volume>
+          <fpage>144</fpage>  
+		  <comment><italic>Angew. Chem. Suppl.</italic> <bold>1982</bold>, <italic>94</italic>, 241; <italic>Angew. Chem., Int. Ed. Engl.</italic> <bold>1982</bold>, <italic>21</italic>, 137</comment>
+        </citation>
+        <citation citation-type="journal">
+         <label>(b)</label>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sendelbach</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Schwetzler-Raschke</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Radl</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Henle</surname>
+              <given-names>G. H.</given-names>
+            </name>
+            <name>
+              <surname>Korfant</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Reiner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Föhlisch</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>1999</year>
+          <volume>64</volume>
+          <fpage>3398</fpage>
+		 <lpage>3408</lpage>
+        </citation>
+	   </ref>
+      <ref id="B4-molbank-2004-M390">
+        <label>4.</label>
+        <note>
+         <p>This work-up, <italic>i.e.</italic> precipitation by careful addition of water, was also used for the preparation of oxabicyclic compounds from pentachloroacetone and furan (71% yield, m.p. 90–91 &#xB0;C), 2-methylfuran (63%, m.p. 56–57 &#xB0;C), 3-methylfuran (88%, m.p. 89–90 &#xB0;C), 2,5-dimethylfuran (89%, 112–113 &#xB0;C), and 2-(3-butenyl)-3-methylfuran (86%, m.p. 59–60 &#xB0;C)[<xref ref-type="bibr" rid="B3-molbank-2004-M390">3</xref>]. If the products do not crystallize immediately, the oily precipitate becomes solid on scratching with a glass rod. The compounds are pure enough for dechlorination, but may be purified by sublimation <italic>in vacuo</italic>.</p>
+         </note>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M919</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M919</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-Ethyl-2-(ethylimino)-4-methyl-2,3-dihydro-1,3-thiazole-5-carboxylate Ethyl Ester</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meng</surname>
+            <given-names>Ge</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M919" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Mei</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cheng</surname>
+            <given-names>Ya-Nan</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Kai</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tong</surname>
+            <given-names>Jing</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Jie-He</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M919">School of Pharmacy, Health Science Center, Xi&#x2019;an Jiaotong University, Xi&#x2019;an, Shaanxi 710061, China; <email>wangmei11900@126.com</email> (M.W.); <email>15033267339@163.com</email> (Y.-N.C.); <email>chenkai2528@163.com</email> (K.C.); <email>tj0217@126.com</email> (J.T.); <email>zhjh0329@126.com</email> (J.-H.Z.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M919"><label>*</label>Correspondence: <email>mengge@mail.xjtu.edu.cn</email>; Tel.: +86-29-8265-5424</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>11</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M919</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An efficient procedure to obtain the new compound <bold>1a</bold> from ethyl acetoacetate (<bold>2a</bold>), NBS and <italic>N</italic>,<italic>N</italic>&#x2032;-diethylthiourea (<bold>4a</bold>) was reported. In comparison with the traditional method to synthesize its analogues, this efficient, catalyst-free, and one-pot synthetic method is facile. The work-up procedure is easy and gives the pure target compound under milder reaction conditions in a relatively high yield of 75%.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2,3-dihydro-1,3-thiazole</kwd>
+        <kwd>one-pot synthesis</kwd>
+        <kwd><italic>N</italic>,<italic>N&#x2032;</italic>-diethylthiourea</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M919" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>In view of the importance of functionalized 2,3-dihydrothiazole derivatives in both the organic synthesis [<xref ref-type="bibr" rid="B1-molbank-2016-M919">1</xref>] and the biological fields [<xref ref-type="bibr" rid="B2-molbank-2016-M919">2</xref>], several preparation methods have been developed [<xref ref-type="bibr" rid="B3-molbank-2016-M919">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M919">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M919">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M919">6</xref>]. The traditional synthetic route to this type of skeleton (<bold>1</bold>) usually involves two steps from &#x3B2;-keto esters (<bold>2</bold>), a halogenated reagent such as <italic>N</italic>-bromosuccinamide (NBS) or <italic>N</italic>-chlorosuccinamide (NCS), and thiourea or its derivatives (<bold>4</bold>) (<xref ref-type="scheme" rid="molbank-2016-M919-sch001">Scheme 1</xref>) [<xref ref-type="bibr" rid="B7-molbank-2016-M919">7</xref>]. This method usually involves the tedious purification procedures of the halogenated intermediates (<bold>3a</bold> and <bold>3b</bold>). In order to obtain diversely substituted 2,3-dihydrothiazole-4-carboxylate esters efficiently, an improved method employed isothiocyanate, primary alkylamine, and 2-chloro-1,3-dicarbonyl compounds as the starting materials [<xref ref-type="bibr" rid="B8-molbank-2016-M919">8</xref>]. The latter material could be changed into &#x3B2;-nitroacrylates in ionic liquid [<xref ref-type="bibr" rid="B9-molbank-2016-M919">9</xref>]. The main material isothiocyanates of those methods usually need to be synthesized and purified ahead of the usage, which hampers the wide use of this method. Recently, a method to synthesize  1,3-thiazol-2-imine derivatives from benzoylphenylthioureas and &#x3B1;-bromoketones generated in situ from the reaction of enolizable ketones with 1,1&#x2032;-(ethane-1,2-diyl)dipyridinium <italic>bis</italic>tribromide (EDPBT, or 1,2-dipyridinium ditribromide-ethane, DPTBE) has been reported [<xref ref-type="bibr" rid="B10-molbank-2016-M919">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M919">11</xref>].</p>
+      <p>The attempt in our research group to acquire the title compound&#x2014;3-ethyl- 2-ethylimino-4-methyl-2,3-dihydro-1,3-thiazole-5-carboxylate ethyl ester (<bold>1a</bold>)&#x2014;using the reported DBTBE method led to the complete recovery of the starting materials. The conventional synthesis of <bold>1a</bold> via <xref ref-type="scheme" rid="molbank-2016-M919-sch001">Scheme 1</xref> involved a tedious work-up with very low overall yield, which could not be used efficiently. </p>
+      <p>As part of our recent studies on the new biological heterocyclic compounds [<xref ref-type="bibr" rid="B12-molbank-2016-M919">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M919">13</xref>], we now report a successful simple procedure to synthesize <bold>1a</bold> from ethyl acetoacetate (<bold>2a</bold>), NBS, and <italic>N</italic>,<italic>N</italic>&#x2032;-diethylthiourea (<bold>4a</bold>). While <bold>1a</bold> shares a similar structure with the reported analogues [<xref ref-type="bibr" rid="B8-molbank-2016-M919">8</xref>], it was still reported for the first time by our research group in this paper.</p>
+      <p>Comparing with the traditional method of synthesizing its analogues, this efficient, catalyst-free, and one-pot synthetic method is facile; the work-up procedure is easy and gives the pure target compound under milder reaction conditions with a relatively high yield of 75%. This method offers an alternative way to provide 2,3-diethyl-2,3-dihydro-1,3-thiazole (<bold>1a</bold>) instead of the traditional two-step method from disubstituted thioureas and &#x3B2;-keto ester derivatives (<xref ref-type="scheme" rid="molbank-2016-M919-sch002">Scheme 2</xref>). </p>
+      <p>The methods developed in this paper will enrich the limited arsenal for efficiently constructing various functionalized 2,3-dihydro-1,3-thiazoles, which would be a benefit for further exploration of their potent unknown biological activities. In addition, this method is expected to be useful for the expedient synthesis of a variety of heterocyclic compounds with a thiazole core in more complex structures other than the simple substituted <bold>1a</bold>. </p>
+    </sec>
+    <sec id="sec2-molbank-2016-M919">
+      <title>2. Experimental Section</title>
+      <p>Melting points were taken on an X-4 digital melting point apparatus (Shanghai Yice Apparatus &amp; Equipments Co., Ltd, Shanghai, China) and are uncorrected. Elemental analyses were performed on a Carlo-Erba 1106 elemental analyzer (Thermo Scientific, Waltham, MA, USA). IR spectra were recorded on a Nicolet FT-IR 360 spectrophotometer (Thermo Scientific, Waltham, MA, USA). <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectra were determined on a Bruker AM-400 (400 MHz) spectrometer (Brucker Company, F&#xE4;llanden, Switzerland) with tetramethylsilane (TMS) as an internal standard. Chemical shifts are reported in <italic>&#x3B4;</italic>. Mass spectra were measured on a HP5988A instrument (Hewlett-Packard, Palo Alto, CA, USA) by direct inlet at 70 eV. All materials were obtained from commercial suppliers and used as received.</p>
+      <sec>
+        <title>Ethyl 3-ethyl-2-(ethylamino)-2,3-dihydro-4-methylthiazole-5-carboxylate <italic>(<bold>1a</bold>)</italic></title>
+        <p>To a mixture of ethyl acetoacetate (<bold>2</bold>, 6.50 g, 50.0 mmol) in water (30.0 mL) and tetrahydrofuran (THF) (28.0 mL) cooled to &#x2212;5&#x2013;0&#xB0;C was added NBS (10.7 g, 60.0 mmol, 1.20 equiv.). The reaction mixture was stirred at room temperature for 1.0 h, and thin-layer chromatography (TLC, petroleum ether-ethyl acetate <italic>v/v</italic> = 2:1) showed the disappearance of <bold>2</bold>. <italic>N</italic>,<italic>N</italic>&#x2032;-diethylthiourea (<bold>4a</bold>, 6.60 g, 50.0 mmol, 1.00 equiv.) was added, and the reaction mixture was heated to 95 &#xB0;C for 19 h. After cooling to room temperature, the reaction mixture was filtered to remove an insoluble red precipitate, and then NH<sub>3</sub><bold><sup>.</sup></bold>H<sub>2</sub>O (8.0 mL) was added to the filtrate. The resulting yellow solid was collected via filtration under the reduced pressure. The filter cake was washed with water (100 mL &#xD7; 3), recrystallized from ethyl acetate, then dried to give the target compound as the yellow cubic crystals (<bold>1a</bold>, 9.10 g, 75%), mp. 63&#x2013;64 &#xB0;C, <sup>1</sup>H-NMR (CDCl<sub>3</sub>, 400 MHz): &#x3B4; 1.23&#x2013;1.29 (m, 6H, NCH<sub>2</sub>C<italic>H</italic><sub>3</sub>&#xD7; 2), 1.33 (t, 3H, OCH<sub>2</sub>C<italic>H</italic><sub>3</sub>), 2.57 (s, 3H, thiazole-4-C<italic>H</italic><sub>3</sub>), 3.17 (q, 2H, 3-N-C<italic>H</italic><sub>2</sub>CH<sub>3</sub>), 3.89 (q, 2H, 2-N-C<italic>H</italic><sub>2</sub>CH<sub>3</sub>), 4.26 (q, 2H, OC<italic>H</italic><sub>2</sub>CH<sub>3</sub>); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4; 12.72 (thiazole-4-<italic>C</italic>H<sub>3</sub>), 13.32 (thiazole-3-N-CH<sub>2</sub><italic>C</italic>H<sub>3</sub>), 14.38 (-OCH<sub>2</sub><italic>C</italic>H<sub>3</sub>),15.36 (=NCH<sub>2</sub><italic>C</italic>H<sub>3</sub>), 38.82 (thiazole-3-NCH<sub>2</sub><italic>C</italic>H<sub>3</sub>), 48.91 (=N<italic>C</italic>H<sub>2</sub>CH<sub>3</sub>), 60.41 (O<italic>C</italic>H<sub>2</sub>CH<sub>3</sub>), 98.62 (thiazole-5-<italic>C</italic>),147.16 (thiazole-2-<italic>C</italic>), 155.74 (thiazole-4-<italic>C</italic>), 162.38 (O=<italic>C</italic>). MS: <italic>m/z</italic> 243 (M + H<sup>+</sup>). Elemental Analysis. Calcd for C<sub>11</sub>H<sub>18</sub>N<sub>2</sub>O<sub>2</sub>S: C, 54.52; H, 7.49; N, 11.56. Found: C, 54.41; H, 7.36; N, 11.42.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-molbank-2016-M919" sec-type="conclusions">
+      <title>3. Conclusions</title>
+      <p>To summarize, a new compound with the name of 2-ethyl-2-ethylimino-4-methyl-2,3-dihydro- 1,3-thiazole-5-carboxylate ethyl ester was synthesized efficiently via an improved one-pot reaction with a relatively high yield. This method might be useful in further synthesis of the compounds with the similar structure skeleton. </p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M919">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>www.mdpi.com/1422-8599/2016/4/M919</uri>. The original spectra of the title compound were provided in Figures S1 and S2.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are grateful to the Scientific Research Foundation for the Returned Overseas Chinese Scholars, State Education Ministry, P. R. China (2011) and the Shaanxi Province Science and Technology Research and Development Program of China, International Cooperation (2013KW31-04) for the financial supports. </p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Ge Meng was responsible for designing the synthesis method and strategy. Mei Wang synthesized the title compound for the first time using the new one-pot reaction. Ya-Nan Cheng repeated this procedure two years later. Kai Chen repeated the NMR spectral analysis of this compound. Jing Tong has synthesized this compound for the further biological evaluations. Jie-He Zhang has done the biological activity screening test on this compound.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M919">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ghazvini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahvelayati</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Ghanbari</surname>
+              <given-names>M.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>A one-pot synthesis of functionalized 2,3-dihydrothiazoles from isothiocyanates, primary alkylamines, and phenacyl bromides</article-title>
+          <source>Phosphorus Sulfur Silicon Relat. Elem.</source>
+          <year>2010</year>
+          <volume>186</volume>
+          <fpage>134</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.1080/10426507.2010.487055</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M919">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shih</surname>
+              <given-names>M.-H.</given-names>
+            </name>
+            <name>
+              <surname>Ke</surname>
+              <given-names>F.-Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses and evaluation of antioxidant activity of sydnonyl substituted thiazolidinone and thiazoline derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2004</year>
+          <volume>12</volume>
+          <fpage>4633</fpage>
+          <lpage>4643</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2004.06.033</pub-id>
+          <pub-id pub-id-type="pmid">15358290</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M919">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hossaini</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Seyfi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shirgahi-Talari</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient synthesis of functionalized thiazoles from acid chlorides, tetramethylthiourea, ethyl bromopyruvate, and ammonium thiocyanate</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>2008</year>
+          <volume>91</volume>
+          <fpage>1177</fpage>
+          <lpage>1180</lpage>
+          <pub-id pub-id-type="doi">10.1002/hlca.200890127</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M919">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sayyed-Alangi</surname>
+              <given-names>S.Z.</given-names>
+            </name>
+            <name>
+              <surname>Hajinasiri</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sajjadi-Ghotbabadi</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A one-pot synthesis of functionalized ethyl 1, 3-thiazole-5-carboxylates from thioamides or thioureas and 2-chloro-1, 3-dicarbonyl compounds in an ionic liquid</article-title>
+          <source>Monatsh. Chem.</source>
+          <year>2009</year>
+          <volume>140</volume>
+          <fpage>209</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00706-008-0065-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M919">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Hossaini</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Shirgahi-Talari</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Seyfi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of functionalized 1, 3-thiazoles from acid chlorides, primary amines, ethyl bromopyruvate, and ammonium thiocyanate</article-title>
+          <source>Synlett</source>
+          <year>2008</year>
+          <volume>11</volume>
+          <fpage>1631</fpage>
+          <lpage>1632</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2008-1077871</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M919">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Ali-Asgari</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Porshamsian</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bagheri</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficient synthesis of functionalized bis-(4-oxo-1,3-thiazolan-5-ylidene)acetates</article-title>
+          <source>J. Sulfur Chem.</source>
+          <year>2007</year>
+          <volume>28</volume>
+          <fpage>477</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="doi">10.1080/17415990701471364</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M919">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Son</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nam</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Chi</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and in vitro antibacterial activity of 3-[<italic>n</italic>-methyl-<italic>n</italic>-(3-methyl-1,3-thiazolium-2-yl)amino] methyl cephalosporin derivatives</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>1143</fpage>
+          <lpage>1145</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(00)00130-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M919">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Sanaeishoar</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ghazvini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Iravani</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Solvent-free synthesis of functionalized 2,3-dihydrothiazoles from isothiocyanates, primary alkylamines, and 2-chloro-1,3-dicarbonyl compounds</article-title>
+          <source>J. Sulfur Chem.</source>
+          <year>2010</year>
+          <volume>31</volume>
+          <fpage>169</fpage>
+          <lpage>176</lpage>
+          <pub-id pub-id-type="doi">10.1080/17415993.2010.485645</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M919">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santosh Kumar</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Pushpa Ragini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Meshram</surname>
+              <given-names>H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Catalyst free, regioselective one-pot three-component synthesis of thiazol-2-imine derivatives in ionic liquid</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2013</year>
+          <volume>54</volume>
+          <fpage>5974</fpage>
+          <lpage>5978</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2013.08.056</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M919">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Murru</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kavala</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>It is &#x201C;thiazolidene-2-imine&#x201D; and not imidazole-2-thione as the reaction product of 1-benzoyl-3-phenylthiourea with Br<sub>2</sub>/enolizable ketone</article-title>
+          <source>Org. Lett.</source>
+          <year>2006</year>
+          <volume>8</volume>
+          <fpage>5397</fpage>
+          <lpage>5399</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol062371b</pub-id>
+          <pub-id pub-id-type="pmid">17078727</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M919">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murru</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kavala</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A convenient one-pot synthesis of thiazol-2-imines: Application in the construction of pifithrin analogues</article-title>
+          <source>Tetrahedron</source>
+          <year>2008</year>
+          <volume>64</volume>
+          <fpage>1931</fpage>
+          <lpage>1942</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2007.11.076</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M919">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meng</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>An environmental-friendly synthesis of 2,3-disubstituted-2-iminothiazoline-4-ones</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2016</year>
+          <volume>53</volume>
+          <fpage>588</fpage>
+          <lpage>594</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.2323</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M919">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meng</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ge</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design and synthesis of new potent PTP1B inhibitors with the skeleton of 2-substituted imino-3-substituted-5-heteroarylidene-1,3-thiazolidine-4-one: Part I</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2016</year>
+          <volume>122</volume>
+          <fpage>756</fpage>
+          <lpage>769</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2016.05.060</pub-id>
+          <pub-id pub-id-type="pmid">27526040</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2016-M919-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M919-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>The reported general synthesis route of 2,3-dihydrothiazole derivatives.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M919-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M919-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M919-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>The efficient one-pot synthesis of the title compound (<bold>1a</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M919-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

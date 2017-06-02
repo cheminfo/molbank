@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M327</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2003-M327</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3&#x3B1;,23-<italic>O</italic>-Isopropylidenyl-2&#x3B1;,19&#x3B1;-dihydroxy-urs-12-en-28-oic acid, A New Pentacyclic Triterpene Isolated from <italic>Rubus aleaefolius</italic> as a New Cell Cycle Inhibitor</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Qing-Chun</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M327" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2003-M327" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cui</surname>
+            <given-names>Cheng-Bin</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M327" ref-type="aff">1</xref>
+          <xref rid="af3-molbank-2003-M327" ref-type="aff">3</xref>
+           <xref rid="af1-molbank-2003-M327" ref-type="aff">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cai</surname>
+            <given-names>Bing</given-names>
+          </name>
+          <xref rid="af1-molbank-2003-M327" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yao</surname>
+            <given-names>Xin-Sheng</given-names>
+          </name>
+          <xref rid="af2-molbank-2003-M327" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Osada</surname>
+            <given-names>Hiroyouki</given-names>
+          </name>
+          <xref rid="af4-molbank-2003-M327" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2003-M327"><label>1</label>Tianjin Institute for Biomedicinal Research (TIBiR), 3F. D2-Building, Xinmao Technology Park, Huayuan Industrial District, Tianjin 300384, China. Tel.(+86)22-83712588, Fax (+86)22-83712688; <sup>*</sup> <email>cuicb@sohu.com</email></aff>
+      <aff id="af2-molbank-2003-M327"><label>2</label>Shenyang Pharmaceutical University, Shenyang 110016</aff>
+      <aff id="af3-molbank-2003-M327"><label>3</label>Marine Drug and Food Institute, Ocean University of China, Qingdao 266003</aff>
+      <aff id="af4-molbank-2003-M327"><label>4</label>The Institute of Physical and Chemical Research (RIKEN), Saitama 351-0198, Japan</aff>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>05</month>
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>2003</volume>
+      <issue>3</issue>
+      <elocation-id>M327</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>02</month>
+          <year>2002</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>02</month>
+          <year>2002</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2003 MDPI.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>3&#x3B1;,23-<italic>O</italic>-isopropylidenyl-2&#x3B1;</kwd>
+        <kwd>19&#x3B1;-dihydroxy-urs-12-en-28-oic acid</kwd>
+        <kwd>pentacyclic triterpene</kwd>
+        <kwd>triterpene</kwd>
+        <kwd><italic>Rubus aleaefolius</italic></kwd>
+        <kwd>cell cycle inhibitor</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Recently we have reported [<xref ref-type="bibr" rid="B1-molbank-2003-M327">1</xref>] six new cell cycle inhibitors belonging to plant polyphenolics from <italic>Rubus aleaefolius</italic> Poir. (family <italic>Rosacae</italic>), the source plant of a traditional Chinese medicine Cuye Xuangouzi, which is used also as a folk medicine to cure certain cancers in partial area of China. In a continuation of that work, this communication describes a new pentacyclic triterpene, 3&#x3B1;,23-<italic>O</italic>-isopropylidenyl-2&#x3B1;,19&#x3B1;-dihydroxy-urs-12-en-28-oic acid (1), obtained from <italic>Rubus aleaefolius</italic> Poir., which inhibits mammalian cell cycle at G0/G1 phase.</p>
+      <p>The roots (3 kg) of <italic>R. aleaefolius</italic> were extracted with 60% aqueous alcohol to give an alcoholic extract (435 g) possessing potential inhibitory activity on the cell cycle of tsFT210 cells [<xref ref-type="bibr" rid="B1-molbank-2003-M327">1</xref>]. The alcoholic extract was thus suspended in water and then extracted successively with chloroform and ethyl acetate to obtain an active ethyl acetate extract (78 g). This extract was further separated by repeated solvent-extraction, silica gel column chromatography, preparative HPLC and recrystallization procedure in a bioassay-guided manner to obtain pure <bold>1</bold> (26.8 mg). </p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M327-i001.tif"/></p>
+      <p>Compound <bold>1</bold>, white crystals (from MeOH), mp 196-198&#xB0;C, [&#x3B1;]<sup>25</sup><sub>D</sub> +31.7&#xB0; (<italic>c</italic> 0.85, MeOH), gave positive Libermann-Burchard reaction, showing typical color for triterpenoids, and its molecular formula, C<sub>33</sub>H<sub>52</sub>O<sub>6</sub> (molecular weight 544), was determined by negative HR-SIMS-MS measurement. The IR spectrum of <bold>1</bold> indicated the presence of OH (3449 cm<sup>-1</sup>), COOH (3400-2400 br and 1702 cm<sup>-1</sup>), C=C (1638 cm<sup>-1</sup>), and C-O (1040 cm<sup>-1</sup>) groups in <bold>1</bold>.</p>
+      <p>The <sup>1</sup>H and <sup>13</sup>C NMR spectra of <bold>1</bold> in CDCl<sub>3</sub>, analyzed by DEPT and PFG 2D NMR (<sup>1</sup>H-<sup>1</sup>H COSY, HMQC, HMBC and NOESY) techniques, resembled those of known 2&#x3B1;,3&#x3B1;,19&#x3B1;,23-tetrahydroxy-urs-12-en-28-oic acid [<xref ref-type="bibr" rid="B2-molbank-2003-M327">2</xref>] (<bold>2</bold>) except for additional signals due to an extra <italic>O</italic>-isopropylidenyl group (&#x3B4;<sub>H</sub>1.42 s, 2'-H<sub>3</sub>, &#x3B4;<sub>C</sub> 19.22 q, C-2'; &#x3B4;<sub>H</sub> 1.40 s, 3'-H3, &#x3B4;<sub>C</sub> 29.38 q, C-3'; and &#x3B4;<sub>C</sub> 98.67 s, C-1') [<xref ref-type="bibr" rid="B3-molbank-2003-M327">3</xref>] in <bold>1</bold>, indicating that <bold>1</bold> is an isopropylidenyl derivative of <bold>2</bold>. Location of the <italic>O</italic>-isopropylidenyl group at C-3 and C-23 positions could be determined on the basis of HMBC correlations between 3-H and C-1' and between 23-H and C-1'. The <italic>cis</italic>-relation between &#x3B2;-axial 2-H and &#x3B2;-equatorial 3-H was evidenced by the chemical shift and J values of 2-H (&#x3B4; 3.88 ddd, J=12.1, 4.1, 2.8 Hz) and 3-H (&#x3B4; 3.77 d, J=2.8 Hz) [<xref ref-type="bibr" rid="B4-molbank-2003-M327">4</xref>]. The chemical shift and J values of &#x3B1;-axial 16-H (&#x3B4; 2.53 td, J=13.4, 4.4 Hz) established both the 19&#x3B1;-OH stereochemistry and the <italic>cis</italic>-stereochemistry of the ring-D/E junction [<xref ref-type="bibr" rid="B5-molbank-2003-M327">5</xref>]. And eventually the structure of <bold>1</bold> was established as 3&#x3B1;,23-<italic>O</italic>-isopropylidenyl-2&#x3B1;,19&#x3B1;-dihydroxy-urs-12-en-28-oic acid.</p>
+      <p>Compound <bold>1</bold> inhibited the cell cycle progression of asynchronously cultured tsFT210 cells at the G0/G1 phase with the MIC value of 183.8 &#x3BC;mol/L.</p>
+      <p>UV &#x3BB;<sub>max</sub> nm (log &#x3B5;) in MeOH: 206 (3.71).</p>
+      <p>IR &#x3BD;<sub>max</sub> cm<sup>-1</sup> (KBr): 3449 (OH), 3400-2400 br (CO<underline>OH</underline>), 2987, 2973, 2936, 2877 (CH<sub>3</sub> &amp; CH<sub>2</sub>), 1702 (<underline>CO</underline>OH), 1638 (C=C), 1459, 1380 (CH<sub>3</sub> &amp; CH<sub>2</sub>), 1200, 1150, 1040 (C-O).</p>
+      <p>Positive ESI-MS <italic>m/z</italic>: 567 [M+Na]<sup>+</sup>; negative ESI-MS <italic>m/z</italic>: 543 [M-H]<sup>-</sup>; negative HR-SIMS-MS <italic>m/z</italic>: 543.3686 (<italic>calcd</italic> for C<sub>33</sub>H<sub>51</sub>O<sub>6</sub> [M-H]<sup>-</sup> 543.3690).</p>
+      <p><sup>1</sup>H-NMR (600 MHz, CDCl<sub>3</sub>): &#x3B4; 1.28 (t, J=12.1 Hz, 1-H<italic>ax</italic>.), 1.71 (dd, J=<italic>ca</italic>.12.1, 4.1 Hz, 1-H<italic>eq</italic>.), 3.88 (ddd, J=12.1, 4.1, 2.8 Hz, 2-H), 3.77 (d, J=2.8 Hz, 3-H), 1.78 (br d, J=12.4 Hz, 5-H), 1.27 and 1.42 (both m, 6-<underline>H<sub>2</sub></underline>), 1.30 (m, 7-H<italic>eq</italic>.), 1.63 (td, J=12.6, 4.1 Hz, 7-H<italic>ax</italic>.), 1.81 (dd, J=<italic>ca</italic>.11.1, 6.6 Hz, 9-H), 2.06 (ddd, J=18.7, 6.6, 3.3 Hz, 11-H<italic>eq</italic>.), 1.99 (ddd, J=18.7, 11.1, 3.7 Hz, 11-H<italic>ax</italic>.), 5.36 (dd, J=3.7, 3.3 Hz, 12-H), 1.04 (br d, J=12.7 Hz, 15-H<italic>eq</italic>.), 1.78 (ddd, J=13.4, 12.7, 4.1 Hz, 15-H<italic>ax</italic>.), 2.53 (td, J=13.4, 4.4 Hz, 16-H<italic>ax</italic>.), 1.58 (dm, J=13.4 Hz, 16-H<italic>eq</italic>.), 2.536 (s, 18-H), 1.39 (m, 20-H), 1.28 and 1.71 (both m, 21-<underline>H<sub>2</sub></underline>), 1.66 and 1.80 (both m, 22-<underline>H<sub>2</sub></underline>), 3.30 and 3.66 (both d, both J=12.1 Hz, 23-<underline>H<sub>2</sub></underline>), 0.71 (3H, s, 24-<underline>H<sub>3</sub></underline>), 0.97 (3H, s, 25-<underline>H<sub>3</sub></underline>), 0.72 (3H, s, 26-<underline>H<sub>3</sub></underline>), 1.29 (3H, s, 27-<underline>H<sub>3</sub></underline>), 1.21 (3H, s, 29-<underline>H<sub>3</sub></underline>), 0.95 (3H, d, J=6.6 Hz, 30-<underline>H<sub>3</sub></underline>), 1.42 (3H, s, 2'-<underline>H<sub>3</sub></underline>), 1.40 (3H, s, 3'-<underline>H<sub>3</sub></underline>). The above signal assignments were based on the results of PFG 2D NMR (<sup>1</sup>H-<sup>1</sup>H COSY, HMQC, HMBC and NOESY) experiments.</p>
+      <p><sup>13</sup>C-NMR (150 MHz, CDCl<sub>3</sub>): &#x3B4; 42.36 t (C-1), 65.33 d (C-2), 76.01 d (C-3), 36.12 s (C-4), 42.07 d (C-5), 17.76 t (C-6), 32.47 t (C-7), 40.27 s (C-8), 47.12 d (C-9), 38.12 s (C-10), 23.72 t (C-11), 129.34 d (C-12), 138.05 s (C-13), 41.15 s (C-14), 28.24 t (C-15), 25.41 t (C-16), 47.81 s (C-17), 52.92 d (C-18), 73.17 s (C-19), 41.24 d (C-20), 26.05 t (C-21), 37.56 t (C-22), 68.20 t (C-23), 16.92 q (C-24), 17.02 q (C-25), 17.24 q (C-26), 24.66 q (C-27), 184.13 s (C-28), 27.49 q (C-29), 16.25 q (C-30), 98.68 s (C-1'), 19.22 q (C-2'), 29.38 q (C-3'). The above signal assignments were based on the results of DEPT and PFG 2D NMR (<sup>1</sup>H-<sup>1</sup>H COSY, HMQC, HMBC and NOESY) experiments.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2003-M327">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2003-M327-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M327-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2003-M327-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2003-M327-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Prof. Q. Sun, Shenyang Pharmaceutical University, for collection and identification of the plant materials. This work was supported by the Found from NNSFC (C.-B. Cui, No.39825126), the Found from Ministry of Science and Technology (C.-B. Cui, No.G1998051113), China, and the Found for Cheung Kong Scholar (C.-B. Cui) from Ministry of Education of China.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2003-M327">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>C.-B.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Q.-C.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>X.-S.</given-names>
+            </name>
+            <name>
+              <surname>Osada</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>J. Asian Nat. Prod. Res.</source>
+          <year>2002</year>
+          <volume>4</volume>
+          <fpage>243</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="pmid">12450251</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2003-M327">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seto</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Naruhashi</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <source>Phytochem.</source>
+          <year>1984</year>
+          <volume>23</volume>
+          <fpage>2829</fpage>
+          <lpage>2834</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2003-M327">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>B.-Z.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>B.-G.</given-names>
+            </name>
+            <name>
+              <surname>Jia</surname>
+              <given-names>Z.-J.</given-names>
+            </name>
+          </person-group>
+          <source>Phytochem.</source>
+          <year>1998</year>
+          <volume>49</volume>
+          <fpage>2477</fpage>
+          <lpage>2481</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2003-M327">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kojima</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ogura</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Phytochem.</source>
+          <year>1989</year>
+          <volume>28</volume>
+          <fpage>1703</fpage>
+          <lpage>1710</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2003-M327">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aquino</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Simone</surname>
+              <given-names>F. D.</given-names>
+            </name>
+            <name>
+              <surname>Vincieri</surname>
+              <given-names>F. F.</given-names>
+            </name>
+            <name>
+              <surname>Pizza</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gacs-Baitz</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <source>J. Nat. Prod.</source>
+          <year>1990</year>
+          <volume>53</volume>
+          <fpage>559</fpage>
+          <lpage>564</lpage>
+          <pub-id pub-id-type="pmid">2213029</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

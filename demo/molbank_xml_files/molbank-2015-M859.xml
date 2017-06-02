@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M859</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M859</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-({5-Bromo-4-[pyrrolidin-1-yl]pyrimidin-2-yl}amino)phenol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jones</surname>
+            <given-names>Alan M.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M859">Division of Chemistry and Environmental Science, School of Science and the Environment, Faculty of Science and Engineering, Manchester Metropolitan University, John Dalton Building, Chester Street, Manchester M1 5GD, UK; E-Mail: <email>A.M.Jones@mmu.ac.uk</email>; Tel.: +44-(0)-161-247-6195</aff>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>05</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>6</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>2</issue>
+      <elocation-id>M859</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>04</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>05</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Re-investigation of the <sup>1</sup>H-NMR spectrum reported for 1<sup>5</sup>-bromo-4-oxa-2,9-diaza-1(2,4)-pyrimidine-3(1,3)-benzenacyclononaphane (<bold>2</bold>) prepared via a Mitsunobu-mediated macroether cyclisation led to a proposed structural isomer (<bold>3</bold>). The title compound (<bold>3</bold>) was prepared via a two-step protocol and assigned using <sup>1</sup>H, <sup>13</sup>C-NMR and LC-MS.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>macrocyclic ether</kwd>
+        <kwd>Mitsunobu</kwd>
+        <kwd>macrocyclisation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Macrocycles are an important class of organic compounds defined as containing cyclic systems of 12 or more atoms [<xref ref-type="bibr" rid="B1-molbank-2015-M859">1</xref>]. Macrocycles have garnered much attention recently in medicinal chemistry due to their ability to access biologically relevant conformations [<xref ref-type="bibr" rid="B2-molbank-2015-M859">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M859">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M859">4</xref>]. There are a variety of macrocyclisation strategies available [<xref ref-type="bibr" rid="B5-molbank-2015-M859">5</xref>] in particular we were interested in the <italic>intra</italic>-molecular Mitsunobu reaction that has been used to prepare kinase inhibitor scaffolds [<xref ref-type="bibr" rid="B6-molbank-2015-M859">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2015-M859">7</xref>]. L&#xFC;cking <italic>et al.</italic> [<xref ref-type="bibr" rid="B8-molbank-2015-M859">8</xref>] have reported a high dilution <italic>intra</italic>-molecular Mitsunobu reaction to macrocycle <bold>2</bold> (<xref ref-type="scheme" rid="molbank-2015-M859-sch001">Scheme 1</xref>) that possessed micromolar activity against CDK2 and anti-proliferative effects towards MCF7 cells. We were intrigued by the stated <sup>1</sup>H-NMR spectrum for <bold>2</bold> which showed the four methylene groups occurred at 3.30 ppm (m, 4H) and 1.90 ppm (m, 4H). We therefore considered whether there is a choice of two <italic>intra</italic>-molecular Mitsunobu reactions&#x2014;one that delivers compound <bold>2</bold> and one that delivers compound <bold>3</bold>. To address this question we prepared the novel isomer, <bold>3</bold>.</p>
+      <p>Our synthesis of <bold>3</bold> (<xref ref-type="scheme" rid="molbank-2015-M859-sch002">Scheme 2</xref>) commenced with pyrrolidine mediated displacement of the more reactive C-Cl bond in <bold>4</bold> which afforded <bold>5</bold> in modest yield after trituration. The synthesis of <bold>3</bold> was accomplished using an analogous S<sub>N</sub>Ar procedure to that reported by L&#xFC;cking <italic>et al.</italic> [<xref ref-type="bibr" rid="B8-molbank-2015-M859">8</xref>]. Chromatographic separation and trituration afforded a sample of <bold>3</bold> in modest yield under identical elution conditions. <sup>1</sup>H and <sup>13</sup>C NMR spectra of intermediate <bold>5</bold> and product <bold>3</bold> are provided in the supplementary materials.</p>
+      <p>Interestingly, the <sup>1</sup>H-NMR spectrum obtained for <bold>3</bold> matches the signals reported [<xref ref-type="bibr" rid="B8-molbank-2015-M859">8</xref>] for <bold>2</bold> for all the aryl and exchangeable protons. Two sets of multiplets consisting of 4 protons each was observed for <bold>3</bold>. However, the symmetrical methylene peaks adjacent to the nitrogen occurred further downfield at 3.75&#x2013;3.70 ppm (m, 4 H) <italic>versus</italic> the 3.30 ppm (m, 4H) reported for <bold>2 [<xref ref-type="bibr" rid="B9-molbank-2015-M859">9</xref>]</bold>. In conclusion, we have prepared a novel structural isomer <bold>3</bold> of compound <bold>2</bold>.</p>
+    <sec>
+      <title>Experimental Section</title>
+      <sec>
+        <title>General Information</title>
+        <p>Reactions were carried out under argon. Organic solutions were dried over Na<sub>2</sub>SO<sub>4</sub>. Starting materials and solvents were purchased from commercial suppliers and were used without further purification. Flash silica chromatography was performed using Merck silica gel 60 (0.025&#x2013;0.04 mm). <sup>1</sup>H and <sup>13</sup>C-NMR spectra were recorded using a JEOL ECS 400 NMR Spectrometer. Chemical shifts (&#x3B4;) are reported relative to TMS (&#x3B4; = 0) and/or referenced to the solvent in which they were measured. High-resolution mass spectrometry analysis was performed on an Agilent 6450 LC-MS/MS.</p>
+      </sec>
+      <sec>
+        <title>Synthesis of 3-((5-Bromo-4-(pyrrolidin-1-yl)pyrimidin-2-yl)amino)phenol <italic>(<bold>3</bold>)</italic></title>
+        <p>Triethylamine (1.0 mL, 7.3 mmol) and pyrrolidine (0.55 mL, 6.6 mmol) are added to a stirred solution of 5-bromo-2,4-dichloropyrimidine (<bold>4</bold>) (0.84 mL, 6.6 mmol) in acetonitrile (6 mL). The reaction mixture was stirred at room temperature overnight. After 12 h, the precipitate that formed was filtered off. The filtrate was concentrated <italic>in vacuo</italic> and triturated with isopropyl ether. 5-Bromo-2-chloro-4-(pyrrolidin-1-yl)pyrimidine (<bold>5</bold>) was obtained, 0.67 g (2.5 mmol, 38%) [<xref ref-type="bibr" rid="B10-molbank-2015-M859">10</xref>]. HCl (4 M in dioxane, 0.12 mL) is added to 3-aminophenol (53 mg, 0.49 mmol) and 5-Bromo-2-chloro-4-(pyrrolidin-1-yl)pyrimidine (<bold>5</bold>) (132 mg, 0.51 mmol) in acetonitrile (1.5 mL), and the reaction mixture was stirred at reflux for 12 h. After cooling to room temperature, the reaction mixture is concentrated <italic>in vacuo</italic>. Water (1.0 mL) was added, and the organic layer extracted with ethyl acetate (5 mL &#xD7; 2). The combined organic phases were dried (Na<sub>2</sub>SO<sub>4</sub>), filtered, and concentrated <italic>in vacuo</italic>. The residue was purified by silica gel chromatography (dichloromethane/methanol; 9:1), and the crude product obtained was triturated with isopropyl ether. The title compound <bold>3</bold> was obtained as a white powder, 44 mg (0.13 mmol, 27%).</p>
+        <p><sup>1</sup>H-NMR (400 MHz, <italic>d</italic><sub>6</sub>-DMSO) &#x3B4; 9.20 (s, 1H), 9.10 (s, 1H), 8.03 (s, 1H), 7.23&#x2013;7.21 (m, 1H), 7.12&#x2013;7.09 (m, 1H), 6.99 (dd, <italic>J =</italic> 7.8 Hz, 1H), 6.33&#x2013;6.29 (m, 1H), 3.75&#x2013;3.70 (m, 4H), 1.89&#x2013;1.84 (m, 4H).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, <italic>d</italic><sub>6</sub>-DMSO) &#x3B4; 159.0, 157.4, 156.9, 141.8, 128.9, 109.6, 108.2, 105.7, 90.1, 49.5, 25.1. </p>
+        <p>LC-MS (TOF, 2.0 min) Rt = 0.243 min; <italic>m/z</italic> (ESI) 335 (M<sup>79</sup>Br+H), 337 (M<sup>81</sup>Br+H).</p>
+        <p>Hi-Res LC-MS (ESI) <italic>m/z</italic> calcd for C<sub>14</sub>H<sub>16</sub><sup>79</sup>BrN<sub>4</sub>O (M+H) 335.0507, found 335.0477.</p>
+        <p>Melting point range: 159&#x2013;160 &#xB0;C.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2015-M859">
+      <title>Supplementary materials</title>
+   <supplementary-material id="molbank-2015-M859-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M859-s001.pdf"><label>Supplementary File 1</label></supplementary-material>
+   <supplementary-material id="molbank-2015-M859-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M859-s002-mod.mol"><label>Supplementary File 2</label></supplementary-material>
+   <supplementary-material id="molbank-2015-M859-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M859-s002.mol"><label>Supplementary File 3</label></supplementary-material>
+    </app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>AMJ thanks Manchester Metropolitan University for funding and MMU analytical services for running NMR and MS analyses.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>AMJ performed the experiments and wrote the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The author declares no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2015-M859">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Driggers</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Hale</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Terrett</surname>
+              <given-names>N.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The  exploration  of  macrocycles  for  drug discovery&#x2014;an underexploited structural class</article-title>
+          <source>Nat. Rev. Drug Discov.</source>
+          <year>2008</year>
+          <volume>7</volume>
+          <fpage>608</fpage>
+          <lpage>624</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrd2590</pub-id>
+          <pub-id pub-id-type="pmid">18591981</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M859">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pe&#xF1;a</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Scarone</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Serra</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrocycles as potential therapeutic agents in neglected diseases</article-title>
+          <source>Future Med. Chem.</source>
+          <year>2015</year>
+          <volume>7</volume>
+          <fpage>355</fpage>
+          <lpage>382</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M859">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallinson</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrocycles in New Drug Discovery</article-title>
+          <source>Future Med. Chem.</source>
+          <year>2012</year>
+          <volume>4</volume>
+          <fpage>1409</fpage>
+          <lpage>1438</lpage>
+          <pub-id pub-id-type="doi">10.4155/fmc.12.93</pub-id>
+          <pub-id pub-id-type="pmid">22857532</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M859">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yudin</surname>
+              <given-names>A.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrocycles: Lessons from the distant past, recent developments, and future directions</article-title>
+          <source>Chem. Sci.</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>30</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="doi">10.1039/C4SC03089C</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M859">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussain</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yousuf</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Importance and synthesis of  benzannulated medium-sized and macrocyclic rings (BMRs)</article-title>
+          <source>RSC Adv.</source>
+          <year>2014</year>
+          <volume>4</volume>
+          <fpage>43241</fpage>
+          <lpage>43257</lpage>
+          <pub-id pub-id-type="doi">10.1039/C4RA07434C</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M859">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dakas</surname>
+              <given-names>P.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Barluenga</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Totzke</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Zirrgiebel</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Winssinger</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modular synthesis of radicicol A and related resorcylic acid lactones, potent kinase inhibitors</article-title>
+          <source>Angew. Chem. Int. Ed. Engl.</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>6899</fpage>
+          <lpage>6902</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200702406</pub-id>
+          <pub-id pub-id-type="pmid">17676571</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M859">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dakas</surname>
+              <given-names>P.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Jogireddy</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Valot</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Barluenga</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Winssinger</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Divergent syntheses of resorcylic acid lactones: L-783277, LL-Z1640&#x2013; 2, and hypothemycin</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2009</year>
+          <volume>15</volume>
+          <fpage>11490</fpage>
+          <lpage>11497</lpage>
+          <pub-id pub-id-type="doi">10.1002/chem.200901373</pub-id>
+          <pub-id pub-id-type="pmid">19821460</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M859">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>L&#xFC;cking</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Siemeister</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sch&#xE4;fer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Briem</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kr&#xFC;ger</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lienau</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jautelat</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrocyclic Aminopyrimidines as Multitarget CDK and VEGF-R Inhibitors with Potent Antiproliferative Activities</article-title>
+          <source>ChemMedChem</source>
+          <year>2007</year>
+          <volume>2</volume>
+          <fpage>63</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="doi">10.1002/cmdc.200600199</pub-id>
+          <pub-id pub-id-type="pmid">17131463</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M859">
+        <label>9.</label>
+        <note><p>The water signal in d6-DMSO occurs as a broad singlet at 3.33 ppm. 
+		<citation citation-type="journal">
+		  <person-group person-group-type="author">
+            <name>
+              <surname>Gottlieb</surname>
+              <given-names>H.E.</given-names>
+            </name>
+            <name>
+              <surname>Kotlyar</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Nudelman</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>NMR Chemical Shifts of Common Laboratory Solvents as Trace Impurities</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1997</year>
+          <volume>62</volume>
+          <fpage>7512</fpage>
+          <lpage>7515</lpage>
+        </citation>
+		</p></note>
+      </ref>
+      <ref id="B10-molbank-2015-M859">
+        <label>10.</label>
+        <note>
+          <p>Data obtained for 5-Bromo-2-chloro-4-(pyrrolidin-1-yl)pyrimidine (<bold>5</bold>). <sup>1</sup>H-NMR (400 MHz, <italic>d</italic><sub>6</sub>-DMSO) &#x3B4; 8.24 (s, 1H), 3.75&#x2013;3.69 (m, 4 H), 1.89&#x2013;1.85 (m, 4H); <sup>13</sup>C-NMR (100 MHz, <italic>d</italic><sub>6</sub>-DMSO) &#x3B4; 159.9, 157.8, 157.4, 100.0, 50.0, 25.1; LC-MS (TOF, 2.0 min) Rt = 0.173 min; <italic>m/z</italic> (ESI) 262 (M<sup>79</sup>Br+H), 264 (M<sup>81</sup>Br+H). Hi-Res LC-MS (ESI) <italic>m/z</italic> calcd for C<sub>8</sub>H<sub>9</sub><sup>79</sup>BrClN<sub>3</sub> (M+H) 261.9747, found 261.9743.</p>
+        </note>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2015-M859-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M859-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>L&#xFC;cking <italic>et al.</italic> [<xref ref-type="bibr" rid="B8-molbank-2015-M859">8</xref>] route to macrocyclic scaffold <bold>2</bold> and our postulated isomer <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M859-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M859-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M859-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthetic route to <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M859-sch002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

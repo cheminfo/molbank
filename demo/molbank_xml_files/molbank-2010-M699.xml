@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M699</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M699</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>8-[2-(1<italic>H</italic>-indol-3-yl)vinyl]-10,10-dimethyl-10<italic>H</italic>-pyrido[1,2-<italic>a</italic>] indolium Perchlorate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cao</surname>
+            <given-names>Peng</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M699" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jiang</surname>
+            <given-names>Lin</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M699" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2010-M699" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Xue-Bin</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M699" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ge</surname>
+            <given-names>Shang-Zheng</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M699" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M699"><label>1</label>College of Chemistry and Material Science, Shandong Agricultural University, Tai&#x2019;an, 271018, China</aff>
+      <aff id="af2-molbank-2010-M699"><label>2</label>Department of Chemistry and Chemical Engineering, Heze University, Heze, 274015, China</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M699"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>jiangl@sdau.edu.cn</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>10</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>4</issue>
+      <elocation-id>M699</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>08</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>13</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel compound, 8-[2-(1<italic>H</italic>-indol-3-yl)vinyl)]-10,10-dimethyl-10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indolium perchlorate, was synthesized by the condensation of 8,10,10-trimethyl-10<italic>H</italic>- pyrido[1,2-<italic>a</italic>]indolium perchlorate and indole-3-carbaldehyde in the presence of piperidine. The structure of the target compound was characterized by IR, <sup>1</sup>H NMR and elemental analysis, and its UV-visible absorption and emission spectra were also determined.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indolium perchlorate</kwd>
+        <kwd>indole-3-carbaldehyde</kwd>
+        <kwd>condensation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>The substituted 10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indolium perchlorates can be used as photosensitive dyes, fluorescent whiteners and organic light-guide sensitizers [<xref ref-type="bibr" rid="B1-molbank-2010-M699">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M699">2</xref>]. Many of this kind of compounds have been synthesized, such as methyl, phenyl, styryl or furyl-substituted 10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indolium perchlorates [<xref ref-type="bibr" rid="B3-molbank-2010-M699">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M699">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M699">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M699">6</xref>]. In order to study the relationship between the structure and absorption maximum (<italic>&#x3BB;</italic><sub>max</sub>), the crystal structures of some compounds in this series were determined [<xref ref-type="bibr" rid="B7-molbank-2010-M699">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M699">8</xref>], and found that the introduction of a conjugation group in the 8-position significantly increases the <italic>&#x3BB;</italic><sub>max</sub>. To obtain a compound with a larger <italic>&#x3BB;</italic><sub>max</sub>, herein, we introduced 2-(1<italic>H</italic>-indol-3-ly)vinyl (a group making up a conjugated system with the 10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indole moiety) onto 8-position and synthesized the target compound.</p>
+	  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M699-i001.tif"/>
+      </p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>A mixture of 8,10,10-trimethyl-10<italic>H</italic>-pyrido[1,2-<italic>a</italic>]indolium perchlorate (0.62 g, 0.002 mol), indole-3-carbaldehyde (0.29 g, 0.002 mol) and piperidine (6 drops) in ethanol (15 mL) was refluxed for 3 h with stirring to give a brown precipitate. The solid was filtered off and recrystallized from methanol/ acetonitrile to yield the target compound as orange crystals. </p>
+      <p>Yield: 70%; Melting point: 271&#x2013;273 &#xB0;C.</p>
+      <p>IR (KBr) <italic>v</italic> cm<sup>&#x2013;1</sup>: 3310 (N-H), 1600 (C=N<sup>+</sup>), 1365{C(CH<sub>3</sub>)<sub>2</sub>}, (1090, 623 (ClO<sub>4</sub>&#xAF;), 965 {H-C=C-H (<italic>E</italic>)}. </p>
+      <p>UV-Vis (EtOH): <italic>&#x3BB;</italic><sub>max</sub> = 480.5 nm; <italic>&#x3B5;</italic> = 4.68 &#xD7;10<sup>4</sup> cm<sup>2</sup>&#x2022;mol <sup>-1</sup>.</p>
+      <p><sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>) <italic>&#x3B4;</italic> ppm: 11.99 (s, 1H, N-H), 9.52 (d, 1H, <italic>J</italic> = 6.8 Hz, 6-H), 8.59 (s, 1H, 9-H), 8.39 (d, 1H, <italic>J</italic> = 16.1 Hz, 12-H), 8.29 (d, 1H, <italic>J</italic> = 7.4 Hz, 7-H), 8.00 (s, 1H, pyrrole-C-H), 7.42 (d, 1H, <italic>J</italic> = 16.1 Hz, 11-H), 7.27-8.22 (m, 8H, Ph-H), 1.72 (s, 6H, 2&#xD7;CH<sub>3</sub>).</p>
+      <p>Elemental analysis: Calcd for C<sub>24</sub>H<sub>21</sub>ClN<sub>2</sub>O<sub>4</sub> C, 65.98%, H, 4.84%, N, 6.41%. Found: C, 65.75%, H, 4.93%, N, 6.75%. </p>
+      <fig id="molbank-2010-M699-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>UV-Visible absorption (left) and emission spectrum (right) of the target compound.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M699-g001.tif"/>
+      </fig>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M699">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M699-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M699-s001-mod.mol">
+      <label>Supplementary File 1</label>
+      </supplementary-material>
+        <supplementary-material id="molbank-2010-M699-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M699-s001.mol">
+   <label>Supplementary File 2</label>
+     </supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M699">
+        <label>1.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McColgin</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dye laser and method</article-title>
+          <source>U.S. Patent</source>
+          <patent>3,860,866</patent>
+          <day>14</day>
+          <month>January</month>
+          <year>1975</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M699">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Nan</surname>
+              <given-names>Z.X.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Y.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 8-(4-substituted phenyl)-10,10-dimethyl-6-phenyl-10<italic>H</italic>-pyrido[1,2-a]indolium perchlorate</article-title>
+          <source>Chin. J. Org. Chem.</source>
+          <year>1984</year>
+          <volume>4</volume>
+          <fpage>369</fpage>
+          <lpage>370</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M699">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chapman</surname>
+              <given-names>D.D.</given-names>
+            </name>
+            <name>
+              <surname>Elwood</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Heseltine</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Hess</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Kurtz</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Annelation of pyridinium rings onto nitrogen heterocycles</article-title>
+          <source>J. Org. Chem.</source>
+          <year>1977</year>
+          <volume>42</volume>
+          <fpage>2474</fpage>
+          <lpage>2480</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo00434a028</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M699">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 6-(4-substitutedstyryl)-8-(4-substituted phenyl)-10,10-dimethyl-10<italic>H</italic>-pyrido[1,2-a]indolium perchlorate</article-title>
+          <source>Chin. J. Org. Chem.</source>
+          <year>1987</year>
+          <volume>7</volume>
+          <fpage>137</fpage>
+          <lpage>139</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M699">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>W.G.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses and <sup>1</sup>H NMR studies of substituted styryl-10<italic>H</italic>-pyrido[1,2-a]indolium perchlorates</article-title>
+          <source>Chem. J. Chin. Univ.</source>
+          <year>1992</year>
+          <volume>13</volume>
+          <fpage>470</fpage>
+          <lpage>473</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M699">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and spectral properties of 10,10-dimethyl-6-phenyl-8-(5-substituted-2-furyl)-10<italic>H</italic>-pyrido[1,2-a]indolium salts</article-title>
+          <source>Chin. Sci. Bull.</source>
+          <year>1987</year>
+          <volume>32</volume>
+          <fpage>188</fpage>
+          <lpage>190</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M699">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Crystal Structure of 6-(3-indolyl)-8-(p-chlorophenyl)-10,10-dimethyl-10<italic>H</italic>-pyrido[1,2-a]indolium perchlorate</article-title>
+          <source>Chin. J. Struct. Chem.</source>
+          <year>2004</year>
+          <volume>23</volume>
+          <fpage>1371</fpage>
+          <lpage>1375</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M699">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>X.W.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>N.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and crystal structure of 9,9-dimethyl-2-(4-methoxyphenyl)-4-phenyl-9<italic>H</italic>-pyrido[1,2-a]indolium perchlorate under microwave radiation</article-title>
+          <source>Chin. J. Org. Chem.</source>
+          <year>2008</year>
+          <volume>28</volume>
+          <fpage>353</fpage>
+          <lpage>355</lpage>
+          <pub-id pub-id-type="doi">10.1002/cjoc.200890068</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

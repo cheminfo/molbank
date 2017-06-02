@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M777</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M777</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methyl 2-Benzamido-2-(1<italic>H</italic>-benzimidazol-1-ylmethoxy)acetate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>El Houssine</surname>
+            <given-names>Mabrouk</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M777" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abdelrhani</surname>
+            <given-names>Elachqar</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abdelilah</surname>
+            <given-names>El Hallaoui</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Anouar</surname>
+            <given-names>Alami</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M777">Laboratory of Organic Chemistry, Faculty of Sciences Dhar El Mehraz, University Sidi Mohamed Ben Abdellah, B.P. 1796, Fez, Morocco</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M777"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>mabrouk.elhoussine@yahoo.fr</email>; Tel.: +212-618-788-704; +212-535-614-558.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>3</issue>
+      <elocation-id>M777</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>08</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>09</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The heterocyclic carboxylic &#x3B1;-aminoester methyl 2-benzamido-2-(1<italic>H</italic>-benzimidazol-1-ylmethoxy)acetate is obtained by <italic>O</italic>-alkylation of methyl &#x3B1;-azido glycinate <italic>N</italic>-benzoylated with 1<italic>H</italic>-benzimidazol-1-ylmethanol.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>&#x3B1;-aminoesters</kwd>
+        <kwd><italic>O</italic>-alkylation</kwd>
+        <kwd>methyl &#x3B1;-azidoglycinate</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2012-M777" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>It is interesting to note that amino acids are components of living organisms and are precursors for protein formation. Several researchers have investigated the inhibitory potential of some amino acids and the results obtained from such studies have given some hope for the use of amino acids as green corrosion inhibitors [<xref ref-type="bibr" rid="B1-molbank-2012-M777">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M777">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M777">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M777">4</xref>].</p>
+      <p>Recently, benzimidazole derivatives are a key part of many drugs [<xref ref-type="bibr" rid="B5-molbank-2012-M777">5</xref>] for their potency and activation [<xref ref-type="bibr" rid="B6-molbank-2012-M777">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M777">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2012-M777">8</xref>]. Both telmisartan (TST) and candesartan (CST) are potent angiotensin II type 1 (AT1) receptor blockers (ARBs), which have been widely used in the treatment of hypertension and also found to display some other pharmacologic effects in treating diabetes [<xref ref-type="bibr" rid="B9-molbank-2012-M777">9</xref>] and heart disease [<xref ref-type="bibr" rid="B10-molbank-2012-M777">10</xref>], while DB921 with diamidine in terminal can strongly bind to the DNA groove and cause rapid destruction of the mitochondrial kinetoplast [<xref ref-type="bibr" rid="B11-molbank-2012-M777">11</xref>].</p>
+      <p>For this reason, we considered it interesting to synthesize new compounds containing 1<italic>H</italic>-benzimidazol-1-ylmethanol fused with a derivative of amino acid, in order to study their biological activities.</p>
+      <p>Following the research done on the synthesis of new &#x3B1;-carboxylic aminoesters [<xref ref-type="bibr" rid="B12-molbank-2012-M777">12</xref>] and in the synthesis of heterocyclic systems of benzimidazole derivatives, we reported in this paper another part of our investigations concerning the preparation of methyl 2-benzamido-2-(1<italic>H</italic>-benzimidazol-1-ylmethoxy)acetate. Our strategy is based on the <italic>O</italic>-alkylation of methyl &#x3B1;-azido glycinate <italic>N</italic>-benzoylated with 1<italic>H</italic>-benzimidazol-1-ylmethanol. The product synthesized with a satisfactory yield was characterized by nuclear magnetic resonance and mass spectrometry (<xref ref-type="scheme" rid="molbank-2012-M777-sch001">Scheme 1</xref>).</p>
+    </sec>
+    <sec id="sec2-molbank-2012-M777" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p>Our strategy is based on the <italic>O</italic>-alkylation of alcohol 1<italic>H</italic>-benzimidazol-1-ylmethanol with methy &#x3B1;-azidoglycinate <bold>1</bold> (<xref ref-type="scheme" rid="molbank-2012-M777-sch001">Scheme 1</xref>). Azide derivative <bold>1</bold> was prepared using Steglich method [<xref ref-type="bibr" rid="B13-molbank-2012-M777">13</xref>] and Achamlale&#x2019;s procedure [<xref ref-type="bibr" rid="B14-molbank-2012-M777">14</xref>].</p>
+      <p>Methyl &#x3B1;-azido glycinate <italic>N</italic>-benzoylated <bold>1</bold> was obtained by the reaction [<xref ref-type="bibr" rid="B14-molbank-2012-M777">14</xref>] of sodium azide with the methyl &#x3B1;-bromo glycinate. The title compound is stable and can be stored for an unlimited time without any signs of decomposition. The methyl &#x3B1;-bromo glycinate also can be used and gives satisfactory results; the azide <bold>1</bold> is used especially for its stability.</p>
+      <p>As shown in <xref ref-type="scheme" rid="molbank-2012-M777-sch001">Scheme 1</xref>, the reaction of 1<italic>H</italic>-benzimidazol-1-ylmethanol on azide <bold>1</bold> results in formation of the new racemic &#x3B1;-heterocyclic &#x3B1;-carboxylic aminoester <bold>2</bold> carrying 1<italic>H</italic>-benzimidazol-1-ylmethoxy group or substituent in position &#x3B1;.</p>
+      <p>As a first step and to optimize the different reaction conditions (choice of base, solvent ...), we conducted several test reactions. For all these tests, the reactions were followed by TLC and <sup>1</sup>H-NMR. Yields are given as pure product after column chromatography on silica gel.</p>
+      <p>After several attempts of reactions without base or in the presence of bases such as triethylamine, reaction with diisopropylethylamine (DIPEA) gave the best results. The reaction was carried out in dry acetone at room temperature for 48 h. Results are summarized in <xref ref-type="table" rid="molbank-2012-M777-t001">Table 1</xref>.</p>
+      <p>The product <bold>2</bold> was obtained in 30% overall yield from <bold>1</bold> and was characterized by MS, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR spectroscopy.</p>
+      <p>Comparing these results with the work done by our team [<xref ref-type="bibr" rid="B12-molbank-2012-M777">12</xref>,<xref ref-type="bibr" rid="B15-molbank-2012-M777">15</xref>,<xref ref-type="bibr" rid="B16-molbank-2012-M777">16</xref>], we see that we have obtained almost the same results.</p>
+    </sec>
+    <sec id="sec3-molbank-2012-M777" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>To a stirred solution of 2.86 mmol of alcohol (oxygen compound) and 3.12 mmol of diisopropylethylamine in 10 mL of dry acetone, 2.6 mmol of &#x3B1;-azido glycinate were added. The mixture was stirred at room temperature and the reaction was followed by TLC (Kiesegel Merck 60F254). The solvent was evaporated under reduced pressure. The residue was quenched with saturated aqueous solution of ammonium chloride (20 mL) and extracted with dichloromethane (20 mL &#xD7; 3). The organic phase was dried in sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>) and the solvent was removed under reduced pressure. The product was purified by column chromatography on silica gel using ether/hexane as eluant to afford pure <italic>O</italic>-alkylated product.</p>
+      <p>White solide: yield = 30%; Melting point (ether/hexane): 116&#x2013;118 &#xB0;C; R<sub>f</sub> = 0.60 (ether).</p>
+      <p><sup>1</sup>H-NMR (Bruker, 300.13 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) = 3.87 (s, 3H, OCH<sub>3</sub>), 5.37 (s<sub>br</sub>, 1H, H<sub>&#x3B1;</sub>), 5.81 (s, 2H, OCH<sub>2</sub>), 7.00&#x2013;7.82 (m, 9H, H<sub>arom</sub>), 8.02 (s<sub>br</sub>, 1H, NH<sub>amid</sub>), 8.35 (s, 1H, H<sub>imid</sub>).</p>
+      <p><sup>13</sup>C-NMR (75.47 MHz; CDCl<sub>3</sub>): &#x3B4; (ppm) = 54.2 (OCH<sub>3</sub>), 60.8 (OCH<sub>2</sub>N), 84.1(&#x2013;CH&#x2013;), 110.0 (2C), 123.2 (2C), 124.05 (2C), 127.4 (2C), 128.8, 132.7 (C<sub>6</sub>H<sub>5</sub> aromatic carbons), 134.1 (=C<sub>q</sub>N&#x2013;), 138.2 (=C<sub>q</sub>N&#x2013;), 143.0 (&#x2013;CH<sub>imid</sub>), 167.3 (CO), 171.4 (CO).</p>
+      <p>MS (electrospray) <italic>m/z</italic>: 362 (M+H<sup>+</sup>+Na<sup>+</sup>, 19%), 340 (M+H<sup>+</sup>, 100%), 296 (11%), 221 (20%), 219 (9%), 192 (33%).</p>
+      <p>Anal Calcd. for C<sub>18</sub>H<sub>17</sub>N<sub>3</sub>O<sub>4</sub>: C, 63.71%; H, 5.05%; N, 12.38%. Found: C, 63.68%; H, 5.01%; N, 12.31%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M777">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M777-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M777-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2012-M777-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M777-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M777">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ebenso</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Isabirye</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Eddy</surname>
+              <given-names>N.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adsorption and quantum chemical studies on the inhibition potentials of some thiosemicarbazides for the corrosion of mild steel in acidic medium</article-title>
+          <source>Int. J. Mol. Sci.</source>
+          <year>2010</year>
+          <volume>11</volume>
+          <fpage>2473</fpage>
+          <lpage>2498</lpage>
+          <pub-id pub-id-type="doi">10.3390/ijms11062473</pub-id>
+          <pub-id pub-id-type="pmid">20640164</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M777">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eddy</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Ebenso</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Ibok</surname>
+              <given-names>U.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Adsorption, synergistic inhibitive effect and quantum chemical studies of ampicillin (AMP) and halides for the corrosion of mild steel in H<sub>2</sub>SO<sub>4</sub></article-title>
+          <source>J. Appl. Electrochem.</source>
+          <year>2010</year>
+          <volume>40</volume>
+          <fpage>445</fpage>
+          <lpage>456</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10800-009-0015-z</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M777">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eddy</surname>
+              <given-names>N.O.</given-names>
+            </name>
+            <name>
+              <surname>Ibok</surname>
+              <given-names>U.J.</given-names>
+            </name>
+            <name>
+              <surname>Ebenso</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>El Nemr</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Ashry</surname>
+              <given-names>E.S.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantum chemical study of the inhibition of the corrosion of mild steel in H<sub>2</sub>SO<sub>4</sub> by some antibiotics</article-title>
+          <source>J. Mol. Model.</source>
+          <year>2009</year>
+          <volume>15</volume>
+          <fpage>1085</fpage>
+          <lpage>1092</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00894-009-0472-7</pub-id>
+          <pub-id pub-id-type="pmid">19225815</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M777">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eddy</surname>
+              <given-names>N.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Experimental and theoretical studies on some amino acids and their potential activity as inhibitors for the corrosion of mild steel, part 2</article-title>
+          <source>J. Adv. Res.</source>
+          <year>2011</year>
+          <volume>2</volume>
+          <fpage>35</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jare.2010.08.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M777">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <article-title>Exploration of the binding of benzimidazole-biphenyl derivatives to hemoglobin using docking and molecular dynamics simulation</article-title>
+          <source>Int. J. Biol. Macromol.</source>
+          <year>2011</year>
+          <volume>48</volume>
+          <fpage>20</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijbiomac.2010.09.006</pub-id>
+          <pub-id pub-id-type="pmid">20869392</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M777">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goebel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Staels</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Unger</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kintscher</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Gust</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of new PPARgamma agonists: Benzimidazole derivatives - the importance of position 2</article-title>
+          <source>Chem. Med. Chem.</source>
+          <year>2009</year>
+          <volume>4</volume>
+          <fpage>1142</fpage>
+          <lpage>1136</lpage>
+          <pub-id pub-id-type="doi">10.1002/cmdc.200900067</pub-id>
+          <pub-id pub-id-type="pmid">19504532</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M777">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moss</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Cogan</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Flegg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kahrs</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Loke</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Meyn</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Nagaraja</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Napier</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A new class of 5-HT<sub>2B</sub> antagonists possesses favorable potency, selectivity, and rat pharmacokinetic properties</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>19</volume>
+          <fpage>2206</fpage>
+          <lpage>2210</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.02.126</pub-id>
+          <pub-id pub-id-type="pmid">19307114</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M777">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demirayak</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kayagil</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Yurttas</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Microwave supported synthesis of some novel 1,3-Diarylpyrazino[1,2-a]benzimidazole derivatives and investigation of their anticancer activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>411</fpage>
+          <lpage>416</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2010.11.007</pub-id>
+          <pub-id pub-id-type="pmid">21122952</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M777">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Law</surname>
+              <given-names>P.K.</given-names>
+            </name>
+            <name>
+              <surname>de Gasparo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Leung</surname>
+              <given-names>P.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Combination of the Dipeptidyl Peptidase IV Inhibitor LAF237 [(<italic>S</italic>)-1-[(3-Hydroxy-1-adamantyl)ammo]acetyl-2-cyanopyrrolidine] with the Angiotensin II Type 1 Receptor Antagonist Valsartan [<italic>N</italic>-(1-Oxopentyl)-<italic>N</italic>-[[2'-(1<italic>H</italic>-tetrazol-5-yl)-[1,1'-biphenyl]-4-yl]methyl]-L-valine] Enhances Pancreatic Islet Morphology and Function in a Mouse Model of Type 2 Diabetes</article-title>
+          <source>J. Pharmacol. Exp. Ther.</source>
+          <year>2008</year>
+          <volume>327</volume>
+          <fpage>683</fpage>
+          <lpage>691</lpage>
+          <pub-id pub-id-type="pmid">18787107</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M777">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pfeffer</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>McMurray</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Velazquez</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Rouleau</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>K&#xF8;ber</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Maggioni</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>Solomon</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Swedberg</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>van de Werf</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Valsartan, captopril, or both in myocardial infarction complicated by heart failure, left ventricular dysfunction, or both</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>2003</year>
+          <volume>349</volume>
+          <fpage>1893</fpage>
+          <lpage>1906</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa032292</pub-id>
+          <pub-id pub-id-type="pmid">14610160</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M777">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ismail</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Batista-Parra</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Miao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>W.D.</given-names>
+            </name>
+            <name>
+              <surname>Wenzler</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Brun</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Boykin</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dicationic near-linear biphenyl benzimidazole derivatives as DNA-targeted antiprotozoal agents</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2005</year>
+          <volume>13</volume>
+          <fpage>6718</fpage>
+          <lpage>6726</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2005.07.024</pub-id>
+          <pub-id pub-id-type="pmid">16099661</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2012-M777">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Houssine</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abdelrhani</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Anouar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Abdelilah</surname>
+              <given-names>E.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of New Racemic &#x3B1;,&#x3B1;-Diaminocarboxylic Ester Derivatives</article-title>
+          <source>Molecules</source>
+          <year>2010</year>
+          <volume>15</volume>
+          <fpage>9354</fpage>
+          <lpage>9363</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules15129354</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2012-M777">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kober</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Steglich</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Untersuchungen zur Reaktion von Acylaminobrommalonestern und Acylaminobromessigestern mit Trialkylphosphiten-eine einfache Synthese von 2-Amino-2-(diethoxyphosphoryl) Essigs&#xE4;ure Ethylester</article-title>
+          <source>Liebigs Ann. Chem.</source>
+          <year>1983</year>
+          <volume>4</volume>
+          <fpage>599</fpage>
+          <lpage>609</lpage>
+          <pub-id pub-id-type="doi">10.1002/jlac.198319830409</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2012-M777">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Achamlale</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Elachqar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Hallaoui</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Hajji</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Roumestant</surname>
+              <given-names>ML.</given-names>
+            </name>
+            <name>
+              <surname>Viallefont</surname>
+              <given-names>P.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of <italic>&#x3B1;</italic>-triazolyl <italic>&#x3B1;</italic>-aminoacid derivatives</article-title>
+          <source>Amino Acids</source>
+          <year>1997</year>
+          <volume>12</volume>
+          <fpage>257</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01373006</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2012-M777">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boukallaba</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Elachqar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Hallaoui</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alami</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>El Hajji</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Labriti</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rolland</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new <italic>&#x3B1;</italic>-heterocyclic <italic>&#x3B1;</italic>-aminophosphonates</article-title>
+          <source>Phosphorus Sulfur Silicon Relat. Elem.</source>
+          <year>2006</year>
+          <volume>181</volume>
+          <fpage>819</fpage>
+          <lpage>823</lpage>
+          <pub-id pub-id-type="doi">10.1080/10426500500272046</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2012-M777">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mabrouk</surname>
+              <given-names>E.H.</given-names>
+            </name>
+            <name>
+              <surname>Abdelrhani</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Abdelilah</surname>
+              <given-names>E.H.</given-names>
+            </name>
+            <name>
+              <surname>Anouar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Soumia</surname>
+              <given-names>E.H.</given-names>
+            </name>
+            <name>
+              <surname>Jean</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vallery</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of new racemic &#x3B1;-heterocyclic &#x3B1;,&#x3B1;-diaminoesters and &#x3B1;-aminoester carboxylic</article-title>
+          <source>Arab. J. Chem.</source>
+          <year>2010</year>
+          <pub-id pub-id-type="doi">10.1016/j.arabjc.2010.09.023</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme and Table</title>
+      <fig id="molbank-2012-M777-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M777-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p><italic>O</italic>-alkylation of 1<italic>H</italic>-benzimidazol-1-ylmethanol with methy &#x3B1;-azidoglycinate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M777-sch001.tif"/>
+      </fig>
+      <table-wrap id="molbank-2012-M777-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M777-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Synthesis of Methyl 2-benzamido-2-(1<italic>H</italic>-benzimidazol-1-ylmethoxy)acetate <bold>2</bold>.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Nu-H</th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Product</th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">M.P. (&#xB0;C)</th>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Reaction Time (h)</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">-DCM</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Et<sub>3</sub>N DCM</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Et<sub>3</sub>N Acetone</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">DIEPA DCM</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">DIPEA Acetone</th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">Yield (%)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">Yield (%)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">Yield (%)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">Yield (%)</th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">Yield (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1<italic>H</italic>-benzimidazol-1-ylmethanol</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">Methyl 2-benzamido-2-(1<italic>H</italic>-benzimidazol-1-ylmethoxy)acetate <bold>2</bold></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">116&#x2013;118</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">48</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">30</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </back>
+</article>

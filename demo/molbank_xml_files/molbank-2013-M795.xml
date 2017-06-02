@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M795</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M795</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6,6&#x2032;-(1<italic>E</italic>,1&#x2032;<italic>E</italic>)-((1<italic>R</italic>,2<italic>R</italic>)-1,2-Diphenylethane-1,2-diyl)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(2-<italic>tert</italic>-butyl-4-((trimethylsilyl)ethynyl)phenol)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huber</surname>
+            <given-names>Thimo</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M795" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Niehues</surname>
+            <given-names>Lennart</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M795" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cativiela</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref rid="af2-molbank-2013-M795" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Finn</surname>
+            <given-names>M. G.</given-names>
+          </name>
+          <xref rid="af3-molbank-2013-M795" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D&#xED;az</surname>
+            <given-names>David D&#xED;az</given-names>
+          </name>
+          <xref rid="af1-molbank-2013-M795" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2013-M795" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2013-M795" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M795"><label>1</label>Institut f&#xFC;r Organische Chemie, Universit&#xE4;t Regensburg, Universit&#xE4;tsstr. 31, 93053 Regensburg, Germany</aff>
+      <aff id="af2-molbank-2013-M795"><label>2</label>Instituto de S&#xED;ntesis Qu&#xED;mica y Cat&#xE1;lisis Homog&#xE9;nea (ISQCH), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain</aff>
+      <aff id="af3-molbank-2013-M795"><label>3</label>Department of Chemistry and The Skaggs Institute for Chemical Biology, The Scripps Research Institute, 10550 N. Torrey Pines Rd., La Jolla, 92037 CA, USA</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M795"><label>*</label>Author to whom correspondence should be addressed; E-Mails: <email>diazdiaz@unizar.es</email> or <email>David.Diaz@chemie.uni-regensburg.de</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>03</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>1</issue>
+      <elocation-id>M795</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>01</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>02</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Functionalizable salen derivative, 6,6&#x2032;-(1<italic>E</italic>,1&#x2032;<italic>E</italic>)-((1<italic>R</italic>,2<italic>R</italic>)-1,2-diphenylethane-1,2-diyl)bis(azan-1-yl-1-ylidene)bis(methan-1-yl-1-ylidene)bis(2-<italic>tert</italic>-butyl-4-((trimethylsilyl)ethyn-yl)phenol) (<bold>3</bold>), was synthesized by condensation between (1<italic>R</italic>,2<italic>R</italic>)-1,2-diphenylethane-1,2-diamine (<bold>2</bold>) and 3-<italic>tert</italic>-butyl-2-hydroxy-5-((trimethylsilyl)ethynyl)benzaldehyde (<bold>1</bold>) under refluxing conditions. The title compound was characterized by <sup>1</sup>H-NMR, <sup>13</sup>C-NMR, FT-IR, high-resolution mass spectrometry, optical rotation and melting point determination.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>salen ligands</kwd>
+        <kwd>chiral 1,2-diamines</kwd>
+        <kwd>alkynes</kwd>
+        <kwd>nucleophilic addition</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p><italic>N,N&#x2032;</italic>-Bis(salicylidene)ethylidenediamines, more commonly referred to as salen molecules, constitute one of the most popular and useful ligands for catalysts used in asymmetric synthesis [<xref ref-type="bibr" rid="B1-molbank-2013-M795">1</xref>]. Since the first metallated salen ligand reported independently by Jacobsen [<xref ref-type="bibr" rid="B2-molbank-2013-M795">2</xref>] and Katsuki [<xref ref-type="bibr" rid="B3-molbank-2013-M795">3</xref>], which continues being the most efficient catalyst for a wide variety of organic reactions [<xref ref-type="bibr" rid="B1-molbank-2013-M795">1</xref>], a plethora of different chiral salen ligands has been comprehensively studied. Indeed, the facile and modular synthesis of salens from diamines and salicylaldehydes has allowed researchers to control the activity of many by finely tuning its steric and electronic properties [<xref ref-type="bibr" rid="B4-molbank-2013-M795">4</xref>]. On the other hand, a number of approaches have been also described to immobilize salen ligands (e.g., polymer- or zeolite-immobilized salens) in order to take advantage of the heterogeneous catalysis [<xref ref-type="bibr" rid="B5-molbank-2013-M795">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M795">6</xref>]. In this sense, incorporation of functionalizable organic units into salen ligand frameworks constitutes one of the platforms of choice to expand their versatility. In this sense, acetylenes have been proven to be one of the most valuable functional groups in organic synthesis and materials chemistry [<xref ref-type="bibr" rid="B7-molbank-2013-M795">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2013-M795">8</xref>], mainly due to (1) their facile incorporation into organic compounds, and (2) their numerous characteristic reactions including, among others, electrophilic additions, metathesis, hydroboration, oxidative cleavage, C&#x2013;C coupling and cycloadditions [<xref ref-type="bibr" rid="B8-molbank-2013-M795">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2013-M795">9</xref>].</p>
+      <p>Herein, we report the synthesis and full characterization of a chiral salen ligand derived from (1<italic>R</italic>,2<italic>R</italic>)-1,2-diphenylethane-1,2-diamine and bearing TMS-protected terminal alkynes (TMS = trimethylsilyl), which are available for further modifications. To the best of our knowledge, the isolation and characterization of this compound have not been reported elsewhere.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The title compound <bold>3</bold> was obtained in 87% yield via the nucleophilic addition of (1<italic>R</italic>,2<italic>R</italic>)-1,2-diphenylethane-1,2-diamine (<bold>2</bold>) to 5-(trimethylsilyl)ethynyl-3-<italic>tert</italic>-butyl-2-hydroxybenzaldehyde (<bold>1</bold>), which was previously synthesized following the method reported by Seebach and co-workers [<xref ref-type="bibr" rid="B10-molbank-2013-M795">10</xref>]. The reaction was carried out in refluxing ethanol during 3 h (<xref ref-type="scheme" rid="molbank-2013-M795-sch001">Scheme 1</xref>), affording the desired compound as a yellow solid after a simple filtration-washing protocol of the so-formed precipitate (see Experimental Section and Supporting Information). </p>
+      <p>Regarding the importance of this structural moiety, it is worth to mention that condensation of <bold>2</bold> with disalicylaldehydes based on 1,4-dialkoxy-2,6-diethynylbenzene has been reported to form chiral linear polymers that catalyze the Et<sub>2</sub>Zn addition to aldehydes with good enantioselectivity [<xref ref-type="bibr" rid="B11-molbank-2013-M795">11</xref>]. In addition, alkene analogues of <bold>3</bold> have been prepared for radical grafting of salen structures onto controlled-pore glass silica gel [<xref ref-type="bibr" rid="B6-molbank-2013-M795">6</xref>]. In our case, preliminary experiments also indicated the conversion of <bold>3</bold> in the presence of hydrophilic 3-mercaptopropyl silica gel and AIBN as a radical initiator [<xref ref-type="bibr" rid="B12-molbank-2013-M795">12</xref>], upon deprotection of TMS groups. Reaction was confirmed by disappearance of <bold>3</bold> in the TLC analysis and Ellman&#x2019;s SH test [<xref ref-type="bibr" rid="B13-molbank-2013-M795">13</xref>], which indicated reaction of ca. 85% of SH groups (see Supporting Information). Similarly, other orthogonal reactions such as the 1,3-dipolar cycloaddition between alkynes and azides may constitute an alternative and versatile method for the synthesis of <bold>3</bold>-based polymers, immobilization of <bold>3</bold> on solid supports or preparation of new chiral salen molecules after reaction with either multivalent or monovalent azides.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p><italic>General:</italic> <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded at 25 &#xB0;C on Bruker Avance 300 spectrometer in CDCl<sub>3</sub> as solvent. Chemical shifts are reported in parts per million relative to internal TMS (0.00 ppm). High-resolution mass spectrum was recorded with a Bruker Microtof-Q spectrometer. Elemental analysis was performed on a PerkinElmer 2400 Series II CHNS/O elemental analyzer. Infrared spectrum was recorded using a Nicolet Avatar 360 FTIR spectrophotometer. Melting point (mp) was measured with a Gallenkamp apparatus and is uncorrected. UV-vis measurements were performed on a UNICAM UV-vis spectrometer. Optical rotation was determined in a JASCO P-1020 polarimeter. Thin-layer chromatography was carried out on Merck aluminium sheets coated with silica gel 60 F<sub>254</sub>. Compounds were visualized by use of 254 nm UV light and phosphomolybdic acid solution in ethanol with heating. All solvents used during this work were of p.a. grade or purified by standard techniques [<xref ref-type="bibr" rid="B14-molbank-2013-M795">14</xref>]. Anhydrous sodium sulfate was used for drying solutions. Alkynyl derivative <bold>1</bold> was obtained by Sonogashira cross-coupling of trimethylsilyl acetylene with 5-bromo-3-<italic>tert</italic>-butyl-2-hydroxybenzaldehyde, affording the desired product as a yellow oil that displayed identical spectroscopic data to those reported in the literature [<xref ref-type="bibr" rid="B10-molbank-2013-M795">10</xref>]. Chiral 1,2-diamine <bold>2</bold> was purchased from Aldrich and used as received.</p>
+      <p><italic>Synthetic procedure and characterization data of 6,6&#x2032;-((1E,1&#x2032;E)-(((1R,2R)-1,2-diphenylethane-1,2-diyl)bis(azanylylidene))bis(methanylylidene))bis(2-(tert-butyl)-4-((trimethylsilyl)ethynyl)phenol)</italic> (<bold>3</bold>): A stirred yellow solution of 5-(trimethylsilyl)ethynyl-3-<italic>tert</italic>-butyl-2-hydroxybenzaldehyde (<bold>1</bold>) (1.37 g, 5.0 mmol) and (1<italic>R</italic>,2<italic>R</italic>)-1,2-diphenylethane-1,2-diamine (<bold>2</bold>) (0.52 g, 2.46 mmol) in anhydrous EtOH (20 mL) was heated under reflux for 3 h. During this time, copious amount of precipitate was observed and TLC analysis of the supernatant indicated complete conversion of <bold>1</bold>. The reaction mixture was allowed to cool down to room temperature and the resulting yellow precipitate was filtered over a Buchner funnel, washed thoroughly with EtOH (3 &#xD7; 20 mL) and dried under vacuum. The residue was finally purified by flash column chromatography on silica gel (eluent EtOAc/hexanes 1:9 &#x2192; 3:7 v/v) affording Schiff base ligand <bold>3</bold> (1.55 g, 87% yield) as a yellow solid: TLC <italic>R</italic><sub>f</sub> (EtOAc/hexanes 1:9 v/v) 0.75; [&#x3B1;]<sub>D</sub><sup>20</sup> = &#x2212;50.9 &#xB1; 1&#xB0; (<italic>c</italic> 0.14, CHCl<sub>3</sub>); mp = 107 &#xB1; 3 &#xB0;C; <sup>1</sup>H-NMR (300 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 0.20 (s, 18H), 1.40 (s, 18H), 4.67 (s, 2H), 7.10 (s, 2H), 7.14&#x2013;7.22 (m, 10H), 7.33 (s, 2H), 8.20 (s, 2H), 14.01 (s, 2H); <sup>13</sup>C-NMR (75 MHz, CDCl<sub>3</sub>) &#x3B4;/ppm = 0.0 (6C), 29.1 (6C), 34.8 (2C), 79.9 (2C), 91.5 (2C), 105.2 (2C), 112.3 (2C), 118.1 (2C), 127.7 (2C), 127.9 (4C), 128.4 (4C), 133.3 (2C), 133.9 (2C), 137.6 (2C), 138.8 (2C), 160.7 (2C), 166.2 (2C); FT-IR (KBr) &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>) 3444, 2959, 1634, 1464, 1440, 1391, 1361, 1271, 1249, 1209, 1156, 1120, 1052, 1030, 938, 857; HRMS (ESI) <italic>m/z</italic> calculated for C<sub>46</sub>H<sub>57</sub>N<sub>2</sub>O<sub>2</sub>Si<sub>2</sub> [M+H]<sup>+</sup> 725.3953; found 725.3947.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2013-M795">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2013-M795-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M795-s001.pdf">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2013-M795-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M795-s002-mod.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+<supplementary-material id="molbank-2013-M795-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M795-s002.mol">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+<ack>
+      <title>Acknowledgements</title>
+      <p>We thank CSIC (project PIE 200980I059) and University of Regensburg (Anschubfinanzierung von Wissenschaftlichen Projekten-2011), Ministerio de Ciencia e Innovaci&#xF3;n &#x2013; FEDER (CTQ2010-17436) and Gobierno de Arag&#xF3;n-FSE (research group E40) for financial support. We are also grateful to J&#xFC;rgen Bachl (Universit&#xE4;t Regensburg) and Javier Sayago (Universidad de Zaragoza) for their valuable assistance.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M795">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larrow</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Jacobsen</surname>
+              <given-names>E.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric processes catalyzed by chiral (salen)metal complexes</article-title>
+          <source>Top. Organomet. Chem.</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>123</fpage>
+          <lpage>152</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200515274</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M795">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Loebach</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Jacobsen</surname>
+              <given-names>E.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enantioselective epoxidation of unfunctionalized olefins catalyzed by (salen)Manganese complexes</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1990</year>
+          <volume>112</volume>
+          <fpage>2801</fpage>
+          <lpage>2803</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00163a052</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M795">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Irie</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Noda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Katsuki</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Catalytic asymmetric epoxidation of unfunctionalized olefins</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>1990</year>
+          <volume>31</volume>
+          <fpage>7345</fpage>
+          <lpage>7348</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(00)88562-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M795">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McGarrigle</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Gilheany</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chromium- and manganese-salen promoted epoxidation of alkenes</article-title>
+          <source>Chem. Rev.</source>
+          <year>2005</year>
+          <volume>105</volume>
+          <fpage>1563</fpage>
+          <lpage>1602</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr0306945</pub-id>
+          <pub-id pub-id-type="pmid">15884784</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M795">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holbach</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Weck</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modular approach for the development of supported monofunctionalized, salen catalysts</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2006</year>
+          <volume>71</volume>
+          <fpage>1825</fpage>
+          <lpage>1836</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo051919+</pub-id>
+          <pub-id pub-id-type="pmid">16496967</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M795">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heckel</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Seebach</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enantioselective heterogeneous epoxidation and hetero-Diels-Alder reaction with Mn- and Cr-salen complexes immobilized on silica gel by radical grafting</article-title>
+          <source>Helv. Chim. Acta</source>
+          <year>2002</year>
+          <volume>85</volume>
+          <fpage>913</fpage>
+          <lpage>926</lpage>
+          <comment>and references therein</comment>
+          <pub-id pub-id-type="doi">10.1002/1522-2675(200203)85:3&lt;913::AID-HLCA913&gt;3.0.CO;2-U</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M795">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patai</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>Chemistry of Triple-Bonded Functional Groups</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1994</year>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M795">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diederich</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Stang</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Tykwinski</surname>
+              <given-names>R.R.</given-names>
+            </name>
+          </person-group>
+          <source>Acetylene Chemistry: Chemistry, Biology, and Material Science</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M795">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolb</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Finn</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Sharpless</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Click chemistry: Diverse chemical function from a few good reactions</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2001</year>
+          <volume>40</volume>
+          <fpage>2004</fpage>
+          <lpage>2021</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-3773(20010601)40:11&lt;2004::AID-ANIE2004&gt;3.0.CO;2-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M795">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sellner</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Karjalainen</surname>
+              <given-names>J.K.</given-names>
+            </name>
+            <name>
+              <surname>Seebach</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of dendritic and non-dendritic styryl-substituted salens for cross-linking suspension copolymerization with styrene and multiple use of the corresponding Mn and Cr complexes in enantioselective epoxidations and hetero-Diels-Alder reactions</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2001</year>
+          <volume>7</volume>
+          <fpage>2873</fpage>
+          <lpage>2887</lpage>
+          <pub-id pub-id-type="doi">10.1002/1521-3765(20010702)7:13&lt;2873::AID-CHEM2873&gt;3.0.CO;2-C</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M795">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jammi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Rout</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Punniyamurthy</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral linear polymers bonded alternatively with salen and 1,4-dialkoxy-2,6-diethynylbenzene: Synthesis and application to diethylzinc addition to aldehydes</article-title>
+          <source>Tetrahedron Asymmetry</source>
+          <year>2007</year>
+          <volume>18</volume>
+          <fpage>2016</fpage>
+          <lpage>2020</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetasy.2007.09.004</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M795">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lowe</surname>
+              <given-names>A.B.</given-names>
+            </name>
+            <name>
+              <surname>Hoyle</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Bowman</surname>
+              <given-names>C.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiol-yne click chemistry: A powerful and versatile methodology for materials synthesis</article-title>
+          <source>J. Mater. Chem.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>4745</fpage>
+          <lpage>4750</lpage>
+          <pub-id pub-id-type="doi">10.1039/b917102a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M795">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellman</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tissue sulfhydryl groups</article-title>
+          <source>Arch. Biochem. Biophys.</source>
+          <year>1959</year>
+          <volume>82</volume>
+          <fpage>70</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1016/0003-9861(59)90090-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2013-M795">
+        <label>14.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armarego</surname>
+              <given-names>W.L.F.</given-names>
+            </name>
+            <name>
+              <surname>Perrin</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <source>Purification of Laboratory Chemicals</source>
+          <edition>4th ed.</edition>
+          <publisher-name>Butterworth-Heinemann</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2013-M795-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M795-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M795-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

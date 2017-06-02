@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M391</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2004-M391</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>-Furan-2-ylmethyl-4-methyl-benzenesulfonamide (<italic>N</italic>-Furfuryl-<italic>p</italic>-toluenesulfonamide)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meining</surname>
+            <given-names>Holger</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>F&#xF6;hlisch</surname>
+            <given-names>Baldur</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M391" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2004-M391">Institut f&#xFC;r Organische Chemie der Universit&#xE4;t Stuttgart, Pfaffenwaldring 55, D-70569 Stuttgart, Germany; Fax: (+ 49) 711/6854269; E-mail: <email>baldur.foehlisch@po.uni-stuttgart.de</email></aff>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>03</month>
+        <year>2004</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>2004</volume>
+      <issue>1</issue>
+      <elocation-id>M391</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>03</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 MDPI.</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+      <disp-formula>
+        <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M391-i001.tif"/>
+      </disp-formula>
+	  <p>A solution of furfurylamine[<xref ref-type="bibr" rid="B1-molbank-2004-M391">1</xref>] (9.77 g, 100 mmol) in <italic>tert</italic>-butylmethyl ether[<xref ref-type="bibr" rid="B2-molbank-2004-M391">2</xref>] (MTBE, 50 mL) was made in a 250-mL four-necked flask, fitted with two dropping funnels and an immersion thermometer, and cooled in an ice/salt bath to -15 &#xB0;C. With vigorous stirring, solutions of <italic>p</italic>-toluenesulfonyl chloride (20.97 g, 110 mmol) in MTBE (80 mL) and 20% aqueous sodium hydroxide (22 mL, 110 mmol) were added simultaneously and cautiously. The temperature of the reaction mixture was not allowed to exceed -5 &#xB0;C. When the addition was completed (60&#x2013;90 min), the cooling bath was removed, and the mixture stirred for 2&#x2013;3 hours. The MTBE layer was separated, and the aqueous layer acidified to pH 3&#x2013;4 and extracted with MTBE (4 &#xB4; 40 mL). The combined organic solutions were washed with saturated brine (2 &#xB4; 40 mL) and dried overnight with magnesium sulfate. After filtration, the solvent was removed in a rotary evaporator. The remaining white solid was recrystallized from 50% aqueous ethanol (150 mL) to yield 21.28 g (85%) of colourless platelets with m.p. 114&#x2013;115&#xB0;C (Ref.[<xref ref-type="bibr" rid="B3-molbank-2004-M391">3</xref>]: 88%, m.p. 111&#x2013;112&#xB0;C).</p>
+      <p><sup>1</sup>H NMR (250 MHz, CDCl<sub>3</sub>): d = 2.41 (s, 3 H, C<italic>H</italic><sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>), 4.15 (d, <italic>J</italic> = 6.0 Hz, 2 H, CH<sub>2</sub>-N), 5.04 (t, <italic>J</italic> = 6.0 Hz, 1 H, NH); ABX sub-spectrum with dA = 6.20, dB = 6.08, dX = 7.22, <italic>J</italic><sub>AB</sub> = 3.2 Hz, <italic>J</italic><sub>AX</sub> = 1.8 Hz, <italic>J</italic><sub>BX</sub> = 0.8 Hz (3 H, H-4, H-3, H-5); AA&#x2019;BB&#x2019; sub-spectrum with dA = 7.71, dB = 7.26, <italic>J</italic><sub>AB</sub> = 8.2 Hz, (4 H, H-2/6 of CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>, H<sub>AA&#x2019;</sub>, and H-3/5 of CH<sub>3</sub>C<sub>6</sub><italic>H</italic><sub>4</sub>SO<sub>2</sub>, H<sub>BB&#x2019;</sub>).</p>
+      <p><sup>13</sup>C NMR/DEPT (62.9 MHz, CDCl<sub>3</sub>): d = 21.5 (+, <italic>C</italic>H<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub>), 40.1 (-, CH<sub>2</sub>-N), 108.2 (+, C-3), 110.4 (+, C-4), 127.1 (+, Tos-C-2/6), 129.65 (+, Tos-C-3/5), 136.85 (C<sub>q</sub>, Tos-C-4), 142.5 (+, C-5), 143.5 (C<sub>q</sub>, Tos-C-1), 149.6 (C<sub>q</sub>, C-2).</p>
+      <p>IR (CDCl<sub>3</sub>): 3385 (N-H), 2930, 2870 (C-H), 1600 (C=C), 1495, 1410, 1335, 1165 cm<sup>-1</sup>(SO<sub>2</sub>).</p>
+      <p>Anal. Calcd. for C<sub>12</sub>H<sub>13</sub>NO<sub>3</sub>S (251.3): C, 57.35; H, 5.21; N, 5.57; S, 12.76. Found: C, 57.49; H, 5.30; N, 5.52; S, 12.53.</p>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2004-M391">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M391-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M391-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2004-M391-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M391-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2004-M391">
+        <label>1.</label>
+        <note>
+          <p>Commercially available; we used a product from Fluka, Switzerland.</p>
+        </note>
+      </ref>
+      <ref id="B2-molbank-2004-M391">
+        <label>2.</label>
+        <note>
+          <p><italic>tert</italic>-Butylmethyl ether was recommended as an inexpensive solvent when this experiment was carried out (June 1991, Diploma thesis of H.M.). Nowadays, it is considered environmentally problematic. We also used 1,2-dichloroethane instead of the ether.</p>
+        </note>
+      </ref>
+      <ref id="B3-molbank-2004-M391">
+        <label>3.</label>
+		<citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chooney</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Kuhnert</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sammes</surname>
+              <given-names>P. G.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>R. W.</given-names>
+            </name>
+          </person-group>
+          <source>J. Chem. Soc., Perkin Trans 1</source>
+          <year>2002</year>
+          <fpage>1999</fpage>
+          <lpage>2005</lpage>
+		  <comment>Dry pyridine was used as base and solvent. However, spectra and combustion analysis are not given in this paper.</comment>
+        </citation> 
+      </ref>
+    </ref-list>
+  </back>
+</article>

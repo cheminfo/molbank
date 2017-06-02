@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M658</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M658</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(Benzoylamino)methyl 4-Hydroxybenzoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Popovski</surname>
+            <given-names>Emil</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M658" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2010-M658" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mladenovska</surname>
+            <given-names>Kristina</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M658" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M658"><label>1</label>Institute of Chemistry, Faculty of Natural Sciences &amp; Mathematics, Ss. Cyril and Methodius University, Arhimedova 5, PO Box 162, 1000 Skopje, Macedonia</aff>
+      <aff id="af2-molbank-2010-M658"><label>2</label>Department of Drug Design and Metabolism, Faculty of Pharmacy, Ss. Cyril and Methodious University, Vodnjanska 17, 1000 Skopje, Macedonia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M658"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>emilp@pmf.ukim.mk</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>02</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>1</issue>
+      <elocation-id>M658</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>01</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>02</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>(Benzoylamino)methyl 4-hydroxybenzoate (&#x201C;Benzamidomethylparaben&#x201D;) (<bold>3</bold>) was obtained from a reaction of 4-hydroxybenzoic acid (<bold>2</bold>) with a dioxane suspension of (benzamidomethyl)triethylammonium chloride (<bold>1</bold>). The phenolic group in <bold>2</bold> cannot be benzamidomethylated with <bold>1</bold> in aqueous media.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>benzamidomethyl</kwd>
+        <kwd>paraben</kwd>
+        <kwd>4-hydroxybenzoic acid</kwd>
+        <kwd>preservative</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Parabens such as methylparaben, ethylparaben, propylparaben, isopropylparaben, butylparaben and isobutylparaben are chemical compounds derived from 4-hydroxybenzoic acid (<bold>2</bold>) [<xref ref-type="bibr" rid="B1-molbank-2010-M658">1</xref>]. For almost one century they have been successfully used as antimicrobial preservatives in foods and beverages, pharmaceuticals and cosmetics [<xref ref-type="bibr" rid="B2-molbank-2010-M658">2</xref>]. In addition, parabens have been reported to have anticonvulsive, vasodilating, analgesic, and anesthetic effects in animals [<xref ref-type="bibr" rid="B3-molbank-2010-M658">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M658">4</xref>].</p>
+      <p>Considering toxicity, many results so far are inconclusive. Once entering the human body, parabens do not accumulate, but are rapidly absorbed, metabolized and excreted. Numerous acute toxicity studies as well as subchronic and chronic oral studies confirm their low toxicity, non-sensitivity and non-irritability [<xref ref-type="bibr" rid="B1-molbank-2010-M658">1</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M658">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M658">6</xref>]. Estrogen agonist properties of parabens have been documented with a wide variety of assay systems <italic>in vitro</italic> and <italic>in vivo</italic> [<xref ref-type="bibr" rid="B7-molbank-2010-M658">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2010-M658">8</xref>]. However, research data related to the vulnerability of the paraben exposure in estrogen-sensitive period of implantation indicated that parabens may not be as potent as previously reported [<xref ref-type="bibr" rid="B6-molbank-2010-M658">6</xref>]. In addition, some of the parabens have also been shown to possess androgen antagonist activity, to act as inhibitors of sulfotransferase enzymes and to possess genotoxic activity, especially when multiple daily doses of parabens, combined with other ingredients, are applied [<xref ref-type="bibr" rid="B9-molbank-2010-M658">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2010-M658">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2010-M658">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M658">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2010-M658">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2010-M658">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2010-M658">15</xref>].</p>
+      <p>So, in view of the long history of use of parabens and of these inconclusive data, there remains a need for detailed research and evaluation of their biological properties and it is continuously performed [<xref ref-type="bibr" rid="B16-molbank-2010-M658">16</xref>,<xref ref-type="bibr" rid="B17-molbank-2010-M658">17</xref>,<xref ref-type="bibr" rid="B18-molbank-2010-M658">18</xref>]. In parallel, the search for new ways of synthesis [<xref ref-type="bibr" rid="B19-molbank-2010-M658">19</xref>] or new parabens continues [<xref ref-type="bibr" rid="B20-molbank-2010-M658">20</xref>].</p>
+      <p>In this paper, we present the synthesis of a new paraben compound, <italic>i.e.</italic>, &#x201C;benzamidomethylparaben&#x201D; [(benzoylamino)methyl 4-hydroxybenzoate]. The benzamidomethyl group can be found in many molecules with biological activity or it intermediates within the synthesis of different biologically active compounds [<xref ref-type="bibr" rid="B21-molbank-2010-M658">21</xref>,<xref ref-type="bibr" rid="B22-molbank-2010-M658">22</xref>,<xref ref-type="bibr" rid="B23-molbank-2010-M658">23</xref>,<xref ref-type="bibr" rid="B24-molbank-2010-M658">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2010-M658">25</xref>] such as the 2-benzamidomethyl-3-oxybutanoates, which are used as intermediates in the preparation of (2<italic>R</italic>,3<italic>S</italic>)-2-benzamidomethyl-3-hydroxybutanoates [<xref ref-type="bibr" rid="B26-molbank-2010-M658">26</xref>,<xref ref-type="bibr" rid="B27-molbank-2010-M658">27</xref>,<xref ref-type="bibr" rid="B28-molbank-2010-M658">28</xref>] as chiral building blocks for the synthesis of biologically active carbapenems [<xref ref-type="bibr" rid="B29-molbank-2010-M658">29</xref>,<xref ref-type="bibr" rid="B30-molbank-2010-M658">30</xref>,<xref ref-type="bibr" rid="B31-molbank-2010-M658">31</xref>].</p>
+      <p>We have already reported [<xref ref-type="bibr" rid="B32-molbank-2010-M658">32</xref>] that phenols can be easily benzamidomethylated with (benzamidomethyl)triethylammonium chloride (<bold>1</bold>) in aqueous media (pH &gt; 9), giving high yields of the corresponding ethers. Also, carboxylic acids give moderate yields of the corresponding esters in reactions with acetone or dioxane suspensions of <bold>1</bold> in the presence of a small amount of triethylamine (TEA) [<xref ref-type="bibr" rid="B33-molbank-2010-M658">33</xref>]. </p>
+      <p>According to our research, 4-hydroxybenzoic acid (in which both a phenolic group and a carboxylic group are present) cannot be benzamidomethylated with <bold>1</bold> in aqueous media. The carboxylic group as a weak nucleophile in aqueous media does not react, but it deactivates the phenolic group in the molecule of <bold>2</bold>. However, when the same reaction was performed in a dioxane suspension of <bold>1</bold> in the presence of TEA, a moderate to high yield of benzamidomethyl paraben (<bold>3)</bold> was obtained (<xref ref-type="scheme" rid="molbank-2010-M658-sch001">Scheme 1</xref>).</p>
+      <p>For further evaluation, the biological properties of the newly synthesized compound, benzamidomethylparaben, will be investigated. Knowing that an ester chain is necessary for antimicrobial activity [<xref ref-type="bibr" rid="B1-molbank-2010-M658">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M658">2</xref>] and considering the fact that it is preserved in the molecule, one can expect that this compound could be used as preservative. </p>
+      <fig id="molbank-2010-M658-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M658-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthetic route to the title compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M658-sch001.tif"/>
+      </fig>
+	<sec>
+      <title>Experimental</title>
+      <p>Compound <bold>1</bold> is not commercially available and it was synthesized as described previously [<xref ref-type="bibr" rid="B32-molbank-2010-M658">32</xref>]. </p>
+	<sec>
+      <title>(Benzoylamino)methyl 4-hydroxybenzoate (&#x201C;Benzamidomethylparaben&#x201D;) <italic>(<bold>3</bold>)</italic></title>
+      <p>Finely powdered (benzamidomethyl)triethylammonium chloride (0.997 g, 3.68 mmol) was suspended in dioxane (30 mL). Triethylamine (0.2 mL) and 4-hydroxybenzoic acid (0.608 g, 4.40 mmol) were added to the suspension. The mixture was stirred at 50 &#xB0;C for 4 h and left to cool at room temperature. After cooling, water was added to the mixture until occurrence of a precipitate. The typical yield of crude colorless crystals with m.p. of 148&#x2013;154 &#xB0;C was 75%. Purification was performed firstly by dissolving the product in dioxane (or acetone), followed by precipitation with water and then by recrystallization from CHCl<sub>3</sub>.</p>
+      <p>Melting point: 165&#x2013;166 &#xB0;C.</p>
+      <p>FT-IR (KBr): 3385 cm<sup>-1</sup> (&#x3BD;NH); 3320 cm<sup>-1</sup> (&#x3BD;OH); 1689 cm<sup>-1</sup> (&#x3BD;OC=O); 1663 cm<sup>-1</sup> Amide I; 1527 cm<sup>-1</sup> Amide II </p>
+      <p><sup>1</sup>H-NMR (300 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;/ppm 10.37 (s, 1H, OH); 9.63 (t, <italic>J</italic> = 6.5 Hz, 1H, NH); 7.96-6.85 (m, 9H, Ar); 5.56 (d, <italic>J</italic> = 6.7 Hz, 2H, N-CH<sub>2</sub>-O).</p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4;/ppm 167.11 (C=O); 165.36 (C=O); 65.31 (CH<sub>2</sub>); <italic>Ar</italic>: 162.25, 133.25, 132.11, 131.64, 128.57, 127.66, 120.18, 115.50.</p>
+      <p>Anal. Calcd. (found) for C<sub>15</sub>H<sub>13</sub>NO<sub>4</sub>: C, 66.41 (66.29 ); H, 4.83 (4.86); N, 5.16 (5.31).</p>
+    </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2010-M658">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M658-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M658-s001-mod.mol"><label>Supplementary File 1</label></supplementary-material>
+        <supplementary-material id="molbank-2010-M658-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M658-s001.mol"><label>Supplementary File 2</label></supplementary-material>
+      </app>
+    </app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M658">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersen</surname>
+              <given-names>F.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Final amended report on the safety assessment of methylparaben, ethylparaben, propylparaben, isopropylparaben, butylparaben, isobutylparaben, and benzylparaben as used in cosmetic products</article-title>
+          <source>Int. J. Toxicol.</source>
+          <year>2008</year>
+          <volume>27</volume>
+          <supplement>(Suppl. 4)</supplement>
+          <fpage>1</fpage>
+          <lpage>82</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M658">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rye</surname>
+              <given-names>R.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Correlation between the antibacterial activity of some <italic>p</italic>-hydroxybenzoate esters and their cellular uptake</article-title>
+          <source>Microbios</source>
+          <year>1973</year>
+          <volume>7</volume>
+          <fpage>199</fpage>
+          <lpage>207</lpage>
+          <pub-id pub-id-type="pmid">4584423</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M658">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bubnoff</surname>
+              <given-names>M.V.</given-names>
+            </name>
+            <name>
+              <surname>Schnell</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Vogt-Moykoff</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Concerning the pharmacology of benzoic acid, <italic>p</italic>-chlorobenzoic acid, as well as <italic>p</italic>-hydroxybenzoic acid and its esters</article-title>
+          <source>Arzneim.-Forsch.</source>
+          <year>1957</year>
+          <volume>7</volume>
+          <fpage>340</fpage>
+          <lpage>344</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M658">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitamura</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of local anesthetics on the peripheral nerve and the spinal cord</article-title>
+          <source>Osaka City Med. J.</source>
+          <year>1979</year>
+          <volume>25</volume>
+          <fpage>7</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="pmid">317516</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M658">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soni</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Carabin</surname>
+              <given-names>I.G.</given-names>
+            </name>
+            <name>
+              <surname>Burdock</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Safety assessment of esters of <italic>p</italic>-hydroxybenzoic acid (paraben)</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2005</year>
+          <volume>43</volume>
+          <fpage>985</fpage>
+          <lpage>1015</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fct.2005.01.020</pub-id>
+          <pub-id pub-id-type="pmid">15833376</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M658">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shaw</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>de Catanzaro</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Estrogenicity of parabens revisited: Impact of parabens on early pregnancy and an uterotrophic assay in mice</article-title>
+          <source>Reprod. Toxicol.</source>
+          <year>2009</year>
+          <volume>28</volume>
+          <fpage>26</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.reprotox.2009.03.003</pub-id>
+          <pub-id pub-id-type="pmid">19490991</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M658">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darbre</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Aljarrah</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Coldham</surname>
+              <given-names>N.G.</given-names>
+            </name>
+            <name>
+              <surname>Sauer</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Pope</surname>
+              <given-names>G.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Concentrations of parabens in human breast tumours</article-title>
+          <source>J. Appl. Toxicol.</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <fpage>5</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1002/jat.958</pub-id>
+          <pub-id pub-id-type="pmid">14745841</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M658">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darbre</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Harvey</surname>
+              <given-names>P.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Paraben esters: Review of recent studies of endocrine toxicity, absorption, esterase and human exposure, and discussion of potential human health risks</article-title>
+          <source>J. Appl. Toxicol.</source>
+          <year>2008</year>
+          <volume>28</volume>
+          <fpage>561</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="doi">10.1002/jat.1358</pub-id>
+          <pub-id pub-id-type="pmid">18484575</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M658">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harvey</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>Everett</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of endocrine-disrupting chemicals: Critical overview and deficiencies in toxicology and risk assessment for human health</article-title>
+          <source>Best Pract. Res. Clin. Endoc. Met.</source>
+          <year>2006</year>
+          <volume>20</volume>
+          <fpage>145</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.beem.2005.09.008</pub-id>
+          <pub-id pub-id-type="pmid">16522525</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M658">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Golden</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gandy</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vollmer</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>A review of the endocrine activity of parabens and implications for potential risks to human health</article-title>
+          <source>Crit. Rev. Toxicol.</source>
+          <year>2005</year>
+          <volume>35</volume>
+          <fpage>435</fpage>
+          <lpage>445</lpage>
+          <pub-id pub-id-type="doi">10.1080/10408440490920104</pub-id>
+          <pub-id pub-id-type="pmid">16097138</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M658">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soni</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Burdock</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the health aspects of methyl paraben: A review of the published literature</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>1335</fpage>
+          <lpage>1373</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0278-6915(02)00107-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M658">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Gee</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Gee</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Hammock</surname>
+              <given-names>B.D.</given-names>
+            </name>
+            <name>
+              <surname>Lasley</surname>
+              <given-names>B.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antiandrogenic properties of parabens and other phenolic containing small molecules in personal care products</article-title>
+          <source>Toxicol. Appl. Pharmacol.</source>
+          <year>2007</year>
+          <volume>221</volume>
+          <fpage>278</fpage>
+          <lpage>284</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.taap.2007.03.015</pub-id>
+          <pub-id pub-id-type="pmid">17481686</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M658">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tavares</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Martins</surname>
+              <given-names>F.C.</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Ramalho-Santos</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Peixoto</surname>
+              <given-names>F.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Parabens in male infertility&#x2014;Is there a mitochondrial connection?</article-title>
+          <source>Reprod. Toxicol.</source>
+          <year>2009</year>
+          <volume>27</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.reprotox.2008.10.002</pub-id>
+          <pub-id pub-id-type="pmid">19007877</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M658">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oishi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of butylparaben on the male reproductive system in rats</article-title>
+          <source>Toxicol. Ind. Health</source>
+          <year>2001</year>
+          <volume>17</volume>
+          <fpage>31</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1191/0748233701th093oa</pub-id>
+          <pub-id pub-id-type="pmid">12004923</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M658">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oishi</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of propylparaben on the male reproductive system</article-title>
+          <source>Food Chem. Toxicol.</source>
+          <year>2002</year>
+          <volume>40</volume>
+          <fpage>1807</fpage>
+          <lpage>1813</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0278-6915(02)00204-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M658">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maggi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Carmona</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zalacain</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tom&#xE9;</surname>
+              <given-names>&#x41C;.M.</given-names>
+            </name>
+            <name>
+              <surname>Murcia</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Alonso</surname>
+              <given-names>G.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Parabens as agents for improving crocetin esters&#x2019; shelf-life in aqueous saffron extracts</article-title>
+          <source>Molecules</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>1160</fpage>
+          <lpage>1170</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules14031160</pub-id>
+          <pub-id pub-id-type="pmid">19325516</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2010-M658">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asnani</surname>
+              <given-names>V.M.</given-names>
+            </name>
+            <name>
+              <surname>Verma</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ameliorative effects of ginger extract on paraben-induced lipid peroxidation in the liver of mice</article-title>
+          <source>Acta Pol. Pharm.-Drug Res.</source>
+          <year>2009</year>
+          <volume>66</volume>
+          <fpage>225</fpage>
+          <lpage>228</lpage>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2010-M658">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vo</surname>
+              <given-names>T.T.B.</given-names>
+            </name>
+            <name>
+              <surname>Jeung</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>An evaluation of estrogenic activity of parabens using uterine calbindin-D9k gene in an immature rat model</article-title>
+          <source>Toxicol. Sci.</source>
+          <year>2009</year>
+          <volume>112</volume>
+          <fpage>68</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1093/toxsci/kfp176</pub-id>
+          <pub-id pub-id-type="pmid">19654335</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2010-M658">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hazarika</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Parajuli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Phukan</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of parabens using montmorillonite K10 clay as Catalyst: A green protocol</article-title>
+          <source>Indian J. Chem. Technol.</source>
+          <year>2007</year>
+          <volume>14</volume>
+          <fpage>104</fpage>
+          <lpage>106</lpage>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2010-M658">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Qu&#xE9;vrain</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Domart-Coulon</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Pernice</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bourguet-Kondracki</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel natural parabens produced by a <italic>Microbulbifer</italic> bacterium in its calcareous sponge host <italic>Leuconia nivea</italic></article-title>
+          <source>Environ. Microbiol.</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <fpage>1527</fpage>
+          <lpage>1539</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-2920.2009.01880.x</pub-id>
+          <pub-id pub-id-type="pmid">19226298</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2010-M658">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>K.V.</given-names>
+            </name>
+            <name>
+              <surname>Bajpai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Shukla</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological properties of 4-(3<italic>H</italic>)-quinazolone derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2007</year>
+          <volume>42</volume>
+          <fpage>1234</fpage>
+          <lpage>1238</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2007.01.002</pub-id>
+          <pub-id pub-id-type="pmid">17321640</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2010-M658">
+        <label>22.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zlotin</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Sharova</surname>
+              <given-names>V.I.</given-names>
+            </name>
+            <name>
+              <surname>Luk`yanov</surname>
+              <given-names>A.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemical properties of <italic>N</italic>-(amidomethyl)- and <italic>N</italic>-(imidomethyl)glycine derivatives 2. Reactions at alkoxycarbonyl and carboxyl groups</article-title>
+          <source>Rus. Chem. Bul.</source>
+          <year>1996</year>
+          <volume>45</volume>
+          <fpage>1680</fpage>
+          <lpage>1687</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01431807</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2010-M658">
+        <label>23.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csom&#xF3;s</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Fodor</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bern&#xE1;th</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cs&#xE1;mpai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Soh&#xE1;r</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 4-thiaharmalan analogue 4-aryl-1,3-thiazino[5,6-b]indole derivatives by prevention of rearrangements to position two of the indole moiety</article-title>
+          <source>Tetrahedron</source>
+          <year>2008</year>
+          <volume>64</volume>
+          <fpage>8646</fpage>
+          <lpage>8651</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2008.07.014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2010-M658">
+        <label>24.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Csom&#xF3;s</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Fodor</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Bern&#xE1;th</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cs&#xE1;mpai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Soh&#xE1;r</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>An expeditious synthesis for g-carboline analogue 4-aryl-1,3-thiazino[6,5-b]indole derivatives via the trifluoromethanesulfonic acid-promoted isomerization of 3-amidomethylthioindole intermediates to 2-indolyl sulphides</article-title>
+          <source>Tetrahedron</source>
+          <year>2009</year>
+          <volume>65</volume>
+          <fpage>1475</fpage>
+          <lpage>1480</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2008.11.099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2010-M658">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mai</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Artico</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Valente</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cerbara</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Befani</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Turini</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Vedova</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Agostinelli</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biochemical evaluation of (<italic>R</italic>)-5-acyloxymethyl- and (<italic>S</italic>)-5-acylaminomethyl-3-(1<italic>H</italic>-pyrrol-1-yl)-2-oxazolidinones as new anti-monoamine oxidase (anti-MAO) agents</article-title>
+          <source>ARKIVOC</source>
+          <year>2004</year>
+          <volume>v</volume>
+          <fpage>32</fpage>
+          <lpage>43</lpage>
+        </citation>
+      </ref>
+      <ref id="B26-molbank-2010-M658">
+        <label>26.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noyori</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kitamura</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ohkuma</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Toward efficient asymmetric hydrogenation: Architectural and functional engineering of chiral molecular catalysts</article-title>
+          <source>PNAS</source>
+          <year>2004</year>
+          <volume>101</volume>
+          <fpage>5356</fpage>
+          <lpage>5362</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0307928100</pub-id>
+          <pub-id pub-id-type="pmid">15034179</pub-id>
+        </citation>
+      </ref>
+      <ref id="B27-molbank-2010-M658">
+        <label>27.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cesarotti</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Rimoldi</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Spalluto</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Demartin</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chiral 1,4-bis-diphosphine ligands from optically active (<italic>Z</italic>)-olefines</article-title>
+          <source>Tetrahedron-Asymmetr.</source>
+          <year>2007</year>
+          <volume>18</volume>
+          <fpage>1278</fpage>
+          <lpage>1283</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetasy.2007.04.018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28-molbank-2010-M658">
+        <label>28.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateska</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Stojkovi&#x107;</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mikhova</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mladenovska</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Carbon-carbon bond formation in aqueous media. Benzamidomethylation of some carbon nucleophiles</article-title>
+          <source>ARKIVOC</source>
+          <year>2009</year>
+          <fpage>131</fpage>
+          <lpage>140</lpage>
+        </citation>
+      </ref>
+      <ref id="B29-molbank-2010-M658">
+        <label>29.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimoda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kubota</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Hamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Hamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shafi</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Production of (2R,3S)-2-benzamidomethyl-3-hydroxybutanoates by immobilized plant cells of parthenocissus tricuspidata</article-title>
+          <source>Biochemistry Insights</source>
+          <year>2009</year>
+          <volume>2</volume>
+          <fpage>5</fpage>
+          <lpage>7</lpage>
+        </citation>
+      </ref>
+      <ref id="B30-molbank-2010-M658">
+        <label>30.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimoda</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kubota</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Hamada</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hamada</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diastereoselective reduction of &#x3B2;-keto carbonyl compounds by cultured plant cells</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2006</year>
+          <volume>47</volume>
+          <fpage>1541</fpage>
+          <lpage>1544</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2006.01.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31-molbank-2010-M658">
+        <label>31.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumobayashi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Miura</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sayo</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Saito</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The development of the new processes for manufacturing the key intermediates of &#x3B2;-lactam antibiotics</article-title>
+          <source>J. Syn. Org. Chem. Jpn.</source>
+          <year>1999</year>
+          <volume>57</volume>
+          <fpage>387</fpage>
+          <lpage>393</lpage>
+          <pub-id pub-id-type="doi">10.5059/yukigoseikyokaishi.57.387</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32-molbank-2010-M658">
+        <label>32.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Klisarova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vikic-Topic</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simple method for benzamidomethylation of phenols in water solution</article-title>
+          <source>Syn. Commun.</source>
+          <year>1999</year>
+          <volume>29</volume>
+          <fpage>3451</fpage>
+          <lpage>3458</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397919908085975</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33-molbank-2010-M658">
+        <label>33.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Popovski</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Klisarova</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Vikic-Topic</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Benzamidomethylation with (benzamidomethyl)triethylammonium chloride 2. A simple method for benzamidomethylation of thiols, amines and carboxylic acids</article-title>
+          <source>Molecules</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <fpage>927</fpage>
+          <lpage>936</lpage>
+          <pub-id pub-id-type="doi">10.3390/50700927</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

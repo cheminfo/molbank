@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M782</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M782</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>3-Chloro-5-(4-dodecylthiophen-2-yl)-4<italic>H</italic>-1,2,6-thiadiazin-4-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ioannidou</surname>
+            <given-names>Heraklidia A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koutentis</surname>
+            <given-names>Panayiotis A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M782" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M782">Department of Chemistry, University of Cyprus, P.O. Box 20537, 1678 Nicosia, Cyprus</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M782"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>koutenti@ucy.ac.cy</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>10</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>4</issue>
+      <elocation-id>M782</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>09</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>10</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>3-Chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold> reacts with (4-dodecylthiophen-2-yl)trimethylstannane <bold>5</bold> (1 equiv.) in the presence of Pd(Ph<sub>3</sub>P)<sub>2</sub>Cl<sub>2</sub> (5 mol%) in benzene at <italic>ca.</italic> 20 &#xB0;C for 5 h to give 3-chloro-5-(4-dodecylthien-2-yl)-1,2,6-thiadiazinone <bold>6</bold> in 87% yield.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>1,2,6-thiadiazines</kwd>
+        <kwd>thiophenes</kwd>
+        <kwd>heterocycles</kwd>
+        <kwd>oligomers</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Surprisingly little has appeared in the literature on nonoxidized 4<italic>H</italic>-1,2,6-thiadiazines. Monocyclic 3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>1</bold> [<xref ref-type="bibr" rid="B1-molbank-2012-M782">1</xref>] and its 4-dicyanomethylene analogue 2-(3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-ylidene)malononitrile <bold>2</bold> [<xref ref-type="bibr" rid="B2-molbank-2012-M782">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M782">3</xref>] have been prepared (<xref ref-type="scheme" rid="molbank-2012-M782-sch001">Scheme 1</xref>), the former in two steps starting from dichloromalononitrile and the latter in one step from tetracyanoethylene (TCNE). Both are useful precursors to several polycyclic 1,2,6-thiadiazine systems [<xref ref-type="bibr" rid="B4-molbank-2012-M782">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M782">5</xref>]. For several years now we have been developing the chemistry of both these heterocyclic scaffolds [<xref ref-type="bibr" rid="B2-molbank-2012-M782">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M782">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M782">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M782">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2012-M782">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2012-M782">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2012-M782">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2012-M782">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2012-M782">10</xref>].</p>
+      <p>Recently, we described the chemoselective Stille reactions of 3-chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold> which enabled the preparation of unsymmetrical biheteroaryl thiadiazinones and oligomers such as 5,5'-(thiophene-2,5-diyl)bis[3-(thiophen-2-yl)-4<italic>H</italic>-1,2,6-thiadiazin-4-one] <bold>4</bold> (<xref ref-type="scheme" rid="molbank-2012-M782-sch002">Scheme 2</xref>) [<xref ref-type="bibr" rid="B8-molbank-2012-M782">8</xref>]. This potentially useful pentamer for optoelectronic materials was unfortunately poorly soluble, as such; the synthesis of an analogue bearing alkyl chains was targeted. To achieve this we required a high yielding synthesis of a alkylthiophene substituted 3-chloro-1,2,6-thiadiazin-4-one.</p>
+      <p>The reaction of 3-chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold> with (4-dodecyl-thiophen-2-yl)trimethylstannane <bold>5</bold> (1 equiv.) in the presence of Pd(Ph<sub>3</sub>P)<sub>2</sub>Cl<sub>2</sub> (5 mol%) proceeded smoothly in benzene (PhH) at <italic>ca.</italic> 20 &#xB0;C for 5 h and the desired product 3-chloro-5-(4-dodecylthiophen-2-yl)-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>6</bold> was isolated in 87% yield (<xref ref-type="scheme" rid="molbank-2012-M782-sch003">Scheme 3</xref>).</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Benzene and acetonitrile was distilled from CaH<sub>2</sub>, respectively and stored over 4 &#xC5; molecular sieves. The reaction mixture and column eluents were monitored by TLC using commercial glass backed thin layer chromatography (TLC) plates (Merck Kieselgel 60 F<sub>254</sub>). The plates were observed under UV light at 254 and 365 nm. The technique of dry flash chromatography was used using Merck Silica Gel 60 (less than 0.063 mm). Melting points were determined using a PolyTherm-A, Wagner &amp; Munz, Kofler-Hotstage Microscope apparatus. IR spectra were recorded on a Shimadzu FTIR-NIR Prestige-21 spectrometer with Pike Miracle Ge ATR accessory and strong, medium and weak peaks are represented by s, m and w respectively. <sup>1</sup>H-NMR spectra were recorded on a BrukerAvance 500 machine at 500 MHz, while <sup>13</sup>C-NMR spectra were recorded at 125 MHz. Deuterated chloroform was used for homonuclear lock and the signals are referenced to the deuterated solvent peak. Low resolution (EI) mass spectrum was recorded on a Shimadzu Q2010 GCMS with direct inlet probe. Microanalysis was performed at London Metropolitan University on a Perkin Elmer 2400 Series II CHN Analyzer. 3-Chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold> [<xref ref-type="bibr" rid="B8-molbank-2012-M782">8</xref>] and 2-trimethyl-stannyl-4-dodecylthiophene <bold>5</bold> were prepared according to literature procedures [<xref ref-type="bibr" rid="B11-molbank-2012-M782">11</xref>].</p>
+      <p><italic>3-Chloro-5-(4-dodecylthiophen-2-yl)-4H-1,2,6-thiadiazin-4-one</italic> (<bold>6</bold>). To a stirred solution of 3-chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold> (150 mg, 0.506 mmol) in PhH (4 mL) at <italic>ca.</italic> 20 &#xB0;C, was added 2-trimethylstannyl-4-dodecylthiophene <bold>5</bold> (210 mg, 0.506 mmol) and Pd(Ph<sub>3</sub>P)<sub>2</sub>Cl<sub>2</sub> (17.6 mg, 0.025 mmol) and the mixture was stirred until no starting material remained (TLC). The reaction mixture was then adsorbed onto silica and chromatography (hexane/DCM, 7:3) gave the <italic>title compound</italic> <bold>6</bold> (175.6 mg, 87%) as yellow needles, m.p. 74&#x2013;76 &#xB0;C (from pentane/DCM, 0 &#xB0;C); R<italic><sub>f</sub></italic> 0.54 (hexane/DCM, 7:3); (found: C, 57.28; H, 7.00; N, 6.94. C<sub>19</sub>H<sub>27</sub>ClN<sub>2</sub>OS<sub>2</sub> requires C, 57.19; H, 6.82; N, 7.02%); <italic>&#x3BB;</italic><sub>max</sub>(DCM)/nm 278 (log <italic>&#x3B5;</italic> 3.60), 370 (3.99), 385 inf (3.91); <italic>v</italic><sub>max</sub>/cm<sup>&#x2212;1</sup> 2949w, 2914s, 2847m, 1645s, 1539w, 1464m, 1422m, 1379w, 1314m, 1285m, 1246w, 1196w, 1180m, 1138m, 1082w, 1020w, 986w, 947w, 872w, 860s, 703s; <italic>&#x3B4;</italic><sub>H</sub> (500 MHz; CDCl<sub>3</sub>) 8.11 (1H, d, <italic>J</italic> 1.0 Hz, thienyl <italic>H</italic>), 7.29 (1H, s, thienyl <italic>H</italic>), 2.64 (2H, t, <italic>J</italic> 7.8 Hz), 1.31&#x2013;1.25 (19H, m), 0.88 (3H, t, <italic>J</italic> 7.0 Hz, C<italic>H</italic><sub>3</sub>); <italic>&#x3B4;</italic><sub>C</sub> (125 MHz; CDCl<sub>3</sub>) one carbon (t) resonance missing 159.4 (s), 152.9 (s), 150.9 (s), 144.7 (s), 135.6 (s), 134.6 (d), 129.8 (d), 31.9 (t), 30.4 (t), 30.3 (t), 29.7 (t), 29.6 (t), 29.5 (t), 29.4 (t), 29.3 (t), 29.2 (t), 22.7 (t), 14.1 (q, <italic>C</italic>H<sub>3</sub>); <italic>m/z</italic> (EI) 400 (M<sup>+</sup>+1, 10%), 398 (M<sup>+</sup>-1, 24), 365 (4), 309 (3), 276 (3), 257 (5), 246 (42), 244 (100), 155 (6), 122 (30), 97 (12), 93 (10), 55 (10).</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2012-M782">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M782-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M782-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+		<supplementary-material id="molbank-2012-M782-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M782-s001.mol">
+        <label>Supplementary File 2</label>
+        </supplementary-material>
+	  </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to thank the Cyprus Research Promotion Foundation [grant nos. &#x3A0;ENEK, ENI&#x3A3;X/0504/08 and NEKYP/0308/02] for financial support. Furthermore, we wish to thank the following organizations in Cyprus for generous donations of chemicals and glassware: the State General Laboratory, the Agricultural Research Institute, the Ministry of Agriculture, Biotronics Ltd and Medochemie Ltd. Finally, we thank the A. G. Leventis Foundation for helping to establish the NMR facility in the University of Cyprus.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2012-M782">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Geevers</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Trompen</surname>
+              <given-names>W.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Reactions of 3,5-Dichloro-4<italic>H</italic>-1,2,6-Thiadiazin-4-one</article-title>
+          <source>Recl. Trav. Chim. Pays-Bas</source>
+          <year>1974</year>
+          <volume>93</volume>
+          <fpage>270</fpage>
+          <lpage>272</lpage>
+          <pub-id pub-id-type="doi">10.1002/recl.19740930911</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M782">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>D.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of tetracyanoethylene with SCl<sub>2</sub>; new molecular rearrangements</article-title>
+          <source>J. Chem. Soc. Chem. Commun.</source>
+          <year>2000</year>
+          <fpage>303</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="doi">10.1039/a909307i</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M782">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reaction of tetracyanoethylene with SCl<sub>2</sub>; new molecular rearrangements</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>2000</year>
+          <fpage>1089</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="doi">10.1039/b000209g</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M782">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cyclisation chemistry of 4<italic>H</italic>-1,2,6-thiadiazines</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>2000</year>
+          <fpage>2601</fpage>
+          <lpage>2607</lpage>
+          <pub-id pub-id-type="doi">10.1039/b004113k</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M782">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalogirou</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rikkou</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of pyrrolo[2,3-<italic>c</italic>][1,2,6]thiadiazine-5-carbonitriles from (4<italic>H</italic>-1,2,6-thiadiazin-4-ylidene)malononitriles</article-title>
+          <source>Tetrahedron</source>
+          <year>2010</year>
+          <volume>66</volume>
+          <fpage>1817</fpage>
+          <lpage>1820</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2010.01.044</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M782">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Rees</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemistry of 4-dicyanomethyleno-1,2,6-thiadiazines</article-title>
+          <source>J. Chem. Soc. Perkin Trans. 1</source>
+          <year>2000</year>
+          <fpage>1081</fpage>
+          <lpage>1088</lpage>
+          <pub-id pub-id-type="doi">10.1039/b000964o</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M782">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ioannidou</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Kizas</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Palladium Catalyzed C-C Coupling Reactions of 3,5-Dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-one</article-title>
+          <source>Org. Lett.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>3466</fpage>
+          <lpage>3469</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol201212b</pub-id>
+          <pub-id pub-id-type="pmid">21648403</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M782">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ioannidou</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Kizas</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective Stille Coupling Reactions of 3-Chloro-5-halo(pseudohalo)-4<italic>H</italic>-1,2,6-thiadiazin-4-ones</article-title>
+          <source>Org. Lett.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>5886</fpage>
+          <lpage>5889</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol2025235</pub-id>
+          <pub-id pub-id-type="pmid">21988706</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2012-M782">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ioannidou</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modification of C-4 Position of 3,5-Disubstituted 4<italic>H</italic>-1,2,6-Thiadiazin-4-ones</article-title>
+          <source>Tetrahedron</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>2590</fpage>
+          <lpage>2597</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2012.01.098</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2012-M782">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ioannidou</surname>
+              <given-names>H.A.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Asymmetric 3,5-Diaryl-4<italic>H</italic>-1,2,6-Thiadiazin-4-ones via Suzuki-Miyaura and Stille Coupling Reactions</article-title>
+          <source>Tetrahedron</source>
+          <year>2012</year>
+          <volume>68</volume>
+          <fpage>7380</fpage>
+          <lpage>7385</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2012.06.079</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2012-M782">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishra</surname>
+              <given-names>S.P.</given-names>
+            </name>
+            <name>
+              <surname>Palai</surname>
+              <given-names>A.K.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Kamalasanan</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Patri</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Dithieno[3,2-<italic>b</italic>:2&#x2032;,3&#x2032;-<italic>d</italic>]pyrrole&#x2013;alkylthiophene&#x2013;benzo[<italic>c</italic>][1,2,5]thiadiazole-based highly stable and low band gap polymers for polymer light-emitting diodes</article-title>
+          <source>J. Polym. Sci. A Polym. Chem.</source>
+          <year>2009</year>
+          <volume>47</volume>
+          <fpage>6514</fpage>
+          <lpage>6525</lpage>
+          <pub-id pub-id-type="doi">10.1002/pola.23694</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Schemes</title>
+      <fig id="molbank-2012-M782-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M782-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Structures of 3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>1</bold> and 2-(3,5-dichloro-4<italic>H</italic>-1,2,6-thiadiazin-4-ylidene)malononitrile <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M782-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2012-M782-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M782-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Preparation of 5,5'-(thiophene-2,5-diyl)bis[3-(thiophen-2-yl)-4<italic>H</italic>-1,2,6-thiadiazin-4-one] <bold>4</bold> from 3-chloro-5-trifluoromethanesulfonate-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M782-sch002.tif"/>
+      </fig>
+      <fig id="molbank-2012-M782-sch003" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M782-sch003_Scheme 3</object-id>
+        <label>Scheme 3</label>
+        <caption>
+          <p>Synthesis of 3-chloro-5-(4-dodecylthiophen-2-yl)-4<italic>H</italic>-1,2,6-thiadiazin-4-one <bold>6</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M782-sch003.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

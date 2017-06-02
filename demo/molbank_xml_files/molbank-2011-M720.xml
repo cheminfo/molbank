@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M720</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M720</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-[(3,5-Dimethyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)methylene]indane-1,3-dione</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Asiri</surname>
+            <given-names>Abdullah M.</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M720" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2011-M720" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2011-M720" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khan</surname>
+            <given-names>Salman A.</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M720" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M720"><label>1</label>Chemistry Department, Faculty of Science, King Abdul Aziz University, P.O. Box 80203, Jeddah, Saudi Arabia</aff>
+      <aff id="af2-molbank-2011-M720"><label>2</label>The Center of Excellence for Advanced Materials Research, King Abdul Aziz University, Jeddah, P.O. Box 80203, Saudi Arabia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M720"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>aasiri2@kau.edu.sa</email>; Fax: +966 2 6952292.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>1</issue>
+      <elocation-id>M720</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>01</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>02</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound 2-[(3,5-dimethyl-1-phenyl-1<italic>H</italic>-pyrazol-4-yl)methylene]&#xAC;indane-1,3-dione (<bold>3)</bold> was synthesized in high yield by reaction of 3,5-dimethyl-1-phenyl&#xAC;pyrazole-4-carbaldehyde and indane-1,3-dione in ethanol in the presence of pyridine. The structure of this new compound was confirmed by elemental analysis, IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and GC-MS spectral analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Knoevenagel condensation</kwd>
+        <kwd>indane-1,3-dione</kwd>
+        <kwd>pyridine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Naturally occurring as well as synthetic pyrazole-containing heterocyclic compounds have great importance for their biological activities such as anti-bacterial [<xref ref-type="bibr" rid="B1-molbank-2011-M720">1</xref>], anti-inflammatory [<xref ref-type="bibr" rid="B2-molbank-2011-M720">2</xref>], anti-hypertensive [<xref ref-type="bibr" rid="B3-molbank-2011-M720">3</xref>], anti-cancer [<xref ref-type="bibr" rid="B4-molbank-2011-M720">4</xref>], and anti-amoebic activity [<xref ref-type="bibr" rid="B5-molbank-2011-M720">5</xref>]. Pyrazole-containing donor-acceptor chromophores are also applicable in materials fields for their properties such as non-linear optical (NLO), optical limiting [<xref ref-type="bibr" rid="B6-molbank-2011-M720">6</xref>], electrochemical sensing [<xref ref-type="bibr" rid="B7-molbank-2011-M720">7</xref>] and langmuir film [<xref ref-type="bibr" rid="B8-molbank-2011-M720">8</xref>]. Due to the wide application of pyrazoles we decided to synthesize a new pyrazole-containing donor-acceptor chromophore by Knoevenagel condensation in analogy to a previously published procedure [<xref ref-type="bibr" rid="B9-molbank-2011-M720">9</xref>].</p>
+      <sec>
+        <title>Experimental</title>
+      <sec>
+        <title>Materials</title>
+      <p>3,5-Dimethyl-1-phenylpyrazole-4-carbaldehyde and indane-1,3-dione were purchased from Aldrich Chemicals. Melting points of the synthesized compounds were determined in open-glass capillaries on a Stuart-SMP10 melting point apparatus and are uncorrected. IR absorption spectra were recorded in the 4,000&#x2013;400 cm<sup>&#x2212;1</sup> range on a Shimadzu FTIR-8400s using KBr pellets, <sup>1</sup>H NMR and <sup>13</sup>C NMR spectra were recorded on a Bruker-AVANCE-III 600 spectrometer at 600 MHz and 150 MHz, respectively, chemical shifts are reported as parts per million (ppm) downfield from TMS (Me<sub>4</sub>Si) used as an internal standard.</p>
+      <p>A mixture of 3,5-dimethyl-1-phenylpyrazole-4-carbaldehyde (<bold>1</bold>) (1.0 g, 0.005 mol), indane-1,3-dione (<bold>2</bold>) (0.73 g, 0.005 mol) and a few drops of pyridine in ethanol (15 mL) was heated for 3 h. The progress of the reaction was monitored by TLC. The solid that separated from the cooled mixture was collected and recrystallized from a methanol-chloroform mixture to give the title compound (<bold>3</bold>) as a yellow solid.</p>
+      <p>Yield: 85%; m.p. 196&#x2013;197 &#xB0;C</p>
+      <p>GC-MS <italic>m/z</italic> (rel. int. %): 330 (72) [M+1]<sup>+</sup></p>
+      <p>IR (KBr) <italic>v</italic><sub>max</sub> cm<sup>&#x2212;1</sup>: 3035 (Ar-H), 2859 (C-H), 1663 (C=O), 1578 (C=C)</p>
+      <p><sup>1</sup>H NMR (DMSO-<italic>d</italic><sub>6</sub>) (&#x3B4;/ppm): 8.02 (d, <italic>J</italic> = 2.8 Hz), 7.97 (d, <italic>J</italic> = 2.8 Hz), 7.93 (s, C=CH), 7.82 (dd, <italic>J</italic> = 2.8, 2.8 Hz), 7.54 (m, 5H, Ar-H), 7.46 (dd, <italic>J</italic> = 6.6 Hz) 2.44 (s, CH<sub>3</sub>), 2.36 (s, CH<sub>3</sub>)</p>
+      <p><sup>13</sup>CNMR (CDCl<sub>3</sub>) &#x3B4;: 190.33, 188.65, 152.11, 144.83, 142.56, 140.10, 138.84, 136.16, 135.02, 134.76, 129.26, 128.11, 126.71, 125.07, 123.11, 122.86, 123.11, 122.86, 116.14, 14.14, 13.04.</p>
+      <p>Anal. calc. for C<sub>21</sub>H<sub>16</sub>N<sub>2</sub>O<sub>2</sub>: C, 76.81, H, 4.91, N, 8.53. Found: C, 76.79, H, 4.88, N, 8.84.</p>
+	  </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M720">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M720-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M720-s001-mod.mol">
+        <label>Supplementary File 1</label>
+        </supplementary-material>
+        <supplementary-material id="molbank-2011-M720-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M720-s001.mol">
+   <label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank the Chemistry Department, King Abdul Aziz University, Jeddah, Saudi Arabia for providing the research facilities.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M720">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Greenwood</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Sarojini</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>An antibacterial pyrazole derivative from Burkholderia glumae, a bacterial pathogen of rice</article-title>
+          <source>Phytochemistry</source>
+          <year>2008</year>
+          <volume>69</volume>
+          <fpage>2704</fpage>
+          <lpage>2707</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.phytochem.2008.08.013</pub-id>
+          <pub-id pub-id-type="pmid">18834606</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M720">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pontiki</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Hadjipavlou-Litina</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Litinas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Nicolotti</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Carotti</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, synthesis and pharmacobiological evaluation of novel acrylic acid derivatives acting as lipoxygenase and cyclooxygenase-1 inhibitors with antioxidant and anti-inflammatory activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>46</volume>
+          <fpage>191</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2010.10.035</pub-id>
+          <pub-id pub-id-type="pmid">21106277</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M720">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonesi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Loizzo</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Statti</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Michel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tillequin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Menichini</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis and Angiotensin Converting Enzyme (ACE) inhibitory activity of chalcones and their pyrazole derivatives</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>1990</fpage>
+          <lpage>1993</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2010.01.113</pub-id>
+          <pub-id pub-id-type="pmid">20167484</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M720">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonacorso</surname>
+              <given-names>H.G.</given-names>
+            </name>
+            <name>
+              <surname>Navarini</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wiethan</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Bortolotto</surname>
+              <given-names>G.P.</given-names>
+            </name>
+            <name>
+              <surname>Paim</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Cavinatto</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Martins</surname>
+              <given-names>M.A.P.</given-names>
+            </name>
+            <name>
+              <surname>Zanatta</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Caro</surname>
+              <given-names>M.S.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The first application of 4-alkoxy-1,1,1-trifluoroalk-3-en-2-ones in a three-component condensation protocol for the synthesis of 3-acyl-4-aryl-2 (trifluoromethyl)-2-hydroxy-3,4,7,8-tetrahydro-2H-chromen-5(6H)-ones</article-title>
+          <source>J. Fluorine Chem.</source>
+          <year>2011</year>
+          <comment>in press</comment>
+          <pub-id pub-id-type="doi">10.1016/j.jfluchem.2010.12.011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M720">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sadr</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Sardroodi</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Zare</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Brooks</surname>
+              <given-names>N.R.</given-names>
+            </name>
+            <name>
+              <surname>Clegg</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonlinear optical properties and crystal structure determination of a pentanuclear copper(I) cluster (NEt4)2[MoS4(CuBp)4] (Bp = H2B(pyrazolyl)2)</article-title>
+          <source>Polyhedron</source>
+          <year>2006</year>
+          <volume>25</volume>
+          <fpage>3285</fpage>
+          <lpage>3288</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.poly.2006.06.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M720">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y.-F.</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>Y.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis, structure and spectroscopic properties of novel oxazolone-, pyrazolone- and pyrazoline-containing heterocycle chromophores</article-title>
+          <source>Dye. Pigment.</source>
+          <year>2009</year>
+          <volume>81</volume>
+          <fpage>27</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dyepig.2008.08.010</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M720">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Sobenina</surname>
+              <given-names>L.N.</given-names>
+            </name>
+            <name>
+              <surname>Mikhaleva</surname>
+              <given-names>A.I.</given-names>
+            </name>
+            <name>
+              <surname>Trofimov</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>A highly selective fluorescent sensor for fluoride anion based on pyrazole derivative: Naked eye &#x201C;no&#x2013;yes&#x201D; detection</article-title>
+          <source>J. Photochem. Photobiol. A Chem.</source>
+          <year>2011</year>
+          <volume>217</volume>
+          <fpage>29</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jphotochem.2010.09.012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M720">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>A study of the inhibition of iron corrosion by imidazole and its derivatives self-assembled films</article-title>
+          <source>Corros. Sci.</source>
+          <year>2009</year>
+          <volume>51</volume>
+          <fpage>291</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.corsci.2008.10.040</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M720">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asiri</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>S.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>2,6-Bis(9-ethyl-9H-carbazolylmethylene)cyclohexanone</article-title>
+          <source>Molbank</source>
+          <year>2009</year>
+          <volume>2009</volume>
+          <elocation-id>M635</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/M635</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M720-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M720-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of compound <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M720-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

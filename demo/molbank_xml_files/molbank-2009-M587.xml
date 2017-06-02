@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M587</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2009-M587</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A novel method for the synthesis of 6-bromo-2-(3,4-dichloro-phenyl)imidazo[1,2-<italic>a</italic>]pyridine using microwave irradiation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Biradar</surname>
+            <given-names>Shankarappa A</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M587" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhovi</surname>
+            <given-names>Venkatesh K</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M587" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bodke</surname>
+            <given-names>Yadav D</given-names>
+          </name>
+          <xref rid="af2-molbank-2009-M587" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2009-M587" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bhavanishankar</surname>
+            <given-names>Rajesh</given-names>
+          </name>
+          <xref rid="af1-molbank-2009-M587" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2009-M587"><label>1</label>Syngene Intl. Ltd. Bangalore, India</aff>
+      <aff id="af2-molbank-2009-M587"><label>2</label>Department of Studies and Research in Industrial Chemistry, Jnana Sahyadri, Kuvempu University, Shankaraghatta 577 451, Karnataka, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2009-M587"><label>*</label> Author to whom correspondence should be addressed; E-mail: <email>ydbodke@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>01</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>2009</volume>
+      <issue>1</issue>
+      <elocation-id>M587</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>12</month>
+          <year>2008</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>01</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2009 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2009</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A simple and novel route to the synthesis of imidazopyridines was developed. The present work involves the synthesis of 6-bromo-2-(3,4-dichlorophenyl)imidazo[1,2-<italic>a</italic>]pyridine (<bold>3</bold>) by using microwave irradiation. The synthesized compound (<bold>3</bold>) was well characterized by NMR, IR, LCMS and elemental analysis.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>5-bromo-2-aminopyridine</kwd>
+        <kwd>DMF</kwd>
+		<kwd>Microwave</kwd>
+        <kwd>MTBE</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Imidazopyridines were previously synthesized e.g. by the reaction between 5-bromo-2-aminopyridine (<bold>1</bold>) and 2-bromo-1-(3,4-dichlorophenyl)ethanone (<bold>2</bold>) using different methods [<xref ref-type="bibr" rid="B1-molbank-2009-M587">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2009-M587">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2009-M587">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2009-M587">4</xref>]. In the usual methods, bases like sodium bicarbonate or potassium carbonate were employed in polar solvents such as methanol or ethanol under reflux for 4-6 hours. The present work deals with the synthesis of 6-bromo-2-(3,4-dichlorophenyl)imidazo[1,2-<italic>a</italic>]pyridine (<bold>3</bold>) using microwave irradiation. It is a simple  method to prepare imidazo-pyridines. </p>
+	  <disp-formula>
+	  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M587-i001.tif"/>
+	  </disp-formula>
+      <p>A solution of 5-bromo-2-aminopyridine (3.87 g, 1 eq) and 2-bromo-1-(3,4-dichlorophenyl)ethanone (3.0 g, 2 eq) in DMF was placed in a microwave Pyrex tube which was introduced into a Biotage Initiator 60 microwave reactor fitted with a rotational system. An approximate final temperature of 150&#xB0;C was measured at the end of the irradiation time (10 min at 200 W).The mixture was cooled to ambient temperature. The reaction mass was diluted with water and extracted with ethyl acetate. The solvent was evaporated under vacuum and the solid was triturated with MTBE and filtered.</p>
+      <p>Yield. 60%</p>
+      <p>M.p. 206-208&#xB0;C.</p>
+      <p><sup>1</sup>H NMR (300 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; = 8.80 (s, 1H), 8.40 (s, 1H), 8.11 (d, <italic>J</italic> = 1.6 Hz, 1H), 7.89 (dd, <italic>J</italic> = 8.4 Hz, <italic>J</italic> = 1.6 Hz, 1H), 7.65 (d, <italic>J</italic> = 8.4 Hz, 1H), 7.54 (d, <italic>J</italic> = 9.2 Hz , 1H), 7.34 (dd, <italic>J</italic> = 9.6 Hz, <italic>J</italic> = 1.6 Hz, 1H).</p>
+      <p><sup>13</sup>C NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>): 143.57, 142.66, 134.2, 131.77, 131.14, 130.36, 128.64, 127.27, 127.16, 125.78, 117.87, 110.79, and 106.54.</p>
+      <p>MS: m/z (ES), 341 [(M+1)<sup>+</sup>].</p>
+      <p>Elemental analysis: Calculated for C<sub>13</sub>H<sub>7</sub>BrCl<sub>2</sub>N<sub>2</sub> (341.56): C, 45.63%; H, 2.06% ; N:8.18%. Found: C, 45.52%; H, 2.32%; N, 8.16%. </p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2009-M587">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2009-M587-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M587-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2009-M587-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2009-M587-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank Syngene Intl. Ltd. Bangalore, India for providing the lab facility to carry out the research work and one of the authors (S.A. Biradar) is thankful to Kuvempu University for providing all facilities. </p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2009-M587">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koubachi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>El Kazzouli</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Berteina-Raboin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Mouaddib</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Guillaumet</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <source>J. Org. Chem.</source>
+          <year>2007</year>
+          <volume>72</volume>
+          <fpage>7650</fpage>
+          <lpage>7655</lpage>
+          <pub-id pub-id-type="pmid">17784775</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2009-M587">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sundberg</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name>
+              <surname>Biswas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kumar Murthi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Rowe</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>McCall</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name>
+              <surname>Dzimianski</surname>
+              <given-names>M. T.</given-names>
+            </name>
+          </person-group>
+          <source>J. Med.Chem.</source>
+          <year>1998</year>
+          <volume>41</volume>
+          <fpage>4317</fpage>
+          <lpage>4328</lpage>
+          <pub-id pub-id-type="pmid">9784107</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2009-M587">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Enguehard</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hervet</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Thery</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Renou</surname>
+              <given-names>J.-L.</given-names>
+            </name>
+            <name>
+              <surname>Fauvelle</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Gueiffier</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Helv. Chim. Acta.</source>
+          <year>2001</year>
+          <volume>84</volume>
+          <fpage>3610</fpage>
+          <lpage>3615</lpage>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2009-M587">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gudmundsson</surname>
+              <given-names>K. S.</given-names>
+            </name>
+            <name>
+              <surname>Johns</surname>
+              <given-names>B. A.</given-names>
+            </name>
+          </person-group>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>2735</fpage>
+          <lpage>2739</lpage>
+          <pub-id pub-id-type="pmid">17368024</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

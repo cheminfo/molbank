@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M918</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M918</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1,4-Dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ko</surname>
+            <given-names>Kwang Min</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kim</surname>
+            <given-names>Sung-Gon</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M918" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M918">Department of Chemistry, Kyonggi University, 154-42, Gwanggyosan-ro, Yeongtong-gu, Suwon 16227, Korea; <email>minwin89@naver.com</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M918"><label>*</label>Correspondence: <email>sgkim123@kyonggi.ac.kr</email>; Tel.: +82-31-249-9631</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M918</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>An aza-Michael/Michael cascade reaction of 2-((<italic>E</italic>)-2-nitrovinyl)-<italic>N</italic>-tosylbenzenamine with 3-phenylpropiolaldehyde catalyzed by pyrrolidine has produced a new compound, 1,4-dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde. The structure of the newly synthesized compound was determined using <sup>1</sup>H, <sup>13</sup>C-NMR, IR, and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>dihydroquinoline</kwd>
+        <kwd>Michael addition</kwd>
+        <kwd>cascade reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M918" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Hydroquinoline is structurally essential unit in biologically active natural products [<xref ref-type="bibr" rid="B1-molbank-2016-M918">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M918">2</xref>]. The hydroquinoline is widely used as a pharmacophore in drug discovery and exhibits a broad range of biological activities such as anti-HIV, antibacterial, antifungal, antimalarial, antitumor, and cardiovascular effects [<xref ref-type="bibr" rid="B3-molbank-2016-M918">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M918">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M918">5</xref>]. In view of the significance of the hydroquinoline structure in medicinal and organic chemistry, numerous synthetic methods for hydroquinline scaffolds have been developed [<xref ref-type="bibr" rid="B6-molbank-2016-M918">6</xref>]. Based on our previous results of the cascade reaction for the synthesis of hydroquinoline compounds [<xref ref-type="bibr" rid="B7-molbank-2016-M918">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M918">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2016-M918">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M918">10</xref>], we have successfully obtained a novel compound: 1,4-dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M918" sec-type="results">
+      <title>2. Results</title>
+      <p>The synthesis of 1,4-dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde (<bold>3</bold>) was achieved in one step, as presented in <xref ref-type="scheme" rid="molbank-2016-M918-sch001">Scheme 1</xref>, which was performed via an aza-Michael/Michael cascade reaction of 2-((<italic>E</italic>)-2-nitrovinyl)-<italic>N</italic>-tosylbenzenamine (<bold>1</bold>) with 3-phenylpropiolaldehyde (<bold>2</bold>). The reaction was carried out in toluene in the presence of 20 mol % pyrrolidine as a catalyst and 20 mol % 2-nitrobenzoic acid as an additive. The desired product <bold>3</bold> was obtained in moderate yield via an aza-Michael/Michael cascade reaction. The structure of compound <bold>3</bold> was confirmed via <sup>1</sup>H- and <sup>13</sup>C-NMR, IR, and mass spectral data, and all data are in accordance with the proposed structure. </p>
+    </sec>
+    <sec id="sec3-molbank-2016-M918">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M918">
+        <title>3.1. General Information</title>
+        <p>All reagents were used as received without further purification. Organic solutions were concentrated under reduced pressure using a B&#xFC;chi rotary evaporator. Chromatographic purification of the title compound <bold>3</bold> was accomplished using forced-flow chromatography on ICN 60 32&#x2013;64 mesh silica gel 63. Thin-layer chromatography (TLC) was performed on EM Reagents 0.25 mm silica gel 60-F plates. Developed chromatograms were visualized by fluorescence quenching and anisaldehyde staining. <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded on a Bruker Avance 400 spectrometer (Bruker BioSpin GmbH, Karlsruhe, Germany) in CDCl<sub>3</sub>. Chemical shifts are internally referenced to residual protio solvent signals (&#x3B4; 7.26 ppm for <sup>1</sup>H; &#x3B4;77.16 ppm for <sup>13</sup>C). Data for <sup>1</sup>H-NMR are reported as follows: chemical shift (&#x3B4; ppm), multiplicity (s = singlet, d = doublet, m = multiplet), integration, coupling constant (Hz), and assignment. Data for <sup>13</sup>C-NMR are reported in terms of chemical shift. IR spectra were recorded on an ALPHA FT-IR spectrometer (Bruker Optics GmbH, Ettlingen, Germany) and reported in terms of frequency of absorption (cm<sup>&#x2212;1</sup>). High-resolution mass spectrometry data was recorded on a JEOL JMS-700 MStation mass spectrometer (JEOL, Tokyo, Japan).</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M918">
+        <title>3.2. Syntheis of 1,4-Dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde <italic>(<bold>3</bold>)</italic></title>
+        <p>2-((<italic>E</italic>)-2-Nitrovinyl)-<italic>N</italic>-tosylbenzenamine (<bold>1</bold>) (63 mg, 0.2 mmol) was added to a solution of pyrrolidine (3.4 &#x3BC;L, 0.04 mmol) and 2-nitrobenzoic acid (6.7 mg, 0.04 mmol) in CHCl<sub>3</sub> (0.7 mL) at room temperature. The solution was stirred for 5 min before the addition of 3-phenylpropiolaldehyde (<bold>2</bold>) (30 &#x3BC;L, 0.24 mmol). The resulting mixture was stirred for 48 h until complete consumption of 2-((<italic>E</italic>)-2-nitrovinyl)-<italic>N</italic>-tosylbenzenamine (<bold>1</bold>) was observed as determined by TLC. The resulting mixture was directly purified by flash silica gel column chromatography using EtOAc/hexane (1/10) as eluent to afford the desired title compound <bold>3</bold> (58%, 52 mg).</p>
+        <p>White solid; m.p. 215&#x2013;217 &#xB0;C; <sup>1</sup>H-NMR (400 MHz, CDCl<sub>3</sub>) &#x3B4; 9.31 (s, 1H), 8.06&#x2013;7.95 (m, 1H), 7.64&#x2013;7.42 (m, 6H), 7.33 (ddd, <italic>J</italic> = 10.5, 8.6, 4.7 Hz, 3H), 7.29&#x2013;7.19 (m, 3H), 4.72 (dd, <italic>J</italic> = 9.7, 5.8 Hz, 1H), 3.91 (dd, <italic>J</italic> = 11.8, 5.8 Hz, 1H), 3.15 (dd, <italic>J</italic> = 11.8, 9.7 Hz, 1H), 2.40 (s, 3H); <sup>13</sup>C-NMR (100 MHz, CDCl<sub>3</sub>) &#x3B4; 190.37, 157.50, 145.87, 136.36, 134.81, 133.12, 131.22, 130.94, 130.42, 130.10, 129.27, 128.37, 128.35, 127.92, 127.82, 125.18, 124.83, 78.46, 34.56, 21.64; IR (film) 3235, 2863, 1714, 1592, 1512, 1440, 1398, 1318, 1185, 1125, 1084 cm<sup>&#x2212;1</sup>; HRMS (EI) <italic>m/z</italic> calcd for [M]<sup>+</sup> C<sub>24</sub>H<sub>20</sub>N<sub>2</sub>O<sub>5</sub>S: 448.1093 Found: 448.1084.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M918">
+        <title>Supplementary Materials</title>
+        <p><sup>1</sup>H- and <sup>13</sup>C-NMR spectra for compound <bold>3</bold> are available online at <uri>www.mdpi.com/1422-8599/2016/4/M918</uri>. </p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by Kyonggi University's Graduate Research Assistantship 2015. </p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Both authors contributed equally to this work.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M918">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kouznetsov</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Palma</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ewert</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Varlamov</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some aspects of reduced quinoline chemistry</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>1998</year>
+          <volume>35</volume>
+          <fpage>761</fpage>
+          <lpage>785</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570350402</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M918">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y.-G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric Hydrogenation of Heteroaromatic Compounds</article-title>
+          <source>Acc. Chem. Res.</source>
+          <year>2007</year>
+          <volume>40</volume>
+          <fpage>1357</fpage>
+          <lpage>1366</lpage>
+          <pub-id pub-id-type="doi">10.1021/ar700094b</pub-id>
+          <pub-id pub-id-type="pmid">17896823</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M918">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramesh</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Manian</surname>
+              <given-names>R.D.R.S.</given-names>
+            </name>
+            <name>
+              <surname>Raghunathan</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sainath</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Raghunathan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and antibacterial property of quinolines with potent DNA gyrase activity</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2009</year>
+          <volume>17</volume>
+          <fpage>660</fpage>
+          <lpage>666</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2008.11.058</pub-id>
+          <pub-id pub-id-type="pmid">19097914</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M918">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ding</surname>
+              <given-names>C.Z.</given-names>
+            </name>
+            <name>
+              <surname>Hunt</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Ricca</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Manne</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>3-Imidazolylmethylaminophenylsulfonyl- tetrahydroquinolines, a novel series of farnesyltransferase inhibitors</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2000</year>
+          <volume>10</volume>
+          <fpage>273</fpage>
+          <lpage>275</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(99)00686-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M918">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fotie</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Delfin</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Manley</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>C.S.</given-names>
+            </name>
+            <name>
+              <surname>Paris</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+            <name>
+              <surname>Wenzler</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Maes</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Mahasenan</surname>
+              <given-names>K.V.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Werbovetz</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitrypanosomal Activity of 1,2-Dihydroquinolin-6-ols and Their Ester Derivatives</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2010</year>
+          <volume>53</volume>
+          <fpage>966</fpage>
+          <lpage>982</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm900723w</pub-id>
+          <pub-id pub-id-type="pmid">20047276</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M918">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sridharan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Suryavanshi</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Menendez</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Advances in the Chemistry of Tetrahydroquinolines</article-title>
+          <source>Chem. Rev.</source>
+          <year>2011</year>
+          <volume>111</volume>
+          <fpage>7157</fpage>
+          <lpage>7259</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr100307m</pub-id>
+          <pub-id pub-id-type="pmid">21830756</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M918">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Heo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric one-pot synthesis of 1,4-dihydroquinolines via an organocatalytic aza-Michael/Michael cascade strategy</article-title>
+          <source>Adv. Synth. Catal.</source>
+          <year>2015</year>
+          <volume>357</volume>
+          <fpage>1545</fpage>
+          <lpage>1550</lpage>
+          <pub-id pub-id-type="doi">10.1002/adsc.201401176</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M918">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-G.</given-names>
+            </name>
+          </person-group>
+          <article-title>One-pot organocatalytic enantioselective Michael addition and aza-cyclization/dehydration cascade reaction strategy: Asymmetric synthesis of highly functionalized 1,4-dihydroquinolines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2015</year>
+          <volume>56</volume>
+          <fpage>4819</fpage>
+          <lpage>4823</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2015.06.071</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M918">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric organocatalytic Michael addition/aza-cyclization coupled with sequential Michael addition for synthesizing densely polycyclic-fused dihydroquinolines</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2015</year>
+          <volume>56</volume>
+          <fpage>4159</fpage>
+          <lpage>4162</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tetlet.2015.04.112</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M918">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S.-G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Asymmetric organocatalytic cascade reaction of aldehydes with 2-amino-<italic>&#x3B2;</italic>-nitrostyrenes: Synthesis of chiral tetrahydroquinolines and dihydroquinolines</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2014</year>
+          <volume>79</volume>
+          <fpage>8234</fpage>
+          <lpage>8243</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo501406v</pub-id>
+          <pub-id pub-id-type="pmid">25098895</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2016-M918-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M918-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 1,4-dihydro-4-(nitromethyl)-2-phenyl-1-tosylquinoline-3-carbaldehyde (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M918-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

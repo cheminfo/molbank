@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M386</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2004-M386</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>7,10-Diazafluoranthene (Acenaphtho[1,2-<italic>b</italic>]pyrazine)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eskildsen</surname>
+            <given-names>J&#xF8;rgen</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Christensen</surname>
+            <given-names>J&#xF8;rn B.</given-names>
+          </name>
+          <xref rid="af1-molbank-2004-M386" ref-type="aff">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2004-M386">Chemical Laboratory II, Department of Chemistry, University of Copenhagen, Copenhagen, Denmark, Tel.: 45-35320194, fax: 45-3530212 E-mail: <email>jbc@kiku.dk</email></aff>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>03</month>
+        <year>2004</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>2004</volume>
+      <issue>1</issue>
+      <elocation-id>M386</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>01</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>02</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2004 MDPI.</copyright-statement>
+        <copyright-year>2004</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd>Heterocyclic chemistry</kwd>
+        <kwd>mutagenic activity</kwd>
+        <kwd>7,10-diazafluoranthene</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M386-i001.tif"/></p>
+      <p>7,10-Diazafluoranthene has been reported to be strongly mutagenic in an Ames-test [<xref ref-type="bibr" rid="B1-molbank-2004-M386">1</xref>], but no details regarding neither the synthesis nor other properties have been published.</p>
+    <sec>
+      <title>7,10-Diaza-8,9-dihydrofluoranthene (1).(Compare to [<xref ref-type="bibr" rid="B2-molbank-2004-M386">2</xref>])</title>
+      <p>Acenaphtene quinone (4.1g; 23 mmol) was dissolved in refluxing MeOH (170 mL), a small portion of the quinone sometimes remained undissolved. Ethane-1,2-diamine (1.7 mL; 25 mmol) was slowly added. This mixture was refluxed for 1h, cooled to room temperature and evaporated to dryness.</p>
+      <p>The dark brownish powder was dissolved in a small portion of MeOH and cooled in an ice bath. Water was slowly added until a fog of colloid precipitate became visible, which was removed by filtration. The filtrate was extracted twice with CH<sub>2</sub>Cl<sub>2</sub> (1 &#xB4; 70, 1 &#xB4; 50 mL). The combined organic solutions were dried over MgSO<sub>4</sub>, filtered and concentrated <italic>in vacuo</italic> to give almost pure <bold>1</bold> in quantitative yield. Yellow powder. Mp 94.4-96.0 &#xB0;C. </p>
+      <p>M/z: M<sup>+</sup> = 206 (70) ); 178 (90); 151 (20); 125 (5); 103 (3).</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>, d, ppm): 7.96 (d, J = 8.4 Hz); 7.94 (d, J = 7.0 Hz); 7.69 (dd, J<sub>1</sub> = 7.2 Hz; J<sub>2</sub> = 7.0 Hz); 3.91 (s, 4 H).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>, d, ppm): 158.6; 141.5; 131.7; 130.7; 128.5; 128.4; 118.7; 45.0. </p>
+    </sec>
+    <sec>
+      <title>7,10-Diazafluoranthene (2).</title>
+      <p>7,10-Diaza-8,9-dihydrofluoranthene (<bold>1</bold>) (5.35 g ; 26 mmol) was dissolved in dioxane (270 mL). A solution of DDQ (6.0g; 26.5 mmol) in dioxane (150 mL) was added, and the mixture was refluxed for 30 min. After evaporation to dryness, the mixture was dissolved in CH<sub>2</sub>Cl<sub>2</sub> (200 mL) and washed with a 0.3 M solution of Na<sub>2</sub>SO<sub>3</sub> in water (40 mL). The solid material was removed by filtration, and dried <italic>in vacuo</italic>. The organic phase was evaporated to dryness, and combined with the material from the filtration. This mixture was subjected to Soxhlet-chromatography [<xref ref-type="bibr" rid="B3-molbank-2004-M386">3</xref>] on Aluminium oxide (Woelm, basic activity I) with CH<sub>2</sub>Cl<sub>2</sub> as eluent to give 7,10-diazafluoranthen as yellow crystals in   74% yield (3.92 g) melting 145.0-147.1&#xB0;C. </p>
+      <p>M/z: M<sup>+</sup> = 204 (100); 178 (74); 151 (24); 102 (9); 75 (16).</p>
+      <p>An analytical sample obtained by sublimation. (100 &#xB0;C/ 0.01 mmHg) had: </p>
+      <p>Calcd. for C<sub>14</sub>H<sub>8</sub>N<sub>2</sub>: 82.34% C; 3.95% H; 13.72% N</p>
+      <p>Found 82.36% C; 4.07% H; 13.47% N</p>
+      <p>Mp: 145.0-147.1 &#xB0;C. </p>
+	  <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>, d, ppm): 8.46 (s, 2 H); 8.28 (d, J = 7.0 Hz); 8.04 (d, J = 8.2 Hz); 7.78 (dd, J<sub>1</sub> = 7.0 Hz; J<sub>2</sub> = 7.0 Hz)</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>, d, ppm): 153.6; 141.1; 132.3; 131.4; 129.6; 129.4; 128.3; 122.7.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2004-M386">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2004-M386-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M386-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2004-M386-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2004-M386-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and notes:</title>
+      <ref id="B1-molbank-2004-M386">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gatehouse</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mutagenicity of 1,2-ring-fused acenaphthenes against Salmonella typhimurium TA1537 and TA1538: structure-activity relationships</article-title>
+          <source>Mutation Res.</source>
+          <year>1980</year>
+          <volume>78</volume>
+          <fpage>121</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1016/0165-1218(80)90091-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2004-M386">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van Asselt</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name>
+              <surname>Elsevier</surname>
+              <given-names>Cornelis J.</given-names>
+            </name>
+            <name>
+              <surname>Smeets</surname>
+              <given-names>Wilberth J. J.</given-names>
+            </name>
+            <name>
+              <surname>Spek</surname>
+              <given-names>Anthony L.</given-names>
+            </name>
+            <name>
+              <surname>Benedix</surname>
+              <given-names>Roland</given-names>
+            </name>
+          </person-group>
+          <article-title>Rigid bidentate nitrogen ligands in organometallic chemistry and homogeneous catalysis. V. Synthesis and characterization of rigid bidentate nitrogen ligands and some examples of coordination to divalent palladium. X-ray crystal structures of bis(p-tolylimino)acenaphthene and methylchloro[bis(o,o'-diisopropylphenyl-imino)acenaphthene]palladium(II)</article-title>
+          <source>Rec. Trav. Chim. Pays-Bas</source>
+          <year>1994</year>
+          <volume>113</volume>
+          <fpage>88</fpage>
+          <lpage>98</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2004-M386">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faldt</surname>
+              <given-names>Andre</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>Morten J.</given-names>
+            </name>
+            <name>
+              <surname>Krogh</surname>
+              <given-names>Thomas P.</given-names>
+            </name>
+            <name>
+              <surname>Hviid</surname>
+              <given-names>Lene</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>J&#xF8;rn B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation and properties of some new extended tetrathiafulvalene (TTF) derivatives</article-title>
+          <source>Synth. Met.</source>
+          <year>1998</year>
+          <volume>94</volume>
+          <fpage>307</fpage>
+          <lpage>310</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0379-6779(98)00027-7</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample availability:</italic> Available from MDPI</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

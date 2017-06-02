@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M809</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M809</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N,N</italic>&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aydin</surname>
+            <given-names>Fatma</given-names>
+          </name>
+          <xref rid="c1-molbank-2013-M809" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dagci</surname>
+            <given-names>Erdogan</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M809">Department of Chemistry, &#xC7;anakkale Onsekiz Mart University, &#xC7;anakkale 17100, Turkey</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2013-M809"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>faydin@comu.edu.tr.</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>10</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>4</issue>
+      <elocation-id>M809</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>08</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>10</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel colorimetric receptor linked to two nitrophenylurea groups was synthesized in good yields, characterized and their chromogenic properties investigated towards various anions (F<sup>&#x2212;</sup>, Cl<sup>&#x2212;</sup>, Br<sup>&#x2212;</sup>, I<sup>&#x2212;</sup>, OH<sup>&#x2212;</sup>, AcO<sup>&#x2212;</sup>, H<sub>2</sub>PO<sub>4</sub><sup>&#x2212;</sup> and CN<sup>&#x2212;</sup>) by UV-Vis techniques. The receptor, effectively and selectively, recognized and distinguished the biologically important F<sup>&#x2212;</sup> from other anions such as Cl<sup>&#x2212;</sup>, Br<sup>&#x2212;</sup>, I<sup>&#x2212;</sup> <italic>etc.</italic> in DMSO. This selectivity could be easily observed by the naked eye, indicating that receptor is potential colorimetric sensor for fluoride ion.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>phthaloyl dichloride</kwd>
+        <kwd>bisthiourea</kwd>
+        <kwd>anion receptor</kwd>
+        <kwd>UV-Vis titration</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Anions are key to many biological processes, playing important roles in health [<xref ref-type="bibr" rid="B1-molbank-2013-M809">1</xref>]. They are also essential ingredients used by a variety of industries related to agricultural fertilizers and water. Therefore, in the past two decades, supramolecular chemistry of anions developed into a wide research field that has been extensively reviewed [<xref ref-type="bibr" rid="B2-molbank-2013-M809">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2013-M809">3</xref>].</p>
+      <p>These receptors as known supramolecules are usually based on macrocyclic amides [<xref ref-type="bibr" rid="B4-molbank-2013-M809">4</xref>], ureas/thioureas [<xref ref-type="bibr" rid="B5-molbank-2013-M809">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M809">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2013-M809">7</xref>], pyrroles [<xref ref-type="bibr" rid="B8-molbank-2013-M809">8</xref>], indoles and phenylhydrazones [<xref ref-type="bibr" rid="B9-molbank-2013-M809">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2013-M809">10</xref>], <italic>etc.</italic> They exhibit such an obvious color change when anion is added that one can detect by naked-eye without resorting to spectroscopic instrumentation [<xref ref-type="bibr" rid="B11-molbank-2013-M809">11</xref>].</p>
+      <p>Some thiourea derivatives are widely used in many fields including pharmaceutical industry due to their biological properties such as antimicrobial, antibacterial [<xref ref-type="bibr" rid="B12-molbank-2013-M809">12</xref>] and plant-growth regulators [<xref ref-type="bibr" rid="B13-molbank-2013-M809">13</xref>]. Aroylthioureas usually coordinated to metal in bidentate manner through the sulfur and oxygen atoms [<xref ref-type="bibr" rid="B14-molbank-2013-M809">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M809">15</xref>].</p>
+      <p>In this paper, we report herein the synthesis, characterization and anion-hydrogen binding studies of a bisthiourea compound of <italic>N,N</italic>&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide as shown in <xref ref-type="scheme" rid="molbank-2013-M809-sch001">Scheme 1</xref>. Its structure was characterized by elemental analysis, IR and <sup>1</sup>H- and <sup>13</sup>C-NMR spectroscopic techniques.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>The title compound, <italic>N,N</italic>&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide, has been synthesized and characterized by elemental analysis, IR and <sup>1</sup>H- and <sup>13</sup>C-NMR spectroscopic analysis. The IR data of the title compound showed two N&#x2212;H stretching bands at 3,392 and 3,247 cm<sup>&#x2212;1</sup>. The C=O stretching bands appeared at 1,669 cm<sup>&#x2212;1</sup>. The strong band at 1,542 cm<sup>&#x2212;1</sup> was confirmed the amido stretching vibration. The strong bands at 1,313 and 750 cm<sup>&#x2212;1</sup> were assigned to thioureido N-C=S and C=S stretching vibrations, respectively. The <sup>1</sup>H-NMR data showed that the chemical shifts of protons on nitrogen appeared in the low field, in the range between 11.12 and 10.30 ppm. The chemical shifts of protons on the nitro-substitute benzene ring are in lower field, in the range between 8.42 and 8.20 ppm than that of protons on the phthaloyl ring, in the range between 8.01 and 7.87 ppm. In the 13C-NMR signals, the carbon atoms of carbonyl (C=O) and thiocarbonyl (C=S) appear at 167 ppm and 181 ppm, respectively. (<xref ref-type="app" rid="app1-molbank-2013-M809">Supplementary material</xref>).</p>
+      <p>The interaction properties of title compound and to a series of anions such as F<sup>&#x2212;</sup>, Cl<sup>&#x2212;</sup>, Br<sup>&#x2212;</sup>, I<sup>&#x2212;</sup>, OH<sup>&#x2212;</sup>, AcO<sup>&#x2212;</sup>, H<sub>2</sub>PO<sub>4</sub><sup>&#x2212;</sup> and CN<sup>&#x2212;</sup> (as their tetrabutylammonium salts) were investigated by using UV-Vis spectroscopic technique. Remarkable spectral changes were observed upon the addition of these anions to solutions of the title compound (see <xref ref-type="fig" rid="molbank-2013-M809-f001">Figure 1</xref>). </p>
+      <p>Hydrogen binding of anions was resulted in a noteworthy change in the visible region of the spectrum (approximately 130 nm red shift), which could be detected by the &#x2018;naked-eye&#x2019; (see <xref ref-type="fig" rid="molbank-2013-M809-f002">Figure 2</xref>)</p>
+      <p>Binding ability of the receptor for F- was investigated by UV-Vis spectrometry in DMSO using a constant host concentration (5 &#xD7; 10<sup>&#x2212;5</sup> M) and increasing concentrations of the F<sup>&#x2212;</sup> (0&#x2013;5 equivalence). Upon the addition of F<sup>&#x2212;</sup>, the intensity of the absorption peak at 352 nm decreased, whereas the intensity of 470 nm peak increased in UV-Vis spectrum of the receptor solution. The resulting titration revealed only one well-defined isosbestic point at 390 nm. The binding constant was determined by using nonlinear fitting analyses of the titration curves, 1:1 host-guest complexation as log K 6.640 &#xB1; 0.12. [<xref ref-type="bibr" rid="B16-molbank-2013-M809">16</xref>] (<xref ref-type="fig" rid="molbank-2013-M809-f003">Figure 3</xref>).</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>Materials and Measurements</title>
+        <p>All reagents for synthesis were obtained commercially and were used without further purification. In the titration experiments, all the anions were added in the form of tetra-<italic>n</italic>-butylammonium (TBA) salts, which were purchased from Merck Chemical Co. and Across, stored in a vacuum desiccator containing self-indicating silica and fully dried before using. The <sup>1</sup>H- and <sup>13</sup>C-NMR spectra were recorded in DMSO-<italic>d</italic> at 25 &#xB0;C on a Bruker NMR spectrometer operating at 400 and 101.6 MHz. MS spectra were obtained with an Agilent 5973 Inert Mass Selective Detector equipped with Direct Insertion Probe. Infrared spectrum was recorded using a Diamond ATR (attenuated total reflection) accessory on a Perkin Elmer BX II spectrophotometer. Melting point (m.p.) was measured in an Electro Thermal IA 9100 instrument using a capillary tube. Thin-layer chromatography was carried out on Merck aluminium sheets coated with silica gel 60 F<sub>254</sub>. UV-Vis measurements were performed on a instrument Perkin-Elmer WinLab-25 series spectrophotometer with a quartz cuvette (path length: 1 cm). Dimethyl sulfoxide was dried with calcium hydride and then distilled at reduced pressure. The anion binding properties of <italic>N,N</italic>&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide have been studied by using UV-Vis spectroscopic titration techniques in dry DMSO.</p>
+      </sec>
+      <sec>
+        <title>Synthesis and Characterization of N,N&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide</title>
+        <p>A solution of phthaloyl dichloride (1.01 g, 5 mmol) in acetone (30 mL) was added dropwise to a suspension of potassium thiocyanate (0.97 g, 10 mmol) in acetone (20 mL) and the reaction mixture was refluxed for 30 min. After cooling to room temperature, a solution of the 4-nitroaniline (2.03 g, 10 mmol) in acetone (15 mL) was added and the reaction mixture was heated under reflux for 3 h. The resulting mixture was poured into a beaker containing cold water. The resulting orange precipitate was collected by filtration, washed several times with cold water and purified by recrystallized from acetone/tetrahydrofurane mixture (1:1). The product was obtained as yellow crystals.</p>
+        <p>Yield: 2.41 g, 71%; mp: 225&#x2013;227 &#xB0;C.</p>
+        <p>IR, (&#x3BD;<sub>max</sub>, cm<sup>&#x2212;1</sup>): 3392 (<italic>N-H</italic>), 3247 (<italic>N-H</italic>), 3023 (C<sub>aromatic</sub>-H), 1669 (<italic>C=O</italic>), 1542 (<italic>N-CO</italic>), 1313 (<italic>N-C</italic>S, thioureido), 750 (<italic>C=S</italic>).</p>
+        <p><sup>1</sup>H-NMR (400 MHz, DMSO-<italic>d6</italic>) (&#x3B4;/ppm): 11.12 (s, 2H, N-<bold><underline>H</underline></bold>), 10.30 (s, 2H, N-<bold><underline>H</underline></bold>), 8.42-8.20 (m, Ar<sub>phenyl.</sub>-H); 8.01 (2H, C-H<sub>phthaloyl</sub>, d, <italic>J</italic> = 5.9 Hz), 7.87 (2H, t, <italic>J</italic> = 6.0 Hz).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, DMSO-<italic>d6</italic>) &#x3B4;: 181.7 (C=S), 167.7 (C=O), 156.1, 146.6, 142.9, 138.2, 136.4, 131.9, 128.5 (Ar).</p>
+        <p>MS (EI): <italic>(m/z)</italic> = 524.1 (M+1).</p>
+        <p>Anal. Calc. For C<sub>22</sub>H<sub>16</sub>N<sub>6</sub>O<sub>6</sub>S<sub>2</sub>: C, 50.38; H, 3.07; N, 16.02; S, 12.23 Found: C, 50.30; H, 3.11; N, 16.08; S, 12.21.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2013-M809">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2013-M809-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2013-M809-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2013-M809-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-s002.pdf">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Support for this research was provided by grant Project Number: <bold>2009/119</bold>-TURKEY from &#xC7;anakkale Onsekiz Mart University Research Fund.</p>
+    </ack>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2013-M809">
+        <label>1.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Voet</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Voet</surname>
+              <given-names>J.G.</given-names>
+            </name>
+          </person-group>
+          <source>Biochemistry</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1995</year>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M809">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sessler</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Gale</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>W.S.</given-names>
+            </name>
+          </person-group>
+          <source>Anion Receptor Chemistry</source>
+          <publisher-name>Royal Society of Chemistry</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>2006</year>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M809">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gimeno</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Vilar</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Anions as templates in coordination and supramolecular chemistry</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2006</year>
+          <volume>250</volume>
+          <fpage>3161</fpage>
+          <lpage>3189</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ccr.2006.05.016</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M809">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kang</surname>
+              <given-names>S.O.</given-names>
+            </name>
+            <name>
+              <surname>Begum</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Bowman-James</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amide-Based Ligands for Anion Coordination</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>7882</fpage>
+          <lpage>7894</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200602006</pub-id>
+          <pub-id pub-id-type="pmid">17072919</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M809">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aydin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tunoglu</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Aykac</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of two novel aroyl thioureas and their use as anion binding receptors</article-title>
+          <source>Asian J. Chem.</source>
+          <year>2013</year>
+          <volume>25</volume>
+          <fpage>2455</fpage>
+          <lpage>2458</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M809">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convenient synthesis and anion recognition properties of <italic>N</italic>-flurobenzoyl-<italic>N&#x2032;</italic>-phenylthioureas in water-containing media</article-title>
+          <source>J. Fluorine Chem.</source>
+          <year>2006</year>
+          <volume>127</volume>
+          <fpage>1222</fpage>
+          <lpage>1227</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jfluchem.2006.06.018</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M809">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osmiatowski</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Mroczynska</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kolehmainen</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Kowalska</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Volkonen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pietrzak</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Association of <italic>N</italic>-(Pyridin-2-yl),<italic>N&#x2032;</italic>-substituted ureas with 2-amino-1,8-naphthyridines and benzoates: NMR and quantum chemical studies of the substituent effect on complexation</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2013</year>
+          <volume>78</volume>
+          <fpage>7582</fpage>
+          <lpage>7593</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo4011393</pub-id>
+          <pub-id pub-id-type="pmid">23845101</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M809">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dydio</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Lichosyt</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jurczak</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Amide- and urea-functionalized pyrroles and benzopyrroles as synthetic, neutral anion receptors</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2011</year>
+          <volume>40</volume>
+          <fpage>2971</fpage>
+          <lpage>2985</lpage>
+          <pub-id pub-id-type="doi">10.1039/c1cs15006e</pub-id>
+          <pub-id pub-id-type="pmid">21387070</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M809">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Choi</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Chromogenic anion receptors based on 4-nitrophenylhydrazone and phenylhydrozone</article-title>
+          <source>J. Incl. Phenom. Macrocycl. Chem.</source>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1007/s10847-013-0328-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M809">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>Z.-S.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.-K.</given-names>
+            </name>
+          </person-group>
+          <article-title>A phenylhydrazone-based indole receptor for sensing acetate</article-title>
+          <source>Talanta</source>
+          <year>2008</year>
+          <volume>74</volume>
+          <fpage>1122</fpage>
+          <lpage>1125</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.talanta.2007.08.015</pub-id>
+          <pub-id pub-id-type="pmid">18371759</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M809">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aydin</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tunoglu</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Aykac</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Arslan</surname>
+              <given-names>N.B.</given-names>
+            </name>
+            <name>
+              <surname>Kazak</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and structural X-ray analysis of 1,1&#x2032;-(naphthalene-1,8-diyl)-3,3&#x2032;-dibenzoyl-bisthiourea and its use as anion-binding receptor</article-title>
+          <source>Turk. J. Chem.</source>
+          <year>2012</year>
+          <volume>36</volume>
+          <fpage>764</fpage>
+          <lpage>777</lpage>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M809">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arslan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Duran</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>B&#xF6;rekci</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Koray</surname>
+              <given-names>&#xD6;.</given-names>
+            </name>
+            <name>
+              <surname>Akbay</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antimicrobial activity of some thiourea derivatives and their nickel and copper complexes</article-title>
+          <source>Molecules</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <fpage>519</fpage>
+          <lpage>522</lpage>
+          <pub-id pub-id-type="doi">10.3390/molecules14010519</pub-id>
+          <pub-id pub-id-type="pmid">19169199</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M809">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hu</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>T.-B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on the crystal structure and properties of <italic>N</italic>-(2-ethoxyphenyl)-<italic>N</italic>&#x2032;-(4-ethoxybenzoyl)-thiourea</article-title>
+          <source>Phosphorus Sulfur Silicon Relat. Elem.</source>
+          <year>2008</year>
+          <volume>183</volume>
+          <fpage>1584</fpage>
+          <lpage>1591</lpage>
+          <pub-id pub-id-type="doi">10.1080/10426500701693495</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2013-M809">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koch</surname>
+              <given-names>K.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>New chemistry with old ligands: <italic>N</italic>-alkyl- and <italic>N,N</italic>-dialkyl-<italic>N&#x2032;</italic>-acyl(aroyl)thioureas in co-ordination, analytical and process chemistry of the platinum group metals</article-title>
+          <source>Coord. Chem. Rev.</source>
+          <year>2001</year>
+          <volume>216&#x2013;217</volume>
+          <fpage>473</fpage>
+          <lpage>488</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0010-8545(01)00337-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2013-M809">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arslan</surname>
+              <given-names>N.B.</given-names>
+            </name>
+            <name>
+              <surname>Kazak</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Aydin</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, spectroscopic characterization, X-ray structure and DFT studies on <italic>N</italic>-(4-nitrobenzoyl)-<italic>N&#x2032;</italic>-(1,5-dimethyl-3-oxo-2-phenyl-1<italic>H</italic>-3(2<italic>H</italic>)-pyrazolyl)-thiourea</article-title>
+          <source>Spectrachim. Acta part A</source>
+          <year>2012</year>
+          <volume>89</volume>
+          <fpage>30</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.saa.2011.12.040</pub-id>
+          <pub-id pub-id-type="pmid">22240233</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2013-M809">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shao</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rational design of a colorimetric and ratiometric fluorescent chemosensor based on intramolecular charge transfer (ICT)</article-title>
+          <source>Talanta</source>
+          <year>2008</year>
+          <volume>77</volume>
+          <fpage>273</fpage>
+          <lpage>277</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.talanta.2008.06.035</pub-id>
+          <pub-id pub-id-type="pmid">18804632</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Scheme</title>
+      <fig id="molbank-2013-M809-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M809-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>N,N</italic>&#x2032;-Bis-(4-nitrophenylcarbamothioyl)phthalamide.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M809-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>UV-Vis spectra of title compound (5 &#xD7; 10<sup>&#x2212;5</sup> mol L<sup>&#x2212;1</sup>) after addition of different anions (none, F<sup>&#x2212;</sup>, Cl<sup>&#x2212;</sup>, Br<sup>&#x2212;</sup>, I<sup>&#x2212;</sup>, OAc<sup>&#x2212;</sup>, H<sub>2</sub>PO<sub>4</sub><sup>&#x2212;</sup>, OH<sup>&#x2212;</sup>, CN<sup>&#x2212;</sup>) at 1:1 ratio in DMSO solution.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-g001.tif"/>
+      </fig>
+      <fig id="molbank-2013-M809-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>The colour changes of title compound (5 &#xD7; 10<sup>&#x2212;5</sup> mol L<sup>&#x2212;1</sup>) observed upon the addition of 1 equiv. of different anions as TBA-salts to a DMSO, from left to right F<sup>&#x2212;</sup>, Cl<sup>&#x2212;</sup>, Br<sup>&#x2212;</sup>, I<sup>&#x2212;</sup>, OAc<sup>&#x2212;</sup>, H<sub>2</sub>PO<sub>4</sub><sup>&#x2212;</sup>, OH<sup>&#x2212;</sup>, CN<sup>&#x2212;</sup>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-g002.tif"/>
+      </fig>
+      <fig id="molbank-2013-M809-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>UV-Vis spectral titration of 5 &#xD7; 10<sup>&#x2212;5</sup> mol L<sup>&#x2212;1</sup> solution the title compound with a standard solution of F<sup>&#x2212;</sup> (as tetrabutylammonium salt) in DMSO solution at 298.2 &#xB1; 0.1 K, from which the association constant was determined [<xref ref-type="bibr" rid="B16-molbank-2013-M809">16</xref>] as log K 6.640 &#xB1; 0.12.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M809-g003.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

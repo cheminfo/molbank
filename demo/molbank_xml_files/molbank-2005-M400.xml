@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M400</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2005-M400</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Synthesis of 4-chloro-2-(thiomorpholin-4-ylmethyl)phenol</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vel&#xE1;zquez</surname>
+            <given-names>A. Ma.</given-names>
+          </name>
+          <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torres</surname>
+            <given-names>L.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gonz&#xE1;lez</surname>
+            <given-names>R.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Valencia</surname>
+            <given-names>A.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pecina</surname>
+            <given-names>A.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Menconi</surname>
+            <given-names>I.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mart&#xED;nez</surname>
+            <given-names>I.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mart&#xED;nez</surname>
+            <given-names>L.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ram&#xED;rez</surname>
+            <given-names>A.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hern&#xE1;ndez</surname>
+            <given-names>R.</given-names>
+          </name>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>L&#xF3;pez-Casta&#xF1;ares</surname>
+            <given-names>R.</given-names>
+          </name>
+		  <xref rid="af2-molbank-2005-M400" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Olvera-Neria</surname>
+            <given-names>O.</given-names>
+          </name>
+          <xref rid="af3-molbank-2005-M400" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Angeles</surname>
+            <given-names>E.</given-names>
+          </name>
+		   <xref rid="c1-molbank-2005-M400" ref-type="corresp">*</xref>
+		  <xref rid="af1-molbank-2005-M400" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2005-M400"><label>1)</label>Facultad de Estudios Superiores Cuautitl&#xE1;n, Universidad Nacional Aut&#xF3;noma de M&#xE9;xico,</aff>
+	   <aff id="af2-molbank-2005-M400"><label>2)</label>Facultad de Qu&#xED;mica de la UAEM,</aff>
+	    <aff id="af3-molbank-2005-M400"><label>3)</label>Instituto de Ciencias B&#xE1;sicas e Ingenieria, Universidad Aut&#xF3;noma del Estado de Hidalgo</aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2005-M400">e-mail: <email>angeles@servidor.unam.mx</email></corresp>
+      </author-notes>  
+	  <pub-date pub-type="epub">
+        <day>01</day>
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>07</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2005</volume>
+      <issue>1</issue>
+      <elocation-id>M400</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>31</day>
+          <month>05</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2005 MDPI. All rights reserved.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+      </permissions>
+      <kwd-group>
+        <kwd>phenol</kwd>
+        <kwd>thiomorpholine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+   <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M400-i001.tif"/></p>
+      <p>4-chloro-2-(thiomorpholin-4-ylmethyl)phenol (<bold>2</bold>) was prepared from 4-chlorophenol (<bold>1</bold>) and thiomorpholine and formaldehyde (37%) in  methanol as solvent  .  A solution  of methanol (50 mL) and 4-chlorophenol <bold>1 </bold>(1.26g, 9.80 mmol) was prepared and heated at 40 &#xB0;C for 15 minutes, after that a solution of thiomorfoline (2.0g, 20.7 mmol) and formaldehyde (1.5 mL, 20.15 mmol) in methanol was added . When the addition was completed, the reaction mixture was stirred at reflux for 24 hrs. The solvent was eliminated using rotavapor and reaction mixture was poured into water and extracted with ehtyl acetate. The product was crystallized after eliminated solvent and recrystallized from ethanol as white powder (<bold>2</bold>) (25% yield).</p>
+      <p>Melting Point: 127-129 &#xB0;C (methanol, uncorrected).</p>
+      <p>IR (CHCl<sub>3</sub> film, cm<sup>-1</sup>): 3502 (O-H); 3010 (C<sub>sp2</sub>-H Ar); 2985 (C<sub>sp3</sub>-H).</p>
+      <p><sup>1</sup>H-NMR (300 MHz; CDCl<sub>3</sub>): &#x3B4;= 10.56 (1H, s, OH); 7.11 (1H, dd, <italic>J</italic>= 8.7Hz, 2.7Hz); 6.94 (1H, d, <italic>J</italic>= 2.7Hz); 6.74 (1H, d, 8.7Hz); 3.65 (2H, s, Ar-CH<sub>2</sub>); 2.81 (4H, m, -S-CH<sub>2</sub>-); 2.71 (4H, m, -N-CH<sub>2</sub>-).</p>
+      <p><sup>13</sup>C-NMR (75 MHz; CDCl<sub>3</sub>): &#x3B4;= 156 (C); 128.56 (CH); 128.31 (CH); 123.61 (C); 122.11(C); 117.37 (CH); 61.63 (Ar-CH<sub>2</sub>); 54.27 (-S-CH<sub>2</sub>-); 27.73 (-N-CH<sub>2</sub>-).</p>
+      <p>MS (FAB; m/z, %): 244(100%); 215; 180; 154.</p>
+      <p>Elemental Analysis: Calculated for C11H14NOSCl: C, 54.20%;  H, 5.79%;  N, 5.75%;  O, 6.56%; S, 13.15%; Cl, 14.54%. Found: C, 54.40%; H, 5.77%; N, 5.80%; O, 6.45%; S, 13.22%; Cl, 14.49%.</p>
+  </body>
+  <back>
+     <app-group>
+    <app id="app1-molbank-2005-M400">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2005-M400-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M400-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2005-M400-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2005-M400-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+	</app-group>
+	<ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to acknowledge to PAPIIT/UNAM Projects No IN205902 and IN207705 and ALPHARMA SA de CV, by partially support this work. We would like to thank C.Barajas, F.Sotres, P.Garc&#xED;a, D.Jim&#xE9;nez from FESC-UNAM and Rosa I.del Villar M., Oscar Ya&#xF1;ez and Georgina Duarte from USAI-UNAM for their skillful technical assistance and DGSCA-UNAM for their support. As a part of Project C&#xE1;tedra Qu&#xED;mica Medicinal of FESC-UNAM.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2005-M400">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Biava</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fioravanti</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Porretta</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <name>
+              <surname>Deidda</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Maullu</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Pompei</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Biorg.&amp; Med.Chem.Lett.</source>
+          <year>1999</year>
+          <volume>9</volume>
+          <fpage>2083</fpage>
+          <lpage>2985</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2005-M400">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teipel</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Griesar</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Haase</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Krebs</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Inorganic Chemistry</source>
+          <year>1994</year>
+          <volume>33</volume>
+          <fpage>456</fpage>
+          <lpage>64</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2005-M400">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hodgkin</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <source>Aust .J. Chem.</source>
+          <year>1984</year>
+          <volume>37</volume>
+          <fpage>2371</fpage>
+          <lpage>2378</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

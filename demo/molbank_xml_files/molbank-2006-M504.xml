@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M504</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M504</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4&#x3B1;,14&#x3B1;,Dimethyl-5&#x3B1;-cholest-8-en-3-one thiosemicarbazone</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mazoir</surname>
+            <given-names>Noureddine</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M504" ref-type="corresp">*</xref>
+          <xref rid="af1-molbank-2006-M504" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Itto</surname>
+            <given-names>My Youssef Ait</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M504" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Artiles</surname>
+            <given-names>Mat&#xED;as Reina</given-names>
+          </name>
+          <xref rid="af2-molbank-2006-M504" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Benharref</surname>
+            <given-names>Ahmed</given-names>
+          </name>
+          <xref rid="af1-molbank-2006-M504" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M504"><label>1</label>Laboratoire de Chimie des Substances Naturelles, Universit&#xE9; Cadi Ayyad, Facult&#xE9; des Sciences Semlalia, B.P: 2390. Marrakech. Maroc.</aff>
+      <aff id="af2-molbank-2006-M504"><label>2</label>Instituto de Productos Naturales y Agrobiolog&#xED;a, IPNA-CSIC, La Laguna, Tenerife, Spain E-mail: <email>mazoir1@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M504"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>6</issue>
+      <elocation-id>M504</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>08</month>
+          <year>2005</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>10</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+      <kwd-group>
+        <kwd><italic>Euphorbia officinarum</italic></kwd>
+		<kwd>latex</kwd>
+		<kwd>thiosemicarbazide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M504-i001.tif"/></p>
+	  <p>The compound <bold><underline>2</underline></bold> was prepared from equimolecular quantity of <bold><underline>1</underline></bold> (1g, 2.43 mmol), derivative triterpene resulting from <italic>Euphorbia officinarum</italic><sup>1</sup>, and thiosemicarbazide<sup>2,3</sup> dissolved in ethanol with several drops of conc. H<sub>2</sub>SO<sub>4</sub>. The mixture was heated at reflux for 5h, and evaporated under reduced pressure. The residue was purified on silica gel column using hexane: ethyl acetate (90:10) as eluent yielded compound <bold><underline>2</underline></bold> (0.99g, 2.06mmol) in 85% yield.</p>
+      <p>Melting point: 212-213 &#xB0;C (Hexane)</p> 
+	  <p>MS (EI, 70eV): 485 (M<sup>+</sup>.)</p>
+      <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>) d(ppm): 6.33 (NH); 7.25 (NH<sub>2</sub>); 8.74 (SH); 0.70 (3H-18, s); 0.96 (3H-19, s); 0.88 (3H-21, d, J = 6 Hz); 0.85 (3H-26, d, J = 2 Hz ); 0.86 (3H-27, d, J = 2 Hz ); 0.87 (3H-28, s); 1.20 (3H-29, d, J = 6 Hz ).</p>
+      <p><sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>) d (ppm): 36.50 (C-1); 37.35 (C-2); 159.35 (C-3) ; 50.58 (C-4); 49.98 (C-5); 21.75 (C-6); 28.12 (C-7); 132.35 (C-8); 135.73 (C-9); 36.36 (C-10); 21.55 (C-11); 25.45 (C-12); 44.54 (C-13); 49.75 (C-14); 30.86 (C-15); 29.81 (C-16); 46.10 (C-17); 15.82 (C-18); 18.15 (C-19); 36.14 (C-20); 18.65 (C-21); 36.56 (C-22); 24.35 (C-23); 32.41 (C-24); 34.58 (C-25); 21.72 (C-26); 21.92 (C-27); 24.22 (C-28); 12.25 (C-29); 106.12 (C-30); 179.18 (C=S).</p>
+      <p>MS (m/z): 485 (20%), 395 (42%), 282 (65%).</p>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2006-M504">
+      <title>Supplementary Materials</title>
+    <supplementary-material id="molbank-2006-M504-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M504-s001.mod.mol">
+	<label>Supplementary File 1</label>
+	</supplementary-material>
+	<supplementary-material id="molbank-2006-M504-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M504-s001.mol">
+	<label>Supplementary File 2</label>
+	</supplementary-material>
+   </app>
+    </app-group>
+	<ack>
+      <title>Acknowledgments</title>
+      <p>We would like to thank Pr. A. Idmessaaoud for helpful discussions.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M504">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benharref</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lavergne</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <source>Bull. Soc. Chim. Fr.</source>
+          <year>1985</year>
+          <fpage>965</fpage>
+          <lpage>972</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2006-M504">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beatriz</surname>
+              <given-names>N.B.</given-names>
+            </name>
+			<etal/>
+          </person-group>
+          <source>Arkivok.</source>
+          <year>2002</year>
+          <fpage>14</fpage>
+          <lpage>23</lpage>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2006-M504">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ourhriss</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Giorgi</surname>
+              <given-names>M.</given-names>
+            </name>
+			<name>
+              <surname>Mazoir</surname>
+              <given-names>N.</given-names>
+            </name>
+			<name>
+              <surname>Benharref</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <source>Acta Cryst.</source>
+          <year>2005</year>
+          <volume>C61</volume>
+          <fpage>o699</fpage>
+          <lpage>o701</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

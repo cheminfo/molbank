@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M704</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M704</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1,1&#x2019;,1&#x2019;&#x2019;,1&#x2019;&#x2019;&#x2019;-[Porphyrin-5,10,15,20-tetrayltetrakis(3,1-phenylenemethylene)]tetraquinolinium Tetrabromide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ishikawa</surname>
+            <given-names>Yoshinobu</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M704" ref-type="aff">1</xref>
+          <xref rid="af2-molbank-2010-M704" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2010-M704" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yamashita</surname>
+            <given-names>Takeshi</given-names>
+          </name>
+          <xref rid="af2-molbank-2010-M704" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fujii</surname>
+            <given-names>Satoshi</given-names>
+          </name>
+          <xref rid="af1-molbank-2010-M704" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uno</surname>
+            <given-names>Tadayuki</given-names>
+          </name>
+          <xref rid="af3-molbank-2010-M704" ref-type="aff">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M704"><label>1</label>School of Pharmaceutical Sciences, University of Shizuoka, 52-1 Yada, Suruga-ku, Shizuoka 422-8526, Japan</aff>
+      <aff id="af2-molbank-2010-M704"><label>2</label>Graduate School of Pharmaceutical Sciences, Kumamoto University, 5-1 Oe-honmachi, Kumamoto 862-0973, Japan</aff>
+      <aff id="af3-molbank-2010-M704"><label>3</label>Graduate School of Pharmaceutical Sciences, Osaka University, 1-6 Yamadaoka, Suita, Osaka 565-0871, Japan</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M704"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>ishi206@u-shizuoka-ken.ac.jp</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>11</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>4</issue>
+      <elocation-id>M704</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Cationic porphyrins interact strongly with guanine quadruplex DNA (G-quadruplex). We herein report the preparation of a cationic porphyrin bearing quinolinium side arms, 1,1&#x2019;,1&#x2019;&#x2019;,1&#x2019;&#x2019;&#x2019;-[porphyrin-5,10,15,20-tetrayltetrakis(3,1-phenylenemethylene)]tetraquinolinium tetrabromide (<bold><italic>m</italic>Qu</bold>), as a potential G-quadruplex ligand.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>porphyrin</kwd>
+        <kwd>quinoline</kwd>
+        <kwd>quadruplex</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Guanine quadruplex DNA (G-quadruplex) of a single-stranded overhang at the end of chromosomes is an attractive drug target for cancer treatment, because macrocyclic compounds like cationic tetra-(<italic>N</italic>-methyl-4-pyridyl)porphyrin (<bold>TMPyP4</bold>) stabilize G-quadruplex structures, and thus show anti-telomerase and anti-cancer activity [<xref ref-type="bibr" rid="B1-molbank-2010-M704">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M704">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M704">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M704">4</xref>]. We previously synthesized G-quadruplex-interacting porphyrins with cationic side arms at <italic>para</italic>- or <italic>meta</italic>-position of all phenyl groups of tetratolyl porphyrin [<xref ref-type="bibr" rid="B5-molbank-2010-M704">5</xref>]. These porphyrins were found to stabilize an anti-parallel G-quadruplex more greatly than <bold>TMPyP4</bold>. Among those cationic porphyrins, 1,1&#x2019;,1&#x2019;&#x2019;,1&#x2019;&#x2019;&#x2019;-[porphyrin-5,10,15,20-tetrayltetrakis(3,1-phenylenemethylene)]tetrapyridinium tetrabromide (<bold><italic>m</italic>Py</bold>) exhibited the highest ability to stabilize the G-quadruplex. Cationic porphyrins with more hydrophobic side arms could stabilize the G-quadruplex more greatly, because hydrophobic interaction is entropically favorable in water, which determines the Gibbs energy of binding (<italic>i.e</italic>., binding affinity). Thus, we herein report the preparation of a cationic porphyrin bearing quinolinium side arms, 1,1&#x2019;,1&#x2019;&#x2019;,1&#x2019;&#x2019;&#x2019;-[porphyrin-5,10,15,20-tetrayltetrakis(3,1-phenylenemethylene)]tetraquinolinium tetrabromide (<bold><italic>m</italic>Qu</bold>), as a potential G-quadruplex ligand.</p>
+	  <fig id="molbank-2010-M704-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M704-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Preparation of <bold><italic>m</italic>Qu</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M704-sch001.tif"/>
+      </fig>
+      <p>The title compound was prepared successfully by the reaction of <bold><italic>m</italic>Br</bold> with an excess of quinoline. The <sup>1</sup>H-NMR, ESI-MS and elemental analyses gave satisfactory results.</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p><sup>1</sup>H-NMR spectra were recorded on a JEOL GX-400 spectrometer. Electrospray-ionization time-of-flight (ESI-TOF) mass spectrum was recorded on a Micromass LCT Premier&#x2122;. Elemental analysis was performed at the Analytical Center, Kumamoto University. The starting material <bold><italic>m</italic>Br</bold> was synthesized according to a previously published method [<xref ref-type="bibr" rid="B6-molbank-2010-M704">6</xref>].</p>
+      <sec>
+        <title>1,1&#x2019;,1&#x2019;&#x2019;,1&#x2019;&#x2019;&#x2019;-[Porphyrin-5,10,15,20-tetrayltetrakis(3,1-phenylenemethylene)]tetraquinolinium tetrabromide (<bold>mQu</bold>)</title>
+        <p>A solution of <bold><italic>m</italic>Br</bold> (42 mg, 0.043 mmol) in quinoline (5 mL) was refluxed for 1 h with stirring. After cooling to room temperature, the purple solids were collected and dried <italic>in vacuo</italic> (yield: 87%). <sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>): 6.78 (s, 8H, -CH<sub>2</sub>-), 7.87&#x2013;8.03 (m, 8H, phenyl H-5 and H-6), 8.18 (t, <italic>J</italic> = 6.2 Hz, 4H, quinoline H-6), 8.21 (d, <italic>J</italic> = 6.4 Hz, 4H, phenyl H-4), 8.29 (m, 8H, pyridyl H-3 and H-5), 8.33 (s, 4H, phenyl H-2), 8.33 (m, 4H, quinoline H-3), 8.44 (t, <italic>J</italic> = 6.2 Hz, 4H, quinoline H-7), 8.65 (d, <italic>J</italic> = 7.0 Hz, 4H, quinoline H-5), 8.70 (s, 4H, &#x3B2;-pyrrolic H), 8.76 (s, 4H, &#x3B2;-pyrrolic H), 8.87 (d, <italic>J</italic> = 6.2 Hz, 4H, quinoline H-8), 9.52 (m, 4H, quinoline H-4) , 10.05 (m, 4H, quinoline H-2). ESI-TOF MS (<italic>m/z</italic>): Calcd for C<sub>84</sub>H<sub>62</sub>N<sub>8</sub>, 295.63 [M]<sup>+4</sup>. Found: 295.61. Elemental analysis: Calcd. for C<sub>84</sub>H<sub>62</sub>N<sub>8</sub>Br<sub>4</sub>  4 H<sub>2</sub>O C<sub>7</sub>H<sub>7</sub>N: C, 65.54; H, 4.55; N, 7.40. Found: C, 65.58; H, 4.44; N, 7.23. UV-vis [<italic>&#x3BB;</italic>, nm (<italic>&#x3B5;</italic>, cm<sup>&#x2013;1</sup>M<sup>&#x2013;1</sup>); DMSO]: 422 (1.72 &#xD7; 10<sup>5</sup>), 515 (2.36 &#xD7; 10<sup>4</sup>), 550 (1.17 &#xD7; 10<sup>4</sup>), 590 (1.72 &#xD7; 10<sup>3</sup>), 646 (6.46 &#xD7; 10<sup>3</sup>).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+<app-group>
+    <app id="app1-molbank-2010-M704">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M704-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M704-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M704-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M704-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by grants (Nos. 12771437 and 14771311 to Y.I.) for Science Research from Japan Society for Promotion of Science.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M704">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>F.X.G.</given-names>
+            </name>
+            <name>
+              <surname>Wheelhouse</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Hurley</surname>
+              <given-names>L.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Interactions of TMPyP4 and TMPyP2 with quadruplex DNA. Structural basis for the differential effects on telomerase inhibition</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1999</year>
+          <volume>121</volume>
+          <fpage>3561</fpage>
+          <lpage>3570</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja984153m</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M704">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Izbicka</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Wheelhouse</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Raymond</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Davidson</surname>
+              <given-names>K.K.</given-names>
+            </name>
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>D.Y.</given-names>
+            </name>
+            <name>
+              <surname>Windle</surname>
+              <given-names>B.E.</given-names>
+            </name>
+            <name>
+              <surname>Hurley</surname>
+              <given-names>L.H.</given-names>
+            </name>
+            <name>
+              <surname>Von Hoff</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of cationic porphyrins as G-quadruplex interactive agents in human tumor cells</article-title>
+          <source>Cancer Res.</source>
+          <year>1999</year>
+          <volume>59</volume>
+          <fpage>639</fpage>
+          <lpage>644</lpage>
+          <pub-id pub-id-type="pmid">9973212</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M704">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Cian</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cristofari</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Reichenbach</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>De Lemos</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Monchaud</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Teulade-Fichou</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Shin-Ya</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Lacroix</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Lingner</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mergny</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reevaluation of telomerase inhibition by quadruplex ligands and their mechanisms of action</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2007</year>
+          <volume>104</volume>
+          <fpage>17347</fpage>
+          <lpage>17352</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0707365104</pub-id>
+          <pub-id pub-id-type="pmid">17954919</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M704">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mikami-Terao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Akiyama</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yuza</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yanagisawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Kawano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Agawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ida</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antitumor activity of TMPyP4 interacting G-quadruplex in retinoblastoma cell lines</article-title>
+          <source>Exp. Eye. Res.</source>
+          <year>2009</year>
+          <volume>89</volume>
+          <fpage>200</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.exer.2009.03.008</pub-id>
+          <pub-id pub-id-type="pmid">19328784</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M704">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Uno</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stabilization of guanine quadruplex DNA by the binding of porphyrins with cationic side arms</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2005</year>
+          <volume>13</volume>
+          <fpage>2423</fpage>
+          <lpage>2430</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2005.01.041</pub-id>
+          <pub-id pub-id-type="pmid">15755644</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M704">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bookser</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Bruice</surname>
+              <given-names>T.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Syntheses of quadruply two- and three-atom, aza-bridged, cofacial bis(5,10,15,20-tetraphenylporphyrins)</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1991</year>
+          <volume>113</volume>
+          <fpage>4208</fpage>
+          <lpage>4218</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00011a024</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

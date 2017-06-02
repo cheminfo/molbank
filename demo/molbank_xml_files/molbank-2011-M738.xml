@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M738</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M738</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-{[(4-Methylphenyl)imino]methyl}-3-hydroxyphenyl 4-(Hexadecanoyloxy)benzoate</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ha</surname>
+            <given-names>Sie-Tiong</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M738" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2011-M738" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yeap</surname>
+            <given-names>Guan-Yeow</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M738" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Boey</surname>
+            <given-names>Peng-Lim</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M738" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M738"><label>1</label>Department of Chemical Science, Faculty of Science, Universiti Tunku Abdul Rahman, Jln Universiti, Bandar Barat, 31900 Kampar, Perak, Malaysia</aff>
+      <aff id="af2-molbank-2011-M738"><label>2</label>Liquid Crystal Research Laboratory, School of Chemical Sciences, Universiti Sains Malaysia, 11800 Minden, Penang, Malaysia</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M738"><label>*</label> Author to whom correspondence should be addressed; E-Mails: <email>hast_utar@yahoo.com</email> or <email>hast@utar.edu.my</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>09</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M738</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>07</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>09</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A new Schiff base, 4-{[(4-methylphenyl)imino]methyl}-3-hydroxyphenyl 4-(hexadecanoyloxy)benzoate was synthesized and its IR, <sup>1</sup>H NMR, <sup>13</sup>C NMR and MS spectroscopic data are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Schiff base</kwd>
+        <kwd>liquid crystal</kwd>
+        <kwd>4-{[(4-methylphenyl)imino]methyl}-3-hydroxyphenyl 4-(hexadecanoyloxy)benzoate</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p><italic>N</italic>-Benzylideneaniline Schiff bases have received a considerable amount of attention from many researchers owing to their importance in exhibiting thermochromism and photochromism [<xref ref-type="bibr" rid="B1-molbank-2011-M738">1</xref>]. A lot of efforts have been made in order to generate their derivatives by introducing different substituents into the existing skeleton of the molecule The presence of alkyl chain at the <italic>para</italic> position of <italic>N</italic>-benzylideneanilines has also been identified as one of the important requirements which favours the existence of liquid crystal phases [<xref ref-type="bibr" rid="B2-molbank-2011-M738">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M738">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M738">4</xref>]. Different alkyl chain length and terminal substituent can significantly influence the anisotropic properties of liquid crystals [<xref ref-type="bibr" rid="B2-molbank-2011-M738">2</xref>]. Thus, we report here another new derivative containing an hexadecanoyloxy chain, 4-{[(4-methylphenyl)imino]methyl}-3-hydroxyphenyl 4-(hexadecanoyloxy)benzoate.</p>
+	  <sec>
+      <title>Experimental</title>
+      <p>4-(4-<italic>n</italic>-Hexadecanoyloxybenzoyloxy)-2-hydroxybenzaldehye was prepared according to the method described in our previous work [<xref ref-type="bibr" rid="B5-molbank-2011-M738">5</xref>]. In a round-bottom flask, a mixture of the aldehyde (2.48 g, 5.0 mmol), 4-methylaniline (0.54 g, 5.0 mmol) and absolute ethanol (40 mL) was refluxed with stirring for 3 h. The reaction mixture was filtered and the solvent was removed from the filtrate by evaporation. Recrystallization from absolute ethanol gave the title compound as a yellow solid (2.20 g, 75%).</p>
+      <p>Melting point: 204&#x2013;206 &#xB0;C. </p>
+      <p>MS (EI): <italic>m/z</italic> (rel. int. %) = 586 (1) (M<sup>+</sup>).</p>
+      <p>IR (KBr): &#x3BD;<sub>max</sub>/ cm<sup>&#x2212;1</sup> 2952, 2916, 2848 (C-H aliphatic), 1752 (C=O of C<sub>15</sub>H<sub>31</sub>COO- fragment), 1743 (C=O of benzoate), 1624 (C=N), 1605 (C=C aromatic), 1284 (C-O).</p>
+      <p><sup>1</sup>H NMR (400 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 0.88 (t, 3H, <italic>J</italic> = 6.4 Hz, C<underline>H</underline><sub>3</sub>-), 1.24&#x2013;1.47 (m, 24H, CH<sub>3</sub>-(C<underline>H</underline><sub>2</sub>)<sub>12</sub>-), 1.77 (quint, 2H, <italic>J</italic> = 7.3 Hz, -C<underline>H</underline><sub>2</sub>-CH<sub>2</sub>COO-), 2.38 (s, 1H, Ar-CH<sub>3</sub>), 2.60 (t, 2H, <italic>J</italic> = 7.5 Hz, -C<underline>H</underline><sub>2</sub>-COO-), 6.81 (dd, 1H, <italic>J</italic> = 2.2, 8.4 Hz, Ar-H), 6.89 (d, 1H, <italic>J</italic> = 2.1 Hz, Ar-H), 7.21&#x2013;7.26 (m, 6H, Ar-H), 7.42 (d, 1H, <italic>J</italic> = 8.5 Hz, Ar-H), 8.23 (d, 2H, <italic>J</italic> = 8.8 Hz, Ar-H), 8.63 (s, 1H, CH=N), 13.77 (s, 1H, OH).</p>
+      <p><sup>13</sup>C NMR (100 MHz, CDCl<sub>3</sub>): &#x3B4;/ppm 172.06 (C=O of C<sub>15</sub>H<sub>31</sub><underline>C</underline>OO-), 164.26 (C=O of benzoate), 161.17 (C=N), 163.03, 155.52, 154.77, 145.95, 137.45, 133.44, 132.26, 130.45, 127.07, 122.33, 121.40, 117.81, 113.22 and 110.94 for aromatic carbons, 34.83 (-<underline>C</underline>H<sub>2</sub>COO-), 25.25 (-<underline>C</underline>H<sub>2</sub>CH<sub>2</sub>COO-), 21.47 (Ar-<underline>C</underline>H<sub>3</sub>), 32.34, 30.11, 30.09, 30.06, 30.01, 29.86, 29.77, 29.66, 29.50, 23.11 (CH<sub>3</sub>(<underline>C</underline>H<sub>2</sub>)<sub>12</sub>), 14.53 (<underline>C</underline>H<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>).</p>
+      <p>Elemental analysis: Calculated for C<sub>37</sub>H<sub>47</sub>NO<sub>5</sub>, C 75.86%, H, 8.09%, N, 2.39%; Found: C, 75.88%, H, 8.08%, N, 2.45%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2011-M738">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M738-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M738-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M738-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M738-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank Universiti Tunku Abdul Rahman (UTAR) and Ministry of Higher Education Malaysia (MOHE) for the financial supports and research facilities.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M738">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hadjoudis</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Vittorakis</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Moustakali-Mavridis</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochromism and thermochromism of schiff bases in the solid state and in rigid glasses</article-title>
+          <source>Tetrahedron</source>
+          <year>1987</year>
+          <volume>43</volume>
+          <fpage>1345</fpage>
+          <lpage>1360</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)90255-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M738">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Sanehisa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Youhei</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, physical and mesomorphic properties of Schiff&#x2019;s base esters containing ortho-, meta- and para-substituents in benzylidene-4&#x2019;-alkanoyloxyanilines</article-title>
+          <source>Liq. Cryst.</source>
+          <year>2006</year>
+          <volume>33</volume>
+          <fpage>205</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1080/02678290500450584</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M738">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J.P.W.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mesogenic Schiff&#x2019;s base ether with dimethylamino end group</article-title>
+          <source>Phase Transitions</source>
+          <year>2009</year>
+          <volume>82</volume>
+          <fpage>387</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1080/01411590902957449</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M738">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>L.K.</given-names>
+            </name>
+            <name>
+              <surname>Ong</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J.P.W.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>T.M.</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and mesomorphic properties of new Schiff base esters with different alkyl chains</article-title>
+          <source>Chin. Chem. Lett.</source>
+          <year>2009</year>
+          <volume>20</volume>
+          <fpage>767</fpage>
+          <lpage>770</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cclet.2009.01.011</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M738">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeap</surname>
+              <given-names>G.Y.</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>S.T.</given-names>
+            </name>
+            <name>
+              <surname>Boey</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Mahmood</surname>
+              <given-names>W.A.K.</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Youhei</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of some new mesogenic Schiff base esters <italic>N</italic>-[4-(4-<italic>n</italic>-hexadecanoyloxybenzoyloxy)benzylidene]-4-substituted anilines</article-title>
+          <source>Mol. Cryst. Liq. Cryst.</source>
+          <year>2006</year>
+          <volume>452</volume>
+          <fpage>73</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1080/15421400500382156</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2011-M738-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M738-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of4-{[(4-methylphenyl)imino]methyl}-3-hydroxyphenyl 4-(hexadecanoyloxy)benzoate.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M738-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

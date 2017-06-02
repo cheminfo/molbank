@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M708</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M708</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>(<italic>E</italic>)-1-(2-Hydroxy-4,6-dimethoxyphenyl)-3-[4-methoxy-3-(3-methylbut-2-en-1-yl)phenyl]prop-2-en-1-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Adib</surname>
+            <given-names>Adiana Mohamed</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M708">Medicinal Plants Division, Forest Research Institute Malaysia (FRIM), 52109 Kepong, Selangor, Malaysia; E-Mail: <email>adiana@frim.gov.my</email>; Tel.: +603-62797366; Fax: +603-62729805</aff>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>11</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>4</issue>
+      <elocation-id>M708</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>10</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>11</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the author; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>A novel prenylated chalcone, (<italic>E</italic>)-1-(2-hydroxy-4,6-dimethoxyphenyl)-3-[4-methoxy-3-(3-methylbut-2-en-1-yl)phenyl]prop-2-en-1-one was synthesized and the structure of the title compound was established by <sup>1</sup>H and <sup>13</sup>C nuclear magnetic resonance (NMR), mass spectrometry (MS) and Fourier transform infrared (FT-IR) spectroscopy.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>chalcone</kwd>
+        <kwd>Claisen-Schmidt condensation</kwd>
+        <kwd>prenyl</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M708" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Prenylated chalcones are associated with a variety of biological activities such as anti-malarial [<xref ref-type="bibr" rid="B1-molbank-2010-M708">1</xref>], antidiabetic [<xref ref-type="bibr" rid="B2-molbank-2010-M708">2</xref>], antifungal [<xref ref-type="bibr" rid="B3-molbank-2010-M708">3</xref>], antibacterial [<xref ref-type="bibr" rid="B4-molbank-2010-M708">4</xref>], antitumor [<xref ref-type="bibr" rid="B5-molbank-2010-M708">5</xref>], antioxidative [<xref ref-type="bibr" rid="B6-molbank-2010-M708">6</xref>] and anti-inflammatory [<xref ref-type="bibr" rid="B7-molbank-2010-M708">7</xref>] activities. Most of the above activities are influenced by the substitution of the flavonoid ring system with prenyl groups which increases the lipophilicity and confers the molecule a strong affinity to biological membranes [<xref ref-type="bibr" rid="B8-molbank-2010-M708">8</xref>]. These findings have prompted interest in the synthesis of naturally and non-naturally occurring prenylated flavonoids. </p>
+      <p>As part of our ongoing program on the studies of prenylated flavanoids [<xref ref-type="bibr" rid="B9-molbank-2010-M708">9</xref>], we report herein a facile synthetic approach in the synthesis of (<italic>E</italic>)-1-(2-hydroxy-4,6-dimethoxyphenyl)-3-[4-methoxy-3-(3-methylbut-2-en-1-yl)phenyl]prop-2-en-1-one <bold>(1)</bold>. This prenylated chalcone is synthetically new and has not yet been isolated or reported elsewhere. 
+	  <disp-formula>
+     <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M708-i001.tif"/>
+    </disp-formula></p>
+    </sec>
+    <sec id="sec2-molbank-2010-M708">
+      <title>2. Synthesis </title>
+      <p>The starting material, 4-methoxy-3-(3-methylbut-2-enyl)benzaldehyde <bold>(2),</bold> was prepared according to the reported method [<xref ref-type="bibr" rid="B10-molbank-2010-M708">10</xref>]. Claisen-Schmidt condensation reaction of 4-methoxy-3-(3-methylbut-2-enyl)benzaldehyde <bold>(2)</bold> with compound <bold>(3)</bold> in aqueous/ethanolic solution by the action of potassium hydroxide-water-ethanolic [<xref ref-type="bibr" rid="B11-molbank-2010-M708">11</xref>] gave the desired chalcone in good yield (52.2%) with a melting point of 120&#x2013;122 &#xB0;C as a yellow crystalline solid. The structure of the compound was confirmed by IR, NMR (<sup>1</sup>H and <sup>13</sup>C) and MS.</p>
+    </sec>
+    <sec id="sec3-molbank-2010-M708" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>Melting points were recorded on a Leica Galen III Kofler micro melting point apparatus and are uncorrected. Infrared (IR) spectra were recorded on a Perkin-Elmer series 1600 spectrometer as thin film (NaCl windows) for liquid samples or KBr pellet for solid samples. Mass spectral data were recorded on a Thermo Scientific LTQ Orbitrap Discovery LCMS. The <sup>1</sup>H and <sup>13</sup>C NMR spectra (300 and 75 MHz, respectively) were recorded on a Bruker Avance 300 spectrometer using CDCl<sub>3</sub> and acetone-<italic>d<sub>6</sub></italic> as solvent. Reactions were monitored by thin-layer chromatography (TLC) carried out on 0.2 mm Merck pre-coated silica gel plates (60 F<sub>254</sub>). </p>
+      <sec id="sec3dot1-molbank-2010-M708">
+        <title>3.1. (E)-1-(2-Hydroxy-4,6-dimethoxyphenyl)-3-[4-methoxy-3-(3-methylbut-2-en-1-yl)phenyl]prop-2-en-1-one <italic><bold>(1)</bold></italic></title>
+        <p>To a solution of 2-hydroxy-4,6-dimethoxyacetophenone <bold>(3)</bold> (100 mg, 0.39 mmol) and 4-methoxy-3-(3-methylbut-2-enyl)benzaldehyde <bold>(2)</bold> (100 mg, 0.43 mmol) in ethanol (10 mL) was added a 50% v/v aq. solution of KOH (0.8 mL). The mixture was then stirred at rt for 48 h. The mixture was poured into ice-water, acidified to pH ~5 with HCl (10%) (5 mL), and extracted with dichloromethane. The organic layer was washed with water and brine, dried over anhydrous MgSO<sub>4</sub>, and evaporated under reduced pressure. The residual orange syrup was chromatographed on a silica gel column (PE:EtOAc, 9:1) to afford the title compound <bold>(1)</bold> (195 mg, 52.2%) as a yellow crystalline solid; <italic>R<sub>f</sub></italic> 0.52 (PE:EtOAc, 4:1). </p>
+        <p>m.p. 120&#x2013;122 &#xB0;C</p>
+        <p>IR &#x3BD;<sub>max</sub> (KBr) cm<sup>&#x2212;1</sup>: 1619 (C=O), 1581 &amp; 1440 (C=C aromatic), 1158 (C-O)</p>
+        <p><sup>1</sup>H NMR (acetone-<italic>d</italic><sub>6</sub>) &#x3B4;<sub>H</sub> ppm: 1.76 (3H, s, H-4''), 1.77 (3H, s, H-5''), 3.35 (2H, d, <italic>J</italic> = 7.5 Hz, H-1''), 3.88 (3H, s, OCH<sub>3</sub>), 3.92 (3H, s, OCH<sub>3</sub>), 4.0 (3H, s, OCH<sub>3</sub>), 5.36 (1H, m, H-2&#x2033;), 6.10 (1H, d, <italic>J</italic> = 2.4 Hz, H-3'), 6.13 (1H, d, <italic>J</italic> = 2.4 Hz, H-5'), 7.04 (1H, d, <italic>J</italic> = 8.4 Hz, H-5), 7.55&#x2013;7.58 (2H, m, with unresolved couplings due to overlapping, H-2 and H-6), 7.77 (1H, d, <italic>J</italic> = 15.6 Hz, H-&#x3B1;), 7.91 (1H, d, <italic>J</italic> = 15.6 Hz, H-&#x3B2;), 14.40 (1H, s, OH)</p>
+        <p><sup>13</sup>C NMR (acetone-<italic>d</italic><sub>6</sub>) &#x3B4;<sub>C</sub> ppm: 17.33 (C-5'', CH<sub>3</sub>), 25.46 (C-4'', CH<sub>3</sub>), 28.5 (C-1'', CH<sub>2</sub>), 55.51 (OCH<sub>3</sub>), 55.57 (OCH<sub>3</sub>), 55.97 (OCH<sub>3</sub>), 90.51 (C-1', C-4&#xB0;), 91.31 (C-5', C-H), 94.13 (C-3', C-H), 111.03 (C-5, C-H), 122.43 (C-2'', C-H), 125.07 (C-&#x3B1;, C-H), 128.12 (C-3, C-4&#xB0;), 129.06 (C-6, C-H), 129.27 (C-2, C-H), 130.79 (C-1, C-4&#xB0;), 132. 83 (C-3'', C-4&#xB0;), 143.21 (C-&#x3B2;, C-H), 159.91 (C-2', C-4&#xB0;), 163.14 (C-4, C-4&#xB0;), 166. 80 (C-6', C-4&#xB0;), 168.66 (C-4', C-4&#xB0;), 192.78 (C=O, C-4&#xB0;) </p>
+        <p>ESI-FTMS: <italic>m/z</italic> 383.25687 [M+H]<sup>+</sup>, C<sub>23</sub>H<sub>27</sub>O<sub>5</sub> requires 383.18585</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2010-M708">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M708-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M708-s001-mod.mol">
+     <label>Supplementary File 1</label>
+  </supplementary-material>
+        <supplementary-material id="molbank-2010-M708-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M708-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author wishes to thank the Malaysian Government for funding this project under FRIM Research Grant.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M708">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Narender</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Shweta</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tanvir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Puri</surname>
+              <given-names>S.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prenylated chalcones isolated from <italic>Crotalaria genus</italic> inhibits <italic>in vitro</italic> growth of the human malaria parasite <italic>Plasmodium falciparum</italic></article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>2453</fpage>
+          <lpage>2455</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2005.03.081</pub-id>
+          <pub-id pub-id-type="pmid">15929201</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M708">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Enoki</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ohnogi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Nagamine</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kudo</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sugiyama</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tanabe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Sagawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antidiabetic Activities of Chalcones Isolated from a Japanese Herb</article-title>
+          <source>Angelica keiskei. J. Agric. Food Chem.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>6013</fpage>
+          <lpage>6017</lpage>
+          <pub-id pub-id-type="doi">10.1021/jf070720q</pub-id>
+          <pub-id pub-id-type="pmid">17583349</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M708">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jayasinghe</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Balasooriya</surname>
+              <given-names>B.A.I.S.</given-names>
+            </name>
+            <name>
+              <surname>Padmini</surname>
+              <given-names>W.C.</given-names>
+            </name>
+            <name>
+              <surname>Hara</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Fujimoto</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Geranyl chalcone derivatives with antifungal and radical scavenging properties from the leaves of <italic>Artocarpus nobilis</italic></article-title>
+          <source>Phytochemistry</source>
+          <year>2004</year>
+          <volume>65</volume>
+          <fpage>1287</fpage>
+          <lpage>1290</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.phytochem.2004.03.033</pub-id>
+          <pub-id pub-id-type="pmid">15184014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M708">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>C.Q.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Yue</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibacterial prenylflavone derivatives from Psoralea corylifolia, and their structure-activity relationship study</article-title>
+          <source>Bioorg. Med. Chem. Lett.</source>
+          <year>2004</year>
+          <volume>12</volume>
+          <fpage>4387</fpage>
+          <lpage>4392</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2004.06.014</pub-id>
+          <pub-id pub-id-type="pmid">15265490</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M708">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tabata</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Motani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Takayanagi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Nishimura</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Asami</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kimura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Ukiya</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hasegawa</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Akihisa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Xanthoangelol, a Major Chalcone Constituent of <italic>Angelica keiskei</italic>, Induces Apoptosis in Neuroblastoma and Leukemia Cells</article-title>
+          <source>Biol. Pharm. Bull.</source>
+          <year>2005</year>
+          <volume>28</volume>
+          <fpage>1404</fpage>
+          <lpage>1407</lpage>
+          <pub-id pub-id-type="doi">10.1248/bpb.28.1404</pub-id>
+          <pub-id pub-id-type="pmid">16079483</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M708">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haraguchi</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Mizutani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Tamura</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kinoshita</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidative and superoxide scavenging activities of retrochalcones in <italic>Glycyrrhiza inflata</italic></article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>1998</year>
+          <volume>6</volume>
+          <fpage>339</fpage>
+          <lpage>347</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0896(97)10034-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M708">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>H.K.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>T.H.</given-names>
+            </name>
+			<name>
+              <surname>Wang</surname>
+              <given-names>J.P.</given-names>
+            </name>
+			<name>
+              <surname>Wang</surname>
+              <given-names>J.J.</given-names>
+            </name>
+			<name>
+              <surname>Lin</surname>
+              <given-names>C.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Anti-inflammatory Effect of Chalcones and Related Compounds</article-title>
+          <source>Pharm. Res.</source>
+          <year>1998</year>
+          <volume>15</volume>
+          <fpage>39</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1011940401754</pub-id>
+          <pub-id pub-id-type="pmid">9487544</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M708">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barron</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Balland</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Possety</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ravanel</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Desfougeres</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Flavono&#xEF;des pr&#xE9;nyl&#xE9;s et perm&#xE9;abilit&#xE9; membranaire</article-title>
+          <source>Acta Bot. Gall.</source>
+          <year>1996</year>
+          <volume>143</volume>
+          <fpage>509</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="doi">10.1080/12538078.1996.10515348</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M708">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adib</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Idris</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Antimicrobial Activity of 4&#x2019;,5,7-Trihydroxy-3&#x2019;-prenylflavanone</article-title>
+          <source>J. Chem. Sci.</source>
+          <year>2008</year>
+          <volume>120</volume>
+          <fpage>469</fpage>
+          <lpage>473</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12039-008-0073-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2010-M708">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rao</surname>
+              <given-names>G.V.</given-names>
+            </name>
+            <name>
+              <surname>Swamy</surname>
+              <given-names>B.N.</given-names>
+            </name>
+			<name>
+              <surname>Chandregowda</surname>
+              <given-names>V.</given-names>
+            </name>
+			<name>
+              <surname>Reddy</surname>
+              <given-names>G.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of (&#xB1;) Abyssinone I and related compounds: Their anti-oxidant and cytotoxic activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>2239</fpage>
+          <lpage>2245</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.05.032</pub-id>
+          <pub-id pub-id-type="pmid">18603336</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M708">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reddy</surname>
+              <given-names>N.P.</given-names>
+            </name>
+            <name>
+              <surname>Aparoy</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>C.M.</given-names>
+            </name>
+            <name>
+              <surname>Achari</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sridhar</surname>
+              <given-names>P.R.</given-names>
+            </name>
+            <name>
+              <surname>Reddanna</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, synthesis and biological evaluation of prenylated chalcones as 5-LOX inhibitors</article-title>
+          <source>Biorg. Med. Chem.</source>
+          <year>2010</year>
+          <volume>18</volume>
+          <fpage>5807</fpage>
+          <lpage>5815</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2010.06.107</pub-id>
+          <pub-id pub-id-type="pmid">20667741</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

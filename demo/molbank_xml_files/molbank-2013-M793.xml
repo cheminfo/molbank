@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M793</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2013-M793</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Benzyl 3-deoxy-3-(3,4,5-trimethoxybenzylamino)-&#x3B2;-<sc>l</sc>-xylopyranoside</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lugemwa</surname>
+            <given-names>Fulgentius Nelson</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2013-M793">Department of Chemistry, Pennsylvania State University-York, 1031 Edgecomb Avenue, York, PA 17403, USA; E-Mail: <email>Ful4@psu.edu</email></aff>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>02</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>2013</volume>
+      <issue>1</issue>
+      <elocation-id>M793</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>01</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>02</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 by the author; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Reaction of 3,4,5-trimethoxybenzylamine and benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside in refluxing ethanol produced benzyl 3-deoxy-3-(3,4,5-trimethoxybenzylamino)-&#x3B2;-<sc>l</sc>-xylopyranoside in 72.5% yield. An attempt to synthesize the title compound by reacting neat 3,4,5-trimethoxybenzylamine with benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside without a solvent produced a dark brown mixture with several decomposition products. The structure of benzyl 3-deoxy-3-(3,4,5-trimethoxybenzylamino)-&#x3B2;-<sc>l</sc>-xylopyranoside was determined using elemental analysis, <sup>1</sup>H-NMR and <sup>13</sup>C-NMR and its conformation is <sup>1</sup><italic>C</italic><sub>4</sub>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>epoxide ring-opening</kwd>
+        <kwd>3,4,5-trimethoxybenzylamine</kwd>
+        <kwd>benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+     <p>The readily available carbohydrates and their numerous, easily obtained derivatives are an unequaled source of enantiomerically pure starting materials for construction of complex asymmetric structures. But despite the greater awareness of carbohydrate synthons in recent years, the full potential of the carbohydrate chiral pool is still not fully exploited. A few simple carbohydrate analogs have been found to modulate biosynthesis of polysaccharides in live cells [<xref ref-type="bibr" rid="B1-molbank-2013-M793">1</xref>]. Specifically in those studies, benzyl 3-<italic>O</italic>-methyl-&#x3B2;-<sc>d</sc>-xylopyranoside and benzyl 3-deoxy-&#x3B2;-<sc>d</sc>-<italic>erythro</italic>-pentopyranoside were used to determine structural requirements for an enzyme involved in the biosynthesis of glycosaminoglycans. A comprehensive literature review revealed that the 3,4,5-trimethoxyphenyl moiety exists in a variety of bioactive compounds, including those with anticancer activity [<xref ref-type="bibr" rid="B2-molbank-2013-M793">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2013-M793">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2013-M793">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2013-M793">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2013-M793">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2013-M793">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2013-M793">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2013-M793">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2013-M793">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2013-M793">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2013-M793">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2013-M793">13</xref>]. We took advantage of the facile and predictable ring opening of benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside with different nucleophiles to introduce 3,4,5-trimethoxyphenyl moiety at the sugar&#x2019;s 3-position by reacting it with 3,4,5-trimethoxybenzylamine [<xref ref-type="bibr" rid="B14-molbank-2013-M793">14</xref>]. This led to the synthesis and structure determination of benzyl 3-deoxy-3-(3,4,5-trimethoxybenzylamino)-&#x3B2;-<sc>l</sc>-xylopyranoside <bold>3</bold>.</p>
+    <sec sec-type="results">
+      <title>Results and Discussion</title>
+      <p>Attempted synthesis of the title compound by heating a mixture of benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside and neat 3,4,5-trimethoxybenzylamine did not produce the desired product. The mixture turned brown and gave multiple spots after running thin layer chromatography. When the reaction was carried out in dimethylformamide, a polar aprotic solvent, the yield was low. Ethyl alcohol was found to be the best solvent for the reaction. The title compound was synthesized by opening the epoxide of benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside with 3,4,5-trimethoxybenzylamine (<xref ref-type="scheme" rid="molbank-2013-M793-sch001"><bold>Scheme 1</bold></xref>). The three broad peaks in the <sup>1</sup>H-NMR due to one &#x2013;NH at &#x3B4; 2.20 ppm, and two &#x2013;OH at &#x3B4; 5.00 ppm and 5.26 ppm, disappeared upon D<sub>2</sub>O exchange. The chemical shifts of the sugar hydrogens, along with COSY and HMBC were used to assign C7, C1", C2", C3", C4", C5" and C7&#x2032; atoms. The coupling constant between H-1" and H-2" on the sugar ring was found to be 7.98 Hz, indicating that the protons at the 1- and 2-positions were in axial positions and that the molecule exists in solution in <sup>1</sup><italic>C</italic><sub>4</sub> conformation (<xref ref-type="scheme" rid="molbank-2013-M793-sch001"><bold>Scheme 1</bold></xref>). The coupling constant was similar to related analogs [<xref ref-type="bibr" rid="B14-molbank-2013-M793">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2013-M793">15</xref>]. The coupling constant between H-2&#x201D; and H-3&#x201D; was found to be 9.12 Hz. The coupling constant between the pro-R and pro-S hydrogens on C7 was found to be 12.24 Hz. The <sup>13</sup>C had five pairs of atoms with the same chemical shift. There were three pairs of carbon atoms on the 3,4,5-trimethoxybenzyl ring ( two <italic>ortho</italic>- and two <italic>meta</italic>-, and two equivalent methoxy groups) that had similar chemical shifts. On the benzyl group, chemical shifts of two pairs of carbon atoms (two <italic>ortho</italic>- and two <italic>meta-</italic>) were observed.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <sec>
+        <title>General</title>
+        <p><sup>1</sup>H and <sup>13</sup>C-NMR spectra were obtained using a Varian Gemini 400 NMR and were recorded at 400 MHz and 100 MHz respectively. The composition of the reaction mixtures was monitored by TLC using glass plates coated with silica gel 60F<sub>254</sub> -Analtech, Inc. 75 Blue Hen Drive, Newark, DE, USA; detection was effected by observation under UV light (254 nm), then spraying with 5% sulfuric acid in methanol and charring with heat. Elemental analyses were performed by the Robertson Microlit Laboratories Inc., Legdewood, NJ, USA. Optical rotations were measured using an Autopol IV polarimeter -Rudolf Research Analytical, 55 Newburgh Road, Hackettstown, NJ, USA. Melting points were determined using Mel-Temp Laboratory Devices, MA, USA, and are not corrected. All reagents and chemicals were obtained from Aldrich Chemical Company (Milwaukee, WI, USA) and were used without further purification.</p>
+        <p>Benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside (1) was obtained from <sc>l</sc>-arabinose in five steps using a previously reported synthetic route [<xref ref-type="bibr" rid="B14-molbank-2013-M793">14</xref>]. To a mixture of benzyl 2,3-anhydro-&#x3B2;-<sc>l</sc>-ribopyranoside <bold>1</bold> (0.15 g, 0.68 mmol) and 3,4,5-trimethoxybenzylamine <bold>2</bold> (180 mL, 0.91 mmol) was added ethyl alcohol (3 mL). After refluxing the mixture for 16 h and cooling at room temperature for 12 h, white crystals (needles) formed. Recrystallization from hexane/ethyl acetate mixture (3:2, v/v) produced a pure compound (0.206 g, 72%, m.p. 158&#x2013;160 &#xB0;C); [&#x3B1;]<sub>D</sub><sup>26</sup> +50&#xB0; (<italic>c</italic> 1, CHCl<sub>3</sub>).</p>
+        <array>
+		<tbody>
+		<tr>
+		<td align="left" valign="middle"> </td>
+		<td align="center" valign="middle">C<sub>22</sub>H<sub>29</sub>NO<sub>7</sub></td>
+		</tr>
+		<tr>
+		<td align="left" valign="middle">Calculated:</td>
+		<td align="left" valign="middle">C 62.99; H, 6.97; N, 3.34; O, 26.70</td>
+		</tr>
+		<tr>
+		<td align="left" valign="middle">Found:</td>
+		<td align="left" valign="middle">C 62.89; H, 7.01; N, 3.29; O, 26.65</td>
+		</tr>
+		</tbody>
+		</array>
+        <p><sup>1</sup>H-NMR (400 MHz, Me<sub>2</sub>SO-<italic>d</italic><sub>6</sub>) &#x3B4; 2.20 (bs, 1H, &#x2013;NH), 2.41 (t, <italic>J</italic> = 9.12, 7.98 Hz, 1H, H-3), 3.21 (m, 2H), 3.45 (bs, 1H), 3.65 (s, 3H, &#x2013;OCH<sub>3</sub>), 3.75 (b, 1H), 3.80 (s, 6H, 2-OCH<sub>3</sub>), 3.97 (m, 2H), 4.31 (d, <italic>J</italic> = 7.98 Hz, 1H, H-1), 4.61 (d, <italic>J</italic> = 12.24 Hz, 1H, &#x2013;OCH<sub>2</sub>Ar), 4.80 (d, <italic>J</italic> = 12.24 Hz, 1H, &#x2013;OCH<sub>2</sub>Ar), 5.00 (bs, 1H, &#x2013;OH), 5.26 (bs, 1H, &#x2013;OH).</p>
+        <p><sup>13</sup>C-NMR (100 MHz, Me<sub>2</sub>SO-<italic>d</italic><sub>6</sub>), &#x3B4; 53.22 (C-7&#x2032;), 56.61 (&#x2013;OCH<sub>3</sub>), 60.81 (&#x2013;OCH<sub>3</sub>), 65.11 (C-3&#x2033;), 67.37 (C-5&#x2033;), 70.14 (C-4&#x2033;), 70.41 (C-7), 73.00 (C-2&#x2033;), 103.90 (C-1&#x2033;), 105.80, 128.23, 128.40, 129.00, 136.80, 138.23, 138.93, 153.52.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+     <app-group>
+    <app id="app1-molbank-2013-M793">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2013-M793-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M793-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2013-M793-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M793-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+<ack>
+      <title>Acknowledgements</title>
+      <p>Funds from Pennsylvania State University-York Advisory Board Grant were partly used for this work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2013-M793">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lugemwa</surname>
+              <given-names>F.N.</given-names>
+            </name>
+            <name>
+              <surname>Sarkar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Esko</surname>
+              <given-names>J.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Unusual &#x3B2;-<sc>d</sc>-xylosides that prime glycosaminoglycan in animal cells</article-title>
+          <source>J. Biol. Chem.</source>
+          <year>1996</year>
+          <volume>271</volume>
+          <fpage>19159</fpage>
+          <lpage>19165</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.271.32.19159</pub-id>
+          <pub-id pub-id-type="pmid">8702593</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2013-M793">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>J.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Nien</surname>
+              <given-names>C.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>C.-C.</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>K.-H.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C.-H.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>C.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Liou</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+          </person-group>
+          <article-title>5-Amino-2 aroylquinolines as highly potent tubulin polymerization inhibitor. Part 2. The impact of bridging groups at position C-2</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>8517</fpage>
+          <lpage>8525</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201031f</pub-id>
+          <pub-id pub-id-type="pmid">22060033</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2013-M793">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevenson</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Denny</surname>
+              <given-names>W.A.</given-names>
+            </name>
+            <name>
+              <surname>Tercel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pruijn</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Ashoorzadeh</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitro seco analogues of the duocarmycins containing sulfonate leaving groups as hypoxia-activated prodrugs for cancer therapy</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>2780</fpage>
+          <lpage>2802</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201717y</pub-id>
+          <pub-id pub-id-type="pmid">22339090</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2013-M793">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>W.-W.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of heterocyclic ring-fused betulinic acid derivatives as novel inhibitors of osteoclast differentiation and bone resorption</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>3122</fpage>
+          <lpage>3134</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201540h</pub-id>
+          <pub-id pub-id-type="pmid">22435650</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2013-M793">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bryan</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Whittington</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Doherty</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Falsey</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Chend</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Emkey</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brake</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>R.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid development of piperidone carboxamides as potent and selective anaplastic lymphoma kinase inhibitors</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>1698</fpage>
+          <lpage>1705</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201565s</pub-id>
+          <pub-id pub-id-type="pmid">22263917</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2013-M793">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solinas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Faure</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Roudaut</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Traiffort</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Schoenfelder</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Manetti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Taddei</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ruat</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Acylthiourea, acylurea, and acylguanidine derivatives with potent hedgehog inhibiting activity</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>1559</fpage>
+          <lpage>1571</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm2013369</pub-id>
+          <pub-id pub-id-type="pmid">22268551</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2013-M793">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tripodi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Pagliarin</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Fumagalli</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bigi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Fusi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Orsini</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Frattini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Coccetti</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of 1,4-diaryl-2-azetidinones as specific anticancer Agents: Activation of adenosine monophosphate activated protein kinase and induction of apoptosis</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>2112</fpage>
+          <lpage>2124</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201344a</pub-id>
+          <pub-id pub-id-type="pmid">22329561</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2013-M793">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pellicani</surname>
+              <given-names>R.Z.</given-names>
+            </name>
+            <name>
+              <surname>Stefanachi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Niso</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Carotti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Leonetti</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Nicolotti</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Perrone</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Berardi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Cellamare</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Colabufo</surname>
+              <given-names>N.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Potent galloyl-based selective modulators targeting multidrug resistance associated protein 1 and P-glycoprotein</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2012</year>
+          <volume>55</volume>
+          <fpage>424</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm201305y</pub-id>
+          <pub-id pub-id-type="pmid">22112208</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2013-M793">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Flynn</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Grobelny</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Chaplin</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Leske</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Lavranos</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Chalmers</surname>
+              <given-names>D.K.</given-names>
+            </name>
+            <name>
+              <surname>Charman</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Kostewicz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Discovery of 7-hydroxyl-6-methoxy-2-methyl-3-(3,4,5-trimethoxybenzoyl)benzo[<italic>b</italic>]furan (BNC105), a tubulin polymerization inhibitor with potent antiproliferative and tumor vascular disrupting properties</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>6014</fpage>
+          <lpage>6027</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm200454y</pub-id>
+          <pub-id pub-id-type="pmid">21774499</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2013-M793">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Theeramunkong</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Caldarelli</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Massarotti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Aprile</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Caprioglio</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zaninetti</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Teruggi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pirali</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Grosa</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Tron</surname>
+              <given-names>G.C.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Regioselective Suzuki coupling of dihaloheteroaromatic compounds as a rapid strategy to synthesize potent rigid combretastation analogues</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>4977</fpage>
+          <lpage>4986</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm200555r</pub-id>
+          <pub-id pub-id-type="pmid">21696175</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2013-M793">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Romagnoli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Baraldi</surname>
+              <given-names>P.G.</given-names>
+            </name>
+            <name>
+              <surname>Brancale</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ricci</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hamel</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Bortolozzi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Basso</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Viola</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Convergent synthesis and biological evaluation of 2-amino-4(3&#x2032;,4&#x2032;,5&#x2032;-trimethoxyphenyl)-5-aryl thiazoles as microtubule targeting agents</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>5144</fpage>
+          <lpage>5153</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm200392p</pub-id>
+          <pub-id pub-id-type="pmid">21663319</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2013-M793">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.-M.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mohler</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Dalton</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Design, synthesis, and SAR studies of 4-substituted methoxylbenzoyl-aryl-thiazoles analogues as potent and orally bioavailable anticancer agents</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>4678</fpage>
+          <lpage>4693</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm2003427</pub-id>
+          <pub-id pub-id-type="pmid">21557538</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2013-M793">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Combes</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Barbier</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Douillard</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>McLeer-Florin</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bourgarel-Rey</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Pierson</surname>
+              <given-names>J.-T.</given-names>
+            </name>
+            <name>
+              <surname>Fedorov</surname>
+              <given-names>A.Y.</given-names>
+            </name>
+            <name>
+              <surname>Finet</surname>
+              <given-names>J.-P.</given-names>
+            </name>
+            <name>
+              <surname>Boutonnat</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Peyrot</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of 4-arylcoumarin analogues of combretastatins. Part 2</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2011</year>
+          <volume>54</volume>
+          <fpage>3153</fpage>
+          <lpage>3162</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm901826e</pub-id>
+          <pub-id pub-id-type="pmid">21488686</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2013-M793">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lugemwa</surname>
+              <given-names>F.N.</given-names>
+            </name>
+            <name>
+              <surname>Denison</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3-substituted xylopyranosides from 2,3-anhydropentosides</article-title>
+          <source>J. Carbohydr. Chem.</source>
+          <year>1997</year>
+          <volume>16</volume>
+          <fpage>1433</fpage>
+          <lpage>1441</lpage>
+          <pub-id pub-id-type="doi">10.1080/07328309708005759</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2013-M793">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lugemwa</surname>
+              <given-names>F.N.</given-names>
+            </name>
+            <name>
+              <surname>Denison</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Benzyl 3-deoxy-3-(phenethylamino) &#x3B2;-<sc>l</sc>-xylopyranoside</article-title>
+          <source>Molecules</source>
+          <year>1998</year>
+          <volume>3</volume>
+          <fpage>M76</fpage>
+          <pub-id pub-id-type="doi">10.3390/M76</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2013-M793-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2013-M793-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of benzyl 3-deoxy-3-(3,4,5-trimethoxybenzylamino)-&#x3B2;-<sc>l</sc>-xylopyranoside.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2013-M793-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

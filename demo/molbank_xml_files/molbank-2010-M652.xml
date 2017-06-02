@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>Molecular Diversity Preservation International</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M652</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M652</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>6-Oxo-3-phenyl-5,6-dihydropyridazine-1(4<italic>H</italic>)-carbohydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mishra</surname>
+            <given-names>Ravinesh</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M652" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Siddiqui</surname>
+            <given-names>Anees Ahmad</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Rajiv</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kumar</surname>
+            <given-names>Suresh</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M652">Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Jamia Hamdard (Hamdard University), New Delhi-110062, India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M652"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>ravi_kcp@rediffmail.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>01</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>1</issue>
+      <elocation-id>M652</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>11</month>
+          <year>2009</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>12</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee Molecular Diversity Preservation International, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>We report herein the synthesis of 6-oxo-3-phenyl-5,6-dihydropyridazine-1(4<italic>H</italic>)-carbohydrazide from &#x3B2;-benzoylpropionic acid and carbohydrazide by refluxing in absolute ethanol in presence of sodium acetate. The structure of the newly synthesized compound was established on the basis of IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>pyridazinone</kwd>
+        <kwd>&#x3B2;-benzoylpropionic acid</kwd>
+        <kwd>carbohydrazide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2010-M652" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Pyridazines and their 3-oxo derivatives (<italic>i.e.</italic>, pyridazinones) are important 1,2-diazine-containing heterocyclic compounds having diverse pharmacological activity such as antihypertensive, antidiabetic, anti-inflammatory, antinociceptive and antimicrobial [<xref ref-type="bibr" rid="B1-molbank-2010-M652">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M652">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M652">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M652">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M652">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M652">6</xref>]. One of the general methods for the synthesis of these compounds involves condensation of 3-aroylpropionic or &#x3B2;-acetylacrylic acid with alkyl or arylhydrazines. Keeping in mind the medicinal utility of pyridazinones, we report herein the synthesis of 6-oxo-3-phenyl-5,6-dihydropyridazine-1(4<italic>H</italic>)-carbohydrazide.</p>
+    </sec>
+    <sec id="sec2-molbank-2010-M652" sec-type="results">
+      <title>2. Results and Discussions</title>
+      <p>In the present study, synthesis of 6-oxo-3-phenyl-5,6-dihydropyridazine-1(4<italic>H</italic>)-carbohydrazide <bold>2</bold> is reported from &#x3B2;-benzoylpropionic acid using carbohydrazide as a hydrazine derivative by refluxing in absolute ethanol in presence of anhydrous sodium acetate. The structure of compound <bold>2</bold> was established on the basis of IR, <sup>1</sup>H-NMR, <sup>13</sup>C-NMR and mass spectral data. In the <sup>1</sup>H-NMR spectrum of compound <bold>2</bold>, the peaks due to the &#x2013;CONHNH<sub>2</sub> group were observed as a singlet at 9.78 ppm (CONH) and another signal of NH<sub>2</sub> which overlaps with the multiplet of phenyl protons at 7.27&#x2013;7.92 ppm. The two CH<sub>2</sub> groups of the pyridazinone ring appear as triplet-like signals at 2.35 and 2.87 ppm. Moreover, in the <sup>13</sup>C-NMR spectrum the signals due to the CH<sub>2</sub>CH<sub>2</sub> group of the pyridazinone ring appear at 29.4 and 36.1 ppm, while the peaks due to the carbonyl carbon atoms (C=O) are observed at 169.8 and 178.3 ppm. The MS-(ESI) spectrum of compound <bold>2</bold> exhibits an M+1 peak at m/z = 233. The values are in complete agreement with the structure assigned.</p>
+    </sec>
+    <sec id="sec3-molbank-2010-M652" sec-type="methods">
+      <title>3. Experimental</title>
+      <p>The starting material &#x3B2;-benzoylpropionic acid 1 was synthesized based on a literature method [<xref ref-type="bibr" rid="B7-molbank-2010-M652">7</xref>].</p>
+      <sec id="sec3dot1-molbank-2010-M652" >
+        <title>3.1. 6-Oxo-3-phenyl-5,6-dihydropyridazine-1(4H)-carbohydrazide <italic><bold>2</bold></italic></title>
+      <p>To a solution of &#x3B2;-benzoylpropionic acid (0.01 mol) in absolute ethanol (30 mL) were added carbohydrazide (0.01 mol) and sodium acetate, and the mixture was refluxed for 6 h. After completion of the reaction, ethanol was distilled off and the residue was poured into cold water. The solid which separated was filtered and washed with water. The product was dried in air and crystallized from ethanol. </p>
+      <p>Yield, 85%; mp. 166&#x2013;168 &#xB0;C; white amorphous solid. </p>
+      <p>IR (KBr) cm<sup>-1</sup>: 3409, 3329, 3206, (N-H, str, symm. &amp; asymm.), 3062 (CH), 1714 (C=O, amide I ), 1629 (N-H, amide II), 1536 (C=C), 1078, 1052, 983, 837. </p>
+      <p><sup>1</sup>H-NMR (300 MHz, CDCl<italic><sub>3</sub></italic>): &#x3B4; 2.35 (t, 2H, CH<sub>2</sub>), 2.87 (t, 2H, CH<sub>2</sub>), 7.27&#x2013;7.92 (m, 7H, Ar-H, NH<sub>2</sub>, partially D<sub>2</sub>O-exchangeable), 9.78 (s, 1H, CONH, D<sub>2</sub>O-exchangeable). </p>
+      <p><sup>13</sup>C-NMR (75 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4;; 29.4 (CH<sub>2</sub>), 36.1 (CH<sub>2</sub>), 127.67 (CH), 128.3 (CH), 129.1 (CH), 130.6 (C), 149.2 (C=N), 169.8 (N-CO-N), 178.3 (C-CO-N). </p>
+      <p>Anal. Calcd for C<sub>11</sub>H<sub>12</sub>N<sub>4</sub>O<sub>2</sub>: C, 56.89; H, 5.21; N, 24.12. Found: C, 56.68; H, 5.26; N, 24.31. MS-(ESI); m/z 233 (M+1). </p>
+      </sec>
+	</sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2010-M652">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M652-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M652-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M652-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M652-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2010-M652">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demirayak</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Karaburun</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Beis</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Some pyrrole substituted aryl pyridazinone and phthalazinone derivatives and their antihypertensive activities</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2004</year>
+          <volume>39</volume>
+          <fpage>1089</fpage>
+          <lpage>1095</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2004.09.005</pub-id>
+          <pub-id pub-id-type="pmid">15571871</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M652">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>G&#xF6;k&#xE7;e</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Utku</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;peli</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and analgesic and anti-inflammatory activities 6-substituted-3(2<italic>H</italic>)-pyridazinone-2-acetyl-2-(<italic>p</italic>-substituted/nonsubstitutedbenzal)hydrazine derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>3760</fpage>
+          <lpage>3764</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2009.04.048</pub-id>
+          <pub-id pub-id-type="pmid">19535179</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M652">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rathish</surname>
+              <given-names>I.G.</given-names>
+            </name>
+            <name>
+              <surname>Javed</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bano</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Alam</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Pillai</surname>
+              <given-names>K.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and blood glucose lowering effect of novel pyridazinone substituted benzenesulfonylurea derivatives</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>2673</fpage>
+          <lpage>2678</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2008.12.013</pub-id>
+          <pub-id pub-id-type="pmid">19171410</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M652">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Purohit</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Radeke</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Azure</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hanson</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Benetti</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Yalamanchili</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hayes</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Guaraldi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kagan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Casebier</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological evaluation of pyridazinone analogues as potential cardiac positron emission tomography tracers</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2008</year>
+          <volume>51</volume>
+          <fpage>2954</fpage>
+          <lpage>2970</lpage>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M652">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>S&#xF6;nmez</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Berber</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Akba&#x15F;</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, antibacterial and antifungal activity of some new pyridazinonemetalcomplexes</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2006</year>
+          <volume>41</volume>
+          <fpage>101</fpage>
+          <lpage>2105</lpage>
+          <pub-id pub-id-type="pmid">16293349</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M652">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Ahamad</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Mir</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Raish</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kaur</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and <italic>in</italic> <italic>vitro</italic> antifungal activity of 6-substituted-phenyl-2-{[(4&#x2019;-substituted phenyl-5&#x2019;-thioxo)-1,2,4-triazol-3-yl]-methyl}-2,3,4,5-tetrahydropyridazin-3-one derivatives</article-title>
+          <source>Acta Poloniae Pharm.</source>
+          <year>2008</year>
+          <volume>65</volume>
+          <fpage>223</fpage>
+          <lpage>228</lpage>
+          <pub-id pub-id-type="pmid">18666429</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M652">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.S.Y.</given-names>
+            </name>
+            <name>
+              <surname>Siddiqui</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyridazinone derivatives: A potent anti-inflammatory agents</article-title>
+          <source>Indian J. Chem.</source>
+          <year>2000</year>
+          <volume>39B</volume>
+          <fpage>614</fpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><italic>Sample Availability</italic>: Sample of the compound <bold>2</bold> is available from authors.</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="display-objects">
+      <title>Figure</title>
+      <fig id="molbank-2010-M652-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Synthetic route to the title compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M652-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

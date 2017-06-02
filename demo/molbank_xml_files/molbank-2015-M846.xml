@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M846</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2015-M846</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>Syn</italic>-Ethyl 1-hydroxy-7-methoxy-2,3-dihydro-1<italic>H</italic>-pyrrolo[3,4-<italic>b</italic>]quinolone-3-carboxylate HCl Salt</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baumann</surname>
+            <given-names>Marcus</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baxendale</surname>
+            <given-names>Ian R.</given-names>
+          </name>
+          <xref rid="c1-molbank-2015-M846" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2015-M846">Department of Chemistry, Durham University, South Road, Durham, DH1 3LE, UK</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2015-M846"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>i.r.baxendale@durham.ac.uk</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>03</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>2015</volume>
+      <issue>1</issue>
+      <elocation-id>M846</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>12</month>
+          <year>2014</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>02</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2015 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>This short note describes a one-step synthesis of the title compound from commercially available starting materials and reports its full spectroscopic characterization data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>heterocycle</kwd>
+        <kwd>quinoline</kwd>
+        <kwd>pyrrolidine</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The pharmaceutical and agrochemical industries are under constant pressure to streamline their development cycles to provide new chemical entities required to target human diseases and increase agricultural output [<xref ref-type="bibr" rid="B1-molbank-2015-M846">1</xref>]. Despite recent breakthroughs in the areas of biologics and protein engineering simple heterocyclic structures still remain principle targets offering rapid modification points, high atom to biological activity ratios, and beneficial pharmacological profiles [<xref ref-type="bibr" rid="B2-molbank-2015-M846">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2015-M846">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2015-M846">4</xref>]. Consequently many synthesis endeavors are focused on accessing new heterocyclic derivatives. Recently, we [<xref ref-type="bibr" rid="B5-molbank-2015-M846">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2015-M846">6</xref>] and others [<xref ref-type="bibr" rid="B7-molbank-2015-M846">7</xref>] have reviewed the available literature focusing on top-selling drug molecules and were able to confirm and analyse the prevalence of small molecular entities containing five- and six-membered heterocyclic rings. Amongst the heteroaromatic scaffolds indoles, imidazoles and pyridines were found to be most common, whereas pyrrolidines, piperazines and piperidines are most frequently encountered in saturated heterocycles. Consequently, it comes with no surprise that chemists in both industry and academia continue to seek new entries into highly versatile heterocyclic building blocks bearing specific functionalities (<italic>i.e.</italic>, halides, esters, amines, <italic>etc.</italic>) or distinct hydrogen bonding networks. Over the past ten years one key area of our research has been to devise modern, often flow-based routes towards such interesting heterocyclic architectures [<xref ref-type="bibr" rid="B8-molbank-2015-M846">8</xref>,<xref ref-type="bibr" rid="B9-molbank-2015-M846">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2015-M846">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2015-M846">11</xref>]. </p>
+      <p>In this short note we wish to report on the efficient synthesis of <italic>syn</italic>-ethyl 1-hydroxy-7-methoxy-2,3-dihydro-1<italic>H</italic>-pyrrolo[3,4-<italic>b</italic>]quinolone-3-carboxylate hydrochloride salt, which represents an interesting fused tricyclic system containing several hydrogen bond acceptors and donors. </p>
+    </sec>
+    <sec>
+      <title>Experimental Section</title>
+      <p>To a 100 mL round bottom-flask containing 2-chloro-6-methoxyquinoline-3-carboxaldehyde (<bold>1</bold>, 2.21 g, 10 mmol) and glycine ethyl ester hydrochloride (<bold>2</bold>, 1.39 g, 10 mmol) in acetonitrile (20 mL) was added triethylamine (1.4 mL, 10 mmol) in one portion. The resulting suspension was stirred at room temperature for 20 h. After evaporation of the solvent the resulting residue was redissolved in ethyl acetate and extracted with water (3 &#xD7; 25 mL). The organic layer was dried over sodium sulfate, filtered and evaporated to yield a waxy solid. This material was recrystallised from dichloromethane to furnish a pale yellow amorphous solid (<bold>3</bold>, 1.95 g, 69% yield, <xref ref-type="scheme" rid="molbank-2015-M846-sch001">Scheme 1</xref>).</p>
+      <p>Initial analysis of the reaction product by LC-MS and high resolution LC-MS had revealed the molecular formula to be C<sub>15</sub>H<sub>16</sub>N<sub>2</sub>O<sub>4.</sub> Furthermore IR spectroscopy indicated the presence of a carbonyl stretch (1724.5 cm<sup>&#x2212;1</sup>) as well as an amine (3346.8 and 3276.0 cm<sup>&#x2212;1</sup>) and a hydroxyl group (2619.2 cm<sup>&#x2212;1</sup>) consistent with the tricyclic structure proposed for <bold>3</bold>. In addition elemental analysis was consistent with the proposed HCl salt of the parent compound, and further analysis of the result suggest the presence of a hemihydrate species of <bold>3</bold>.</p>
+      <p>As the reaction product was isolated as a single diastereoisomer (<sup>1</sup>H NMR) further 2-dimensional NMR experiments were used to determine its relative configuration. Crucially, it was found that both methine protons on the pyrrolidine moiety show a correlation in the COSY spectrum with the coupling constant being measured as <italic>J</italic> = 2.8 Hz, which is indicative of a long-range coupling. NOESY spectral data furthermore revealed a through space coupling of these two methine protons (see <xref ref-type="fig" rid="molbank-2015-M846-f001">Figure 1</xref> and SI for details) indicating the presence of the <italic>cis</italic>-diastereoisomer. By creating an energy-minimised 3D model (ChemDraw 3D, PerkinElmer, Waltham, MA, USA) of the free base form of <italic>cis</italic>-<bold>3</bold> the distance between these two protons was estimated to be ~3.3 &#xC5;.</p>
+      <p>It is believed that this conformationally stable diastereoisomer is due to the presence of the hydrochloride salt.</p>
+    </sec>
+    <sec>
+      <title>Spectroscopic Data </title>
+      <p><sup>1</sup>H-NMR (600 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; 8.38 (s, 1H), 7.82 (d, <italic>J</italic> = 9.1 Hz, 1H), 7.46 (d, <italic>J</italic> = 2.8 Hz, 1H), 7.40 (dd, <italic>J</italic> = 9.2, 2.8 Hz, 1H), 5.95 (s, 1H), 5.34 (d, <italic>J</italic> = 2.8 Hz, 1H), 4.14 (m, 2H), 3.88 (s, 3H), 3.68 (d, <italic>J</italic> = 2.8 Hz, 1H), 1.19 (t, <italic>J</italic> = 7.1 Hz, 3H).</p>
+      <p><sup>13</sup>C-NMR (151 MHz, DMSO-<italic>d</italic><sub>6</sub>) &#x3B4; 173.8 (C), 158.2 (C), 145.4 (C), 142.6 (C), 137.7 (CH), 134.8 (C), 129.3 (CH), 128.6 (C), 123.2 (CH), 106.4 (CH), 70.7 (CH), 60.9 (CH<sub>2</sub>), 58.1 (CH), 56.1 (CH<sub>3</sub>), 14.6 (CH<sub>3</sub>).</p>
+      <p>IR (neat, HCl-salt) &#x3BD; 3346.8 (w), 3276.0 (w), 2619.2 (broad), 1724.5 (s), 1624.4 (m), 1499.3 (m), 1340.9 (m), 1218.3 (s), 1157.4 (s), 1015.8 (s), 876.5 (m), 823.9 (s), 537.9 (m) cm<sup>&#x2212;1</sup>.</p>
+      <p>LC-MS (ESI) <italic>m/z</italic> = 289.1 (M+H). HR-MS (ESI) calculated for C<sub>15</sub>H<sub>17</sub>N<sub>2</sub>O<sub>4</sub> 289.1188, found 289.1201 (M+H, &#x394; = 4.5 ppm).</p>
+      <p>Elemental analysis: calculated for C<sub>15</sub>H<sub>16</sub>N<sub>2</sub>O<sub>4</sub><sup>.</sup>HCl<sup>.</sup>0.5H<sub>2</sub>O C: 53.98%, H: 5.44%, N: 8.39%; measured C: 53.75%, H: 5.18%, N: 8.45%.</p>
+      <p>Melting range: ~135&#x2013;140 &#xB0;C (HCl-salt; CH<sub>2</sub>Cl<sub>2</sub>, decomposition).</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2015-M846">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2015-M846-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M846-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M846-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M846-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2015-M846-s003" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M846-s002.pdf">
+   <label>Supplementary File 3</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>Both authors gratefully acknowledge financial support through the Royal Society.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Both authors contributed equally to the research outlined in this paper and the writing of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2015-M846">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scannel</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Blanckley</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Boldon</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Warrington</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnosing the decline in pharmaceutical R&amp;D efficiency</article-title>
+          <source>Nat. Rev. Drug Disc.</source>
+          <year>2012</year>
+          <volume>11</volume>
+          <fpage>191</fpage>
+          <lpage>200</lpage>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2015-M846">
+        <label>2.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Li</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <source>Heterocyclic Chemistry in Drug Discovery</source>
+          <publisher-name>Wiley</publisher-name>
+          <publisher-loc>Hoboken, NJ, USA</publisher-loc>
+          <year>2013</year>
+		  <isbn>978-1-118-14890-7</isbn>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2015-M846">
+        <label>3.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silverman</surname>
+              <given-names>R.B.</given-names>
+            </name>
+          </person-group>
+          <source>The Organic Chemistry of Drug Design and Drug Action</source>
+          <publisher-name>Elsevier Academic Press</publisher-name>
+          <publisher-loc>Burlington, MA, USA</publisher-loc>
+          <year>2004</year>
+          <isbn>978-0126437324</isbn>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2015-M846">
+        <label>4.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wermuth</surname>
+              <given-names>C.G.</given-names>
+            </name>
+          </person-group>
+          <source>The Practice of Medicinal Chemistry</source>
+          <edition>3rd ed.</edition>
+          <publisher-name>Elsevier Academic Press</publisher-name>
+          <publisher-loc>Waltham, MA, USA</publisher-loc>
+          <year>2008</year>
+		  <isbn>978-0-12-374194-3</isbn>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2015-M846">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Nikbin</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>An overview of the key routes to the best selling 5-membered ring heterocyclic pharmaceuticals</article-title>
+          <source>Beilstein J. Org. Chem.</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <fpage>442</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="doi">10.3762/bjoc.7.57</pub-id>
+          <pub-id pub-id-type="pmid">21647262</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2015-M846">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>An overview of the synthetic routes to the best selling drugs containing 6-membered heterocycles</article-title>
+          <source>Beilstein J. Org. Chem.</source>
+          <year>2013</year>
+          <volume>9</volume>
+          <fpage>2265</fpage>
+          <lpage>2319</lpage>
+          <pub-id pub-id-type="doi">10.3762/bjoc.9.265</pub-id>
+          <pub-id pub-id-type="pmid">24204439</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2015-M846">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vitaku</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Njardarson</surname>
+              <given-names>J.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of the structural diversity, substitution patterns, and frequency of nitrogen heterocycles among U.S. FDA approved pharmaceuticals</article-title>
+          <source>J. Med. Chem.</source>
+          <year>2014</year>
+          <volume>57</volume>
+          <fpage>10257</fpage>
+          <lpage>10274</lpage>
+          <pub-id pub-id-type="doi">10.1021/jm501100b</pub-id>
+          <pub-id pub-id-type="pmid">25255204</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2015-M846">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>C.D.</given-names>
+            </name>
+            <name>
+              <surname>Tranmer</surname>
+              <given-names>G.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fully automated continuous flow synthesis of 4,5-disubstituted oxazoles</article-title>
+          <source>Org. Lett.</source>
+          <year>2006</year>
+          <volume>8</volume>
+          <fpage>5231</fpage>
+          <lpage>5234</lpage>
+          <pub-id pub-id-type="doi">10.1021/ol061975c</pub-id>
+          <pub-id pub-id-type="pmid">17078685</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2015-M846">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of 3-Nitropyrrolidines via dipolar cycloaddition reactions using a modular flow reactor</article-title>
+          <source>Synlett</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>749</fpage>
+          <lpage>752</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.201030112</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2015-M846">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Kirschning</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Wegner</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of highly substituted nitropyrrolidines, nitropyrrolizines and nitropyrroles via multicomponent-multistep sequences within a flow reactor</article-title>
+          <source>Heterocycles</source>
+          <year>2010</year>
+          <volume>82</volume>
+          <fpage>1297</fpage>
+          <lpage>1316</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.201131106</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2015-M846">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Baxendale</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>Kuratli</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Ley</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of a drug-like focused library of trisubstituted pyrrolidines using integrated flow chemistry and batch methods</article-title>
+          <source>ACS Comb. Sci.</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <fpage>405</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="doi">10.1021/co2000357</pub-id>
+          <pub-id pub-id-type="pmid">21528880</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2015-M846-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2015-M846-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>syn</italic>-ethyl 1-hydroxy-7-methoxy-2,3-dihydro-1<italic>H</italic>-pyrrolo[3,4-<italic>b</italic>]quinolone-3-carboxylate hydrochloride salt <bold>3</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M846-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2015-M846-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Assignment of the relative configuration of <bold>3</bold> based on 2D NMR data and a modelled 3D structure (free base form).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2015-M846-g001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

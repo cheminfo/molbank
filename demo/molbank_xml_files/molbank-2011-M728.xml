@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M728</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M728</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>8-[2-Chloro-5-(trifluoromethyl)phenyl]-4<italic>H</italic>-[1,2,4]oxadiazolo-[3,4-<italic>c</italic>][1,4]benzoxazin-1-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berezin</surname>
+            <given-names>Andrey A.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Koutentis</surname>
+            <given-names>Panayiotis A.</given-names>
+          </name>
+          <xref rid="c1-molbank-2011-M728" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M728">Department of Chemistry, University of Cyprus, P.O. Box 20537, 1678 Nicosia, Cyprus</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M728"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>koutenti@ucy.ac.cy.</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>05</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>06</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>2</issue>
+      <elocation-id>M728</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>05</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>05</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>8-Bromo-4<italic>H</italic>-[1,2,4]oxadiazolo[3,4-<italic>c</italic>][1,4]benzoxazin-1-one <bold>1</bold> (NS2028) reacts with [2-chloro-5-(trifluoromethyl)phenyl]boronic acid <bold>2</bold> (2 equiv), Pd(OAc)<sub>2</sub> (10 mol%) and KOAc (4 equiv) in acetonitrile heated to <italic>ca</italic>. 110 &#xB0;C (sealed tube) for 12 hours to give 8-<bold>[</bold>2-chloro-5-(trifluoromethyl)phenyl<bold>]</bold>-4<italic>H</italic>-[1,2,4]oxadiazolo[3,4-<italic>c</italic>][1,4]benzoxazin-1-one <bold>4</bold> in 64% yield.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>soluble guanylyl cyclase inhibitors</kwd>
+        <kwd>NS2028</kwd>
+        <kwd>benzoxazine</kwd>
+        <kwd>oxadiazole</kwd>
+        <kwd>Suzuki-Miyaura coupling</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Soluble guanylate cyclase (sGC) is the only known physiological receptor for nitric oxide (NO). On binding to NO the activity of sGC increases 400-fold, promoting the conversion of conversion of guanosine 5'-triphospate (GTP) to the second messenger guanosine 3',5'-cyclic monophosphate (cGMP) and pyrophosphate. cGMP acts to regulate various effector proteins, including protein kinases, phosphodiesterases and ion channels [<xref ref-type="bibr" rid="B1-molbank-2011-M728">1</xref>]. As such inhibitors of sGC can be used to regulate NO related signaling processes and to lower cGMP activity [<xref ref-type="bibr" rid="B2-molbank-2011-M728">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2011-M728">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M728">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M728">5</xref>].</p>
+      <p>8-Bromo-4<italic>H</italic>-[1,2,4]oxadiazolo[3,4-<italic>c</italic>][1,4]benzoxazin-1-one <bold>1</bold> (NS2028) is a specific inhibitor of soluble guanylate cyclase (sGC). Recent applications of NS2028 <bold>1</bold> include the development of inhibitors for lymphangiogenesis that can help prevent the metastasis of solid tumours [<xref ref-type="bibr" rid="B6-molbank-2011-M728">6</xref>], for the treatment of dermatological diseases and in cosmetic skin care [<xref ref-type="bibr" rid="B6-molbank-2011-M728">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2011-M728">7</xref>]. Furthermore, NS2028 has been used for neural thermoprotection against heat stroke or hyperthermia <italic>via</italic> inhibition of the PKG pathway [<xref ref-type="bibr" rid="B8-molbank-2011-M728">8</xref>], and for the prevention and treatment of dental disorders [<xref ref-type="bibr" rid="B9-molbank-2011-M728">9</xref>].</p>
+	  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M728-i001.tif"/></p>
+      <p>We recently developed a non product specific synthesis of C-8 substituted analogues using Suzuki-Miyaura coupling reactions and NS2028 as a building block [<xref ref-type="bibr" rid="B10-molbank-2011-M728">10</xref>]. The reactions conditions that worked best involved about 1.5&#x2013;2 equivalents of arylboronic acids, Pd(OAc)<sub>2</sub> (5 mol%), H&#xFC;nig&#x2019;s base (3 equiv) in either dioxane/water (4:1) or acetonitrile/water (9:1) at reflux [<xref ref-type="bibr" rid="B10-molbank-2011-M728">10</xref>].</p>
+      <p>Rather surprisingly, attempts to carry out the Suzuki-Miyaura coupling of NS2028 <bold>1</bold> with [2-chloro-5-(trifluoromethyl)phenyl]boronic acid <bold>2</bold> using similar conditions led to no reaction. The same result was obtained when H&#xFC;nig&#x2019;s base was replaced by KF or KOAc. However, when KF was used in dry acetonitrile some product was observed. Fortunately, NS2028 <bold>1</bold> reacted with [2-chloro-5-(trifluoro-methyl)phenyl]boronic acid <bold>2</bold> (2 equiv), Pd(OAc)<sub>2</sub> (10 mol%) and KOAc (4 equiv) in dry acetonitrile heated to <italic>ca</italic>. 110 &#xB0;C (sealed tube) for 12 h gave 8-[2-chloro-5-(trifluoromethyl)phenyl]-4<italic>H</italic>-[1,2,4]oxa-diazolo[3,4-<italic>c</italic>][1,4]benzoxazin-1-one <bold>4</bold> in 64% yield together with some biaryl <bold>3</bold> (24%).</p>
+	  <p><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M728-i002.tif"/></p>
+    <sec>
+      <title>Experimental Section</title>
+      <p>MeCN was distilled from CaH<sub>2</sub> and stored over 4 &#xC5; molecular sieves. Anhydrous Na<sub>2</sub>SO<sub>4</sub> was used for drying organic extracts and volatiles were removed under reduced pressure. The reaction mixture and column eluents were monitored by TLC using commercial glass backed thin layer chromatography (TLC) plates (Merck Kieselgel 60 F<sub>254</sub>). The plates were observed under UV light at 254 and 365 nm. The technique of dry flash chromatography was used using Merck Silica Gel 60 (less than 0.063 mm). Melting point was determined using a PolyTherm-A, Wagner &amp; Munz, Kofler-Hotstage Microscope apparatus or using a TA Instruments DSC Q1000 with samples hermetically sealed in aluminium pans under an argon atmosphere; using heating rates of 5 &#xB0;C/min. IR spectrum was recorded on a Shimadzu FTIR-NIR Prestige-21 spectrometer with Pike Miracle Ge ATR accessory and strong, medium and weak peaks are represented by s, m and w respectively. <sup>1</sup>H NMR spectra were recorded on a BrukerAvance 300 machine at 300 MHz, while <sup>13</sup>C NMR spectra were recorded on a BrukerAvance 500 machine at 125 MHz. Deuterated chloroform was used for homonuclear lock and the signals are referenced to the deuterated solvent peak. Low resolution (EI) mass spectrum was recorded on a Shimadzu Q2010 GCMS with direct inlet probe. Microanalysis was performed at London Metropolitan University on a Perkin Elmer 2400 Series II CHN Analyzer.</p>
+      <sec id="sec8-molbank-2011-M728">
+        <title>8-[2-Chloro-5-(trifluoromethyl)phenyl]-4H-[1,2,4]oxadiazolo[3,4-c][1,4]benzoxazin-1-one (<bold><italic>4</italic></bold>)</title>
+        <p>A mixture of 8-bromo-4<italic>H</italic>-[1,2,4]oxadiazolo[3,4-<italic>c</italic>][1,4]benzoxazin-1-one <bold>1</bold> (50 mg, 0.186 mmol), 2-chloro-5-(trifluoromethyl)phenylboronic acid (83.4 mg, 0.372 mmol), KOAc (72 mg, 0.743 mmol) and Pd(OAc)<sub>2</sub> (4.2 mg, 0.019 mmol) in a thick glass walled tube was dissolved in MeCN (1 mL), sealed and heated at <italic>ca.</italic> 110 &#xB0;C for 12 h and then cooled to <italic>ca.</italic> 20 &#xB0;C. The volatiles were removed <italic>in vacuo</italic> and the residue dissolved in DCM (5 mL), adsorbed onto silica and chromatographed (DCM) to give 2,2'-dichloro-5,5'-bis(trifluoromethyl)-1,1'-biphenyl <bold>3</bold> as colourless flakes (11 mg, 24%), m.p. 81&#x2013;83 &#xB0;C, (lit. [<xref ref-type="bibr" rid="B11-molbank-2011-M728">11</xref>], 84&#x2013;85 &#xB0;C), <italic>R<sub>f</sub></italic> (DCM) 0.84; identical to an authentic sample. Further elution (DCM) gave the <italic>title compound</italic> <bold>4</bold> (44 mg, 64%) as colourless prisms, mp (DSC) onset: 183 &#xB0;C, peak max: 184 &#xB0;C (from chloroform), <italic>R<sub>f</sub></italic> (DCM) 0.60; (found: C, 52.1; H, 2.1; N, 7.6. C<sub>16</sub>H<sub>8</sub>ClF<sub>3</sub>N<sub>2</sub>O<sub>3</sub> requires C, 52.1; H, 2.2; N, 7.6%); <italic>&#x3BB;</italic><sub>max</sub>(DCM)/nm 227 (log <italic>&#x3B5;</italic> 2.83), 229 (2.84), 245 (3.07), 253 inf (3.00), 291 (2.46); <italic>&#x3BD;</italic><sub>max</sub>/cm<sup>&#x2212;1</sup> 3075w (Ar CH), 2926w, 2870w, 1790m &amp; 1782m (C=O), 1632m, 1611w, 1510w, 1487m, 1447w, 1408m, 1327s, 1283m, 1256w, 1244w, 1225w, 1180s, 1150m, 1119s, 1088s, 1065m, 1028m, 997w, 964w, 926w, 916w, 885m, 862w, 839m, 826m, 814w, 789w; <italic>&#x3B4;</italic><sub>H</sub> (300 MHz, CDCl<sub>3</sub>) 8.19 (1H, d, <italic>J</italic> = 2.1 Hz, <italic>H</italic>-9), 7.64&#x2013;7.56 (3H, m, <italic>H-</italic>3&#x2019;, 4&#x2019; &amp; 6&#x2019;), 7.32 (1H, dd, <italic>J</italic> = 8.5, 2.1 Hz, <italic>H</italic>-7), 7.22 (1H, d, <italic>J</italic> = 8.5 Hz, <italic>H</italic>-6), 5.19 (2H, s, C<italic>H</italic><sub>2</sub>O); <italic>&#x3B4;</italic><sub>C</sub> (125 MHz, CDCl<sub>3</sub>) 153.97 (<italic>C</italic><sub>q</sub>), 150.51 (<italic>C</italic><sub>q</sub>), 144.50 (<italic>C</italic><sub>q</sub>), 139.36 (<italic>C</italic><sub>q</sub>), 136.44 (<italic>C</italic><sub>q</sub>), 133.88 (<italic>C</italic><sub>q</sub>), 130.68 (Ar <italic>C</italic>H), 129.58 (q, <sup>2</sup><italic>J</italic><sub>CF</sub> = 33.4 Hz, <italic>C</italic>CF<sub>3</sub>), 128.87 (Ar <italic>C</italic>H), 128.00 (q, <sup>3</sup><italic>J</italic><sub>CF</sub> = 3.6 Hz, Ar <italic>C</italic>H), 125.87 (q, <sup>3</sup><italic>J</italic><sub>CF</sub> = 3.6 Hz, Ar <italic>C</italic>H), 125.70 (q, <sup>1</sup><italic>J</italic><sub>CF</sub> = 270.9 Hz, C<italic>C</italic>F<sub>3</sub>), 117.87 (Ar <italic>C</italic>H), 117.42 (Ar <italic>C</italic>H), 116.65 (<italic>C</italic><sub>q</sub>), 60.19 (C<italic>H</italic><sub>2</sub>O); <italic>m/z</italic> (EI): 370 (M<sup>+</sup>+2, 38%), 368 (M<sup>+</sup>, 93%), 349 (12), 326 (36), 324 (85), 297 (25), 272 (30), 270 (100), 236 (34), 207 (56), 187 (13), 173 (15), 162 (10), 157 (8), 152 (8), 125 (7), 111 (7), 99 (10), 87 (9), 75 (14), 69 (9), 63 (11), 51 (8).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+    <app id="app1-molbank-2011-M728">
+       <title>Supplementary materials</title>
+       <supplementary-material id="molbank-2011-M728-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M728-s001-mod.mol">
+	   <label>Supplementary File 1</label>
+	   </supplementary-material>
+	   <supplementary-material id="molbank-2011-M728-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M728-s001.mol">
+	   <label>Supplementary File 2</label>
+	   </supplementary-material>
+	</app>
+	</app-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors wish to thank the Cyprus Research Promotion Foundation [grant no. &#x3A5;&#x393;&#x395;&#x399;&#x391;/&#x392;&#x399;&#x39F;&#x3A3;/-0308(&#x392;&#x395;)/16] and the following organizations in Cyprus for generous donations of chemicals and glassware: the State General Laboratory, the Agricultural Research Institute, the Ministry of Agriculture and Biotronics Ltd. Furthermore, we thank the A. G. Leventis Foundation for helping to establish the NMR facility in the University of Cyprus.</p>
+    </ack>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2011-M728">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y.C.</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Murad</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human recombinant soluble guanylyl cyclase: Expression, purification, and regulation</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2000</year>
+          <volume>97</volume>
+          <fpage>10763</fpage>
+          <lpage>10768</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.190333697</pub-id>
+          <pub-id pub-id-type="pmid">10995472</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M728">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wedel</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Humbert</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Harteneck</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Foerster</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Malkewitz</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>B&#x4E7;hme</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Schultz</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Koesling</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Mutation of His-105 in the beta(1)-subunit yields a nitric oxide-insensitive form of soluble guanylyl cyclase</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>1994</year>
+          <volume>91</volume>
+          <fpage>2592</fpage>
+          <lpage>2596</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.91.7.2592</pub-id>
+          <pub-id pub-id-type="pmid">7908439</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M728">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Schelvis</surname>
+              <given-names>J.P.M.</given-names>
+            </name>
+            <name>
+              <surname>Babcock</surname>
+              <given-names>G.T.</given-names>
+            </name>
+            <name>
+              <surname>Marletta</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of histidine 105 in the beta 1 subunit of soluble guanylate cyclase as the heme proximal ligand</article-title>
+          <source>Biochemistry</source>
+          <year>1998</year>
+          <volume>37</volume>
+          <fpage>4502</fpage>
+          <lpage>4509</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi972686m</pub-id>
+          <pub-id pub-id-type="pmid">9521770</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M728">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bellamy</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Garthwaite</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The receptor-like properties of nitric oxide-activated soluble guanylyl cyclase in intact cells</article-title>
+          <source>Mol. Cell. Biochem.</source>
+          <year>2002</year>
+          <volume>230</volume>
+          <fpage>165</fpage>
+          <lpage>176</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1014204426331</pub-id>
+          <pub-id pub-id-type="pmid">11952092</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M728">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ballou</surname>
+              <given-names>D.P.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Brandish</surname>
+              <given-names>P.E.</given-names>
+            </name>
+            <name>
+              <surname>Marletta</surname>
+              <given-names>M.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Revisiting the kinetics of nitric oxide (NO) binding to soluble guanylate cyclase: The simple NO-binding model is incorrect</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2002</year>
+          <volume>99</volume>
+          <fpage>12097</fpage>
+          <lpage>12101</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.192209799</pub-id>
+          <pub-id pub-id-type="pmid">12209005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M728">
+        <label>6.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kajiya</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Detmar</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Method for inhibiting lymphangiogenesis and inflammation</article-title>
+          <source>U.S. Patent</source>
+          <patent>2008,176,851</patent>
+          <day>24</day>
+          <month>July</month>
+          <year>2008</year>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M728">
+        <label>7.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ikeyama</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Fuziwara</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Denda</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Method for accelerating cutaneous barrier recovery</article-title>
+          <source>U.S. Patent</source>
+          <patent>2007,232,595</patent>
+          <day>4</day>
+          <month>October</month>
+          <year>2007</year>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M728">
+        <label>8.</label>
+        <citation citation-type="patent">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dawson-Scully</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sokolowski</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kent</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Armstrong</surname>
+              <given-names>G.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thermoprotective compositions of PKG pathway inhibitors and method of use thereof</article-title>
+          <source>U.S. Patent</source>
+          <patent>2007,184,044</patent>
+          <day>9</day>
+          <month>August</month>
+          <year>2007</year>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2011-M728">
+        <label>9.</label>
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baumann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bloch</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Korkmaz</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulating substances of the nitric oxid (no) - cyclic guanosine-3',5'-monophosphate (cgmp) signaling pathway for the treatment of dental disorders</article-title>
+          <source>WO Pat. 2005,046,660</source>
+          <year>2005</year>
+          <day>26</day>
+          <month>May</month>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2011-M728">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berezin</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Koutentis</surname>
+              <given-names>P.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Suzuki-Miyaura reactions of the soluble guanylate cyclase inhibitor NS2028: a non product specific route to C-8 substituted analogues</article-title>
+          <source>Tetrahedron</source>
+          <year>2011</year>
+          <volume>67</volume>
+          <fpage>4069</fpage>
+          <lpage>4078</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tet.2011.04.003</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2011-M728">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drahushuk</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Choy</surname>
+              <given-names>C.O.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>McReynolds</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>J.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulation of cytochrome P450 by 5,5&#x2032;-bis-trifluoromethyl-2,2&#x2032;-dichlorobiphenyl, a unique environmental contaminant</article-title>
+          <source>Toxicology</source>
+          <year>1997</year>
+          <volume>120</volume>
+          <fpage>197</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0300-483X(97)00056-5</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

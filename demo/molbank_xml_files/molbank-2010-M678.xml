@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M678</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2010-M678</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-Phenylpyrazolo[4',3':5,6]pyrano[3,2-<italic>c</italic>]pyridine-4(1<italic>H</italic>)-thione </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huemer</surname>
+            <given-names>Valerie</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Holzer</surname>
+            <given-names>Wolfgang</given-names>
+          </name>
+          <xref rid="c1-molbank-2010-M678" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2010-M678">Department of Drug and Natural Product Synthesis, Faculty of Life Sciences, University of Vienna, Althanstrasse 14, A-1090 Vienna, Austria</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2010-M678"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>wolfgang.holzer@univie.ac.at</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>04</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="collection"><month>06</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>2010</volume>
+      <issue>2</issue>
+      <elocation-id>M678</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>03</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>04</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2010 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2010</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound is prepared by treatment of 1-phenylpyrazolo-[4',3':5,6]pyrano[3,2-<italic>c</italic>]pyridin-4(1<italic>H</italic>)-one with Lawesson&#x2019;s reagent in refluxing toluene. Detailed spectroscopic data (<sup>1</sup>H NMR, <sup>13</sup>C NMR, <sup>15</sup>N NMR, MS) are presented.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>phenylpyrazolo[4',3':5,6]pyrano[3,2-<italic>c</italic>]pyridine-4(1<italic>H</italic>)-thiones</kwd>
+        <kwd>Lawesson&#x2019;s reagent</kwd>
+        <kwd>thionation</kwd>
+        <kwd>NMR</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Recently, we presented a short and generally applicable synthesis of various fused pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones of type <bold>D</bold> [<xref ref-type="bibr" rid="B1-molbank-2010-M678">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2010-M678">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2010-M678">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2010-M678">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2010-M678">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2010-M678">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2010-M678">7</xref>] <italic>via</italic> reaction of 1-substituted or 1,3-disubstituted 2-pyrazolin-5-ones (<bold>A</bold>) with <italic>o</italic>-halo(hetero)arenecarbonyl chlorides <bold>B</bold> under the conditions described by <italic>Jensen</italic> for the C-4 acylation of pyrazolones (calcium hydroxide, dioxane, reflux) [<xref ref-type="bibr" rid="B8-molbank-2010-M678">8</xref>]. The formed 4-aroylpyrazol-5-ols <bold>C</bold> can be smoothly cyclized into the target systems <bold>D</bold> in alkaline or occasionally acidic [<xref ref-type="bibr" rid="B7-molbank-2010-M678">7</xref>] medium (<xref ref-type="fig" rid="molbank-2010-M678-f001">Figure 1</xref>). Type <bold>D</bold> compounds can be recognized as heterocyclic analogues of xanthone in which one benzene ring of the parent xanthone molecule is replaced by a pyrazole system and the other one by a variable heteroaromatic moiety (<xref ref-type="fig" rid="molbank-2010-M678-f001">Figure 1</xref>). In consideration of the fact that thio analogues of flavones, xanthones and related systems have received considerable attention due to the importance of such molecules in biology and photochemistry as well as their usefulness as synthetic building blocks [<xref ref-type="bibr" rid="B9-molbank-2010-M678">9</xref>], we here report on the synthesis of a thio analogue <bold>2</bold> of the &#x2018;azaxanthone&#x2019; <bold>1</bold>, in which the pyran-4-one moiety is replaced by the corresponding pyran-4-thione (<xref ref-type="scheme" rid="molbank-2010-M678-sch001">Scheme 1</xref>). Compound <bold>2</bold> is a supplement to similar thiones we recently presented in the course of an NMR study [<xref ref-type="bibr" rid="B10-molbank-2010-M678">10</xref>].</p>
+      <p>The conversion of ketones into the corresponding thiones can be achieved by the application of different reagents [<xref ref-type="bibr" rid="B9-molbank-2010-M678">9</xref>,<xref ref-type="bibr" rid="B11-molbank-2010-M678">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2010-M678">12</xref>]. The 2,4-bis(4-methoxyphenyl)-1,3,2,4-dithiadiphosphetane 2,4-disulfide, known as Lawesson&#x2019;s reagent, has been commonly used for this purpose and usually permits efficient conversion of ketones into thioketones [<xref ref-type="bibr" rid="B13-molbank-2010-M678">13</xref>,<xref ref-type="bibr" rid="B14-molbank-2010-M678">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2010-M678">15</xref>]. Employing this method, namely by treatment of compound <bold>1</bold> with 0.5 equivalents of Lawesson&#x2019;s reagent in boiling toluene, we obtained the corresponding target compound <bold>2</bold> in 97% yield (<xref ref-type="scheme" rid="molbank-2010-M678-sch001">Scheme 1</xref>).</p>
+      <p>A detailed characterization of <bold>2</bold> including MS and NMR (<sup>1</sup>H, <sup>13</sup>C, <sup>15</sup>N) spectral data as well as microanalytical data is given in the Experimental. Full and unambiguous assignment of all <sup>1</sup>H, <sup>13</sup>C and <sup>15</sup>N NMR resonances was achieved by combined application of standard NMR spectroscopic techniques such as <sup>1</sup>H-coupled <sup>13</sup>C-NMR (gated decoupling), APT, COSY, TOCSY, NOESY, gs-HSQC and gs-HMBC [<xref ref-type="bibr" rid="B16-molbank-2010-M678">16</xref>].</p>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>The melting point was determined on a Kofler hot-stage microscope and is uncorrected. The mass spectrum was obtained on a Shimadzu QP 1000 instrument (EI, 70 eV). The elemental analysis was performed at the Microanalytical Laboratory, University of Vienna. The NMR spectra were recorded from CDCl<sub>3</sub> solutions at 298 K on a Varian UnityPlus instrument (300 MHz for <sup>1</sup>H, 75.4 MHz for <sup>13</sup>C) and on a Bruker Avance 500 instrument with a &#x2018;directly&#x2019; detecting broadband observe probe (BBFO) (500.13 MHz for <sup>1</sup>H, 50.68 MHz for <sup>15</sup>N). The center of the solvent signal was used as an internal standard which was related to TMS with &#x3B4; = 7.26 ppm (<sup>1</sup>H in CDCl<sub>3</sub>) and &#x3B4; = 77.0 ppm (<sup>13</sup>C in CDCl<sub>3</sub>). The digital resolution was 0.2 Hz/data point in the <sup>1</sup>H and 0.4 Hz/data point in the <sup>1</sup>H-coupled <sup>13</sup>C-NMR spectra (gated decoupling). The <sup>15</sup>N NMR spectrum (gradient-selected <sup>15</sup>N,<sup>1</sup>H-HMBC) was referenced against external nitromethane.</p>
+      <sec id="sec1-molbank-2010-M678">
+        <title>1-Phenylpyrazolo[4',3':5,6]pyrano[3,2-c]pyridin-4(1H)-thione (<bold>2</bold>)</title>
+        <p>To a solution of 1-phenylpyrazolo[4',3':5,6]pyrano[3,2-<italic>c</italic>]pyridin-4(1<italic>H</italic>)-one (<bold>1</bold>) [<xref ref-type="bibr" rid="B1-molbank-2010-M678">1</xref>] (263 mg, 1 mmol) in toluene (15 mL) was added Lawesson&#x2019;s reagent (202 mg, 0.5 mmol) and the mixture was heated to reflux overnight (~14 h). Then the solvent was removed under reduced pressure and the residue was subjected to column chromatography (silica gel, eluent: CH<sub>2</sub>Cl<sub>2</sub>&#x2013;MeOH, 100 + 2) to afford 271 mg (97%) of the title compound <bold>2</bold> as an orange-brown solid of mp 192&#x2013;194 &#xB0;C.</p>
+        <p>MS (EI, 70 eV): (<italic>m/z</italic>, %) 280 (M<sup>+</sup>+1, 21), 279 (M<sup>+</sup>, 100), 278 (M<sup>+</sup>-1, 74), 138 (35), 77 (85), 51 (54).</p>
+        <p><sup>1</sup>H NMR (300 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 7.45 (d, 1H, H-8, <sup>3</sup><italic>J</italic>(H8,H7) = 5.8 Hz), 7.46 (m, 1H, Ph H-4), 7.58 (m, 2H, Ph H-3,5), 7.86 (m, 2H, Ph H-2,6), 8.40 (s, 1H, H-3), 8.85 (d, 1H, H-7, <sup>3</sup><italic>J</italic>(H7,H8) = 5.8 Hz), 9.83 (s, 1H, H-5).</p>
+        <p><sup>13</sup>C NMR (75 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) 112.4 (C-8, <sup>1</sup><italic>J</italic>(C8,H8) = 168.2 Hz, <sup>2</sup><italic>J</italic>(C8,H7) = 8.7 Hz, <sup>4</sup><italic>J</italic>(C8,H5) = 1.5 Hz), 119.6 (C-3a, <sup>2</sup><italic>J</italic>(C3a,H-3) = 9.5 Hz), 121.5 (Ph C-2,6), 122.6 (C-4a, <sup>2</sup><italic>J</italic>(C4a,H5) = 6.8 Hz, <sup>3</sup><italic>J</italic>(C4a,H8) = 3.9 Hz, <sup>4</sup><italic>J</italic>(C4a,H7) = 1.3 Hz), 128.3 (Ph C-4), 129.6 (Ph C-3,5), 136.5 (Ph C-1), 138.8 (C-3, <sup>1</sup><italic>J</italic>(C3,H3) = 196.3 Hz), 145.2 (C-9a, <sup>3</sup><italic>J</italic>(C9a,H3) = 4.7 Hz), 152.3 (C-5, <sup>1</sup><italic>J</italic>(C5,H5) = 187.1 Hz, <sup>3</sup><italic>J</italic>(C5,H7) = 12.0 Hz), 153.4 (C-7, <sup>1</sup><italic>J</italic>(C7,H7) = 183.0 Hz, <sup>2</sup><italic>J</italic>(C7,H8) = 1.4 Hz, <sup>3</sup><italic>J</italic>(C7,H5) = 13.7 Hz), 155.3 (C-8a, <sup>2</sup><italic>J</italic>(C8a,H8) = 3.9 Hz, <sup>3</sup><italic>J</italic>(C8a,H7) = 9.8 Hz, <sup>3</sup><italic>J</italic>(C8a,H5) = 7.7 Hz), 195.7 (C-4).</p>
+        <p><sup>15</sup>N NMR (50 MHz, CDCl<sub>3</sub>): &#x3B4; (ppm) &#x2013;186.8 (N-1), &#x2013;83.5 (N-2), &#x2013;75.8 (N-6).</p>
+        <p>Anal. Calcd for C<sub>15</sub>H<sub>9</sub>N<sub>3</sub>OS: C, 64.50%; H, 3.25%; N, 15.04%. Found: C, 64.42%; H, 3.18%; N 14.70%.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+  <app id="app1-molbank-2010-M678">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2010-M678-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M678-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2010-M678-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M678-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References and Notes</title>
+      <ref id="B1-molbank-2010-M678">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Haring</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>An Efficient Approach to Heterocyclic Analogues of Xanthone: A Short Synthesis of all possible Pyrido[5,6]pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones</article-title>
+          <source>Synthesis</source>
+          <year>2006</year>
+          <fpage>4219</fpage>
+          <lpage>4229</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2006-950324</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2010-M678">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Haring</surname>
+              <given-names>A.W.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zwettler</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tri- and Tetracyclic Heteroaromatic Systems: Synthesis of Novel Benzo-, Benzothieno- and Thieno-Fused Pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones</article-title>
+          <source>Heterocycles</source>
+          <year>2007</year>
+          <volume>71</volume>
+          <fpage>87</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1002/chin.200724119</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2010-M678">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Convenient Approach to Heterocyclic Building Blocks: Synthesis of Novel Ring Systems Containing a [5,6]Pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one Moiety</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>60</fpage>
+          <lpage>73</lpage>
+          <pub-id pub-id-type="doi">10.3390/12010060</pub-id>
+          <pub-id pub-id-type="pmid">17693953</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2010-M678">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[2,3-<italic>b</italic>]quinoxalin-4(1<italic>H</italic>)-one: Synthesis and Characterization of a Novel Tetracyclic Ring System</article-title>
+          <source>J. Heterocycl. Chem.</source>
+          <year>2007</year>
+          <volume>44</volume>
+          <fpage>1139</fpage>
+          <lpage>1143</lpage>
+          <pub-id pub-id-type="doi">10.1002/jhet.5570440526</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2010-M678">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Wimmer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Novel Polycyclic Ring Systems Containing two Pyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-one Moieties</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>2007</year>
+          <fpage>1251</fpage>
+          <lpage>1255</lpage>
+          <comment>(<italic>Chem. Heterocycl. Comp</italic>. <bold>2007</bold>, <italic>43</italic>, 1060&#x2013;1064.)</comment>
+          <pub-id pub-id-type="doi">10.1007/s10593-007-0165-z</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2010-M678">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Habicht</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of a Novel Pentacycle: 8-Methyl-10-phenylpyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[3,2-<italic>c</italic>][1,10]phenanthrolin-7(10<italic>H</italic>)-one</article-title>
+          <source>Khim. Geterotsikl. Soedin.</source>
+          <year>2008</year>
+          <fpage>884</fpage>
+          <lpage>890</lpage>
+          <comment>(<italic>Chem. Heterocycl. Comp</italic>. <bold>2008</bold>, <italic>44</italic>, 709&#x2013;714.)</comment>
+          <pub-id pub-id-type="doi">10.1007/s10593-008-0106-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2010-M678">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Habicht</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Datterl</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and NMR Data of Pyrazolo[4&#x2019;,3&#x2019;:5,6]pyrano[2,3-<italic>b</italic>]pyrazin-4(1<italic>H</italic>)-ones: Derivatives of a Novel Tricyclic Ring System</article-title>
+          <source>Acta Chim. Slov.</source>
+          <year>2009</year>
+          <volume>56</volume>
+          <fpage>521</fpage>
+          <lpage>526</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2010-M678">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jensen</surname>
+              <given-names>B.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Synthesis of 1-Phenyl-3-methyl-4-acyl-pyrazolones-5</article-title>
+          <source>Acta Chem. Scand.</source>
+          <year>1959</year>
+          <volume>13</volume>
+          <fpage>1668</fpage>
+          <lpage>1670</lpage>
+          <comment>(<italic>Chem. Abstr</italic>. <bold>1962</bold>, <italic>56</italic>, 66890.)</comment>
+          <pub-id pub-id-type="doi">10.3891/acta.chem.scand.13-1668</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2010-M678">
+        <label>9.</label>
+		<note>
+        <p><citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Camp</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Product class 4: Benzopyranones and benzopyranthiones</article-title>
+          <source>Sci. Synth.</source>
+          <year>2003</year>
+          <volume>14</volume>
+          <fpage>347</fpage>
+          <lpage>638</lpage>
+        </citation>
+		and references cited therein.</p>
+		</note>
+      </ref>
+      <ref id="B10-molbank-2010-M678">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huemer</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Eller</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterocyclic analogues of xanthiones: 5,6-Fused 3-methyl-1-phenylpyrano[2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)thiones &#x2013; synthesis and NMR (<sup>1</sup>H, <sup>13</sup>C, <sup>15</sup>N) data</article-title>
+          <source>Magn. Reson. Chem.</source>
+          <year>2010</year>
+          <pub-id pub-id-type="doi">10.1002/mrc.2609</pub-id>
+          <pub-id pub-id-type="pmid">20474027</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2010-M678">
+        <label>11.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cremlyn</surname>
+              <given-names>R.J.</given-names>
+            </name>
+          </person-group>
+          <source>An Introduction to Organosulfur Chemistry</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1996</year>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2010-M678">
+        <label>12.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duus</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Thiocarbonyl compounds</article-title>
+          <source>Comprehensive Organic Chemistry</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Barton</surname>
+              <given-names>D.H.R.</given-names>
+            </name>
+            <name>
+              <surname>Ollis</surname>
+              <given-names>W.D.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Pergamon Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1979</year>
+          <volume>Volume 3</volume>
+          <fpage>373</fpage>
+          <lpage>487</lpage>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2010-M678">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cherkasov</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Kutyrev</surname>
+              <given-names>G.A.</given-names>
+            </name>
+            <name>
+              <surname>Pudovik</surname>
+              <given-names>A.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tetrahedron report number 186: Organothiophosphorus reagents in organic synthesis</article-title>
+          <source>Tetrahedron</source>
+          <year>1985</year>
+          <volume>41</volume>
+          <fpage>2567</fpage>
+          <lpage>2624</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4020(01)96363-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2010-M678">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>B.S.</given-names>
+            </name>
+            <name>
+              <surname>Scheibye</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nilsson</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Lawesson</surname>
+              <given-names>S.-O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Studies on organophosphorus compounds. XX. Syntheses of thioketones</article-title>
+          <source>Bull. Soc. Chim. Belg.</source>
+          <year>1978</year>
+          <volume>87</volume>
+          <fpage>223</fpage>
+          <lpage>228</lpage>
+          <pub-id pub-id-type="doi">10.1002/bscb.19780870310</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2010-M678">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jesberger</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>T.P.</given-names>
+            </name>
+            <name>
+              <surname>Barner</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Application of Lawesson&#x2019;s Reagent in Organic and Organometallic Synthesis</article-title>
+          <source>Synthesis</source>
+          <year>2003</year>
+          <fpage>1929</fpage>
+          <lpage>1958</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2003-41447</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2010-M678">
+        <label>16.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braun</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kalinowski</surname>
+              <given-names>H.-O.</given-names>
+            </name>
+            <name>
+              <surname>Berger</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <source>150 and More Basic NMR Experiments: A Practical Course</source>
+          <edition>2nd ed.</edition>
+          <publisher-name>Wiley&#x2013;VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>1998</year>
+          <comment>(<italic>Chem. Abstr.</italic> <bold>1999</bold>, <italic>131</italic>, 184497)</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure and Scheme</title>
+      <fig id="molbank-2010-M678-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Synthesis of fused [2,3-<italic>c</italic>]pyrazol-4(1<italic>H</italic>)-ones <bold>D</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M678-g001.tif"/>
+      </fig>
+      <fig id="molbank-2010-M678-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2010-M678-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of the title compound <bold>2</bold>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2010-M678-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M914</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M914</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4,4&#x2032;-Bis[4-(4&#x2032;-hydroxyphenyl)phenylazo]diphenyl Ether</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rahman</surname>
+            <given-names>Rahima</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M914" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gul</surname>
+            <given-names>Asghari</given-names>
+          </name>
+          <xref rid="af2-molbank-2016-M914" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Akhter</surname>
+            <given-names>Zareen</given-names>
+          </name>
+          <xref rid="af1-molbank-2016-M914" ref-type="aff">1</xref>
+          <xref rid="c1-molbank-2016-M914" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M914"><label>1</label>Department of Chemistry, Quaid-i-Azam University, Islamabad, 45320 Pakistan; <email>rahima_qau@yahoo.com</email></aff>
+      <aff id="af2-molbank-2016-M914"><label>2</label>Department of Physics, Comsats Institute of Information Technology, Islamabad 45320, Pakistan; <email>asgharigul@gmail.com</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M914"><label>*</label>Correspondence: <email>zareenakhter@yahoo.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>10</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+	    <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M914</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>08</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>4,4&#x2032;-Bis[4-(4&#x2032;-hydroxyphenyl)phenylazo]diphenyl ether (<bold>3</bold>) was prepared by diazotization coupling of 4,4&#x2032;-oxy dianiline (<bold>1</bold>) and biphenyl-4-ol (<bold>2</bold>). The synthesized compound (<bold>3</bold>) was characterized by elemental analysis, UV-Visible, FTIR and <sup>1</sup>H-NMR (nuclear magnetic resonance) spectroscopic studies.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Azobenzene</kwd>
+        <kwd>diazotization</kwd>
+        <kwd>bis-azo-diol</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M914" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Recently, azobenzene and its derivatives have attracted considerable attention based on their extraordinary physical and chemical properties, such as bright colors, good stability, low flammability, and rapid reversible photo-isomerization. These compounds can exist in either cis or trans configuration [<xref ref-type="bibr" rid="B1-molbank-2016-M914">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M914">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M914">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2016-M914">4</xref>]. Upon exposure to ultraviolet (UV) radiation, trans to cis configuration change in azobenzenes is evident from UV-vis spectrum. However, these compounds are changed back to trans state, when exposed to visible light or heat. This type of photo-isomerization is responsible for the change in geometry, absorption spectra, and dipole moments of the azo based compounds [<xref ref-type="bibr" rid="B5-molbank-2016-M914">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M914">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M914">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M914">8</xref>]. Aromatic azo compounds are widely used in the chemical industry as dyes, pigments [<xref ref-type="bibr" rid="B6-molbank-2016-M914">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M914">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M914">8</xref>], food additives [<xref ref-type="bibr" rid="B9-molbank-2016-M914">9</xref>], indicators [<xref ref-type="bibr" rid="B10-molbank-2016-M914">10</xref>], radical reaction initiators [<xref ref-type="bibr" rid="B11-molbank-2016-M914">11</xref>] and therapeutic agents [<xref ref-type="bibr" rid="B12-molbank-2016-M914">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M914">13</xref>]. In addition, azobenzenes have shown promising applications in photo-optical media [<xref ref-type="bibr" rid="B14-molbank-2016-M914">14</xref>], photo-switches [<xref ref-type="bibr" rid="B15-molbank-2016-M914">15</xref>], photo-mechanical systems [<xref ref-type="bibr" rid="B16-molbank-2016-M914">16</xref>], micro patterning [<xref ref-type="bibr" rid="B17-molbank-2016-M914">17</xref>], nonlinear optical media [<xref ref-type="bibr" rid="B18-molbank-2016-M914">18</xref>], molecular shuttles, [<xref ref-type="bibr" rid="B19-molbank-2016-M914">19</xref>] nanotubes, [<xref ref-type="bibr" rid="B20-molbank-2016-M914">20</xref>] and in the manufacture of protective eye glasses and filters [<xref ref-type="bibr" rid="B21-molbank-2016-M914">21</xref>]. Moreover, the light induced reversible isomerization of azobenzenes between cis and trans forms makes them excellent candidates to modulate the relative movement of different moieties; thus leads to the development of light driven motors [<xref ref-type="bibr" rid="B22-molbank-2016-M914">22</xref>].</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M914" sec-type="results">
+      <title>2. Results</title>
+      <p>In this work, new bis-azo-diol has been synthesized successfully by diazotization coupling reaction given in <xref ref-type="scheme" rid="molbank-2016-M914-sch001">Scheme 1</xref>.</p>
+    </sec>
+    <sec id="sec3-molbank-2016-M914" sec-type="discussion">
+      <title>3. Discussion</title>
+      <p>The synthesis of bis-azo-diol was carried out by diazotization coupling reaction of aromatic amine and coupling agent [<xref ref-type="bibr" rid="B23-molbank-2016-M914">23</xref>]. Diazotization was carried at low temperature between 0&#x2013;5 &#xB0;C using ice bath as diazonium salts decompose to liberate nitrogen up to 10 &#xB0;C. Aromatic diamine used was 4,4&#x2032;-oxy dianiline and the coupling agent was biphenyl-4-ol. The synthesized compound was characterized by m.p, % yield and elemental analysis. The structure of the synthesized compound was determined by UV-Vis, FTIR, and <sup>1</sup>H-nuclear magnetic resonance (NMR) spectroscopic analysis.</p>
+      <p>Elemental analysis of the synthesized compound (<bold>3</bold>) provided evidence of its successful synthesis as the formula derived on the observed values was in good agreement with the expected formula.</p>
+      <p>The UV spectrum was recorded in THF and showed maxima at 350 nm which was mainly because of azo group in the compound showing strong absorption maximum due to &#x3C0;-&#x3C0;* transitions in trans state of azo moiety. A weak maximum was also observed around 420 nm which was due to a cis band rise due to n-&#x3C0;* transitions [<xref ref-type="bibr" rid="B24-molbank-2016-M914">24</xref>,<xref ref-type="bibr" rid="B25-molbank-2016-M914">25</xref>]. The molar extinction coefficient (&#x25B;) was calculated to be 32387 cm<sup>&#x2212;1</sup>&#xB7;M<sup>&#x2212;1</sup> at &#x3BB;<sub>max</sub> 350 nm.</p>
+      <p>The FTIR spectrum of compound (<bold>3</bold>) exhibited a broad band at 3407 cm<sup>&#x2212;1</sup> (range, 3200&#x2013;3400 cm<sup>&#x2212;1</sup>) [<xref ref-type="bibr" rid="B21-molbank-2016-M914">21</xref>], which indicated the presence of OH group. A weak band at 3152 cm<sup>&#x2212;1</sup> (range, 3050&#x2013;3150 cm<sup>&#x2212;1</sup>) owing to C&#x2013;H stretching of phenyl group was also observed. The FTIR spectrum also showed a sharp band at 1581 cm<sup>&#x2212;1</sup> (range, 1630&#x2013;1550 cm<sup>&#x2212;1</sup>) due to azo group. A strong band, assigned to the out of plane C&#x2013;H bending vibrations of p-substituted phenyl ring appeared at 840 cm<sup>&#x2212;1</sup>.</p>
+      <p>For further analysis, an NMR study of the monomer was also carried out using DMSO as a solvent. In a study of <sup>1</sup>H-NMR, disappearance of the signal for the NH<sub>2</sub> group and appearance of OH signal at 9.55 ppm was observed showing conversion of diamine into the azo diols. The doublets in the spectrum confirmed the presence of aromatic groups in the compound. J values were also calculated which indicated that ortho coupling is in operation [<xref ref-type="bibr" rid="B25-molbank-2016-M914">25</xref>].</p>
+    </sec>
+    <sec id="sec4-molbank-2016-M914">
+      <title>4. Experimental Section</title>
+      <sec id="sec4dot1-molbank-2016-M914">
+        <title>4.1. General Information</title>
+        <p>4,4&#x2032;-Oxydianiline and sodium nitrite, were bought from Fluka Switzerland. DMSO, biphenyl 4-ol, H<sub>2</sub>SO<sub>4</sub>, HCl and NaOH were purchased from Merck (Munich, Germany). Tetrahydrofuran (THF) was acquired from Riedel de Ha&#xEB;n Germany, and was distilled and dried freshly as per requirement for using standard methods. Thin layer chromatography was performed using pre-coated Kieselgel 60-HF<sub>250</sub> TLC plates.</p>
+        <p>The melting point was attained on melting point apparatus, Mel-Temp, Mitamura Riken Kogyo, Inc. Tokyo Japan using open capillary tubes. The elemental analysis was obtained from LECO CHNS-932 (Isomass Scientific Inc., Calgary, AB, Canada). The solid state Fourier Transform infrared spectra were recorded on a Thermo Scientific Nicolet-6700 FTIR (Thermo Scientific, Madison, WI, USA). The UV-visible spectra of the compound were acquired on a 1601-Schimadzu in THF and H<sub>2</sub>SO<sub>4</sub>, using quartz cells. <sup>1</sup>H-NMR spectral analysis of compound was determined in DMSO solvent by using Bruker Advance ultra-shield 300 MHz (LabX, Carnation, WA, USA) digital NMR instrument using TMS as internal reference.</p>
+      </sec>
+      <sec id="sec4dot2-molbank-2016-M914">
+        <title>4.2. Synthesis of 4,4&#x2032;-Bis[4-(4&#x2032;-hydroxyphenyl)phenylazo]diphenyl Ether(<bold>3</bold>)</title>
+        <p>4,4&#x2032;-Oxydianilne (7.2g, 36mmol) was dissolved in a 250 mL beaker containing a warm HCl solution (27 mL of 37%, 328 mmol in 50 mL water). Temperature of solution was lowered to 0&#x2013;5 &#xB0;C using an ice bath. The reaction mixture was strongly stirred till fine crystals of aromatic diamine hydrochloride were separated out. A cold sodium nitrite solution (7.45 g, 108 mmol) in 10 mL water was slowly added while stirring the mixture. The coupling reagent biphenyl 4-ol (12.25 g, 72 mmol) was dissolved in NaOH (32.87 g, 821 mmol in 100 mL water) and ice cooled in a separate beaker. Azotized solution was slowly added to this solution. The reaction mixture was acidified afterwards by 10 % H<sub>2</sub>SO<sub>4</sub> solution. The resulted precipitates were filtered using Buchner funnel. Precipitates were dissolved in 10 % NaOH and precipitated again by 10 % H<sub>2</sub>SO<sub>4</sub>. Later, precipitates were recrystallized in ethanol/methanol to get the pure compound.</p>
+        <p>Compound (<bold>3</bold>): C<sub>36</sub>H<sub>26</sub>O<sub>3</sub>N<sub>4</sub>. 0.25 H<sub>2</sub>O, Yield 78%, m.p. 223&#x2013;225 &#xB0;C, yellowish brown, solid, Elemental analysis: calcd (C 76.24, H 4.71, N 9.88), found (C 76.21, H 4.56, N 9.80). UV-Visible: &#x3BB;<sub>max</sub> (nm) 350. FTIR (cm<sup>&#x2212;1</sup>): 3407 (OH), 3152 (aromatic C-H), 1581 (-N = N- ), 1148 (C-O-C), 840 (Biphenyl C-H bend), <sup>1</sup>H-NMR (DMSO-<italic>d</italic><sub>6</sub>, 300 MHz) 9.55 (OH, s,), 7.55 (4H, d, <italic>J</italic> 8.1), 7.49 (4H, d, <italic>J</italic> 7.5), 7.47(4H, d, <italic>J</italic> 8.7), 7.38 (4H, d , <italic>J</italic> 8.1), 7.27 (4H, d, 7.5), 6.86(4H, d, <italic>J</italic> 8.7).</p>
+      </sec>
+    </sec>
+    <sec id="sec5-molbank-2016-M914">
+      <title>5. Conclusions</title>
+      <p>Diazotization coupling reaction was applied successfully to synthesize a new bis-azo-diol (<bold>3</bold>). The reaction occurred in a short time and under simple reaction conditions. The melting point observed was around 225 &#xB0;C and product synthesized was 78% in yield. The spectroscopic data confirmed the structure of the product (<bold>3</bold>).</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M914">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri>http://www.mdpi.com/1422-8599/2016/4/M914</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>University Grant Funds (UGR) from Quaid- i- Azam University is greatly acknowledged for the reported research.</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Zareen Akhter and Rahima Rahman conceived and designed the experiments; Rahima Rahman performed the experiments and analyzed the data; Asghari Gul contributed in manuscript writing.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M914">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bandara</surname>
+              <given-names>H.M.D.</given-names>
+            </name>
+            <name>
+              <surname>Burdette</surname>
+              <given-names>S.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photo-isomerization in different classes of azobenzene</article-title>
+          <source>Chem. Soc. Rev.</source>
+          <year>2012</year>
+          <volume>41</volume>
+          <fpage>1809</fpage>
+          <lpage>1825</lpage>
+          <pub-id pub-id-type="doi">10.1039/C1CS15179G</pub-id>
+          <pub-id pub-id-type="pmid">22008710</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M914">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>X.Z.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>T.Y.</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>C.B.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>S.Q.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and characterization of photo and pH-responsive nanoparticles containing amino-substituted azobenzene</article-title>
+          <source>J. Mater. Chem.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>9133</fpage>
+          <lpage>9139</lpage>
+          <pub-id pub-id-type="doi">10.1039/c0jm01235a</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M914">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rau</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Lueddecke</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>On the rotation-inversion controversy on photoisomerization of azobenzenes, experimental proof of inversion</article-title>
+          <source>J. Am. Chem. Soc.</source>
+          <year>1982</year>
+          <volume>104</volume>
+          <fpage>1616</fpage>
+          <lpage>1620</lpage>
+          <pub-id pub-id-type="doi">10.1021/ja00370a028</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M914">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>G.S.</given-names>
+            </name>
+            <name>
+              <surname>Neckers</surname>
+              <given-names>D.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photochemistry of azobenzene-containing polymers</article-title>
+          <source>Chem. Rev.</source>
+          <year>1989</year>
+          <volume>89</volume>
+          <fpage>1915</fpage>
+          <lpage>1925</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr00098a012</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2016-M914">
+        <label>5.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hunger</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Industrial Dyes: Chemistry, Properties, Applications</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2003</year>
+          <fpage>13</fpage>
+          <lpage>33</lpage>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M914">
+        <label>6.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zollinger</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <source>Color Chemistry: Syntheses, Properties and Applications of Organic Dyes and Pigments</source>
+          <publisher-name>VCH</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1987</year>
+		  <fpage>85</fpage>
+          <lpage>87</lpage>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M914">
+        <label>7.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gordon</surname>
+              <given-names>P.F.</given-names>
+            </name>
+            <name>
+              <surname>Gregory</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Organic Chemistry in Color</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>1983</year>
+          <fpage>95</fpage>
+          <lpage>105</lpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M914">
+        <label>8.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevenson</surname>
+              <given-names>D.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tartrazine, Azo, and Non-Azo Dyes</article-title>
+          <source>Food Allergy: Adverse Reactions to Foods and Food Additives</source>
+          <publisher-name>John Wiley &amp; Sons Ltd.</publisher-name>
+          <publisher-loc>Chichester, UK</publisher-loc>
+          <year>2014</year>
+          <fpage>384</fpage>
+          <lpage>392</lpage>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M914">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Azobenzene-Based Colorimetric Chemosensors for Rapid Naked-Eye Detection of Mercury (II)</article-title>
+          <source>Chem. Eur. J.</source>
+          <year>2011</year>
+          <fpage>7276</fpage>
+          <lpage>7281</lpage>
+          <pub-id pub-id-type="doi">10.1002/chem.201003275</pub-id>
+          <pub-id pub-id-type="pmid">21598320</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M914">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merino</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of azobenzene: colored pieces of molecular material chem</article-title>
+          <source>Soc. Rev.</source>
+          <year>2011</year>
+          <volume>40</volume>
+          <fpage>3835</fpage>
+          <lpage>3853</lpage>
+          <pub-id pub-id-type="doi">10.1039/c0cs00183j</pub-id>
+          <pub-id pub-id-type="pmid">21409258</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M914">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sandborn</surname>
+              <given-names>W.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rational selection of oral 5-aminosalicylate formulations and prodrugs for the treatment of ulcerative colitis</article-title>
+          <source>Am. J. Gastroenterol.</source>
+          <year>2002</year>
+          <volume>97</volume>
+          <fpage>2939</fpage>
+          <lpage>2942</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1572-0241.2002.07092.x</pub-id>
+          <pub-id pub-id-type="pmid">12492172</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M914">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morihiro</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hasegawa</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Morihiro</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>C5-azobenzene-functionalized locked nucleic acid uridine: isomerization properties, hybridization ability, and enzymatic stability</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2015</year>
+          <volume>13</volume>
+          <fpage>5209</fpage>
+          <lpage>5214</lpage>
+          <pub-id pub-id-type="doi">10.1039/C5OB00477B</pub-id>
+          <pub-id pub-id-type="pmid">25853508</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M914">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Azobenzene-containing molecularly imprinted polymer microspheres with photo-and thermoresponsive template binding properties in pure aqueous media by atom transfer radical polymerization</article-title>
+          <source>Langmuir</source>
+          <year>2012</year>
+          <volume>28</volume>
+          <fpage>9767</fpage>
+          <lpage>9777</lpage>
+          <pub-id pub-id-type="doi">10.1021/la301314w</pub-id>
+          <pub-id pub-id-type="pmid">22639881</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M914">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.P.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Moers</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>H.P.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z.Q.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Block copolymer aggregates with photo-responsive switches: towards a controllable supramolecular container</article-title>
+          <source>Polymer.</source>
+          <year>2009</year>
+          <volume>50</volume>
+          <fpage>4821</fpage>
+          <lpage>4828</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.polymer.2009.08.005</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M914">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Natansohn</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rochon</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photoinduced motions in azo-containing polymers</article-title>
+          <source>Chem. Rev.</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <fpage>4139</fpage>
+          <lpage>4175</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr970155y</pub-id>
+          <pub-id pub-id-type="pmid">12428986</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M914">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Itoga</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Yamato</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kikuchi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Okano</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell micro patterning using photopolymerization with a liquid crystal device commercial projector</article-title>
+          <source>Biomaterials</source>
+          <year>2004</year>
+          <volume>25</volume>
+          <fpage>2047</fpage>
+          <lpage>2053</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biomaterials.2003.08.052</pub-id>
+          <pub-id pub-id-type="pmid">14741619</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M914">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jaunet-Lahary</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Chantzis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>K.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Designing Efficient Azobenzene and Azothiophene Nonlinear Optical Photochromes</article-title>
+          <source>J. Phys. Chem. C.</source>
+          <year>2014</year>
+          <volume>49</volume>
+          <fpage>28831</fpage>
+          <lpage>28841</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp510581m</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M914">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Browne</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>Feringa</surname>
+              <given-names>B.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Making molecular machines work</article-title>
+          <source>Nat. Nanotechnol.</source>
+          <year>2006</year>
+          <volume>1</volume>
+          <fpage>25</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1038/nnano.2006.45</pub-id>
+          <pub-id pub-id-type="pmid">18654138</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19-molbank-2016-M914">
+        <label>19.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C.T.</given-names>
+            </name>
+            <name>
+              <surname>Jau</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Red, Green and Blue Reflections Enabled in an Optically Tunable Self-Organized 3D Cubic Nanostructured Thin Film</article-title>
+          <source>Adv. Mater.</source>
+          <year>2013</year>
+          <volume>25</volume>
+          <fpage>5050</fpage>
+          <lpage>5054</lpage>
+          <pub-id pub-id-type="doi">10.1002/adma.201300798</pub-id>
+          <pub-id pub-id-type="pmid">23913627</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20-molbank-2016-M914">
+        <label>20.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>C.H.</given-names>
+            </name>
+            <name>
+              <surname>Bihari</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Filler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Mandal</surname>
+              <given-names>B.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>New azobenzene non-linear optical materials for eye and sensor protection</article-title>
+          <source>Opt. Mater.</source>
+          <year>2009</year>
+          <volume>32</volume>
+          <fpage>147</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.optmat.2009.07.001</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21-molbank-2016-M914">
+        <label>21.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Graydon</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Photoisomerizaton: Molecular motors driven by light</article-title>
+          <source>Nat. Photon.</source>
+          <year>2015</year>
+          <volume>9</volume>
+          <pub-id pub-id-type="doi">10.1038/nphoton.2014.312</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22-molbank-2016-M914">
+        <label>22.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ivanka</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zollinger</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Azo coupling reactions structures and mechanisms</article-title>
+          <source>Preparative Organic Chemistry</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Berlin/Heidelberg, Germany</publisher-loc>
+          <year>1983</year>
+          <fpage>1</fpage>
+          <lpage>66</lpage>
+        </citation>
+      </ref>
+      <ref id="B23-molbank-2016-M914">
+        <label>23.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feringa</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Wesley</surname>
+              <given-names>R.B.</given-names>
+            </name>
+          </person-group>
+          <source>Molecular Switches</source>
+          <publisher-name>Wiley-VCH</publisher-name>
+          <publisher-loc>Weinheim, Germany</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+      <ref id="B24-molbank-2016-M914">
+        <label>24.</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pavia</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Lampman</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Kriz</surname>
+              <given-names>G.S.</given-names>
+            </name>
+          </person-group>
+          <source>Introduction to Spectroscopic</source>
+          <edition>3rd ed.</edition>
+          <publisher-name>Thomson Learning Inc.</publisher-name>
+          <publisher-loc>New York, NY, USA</publisher-loc>
+          <year>2001</year>
+        </citation>
+      </ref>
+      <ref id="B25-molbank-2016-M914">
+        <label>25.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castellano</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bothner-By</surname>
+              <given-names>A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of NMR spectra by least squares</article-title>
+          <source>J. Chem. Phys.</source>
+          <year>1964</year>
+          <volume>41</volume>
+          <fpage>3863</fpage>
+          <lpage>3869</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1725826</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Scheme</title>
+      <fig id="molbank-2016-M914-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M914-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4,4&#x2032;-bis[4-(4&#x2032;-hydroxyphenyl)phenylazo]diphenyl ether (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M914-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

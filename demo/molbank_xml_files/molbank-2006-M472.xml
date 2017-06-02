@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M472</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2006-M472</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>1-(ethoxycarbonylmethyl)-3-(1&#x2019;-tolyl-3&#x2019;-(ethoxycarbonyl)5&#x2019;-hydroxypyrazolyl)-2-oxo quinoxaline</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ferfra</surname>
+            <given-names>Souad</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahabchane</surname>
+            <given-names>Noureddine H.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Essassi</surname>
+            <given-names>El Mokhtar</given-names>
+          </name>
+          <xref rid="c1-molbank-2006-M472" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2006-M472">Laboratoire de Chimie Organique H&#xE9;t&#xE9;rocyclique, Facult&#xE9; des Sciences, BP 1014, Avenue Ibn Batouta, Rabat, Maroc<break/>e-mail: <email>emessassi@yahoo.fr</email></aff>
+	  <author-notes>
+        <corresp id="c1-molbank-2006-M472"><label>*</label> Author to whom correspondence should be addressed</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>2006</volume>
+      <issue>2</issue>
+      <elocation-id>M472</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+        <date date-type="accepted">
+          <day>18</day>
+          <month>02</month>
+          <year>2006</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2006 MDPI.</copyright-statement>
+        <copyright-year>2006</copyright-year>
+        <license>
+          <p>All rights reserved.</p>
+        </license>
+      </permissions>
+	  <kwd-group>
+        <kwd>cyclocondensations</kwd>
+        <kwd>quinoxaline</kwd>
+        <kwd>hydrazonoyl bromide</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+  <p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M472-i001.tif"/></p>
+      <p>To a solution of hydrazonoyl bromide (5.70 g, 0.02 mol) 2 and 1 [<xref ref-type="bibr" rid="B1-molbank-2006-M472">1</xref>] (3.18 g, 0.01 mol) in tetrahydrofuran (60 ml) was added triethylamine (2.02 g, 0.02 mol in 10 ml of THF). The reaction mixture was refluxed for 48 hours. The solvent was evaporated under reduced pressure and the resulting crude material was chromatographied over silica gel column using 10:90 ethylacetate:hexane as eluent (yield 70%).</p>
+      <p>Melting point: 182-184&#xB0;C</p>
+      <p>IR (KBr , cm<sup>&#x2212;1</sup> ): 1640 (n<sub>N-C=O</sub>); 1720 (n<sub>N-C=O</sub>).</p>
+      <p><sup>1</sup>H- NMR ( 250 MHz, CDCl<sub>3</sub>): d=  7.81-7.04 (8H, m, H arom); 5.02 (2H, s, NCH<sub>2</sub>); 4.44 (2H, q, J=7 Hz, CH<sub>2</sub>); 4.25 (2H, q, J = 7 Hz, CH<sub>2</sub>);  2.36 (3H, s, CH<sub>3-</sub>&#x3A6;);  1.37 (3H, t, J = 7 Hz, CH<sub>3</sub>); 1.27 (3H, t, J = 7 Hz, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C- NMR (250MHz, CDCl<sub>3</sub>): d= 166.5 (Cq); 164.2 (Cq); 161.6 (Cq); 154.5 (Cq); 143.8 (Cq); 143.4 (Cq); 135.9 (Cq); 135.5 (Cq); 129.4 (CH<sub>ar</sub>); 129.1 CH<sub>ar</sub>); 129.1 (Cq); 127.8 (CH<sub>ar</sub>); 126.8 (Cq); 125.3 (CH<sub>ar</sub>); 122.0 (CH<sub>ar</sub>); 120.7 (CH<sub>ar</sub>); 114.0 (CH<sub>ar</sub>); 96 (C<sub>4</sub>); 62.3 (CH<sub>2</sub>); 61.7 (CH<sub>2</sub>); 44.2 (NCH<sub>2</sub>);  21.0 (&#x3A6;-CH<sub>3</sub>); 14.2 (CH<sub>3</sub>).</p>
+      <p>MS (IE): 476</p>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2006-M472">
+        <title>Supplementary materials</title>
+	  	  <supplementary-material id="molbank-2006-M472-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M472-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2006-M472-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2006-M472-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+    </app>
+</app-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2006-M472">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferfra</surname>
+              <given-names>S.</given-names>
+            </name>
+			<name>
+              <surname>Ahabchane</surname>
+              <given-names>N.H.</given-names>
+            </name>
+			<name>
+              <surname>Essassi</surname>
+              <given-names>E. M.</given-names>
+            </name>
+          </person-group>
+          <source>Molecules</source>
+          <comment>submitted</comment>
+        </citation>
+      </ref>
+    </ref-list>
+	<fn-group>
+	<fn>
+	<p><italic>Sample Availability:</italic> Available from MDPI.</p>
+	</fn>
+	</fn-group>
+  </back>
+</article>

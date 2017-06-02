@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M921</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2016-M921</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>N</italic>-[2-(Cyclohexylamino)-2-oxoethyl]-<italic>N</italic>-(4-octyloxy)phenyl-prop-2-enamide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ganesh</surname>
+            <given-names>Shimoga D.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saha</surname>
+            <given-names>Nabanita</given-names>
+          </name>
+          <xref rid="c1-molbank-2016-M921" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kucharczyk</surname>
+            <given-names>Pavel</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>S&#xE1;ha</surname>
+            <given-names>Petr</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Haider</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2016-M921">Centre of Polymer Systems, University Institute, Tomas Bata University in Zlin, T&#x159;. T. Bati 5678, 760 01 Zlin, Czech Republic; <email>icganeshin@gmail.com</email> (S.D.G.); <email>kucharczyk@cps.utb.cz</email> (P.K.); <email>saha@utb.cz</email> (P.S.)</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2016-M921"><label>*</label>Correspondence: <email>nabanita@ft.utb.cz</email>; Tel.: +420-576-038-156</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2016</year>
+      </pub-date>
+      <volume>2016</volume>
+      <issue>4</issue>
+      <elocation-id>M921</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic>N</italic>-[2-(Cyclohexylamino)-2-oxoethyl]-<italic>N</italic>-(4-octyloxy)phenyl-prop-2-enamide was prepared in good yield by coupling of 4(octyloxy)aniline, Cyclohexyl isocyanide, paraformaldehyde and acrylic acid by multicomponent Ugi reaction, at room temperature. The structure of the newly synthesized tripeptoid derivative was well characterized using elemental analysis, FTIR, NMR and mass spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>FTIR</kwd>
+        <kwd>NMR</kwd>
+        <kwd>peptides</kwd>
+        <kwd>peptoids</kwd>
+        <kwd>Ugi reaction</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-molbank-2016-M921" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The field of peptidomimetics has seen an exciting development over the past several years, partly due to the considerable biological importance and putative proteolytic stability of synthetic peptoids over native peptides [<xref ref-type="bibr" rid="B1-molbank-2016-M921">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2016-M921">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2016-M921">3</xref>]. Recently, Ugi coupling [<xref ref-type="bibr" rid="B4-molbank-2016-M921">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2016-M921">5</xref>,<xref ref-type="bibr" rid="B6-molbank-2016-M921">6</xref>,<xref ref-type="bibr" rid="B7-molbank-2016-M921">7</xref>,<xref ref-type="bibr" rid="B8-molbank-2016-M921">8</xref>] of various carboxylic acids, amines, isocyanates and aldehydes to a series of tripeptoids has been found to give excellent yields and these have also been reported to exhibit antifungal and antimicrobial activities [<xref ref-type="bibr" rid="B9-molbank-2016-M921">9</xref>,<xref ref-type="bibr" rid="B10-molbank-2016-M921">10</xref>,<xref ref-type="bibr" rid="B11-molbank-2016-M921">11</xref>,<xref ref-type="bibr" rid="B12-molbank-2016-M921">12</xref>,<xref ref-type="bibr" rid="B13-molbank-2016-M921">13</xref>]. In addition to such applications, tripeptoids also find application as low molecular weight gelators (LMWGs) [<xref ref-type="bibr" rid="B14-molbank-2016-M921">14</xref>,<xref ref-type="bibr" rid="B15-molbank-2016-M921">15</xref>]. The self-assembling nature of low molecular weight organic compounds to form physical gels by non-covalent interactions such as hydrogen bonding, van der Waals interactions, &#x3C0;&#x2013;&#x3C0; stacking, etc. [<xref ref-type="bibr" rid="B16-molbank-2016-M921">16</xref>] can be attributed to the presence of flexible solvophilic aliphatic groups and rigid solvophobic functional groups. Also, previous exploration of cyclohexyl moiety in the tripeptoids generally shows effective gelation properties [<xref ref-type="bibr" rid="B17-molbank-2016-M921">17</xref>]. Quite recently, Biswas et al. reported a new class of peptoid-based low molecular weight organogelators by the aza-Michael addition reaction between glycinamide and substituted alkyl acrylates [<xref ref-type="bibr" rid="B18-molbank-2016-M921">18</xref>]. In this study, we report the preparation of new tripeptoid with functional acryl and cyclohexyl moiety.</p>
+      <p>The synthesis of the title compound was achieved by one-pot Ugi multi-component reaction from less expensive raw materials. The synthetic value of the resulting compound can be diverged as a precursor for aza-Michael addition reaction to design varieties of peptoid-based LMWGs. The structure of the title compound was confirmed by <sup>1</sup>H, <sup>13</sup>C-NMR, FTIR, and mass spectral data.</p>
+    </sec>
+    <sec id="sec2-molbank-2016-M921" sec-type="results">
+      <title>2. Results and Discussion</title>
+      <p><italic>N</italic>-[2-(Cyclohexylamino)-2-oxoethyl]-<italic>N</italic>-(4-octyloxy)phenyl-prop-2-enamide was synthesized from Ugi four-component (4C) reaction involving 4(octyloxy)anile, paraformaldehyde, acrylic acid and cyclohexyl isocyanide at ambient conditions for 20 h, as shown in <xref ref-type="scheme" rid="molbank-2016-M921-sch001">Scheme 1</xref>. The physical appearance of the compound is off white solid, insoluble in water, non-polar solvents like <italic>n</italic>-hexane, and completely soluble in dichloromethane, chloroform, methanol, ethanol and dimethyl sulfoxide.</p>
+      <p>The <sup>1</sup>H and <sup>13</sup>C-NMR spectrum data of the title compound is in good agreement with the proposed structure. The <sup>1</sup>H-NMR spectrum of the compound is depicted in <xref ref-type="fig" rid="molbank-2016-M921-f001">Figure 1</xref>. The signals corresponding to aliphatic, aromatic and amide functional groups are assigned to their positions. The spectrum shows multiplet signals at <italic>&#x3B4;</italic> 0.88, 1.18, 1.31, and 1.87 ppm due to aliphatic protons of octyl group. The protons of cyclohexyl group was resonated at 3.76 and in the region of 1.28&#x2013;1.77 ppm. The acryl functional protons are resonated at <italic>&#x3B4;</italic> 6.09 and 5.56 ppm.</p>
+      <p><sup>13</sup>C-NMR spectrum of the compound with assigned numbering is displayed in <xref ref-type="fig" rid="molbank-2016-M921-f002">Figure 2</xref>. Several set of signals are cited in the spectrum. The two carbonyl carbons 3 and 5 were cited at 158.8 and 167.8 ppm respectively. The carbon-15 of the benzene attached to the oxygen resonates at 166.7 ppm. The carbon-5 is more deshielded to compare with the carbon-5, as the carbon-5 is attached directly to oxygen and nitrogen, where the combined effect of these electronegative atoms downfield the <sup>13</sup>C signal and this effect is diminished in carbon-3. Wherein, the nitrogen is involved in resonance. The carbon 1 and 2 of the acryl moiety resonates at 127.9 and 128.5 respectively.</p>
+    </sec>
+    <sec id="sec3-molbank-2016-M921">
+      <title>3. Experimental Section</title>
+      <sec id="sec3dot1-molbank-2016-M921">
+        <title>3.1. Materials</title>
+        <p>4(octyloxy)aniline, cyclohexyl isocyanide, paraformaldehyde, acrylic acid, <italic>n</italic>-hexane and methanol were procured from Sigma Aldrich (Prague, Czech Republic). All the other laboratory chemicals and solvents were of analytical reagent (AR) grade and used without further purification. Double distilled water was used throughout the study.</p>
+      </sec>
+      <sec id="sec3dot2-molbank-2016-M921">
+        <title>3.2. Instrumentation</title>
+        <p>The <sup>1</sup>H &amp; <sup>13</sup>C-NMR spectra were recorded on a 700 MHz Bruker Avance III HD spectrometer (with a 5 mm dual broad-band probe, 5 mm dual inverse broad-band probe, 1.7 mm triple resonance (<sup>1</sup>H&#x2013;<sup>13</sup>C) probe (Bruker, Leiderdorp, The Netherlands) for multinuclear applications in liquids and solids using tetramethylsilane (TMS) as an internal standard. LCMS measurement was performed on Liquid chromatography system with mass spectrometry detection (Q-TOF)&#x2014;Agilent ACCURATE MASS 6530 Q TOF LC/MS (Agilent Technologies, Santa Clara, CA, USA). The elemental analysis was carried on a VARIO EL III Elemental analyzer (Elementar Analysensysteme GmbH, Hanau, Germany) and the results for C, H, and N were within 0.4% of the theoretical values. FTIR analysis was carried out on Nicolet 6700 (ATR, Thermo Scientific, Waltham, MA, USA) in the scanning range 4000&#x2013;600 cm<sup>&#x2212;1</sup>. The resolution was 4 cm<sup>&#x2212;1</sup> with 64 scans and the measurement was done with Germanium crystal.</p>
+      </sec>
+      <sec id="sec3dot3-molbank-2016-M921">
+        <title>3.3. Synthesis of N-[2-(Cyclohexylamino)-2-oxoethyl]-N-(4-octyloxy)phenyl-prop-2-enamide</title>
+        <p>Paraformaldehyde (0.042 g, 1.38 mmol) was placed in a 50 mL of round bottomed flask, and then added solution of 4(octyloxy)aniline (0.305 g, 1.38 mmol in methanol (10 mL). The mixture was stirred at room temperature for 2 h. Later, acrylic acid (0.1 g, 1.38 mmol) was added followed by cyclohexyl isocyanide (0.152 g, 1.38 mmol). The completion of the reaction was monitored using Thin-layer chromatography (TLC) analysis (performed with Merck Kieselgel 60 F 254 plates, Merck Millipore, Bangalore, India). The formation of product was confirmed at 0.36 Rf (1:1 EtOAc:<italic>n</italic>-hexane) after 20 h. The reaction mixture was diluted with 20 mL ethyl acetate (EtOAc), washed with water (15 mL &#xD7; 4), followed by saturated solution of brine (20 mL). The collected organic layer was dried over anhydrous sodium sulfate and solvent was removed under reduced pressure to collect the crude product (0.571 g). The crude product was triturated repeatedly using <italic>n</italic>-hexane to obtain the title compound in pure form as an off white solid (0.48 g) in 84% of yield.</p>
+        <p>Off White Solid; m.p. 199&#x2013;201 &#xB0;C; <sup>1</sup>H-NMR (700 MHz, CDCl<sub>3</sub>): <italic>&#x3B4;</italic> 0.88 (t, 3H, <italic>J</italic> = 7.0 Hz), 1.17&#x2013;1.20 (m, 8H), 1.27&#x2013;1.36 (m, 4H), 1.42&#x2013;1.47 (m, 4H), 1.57&#x2013;1.69 (m, 4H), 1.75&#x2013;1.89 (m, 2H), 3.76 (m, 1H), 3.94 (t, 3H, <italic>J</italic> = 7.0 Hz), 4.29 (s, 2H), 5.57 (d, 1H, <italic>J</italic> = 14.0 Hz), 6.07&#x2013;6.11 (m, 1H), 6.37&#x2013;6.44 (m, 1H), 6.87&#x2013;6.88 (d, 2H, <italic>J</italic> = 7.0 Hz), 7.11&#x2013;7.12 (d, 2H, <italic>J</italic> = 7.0 Hz), <sup>13</sup>C-NMR (176 MHz, CDCl<sub>3</sub>): (ppm) 167.8, 166.7, 158.8, 134.4, 128.5, 127.9, 120.9, 115.2, 68.3, 54.7, 48.1, 32.9, 31.8, 29.2, 26.0, 25.5, 24.7, 22.6 and 14.1. Anal. calcd. for C<sub>25</sub>H<sub>38</sub>N<sub>2</sub>O<sub>3</sub> (414.580): C, 72.43; H, 9.24; N, 6.76. Found: C, 72.77; H, 9.56; N, 7.04. LCMS (ESI): m/z = 415.297 (Found), 415.2961 (Expected for [M + H]<sup>+</sup>). FTIR (Ge Crystal): 3282, 3083, 2936 cm<sup>&#x2212;1</sup> (-NH Stretch), 2867 cm<sup>&#x2212;1</sup> (C-H Stretch of cyclohexane ring); 1647, 1708 cm<sup>&#x2212;1</sup> (C=O); 1120 cm<sup>&#x2212;1</sup> (C-O-C); 1422 cm<sup>&#x2212;1</sup> (C-H scissoring); 1370 cm<sup>&#x2212;1</sup> (C-H methyl rock); 722 cm<sup>&#x2212;1</sup> (Long chain methyl rock).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-molbank-2016-M921">
+        <title>Supplementary Materials</title>
+        <p>LCMS and FTIR spectra for the title compound are available online at <uri>www.mdpi.com/1422-8599/2016/4/M921</uri>.</p>
+      </app>
+    </app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The work was principally supported by M&#x160;MT &#x10C;R-USA Kontakt II (LH14050) and the Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231. This research was also partially supported by the Ministry of Education, Youth and Sports of the Czech Republic - NPU Program I (LO1504).</p>
+    </ack>
+    <notes>
+      <title>Author Contributions</title>
+      <p>S.D.G., designed the synthesis, carryout the experiments for the title compound synthesis and wrote the article. N.S. and P.S., confirmed the data analysis. P.K., done the LCMS measurement. All of the authors have read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2016-M921">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simon</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Kania</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>Zuckermann</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Huebner</surname>
+              <given-names>V.D.</given-names>
+            </name>
+            <name>
+              <surname>Jewell</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Banville</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Marlowe</surname>
+              <given-names>C.K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Peptoids: A modular approach to drug discovery</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>1992</year>
+          <volume>89</volume>
+          <fpage>9367</fpage>
+          <lpage>9371</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.89.20.9367</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2016-M921">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zuckermann</surname>
+              <given-names>R.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peptoid Origins</article-title>
+          <source>Biopolymers (PeptSci)</source>
+          <year>2011</year>
+          <volume>96</volume>
+          <fpage>545</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="doi">10.1002/bip.21573</pub-id>
+          <pub-id pub-id-type="pmid">21184486</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2016-M921">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zuckermann</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Kodadek</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Peptoids as potential therapeutics</article-title>
+          <source>Curr. Opin. Mol. Ther.</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <fpage>299</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="pmid">19479663</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2016-M921">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>V&#xE1;radi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Dardashti</surname>
+              <given-names>R.N.</given-names>
+            </name>
+            <name>
+              <surname>Majumdar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isocyanide-Based Multicomponent Reactions for the Synthesis of Heterocycles</article-title>
+          <source>Molecules</source>
+          <year>2016</year>
+          <volume>21</volume>
+          <elocation-id>19</elocation-id>
+		  <pub-id pub-id-type="doi">10.3390/molecules21010019</pub-id>
+		</citation>
+      </ref>
+      <ref id="B5-molbank-2016-M921">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koopmanschap</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ruijter</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Orru</surname>
+              <given-names>R.V.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isocyanide-based multicomponent reactions towards cyclic constrained peptidomimetics</article-title>
+          <source>Beilstein J. Org. Chem.</source>
+          <year>2014</year>
+          <volume>10</volume>
+          <fpage>544</fpage>
+          <lpage>598</lpage>
+          <pub-id pub-id-type="doi">10.3762/bjoc.10.50</pub-id>
+          <pub-id pub-id-type="pmid">24605172</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2016-M921">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El Kaim</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Grimaud</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Oble</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Phenol Ugi-Smiles Systems: Strategies for the Multicomponent N-Arylation of Primary Amines with Isocyanides, Aldehydes, and Phenols</article-title>
+          <source>Angew. Chem. Int. Ed.</source>
+          <year>2005</year>
+          <volume>44</volume>
+          <fpage>7961</fpage>
+          <lpage>7964</lpage>
+          <pub-id pub-id-type="doi">10.1002/anie.200502636</pub-id>
+          <pub-id pub-id-type="pmid">16287162</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2016-M921">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tye</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Whittaker</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of a Design of Experiments approach for the optimisation of a microwave assisted Ugi reaction</article-title>
+          <source>Org. Biomol. Chem.</source>
+          <year>2004</year>
+          <volume>2</volume>
+          <fpage>813</fpage>
+          <lpage>815</lpage>
+          <pub-id pub-id-type="doi">10.1039/b400298a</pub-id>
+          <pub-id pub-id-type="pmid">15007407</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2016-M921">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sung</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>F.-L.</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>P.-C.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Modified U-4CR Reaction with 2-Nitrobenzylamine as an Ammonia Equivalent</article-title>
+          <source>Synlett</source>
+          <year>2006</year>
+          <fpage>2667</fpage>
+          <lpage>2669</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-2006-951485</pub-id>
+        </citation>
+      </ref>
+      <ref id="B9-molbank-2016-M921">
+        <label>9.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Galetti</surname>
+              <given-names>M.D.</given-names>
+            </name>
+            <name>
+              <surname>Cirigliano</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Cabrera</surname>
+              <given-names>G.M.</given-names>
+            </name>
+            <name>
+              <surname>Ram&#xED;rez</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicomponent synthesis of acylated short peptoids with antifungal activity against plant pathogens</article-title>
+          <source>Mol. Divers.</source>
+          <year>2012</year>
+          <volume>16</volume>
+          <fpage>113</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11030-011-9334-1</pub-id>
+          <pub-id pub-id-type="pmid">21922290</pub-id>
+        </citation>
+      </ref>
+      <ref id="B10-molbank-2016-M921">
+        <label>10.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Luan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ugi Reaction of Natural Amino Acids: A General Route toward Facile Synthesis of Polypeptoids for Bioapplications</article-title>
+          <source>ACS Macro Lett.</source>
+          <year>2016</year>
+          <volume>5</volume>
+          <fpage>1049</fpage>
+          <lpage>1054</lpage>
+          <pub-id pub-id-type="doi">10.1021/acsmacrolett.6b00530</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11-molbank-2016-M921">
+        <label>11.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghasemi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Shahvelayati</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Yavari</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ugi reaction of thiouridocarboxylic acids: A synthesis of thiourea-peptoids</article-title>
+          <source>Phosphorus Sulfur Silicon Relat. Elem.</source>
+          <year>2016</year>
+          <volume>191</volume>
+          <fpage>746</fpage>
+          <lpage>750</lpage>
+          <pub-id pub-id-type="doi">10.1080/10426507.2015.1085048</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12-molbank-2016-M921">
+        <label>12.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silva</surname>
+              <given-names>E.H.B.</given-names>
+            </name>
+            <name>
+              <surname>Emery</surname>
+              <given-names>F.S.</given-names>
+            </name>
+            <name>
+              <surname>Ponte</surname>
+              <given-names>G.D.</given-names>
+            </name>
+            <name>
+              <surname>Donate</surname>
+              <given-names>P.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of Some Functionalized Peptomers via Ugi Four-Component Reaction</article-title>
+          <source>Synth. Commun.</source>
+          <year>2015</year>
+          <volume>45</volume>
+          <fpage>1761</fpage>
+          <lpage>1767</lpage>
+          <pub-id pub-id-type="doi">10.1080/00397911.2015.1042591</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13-molbank-2016-M921">
+        <label>13.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Savithri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Thulasi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Varma</surname>
+              <given-names>R.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Narrow-rim functionalization of calix[4]arene through Ugi-4CR: Synthesis of a series of calix[4]arene peptoids</article-title>
+          <source>J. Org. Chem.</source>
+          <year>2014</year>
+          <volume>79</volume>
+          <fpage>1683</fpage>
+          <lpage>1689</lpage>
+          <pub-id pub-id-type="doi">10.1021/jo4025732</pub-id>
+          <pub-id pub-id-type="pmid">24498973</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14-molbank-2016-M921">
+        <label>14.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mangunuru</surname>
+              <given-names>H.P.R.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of peptoid based small molecular gelators by a multiple component reaction</article-title>
+          <source>Chem. Commun.</source>
+          <year>2013</year>
+          <volume>49</volume>
+          <fpage>4489</fpage>
+          <lpage>4491</lpage>
+          <pub-id pub-id-type="doi">10.1039/c3cc41043a</pub-id>
+          <pub-id pub-id-type="pmid">23552904</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15-molbank-2016-M921">
+        <label>15.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brauer</surname>
+              <given-names>M.C.N.</given-names>
+            </name>
+            <name>
+              <surname>Neves</surname>
+              <given-names>R.A.W.</given-names>
+            </name>
+            <name>
+              <surname>Westermann</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Heinke</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Wessjohann</surname>
+              <given-names>L.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of antibacterial 1,3-diyne-linked peptoids from an Ugi-4CR/Glaser coupling approach</article-title>
+          <source>Beilstein J. Org. Chem.</source>
+          <year>2015</year>
+          <volume>11</volume>
+          <fpage>25</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.3762/bjoc.11.4</pub-id>
+          <pub-id pub-id-type="pmid">25670988</pub-id>
+        </citation>
+      </ref>
+      <ref id="B16-molbank-2016-M921">
+        <label>16.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeong</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Joo</surname>
+              <given-names>M.K.</given-names>
+            </name>
+            <name>
+              <surname>Sohn</surname>
+              <given-names>Y.S.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reverse thermal organogel</article-title>
+          <source>Adv. Mater.</source>
+          <year>2007</year>
+          <volume>19</volume>
+          <fpage>3947</fpage>
+          <lpage>3950</lpage>
+          <pub-id pub-id-type="doi">10.1002/adma.200700149</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17-molbank-2016-M921">
+        <label>17.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cheuk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Goyal</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>P.V.N.</given-names>
+            </name>
+            <name>
+              <surname>Hopkinson</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and Characterization of Monosaccharide-Derived Carbamates as Low-Molecular-Weight Gelators</article-title>
+          <source>Langmuir</source>
+          <year>2009</year>
+          <volume>25</volume>
+          <fpage>8696</fpage>
+          <lpage>8705</lpage>
+          <pub-id pub-id-type="doi">10.1021/la804337g</pub-id>
+          <pub-id pub-id-type="pmid">19449815</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18-molbank-2016-M921">
+        <label>18.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Biswas</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Moon</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>Boraty&#x144;ski</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Kwon</surname>
+              <given-names>Y.-U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural sensitivity of peptoid-based low molecular mass organogelator</article-title>
+          <source>Mater. Des.</source>
+          <year>2016</year>
+          <volume>108</volume>
+          <fpage>659</fpage>
+          <lpage>665</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.matdes.2016.07.059</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Scheme</title>
+      <fig id="molbank-2016-M921-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2016-M921-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of <italic>N</italic>-[2-(cyclohexylamino)-2-oxoethyl]-<italic>N</italic>-(4-octyloxy)phenyl-prop-2-enamide.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M921-sch001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M921-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p><sup>1</sup>H-NMR spectra of desired compound (700 MHz, CDCl<sub>3</sub>) at room temperature.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M921-g001.tif"/>
+      </fig>
+      <fig id="molbank-2016-M921-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p><sup>13</sup>C-NMR spectra of desired compound (176 MHz, CDCl<sub>3</sub>) at room temperature.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2016-M921-g002.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

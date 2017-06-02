@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M741</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2011-M741</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>2-(6-Methoxynaphthalen-2-yl)propionic acid (1,3-dimethyl&#xAD;butylidene)hydrazide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mamatha</surname>
+            <given-names>Nakka</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M741" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Babu</surname>
+            <given-names>Nallapati Suresh</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M741" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mukkanti</surname>
+            <given-names>Khagga</given-names>
+          </name>
+          <xref rid="af1-molbank-2011-M741" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pal</surname>
+            <given-names>Sarbani</given-names>
+          </name>
+          <xref rid="af2-molbank-2011-M741" ref-type="aff">2</xref>
+          <xref rid="c1-molbank-2011-M741" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2011-M741"><label>1</label>Centre for chemical Sciences and Technology, Institute of Science &amp; Technology, Jawaharlal Nehru Technological University Hyderabad, Kukatpally, Hyderabad-85, A. P., India</aff>
+      <aff id="af2-molbank-2011-M741"><label>2</label>MNR Degree &amp; PG College, Kukatpally, Hyderabad-72, A. P., India</aff>
+      <author-notes>
+        <corresp id="c1-molbank-2011-M741"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>Sarbani277@yahoo.com</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>10</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>2011</volume>
+      <issue>4</issue>
+      <elocation-id>M741</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>08</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>09</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2011 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The title compound, 2-(6-methoxynaphthalen-2-yl)propionic acid (1,3-dimethyl&#xAD;butylidene)hydrazide was synthesized in high yield by the reaction of 2-(6-methoxy&#xAD;naphthalen-2-yl)propionic acid hydrazide and 4-methylpentan-2-one in PEG 400. This compound was fully characterized by IR, <sup>1</sup>H NMR,&#xA0;mass spectra and elemental analysis. The <italic>in vitro</italic> antibacterial activity of this compound was evaluated against gram positive and gram negative bacteria.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-(6-methoxynaphthalen-2-yl)propionic acid hydrazide</kwd>
+        <kwd>4-methylpentane-2-one</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+      <p>Naproxen (<bold>1</bold>, <bold><xref ref-type="fig" rid="molbank-2011-M741-f001">Figure 1</xref></bold>), [<xref ref-type="bibr" rid="B1-molbank-2011-M741">1</xref>] one of the most regularly used propionic acid derivatives for the treatment of pain, joint swelling and symptoms of arthritis, is believed to work by blocking the action of cyclooxygenase (COX) involved in the production of prostaglandins that are produced in response to injury or certain diseases and cause pain, swelling and inflammation.  However its use is associated with some gastrointestinal side effects possibly caused by the free acidic group present. Masking of this free acidic group therefore was thought to be a possible solution to this problem. </p>
+      <p>Because of their distinctive structural features (characterized by the presence of an azomethine hydrogen) and wide range of pharmacological activities, hydrazones have attracted enormous interest especially in medicinal chemistry [<xref ref-type="bibr" rid="B2-molbank-2011-M741">2</xref>]. This is exemplified by the synthesis and pharmacological evaluation of a large number of hydrazone derivatives against various pharmacological targets [<xref ref-type="bibr" rid="B3-molbank-2011-M741">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2011-M741">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2011-M741">5</xref>]. Hydrazones derived from diclofenac acid hydrazide (<bold>2</bold>, <bold><xref ref-type="fig" rid="molbank-2011-M741-f001">Figure 1</xref></bold>) and naproxen have shown anti-mycobacterial activities when tested <italic>in vitro</italic> [<xref ref-type="bibr" rid="B6-molbank-2011-M741">6</xref>,<xref ref-type="bibr" rid="B8-molbank-2011-M741">8</xref>].</p>
+      <p>We anticipated that combination of structural features of naproxen (<bold>1)</bold> with substituted hydrazones in a single molecule (<bold>A</bold>, R &#x2260; H) (<bold><xref ref-type="scheme" rid="molbank-2011-M741-sch001">Scheme 1</xref></bold>) would provide novel agents of potential pharmacological interest. </p>
+      <p>As solvents play a vital role in performing the majority of organic transformations, we used a simple and widely available nontoxic, non-ionic (aprotic) liquid, inexpensive, less volatile and biologically acceptable polymer, polyethylene glycol (PEG) as alternative solvent medium for our purpose. Performing reactions in such a solvent generally does not produce toxic waste products.</p>
+      <fig id="molbank-2011-M741-sch002" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M741-sch002_Scheme 2</object-id>
+        <label>Scheme 2</label>
+        <caption>
+          <p>Synthesis of the title compound (<bold>6</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M741-sch002.tif"/>
+      </fig>
+      <p>We report the synthesis of 1-aroyl-2-(alkenyl/aryl)idenehydrazine (<bold>6</bold>) as hybrid molecule derived from naproxen (<bold>1</bold>) by straightforward condensation of a key intermediate <italic>i.e.</italic>, naproxen based N-acylhydrazine with the commercially available carbonyl compound, 4-methylpentane-2-one (<bold>5</bold>). Thus, esterification [<xref ref-type="bibr" rid="B7-molbank-2011-M741">7</xref>] of <bold>1</bold> with methanol in the presence of catalytic amounts of concentrated sulphuric acid followed by treating the resulting ester (<bold>3</bold>) with hydrazine hydrate in methanol gave compound <bold>4</bold> in 96% yield [<xref ref-type="bibr" rid="B8-molbank-2011-M741">8</xref>]. The final condensation was performed by stirring an equimolar mixture of 4-methylpentane-2-one (<bold>5</bold>) (1.1 g, 0.011 mol) and 2-(6-methoxynaphthalen-2-yl)propionic acid hydrazide (<bold>4</bold>) (2.44 g, 0.01 mol) in PEG 400 (10 mL) at room temperature for 5 h to afford the solid compound (<bold>6</bold>). The solid was filtered, dried and purified by column chromatography to yield 2.60 g (80%) of compound <bold>6</bold>. The compound exists as a mixture of two rotamers at room temperature as evident from <sup>1</sup>H NMR spectra [<xref ref-type="bibr" rid="B8-molbank-2011-M741">8</xref>]. While the present reaction was carried out using PEG 400 as a solvent, the use of other solvents was also examined. The use of solvents like DMF, DMSO, and THF decreased the product yield. Although use of 1,4-dioxane as a solvent afforded the product in 70% yield after 6 h, its use is not advisable as it is carcinogenic. The synthesized hybrid molecule <bold>6</bold> was tested <italic>in vitro</italic> against various Gram negative and Gram positive bacteria using Amikacin as a standard. The concentration of compound used was 1 mg per mL.</p>
+      <p>Yield of the title compound: 80%; mp: 118&#x2013;120 &#xB0;C; R<sub>f</sub> 0.6 (hexane/ethyl acetate, 6:4). </p>
+      <p>IR (KBr cm<sup>&#x2212;1</sup>): 3198, 3055, 2876, 1673 (CO<sub>amide I</sub>), 1608 (C=N). </p>
+      <p>MS (ES): <italic>m/z</italic> 327 (M<sup>+</sup>, 99%). </p>
+      <p><sup>1</sup>H NMR (400 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; 10.01 (10.00*, s, 1H, NH, D<sub>2</sub>O exchangeable), 7.74 (m, ArH, 4H), 7.40 (m, ArH, 1H), 7.26 (m, ArH, 1H),  4.78 (4.00*, q, 1H, <italic>J</italic> = 8.0 Hz), 3.86 (s, OCH<sub>3</sub>, 3H), 2.05 (d, 2H, <italic>J</italic> = 7.0 Hz), 1.90 (m, 1H), 1.80 (1.78*, s, 3H), 1.42 (m, 3H), 0.82 (0.80*, d,  6H, <italic>J</italic> = 7.2 Hz).</p>
+      <p>[chemical shift (&#x3B4;) values of rotameric &#xB1; hydrogens whenever identified are presented within the parentheses by assigning an asterisk (*)along with that of other form].</p>
+      <p><sup>13</sup>C NMR (100 MHz, DMSO-<italic>d</italic><sub>6</sub>): &#x3B4; 175.2, 169.7, 158.5, 157.0, 151.8, 137.1, 133.1, 133.0, 129.1, 128.9, 128.4, 128.3, 126.8, 126.6, 126.5, 125.7, 125.3, 118.6, 118.4, 105.6, 55.1, 47.5, 47.4, 43.1, 40.4, 25.4, 25.2, 22.4, 22.3, 22.7, 22.1, 18.6, 18.3, 18.2, 16.3, 15.8.</p>
+      <p>Anal. calc. for C<sub>20</sub>H<sub>26</sub>N<sub>2</sub>O<sub>2</sub>.: C, 73.59, H, 8.03, N, 8.58. Found: C, 73.84, H, 8.31, N, 8.34.</p>
+	  <table-wrap id="molbank-2011-M741-t001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M741-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Antibacterial activity of compound <bold>6</bold> against Gram positive and Gram negative bacteria, using Amikacin as standard.</p>
+        </caption>
+        <table>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" style="border-top:solid thin;border-left:solid thin">Code</td>
+              <td align="left" valign="top" style="border:solid thin">Eschirichia Coli</td>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Klebsiella pneumonia</td>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Bacillus subtillis</td>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Staphylococcus aureus </td>
+              <td align="left" valign="top" style="border-top:solid thin;border-bottom:solid thin;border-right:solid thin">Staphylococcus epidermis</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border:solid thin">
+                <bold>6</bold>
+              </td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">+++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">+++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">+++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-left:solid thin;border-right:solid thin">Control</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++++</td>
+              <td align="left" valign="top" style="border-bottom:solid thin;border-right:solid thin">++++</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2011-M741">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2011-M741-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M741-s001-mod.mol">
+   <label>Supplementary File 1</label>
+</supplementary-material>
+        <supplementary-material id="molbank-2011-M741-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M741-s001.mol">
+   <label>Supplementary File 2</label>
+</supplementary-material>
+</app>
+</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The author (S. Pal) thanks Mr. M. N. Raju, the chairman of M. N. R. Educational Trust for his constant encouragement.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2011-M741">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harrington</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Lodewijk</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Large-scale synthetic process for (S)-naproxen by Syntex</article-title>
+          <source>Org. Process Res. Dev.</source>
+          <year>1997</year>
+          <volume>1</volume>
+          <fpage>72</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1021/op960009e</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2011-M741">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rollas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kucukguzel</surname>
+              <given-names>S.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological Activities of Hydrazone Derivatives</article-title>
+          <source>Molecules</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <fpage>1910</fpage>
+          <lpage>1939</lpage>
+          <pub-id pub-id-type="doi">10.3390/12081910</pub-id>
+          <pub-id pub-id-type="pmid">17960096</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2011-M741">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nayyar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent advances in new structural classes of anti-tuberculosis agents</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2005</year>
+          <volume>12</volume>
+          <fpage>1873</fpage>
+          <lpage>1886</lpage>
+          <pub-id pub-id-type="doi">10.2174/0929867054546654</pub-id>
+          <pub-id pub-id-type="pmid">16101507</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2011-M741">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scior</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Garces-Eisele</surname>
+              <given-names>S.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoniazid is not a lead compound for its pyridyl ring derivatives, isonicotinoyl amides, hydrazides, and hydrazones</article-title>
+          <source>Curr. Med. Chem.</source>
+          <year>2006</year>
+          <volume>13</volume>
+          <fpage>2205</fpage>
+          <lpage>2219</lpage>
+          <pub-id pub-id-type="doi">10.2174/092986706777935249</pub-id>
+          <pub-id pub-id-type="pmid">16918349</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2011-M741">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janin</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antituberculosis drugs: Ten years of research</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2007</year>
+          <volume>15</volume>
+          <fpage>2479</fpage>
+          <lpage>2513</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2007.01.030</pub-id>
+          <pub-id pub-id-type="pmid">17291770</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2011-M741">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sriram</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Yogeeswari</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Devakaram</surname>
+              <given-names>R.V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis, <italic>in vitro</italic> and <italic>in vivo</italic> antimycobacterial activities of diclofenac acid hydrazones and amides</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <fpage>3113</fpage>
+          <lpage>3118</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2005.12.042</pub-id>
+          <pub-id pub-id-type="pmid">16412646</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2011-M741">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munoz-Muniz</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Juaristi</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enantioselective protonation of prochiral enolates in the asymmetric synthesis of (S)-naproxen</article-title>
+          <source>Tetrahedron Lett.</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>2023</fpage>
+          <lpage>2026</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0040-4039(03)00217-X</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2011-M741">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mamatha</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Murtuja</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Mathews</surname>
+              <given-names>V.B.F.</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Bhattacharya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Madeleine</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Alok</surname>
+              <given-names>K.M.</given-names>
+            </name>
+            <name>
+              <surname>Syed</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Lakshmi</surname>
+              <given-names>N.M.</given-names>
+            </name>
+            <name>
+              <surname>Mukkanti</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Naproxen and ibuprofen based acyl hydrazone derivatives: Synthesis, structure analysis and cytotoxicity studies</article-title>
+          <source>J. Chem. Pharm. Res.</source>
+          <year>2010</year>
+          <volume>2</volume>
+          <fpage>393</fpage>
+          <lpage>409</lpage>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figure, Scheme</title>
+      <fig id="molbank-2011-M741-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Naproxen and diclofenac acid hydrazide-derived hydrazones.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M741-g001.tif"/>
+      </fig>
+      <fig id="molbank-2011-M741-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2011-M741-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Design of hybrid molecule.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2011-M741-sch001.tif"/>
+      </fig>
+      </sec>
+  </back>
+</article>

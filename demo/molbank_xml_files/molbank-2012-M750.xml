@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" article-type="rapid-communication" dtd-version="2.3">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">molbank</journal-id>
+      <journal-title>Molbank</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">Molbank</abbrev-journal-title>
+      <abbrev-journal-title abbrev-type="pubmed">Molbank</abbrev-journal-title>
+      <issn pub-type="epub">1422-8599</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/M750</article-id>
+      <article-id pub-id-type="publisher-id">molbank-2012-M750</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Short Note</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>4-[(2-Hydroxy-4-pentadecylbenzylidene)amino]-1,5-dimethyl-2-phenyl-1,2-dihydro-3<italic>H</italic>-pyrazol-3-one</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Naganagowda</surname>
+            <given-names>Gadada</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petsom</surname>
+            <given-names>Amorn</given-names>
+          </name>
+          <xref rid="c1-molbank-2012-M750" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-molbank-2012-M750">Research Center for Bioorganic Chemistry, Department of Chemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand; E-Mail: <email>ratna_gowda@yahoo.co.in</email></aff>
+      <author-notes>
+        <corresp id="c1-molbank-2012-M750"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>amorn.p@chula.ac.th</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>02</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>03</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <issue>1</issue>
+      <elocation-id>M750</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>02</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>02</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license>
+          <p>This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).</p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Novel 4-[(2-hydroxy-4-pentadecylbenzylidene)amino]-1,5-dimethyl-2-phenyl-1,2-dihydro-3<italic>H</italic>-pyrazol-3-one was prepared via condensation of 2-hydroxy-4-pentadecylbenzaldehyde (<bold>1</bold>) with 4-amino-1,2-dihydro-2,3-dimethyl-1-phenylpyrazol-5-one (<bold>2</bold>) in ethanol/acetic acid under reflux. The structure of the synthesized compound was assigned on the basis of elemental analysis and spectral data.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>2-hydroxy-4-pentadecylbenzaldehyde</kwd>
+        <kwd>pyrazole</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Pyrazolone and its derivatives form an important class of organic compounds due to their structural chemistry and biological activities as HIV-1 integrase inhibitors, anticancer, anti-inflammatory, antipyretics and anti-oxidant [<xref ref-type="bibr" rid="B1-molbank-2012-M750">1</xref>,<xref ref-type="bibr" rid="B2-molbank-2012-M750">2</xref>,<xref ref-type="bibr" rid="B3-molbank-2012-M750">3</xref>,<xref ref-type="bibr" rid="B4-molbank-2012-M750">4</xref>,<xref ref-type="bibr" rid="B5-molbank-2012-M750">5</xref>]. Even the simplest pyrazolone derivatives like antipyrine and amidopyrine are widely used analgesic medicines [<xref ref-type="bibr" rid="B6-molbank-2012-M750">6</xref>]. In continuation of previous work on 2-hydroxy-4-pentadecylbenzaldehyde compound [<xref ref-type="bibr" rid="B7-molbank-2012-M750">7</xref>], we are reporting here in the synthesis of 4-[(2-hydroxy-4-pentadecylbenzylidene)amino]-1,5-dimethyl-2-phenyl-1,2-dihydro-3<italic>H</italic>-pyrazol-3-one.</p>
+    </sec>
+    <sec>
+      <title>Result and Discussion</title>
+      <p>Cardanol is a mixture of natural alkyl phenols obtained by vacuum distillation of cashew nut shell liquid (CNSL). The structure and composition of cardanol is given in <xref ref-type="fig" rid="molbank-2012-M750-f001">Figure 1</xref>. It is a mixture of saturated and unsaturated (mono-, di-, and tri-) compounds.</p>
+      <p>Cardanol (<bold>1</bold>) is a phenolic compound with a C<sub>15</sub> aliphatic chain in the meta position, obtained from cashew nut shell liquid (CNSL) and then formylation of hydrogenated cardanol using Reimer-Tiemann reaction following a standard procedure [<xref ref-type="bibr" rid="B8-molbank-2012-M750">8</xref>] <xref ref-type="fig" rid="molbank-2012-M750-f002">Figure 2</xref>.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Experimental</title>
+      <p>Melting point was determined in open capillary and is uncorrected. Absorption spectrum was recorded in CHCl<sub>3</sub> by a Hewlett Packard-8453 spectrophotometer. FT-IR spectrum was recorded on a Nicolet Fourier Transform Infrared Spectrophotometer: Impact 410 (Nicolet Instrument Technologies, Inc. WI, USA). <sup>1</sup>H-NMR and <sup>13</sup>C-NMR were obtained in DMSO-<italic>d</italic><sub>6</sub> at 500 MHz for <sup>1</sup>H nuclei and 125 MHz for <sup>13</sup>C nuclei (Bruker Company, Germany). All chemical shifts were reported in parts per million (ppm) using residual proton or carbon signal in deuterated solvents as internal references. Mass spectrum was obtained using matrix-assisted laser desorption ionization mass spectrometry (MALDI-TOF) by using dithranol as a matrix. Elemental analysis (C, H and N) was performed on a Perkin Elmer 2400 analyzer. The purity of the compound was checked by TLC on silica gel and further purification was performed through column chromatography (silica gel, 60&#x2013;120 mesh).</p>
+      <p>A mixture of 2-hydroxy-4-pentadecylbenzaldehyde <bold>1</bold> (1.10 g, 0.003 mol) and 4-amino-1,2-dihydro-2,3-dimethyl-1-phenylpyrazol-5-one <bold>2</bold> (0.60 g, 0.003 mol) in methanol (15 mL) in the presence of glacial acetic acid (1 mL) was refluxed for 3h. After the completion of the reaction (TLC-monitoring), the reaction mixture was cooled down to room temperature and then poured into crushed ice. The precipitate was filtered, dried and recrystallized from methanol. The solid was further purified through column chromatography [silica, petroleum ether/ethyl acetate (50:50)], leading to compound <bold>3</bold> as yellow solid.</p>
+      <p>Yield: 0.90 g (84%).</p>
+      <p>Melting point: 236&#x2013;238 &#xB0;C.</p>
+      <p>&#x3BB;<sub>abs</sub> = 350 nm.</p>
+      <p>LC-MS: <italic>m/z</italic> = 517.93 (M<sup>+</sup>).</p>
+      <p>IR (KBr): &#x3BD;<sub>max</sub> (cm<sup>&#x2212;1</sup>): 3435.69 (O-H str.), 1644.77 (C=O str.), 1595.15 (C=N str.).</p>
+      <p><sup>1</sup>H-NMR (500 MHz, DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; ppm: 12.93 (s, 1H, OH), 9.64 (s, 1H, CH=N), 7.54 (d, <italic>J</italic> = 7.8 Hz, 1H, Ar-H), 7.52 (d, <italic>J</italic> = 7.5 Hz, 1H, Ar-H), 7.37 (m, 3H, Ar-H), 7.33 (d, <italic>J</italic> = 7.7 Hz, 1H, Ar-H), 6.73 (d, <italic>J</italic> = 7.6 Hz, 1H, Ar-H), 6.71 (s, 1H, Ar-H), 3.18 (s, 3H, N-CH<sub>3</sub>), 2.53 (t, <italic>J</italic> = 7.6 Hz, 2H, Ar-CH<sub>2</sub>), 2.38 (s, 3H, C-CH<sub>3</sub>), 1.56&#x2013;1.13 (m, 26H, (CH<sub>2</sub>)<sub>13</sub>), 0.83 (t, <italic>J</italic> = 6.8 Hz, 3H, CH<sub>3</sub>).</p>
+      <p><sup>13</sup>C-NMR (125 MHz, DMSO-<italic>d<sub>6</sub></italic>) &#x3B4; ppm: 157.2, 143.6 (CH=N), 135.0, 132.5, 132.2, 131.8, 131.6, 129.2, 129.0, 125.9, 124.7, 118.8, 115.0, 112.5 (Aromatic carbons), 35.1, 31.2, 30.7, 30.5, 28.9, 28.8, 28.6, 28.6, 28.4, 22.0 (Methylene carbons), 13.8 (CH<sub>3</sub>).</p>
+      <p>Elemental analysis: Calculated for C<sub>33</sub>H<sub>47</sub>N<sub>3</sub>O<sub>2</sub>: C, 76.55%; H, 9.15%; N, 8.12%; found: C, 77.43%; H, 9.10%; N, 8.03%.</p>
+    </sec>
+  </body>
+  <back>
+  <app-group>
+    <app id="app1-molbank-2012-M750">
+        <title>Supplementary materials</title>
+        <supplementary-material id="molbank-2012-M750-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M750-s001-mod.mol">
+		<label>Supplementary File 1</label>
+		</supplementary-material>
+        <supplementary-material id="molbank-2012-M750-s002" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M750-s001.mol">
+		<label>Supplementary File 2</label>
+        </supplementary-material>
+    </app>
+	</app-group>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the Higher Education Research Promotion and National Research University Project of Thailand, Office of the Higher Education Commission (Project No. EN1250B). The post doctoral fellowship grant from the Ratchadapisakesompote Endownment Fund, Chulalongkorn University (G.N.) was gratefully acknowledged.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-molbank-2012-M750">
+        <label>1.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hadi</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>Y.-H.</given-names>
+            </name>
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>T.W.</given-names>
+            </name>
+            <name>
+              <surname>Barrios</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Neamati</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>K.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of the next generation of HIV-1 integrase inhibitors: Pyrazolone as a novel inhibitor scaffold</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>6854</fpage>
+          <lpage>6857</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2010.08.057</pub-id>
+          <pub-id pub-id-type="pmid">20864343</pub-id>
+        </citation>
+      </ref>
+      <ref id="B2-molbank-2012-M750">
+        <label>2.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brana</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Gradillas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ovalles</surname>
+              <given-names>A.G.</given-names>
+            </name>
+            <name>
+              <surname>Lopez</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Acero</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Llinares</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mingarro</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis and biological activity of N,N-dialkylaminoalkyl substituted bisindolyl and diphenyl pyrazolone derivatives</article-title>
+          <source>Bioorg. Med. Chem.</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <fpage>9</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bmc.2005.09.059</pub-id>
+          <pub-id pub-id-type="pmid">16263294</pub-id>
+        </citation>
+      </ref>
+      <ref id="B3-molbank-2012-M750">
+        <label>3.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ismail</surname>
+              <given-names>M.M.F.</given-names>
+            </name>
+            <name>
+              <surname>Ammar</surname>
+              <given-names>Y.A.</given-names>
+            </name>
+            <name>
+              <surname>El-Zahaby</surname>
+              <given-names>H.S.A.</given-names>
+            </name>
+            <name>
+              <surname>Eisa</surname>
+              <given-names>S.I.</given-names>
+            </name>
+            <name>
+              <surname>Barakat</surname>
+              <given-names>S.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of novel 1-pyrazolylpyridin-2-ones as potential anti-inflammatory and analgesic agents</article-title>
+          <source>Arch. Pharm. Life Sci.</source>
+          <year>2007</year>
+          <volume>340</volume>
+          <fpage>476</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="doi">10.1002/ardp.200600197</pub-id>
+          <pub-id pub-id-type="pmid">17647214</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4-molbank-2012-M750">
+        <label>4.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>El-Hawash</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>El-Sayed</surname>
+              <given-names>A.M.B.</given-names>
+            </name>
+            <name>
+              <surname>El-Ashmawey</surname>
+              <given-names>I.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonsteroidal anti-inflammatory agents-part-2 anti-inflammatory, analgesic and antipyretic activity of some substituted 3-pyrazolin- 5-ones and 1,2,4,5,6,7-3H-hexahydroindazol-3-ones</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2006</year>
+          <volume>41</volume>
+          <fpage>155</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2005.09.006</pub-id>
+          <pub-id pub-id-type="pmid">16375992</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5-molbank-2012-M750">
+        <label>5.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manojkumar</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Ravi</surname>
+              <given-names>T.K.</given-names>
+            </name>
+            <name>
+              <surname>Gopalakrishnan</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant and antibacterial studies of arylazopyrazoles and arylhydrazonopyrazolones containing coumarin moiety</article-title>
+          <source>Eur. J. Med. Chem.</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>4690</fpage>
+          <lpage>4694</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejmech.2009.07.004</pub-id>
+          <pub-id pub-id-type="pmid">19646797</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6-molbank-2012-M750">
+        <label>6.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Filho</surname>
+              <given-names>V.C.</given-names>
+            </name>
+            <name>
+              <surname>Correa</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Vaz</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Calixto</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>Nunes</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Pinheiro</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Andricopulo</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <name>
+              <surname>Yunes</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Further studies on analgesic activity of cyclic imides</article-title>
+          <source>Farmaco</source>
+          <year>1998</year>
+          <volume>53</volume>
+          <fpage>55</fpage>
+          <lpage>57</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0014-827X(97)00006-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7-molbank-2012-M750">
+        <label>7.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gadada</surname>
+              <given-names>Naganagowda</given-names>
+            </name>
+            <name>
+              <surname>Amorn</surname>
+              <given-names>Petsom</given-names>
+            </name>
+          </person-group>
+          <article-title>4-Amino-<italic>N</italic>-(2-hydroxy-4-pentadecylbenzylidene) benzenesulfonamide</article-title>
+          <source>Molbank</source>
+          <year>2011</year>
+          <volume>2011</volume>
+          <fpage>M739</fpage>
+        </citation>
+      </ref>
+      <ref id="B8-molbank-2012-M750">
+        <label>8.</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Payne</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Tyman</surname>
+              <given-names>J.H.P.</given-names>
+            </name>
+            <name>
+              <surname>Mehet</surname>
+              <given-names>S.K.</given-names>
+            </name>
+            <name>
+              <surname>Ninagawa</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthesis of 2-hydroxymethyl derivatives of phenols</article-title>
+          <source>J. Chem. Res.</source>
+          <year>2006</year>
+          <volume>37</volume>
+          <fpage>402</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.3184/030823406777946752</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Scheme</title>
+      <fig id="molbank-2012-M750-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Structure and composition of cardanol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M750-g001.tif"/>
+      </fig>
+      <fig id="molbank-2012-M750-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Synthesis of cardanol.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M750-g002.tif"/>
+      </fig>
+      <fig id="molbank-2012-M750-sch001" position="float">
+        <object-id pub-id-type="pii">molbank-2012-M750-sch001_Scheme 1</object-id>
+        <label>Scheme 1</label>
+        <caption>
+          <p>Synthesis of 4-[(2-hydroxy-4-pentadecylbenzylidene)amino]-1,5-dimethyl-2-phenyl-1,2-dihydro-3<italic>H</italic>-pyrazol-3-one (<bold>3</bold>).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="molbank-2012-M750-sch001.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>
