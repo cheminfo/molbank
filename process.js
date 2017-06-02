@@ -17,6 +17,7 @@ const folder = process.argv.includes('--demo') ? 'demo' : 'data';
 const dataDir = path.join(__dirname, folder, 'xml');
 const resultDir = path.join(__dirname, folder, 'json');
 mkdirp.sync(resultDir);
+mkdirp.sync(path.join(__dirname, 'out'));
 
 const dataList = fs.readdirSync(dataDir);
 const resultList = fs.readdirSync(resultDir);
@@ -43,5 +44,5 @@ bluebird.coroutine(function* run() {
         }
     }
 
-    fs.writeFileSync(path.join(__dirname, 'data.json'), JSON.stringify(result));
+    fs.writeFileSync(path.join(__dirname, 'out', 'data.json'), JSON.stringify(result));
 })();
