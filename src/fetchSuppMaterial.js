@@ -1,21 +1,22 @@
 'use strict';
 
+const bluebird = require('bluebird');
 const request = require('request-promise');
 const OCL = require('openchemlib/minimal');
 const Chemcalc = require('chemcalc');
 
-module.exports = async function fetchSuppMaterial(article) {
+module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
     const info = {};
     for (const file of article.suppMaterial) {
         // mol3d
         if (file.name.endsWith('-mod.mol')) {
-            const molData = await fetchMolfile(file.url);
+            const molData = yield fetchMolfile(file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol3d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
         } else if (file.name.endsWith('.mol')) {
-            const molData = await fetchMolfile(file.url);
+            const molData = yield fetchMolfile(file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol2d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
@@ -25,12 +26,12 @@ module.exports = async function fetchSuppMaterial(article) {
         }
     }
     return info;
-};
+});
 
-async function fetchMolfile(url) {
+const fetchMolfile = bluebird.coroutine(function* fetchMolfile(url) {
     let molfile;
     try {
-        molfile = await request.get(url);
+        molfile = yield request.get(url);
     } catch (e) {
         console.error('Could not get the resource: ' + url);
         return;
@@ -40,7 +41,7 @@ async function fetchMolfile(url) {
         return;
     }
     return getMolData(molfile, url);
-}
+});
 
 function getMolData(molfile, url) {
     try {

@@ -6,6 +6,7 @@ process.on('unhandledRejection', (e) => {
 
 const fs = require('fs');
 const path = require('path');
+const bluebird = require('bluebird');
 
 const parseXml = require('./src/parseXml');
 const fetchSuppMaterial = require('./src/fetchSuppMaterial');
@@ -15,14 +16,14 @@ const dataList = fs.readdirSync(dataDir);
 
 const output = process.argv[2] || 'test.json';
 
-(async function run() {
+bluebird.coroutine(function* run() {
     const result = [];
 
     for (const file of dataList) {
         const data = fs.readFileSync(path.join(__dirname, dataDir, file), 'utf8');
         const article = parseXml(data);
         if (article) {
-            const info = await fetchSuppMaterial(article);
+            const info = yield fetchSuppMaterial(article);
             result.push({article, info});
         }
     }
