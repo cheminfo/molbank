@@ -8,15 +8,16 @@ const Chemcalc = require('chemcalc');
 module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
     const info = {};
     for (const file of article.suppMaterial) {
+        const fileData = yield fetchFile(file.url);
         // mol3d
-        if (file.name.endsWith('-mod.mol')) {
-            const molData = yield fetchMolfile(file.url);
+        if (fileData.filename.endsWith('-mod.mol')) {
+            const molData = getMolData(fileData.body, file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol3d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
-        } else if (file.name.endsWith('.mol')) {
-            const molData = yield fetchMolfile(file.url);
+        } else if (fileData.filename.endsWith('.mol')) {
+            const molData = getMolData(fileData.body, file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol2d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
@@ -26,23 +27,39 @@ module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
     if (info.mol2d) {
         return info;
     } else {
+        console.error('Missing mol2d: ' + article.publisherId);
         return null;
     }
 });
 
-const fetchMolfile = bluebird.coroutine(function* fetchMolfile(url) {
-    let molfile;
+const fetchFile = bluebird.coroutine(function* fetchFile(url) {
+    let requestResult;
     try {
-        molfile = yield request.get(url);
+        requestResult = yield request.get(url, {resolveWithFullResponse: true});
     } catch (e) {
         console.error('Could not get the resource: ' + url);
         return;
     }
-    if (molfile.includes('Error 404 - File not found')) {
+    const body = requestResult.body;
+    if (body.includes('Error 404 - File not found')) {
         console.error('File not found: ' + url);
         return;
     }
-    return getMolData(molfile, url);
+    const header = requestResult.headers['content-disposition'];
+    if (!header) {
+        console.error('Missing content-disposition header: ' + url);
+        return;
+    }
+    const filenameIdx = header.indexOf('filename=');
+    if (!filenameIdx) {
+        console.error('Could not find filename: ' + url);
+        return;
+    }
+    const filename = header.substring(filenameIdx + 10, header.length - 1);
+    return {
+        filename,
+        body
+    };
 });
 
 function getMolData(molfile, url) {
