@@ -8,16 +8,18 @@ const Chemcalc = require('chemcalc');
 module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
     const info = {};
     for (const file of article.suppMaterial) {
-        const fileData = yield fetchFile(file.url);
+        const filename = file.name;
         // mol3d
-        if (fileData.filename.endsWith('-mod.mol')) {
-            const molData = getMolData(fileData.body, file.url);
+        if (filename.endsWith('-mod.mol')) {
+            const fileData = yield fetchFile(file.url);
+            const molData = getMolData(fileData, file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol3d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
-        } else if (fileData.filename.endsWith('.mol')) {
-            const molData = getMolData(fileData.body, file.url);
+        } else if (filename.endsWith('.mol')) {
+            const fileData = yield fetchFile(file.url);
+            const molData = getMolData(fileData, file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol2d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
@@ -45,21 +47,7 @@ const fetchFile = bluebird.coroutine(function* fetchFile(url) {
         console.error('File not found: ' + url);
         return;
     }
-    const header = requestResult.headers['content-disposition'];
-    if (!header) {
-        console.error('Missing content-disposition header: ' + url);
-        return;
-    }
-    const filenameIdx = header.indexOf('filename=');
-    if (!filenameIdx) {
-        console.error('Could not find filename: ' + url);
-        return;
-    }
-    const filename = header.substring(filenameIdx + 10, header.length - 1);
-    return {
-        filename,
-        body
-    };
+    return body;
 });
 
 function getMolData(molfile, url) {
