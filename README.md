@@ -21,6 +21,9 @@ Example:
 node generate --directory=data/xml
 ```
 
+The script will output error lines to stderr if a molfile is not found or invalid.
+This does not prevent the output from being created.
+
 ## Publish updated data to GitHub
 
 After generating the data files, follow these steps to publish them to GitHub:
