@@ -54,7 +54,7 @@ bluebird.coroutine(function* run() {
         toWrite.push(JSON.stringify(article));
     }
     
-    fs.writeFileSync(path.join(outDir, 'data.json'), `[\n${toWrite.join(',\n')}\n]`);
+    fs.writeFileSync(path.join(outDir, 'molbank-data.json'), `[\n${toWrite.join(',\n')}\n]`);
 
     const dataSdf = result.map((el) => {
         return {
@@ -64,9 +64,9 @@ bluebird.coroutine(function* run() {
         }
     });
     const sdf = sdfCreator(dataSdf);
-    fs.writeFileSync(path.join(outDir, 'data.sdf'), sdf.sdf);
+    fs.writeFileSync(path.join(outDir, 'molbank-data.sdf'), sdf.sdf);
 
-    console.log(`generated data.json and data.sdf in ${outDir}`);
+    console.log(`generated molbank-data.json and molbank-data.sdf in ${outDir}`);
 })();
 
 function die(message) {

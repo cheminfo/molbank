@@ -10,9 +10,10 @@ https://www.cheminfo.org/flavor/molbank/
 After updating the repository, always run `npm install` to make sure dependencies
 are up-to-date.
 
-## Generate data.json
+## Generate data files
 
-To generate the data files, call the `generate` script with the following arguments:
+To generate the data files (molbank-data.json and molbank-data.sdf), call the
+`generate` script with the following arguments:
 - `directory`: path to the directory containing the XML files
 - `out`: path to the directory to write the data files (defaults to "out").
 
