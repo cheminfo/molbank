@@ -2,7 +2,6 @@
   "name": "molbank",
   "version": "1.0.0",
   "description": "",
-  "main": "analyze.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,9 +16,8 @@
     "openchemlib": "^5.2.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
-    "xmldom": "^0.1.27"
-  },
-  "engines": {
-    "node": ">= 7.6.0"
+    "sdf-creator": "^2.0.0",
+    "xmldom": "^0.1.27",
+    "yargs": "^10.0.3"
   }
 }

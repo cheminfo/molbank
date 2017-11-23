@@ -10,18 +10,19 @@ module.exports = bluebird.coroutine(function* fetchSuppMaterial(article) {
     for (const file of article.suppMaterial) {
         const filename = file.name;
         // mol3d
-        if (filename.endsWith('-mod.mol')) {
+        if (filename.endsWith('-mod.mol') && !info.mol3d) {
             const fileData = yield fetchFile(file.url);
             const molData = getMolData(fileData, file.url);
             if (molData) {
                 addMolData(info, molData);
                 info.mol3d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
-        } else if (filename.endsWith('.mol')) {
+        } else if (filename.endsWith('.mol') && !info.mol2d) {
             const fileData = yield fetchFile(file.url);
             const molData = getMolData(fileData, file.url);
             if (molData) {
                 addMolData(info, molData);
+                Object.defineProperty(info, 'molfile', {enumerable: false, value: molData.molfile});
                 info.mol2d = {type: 'oclID', value: molData.oclId, coordinates: molData.oclCoordinates};
             }
         }
@@ -56,6 +57,7 @@ function getMolData(molfile, url) {
         const mf = ocl.getMolecularFormula().formula;
         const chemcalc = Chemcalc.analyseMF(mf);
         return {
+            molfile,
             smiles: ocl.toSmiles(),
             mf: chemcalc.mf,
             mw: chemcalc.mw,

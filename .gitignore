@@ -1,4 +1,2 @@
-node_modules
-test.json
-data
-out/data.json
+/node_modules/
+/data/
